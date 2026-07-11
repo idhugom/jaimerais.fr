@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import PostCard from '../components/PostCard.astro';
-import { getCatalog, getReadyPosts, readySlugs } from '../lib/data.mjs';
+import { getCatalog, getReadyPosts, readySlugs, postUrl } from '../lib/data.mjs';
 
 const ready = getReadyPosts();
 const readySet = readySlugs();
@@ -42,14 +42,14 @@ const marquee = ['voyager', 'aimer', 'cuisiner', 'rêver', 'apprendre', 'oser', 
             Explorer les envies
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg>
           </a>
-          <a href={`/${featured.slug}`} class="btn ghost">Le coup de cœur du moment</a>
+          <a href={postUrl(featured.slug)} class="btn ghost">Le coup de cœur du moment</a>
         </div>
         <p class="hero__count reveal in" data-delay="160"><strong>{total.toLocaleString('fr-FR')}</strong> envies déjà explorées ♥</p>
       </div>
 
       <div class="hero__collage" aria-hidden="true">
         {feed.slice(0, 3).map((p, i) => (
-          <a href={`/${p.slug}`} class={`hero__thumb hero__thumb--${i + 1}`} data-tilt>
+          <a href={postUrl(p.slug)} class={`hero__thumb hero__thumb--${i + 1}`} data-tilt>
             {p.image?.thumb && <img src={p.image.thumb} alt="" loading="eager" width="680" height="453" />}
             <span class="hero__thumb-heart">♥</span>
           </a>
@@ -80,7 +80,7 @@ const marquee = ['voyager', 'aimer', 'cuisiner', 'rêver', 'apprendre', 'oser', 
         <p class="eyebrow">Coup de cœur</p>
         <h2>L'envie à ne pas manquer</h2>
       </div>
-      <a href={`/${featured.slug}`} class="featured reveal" data-tilt>
+      <a href={postUrl(featured.slug)} class="featured reveal" data-tilt>
         <div class="featured__media">
           {featured.image?.local && <img src={featured.image.local} alt={featured.image?.alt || featured.title} loading="lazy" width="1280" height="853" />}
           <span class="featured__badge">♥ Coup de cœur</span>

@@ -50,17 +50,12 @@ const base = `http://localhost:${port}`;
 console.log('serving on', base);
 
 // Viewport captures at specific scroll offsets (avoids fullPage stitching artifacts).
-const art = '/location-voiture-retour-domicile/';
+const art = '/conseils/location-voiture-retour-domicile.html';
 const shots = [
-  { url: '/', name: 'v-home-top', w: 1440, h: 900, y: 0 },
-  { url: '/', name: 'v-home-featured', w: 1440, h: 900, y: 780 },
-  { url: '/', name: 'v-home-wall', w: 1440, h: 900, y: 1900 },
-  { url: '/', name: 'v-home-mobile-top', w: 390, h: 844, y: 0 },
-  { url: '/conseils/', name: 'v-conseils-top', w: 1440, h: 900, y: 0 },
-  { url: art, name: 'v-art-top', w: 1440, h: 900, y: 0 },
-  { url: art, name: 'v-art-mid', w: 1440, h: 900, y: 1500 },
-  { url: art, name: 'v-art-mid2', w: 1440, h: 900, y: 2600 },
-  { url: art, name: 'v-art-faq', w: 1440, h: 900, y: 4200 },
+  { url: '/', name: 'r-home-top', w: 1440, h: 900, y: 0 },
+  { url: '/conseils', name: 'r-conseils-top', w: 1440, h: 900, y: 0 },
+  { url: art, name: 'r-art-top', w: 1440, h: 900, y: 0 },
+  { url: art, name: 'r-art-compare', w: 1440, h: 900, y: 3400 },
 ];
 
 const browser = await chromium.launch({ executablePath: EXE, args: ['--no-sandbox'] });

@@ -1,0 +1,263 @@
+{
+  "title": "Comment calculer le coût d'un crédit : intérêts, TAEG, assurance et frais",
+  "meta_description": "Calculez le coût réel d'un crédit : mensualités, intérêts, assurance, frais et TAEG, avec formule, exemple et conseils pour comparer les offres.",
+  "reading_time_min": 10,
+  "hero_intro": "Le taux affiché sur une publicité ne suffit pas à connaître le vrai prix d'un emprunt. Entre les intérêts, l'assurance, les frais de dossier et parfois la garantie, un crédit peut coûter sensiblement plus que prévu. Voici comment calculer son coût total, lire une offre de prêt et comparer deux financements sans vous laisser tromper par la seule mensualité.",
+  "key_takeaways": [
+    "Le coût total d'un crédit correspond aux intérêts auxquels s'ajoutent les frais obligatoires, l'assurance éventuelle et les coûts de garantie.",
+    "La formule d'une mensualité permet d'estimer un prêt à taux fixe, mais le tableau d'amortissement de l'offre reste la référence.",
+    "Le TAEG est l'indicateur le plus utile pour comparer des crédits de même montant et de même durée, car il intègre les coûts obligatoires connus.",
+    "Allonger la durée baisse la mensualité, mais augmente généralement le montant total des intérêts payés.",
+    "Une assurance facultative, des frais d'incident ou un remboursement anticipé peuvent modifier le coût réellement supporté."
+  ],
+  "toc": [
+    "Ce que recouvre réellement le coût d'un crédit",
+    "Les chiffres à vérifier avant de signer",
+    "La formule pour calculer une mensualité et les intérêts",
+    "Exemple de calcul d'un crédit amortissable",
+    "TAEG, taux débiteur et coût total : ne pas les confondre",
+    "Taux fixe ou taux variable : quel risque acceptez-vous ?",
+    "L'effet du taux et de la durée sur le prix du crédit",
+    "Comment comparer deux offres de prêt efficacement",
+    "Les erreurs qui font sous-estimer le coût d'un emprunt"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Ce que recouvre réellement le coût d'un crédit",
+      "html": "<p>Emprunter 10 000 € ne signifie pas rembourser 10 000 €. Le <strong>coût du crédit</strong> est la somme versée en plus du capital emprunté pour obtenir et utiliser ce financement. Dans un crédit amortissable classique, il est composé en premier lieu des intérêts : ils rémunèrent le prêteur et sont calculés sur le capital qu'il reste à rembourser.</p><p>À ces intérêts peuvent s'ajouter des frais de dossier, le coût d'une assurance emprunteur, des frais de courtage lorsqu'ils sont exigés pour obtenir le prêt, ou encore des frais de garantie dans l'immobilier. Le <strong>montant total dû</strong> est donc égal au capital emprunté augmenté de tous ces coûts. Les frais liés à un incident de paiement, comme les pénalités de retard, ne font pas partie du coût prévisible initial : ils peuvent néanmoins renchérir lourdement un crédit en cas de difficulté.</p><p>Une mensualité n'est pas un coût en elle-même : c'est le montant payé chaque mois. Elle contient une part de capital remboursé et une part d'intérêts. Au début du prêt, la part d'intérêts est généralement plus importante ; elle diminue au fil des échéances à mesure que le capital restant dû baisse.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les chiffres à repérer sur une offre de crédit",
+      "points": [
+        "Le capital emprunté : la somme effectivement prêtée, hors ou avec frais financés selon le montage.",
+        "Le taux débiteur nominal : le taux servant au calcul des intérêts, sans englober tous les frais.",
+        "Le TAEG : le taux annuel effectif global, qui agrège les coûts obligatoires connus du crédit.",
+        "La durée et le nombre d'échéances : deux prêts au même taux ne coûtent pas la même chose s'ils ne durent pas aussi longtemps.",
+        "Le montant et la périodicité des mensualités, ainsi que le total des sommes dues.",
+        "Les conditions d'assurance, de modulation d'échéance et de remboursement anticipé."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les composantes du coût d'un emprunt",
+      "intro": "Avant de comparer des offres, identifiez ce que chaque ligne représente. Certaines dépenses sont systématiquement prévues, d'autres dépendent de votre situation ou de vos choix.",
+      "columns": [
+        "Élément",
+        "À quoi sert-il ?",
+        "Est-il inclus dans le TAEG ?"
+      ],
+      "rows": [
+        [
+          "Intérêts",
+          "Rémunèrent le prêt sur le capital restant dû.",
+          "Oui."
+        ],
+        [
+          "Frais de dossier",
+          "Couvrent l'étude et la mise en place du financement.",
+          "Oui, s'ils sont exigés pour obtenir le crédit."
+        ],
+        [
+          "Assurance emprunteur",
+          "Protège, selon les garanties, en cas de décès, invalidité, incapacité ou perte d'emploi.",
+          "Oui lorsqu'elle est obligatoire pour l'obtention du prêt ; sinon, à comparer séparément."
+        ],
+        [
+          "Frais de garantie",
+          "Caution, hypothèque ou autre sûreté, surtout en crédit immobilier.",
+          "Oui lorsqu'ils sont imposés par le prêteur et connus."
+        ],
+        [
+          "Frais de courtage",
+          "Rémunèrent l'intermédiaire qui vous accompagne.",
+          "Oui s'ils sont obligatoires et connus du prêteur."
+        ],
+        [
+          "Retards et incidents",
+          "Peuvent inclure intérêts de retard, indemnités ou frais de rejet.",
+          "Non : ils ne sont pas prévisibles dans le coût initial."
+        ]
+      ],
+      "note": "Le détail exact figure dans l'offre de prêt, la fiche d'information et, pour un prêt amortissable, le tableau d'amortissement."
+    },
+    {
+      "type": "prose",
+      "heading": "La formule pour calculer une mensualité et les intérêts",
+      "html": "<p>Pour un crédit amortissable à <strong>taux fixe</strong> avec des mensualités constantes, la mensualité hors assurance peut être estimée avec la formule suivante : <strong>M = C × i / [1 − (1 + i)^−n]</strong>. M représente la mensualité, C le capital emprunté, i le taux mensuel et n le nombre total de mensualités.</p><p>Si le taux débiteur annuel est de 6 %, le taux mensuel utilisé dans une simulation simple est souvent de 6 % ÷ 12, soit 0,5 % ou 0,005. Pour 48 mensualités, n est égal à 48. Une fois la mensualité calculée, vous obtenez les <strong>intérêts totaux hors frais et assurance</strong> avec cette opération : mensualité × nombre d'échéances − capital emprunté.</p><p>Cette formule donne une excellente estimation pour comprendre un prêt classique, mais elle ne remplace pas les documents contractuels. Les modalités exactes de calcul, les dates de déblocage, une première échéance décalée ou des échéances non mensuelles peuvent créer de légers écarts. Pour connaître ce que vous paierez réellement, vérifiez toujours le montant total dû et le tableau d'amortissement remis par le prêteur.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Exemple : calculer le coût d'un prêt de 10 000 € sur 4 ans",
+      "intro": "Prenons un crédit de 10 000 €, remboursé en 48 mensualités, avec un taux débiteur fixe de 6 % par an. L'exemple est volontairement simplifié et exclut d'abord assurance et frais.",
+      "steps": [
+        {
+          "title": "Transformer le taux annuel en taux mensuel",
+          "html": "<p>6 % ÷ 12 = 0,5 % par mois, soit <strong>0,005</strong> dans la formule. Le nombre d'échéances est de 48.</p>"
+        },
+        {
+          "title": "Calculer la mensualité hors assurance",
+          "html": "<p>En appliquant la formule, on obtient une mensualité d'environ <strong>234,85 €</strong>. Ce montant comprend à chaque fois une fraction de capital et une fraction d'intérêts.</p>"
+        },
+        {
+          "title": "Calculer le total remboursé",
+          "html": "<p>234,85 € × 48 = environ <strong>11 272,80 €</strong>. Le total varie légèrement selon les règles d'arrondi de l'établissement.</p>"
+        },
+        {
+          "title": "Isoler les intérêts",
+          "html": "<p>11 272,80 € − 10 000 € = environ <strong>1 272,80 € d'intérêts</strong>, hors assurance et frais.</p>"
+        },
+        {
+          "title": "Ajouter les autres coûts prévus",
+          "html": "<p>Avec, par exemple, 100 € de frais de dossier et 120 € d'assurance sur toute la durée, le coût prévisible passe à environ <strong>1 492,80 €</strong> et le montant total dû à environ 11 492,80 €.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention : une mensualité basse peut coûter cher",
+      "html": "<p>Réduire la mensualité en allongeant la durée peut soulager votre budget mensuel, mais les intérêts courent plus longtemps. Ne comparez jamais deux crédits à partir de la mensualité seule : regardez aussi la durée, le TAEG et le montant total dû.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Taux débiteur, TAEG et coût total : trois repères complémentaires",
+      "intro": "Ces notions sont liées, mais elles ne répondent pas à la même question. Les confondre peut fausser une comparaison.",
+      "left": {
+        "title": "Taux débiteur nominal",
+        "points": [
+          "Il sert principalement à calculer les intérêts du prêt.",
+          "Il est utile pour comprendre le mécanisme des mensualités.",
+          "Il n'intègre pas, à lui seul, les frais de dossier, l'assurance obligatoire ou la garantie.",
+          "Un taux débiteur faible ne garantit donc pas toujours l'offre la moins chère."
+        ]
+      },
+      "right": {
+        "title": "TAEG et montant total dû",
+        "points": [
+          "Le TAEG exprime le coût annuel global du crédit en intégrant les frais obligatoires connus.",
+          "Il permet de comparer des offres de même montant et de même durée sur une base plus complète.",
+          "Le montant total dû vous indique la somme en euros que vous paierez selon le scénario prévu.",
+          "Les options facultatives et les incidents de paiement doivent être examinés à part."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Pourquoi le TAEG est le bon point de départ pour comparer",
+      "html": "<p>Le <strong>taux annuel effectif global</strong>, ou TAEG, est conçu pour rendre les offres comparables. Il prend en compte le taux débiteur et les frais nécessaires à l'obtention du crédit lorsqu'ils sont connus : frais de dossier, coûts d'une garantie imposée, frais de courtage obligatoires et assurance exigée par le prêteur, par exemple. Il est particulièrement utile si deux banques affichent des taux nominaux proches mais appliquent des frais différents.</p><p>Le TAEG ne dispense pas de lire le détail de l'offre. Une assurance facultative peut être pertinente pour votre protection sans être incluse dans le TAEG ; dans ce cas, demandez son coût en euros sur toute la durée et ajoutez-le à votre budget. De même, des frais de notaire liés à l'achat d'un bien immobilier ne constituent pas le coût du crédit à proprement parler et doivent être budgétés séparément.</p><p>Pour comparer honnêtement deux prêts, alignez les paramètres : même somme empruntée, même durée, même profil d'assurance et mêmes garanties. Si l'un des prêts finance les frais ou prévoit un apport différent, regardez à la fois le TAEG et le montant total réellement sorti de votre poche.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "L'impact du taux et de la durée sur un prêt de 10 000 €",
+      "intro": "Ces simulations indicatives supposent des mensualités constantes, sans assurance ni frais. Elles montrent pourquoi le coût doit être analysé avec la mensualité.",
+      "columns": [
+        "Taux débiteur annuel",
+        "Durée",
+        "Mensualité estimée",
+        "Intérêts estimés"
+      ],
+      "rows": [
+        [
+          "4 %",
+          "48 mois",
+          "Environ 225,80 €",
+          "Environ 838 €"
+        ],
+        [
+          "6 %",
+          "48 mois",
+          "Environ 234,85 €",
+          "Environ 1 273 €"
+        ],
+        [
+          "8 %",
+          "48 mois",
+          "Environ 244,00 €",
+          "Environ 1 712 €"
+        ],
+        [
+          "6 %",
+          "36 mois",
+          "Environ 304,10 €",
+          "Environ 948 €"
+        ],
+        [
+          "6 %",
+          "60 mois",
+          "Environ 193,35 €",
+          "Environ 1 601 €"
+        ]
+      ],
+      "note": "Les chiffres sont arrondis et n'incluent ni assurance ni frais. Le tableau d'amortissement de l'offre fait foi."
+    },
+    {
+      "type": "comparison",
+      "heading": "Crédit à taux fixe ou à taux variable : stabilité contre incertitude",
+      "intro": "Le meilleur choix ne dépend pas uniquement de votre dossier : il dépend surtout de votre capacité à absorber une variation de mensualité et de vos conditions contractuelles.",
+      "left": {
+        "title": "Taux fixe",
+        "points": [
+          "La mensualité hors assurance et le taux restent connus dès la signature.",
+          "Il facilite la construction d'un budget sur le long terme.",
+          "Il protège contre une hausse des taux pendant la période fixée.",
+          "Il peut être moins flexible selon les contrats et les conditions de renégociation."
+        ]
+      },
+      "right": {
+        "title": "Taux variable ou révisable",
+        "points": [
+          "Le taux peut évoluer selon un indice de référence et les règles prévues au contrat.",
+          "Il peut baisser, mais aussi augmenter : le coût final n'est pas connu à l'avance.",
+          "Vérifiez la fréquence de révision, le plafond éventuel, la durée et l'effet sur les mensualités.",
+          "Une simulation doit prévoir un scénario défavorable, pas seulement le taux de départ."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le test simple avant de vous engager",
+      "html": "<p>Calculez votre budget avec la mensualité prévue, puis avec une marge de sécurité. Pour un taux variable, demandez une simulation en cas de hausse. Pour tout crédit, vérifiez que la mensualité totale, assurance comprise, reste supportable même si une dépense imprévue survient.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Comment comparer deux offres de prêt efficacement",
+      "html": "<p>Commencez par demander le <strong>même financement</strong> à chaque interlocuteur : même capital, même durée et, si possible, mêmes garanties. Relevez ensuite le TAEG, le montant de chaque mensualité assurance comprise, le coût total de l'assurance, les frais uniques et le montant total dû. Cette méthode évite qu'une offre paraisse attractive seulement parce que sa durée est plus longue ou que certains frais sont présentés à part.</p><p>Regardez aussi la souplesse du contrat. La possibilité de moduler les échéances, de reporter une mensualité ou de rembourser plus tôt peut avoir de la valeur, mais elle est encadrée par des conditions précises. Un remboursement anticipé réduit en principe les intérêts futurs, mais une indemnité peut être prévue dans les limites applicables. Lisez cette clause avant de considérer le crédit comme facilement remboursable par avance.</p><p>Enfin, n'empruntez pas automatiquement le maximum proposé. Un apport plus important, une durée un peu plus courte ou le remboursement d'un crédit existant peuvent diminuer le coût global. L'objectif n'est pas d'obtenir la mensualité la plus basse possible, mais un financement dont le coût et le rythme de remboursement restent cohérents avec votre situation.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les erreurs qui font sous-estimer le coût d'un emprunt",
+      "html": "<p>La première erreur consiste à ne regarder que le taux d'appel ou la mensualité. Une offre à 190 € par mois peut sembler plus douce qu'une offre à 230 €, tout en revenant plus cher si elle s'étale sur beaucoup plus longtemps. La deuxième est d'oublier l'assurance, surtout pour un prêt immobilier : son coût total peut représenter une part notable du financement selon l'âge, les garanties et le mode de calcul choisi.</p><p>Évitez également de confondre <strong>taux fixe</strong> et coût figé. Même avec un taux fixe, le coût final peut évoluer si vous ajoutez une assurance facultative, modifiez les échéances lorsque le contrat l'autorise, remboursez par anticipation ou subissez des incidents de paiement. À l'inverse, le coût d'un taux variable ne peut pas être connu avec certitude dès le départ.</p><p>Gardez enfin une trace écrite de vos calculs et comparez-les à l'offre officielle. Si un chiffre vous paraît incompréhensible, demandez une explication sur la base du tableau d'amortissement : vous devez savoir ce que vous remboursez, pendant combien de temps et à quel coût total avant de signer.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment calculer les intérêts d'un crédit ?",
+      "a_html": "<p>Pour un crédit amortissable à mensualités fixes, calculez d'abord la mensualité à partir du capital, du taux périodique et de la durée. Multipliez ensuite cette mensualité par le nombre d'échéances, puis retirez le capital emprunté : vous obtenez les intérêts totaux hors assurance et frais.</p><p>La formule donne une estimation fiable pour un taux fixe. Le tableau d'amortissement fourni avec l'offre permet de connaître, échéance par échéance, la part exacte d'intérêts et de capital.</p>"
+    },
+    {
+      "q": "Quelle est la différence entre le taux d'intérêt et le TAEG ?",
+      "a_html": "<p>Le taux d'intérêt, aussi appelé taux débiteur nominal, sert au calcul des intérêts du prêt. Le TAEG va plus loin : il intègre les intérêts et les frais obligatoires connus nécessaires pour obtenir le crédit.</p><p>Pour comparer deux offres similaires, le TAEG est donc généralement plus parlant. Vérifiez toutefois si l'assurance est obligatoire ou facultative, car son traitement peut modifier la comparaison.</p>"
+    },
+    {
+      "q": "L'assurance emprunteur est-elle comprise dans le coût du crédit ?",
+      "a_html": "<p>Oui, elle doit être intégrée à votre calcul de coût total dès lors que vous la souscrivez. Lorsqu'elle est imposée pour obtenir le prêt, son coût est en principe pris en compte dans le TAEG. Si elle est facultative, elle peut être présentée séparément.</p><p>Demandez toujours le coût total de l'assurance sur la durée, pas seulement sa cotisation mensuelle. Vérifiez également si elle est calculée sur le capital initial ou sur le capital restant dû, car cela influence son évolution.</p>"
+    },
+    {
+      "q": "Comment connaître le coût total d'un crédit immobilier ?",
+      "a_html": "<p>Additionnez les intérêts, l'assurance emprunteur, les frais de dossier, les frais de garantie et les éventuels frais de courtage obligatoires. Comparez ce total avec le montant total dû indiqué dans l'offre de prêt.</p><p>Ne mélangez pas ce coût avec le budget global de l'achat : les frais de notaire, les travaux, le déménagement ou les charges de copropriété sont des dépenses liées au projet immobilier, mais pas nécessairement au crédit lui-même.</p>"
+    },
+    {
+      "q": "Est-il préférable de choisir une durée de crédit plus courte ?",
+      "a_html": "<p>Une durée plus courte augmente généralement la mensualité, mais réduit souvent le total des intérêts, car le capital est remboursé plus vite. Elle n'est intéressante que si la mensualité reste confortable pour votre budget et votre épargne de précaution.</p><p>Une durée plus longue peut être raisonnable pour conserver une marge de sécurité, notamment en cas de revenus variables. Comparez alors le surcoût en euros et non uniquement l'écart de mensualité.</p>"
+    },
+    {
+      "q": "Peut-on réduire le coût d'un crédit après la signature ?",
+      "a_html": "<p>Selon le contrat et votre situation, un remboursement anticipé peut diminuer les intérêts restant à courir. Une renégociation, un rachat de crédit ou un changement d'assurance emprunteur peuvent aussi être envisagés, mais ils engendrent parfois des frais ou des conditions nouvelles.</p><p>Avant toute démarche, comparez les économies espérées avec l'ensemble des coûts : indemnité éventuelle de remboursement anticipé, frais de dossier, garantie, assurance et durée restante. Une opération n'est avantageuse que si le gain net est réel.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Calculer le coût d'un crédit revient à regarder au-delà du montant emprunté et de la mensualité affichée. Additionnez les intérêts, l'assurance, les frais obligatoires et les éventuels coûts de garantie ; utilisez le <strong>TAEG</strong> pour comparer des offres comparables, puis contrôlez le montant total dû sur l'offre officielle.</p><p>En prenant quelques minutes pour simuler plusieurs durées et relire le tableau d'amortissement, vous pouvez choisir un crédit adapté à votre projet sans sacrifier votre équilibre budgétaire.</p>",
+  "__slug": "comment-calculer-le-cout-dun-credit"
+}

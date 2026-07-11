@@ -1,10 +1,10 @@
 ---
-import Base from '../layouts/Base.astro';
-import ArticleBlocks from '../components/ArticleBlocks.astro';
-import PostCard from '../components/PostCard.astro';
-import { getCatalog, getContent, readySlugs, formatDate, hashInt, topicFromSlug } from '../lib/data.mjs';
-import { sanitizeHtml } from '../lib/sanitize.mjs';
-import '../styles/article.css';
+import Base from '../../layouts/Base.astro';
+import ArticleBlocks from '../../components/ArticleBlocks.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCatalog, getContent, readySlugs, formatDate, hashInt, topicFromSlug, postUrl, LISTING_URL } from '../../lib/data.mjs';
+import { sanitizeHtml } from '../../lib/sanitize.mjs';
+import '../../styles/article.css';
 
 export function getStaticPaths() {
   return getCatalog().map((post) => ({ params: { slug: post.slug }, props: { post } }));
@@ -16,18 +16,19 @@ const ready = !!content;
 const ready_set = readySlugs();
 
 const title = content?.title || post.title;
-const description = content?.meta_description || post.metaDescription || post.excerpt?.slice(0, 155);
+const description = content?.meta_description || post.metaDescription || (post.excerpt || '').slice(0, 155);
 const heroImg = post.image?.local || post.image?.remote || null;
 const topic = topicFromSlug(post.slug);
 const readTime = content?.reading_time_min || 6;
+const canonical = postUrl(post.slug);
 
-// Related: same-ish topic first, then fill with recent ready posts.
 const catalog = getCatalog();
 const related = catalog
   .filter((p) => p.slug !== post.slug && ready_set.has(p.slug))
   .sort((a, b) => {
-    const sa = a.slug.startsWith(post.slug.split('-')[0]) ? -1 : 0;
-    const sb = b.slug.startsWith(post.slug.split('-')[0]) ? -1 : 0;
+    const key = post.slug.split('-')[0];
+    const sa = a.slug.startsWith(key) ? -1 : 0;
+    const sb = b.slug.startsWith(key) ? -1 : 0;
     return sa - sb || hashInt(a.slug + post.slug) - hashInt(b.slug + post.slug);
   })
   .slice(0, 3);
@@ -42,7 +43,7 @@ const ld = {
   dateModified: post.modified || post.date,
   author: { '@type': 'Organization', name: 'jaimerais.fr' },
   publisher: { '@type': 'Organization', name: 'jaimerais.fr' },
-  mainEntityOfPage: `https://jaimerais.fr/${post.slug}`,
+  mainEntityOfPage: `https://jaimerais.fr${canonical}`,
 };
 const faqLd = ready && content.faq?.length
   ? {
@@ -56,7 +57,7 @@ const faqLd = ready && content.faq?.length
     }
   : null;
 ---
-<Base title={title} description={description} image={heroImg || '/og-default.jpg'} article={true} noindex={!ready}>
+<Base title={title} description={description} image={heroImg || '/og-default.jpg'} article={true} noindex={!ready} canonicalPath={canonical}>
   <Fragment slot="head">
     <script type="application/ld+json" is:inline set:html={JSON.stringify(ld)} />
     {faqLd && <script type="application/ld+json" is:inline set:html={JSON.stringify(faqLd)} />}
@@ -66,7 +67,7 @@ const faqLd = ready && content.faq?.length
     <header class="art-hero">
       <div class="container art-hero__inner">
         <nav class="crumbs" aria-label="Fil d'Ariane">
-          <a href="/">Accueil</a><span>·</span><a href="/conseils">{topic}</a>
+          <a href="/">Accueil</a><span>·</span><a href={LISTING_URL}>Conseils</a>
         </nav>
         <h1 class="art-title reveal">{title}</h1>
         {ready && <p class="art-intro reveal" data-delay="80">{content.hero_intro}</p>}
@@ -136,7 +137,7 @@ const faqLd = ready && content.faq?.length
             <h2>Cet article fait peau neuve</h2>
             <p>{post.excerpt}</p>
             <p class="pending-note__sub">Une toute nouvelle version, plus complète et plus utile, arrive très bientôt. Revenez vite&nbsp;!</p>
-            <a href="/conseils" class="btn">Découvrir d'autres envies</a>
+            <a href={LISTING_URL} class="btn">Découvrir d'autres envies</a>
           </div>
         )}
       </div>
@@ -146,7 +147,7 @@ const faqLd = ready && content.faq?.length
       <div class="container art-cta__inner">
         <p class="eyebrow">Envie d'aller plus loin</p>
         <h2>Chaque envie mérite d'être vécue</h2>
-        <a href="/conseils" class="btn" data-magnetic>Explorer toutes les envies</a>
+        <a href={LISTING_URL} class="btn" data-magnetic>Explorer toutes les envies</a>
       </div>
     </section>
 

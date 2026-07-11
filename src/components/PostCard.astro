@@ -1,11 +1,11 @@
 ---
-import { topicFromSlug } from '../lib/data.mjs';
+import { topicFromSlug, postUrl } from '../lib/data.mjs';
 const { post, ready = true, eager = false } = Astro.props;
 const img = post.image?.thumb || post.image?.local || null;
 const topic = topicFromSlug(post.slug);
 ---
 <article class={`card${ready ? '' : ' pending'}`} data-tilt>
-  <a href={`/${post.slug}`} class="card__link" aria-label={post.title}>
+  <a href={postUrl(post.slug)} class="card__link" aria-label={post.title}>
     <div class="card__media">
       {!ready && <span class="card__badge">Bientôt</span>}
       <span class="card__heart" aria-hidden="true">

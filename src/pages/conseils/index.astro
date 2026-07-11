@@ -1,18 +1,18 @@
 ---
-import Base from '../layouts/Base.astro';
-import PostCard from '../components/PostCard.astro';
-import { getCatalog, getReadyPosts, readySlugs } from '../lib/data.mjs';
+import Base from '../../layouts/Base.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCatalog, getReadyPosts, readySlugs } from '../../lib/data.mjs';
 
 const readySet = readySlugs();
 const catalog = getCatalog();
 const ready = getReadyPosts();
-// Ready posts first (fully redesigned), then the rest.
 const posts = [...ready, ...catalog.filter((p) => !readySet.has(p.slug))];
 const total = catalog.length;
 ---
 <Base
   title="Toutes les envies — conseils & guides"
   description={`Explorez ${total.toLocaleString('fr-FR')} conseils, guides et inspirations pour vivre toutes vos envies. Recherchez l'idée qui vous ressemble.`}
+  canonicalPath="/conseils"
 >
   <section class="list-hero">
     <span class="blob" style="width:38vw;height:38vw;top:-16vw;right:-8vw;background:var(--grad-dream);opacity:.35;"></span>

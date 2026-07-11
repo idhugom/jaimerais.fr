@@ -1,0 +1,253 @@
+{
+  "title": "Comment faire une restauration du système sous Windows XP ?",
+  "meta_description": "Restaurez Windows XP à un point antérieur : étapes, sauvegardes, mode sans échec et solutions si l'opération échoue, pour préserver vos données.",
+  "reading_time_min": 10,
+  "hero_intro": "Un pilote installé la veille, un logiciel qui fait planter Windows XP ou des messages d'erreur apparus soudainement peuvent parfois être corrigés sans tout réinstaller. La Restauration du système permet de ramener les fichiers essentiels de Windows à un état antérieur. Voici comment l'utiliser correctement, ce qu'elle change réellement et quoi faire si elle ne fonctionne pas.",
+  "key_takeaways": [
+    "La Restauration du système remet en état les fichiers système, le Registre, les pilotes et certains programmes, mais ne vise pas vos documents personnels.",
+    "Choisissez un point de restauration daté d'avant l'apparition du problème, plutôt que le point le plus ancien disponible.",
+    "Sauvegardez tout de même vos fichiers importants : une panne de disque ou une infection ne se règle pas forcément avec cette fonction.",
+    "N'utilisez pas msconfig ni la suppression de programmes au démarrage pour restaurer XP : ce sont des opérations différentes et potentiellement risquées.",
+    "Windows XP n'est plus pris en charge depuis 2014 : une restauration peut dépanner, mais elle ne remplace ni une sauvegarde ni une migration vers un système récent."
+  ],
+  "toc": [
+    "Comprendre ce que restaure Windows XP",
+    "Préparer l'ordinateur avant toute manipulation",
+    "Les étapes pour restaurer Windows XP",
+    "Choisir le bon point de restauration",
+    "Utiliser le mode sans échec si XP ne démarre plus",
+    "Résoudre les erreurs de restauration",
+    "Sécuriser durablement un ordinateur sous Windows XP"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Ce que restaure réellement Windows XP",
+      "html": "<p>La <strong>Restauration du système</strong> de Windows XP est un outil de retour en arrière. Elle remet certains éléments de l'ordinateur tels qu'ils étaient à une date choisie : fichiers système de Windows, Registre, pilotes, paramètres système, mises à jour et programmes installés ou supprimés depuis ce moment.</p><p>Elle est particulièrement pertinente si un problème est apparu après l'installation d'un logiciel, d'un pilote d'imprimante, d'une mise à jour ou d'un utilitaire de nettoyage. Elle peut, par exemple, faire disparaître un écran bleu lié à un pilote récent ou corriger un démarrage devenu instable.</p><p>En revanche, il ne s'agit ni d'une réparation matérielle ni d'une récupération complète de données. La fonction ne répare pas un disque dur défaillant, une barrette mémoire en panne ou un fichier personnel supprimé. Elle ne garantit pas non plus l'élimination d'un virus ou d'un rançongiciel.</p><p>Vos fichiers personnels, comme les documents, photos, vidéos et courriels, ne sont normalement pas ciblés par cette opération. Mais une sauvegarde reste indispensable : sur un ordinateur ancien, le risque principal peut aussi être une panne matérielle survenant pendant ou après le dépannage.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "À ne pas confondre avec le nettoyage du démarrage",
+      "html": "<p>Modifier les programmes lancés au démarrage via msconfig, supprimer des applications ou vider des fichiers temporaires ne constitue <strong>pas</strong> une restauration du système. Ces actions peuvent aider à diagnostiquer un ralentissement, mais elles ne remettent pas Windows XP à un état antérieur et peuvent retirer des logiciels utiles si elles sont faites au hasard.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Restauration système ou réinstallation de Windows XP ?",
+      "intro": "Le bon choix dépend surtout de la gravité du problème et de l'existence d'un point de restauration antérieur à la panne.",
+      "left": {
+        "title": "Restauration du système",
+        "points": [
+          "À privilégier si le problème est récent et que XP démarre encore, même difficilement.",
+          "Conserve en principe les documents personnels et les dossiers de l'utilisateur.",
+          "Peut désinstaller les programmes, pilotes et mises à jour ajoutés après la date retenue.",
+          "Demande généralement quelques minutes à une demi-heure, selon l'ordinateur.",
+          "Peut être annulée depuis Windows dans la plupart des cas, sauf lorsqu'elle a été faite en mode sans échec."
+        ]
+      },
+      "right": {
+        "title": "Récupération usine ou réinstallation",
+        "points": [
+          "À envisager si XP est très endommagé, infecté, ou si aucun point de restauration exploitable n'existe.",
+          "Réinstalle Windows ou remet la machine dans son état de sortie d'usine selon le constructeur.",
+          "Peut effacer les données, les programmes et les réglages : une sauvegarde préalable est essentielle.",
+          "Exige souvent les pilotes, les supports d'installation et parfois une clé de licence.",
+          "Prend plus de temps et nécessite ensuite de reconfigurer entièrement l'ordinateur."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Préparer l'ordinateur avant toute manipulation",
+      "html": "<p>Avant de lancer la restauration, notez ce qui a changé juste avant le problème : installation d'un logiciel, branchement d'un périphérique, mise à jour d'un pilote, erreur apparue à une date précise. Cette chronologie vous aidera à sélectionner un point pertinent.</p><p>Copiez vos fichiers essentiels sur un support externe si l'ordinateur reste utilisable. Pour un PC sous XP, un disque USB, une clé USB suffisamment grande ou un autre ordinateur du foyer sont de bonnes solutions. Vérifiez que les fichiers copiés s'ouvrent bien depuis le support.</p><p>Fermez vos programmes et branchez un ordinateur portable au secteur. Une coupure de courant durant la procédure est à éviter. Déconnectez aussi les périphériques non indispensables, notamment une imprimante ou un disque externe qui provoque peut-être un conflit, sans débrancher votre support de sauvegarde avant d'avoir terminé la copie.</p><p>Enfin, ne choisissez pas un point créé après le début du souci. L'objectif est de revenir à un état stable connu, pas seulement à une date proche.</p><ul><li>Repérez la date ou l'événement qui a précédé la panne.</li><li>Sauvegardez les documents récents et irremplaçables.</li><li>Gardez l'ordinateur alimenté jusqu'au redémarrage complet.</li><li>Préparez les mots de passe et supports nécessaires pour réinstaller un logiciel récent si besoin.</li></ul>"
+    },
+    {
+      "type": "steps",
+      "heading": "Les étapes pour faire une restauration du système XP",
+      "intro": "Cette méthode s'applique lorsque Windows XP arrive jusqu'au Bureau et que vous pouvez ouvrir le menu Démarrer.",
+      "steps": [
+        {
+          "title": "Ouvrez l'outil de restauration",
+          "html": "<p>Cliquez sur <strong>Démarrer</strong>, puis sur <strong>Tous les programmes</strong>. Ouvrez <strong>Accessoires</strong>, puis <strong>Outils système</strong>, et choisissez <strong>Restauration du système</strong>.</p>"
+        },
+        {
+          "title": "Choisissez le retour à un état précédent",
+          "html": "<p>Dans l'assistant, sélectionnez l'option permettant de <strong>restaurer l'ordinateur à une heure antérieure</strong>, puis cliquez sur <strong>Suivant</strong>.</p>"
+        },
+        {
+          "title": "Sélectionnez une date stable",
+          "html": "<p>Le calendrier affiche les jours contenant au moins un point de restauration. Cliquez sur une date antérieure au début de la panne. Dans la liste associée, choisissez le point qui correspond le mieux à l'événement que vous souhaitez annuler.</p>"
+        },
+        {
+          "title": "Vérifiez les conséquences probables",
+          "html": "<p>L'assistant peut indiquer les programmes ou pilotes susceptibles d'être touchés. Lisez ce récapitulatif : une application installée après la date choisie pourra devoir être réinstallée ensuite.</p>"
+        },
+        {
+          "title": "Confirmez l'opération",
+          "html": "<p>Cliquez sur <strong>Suivant</strong>, puis confirmez lorsque Windows XP vous le demande. Fermez les applications encore ouvertes : la procédure redémarre automatiquement l'ordinateur.</p>"
+        },
+        {
+          "title": "Laissez XP redémarrer sans intervenir",
+          "html": "<p>Ne forcez pas l'arrêt du PC et n'appuyez pas sur le bouton d'alimentation pendant la restauration. L'écran peut rester immobile quelques instants sur une machine ancienne : attendez la fin du redémarrage.</p>"
+        },
+        {
+          "title": "Contrôlez le résultat",
+          "html": "<p>Après l'ouverture de session, Windows affiche normalement un message confirmant que la restauration est terminée. Testez ensuite l'action qui posait problème : lancement du logiciel, connexion d'une imprimante ou démarrage habituel de l'ordinateur.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Comment choisir le bon point de restauration",
+      "intro": "La date la plus récente n'est pas systématiquement la meilleure. Basez votre choix sur le moment précis où le comportement du PC a changé.",
+      "columns": [
+        "Situation observée",
+        "Point à privilégier",
+        "Pourquoi",
+        "Conséquence à anticiper"
+      ],
+      "rows": [
+        [
+          "Un logiciel a été installé hier et XP plante depuis",
+          "Un point datant d'avant l'installation",
+          "Il annule les paramètres et composants ajoutés par ce logiciel",
+          "Le logiciel concerné, et d'autres ajoutés depuis, peuvent devoir être réinstallés"
+        ],
+        [
+          "Un pilote graphique ou d'imprimante a provoqué un écran bleu",
+          "Un point juste avant la mise à jour du pilote",
+          "Les fichiers et réglages du pilote peuvent être restaurés",
+          "Il faudra éventuellement installer une version plus compatible du pilote"
+        ],
+        [
+          "Le PC est lent depuis plusieurs semaines",
+          "Le point le plus proche d'avant les premiers ralentissements",
+          "Un retour trop lointain peut supprimer inutilement beaucoup de changements",
+          "Les logiciels installés entre-temps peuvent disparaître de Windows"
+        ],
+        [
+          "Une mise à jour récente semble en cause",
+          "Le dernier point antérieur à cette mise à jour",
+          "Il limite les modifications annulées",
+          "La mise à jour pourra être reproposée par le système ou un logiciel"
+        ],
+        [
+          "Vous ne connaissez pas l'origine du problème",
+          "Un point récent datant d'une période où le PC fonctionnait bien",
+          "C'est un premier essai prudent",
+          "Essayez un point plus ancien seulement si le premier est sans effet"
+        ]
+      ],
+      "note": "Un point de restauration ne permet pas de récupérer un document personnel supprimé. Il sert avant tout à rétablir la configuration du système."
+    },
+    {
+      "type": "prose",
+      "heading": "Après la restauration : contrôles et annulation éventuelle",
+      "html": "<p>Une fois le Bureau retrouvé, vérifiez d'abord que l'erreur initiale a disparu. Lancez les programmes essentiels, testez votre connexion réseau si elle était concernée et reconnectez les périphériques un par un. Si un programme récent ne se lance plus, réinstallez-le uniquement après avoir confirmé que l'ordinateur est redevenu stable.</p><p>Si la restauration n'a rien résolu, vous pouvez en essayer une autre, plus ancienne, tant que des points sont disponibles. Évitez toutefois de multiplier les retours en arrière sans observer le résultat : cela rend le diagnostic plus confus et ne traite pas forcément la vraie cause.</p><p>Windows XP propose normalement une option pour <strong>annuler la dernière restauration</strong> si elle produit un effet indésirable. Rouvrez l'outil depuis le menu Démarrer et choisissez l'option d'annulation lorsqu'elle est proposée. Cette possibilité n'est généralement pas offerte après une restauration effectuée en mode sans échec.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Si Windows XP ne démarre plus : passer par le mode sans échec",
+      "intro": "Lorsque XP bloque avant le Bureau, le mode sans échec charge un nombre limité de pilotes. Il peut permettre d'accéder à l'outil de restauration.",
+      "steps": [
+        {
+          "title": "Redémarrez et ouvrez les options avancées",
+          "html": "<p>Éteignez complètement l'ordinateur s'il est bloqué, puis rallumez-le. Appuyez plusieurs fois sur la touche <strong>F8</strong> juste après l'écran du fabricant et avant l'apparition du logo Windows XP.</p>"
+        },
+        {
+          "title": "Choisissez le mode sans échec",
+          "html": "<p>Dans le menu noir des options avancées, sélectionnez <strong>Mode sans échec</strong> avec les flèches du clavier, puis validez avec la touche Entrée. Une version simplifiée de Windows devrait s'ouvrir.</p>"
+        },
+        {
+          "title": "Lancez la Restauration du système",
+          "html": "<p>Utilisez le même chemin que d'habitude : Démarrer, Tous les programmes, Accessoires, Outils système, puis Restauration du système. Si le menu est difficile à utiliser, ouvrez <strong>Exécuter</strong> depuis le menu Démarrer et saisissez rstrui.exe.</p>"
+        },
+        {
+          "title": "Choisissez un point et confirmez avec prudence",
+          "html": "<p>Sélectionnez un point antérieur à la panne et poursuivez l'assistant. Gardez à l'esprit qu'une restauration lancée en mode sans échec ne peut généralement pas être annulée : choisissez une date cohérente et suffisamment récente.</p>"
+        },
+        {
+          "title": "Redémarrez normalement",
+          "html": "<p>À la fin de l'opération, laissez l'ordinateur redémarrer sans appuyer sur F8. Vérifiez que Windows XP atteint désormais le Bureau en mode normal.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Restauration du système XP impossible : les solutions à essayer",
+      "intro": "Un échec ne signifie pas forcément que l'ordinateur est perdu. Identifiez le message ou le comportement observé avant de passer à une solution plus lourde.",
+      "columns": [
+        "Problème",
+        "Cause possible",
+        "Action raisonnable"
+      ],
+      "rows": [
+        [
+          "Aucun point de restauration n'apparaît",
+          "La fonction était désactivée, l'espace disponible était insuffisant ou les anciens points ont été effacés",
+          "Vérifiez dans le Panneau de configuration, puis Système et l'onglet Restauration du système, si la fonction est activée. Sans ancien point, envisagez un diagnostic ou une réinstallation après sauvegarde."
+        ],
+        [
+          "La restauration échoue à chaque tentative",
+          "Le point est endommagé, un pilote bloque le processus ou le disque présente des erreurs",
+          "Essayez un point différent, puis le mode sans échec. Si le disque émet des bruits anormaux ou provoque des erreurs répétées, sauvegardez immédiatement les données."
+        ],
+        [
+          "XP redémarre en boucle",
+          "Un pilote, un fichier système ou un matériel peut être en cause",
+          "Tentez le mode sans échec. Si le problème persiste, débranchez les périphériques non essentiels et faites diagnostiquer le PC avant une réinstallation."
+        ],
+        [
+          "Le point choisi est trop récent",
+          "La cause du problème existait déjà à cette date",
+          "Sélectionnez un point plus ancien, mais seulement si vous savez qu'il correspond à une période stable."
+        ],
+        [
+          "Une infection est suspectée",
+          "Le logiciel malveillant peut rester présent ou se réactiver",
+          "Isolez si possible l'ordinateur du réseau, sauvegardez avec prudence les données indispensables et prévoyez une analyse ou une réinstallation propre."
+        ]
+      ],
+      "note": "Ne désactivez pas votre protection ni les services Windows au hasard pour forcer une restauration : cela peut aggraver le problème ou compliquer son diagnostic."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Quand il vaut mieux ne pas insister",
+      "html": "<p>Si l'ordinateur affiche des erreurs de lecture, se fige fréquemment, fait entendre des cliquetis inhabituels ou ne détecte plus son disque dur, le souci est probablement matériel. Une restauration système ne réparera pas le disque. La priorité est alors de <strong>sauvegarder ou récupérer les données</strong>, puis de faire contrôler le matériel.</p><p>De même, en cas de suspicion sérieuse d'infection, une restauration peut être insuffisante. Elle n'est pas une méthode fiable de désinfection complète.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Sécuriser durablement un ordinateur sous Windows XP",
+      "html": "<p>Windows XP a cessé de recevoir le support de Microsoft en avril 2014. Même si une restauration remet le système dans un état fonctionnel, elle ne corrige pas les vulnérabilités découvertes depuis. Utiliser XP connecté à Internet, notamment pour les courriels, achats, démarches administratives ou mots de passe sensibles, comporte donc un risque important.</p><p>Pour un ordinateur conservé hors ligne, créez régulièrement un point de restauration avant un changement important et gardez au moins une copie de vos documents sur un support distinct. Un disque externe simple coûte souvent entre 40 et 80 euros selon sa capacité, mais une seconde copie peut aussi être déposée sur un autre appareil de confiance.</p><p>Si le PC est encore nécessaire au quotidien, évaluez une migration vers un matériel et un système pris en charge. Un ordinateur reconditionné adapté aux usages simples se trouve souvent dans une fourchette d'environ 150 à 350 euros, tandis qu'un diagnostic en atelier peut fréquemment coûter autour de 50 à 100 euros selon la région et la panne. Comparer ces options évite de consacrer trop d'argent à une machine devenue difficile à sécuriser.</p><p>La restauration de Windows XP reste donc un excellent premier geste face à une panne logicielle récente. Mais la meilleure prévention reste une sauvegarde vérifiée, des changements effectués avec méthode et, lorsque c'est possible, le passage à un environnement plus récent.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "La restauration du système Windows XP efface-t-elle mes documents et mes photos ?",
+      "a_html": "<p>En principe, non : la Restauration du système vise les fichiers système, les réglages, les pilotes et les programmes. Elle ne sert pas à supprimer vos documents personnels.</p><p>Il faut néanmoins sauvegarder vos fichiers importants avant toute intervention. Une panne de disque, une erreur humaine ou une infection peuvent affecter les données indépendamment de la restauration.</p>"
+    },
+    {
+      "q": "Comment restaurer Windows XP à une date antérieure ?",
+      "a_html": "<p>Ouvrez <strong>Démarrer</strong>, puis <strong>Tous les programmes</strong>, <strong>Accessoires</strong>, <strong>Outils système</strong> et <strong>Restauration du système</strong>. Choisissez la restauration à une heure antérieure, sélectionnez une date contenant un point disponible, puis confirmez.</p><p>Choisissez une date précédant clairement l'apparition du problème pour maximiser les chances de succès.</p>"
+    },
+    {
+      "q": "Pourquoi n'ai-je aucun point de restauration sur Windows XP ?",
+      "a_html": "<p>La fonction a peut-être été désactivée, l'espace réservé aux points de restauration était trop faible ou les anciens points ont été supprimés. Consultez le Panneau de configuration, puis <strong>Système</strong> et l'onglet <strong>Restauration du système</strong> pour vérifier qu'elle est activée.</p><p>Si aucun point ancien n'existe, la restauration système ne pourra pas revenir en arrière. Il faudra alors sauvegarder les données et envisager un diagnostic, une réparation ou une réinstallation.</p>"
+    },
+    {
+      "q": "Peut-on lancer une restauration XP depuis le BIOS ?",
+      "a_html": "<p>Non. Le BIOS sert à régler le matériel de base de l'ordinateur ; il ne lance pas l'outil de Restauration du système de Windows XP. Essayez plutôt le <strong>mode sans échec</strong> en appuyant sur F8 au démarrage, puis ouvrez la Restauration du système.</p><p>Certains fabricants proposent toutefois un menu de récupération distinct au démarrage. Il correspond généralement à une remise à l'état d'usine et peut effacer les données : lisez soigneusement les écrans affichés.</p>"
+    },
+    {
+      "q": "Puis-je annuler une restauration du système XP ?",
+      "a_html": "<p>Oui, Windows XP permet habituellement d'annuler la dernière restauration en rouvrant l'outil et en choisissant l'option proposée. Cette possibilité est utile si un logiciel ou un réglage important a été retiré par le retour en arrière.</p><p>Attention : une restauration réalisée depuis le mode sans échec ne peut généralement pas être annulée. Choisissez donc le point avec encore plus de prudence dans ce contexte.</p>"
+    },
+    {
+      "q": "La restauration du système peut-elle supprimer un virus ?",
+      "a_html": "<p>Elle peut parfois annuler des modifications récentes liées à une infection, mais elle ne constitue pas une désinfection fiable. Un logiciel malveillant peut avoir touché des fichiers personnels, créé de nouveaux comptes ou être présent dans une sauvegarde.</p><p>En cas de doute, limitez la connexion au réseau, sauvegardez les fichiers essentiels avec précaution et prévoyez une analyse approfondie ou une réinstallation propre. Sur un ordinateur sous XP, la migration vers un système encore maintenu est la solution la plus sûre à long terme.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour faire une restauration du système sous Windows XP, ouvrez l'outil depuis les accessoires système, choisissez un point créé avant la panne, puis laissez l'ordinateur redémarrer sans l'interrompre. Cette méthode est souvent suffisante après une installation ou un pilote défectueux.</p><p>Gardez toutefois le bon réflexe : sauvegarder vos données avant d'agir et ne pas confondre restauration, suppression de programmes et réinstallation. Si les erreurs persistent ou si le matériel semble défaillant, privilégiez la protection de vos fichiers et un diagnostic plutôt que des tentatives répétées.</p>",
+  "__slug": "comment-faire-une-restauration-systeme-xp"
+}

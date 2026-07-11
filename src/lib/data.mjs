@@ -51,6 +51,12 @@ export function getReadyPosts() {
   return getCatalog().filter((p) => ready.has(p.slug));
 }
 
+/** Canonical article URL — matches the legacy WordPress path exactly. */
+export function postUrl(slug) {
+  return `/conseils/${slug}.html`;
+}
+export const LISTING_URL = '/conseils';
+
 export function formatDate(iso) {
   try {
     return new Date(iso).toLocaleDateString('fr-FR', {

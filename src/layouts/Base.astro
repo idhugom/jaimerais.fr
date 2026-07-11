@@ -13,10 +13,12 @@ const {
   image = '/og-default.jpg',
   article = false,
   noindex = false,
+  canonicalPath,
 } = Astro.props;
 
 const site = 'https://jaimerais.fr';
-const canonical = new URL(Astro.url.pathname, site).href.replace(/\/$/, '') || site;
+const rawPath = canonicalPath ?? Astro.url.pathname;
+const canonical = (new URL(rawPath, site).href.replace(/\/$/, '')) || site;
 const ogImage = image.startsWith('http') ? image : site + image;
 const fullTitle = title ? `${title} · jaimerais.fr` : 'jaimerais.fr — le magazine des envies';
 ---

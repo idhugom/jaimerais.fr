@@ -1,4 +1,4 @@
-import { getCatalog, readySlugs } from '../lib/data.mjs';
+import { getCatalog, readySlugs, postUrl } from '../lib/data.mjs';
 
 export function GET() {
   const site = 'https://jaimerais.fr';
@@ -9,7 +9,7 @@ export function GET() {
   const urls = [
     ...staticPages.map((u) => ({ loc: site + u, priority: u === '/' ? '1.0' : '0.7' })),
     ...posts.map((p) => ({
-      loc: `${site}/${p.slug}`,
+      loc: `${site}${postUrl(p.slug)}`,
       lastmod: (p.modified || p.date || '').slice(0, 10),
       priority: '0.8',
     })),

@@ -1,0 +1,205 @@
+{
+  "title": "Comment récupérer un mot de passe oublié et sécuriser son compte",
+  "meta_description": "Mot de passe oublié ? Suivez la bonne méthode pour retrouver l'accès à vos comptes, le réinitialiser et renforcer leur sécurité en évitant les pièges courants.",
+  "reading_time_min": 9,
+  "hero_intro": "Un mot de passe oublié ne signifie pas forcément un compte perdu. Dans la plupart des cas, vous pouvez retrouver l'accès en passant par la procédure officielle du service concerné, puis créer un nouveau mot de passe solide. L'essentiel est d'agir calmement, depuis un appareil de confiance, sans jamais communiquer vos codes de vérification à qui que ce soit.",
+  "key_takeaways": [
+    "Un site ne peut généralement pas vous afficher votre ancien mot de passe : la solution consiste le plus souvent à le réinitialiser.",
+    "Commencez par vérifier vos mots de passe enregistrés dans votre navigateur ou votre gestionnaire de mots de passe, sur un appareil personnel et sécurisé.",
+    "Utilisez uniquement le lien « Mot de passe oublié » du site ou de l'application officielle, jamais un lien reçu par message.",
+    "Une adresse e-mail et un numéro de récupération à jour font toute la différence lorsque vous perdez l'accès à un compte.",
+    "Après une récupération, changez le mot de passe, vérifiez les appareils connectés et activez la double authentification."
+  ],
+  "toc": [
+    "Comprendre la différence entre retrouver et réinitialiser un mot de passe",
+    "Les réflexes à avoir avant de lancer une récupération",
+    "Récupérer l'accès à un compte pas à pas",
+    "Quelle solution selon votre situation ?",
+    "Éviter les arnaques lors d'une récupération de compte",
+    "Retrouver un mot de passe enregistré dans un navigateur",
+    "Sécuriser le compte après la réinitialisation",
+    "Que faire si vous n'avez plus accès à l'e-mail ou au téléphone ?"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Retrouver ou réinitialiser : ce qu'il est réellement possible de faire",
+      "html": "<p>Lorsque vous avez oublié un mot de passe, deux situations sont possibles. Il est parfois <strong>enregistré localement</strong> dans votre navigateur, sur votre téléphone ou dans un gestionnaire de mots de passe : vous pouvez alors le consulter après avoir déverrouillé votre appareil. Dans la majorité des cas, en revanche, le site ne connaît pas votre mot de passe en clair et ne peut donc pas vous le renvoyer.</p><p>La procédure habituelle consiste à <strong>réinitialiser le mot de passe</strong>. Le service vérifie votre identité grâce à une adresse e-mail de secours, un numéro de téléphone, une notification sur un appareil déjà connecté, des codes de récupération ou d'autres informations de sécurité. Une fois la vérification réussie, vous choisissez un nouveau mot de passe.</p><p>Cette règle s'applique aux messageries, réseaux sociaux, boutiques en ligne, services administratifs et comptes bancaires. Ne cherchez pas à contourner une protection : les méthodes fiables sont uniquement celles proposées par l'organisme concerné pour <strong>votre propre compte</strong>.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les bons réflexes avant toute manipulation",
+      "points": [
+        "Vérifiez l'adresse exacte du site et ouvrez-le vous-même depuis votre navigateur ou son application officielle.",
+        "Essayez de vous connecter depuis votre appareil, réseau et lieu habituels : ils peuvent aider le service à vous reconnaître.",
+        "Cherchez le compte dans votre gestionnaire de mots de passe ou les réglages de votre navigateur avant de le réinitialiser.",
+        "Préparez l'accès à l'adresse e-mail ou au numéro de téléphone associés au compte.",
+        "Évitez les tentatives répétées avec des mots de passe au hasard : elles peuvent déclencher un blocage temporaire."
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Mot de passe enregistré ou mot de passe à réinitialiser ?",
+      "intro": "Le bon choix dépend de votre situation. Commencez par l'option la moins intrusive, à condition d'utiliser un appareil qui vous appartient.",
+      "left": {
+        "title": "Consulter un mot de passe enregistré",
+        "points": [
+          "Utile si vous êtes encore connecté sur un navigateur, une application ou un gestionnaire de mots de passe.",
+          "Permet de conserver l'accès sans modifier les réglages de sécurité du compte.",
+          "Nécessite le déverrouillage de l'appareil, du profil ou du coffre-fort numérique.",
+          "À éviter absolument sur un ordinateur partagé, professionnel non personnel ou public."
+        ]
+      },
+      "right": {
+        "title": "Réinitialiser le mot de passe",
+        "points": [
+          "Indispensable si le mot de passe n'est pas enregistré ou si vous soupçonnez un accès frauduleux.",
+          "Passe par un e-mail, un SMS, une application d'authentification ou une autre preuve d'identité.",
+          "Déconnecte parfois les autres sessions selon le service et les options choisies.",
+          "Impose de mettre à jour le nouveau mot de passe dans vos applications et appareils."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Récupérer l'accès à un compte, étape par étape",
+      "intro": "Ces étapes fonctionnent pour la plupart des services en ligne. Les intitulés varient, mais la logique reste la même.",
+      "steps": [
+        {
+          "title": "Ouvrez la page de connexion officielle",
+          "html": "<p>Saisissez vous-même l'adresse du site dans votre navigateur, ou lancez l'application officielle. Repérez le lien « Mot de passe oublié », « Identifiants oubliés » ou « Besoin d'aide pour vous connecter ? ».</p>"
+        },
+        {
+          "title": "Indiquez l'identifiant du compte",
+          "html": "<p>Il peut s'agir de votre adresse e-mail, de votre numéro de téléphone ou d'un nom d'utilisateur. Vérifiez attentivement l'orthographe : beaucoup d'échecs viennent d'une ancienne adresse ou d'une faute de frappe.</p>"
+        },
+        {
+          "title": "Choisissez une méthode de vérification disponible",
+          "html": "<p>Le service peut proposer l'envoi d'un lien par e-mail, d'un code par SMS, une validation dans une application déjà connectée ou des codes de secours. Choisissez une méthode à laquelle vous avez réellement accès.</p>"
+        },
+        {
+          "title": "Validez votre identité sans précipitation",
+          "html": "<p>Entrez le code reçu uniquement sur le site ou l'application ouverte par vos soins. Ne le transmettez jamais par téléphone, e-mail, messagerie ou réseau social : un code de récupération est une clé d'accès temporaire à votre compte.</p>"
+        },
+        {
+          "title": "Créez un nouveau mot de passe et testez-le",
+          "html": "<p>Choisissez un mot de passe inédit, puis reconnectez-vous. Mettez ensuite à jour le mot de passe enregistré dans vos applications ou votre gestionnaire, afin d'éviter un nouvel oubli ou des tentatives de connexion automatiques erronées.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quelle démarche selon le problème rencontré ?",
+      "intro": "Voici le réflexe le plus sûr dans les cas les plus fréquents.",
+      "columns": [
+        "Votre situation",
+        "Solution recommandée",
+        "À éviter"
+      ],
+      "rows": [
+        [
+          "Vous êtes connecté sur un de vos appareils",
+          "Consultez le mot de passe enregistré ou changez-le depuis les paramètres de sécurité du compte.",
+          "Vous déconnecter de votre seule session active avant d'avoir vérifié vos moyens de récupération."
+        ],
+        [
+          "Vous avez accès à l'e-mail associé",
+          "Utilisez « Mot de passe oublié » et suivez le lien de réinitialisation reçu.",
+          "Cliquer sur un lien de réinitialisation ancien ou transféré par quelqu'un d'autre."
+        ],
+        [
+          "Vous avez changé de numéro de téléphone",
+          "Essayez l'e-mail de secours, un appareil déjà reconnu ou la procédure de récupération avancée du service.",
+          "Créer un nouveau compte trop vite : vous risqueriez de perdre l'accès à vos achats ou données."
+        ],
+        [
+          "Vous suspectez un piratage",
+          "Réinitialisez immédiatement depuis le site officiel, contrôlez les sessions et signalez l'incident au support.",
+          "Réutiliser l'ancien mot de passe ou répondre à un prétendu « support » sur les réseaux sociaux."
+        ],
+        [
+          "Il s'agit d'un compte professionnel ou scolaire",
+          "Contactez l'administrateur informatique ou le support interne selon la procédure de votre organisation.",
+          "Utiliser le compte d'un collègue ou tenter de contourner les règles d'accès."
+        ]
+      ],
+      "note": "Les options proposées dépendent de la configuration de sécurité choisie lors de la création du compte."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux faux messages de réinitialisation",
+      "html": "<p>Les tentatives de phishing imitent souvent les e-mails de Google, Apple, Microsoft, banques, opérateurs ou réseaux sociaux. Un vrai service ne vous demandera jamais votre mot de passe actuel ni un code de validation par téléphone ou par message privé. En cas de doute, ne cliquez sur rien : ouvrez directement le site officiel et vérifiez l'activité de votre compte depuis ses paramètres de sécurité.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Comment retrouver un mot de passe enregistré dans votre navigateur",
+      "html": "<p>Sur un appareil personnel, les navigateurs modernes peuvent enregistrer vos identifiants. Cherchez dans les réglages du navigateur une rubrique telle que « Mots de passe », « Gestionnaire de mots de passe » ou « Remplissage automatique ». Après confirmation avec le code de votre ordinateur, votre empreinte ou votre mot de passe de session, vous pourrez généralement afficher l'identifiant et le mot de passe liés à un site.</p><p>Vous utilisez peut-être aussi un gestionnaire de mots de passe dédié. Son intérêt est de stocker des identifiants uniques dans un coffre-fort protégé par un mot de passe maître et, idéalement, par une double authentification. Des formules gratuites existent ; les offres individuelles payantes coûtent souvent quelques euros par mois, généralement avec une facturation annuelle. Avant de souscrire, vérifiez surtout la compatibilité avec vos appareils, les options de récupération et le partage sécurisé éventuel.</p><p>Ne consultez jamais vos mots de passe enregistrés sur un appareil qui ne vous appartient pas. Si vous avez utilisé un ordinateur public ou partagé, déconnectez-vous du site, supprimez si besoin la session active depuis vos réglages de sécurité et changez le mot de passe sur votre propre appareil.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Après la récupération : les 5 vérifications qui protègent vraiment votre compte",
+      "intro": "Récupérer l'accès est la première étape. Prenez quelques minutes supplémentaires pour empêcher une nouvelle perte d'accès ou une intrusion.",
+      "steps": [
+        {
+          "title": "Choisissez une phrase de passe unique",
+          "html": "<p>Préférez une phrase longue, personnelle et difficile à deviner plutôt qu'un mot court enrichi d'un chiffre. N'utilisez ni prénom, ni date de naissance, ni information visible sur vos réseaux sociaux. Surtout, ne réemployez pas un mot de passe déjà utilisé ailleurs.</p>"
+        },
+        {
+          "title": "Activez la double authentification",
+          "html": "<p>Ajoutez une seconde preuve lors des connexions sensibles : application d'authentification, clé de sécurité ou notification sur un appareil. Les SMS peuvent dépanner, mais une application ou une clé matérielle offre souvent une meilleure protection contre certaines fraudes.</p>"
+        },
+        {
+          "title": "Mettez à jour les coordonnées de récupération",
+          "html": "<p>Vérifiez votre adresse e-mail de secours et votre numéro de téléphone. Supprimez les coordonnées obsolètes et ajoutez des moyens de récupération auxquels vous seul avez accès.</p>"
+        },
+        {
+          "title": "Conservez les codes de secours hors de votre boîte e-mail",
+          "html": "<p>Lorsque le service fournit des codes de récupération, conservez-les dans un endroit sûr : gestionnaire de mots de passe, document chiffré ou support papier rangé à l'abri. Ils sont particulièrement utiles après la perte d'un téléphone.</p>"
+        },
+        {
+          "title": "Examinez les connexions et les changements récents",
+          "html": "<p>Dans la section « Sécurité » de votre compte, déconnectez les appareils inconnus et vérifiez les changements d'adresse e-mail, de numéro, de règles de transfert ou de moyens de paiement. Si quelque chose vous semble anormal, prévenez sans attendre le support officiel.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Vous n'avez plus accès à l'e-mail ni au téléphone : quelles options ?",
+      "html": "<p>La récupération reste parfois possible, mais elle peut demander plus de temps. Lancez la procédure depuis un appareil et une connexion que vous utilisiez habituellement. Répondez aux questions avec honnêteté : ancien mot de passe dont vous vous souvenez, date approximative de création du compte, appareil déjà utilisé ou adresse de secours. N'inventez pas de réponses, car des informations incohérentes peuvent faire échouer la vérification.</p><p>Chaque grand service possède sa page officielle de récupération. Pour un compte Google, utilisez <a href=\"https://accounts.google.com/signin/recovery\">la récupération de compte Google</a> ; pour Microsoft, <a href=\"https://account.live.com/password/reset\">la réinitialisation Microsoft</a> ; pour Yahoo, <a href=\"https://login.yahoo.com/forgot\">l'assistant de connexion Yahoo</a> ; et pour un identifiant Apple, <a href=\"https://iforgot.apple.com/\">la procédure Apple</a>. Si un organisme exige une vérification d'identité, suivez uniquement ses instructions officielles.</p><p>Pour un compte bancaire, de paiement, de santé ou administratif, privilégiez le numéro figurant sur un relevé, une carte ou le site institutionnel. N'appelez pas un numéro reçu dans un SMS alarmant. Si le compte est géré par votre employeur ou votre établissement, l'administrateur informatique est généralement la bonne personne à contacter.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "Un bon mot de passe ne sert à rien si vous ne pouvez pas récupérer votre compte : la sécurité repose aussi sur des moyens de secours à jour.",
+      "author": ""
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on voir son ancien mot de passe après l'avoir oublié ?",
+      "a_html": "<p>Pas directement depuis le site, dans la plupart des cas : les services sérieux ne conservent pas votre mot de passe sous une forme qu'ils peuvent vous afficher. En revanche, vous pouvez parfois le retrouver s'il a été enregistré dans votre navigateur ou votre gestionnaire de mots de passe, sur un appareil personnel déverrouillé.</p><p>Sinon, il faut utiliser la fonction « Mot de passe oublié » pour en créer un nouveau.</p>"
+    },
+    {
+      "q": "Pourquoi la récupération de mon mot de passe ne fonctionne-t-elle pas ?",
+      "a_html": "<p>Vous utilisez peut-être une ancienne adresse e-mail, un ancien numéro, un appareil inconnu du service ou une connexion inhabituelle. Vérifiez aussi vos courriers indésirables et assurez-vous que vous cherchez le bon compte.</p><p>Évitez de multiplier les essais. Attendez si un délai est imposé, puis recommencez depuis votre appareil habituel en suivant exclusivement la procédure officielle.</p>"
+    },
+    {
+      "q": "Comment récupérer un compte Gmail sans numéro de téléphone ?",
+      "a_html": "<p>Utilisez la page officielle de récupération Google et choisissez les options auxquelles vous avez accès, par exemple l'adresse e-mail de récupération, un appareil sur lequel le compte est déjà connecté ou des informations de vérification demandées par Google.</p><p>Les possibilités dépendent des moyens de récupération configurés auparavant. Si aucune vérification ne peut être validée, Google peut ne pas être en mesure de rendre l'accès au compte.</p>"
+    },
+    {
+      "q": "Que faire si le code de réinitialisation n'arrive pas ?",
+      "a_html": "<p>Contrôlez l'adresse e-mail ou les derniers chiffres du numéro affiché, puis regardez les dossiers « Indésirables », « Spam » et les éventuels filtres de messagerie. Attendez quelques minutes avant de demander un nouveau code, car des demandes rapprochées peuvent invalider le code précédent.</p><p>Si le problème persiste, choisissez une autre méthode proposée : notification sur un appareil connecté, application d'authentification, adresse de secours ou codes de récupération.</p>"
+    },
+    {
+      "q": "Est-il prudent de recevoir un code de récupération par SMS ?",
+      "a_html": "<p>Le SMS est préférable à l'absence de double authentification et reste pratique pour récupérer un compte. Toutefois, si le service le permet, une application d'authentification ou une clé de sécurité est souvent plus robuste face à certaines tentatives de détournement de numéro.</p><p>Quelle que soit la méthode, ne communiquez jamais le code reçu. Même une personne qui prétend travailler pour le support n'a pas à vous le demander.</p>"
+    },
+    {
+      "q": "Faut-il changer tous ses mots de passe après un piratage ?",
+      "a_html": "<p>Commencez par le compte concerné et par l'adresse e-mail qui sert à récupérer vos autres comptes. Changez ensuite tous les comptes où vous avez réutilisé le même mot de passe ou une variante proche, en particulier les services bancaires, achats, stockage de documents et réseaux sociaux.</p><p>Activez la double authentification et vérifiez les appareils connectés pour éviter qu'une session déjà ouverte ne reste accessible.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour récupérer un mot de passe, retenez une règle simple : passez par le site officiel, prouvez votre identité avec les moyens prévus, puis créez un identifiant long et unique. Prenez aussi le temps de mettre à jour votre e-mail, votre numéro de secours et vos codes de récupération. Ces quelques réglages transforment un oubli stressant en incident vite résolu.</p>",
+  "__slug": "comment-recuperer-mot-de-passe"
+}

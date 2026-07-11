@@ -7,7 +7,9 @@ export default defineConfig({
   output: 'static',
   trailingSlash: 'ignore',
   build: {
-    format: 'directory',
+    // 'file' -> /conseils/<slug>.html, matching the legacy WordPress URLs 1:1
+    // so existing SEO / backlinks survive the migration.
+    format: 'file',
     inlineStylesheets: 'auto',
   },
   image: {
