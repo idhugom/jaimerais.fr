@@ -1,0 +1,239 @@
+{
+  "title": "Carte mère ATX : le guide pour comprendre, choisir et monter votre PC",
+  "meta_description": "Carte mère ATX : dimensions, compatibilités, connectique et critères de choix pour monter un PC évolutif, sans erreur ni dépense coûteuse.",
+  "reading_time_min": 11,
+  "hero_intro": "Vous souhaitez monter ou faire évoluer un PC, mais les termes ATX, socket, chipset et PCIe vous semblent encore obscurs ? La carte mère ATX est souvent le meilleur point de départ pour une configuration polyvalente et évolutive. Voici comment comprendre ce format, vérifier les compatibilités essentielles et choisir un modèle vraiment adapté à vos usages.",
+  "key_takeaways": [
+    "ATX désigne d'abord un format de carte mère : jusqu'à 305 × 244 mm, avec généralement plus de ports et de possibilités d'extension que les formats compacts.",
+    "Le format ne suffit pas : le socket, le chipset, la version du BIOS, le type de RAM et le boîtier doivent tous être compatibles entre eux.",
+    "Une bonne carte ATX ne rend pas un processeur plus rapide par magie ; elle assure surtout la connectique, l'alimentation et l'évolutivité dont votre PC a besoin.",
+    "Pour la plupart des PC de jeu et de travail, un seul port PCIe x16 bien placé, deux ou trois emplacements M.2 et une connectique USB cohérente sont plus utiles que des fonctions très haut de gamme.",
+    "Avant l'achat, contrôlez la fiche technique du fabricant, notamment les ports internes, le support du processeur et l'espace disponible dans le boîtier."
+  ],
+  "toc": [
+    "Carte mère ATX : de quoi parle-t-on exactement ?",
+    "ATX, micro-ATX ou mini-ITX : quel format choisir ?",
+    "Les éléments à reconnaître sur une carte mère ATX",
+    "Compatibilités : les vérifications à faire avant tout achat",
+    "Choisir une carte ATX selon son usage et son budget",
+    "La méthode en 7 étapes pour ne pas vous tromper",
+    "Connectique et extension : lire une fiche technique sans jargon",
+    "Monter une carte mère ATX : les erreurs à éviter"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Carte mère ATX : de quoi parle-t-on exactement ?",
+      "html": "<p>Une <strong>carte mère ATX</strong> est une carte mère qui respecte le format ATX, une norme de dimensions et de disposition créée pour les PC de bureau. Dans sa version classique, elle mesure au maximum <strong>305 × 244 mm</strong>. Elle sert de point de rencontre à presque tous les composants : processeur, mémoire vive, carte graphique, SSD, alimentation, ventilateurs et prises du boîtier.</p><p>Le terme ATX ne décrit donc ni la puissance du PC ni une marque. Deux cartes ATX peuvent être très différentes : l'une peut convenir à un ordinateur familial simple, l'autre à une station de travail équipée de nombreux disques et d'une carte graphique exigeante. Ce qui les rapproche est surtout leur gabarit et leur implantation générale.</p><p>Grâce à sa surface plus importante que celle d'une carte compacte, une carte ATX propose souvent davantage de ports USB, de connecteurs pour le stockage, de prises pour ventilateurs et de slots d'extension. C'est pourquoi elle reste un choix rassurant pour qui veut monter un PC de jeu, créer du contenu, travailler sur plusieurs écrans ou garder une marge d'évolution.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les principaux formats de cartes mères en un coup d'oeil",
+      "intro": "Le format détermine avant tout la place occupée dans le boîtier et le niveau d'extension envisageable. Les caractéristiques exactes varient toutefois selon les modèles.",
+      "columns": [
+        "Format",
+        "Dimensions maximales courantes",
+        "Atouts principaux",
+        "À privilégier pour"
+      ],
+      "rows": [
+        [
+          "ATX",
+          "305 × 244 mm",
+          "Connectique généreuse, plusieurs slots d'extension, montage confortable",
+          "PC de jeu, création, bureautique évolutive, plusieurs SSD ou cartes d'extension"
+        ],
+        [
+          "Micro-ATX",
+          "244 × 244 mm",
+          "Format plus compact, souvent moins cher, bon compromis",
+          "PC polyvalent avec un budget maîtrisé et une seule carte graphique"
+        ],
+        [
+          "Mini-ITX",
+          "170 × 170 mm",
+          "Très compact, idéal pour les petits boîtiers",
+          "PC discret, salon ou transportable, avec peu d'extensions"
+        ],
+        [
+          "E-ATX",
+          "Variable, plus grand que l'ATX",
+          "Très nombreux ports et composants haut de gamme possibles",
+          "Station de travail ou configuration très spécifique, dans un grand boîtier"
+        ]
+      ],
+      "note": "Vérifiez toujours les formats explicitement pris en charge par le boîtier : « compatible ATX » n'implique pas nécessairement la compatibilité E-ATX."
+    },
+    {
+      "type": "key_points",
+      "heading": "Les éléments à reconnaître sur une carte ATX",
+      "points": [
+        "Le <strong>socket</strong> accueille le processeur : il doit correspondre exactement au modèle de CPU choisi.",
+        "Les emplacements <strong>DIMM</strong> reçoivent la RAM ; une carte ATX en propose souvent quatre, mais le type DDR4 ou DDR5 est imposé par la plateforme.",
+        "Les longs slots <strong>PCIe</strong> accueillent surtout la carte graphique et, selon les besoins, une carte réseau, son ou d'acquisition.",
+        "Les connecteurs <strong>M.2</strong> accueillent des SSD NVMe compacts ; les ports SATA servent notamment aux SSD et disques durs au format 2,5 ou 3,5 pouces.",
+        "Le panneau arrière regroupe les USB, la prise réseau, les sorties audio et parfois les sorties vidéo ; les connecteurs internes relient le boîtier, ses ports et ses ventilateurs."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Compatibilités : les vérifications à faire avant tout achat",
+      "html": "<p>La première règle est simple : <strong>on choisit d'abord une plateforme de processeur, puis une carte mère compatible</strong>. Un processeur AMD et un processeur Intel n'utilisent pas les mêmes sockets, et deux générations d'une même marque peuvent également nécessiter des sockets différents. Le nom du socket doit correspondre exactement sur les deux fiches produits.</p><p>Le <strong>chipset</strong>, intégré à la carte mère, influence notamment les lignes de connexion disponibles, le nombre potentiel de ports et certaines fonctions de réglage. Il ne faut pas le choisir sur son seul nom : regardez les fonctions concrètes de la carte. Deux modèles avec le même chipset peuvent offrir une connectique, un réseau, un refroidissement ou un équipement très différents.</p><p>Vérifiez ensuite la <strong>liste de processeurs compatibles</strong> publiée par le fabricant de la carte mère. Un modèle de CPU récent peut demander une mise à jour du BIOS, même si le socket est le bon. Si vous achetez les composants séparément, privilégiez une carte annoncée prête pour votre processeur ou dotée d'une fonction de mise à jour du BIOS sans processeur, lorsque cela est nécessaire.</p><p>Enfin, contrôlez la mémoire. La DDR4 et la DDR5 ne sont pas interchangeables : les encoches, les contrôleurs et les cartes mères diffèrent. Consultez le type de RAM accepté, la capacité maximale et, si vous visez des barrettes très rapides ou de grande capacité, la liste de compatibilité mémoire du fabricant. Pour une installation simple, un kit de deux barrettes identiques est généralement le choix le plus équilibré.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "ATX ou micro-ATX : le bon compromis dépend de votre projet",
+      "intro": "L'ATX n'est pas automatiquement « meilleur ». Il apporte surtout de la place et de la flexibilité ; le micro-ATX peut être plus pertinent si votre configuration reste simple.",
+      "left": {
+        "title": "Choisir une carte ATX",
+        "points": [
+          "Vous prévoyez plusieurs SSD, une carte d'acquisition, une carte son ou d'autres extensions.",
+          "Vous voulez davantage de connecteurs pour ventilateurs, USB et stockage.",
+          "Vous utilisez un boîtier moyen tour ou grand tour et appréciez un montage plus aéré.",
+          "Vous souhaitez conserver des possibilités d'évolution sans changer de carte mère."
+        ]
+      },
+      "right": {
+        "title": "Choisir une carte micro-ATX",
+        "points": [
+          "Vous installez une seule carte graphique et peu de périphériques internes.",
+          "Vous cherchez souvent un prix plus bas à équipement comparable.",
+          "Vous préférez un boîtier plus compact, tout en évitant les contraintes du mini-ITX.",
+          "Vous acceptez un nombre plus limité de slots PCIe, M.2 ou connecteurs selon le modèle."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Choisir une carte ATX selon son usage et son budget",
+      "html": "<p>Pour un PC de <strong>bureautique, d'études ou de navigation</strong>, inutile de payer pour des fonctions d'overclocking, du Wi-Fi très haut débit ou quatre emplacements M.2 si vous n'en avez pas l'utilité. Une carte ATX d'entrée ou de milieu de gamme avec le bon socket, des ports USB suffisants et une sortie vidéo adaptée au processeur graphique intégré peut largement suffire.</p><p>Pour un PC de <strong>jeu</strong>, concentrez-vous sur la qualité de l'alimentation du processeur, la compatibilité avec la RAM visée, un port PCIe x16 principal bien positionné, au moins un emplacement M.2 rapide et les connecteurs de ventilateurs nécessaires. Une carte graphique unique reste le scénario courant : les configurations à plusieurs cartes graphiques destinées au jeu sont aujourd'hui marginales et ne doivent pas guider votre achat.</p><p>Pour le <strong>montage vidéo, la 3D, l'audio ou le travail professionnel</strong>, comptez les besoins réels : SSD NVMe, disques SATA, réseau filaire rapide, USB-C, interfaces audio, cartes d'acquisition et périphériques externes. Une carte mieux équipée peut éviter l'ajout d'adaptateurs ou de cartes d'extension plus tard.</p><p>En ordre de grandeur, on trouve souvent des cartes ATX simples autour de <strong>100 à 160 €</strong>, des modèles polyvalents bien équipés entre <strong>160 et 280 €</strong>, et des références haut de gamme au-delà. Le prix peut grimper avec le Wi-Fi intégré, un réseau plus rapide, beaucoup de ports, des contrôleurs supplémentaires ou une alimentation processeur très robuste. Achetez les fonctions dont vous vous servirez, pas seulement une esthétique ou une liste d'arguments marketing.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "La méthode en 7 étapes pour choisir sans vous tromper",
+      "intro": "Prenez ces décisions dans cet ordre : vous éviterez les achats incompatibles et les options superflues.",
+      "steps": [
+        {
+          "title": "Définissez l'usage et le boîtier",
+          "html": "<p>Listez les usages : jeu, montage, télétravail, stockage important, petit PC discret. Vérifiez ensuite que votre boîtier accepte bien l'ATX et qu'il offre assez de place pour la carte graphique, le ventirad ou le radiateur de refroidissement envisagé.</p>"
+        },
+        {
+          "title": "Choisissez le processeur",
+          "html": "<p>Le processeur fixe la plateforme. Notez sa référence exacte, son socket et ses besoins de refroidissement avant de regarder les cartes mères.</p>"
+        },
+        {
+          "title": "Filtrez par socket et support BIOS",
+          "html": "<p>Écartez toutes les cartes dont le socket ne correspond pas. Consultez ensuite la page de support du fabricant pour vérifier la compatibilité du CPU et une éventuelle mise à jour du BIOS.</p>"
+        },
+        {
+          "title": "Sélectionnez le bon type de RAM",
+          "html": "<p>Déterminez si votre plateforme utilise DDR4 ou DDR5, puis choisissez une capacité réaliste. Pour la plupart des usages actuels, deux barrettes permettent de profiter du double canal mémoire lorsque la plateforme le prend en charge.</p>"
+        },
+        {
+          "title": "Comptez vos besoins de stockage",
+          "html": "<p>Prévoyez le nombre de SSD M.2, de SSD SATA ou de disques durs dont vous avez besoin maintenant et demain. Lisez les notes de la fiche technique : l'utilisation de certains ports M.2 peut parfois désactiver un ou plusieurs ports SATA ou partager des ressources.</p>"
+        },
+        {
+          "title": "Vérifiez la connectique visible et interne",
+          "html": "<p>Comparez les USB arrière avec vos périphériques, mais aussi les connecteurs internes avec les prises en façade du boîtier : USB-A, USB-C, audio et ventilateurs. Une prise USB-C en façade ne fonctionnera pas à pleine fonction sans l'en-tête interne correspondant.</p>"
+        },
+        {
+          "title": "Contrôlez alimentation et montage",
+          "html": "<p>Assurez-vous que l'alimentation possède le connecteur principal 24 broches et le ou les connecteurs CPU demandés par la carte. Vérifiez enfin le nombre d'entretoises du boîtier, les dimensions et les garanties avant de commander.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "La connectique à examiner sur la fiche technique",
+      "intro": "Ne vous contentez pas de compter les ports : vérifiez leur type, leur emplacement et leur utilité pour votre configuration.",
+      "columns": [
+        "Élément",
+        "À quoi il sert",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Socket CPU",
+          "Installer le processeur",
+          "La référence du socket doit être strictement identique à celle du processeur."
+        ],
+        [
+          "Slots RAM",
+          "Installer les barrettes mémoire",
+          "DDR4 et DDR5 sont incompatibles ; regardez aussi le nombre de slots et la capacité maximale."
+        ],
+        [
+          "PCIe x16",
+          "Installer principalement la carte graphique",
+          "Un slot long peut avoir un câblage différent ; consultez les spécifications si vous ajoutez des cartes d'extension."
+        ],
+        [
+          "M.2",
+          "Installer un SSD NVMe ou, plus rarement, SATA selon le port",
+          "Vérifiez le nombre d'emplacements, les longueurs de SSD prises en charge et le partage éventuel de lignes."
+        ],
+        [
+          "SATA",
+          "Brancher SSD et disques durs classiques",
+          "Comptez vos disques et contrôlez les restrictions éventuelles liées aux ports M.2."
+        ],
+        [
+          "USB arrière et en-têtes internes",
+          "Brancher les périphériques et les ports en façade",
+          "Distinguez USB-A et USB-C, ainsi que la présence du connecteur interne requis par le boîtier."
+        ],
+        [
+          "Connecteurs ventilateurs",
+          "Alimenter et réguler ventilateurs et pompe",
+          "Additionnez les ventilateurs du boîtier et du refroidissement CPU ; un répartiteur peut être utile."
+        ],
+        [
+          "Réseau et Wi-Fi",
+          "Connecter le PC au réseau",
+          "Le Wi-Fi n'est pas présent sur toutes les versions ; le réseau filaire reste généralement intégré."
+        ]
+      ],
+      "note": "Les appellations commerciales USB peuvent être complexes. Si un débit précis vous importe, vérifiez les caractéristiques détaillées plutôt que le seul nombre de prises."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas carte ATX et alimentation ATX",
+      "html": "<p>Une alimentation « ATX » suit elle aussi un standard courant, mais cela ne garantit pas à lui seul qu'elle convient à votre configuration. Contrôlez sa puissance, sa qualité, ses dimensions dans le boîtier et surtout ses connecteurs : <strong>24 broches pour la carte mère</strong>, alimentation CPU et câbles nécessaires à la carte graphique.</p><p>Une carte mère peut posséder un connecteur CPU supplémentaire destiné aux configurations exigeantes. Il n'est pas toujours indispensable dans une utilisation standard : suivez la notice de la carte mère et ne forcez jamais un câble dans un connecteur.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Monter une carte mère ATX : les erreurs à éviter",
+      "html": "<p>Avant toute manipulation, travaillez sur une table dégagée, évitez la moquette si possible et déchargez l'électricité statique en touchant une partie métallique reliée à la terre. Installez le processeur, la RAM et les SSD M.2 sur la carte mère avant de la placer dans le boîtier : c'est plus confortable et cela limite les gestes délicats dans un espace étroit.</p><p>Dans le boîtier, placez uniquement les <strong>entretoises</strong> correspondant aux trous de fixation de la carte ATX. Une entretoise mal positionnée peut créer un contact électrique indésirable. Ne serrez pas les vis avec excès : la carte doit être maintenue fermement, sans être tordue.</p><p>Les branchements du panneau avant — bouton de démarrage, voyants et parfois haut-parleur — sont petits mais importants. Utilisez le schéma de la notice de la carte mère plutôt que de vous fier à l'intuition. Faites de même pour les connecteurs USB, audio et ventilateurs : leur détrompeur aide, mais ne remplace pas une vérification attentive.</p><p>Au premier démarrage, si l'écran reste noir, gardez votre calme. Contrôlez d'abord le câble d'écran, le branchement 24 broches, le câble CPU, l'insertion de la RAM et la carte graphique. Si le processeur ne possède pas de circuit graphique intégré, l'écran doit être relié aux sorties de la carte graphique, non à celles de la carte mère.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la taille exacte d'une carte mère ATX ?",
+      "a_html": "<p>Le format ATX standard mesure au maximum <strong>305 mm de long sur 244 mm de large</strong>. Certains modèles peuvent être légèrement moins profonds, mais ils restent compatibles avec les emplacements ATX prévus par le boîtier.</p><p>Avant l'achat, consultez la page du boîtier et vérifiez la mention explicite « ATX ». Ne supposez pas qu'un boîtier compact ou micro-ATX pourra accueillir une carte ATX.</p>"
+    },
+    {
+      "q": "Une carte mère ATX est-elle meilleure qu'une micro-ATX ?",
+      "a_html": "<p>Pas systématiquement. L'ATX offre souvent davantage de slots d'extension, de ports de stockage et de connecteurs internes, ce qui est utile pour un PC évolutif. Une micro-ATX peut toutefois proposer toutes les fonctions nécessaires à un PC avec une carte graphique, un ou deux SSD et une utilisation classique.</p><p>Le meilleur format est celui qui correspond à votre boîtier, à votre budget et au nombre réel de composants que vous comptez installer.</p>"
+    },
+    {
+      "q": "Toutes les cartes mères ATX acceptent-elles tous les processeurs ?",
+      "a_html": "<p>Non. La compatibilité dépend d'abord du <strong>socket</strong>, puis du support du processeur par le BIOS de la carte mère. Un CPU ne peut pas être installé sur un socket différent, même si les deux produits sont récents ou appartiennent à la même marque.</p><p>Consultez toujours la liste officielle des processeurs pris en charge par le fabricant de la carte mère, surtout si vous associez un processeur récent à un modèle de carte sorti plus tôt.</p>"
+    },
+    {
+      "q": "Puis-je installer de la DDR5 sur une carte mère ATX DDR4 ?",
+      "a_html": "<p>Non. ATX indique le format physique de la carte, pas le type de mémoire. Une carte mère conçue pour la DDR4 n'accepte que la DDR4, et une carte conçue pour la DDR5 n'accepte que la DDR5.</p><p>Vérifiez le type de RAM dans le nom complet et les spécifications de la carte mère avant de commander les barrettes.</p>"
+    },
+    {
+      "q": "Faut-il obligatoirement une carte graphique avec une carte mère ATX ?",
+      "a_html": "<p>Non. Cela dépend du processeur. Certains processeurs disposent d'une partie graphique intégrée ; si la carte mère possède les sorties vidéo appropriées, vous pouvez brancher un écran sans carte graphique dédiée.</p><p>Pour jouer à des titres exigeants, réaliser du rendu 3D ou certaines tâches de création, une carte graphique dédiée reste souvent préférable. Si votre processeur n'a pas de partie graphique, les prises vidéo de la carte mère ne produiront pas d'image.</p>"
+    },
+    {
+      "q": "Combien coûte une bonne carte mère ATX ?",
+      "a_html": "<p>Pour une configuration simple, comptez souvent autour de 100 à 160 €. Les modèles polyvalents bien équipés se situent fréquemment entre 160 et 280 €, tandis que les cartes haut de gamme peuvent coûter davantage.</p><p>Le bon budget dépend de la plateforme, de vos besoins en stockage, en USB, en réseau et en refroidissement. Mieux vaut investir dans la compatibilité et la connectique utile que dans des options que vous n'utiliserez jamais.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Choisir une <strong>carte mère ATX</strong>, c'est avant tout organiser les fondations de votre PC. Son format généreux en fait une excellente option si vous voulez une machine facile à monter, bien connectée et prête à évoluer.</p><p>Commencez par le processeur et le boîtier, vérifiez ensuite le socket, le BIOS, la RAM, le stockage et les ports internes. Avec cette méthode, vous pourrez comparer les modèles sur des critères concrets et composer une configuration cohérente, sans payer pour des fonctionnalités inutiles.</p>",
+  "__slug": "comprendre-la-carte-atx-guide-pour-debutants"
+}

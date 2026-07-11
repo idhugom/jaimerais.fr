@@ -1,0 +1,227 @@
+{
+  "title": "Réparation avec des pièces détachées : la garantie de votre iPhone est-elle annulée ?",
+  "meta_description": "Pièces d'origine, réparateur indépendant, garantie légale : découvrez quand une réparation d'iPhone peut limiter votre prise en charge.",
+  "reading_time_min": 10,
+  "hero_intro": "Écran fissuré, batterie fatiguée, connecteur capricieux : faire réparer son iPhone est souvent plus raisonnable que le remplacer. Mais une question freine beaucoup d'utilisateurs : une pièce détachée ou un réparateur indépendant fait-il perdre la garantie ? La réponse est nuancée : non, une réparation ne supprime pas automatiquement tous vos droits, mais elle peut compliquer la prise en charge d'une panne liée à l'intervention.",
+  "key_takeaways": [
+    "Une réparation hors réseau Apple n'annule pas automatiquement la garantie légale de conformité ni l'ensemble de la garantie de l'iPhone.",
+    "Apple ou le vendeur peut refuser de couvrir les dommages causés par une pièce non conforme ou une intervention défectueuse, à condition d'établir un lien avec la panne.",
+    "Pour une réparation sans risque administratif, l'Apple Store et les centres de services agréés utilisent des pièces et des procédures validées par Apple.",
+    "Une pièce Apple d'origine posée par un réparateur indépendant n'offre pas nécessairement les mêmes garanties qu'une réparation réalisée dans le réseau Apple.",
+    "Conservez toujours la facture détaillée, l'identité de la pièce installée et, si possible, le diagnostic avant réparation."
+  ],
+  "toc": [
+    "La réponse courte : non, mais la cause de la panne compte",
+    "Distinguer garantie Apple, garantie légale et AppleCare+",
+    "Quel choix de réparation protège le mieux vos droits ?",
+    "Pièce d'origine, compatible ou d'occasion : ce qui change vraiment",
+    "Choisir son réparateur d'iPhone en 5 étapes",
+    "Prix, garanties et documents à demander",
+    "Que faire si une prise en charge est refusée ?",
+    "FAQ : garantie et réparation d'iPhone"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "La réponse courte : non, mais la cause de la panne compte",
+      "html": "<p><strong>Faire réparer un iPhone avec une pièce détachée ne fait pas automatiquement disparaître toute garantie.</strong> En France, vous conservez notamment la garantie légale de conformité envers le vendeur pour un appareil acheté neuf ou reconditionné auprès d'un professionnel. Un vendeur ne peut pas écarter vos droits uniquement parce que l'iPhone a été ouvert ou réparé ailleurs.</p><p>En revanche, une réparation réalisée hors du réseau Apple peut avoir une conséquence concrète : <strong>si la nouvelle panne résulte de cette intervention, de la pièce installée ou d'un dommage provoqué pendant l'ouverture, la prise en charge peut être refusée pour la partie concernée.</strong> Par exemple, un problème de Face ID apparu juste après le remplacement non maîtrisé d'un écran peut être attribué à cette réparation.</p><p>La nuance est essentielle. Une batterie remplacée chez un indépendant ne permet pas, à elle seule, de refuser la prise en charge d'un défaut sans rapport, tel qu'un bouton défectueux ou un problème de carte réseau préexistant. Dans la pratique, le diagnostic et les preuves disponibles déterminent souvent l'issue du dossier.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel avant de confier votre iPhone",
+      "points": [
+        "La casse accidentelle, l'oxydation et l'usure normale ne sont généralement pas couvertes par la garantie légale, avec ou sans réparation antérieure.",
+        "Une garantie commerciale Apple est distincte de vos droits légaux vis-à-vis du vendeur.",
+        "Une pièce non authentique ou mal installée peut générer des alertes système, des fonctions limitées ou une réparation plus coûteuse par la suite.",
+        "Une facture vague du type « réparation téléphone » vous protège moins qu'un document détaillant le modèle, la pièce et la garantie de l'intervention.",
+        "En cas de doute sur une panne couverte, demandez un diagnostic avant toute réparation payante chez un tiers."
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Garantie Apple, garantie légale : ne confondez pas les protections",
+      "intro": "Avant de choisir un réparateur, identifiez le type de couverture dont vous souhaitez bénéficier. Les règles et l'interlocuteur ne sont pas les mêmes.",
+      "left": {
+        "title": "Garantie commerciale Apple ou AppleCare+",
+        "points": [
+          "Contrat proposé par Apple, avec ses conditions, exclusions et durée propres.",
+          "La garantie limitée Apple est habituellement d'un an, tandis que les droits légaux peuvent être plus favorables.",
+          "Apple peut refuser une intervention lorsque le dommage réclamé résulte d'une réparation non autorisée, d'une modification ou d'une pièce inadaptée.",
+          "Une réparation Apple ou par un centre agréé est la solution la plus simple pour préserver la continuité du service Apple."
+        ]
+      },
+      "right": {
+        "title": "Garantie légale de conformité",
+        "points": [
+          "Elle s'exerce auprès du vendeur professionnel qui vous a vendu l'iPhone, et non obligatoirement auprès d'Apple.",
+          "Elle couvre un défaut de conformité existant au moment de la livraison, pas un accident ou une usure attendue.",
+          "Une réparation tierce n'efface pas automatiquement ce droit : le vendeur doit pouvoir relier le défaut invoqué à cette intervention pour s'y opposer.",
+          "Pour un achat neuf, la protection dure en principe deux ans ; les modalités de preuve diffèrent selon l'ancienneté du produit et son statut neuf ou d'occasion."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "L'impact de chaque solution de réparation sur la garantie",
+      "intro": "Voici comment évaluer les options les plus courantes. Le risque ne dépend pas seulement de l'origine de la pièce, mais aussi de la qualité du montage, du diagnostic et de la traçabilité.",
+      "columns": [
+        "Solution",
+        "Pièces et procédures",
+        "Effet probable sur la prise en charge future",
+        "À privilégier si…"
+      ],
+      "rows": [
+        [
+          "Apple Store ou centre de services agréé Apple",
+          "Pièces Apple, outils et calibrages prévus par le fabricant",
+          "Très faible risque de contestation lié à la réparation elle-même ; la réparation est habituellement couverte pendant 90 jours ou jusqu'à la fin de la couverture Apple restante, selon la durée la plus longue",
+          "L'iPhone est encore couvert, la panne est complexe ou vous voulez la solution la plus sécurisante"
+        ],
+        [
+          "Réparateur indépendant utilisant une pièce Apple neuve",
+          "La provenance peut être bonne, mais l'installation et les conditions de garantie dépendent du professionnel",
+          "Vos droits légaux ne disparaissent pas ; Apple peut toutefois exclure les dommages dus à l'intervention tierce",
+          "Vous recherchez un atelier local qualifié avec une facture complète"
+        ],
+        [
+          "Réparateur indépendant avec pièce compatible de qualité",
+          "Qualité très variable selon la référence, le fournisseur et le montage",
+          "Risque plus élevé d'alertes, de fonctions dégradées ou de discussion sur le lien entre la pièce et une panne ultérieure",
+          "L'iPhone est hors couverture et le devis Apple est disproportionné"
+        ],
+        [
+          "Réparation maison ou pièce d'occasion",
+          "Nécessite outils, savoir-faire, compatibilité et parfois configuration logicielle",
+          "Vous assumez le risque d'erreur et les dommages consécutifs ne seront généralement pas couverts",
+          "Vous êtes expérimenté et acceptez de perdre en simplicité de recours"
+        ]
+      ],
+      "note": "Les conditions précises varient selon le modèle, le pays d'achat et le contrat éventuellement souscrit. Demandez toujours les conditions écrites du réparateur et d'Apple avant intervention."
+    },
+    {
+      "type": "prose",
+      "heading": "Pièce d'origine, compatible ou d'occasion : ce qui change vraiment",
+      "html": "<p>Une <strong>pièce Apple d'origine</strong> est conçue pour le modèle concerné. Elle ne garantit pas à elle seule une réparation parfaite : certains composants nécessitent des outils de diagnostic, une configuration ou un calibrage après montage. C'est notamment important pour certaines fonctions liées à l'écran, à l'appareil photo, à la batterie ou aux capteurs.</p><p>Une <strong>pièce compatible</strong> peut être une solution correcte lorsque l'iPhone est ancien ou hors garantie, à condition de connaître sa qualité réelle. Le mot « compatible » ne dit rien de la luminosité d'un écran, de l'autonomie d'une batterie, de la résistance du verre ou de la fiabilité d'un connecteur. Un prix anormalement bas doit donc vous alerter.</p><p>Les pièces <strong>d'occasion</strong>, issues d'un autre appareil, posent un enjeu supplémentaire de traçabilité et d'état d'usure. Sur les iPhone récents, le système peut afficher une information dans l'historique des pièces et des réparations lorsqu'il ne peut pas vérifier ou associer correctement un composant. Cette mention n'est pas, à elle seule, une preuve de panne ni une annulation automatique de garantie ; elle constitue toutefois un signal utile pour un futur acheteur et pour le diagnostic.</p><p>Ne confondez pas non plus réparation et couverture d'un sinistre. Un écran cassé après une chute n'est généralement pas pris en charge au titre de la garantie légale. La question de la pièce détachée devient alors surtout un arbitrage entre prix, qualité, délai et fiabilité future.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux réparations qui touchent les capteurs",
+      "html": "<p>Face ID, les caméras, les capteurs de proximité, l'étanchéité et certaines fonctions d'affichage sont particulièrement sensibles. Pour une panne impliquant ces éléments, un iPhone récent ou encore couvert, demandez d'abord un diagnostic Apple ou d'un centre agréé. Une intervention inadaptée peut transformer une panne localisée en réparation beaucoup plus coûteuse.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Choisir son réparateur d'iPhone en 5 étapes",
+      "intro": "Quelques vérifications simples réduisent fortement le risque de mauvaise surprise, sans vous obliger à choisir systématiquement l'option la plus chère.",
+      "steps": [
+        {
+          "title": "Vérifiez la couverture encore active",
+          "html": "<p>Retrouvez la date d'achat, le vendeur et une éventuelle couverture AppleCare+. Si le défaut semble spontané et que l'iPhone est récent, contactez d'abord le vendeur ou Apple : vous éviterez de payer une réparation qui pourrait relever d'une garantie.</p>"
+        },
+        {
+          "title": "Faites établir un diagnostic écrit",
+          "html": "<p>Décrivez précisément les symptômes et demandez la cause probable de la panne. Prenez des photos de l'appareil avant dépôt, notamment s'il présente déjà des rayures, un choc ou un écran fissuré.</p>"
+        },
+        {
+          "title": "Posez les bonnes questions sur la pièce",
+          "html": "<p>Demandez s'il s'agit d'une pièce Apple neuve, d'une pièce compatible ou d'une pièce d'occasion. Interrogez le réparateur sur l'éventuel calibrage, le maintien de l'étanchéité et les fonctions testées après intervention.</p>"
+        },
+        {
+          "title": "Comparez un devis à périmètre identique",
+          "html": "<p>Un devis doit indiquer la main-d'œuvre, la pièce, les taxes, le délai et la garantie de la réparation. Comparez aussi ce qui est réellement remplacé : deux offres « écran iPhone » peuvent couvrir des composants de qualité très différente.</p>"
+        },
+        {
+          "title": "Exigez une facture détaillée et testez sur place",
+          "html": "<p>Conservez la facture avec l'IMEI ou le numéro de série si possible. Au retrait, vérifiez l'écran, le tactile, les caméras, les haut-parleurs, la charge, le réseau, Face ID ou Touch ID selon le modèle, et l'absence d'alerte inattendue.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quel budget prévoir pour une réparation d'iPhone ?",
+      "intro": "Les tarifs fluctuent beaucoup selon le modèle, la ville et l'origine de la pièce. Ces fourchettes donnent seulement un ordre de grandeur pour comparer un devis, hors dégâts supplémentaires découverts après ouverture.",
+      "columns": [
+        "Intervention",
+        "Réseau Apple ou agréé",
+        "Réparateur indépendant",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Remplacement de batterie",
+          "Souvent autour de 100 à 120 € sur de nombreux modèles récents",
+          "Souvent entre 60 et 120 €",
+          "Capacité réelle, message de pièce, calibrage et garantie de la batterie"
+        ],
+        [
+          "Remplacement d'écran",
+          "Souvent de 200 à plus de 400 € selon le modèle",
+          "Souvent entre 90 et 350 €",
+          "Qualité OLED ou LCD, luminosité, True Tone, tactile et étanchéité"
+        ],
+        [
+          "Connecteur de charge ou haut-parleur",
+          "Tarif variable après diagnostic, parfois remplacement d'un module plus large",
+          "Souvent entre 70 et 180 € selon la panne",
+          "Vérifier que le problème ne vient pas seulement d'un nettoyage ou de l'humidité"
+        ],
+        [
+          "Caméra, Face ID ou carte mère",
+          "Souvent devis ou remplacement d'appareil selon le défaut",
+          "Prix très variable ; expertise nécessaire",
+          "Éviter les promesses de réparation « garantie » sans diagnostic approfondi"
+        ]
+      ],
+      "note": "Un tarif bas est pertinent uniquement si le type de pièce, la durée de garantie et les tests réalisés sont clairement indiqués. Pour les prix officiels, consultez la page de <a href=\"https://support.apple.com/fr-fr/iphone/repair\">réparation iPhone d'Apple</a> correspondant à votre modèle."
+    },
+    {
+      "type": "prose",
+      "heading": "Réparation Apple, indépendant ou réparation maison : quelle option choisir ?",
+      "html": "<p>Le <strong>réseau Apple</strong> est souvent le meilleur choix pour un iPhone récent, encore couvert, ou pour une panne touchant les capteurs et l'électronique. C'est aussi l'option la plus sereine si vous souhaitez éviter tout débat sur la provenance de la pièce. Son principal inconvénient reste le prix, parfois élevé sur les modèles haut de gamme.</p><p>Un <strong>réparateur indépendant sérieux</strong> peut être un excellent compromis pour une batterie ou un écran d'un appareil hors garantie. Cherchez des avis cohérents, un atelier identifié, un devis transparent et une vraie garantie de réparation. Un professionnel fiable ne promet pas l'impossible : il vous avertit notamment lorsqu'une fonction ne peut être garantie après une chute ou une infiltration d'eau.</p><p>La <strong>réparation par vos soins</strong> peut convenir à une personne équipée et avertie, notamment grâce aux programmes de pièces et d'outils proposés pour certains modèles. Elle ne vous prive pas mécaniquement de la garantie légale, mais vous supportez les conséquences d'une erreur de montage. Avant d'ouvrir l'iPhone, sauvegardez vos données et assurez-vous que la panne ne relève pas déjà d'une prise en charge.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "La meilleure réparation n'est pas forcément la moins chère : c'est celle dont vous connaissez la pièce, le responsable, la garantie et les limites avant de confier votre téléphone.",
+      "author": "Conseil pratique jaimerais.fr"
+    },
+    {
+      "type": "prose",
+      "heading": "Que faire si Apple ou le vendeur refuse une prise en charge ?",
+      "html": "<p>Demandez d'abord un <strong>refus écrit et motivé</strong>. L'interlocuteur doit préciser le défaut constaté et expliquer en quoi la réparation antérieure ou la pièce installée serait à l'origine du problème. Une formule générale du type « appareil déjà réparé » ne répond pas, à elle seule, à votre demande concernant un défaut potentiellement distinct.</p><p>Rassemblez ensuite vos éléments : preuve d'achat, contrat AppleCare+ s'il existe, devis initial, facture de la réparation, photos, échanges et diagnostic du réparateur. Si vous invoquez la garantie légale de conformité, adressez-vous au <strong>vendeur professionnel</strong> qui vous a vendu l'iPhone, de préférence par écrit.</p><p>En cas de désaccord, vous pouvez demander un second diagnostic auprès d'un autre professionnel ou vous renseigner sur la <a href=\"https://www.economie.gouv.fr/particuliers/garantie-legale-conformite\">garantie légale de conformité</a>. Restez factuel : votre objectif est d'établir si la panne actuelle est indépendante de la réparation, ou au contraire si le réparateur ayant réalisé l'intervention doit appliquer sa propre garantie.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe si l'iPhone est encore sous garantie",
+      "html": "<p>Ne faites pas remplacer immédiatement une pièce chez un tiers lorsque la panne paraît spontanée. Commencez par sauvegarder l'iPhone, vérifier son état de couverture, puis solliciter le vendeur ou Apple. Vous garderez davantage d'options si le diagnostic conclut à un défaut pris en charge.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Un réparateur indépendant peut-il annuler la garantie de mon iPhone ?",
+      "a_html": "<p>Non, pas automatiquement. Une réparation indépendante ne fait pas disparaître par elle-même la garantie légale de conformité due par le vendeur. En revanche, Apple, le vendeur ou l'assureur peut refuser de prendre en charge un dommage causé par cette intervention ou par une pièce défectueuse.</p><p>Conservez donc un diagnostic et une facture détaillée : ils permettent de distinguer une nouvelle panne d'un problème consécutif à la réparation.</p>"
+    },
+    {
+      "q": "Puis-je faire changer la batterie de mon iPhone sans perdre la garantie ?",
+      "a_html": "<p>Oui, mais le choix du prestataire a son importance. Un remplacement chez Apple ou un centre agréé est le plus simple pour préserver la continuité de la couverture Apple. Chez un indépendant, vos droits légaux subsistent, mais une panne liée à la batterie ou à son installation pourra être renvoyée vers ce réparateur.</p>"
+    },
+    {
+      "q": "Une pièce Apple d'origine installée chez un indépendant préserve-t-elle la garantie Apple ?",
+      "a_html": "<p>Pas nécessairement dans les mêmes conditions qu'une réparation réalisée par Apple ou un centre agréé. L'authenticité de la pièce est un point positif, mais Apple peut aussi tenir compte du montage, des éventuels dommages et des procédures de configuration requises.</p><p>Demandez au réparateur la provenance de la pièce, les opérations effectuées et la garantie écrite sur son intervention.</p>"
+    },
+    {
+      "q": "Que signifie le message « pièce inconnue » ou l'information sur l'historique des pièces ?",
+      "a_html": "<p>Selon le modèle et le composant concerné, l'iPhone peut signaler qu'il ne peut pas vérifier ou associer une pièce remplacée. Cela peut résulter d'une pièce non reconnue, d'une pièce déjà utilisée ou d'une procédure de configuration non effectuée.</p><p>Cette information ne prouve pas à elle seule que l'iPhone est inutilisable ou que toute garantie est annulée, mais elle peut révéler une réparation à examiner avant une vente ou une demande de SAV.</p>"
+    },
+    {
+      "q": "Quelle garantie s'applique après une réparation chez Apple ?",
+      "a_html": "<p>Les réparations et pièces de remplacement réalisées par Apple sont généralement couvertes pendant 90 jours, ou pendant la durée restante de la garantie Apple ou du contrat AppleCare applicable si celle-ci est plus longue. Vérifiez les conditions mentionnées sur votre document de réparation.</p><p>Cette garantie de service s'ajoute à vos droits légaux éventuels et ne les remplace pas.</p>"
+    },
+    {
+      "q": "La garantie légale de conformité couvre-t-elle un écran d'iPhone cassé ?",
+      "a_html": "<p>En principe, non si la fissure résulte d'une chute, d'un choc ou d'un autre accident après l'achat. La garantie légale couvre un défaut de conformité, pas les dommages accidentels ni l'usure normale.</p><p>Si l'écran présente un défaut sans choc apparent sur un téléphone récent, contactez plutôt le vendeur avant de faire réparer l'appareil à vos frais.</p>"
+    }
+  ],
+  "conclusion_html": "<p><strong>Une réparation avec pièce détachée n'annule donc pas automatiquement la garantie de votre iPhone.</strong> Le point décisif est le lien éventuel entre l'intervention et la panne que vous souhaitez faire couvrir. Pour un appareil récent, couvert ou affecté par une panne sensible, privilégiez Apple ou un centre agréé. Pour un iPhone hors garantie, un indépendant compétent, transparent sur la pièce et capable de fournir une facture détaillée peut être un choix économique et durable.</p><p>Avant de décider, comparez les devis à qualité égale, sauvegardez vos données et gardez toutes les preuves. Vous réparerez ainsi votre iPhone avec plus de sérénité, sans renoncer inutilement à vos droits.</p>",
+  "__slug": "est-ce-que-les-reparations-avec-pieces-detachees-annulent-la-garantie-de-liphone"
+}

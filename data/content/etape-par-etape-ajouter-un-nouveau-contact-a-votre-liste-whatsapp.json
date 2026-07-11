@@ -1,0 +1,209 @@
+{
+  "title": "Comment ajouter un contact sur WhatsApp : étapes sur Android et iPhone",
+  "meta_description": "Ajoutez un contact sur WhatsApp, Android ou iPhone : étapes simples, numéro international, QR code et solutions si son nom n'apparaît pas.",
+  "reading_time_min": 9,
+  "hero_intro": "Vous avez reçu un numéro et souhaitez écrire à cette personne sur WhatsApp ? L'ajout se fait généralement dans le carnet d'adresses de votre téléphone, puis WhatsApp synchronise le contact automatiquement. Voici la méthode pas à pas, les alternatives pratiques et les réglages à vérifier si le contact reste introuvable.",
+  "key_takeaways": [
+    "Un contact WhatsApp est d'abord un contact enregistré dans le répertoire de votre iPhone ou smartphone Android.",
+    "Enregistrez le numéro au bon format, avec l'indicatif international si la personne vit à l'étranger.",
+    "WhatsApp devrait détecter le contact après l'enregistrement ; sinon, vérifiez les autorisations d'accès aux contacts.",
+    "Un QR code ou un lien wa.me permet de démarrer un échange sans saisir manuellement le numéro.",
+    "Le fait d'ajouter quelqu'un ne garantit pas que vous verrez sa photo, son statut ou sa dernière présence : tout dépend de ses réglages de confidentialité."
+  ],
+  "toc": [
+    "Ce qu'il faut préparer avant d'ajouter un contact",
+    "Ajouter un nouveau contact sur WhatsApp pas à pas",
+    "Quel format de numéro utiliser ?",
+    "Ajouter quelqu'un par QR code ou par lien",
+    "Le contact n'apparaît pas : les vérifications utiles",
+    "Gérer ses contacts WhatsApp sans négliger sa confidentialité",
+    "Questions fréquentes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Ce qu'il faut préparer avant d'ajouter un contact",
+      "html": "<p>Pour joindre une personne sur WhatsApp, vous avez besoin de son <strong>numéro de téléphone mobile exact</strong>. WhatsApp associe chaque compte à un numéro : le nom affiché dans votre liste provient, lui, du contact que vous avez enregistré dans le répertoire de votre téléphone.</p><p>Demandez toujours le numéro directement à la personne ou vérifiez-le avec elle. Une seule erreur de chiffre peut vous conduire vers un inconnu, surtout si vous partagez ensuite des informations personnelles. Si votre interlocuteur se trouve dans un autre pays, conservez l'indicatif international : c'est indispensable pour que WhatsApp identifie correctement le numéro.</p><p>Enfin, la personne doit avoir créé un compte WhatsApp avec ce numéro pour être joignable dans l'application. Vous pouvez tout de même enregistrer son numéro dans vos contacts si elle n'utilise pas encore WhatsApp ; vous pourrez la contacter plus tard ou lui envoyer une invitation depuis l'application.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Avant de commencer : les trois réflexes utiles",
+      "points": [
+        "Notez le nom et le numéro sans vous fier uniquement à une capture d'écran ou à un transfert de message.",
+        "Pour un numéro étranger, utilisez « + », l'indicatif pays puis le numéro sans le zéro initial lorsqu'il existe.",
+        "Enregistrez le contact dans le compte de contacts que vous synchronisez réellement : téléphone, Google ou iCloud.",
+        "N'ajoutez pas un numéro professionnel ou inconnu à un groupe sans demander l'accord de son propriétaire."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Ajouter un nouveau contact et lui écrire sur WhatsApp",
+      "intro": "Les libellés varient légèrement selon la version de l'application et du téléphone, mais le principe reste identique : créer le contact, l'enregistrer, puis ouvrir une discussion.",
+      "steps": [
+        {
+          "title": "Ouvrez une nouvelle discussion",
+          "html": "<p>Dans WhatsApp, rendez-vous dans l'onglet des discussions et touchez l'icône permettant de créer un <strong>nouveau message</strong>. Sur Android comme sur iPhone, vous accédez à la liste de vos contacts compatibles avec WhatsApp.</p>"
+        },
+        {
+          "title": "Choisissez « Nouveau contact »",
+          "html": "<p>Dans cette liste, sélectionnez l'option <strong>« Nouveau contact »</strong>. Vous pouvez aussi créer la fiche depuis l'application Contacts de votre téléphone : le résultat sera le même une fois la synchronisation effectuée.</p>"
+        },
+        {
+          "title": "Saisissez le nom et le bon numéro",
+          "html": "<p>Indiquez au minimum un prénom ou un nom facile à retrouver, puis le numéro de mobile. Vérifiez particulièrement les chiffres, l'indicatif pays et les éventuels espaces. Ajoutez une note, une entreprise ou une adresse e-mail si cela vous aide à distinguer vos contacts.</p>"
+        },
+        {
+          "title": "Enregistrez la fiche",
+          "html": "<p>Validez avec « Enregistrer », « Terminé » ou l'icône de validation. Si votre téléphone vous demande où sauvegarder la fiche, choisissez de préférence le compte que vous utilisez déjà pour vos contacts, par exemple Google sur Android ou iCloud sur iPhone.</p>"
+        },
+        {
+          "title": "Revenez dans WhatsApp et lancez la conversation",
+          "html": "<p>Retournez dans la liste des nouvelles discussions. Le contact apparaît souvent immédiatement. Touchez son nom, écrivez un premier message et envoyez-le. Si rien n'apparaît, fermez puis rouvrez WhatsApp avant de passer aux vérifications expliquées plus bas.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quel format saisir pour un numéro WhatsApp ?",
+      "intro": "Le format international évite la plupart des erreurs, notamment lorsque vous voyagez ou échangez avec une personne vivant à l'étranger.",
+      "columns": [
+        "Situation",
+        "Format conseillé",
+        "Exemple indicatif",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Contact en France",
+          "Numéro français ou format international",
+          "+33 6 12 34 56 78",
+          "Avec +33, retirez le 0 initial du 06 ou 07."
+        ],
+        [
+          "Contact à l'étranger",
+          "Signe +, indicatif pays, numéro local",
+          "+32 4 70 12 34 56",
+          "Le zéro local n'est pas toujours conservé : vérifiez selon le pays."
+        ],
+        [
+          "Numéro transmis sur un site ou une carte",
+          "Reprenez les chiffres sans extension",
+          "+1 212 555 0123",
+          "Une extension de standard ne correspond généralement pas à un compte WhatsApp."
+        ],
+        [
+          "Numéro professionnel",
+          "Utilisez le numéro communiqué par l'entreprise",
+          "+49 151 12345678",
+          "Certains numéros fixes ou standards ne sont pas associés à WhatsApp."
+        ]
+      ],
+      "note": "Les exemples illustrent le format attendu ; demandez confirmation au titulaire du numéro en cas de doute."
+    },
+    {
+      "type": "comparison",
+      "heading": "Saisie manuelle, QR code ou lien : quelle méthode choisir ?",
+      "intro": "Vous n'êtes pas obligé de taper un numéro à la main. La meilleure option dépend surtout de la situation et du niveau de confiance entre vous.",
+      "left": {
+        "title": "Créer une fiche contact manuellement",
+        "points": [
+          "Idéal pour un proche, un client ou un collègue que vous souhaitez retrouver durablement.",
+          "Permet d'ajouter un nom, une entreprise, une note et d'autres coordonnées.",
+          "Demande de vérifier soigneusement le numéro et son indicatif.",
+          "La fiche reste dans votre répertoire, même si vous n'écrivez qu'une fois."
+        ]
+      },
+      "right": {
+        "title": "Utiliser un QR code ou un lien de discussion",
+        "points": [
+          "Très pratique en face à face, sur un profil professionnel ou sur un site.",
+          "Évite les erreurs de saisie et peut ouvrir une conversation immédiatement.",
+          "Un QR code WhatsApp peut être partagé puis révoqué ou renouvelé si nécessaire.",
+          "Un lien ouvre une discussion, mais n'enregistre pas forcément la personne dans votre répertoire."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Ajouter quelqu'un avec un QR code ou un lien WhatsApp",
+      "html": "<p>Le <strong>QR code WhatsApp</strong> est utile lorsque vous êtes avec la personne. Dans WhatsApp, ouvrez vos réglages puis cherchez l'icône de QR code située près de votre profil. L'onglet de numérisation permet de scanner le code de votre interlocuteur ; l'application vous propose ensuite de l'ajouter et d'ouvrir une discussion. Ne scannez pas un code affiché par une source douteuse : un code peut vous diriger vers un compte ou une conversation que vous ne connaissez pas.</p><p>Autre possibilité : un lien de discussion au format <strong>wa.me/numéro</strong>. Le numéro doit être écrit au format international, uniquement avec les chiffres, sans signe « + », espace ni parenthèses. Par exemple, un lien utilisant un numéro français commencera par 33, suivi du numéro sans son zéro initial. Cette solution est souvent utilisée par les commerces et les indépendants.</p><p>Un lien permet d'échanger rapidement sans encombrer votre répertoire. En revanche, si vous souhaitez reconnaître facilement la personne plus tard, prenez une minute pour créer sa fiche contact après le premier échange.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux numéros et QR codes inconnus",
+      "html": "<p>Ajouter un numéro ne prouve pas l'identité de son titulaire. Méfiez-vous des messages urgents, des demandes de code de vérification, d'argent ou d'informations bancaires. WhatsApp ne vous demandera jamais de transmettre votre code personnel à six chiffres. En cas de doute, vérifiez l'identité de la personne par un autre canal avant de répondre.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Le contact n'apparaît pas dans WhatsApp : les vérifications utiles",
+      "html": "<p>Si la fiche est enregistrée mais absente de WhatsApp, commencez par fermer complètement l'application puis la rouvrir. La synchronisation est habituellement automatique, mais elle peut prendre quelques instants, surtout après une modification récente du carnet d'adresses.</p><p>Vérifiez ensuite que WhatsApp a bien l'<strong>autorisation d'accéder à vos contacts</strong>. Sur iPhone, ouvrez Réglages, puis WhatsApp et activez l'accès aux Contacts. Sur Android, ouvrez les réglages du téléphone, puis Applications, WhatsApp, Autorisations et autorisez les Contacts. Les intitulés peuvent légèrement différer selon le fabricant du smartphone.</p><p>Contrôlez aussi le numéro : bon pays, chiffre non manquant, absence d'ancien numéro et carte SIM réellement associée au compte. Si tout est correct mais que WhatsApp propose seulement d'inviter la personne, elle n'utilise probablement pas WhatsApp avec ce numéro, ou son compte est associé à une autre ligne.</p><p>Enfin, regardez où est stockée la fiche. Sur certains téléphones, un filtre masque des contacts enregistrés sur un compte secondaire, une carte SIM ou un compte professionnel. Faites afficher tous les contacts dans l'application Contacts, puis vérifiez de nouveau WhatsApp.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Dépanner en moins de cinq minutes",
+      "intro": "Procédez dans cet ordre : il évite de modifier inutilement vos réglages ou de créer des doublons.",
+      "steps": [
+        {
+          "title": "Recherchez la fiche dans le répertoire du téléphone",
+          "html": "<p>Si elle n'y figure pas, créez-la ou corrigez-la directement. WhatsApp ne peut pas synchroniser une fiche absente du carnet d'adresses sélectionné.</p>"
+        },
+        {
+          "title": "Contrôlez le format international",
+          "html": "<p>Comparez le numéro avec celui fourni par son propriétaire. Corrigez l'indicatif pays et retirez le zéro initial si le format international du pays le requiert.</p>"
+        },
+        {
+          "title": "Autorisez l'accès aux contacts",
+          "html": "<p>Dans les réglages du téléphone, assurez-vous que WhatsApp peut consulter les Contacts. Refermez puis rouvrez l'application après la modification.</p>"
+        },
+        {
+          "title": "Mettez à jour WhatsApp et le système si besoin",
+          "html": "<p>Une version ancienne peut provoquer des comportements inhabituels. Installez les mises à jour disponibles depuis votre boutique d'applications, sans télécharger de fichier depuis un site non officiel.</p>"
+        },
+        {
+          "title": "Demandez une confirmation à la personne",
+          "html": "<p>Si WhatsApp ne la détecte toujours pas, demandez-lui si ce numéro est bien celui relié à son compte. Elle peut également vous envoyer son QR code ou son lien de discussion.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Gérer ses contacts WhatsApp avec simplicité et confidentialité",
+      "html": "<p>Une liste de discussions bien tenue vous fait gagner du temps. Pour les échanges réguliers, épinglez les conversations importantes en haut de l'écran, attribuez une sonnerie personnalisée à certains contacts si cette option vous est utile, et archivez les conversations terminées plutôt que de les supprimer dans la précipitation. L'archivage les masque sans effacer leur contenu.</p><p>Vous pouvez aussi créer des listes de diffusion pour transmettre une même information à plusieurs personnes sans révéler les destinataires entre eux. Cela convient par exemple à une famille, une association ou de petits groupes de clients ayant donné leur accord. Une liste de diffusion n'est pas un groupe : les réponses vous arrivent en privé.</p><p>Ajouter quelqu'un à vos contacts ne lui donne pas accès à tout. Selon vos paramètres et les siens, votre photo de profil, votre statut, votre dernière présence ou vos informations de connexion peuvent être visibles ou masqués. Prenez le temps de consulter les réglages Confidentialité de WhatsApp et de définir qui peut voir ces éléments.</p><p>Pour un échange ponctuel ou un numéro dont vous ne souhaitez plus recevoir de messages, vous pouvez supprimer la fiche de votre téléphone, effacer la discussion ou bloquer le compte. Le blocage empêche de nouveaux messages et appels venant de ce compte, sans envoyer de notification explicite à la personne.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon compromis pour un contact ponctuel",
+      "html": "<p>Vous échangez avec un livreur, un vendeur ou un participant à un événement ? Ouvrez la discussion via son lien ou son QR code, puis décidez après l'échange si son numéro mérite d'être enregistré. Votre répertoire reste plus lisible et vous limitez la conservation de données inutiles.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on ajouter un contact directement dans WhatsApp ?",
+      "a_html": "<p>Oui. Depuis l'écran de nouvelle discussion, choisissez généralement « Nouveau contact », renseignez la fiche et enregistrez-la. En pratique, WhatsApp crée alors un contact dans le répertoire de votre téléphone : il ne s'agit pas d'une liste totalement séparée.</p><p>Vous pouvez également passer par l'application Contacts de votre iPhone ou de votre téléphone Android, puis revenir dans WhatsApp.</p>"
+    },
+    {
+      "q": "Pourquoi WhatsApp ne trouve-t-il pas un numéro pourtant enregistré ?",
+      "a_html": "<p>Les causes les plus courantes sont un numéro au mauvais format, l'absence d'autorisation d'accès aux contacts, une synchronisation temporairement bloquée ou un compte WhatsApp associé à un autre numéro.</p><p>Vérifiez le format international, autorisez les Contacts dans les réglages du téléphone et relancez WhatsApp. Si l'application propose d'inviter la personne, elle n'utilise peut-être pas ce numéro sur WhatsApp.</p>"
+    },
+    {
+      "q": "Comment ajouter un numéro étranger sur WhatsApp ?",
+      "a_html": "<p>Enregistrez-le avec le signe « + », suivi de l'indicatif du pays puis du numéro local. Dans de nombreux pays, il faut supprimer le zéro placé au début du numéro local après l'indicatif, comme pour un numéro français enregistré en +33 6 ou +33 7.</p><p>Les règles ne sont pas identiques partout : le plus sûr est de demander à la personne de vous envoyer son numéro déjà au format international, son QR code ou son lien WhatsApp.</p>"
+    },
+    {
+      "q": "La personne sait-elle que je l'ai ajoutée à mes contacts WhatsApp ?",
+      "a_html": "<p>Non, WhatsApp n'envoie pas de notification indiquant que vous avez enregistré son numéro dans votre répertoire. Elle peut en revanche recevoir votre message si vous lui écrivez, ou constater certains éléments de votre profil selon vos paramètres de confidentialité respectifs.</p>"
+    },
+    {
+      "q": "Comment écrire à quelqu'un sur WhatsApp sans l'enregistrer dans mes contacts ?",
+      "a_html": "<p>Vous pouvez utiliser un lien wa.me contenant son numéro au format international sans espaces ni symbole « + ». Un QR code WhatsApp scanné depuis l'application peut également ouvrir une discussion. Vous pouvez ensuite conserver ou non la fiche dans votre répertoire.</p>"
+    },
+    {
+      "q": "Comment supprimer ou bloquer un contact sur WhatsApp ?",
+      "a_html": "<p>Pour retirer son nom de votre liste de contacts, supprimez sa fiche dans l'application Contacts du téléphone. Pour ne plus voir une conversation sans la supprimer, archivez-la. Si vous ne souhaitez plus être contacté, ouvrez la discussion, accédez aux informations du contact et choisissez l'option de blocage.</p><p>Supprimer une fiche ne bloque pas nécessairement les messages ; le blocage est l'action adaptée lorsqu'il faut interrompre les échanges.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Ajouter un contact sur WhatsApp est simple dès lors que le numéro est exact et que l'application peut accéder à votre répertoire. Retenez surtout le bon format international, utilisez le QR code ou le lien pour aller plus vite, et vérifiez les autorisations si un nom manque à l'appel.</p><p>Une fois la discussion ouverte, gardez la main sur votre expérience : enregistrez les contacts utiles, archivez les échanges ponctuels et ajustez vos réglages de confidentialité pour communiquer sereinement.</p>",
+  "__slug": "etape-par-etape-ajouter-un-nouveau-contact-a-votre-liste-whatsapp"
+}

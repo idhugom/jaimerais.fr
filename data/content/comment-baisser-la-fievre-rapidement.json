@@ -1,0 +1,217 @@
+{
+  "title": "Comment faire baisser la fièvre rapidement et sans risque",
+  "meta_description": "Fièvre : gestes sûrs pour se soulager, médicaments à employer avec prudence et signes d'alerte pour consulter rapidement en toute sécurité.",
+  "reading_time_min": 9,
+  "hero_intro": "Quand la température monte, l'envie de la faire redescendre au plus vite est compréhensible. Pourtant, la fièvre est souvent une réaction utile de l'organisme : l'objectif n'est pas toujours de retrouver 37 °C, mais de soulager l'inconfort, d'éviter la déshydratation et de repérer les situations qui demandent un avis médical. Voici les gestes fiables à adopter, chez l'adulte comme chez l'enfant.",
+  "key_takeaways": [
+    "Une température de 38 °C ou plus est généralement considérée comme de la fièvre, mais la méthode de mesure compte.",
+    "Hydratation, repos, vêtements légers et pièce tempérée sont les premiers réflexes les plus utiles.",
+    "Le paracétamol peut soulager l'inconfort, à condition de respecter strictement la notice et les contre-indications.",
+    "Les bains glacés, l'alcool sur la peau, l'aspirine chez l'enfant et l'alternance improvisée de médicaments sont à éviter.",
+    "Une fièvre chez un nourrisson de moins de 3 mois ou accompagnée de signes inquiétants nécessite une évaluation médicale rapide."
+  ],
+  "toc": [
+    "Fièvre : bien mesurer avant d'agir",
+    "Les premiers gestes qui soulagent vraiment",
+    "Ce qu'il vaut mieux faire, limiter ou éviter",
+    "Médicaments contre la fièvre : les utiliser avec prudence",
+    "Paracétamol ou ibuprofène : comment faire le bon choix ?",
+    "Fièvre chez l'enfant : une vigilance particulière",
+    "Quand consulter rapidement ou appeler les urgences ?",
+    "Suivre l'évolution plutôt que poursuivre un chiffre"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Fièvre : bien mesurer avant d'agir",
+      "html": "<p>On parle généralement de fièvre à partir de <strong>38 °C</strong>. Mais une valeur isolée ne suffit pas à juger la gravité d'une situation : la température varie au cours de la journée, après un effort, selon les vêtements portés et selon la méthode de prise. Une personne à 38,5 °C qui boit, échange normalement et respire bien ne se trouve pas dans la même situation qu'une personne très abattue à une température moins élevée.</p><p>Utilisez un thermomètre fiable et suivez sa notice. Les résultats diffèrent selon que la mesure est prise au front, dans l'oreille, sous l'aisselle, dans la bouche ou par voie rectale. Pour suivre une évolution, gardez si possible <strong>la même méthode</strong>, notez l'heure et observez aussi les symptômes associés : douleurs, toux, diarrhée, éruption, gêne respiratoire, frissons, état de vigilance ou urines rares.</p><p>La fièvre accompagne fréquemment une infection virale ou bactérienne, mais elle ne donne pas à elle seule un diagnostic. Chercher à la faire disparaître immédiatement ne doit donc pas faire oublier l'essentiel : le confort de la personne malade, l'hydratation et la surveillance de son état général.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Repères utiles à garder en tête",
+      "items": [
+        {
+          "value": "38 °C",
+          "label": "repère habituel à partir duquel on parle de fièvre"
+        },
+        {
+          "value": "Moins de 3 mois",
+          "label": "âge auquel toute fièvre justifie un avis médical urgent"
+        },
+        {
+          "value": "15 ou 112",
+          "label": "numéros à appeler en France en cas de signe de détresse ou d'urgence"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Les premiers gestes qui soulagent vraiment",
+      "intro": "Ces mesures simples n'éliminent pas la cause de la fièvre, mais elles aident le corps à mieux traverser l'épisode et limitent le risque de déshydratation.",
+      "steps": [
+        {
+          "title": "1. Faire boire régulièrement",
+          "html": "<p>Proposez souvent de petites quantités d'eau, de bouillon, de soupe ou de boisson adaptée aux habitudes de la personne. En cas de nausées, quelques gorgées répétées sont souvent mieux tolérées qu'un grand verre. Chez un bébé, poursuivez les tétées ou proposez les biberons plus fréquemment.</p>"
+        },
+        {
+          "title": "2. Alléger sans refroidir brutalement",
+          "html": "<p>Retirez les couches de vêtements superflues, les couvertures épaisses et les couettes qui font transpirer. Préférez des vêtements légers et une chambre aérée, à température confortable. Si la personne a froid et frissonne, ne la laissez pas grelotter : les frissons augmentent la production de chaleur.</p>"
+        },
+        {
+          "title": "3. Favoriser le repos",
+          "html": "<p>Le repos aide à récupérer. Inutile de forcer à manger : une alimentation légère selon l'appétit suffit généralement pendant un court épisode. En revanche, les boissons restent prioritaires, surtout en cas de transpiration, de vomissements ou de diarrhée.</p>"
+        },
+        {
+          "title": "4. Soulager le symptôme qui gêne le plus",
+          "html": "<p>Un antalgique-antipyrétique peut être envisagé si la fièvre s'accompagne de douleur, de malaise ou empêche le sommeil. Le but est de retrouver un confort acceptable, pas nécessairement de normaliser le thermomètre.</p>"
+        },
+        {
+          "title": "5. Réévaluer calmement",
+          "html": "<p>Après les mesures de confort ou un médicament, observez surtout le comportement, la respiration, la capacité à boire et l'évolution générale. Évitez de reprendre la température toutes les dix minutes : cela augmente l'inquiétude sans améliorer la prise en charge.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Fièvre : ce qui aide, ce qui aide peu et ce qu'il faut éviter",
+      "intro": "Les gestes spectaculaires ne sont pas forcément les plus efficaces. Ce tableau permet de distinguer les bons réflexes des pratiques risquées.",
+      "columns": [
+        "Situation ou geste",
+        "À faire ou non ?",
+        "Pourquoi"
+      ],
+      "rows": [
+        [
+          "Boire souvent, en petites quantités",
+          "À faire",
+          "La fièvre et la transpiration favorisent les pertes en eau. L'hydratation est une priorité."
+        ],
+        [
+          "Vêtements légers, drap fin, pièce tempérée",
+          "À faire",
+          "Cela limite la sensation d'étouffement sans provoquer de frissons."
+        ],
+        [
+          "Repos et repas légers selon l'appétit",
+          "À faire",
+          "L'organisme récupère mieux ; il n'est pas utile de se forcer à manger."
+        ],
+        [
+          "Gant ou douche tiède, seulement si cela apaise",
+          "À limiter",
+          "Cela peut procurer un confort ponctuel, mais doit être arrêté si la personne frissonne ou se sent mal."
+        ],
+        [
+          "Bain froid, douche glacée, poches de glace",
+          "À éviter",
+          "Le froid brutal peut déclencher des frissons et aggraver l'inconfort."
+        ],
+        [
+          "Alcool, vinaigre ou huiles essentielles sur la peau",
+          "À éviter",
+          "Ces pratiques peuvent irriter, être toxiques ou ne présentent pas de bénéfice démontré."
+        ],
+        [
+          "Se couvrir abondamment pour « transpirer la fièvre »",
+          "À éviter",
+          "Cela retient la chaleur et peut majorer la déshydratation."
+        ],
+        [
+          "Antibiotiques restants à la maison",
+          "À éviter",
+          "Ils ne traitent pas les virus et ne doivent être prescrits que pour une cause identifiée."
+        ]
+      ],
+      "note": "Le confort et l'état général priment sur la recherche d'une baisse rapide et parfaite du chiffre affiché."
+    },
+    {
+      "type": "prose",
+      "heading": "Médicaments contre la fièvre : soulager, pas traiter la cause",
+      "html": "<p>Un médicament antipyrétique n'est pas systématique. Chez un adulte ou un enfant qui supporte bien sa température, boit et reste en bon état général, les mesures de confort peuvent suffire. On envisage surtout un traitement lorsque la fièvre est mal tolérée : douleur, grande fatigue, maux de tête, courbatures, sommeil impossible ou enfant manifestement inconfortable.</p><p>Le <strong>paracétamol</strong> est habituellement le médicament privilégié pour la douleur et la fièvre, sous réserve de respecter la notice, les intervalles entre les prises et la dose maximale. Chez l'enfant, la dose dépend du poids et non de l'âge seul : une présentation adaptée et un dispositif de mesure précis sont indispensables. Une erreur de dose de paracétamol peut provoquer une atteinte grave du foie, parfois sans signe immédiat.</p><p>Avant toute prise, vérifiez les autres médicaments utilisés contre le rhume, la grippe ou la douleur : beaucoup contiennent déjà du paracétamol. En cas de maladie du foie, de consommation importante d'alcool, de traitement régulier ou de doute, demandez conseil au pharmacien ou au médecin. Si une dose excessive a été prise, sollicitez immédiatement un avis médical, même si la personne se sent bien.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Paracétamol ou ibuprofène : comment faire le bon choix ?",
+      "intro": "Ces médicaments ne sont pas interchangeables. Le choix dépend de l'âge, du contexte, des antécédents et des autres traitements en cours.",
+      "left": {
+        "title": "Paracétamol",
+        "points": [
+          "Souvent privilégié en première intention pour la fièvre douloureuse ou mal tolérée.",
+          "La posologie doit suivre strictement la notice et, chez l'enfant, être calculée selon le poids.",
+          "Ne pas cumuler plusieurs produits contenant du paracétamol.",
+          "Demander conseil en cas de maladie du foie, d'alcoolisation importante ou de doute sur les doses."
+        ]
+      },
+      "right": {
+        "title": "Ibuprofène et autres anti-inflammatoires",
+        "points": [
+          "Peuvent avoir des contre-indications importantes et ne conviennent pas à toutes les situations.",
+          "À éviter notamment en cas de déshydratation, de varicelle, d'ulcère, de maladie rénale ou de certains traitements.",
+          "Contre-indiqués à partir du 6e mois de grossesse ; un avis médical est nécessaire pendant la grossesse.",
+          "En cas de suspicion d'infection, demandez l'avis d'un professionnel plutôt que de vous automédiquer."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Chez l'enfant : pas d'improvisation avec les médicaments",
+      "html": "<p>Ne donnez jamais d'<strong>aspirine</strong> à un enfant ou à un adolescent fébrile sans prescription médicale. N'alternez pas paracétamol et ibuprofène de votre propre initiative : cette pratique augmente le risque d'erreur de dose et n'est pas recommandée en automédication. Utilisez le produit prescrit ou conseillé, contrôlez sa concentration et conservez une trace de l'heure et de la quantité administrée.</p><p>Un enfant qui refuse durablement de boire, devient inhabituellement mou, inconsolable, difficile à réveiller ou respire mal doit être évalué sans attendre, quel que soit le chiffre de température.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Quand consulter rapidement ou appeler les urgences ?",
+      "html": "<p>La température elle-même compte moins que les signes qui l'accompagnent. Chez un <strong>nourrisson de moins de 3 mois</strong>, une température de 38 °C ou plus nécessite un avis médical urgent. Chez un enfant plus grand ou un adulte, consultez rapidement si la fièvre persiste, s'aggrave, revient plusieurs jours de suite ou s'accompagne d'un symptôme inhabituel. Une personne enceinte, immunodéprimée, très âgée ou atteinte d'une maladie chronique importante doit aussi demander conseil plus tôt.</p><p>Appelez le <strong>15 ou le 112</strong> en France si la personne présente une difficulté à respirer, une douleur thoracique, une confusion, une somnolence inhabituelle, une nuque raide avec fort mal de tête, des lèvres bleutées, une éruption violacée qui ne s'efface pas à la pression, des signes marqués de déshydratation ou un état qui se dégrade rapidement. Chez l'enfant, une première convulsion, une perte de connaissance ou une difficulté à le réveiller relèvent également d'une urgence.</p><p>En cas de convulsion fébrile, restez près de l'enfant, éloignez les objets dangereux, placez-le sur le côté dès que possible et ne mettez rien dans sa bouche. Ne tentez pas de bloquer ses mouvements. Chronométrez la durée et appelez les secours, surtout s'il s'agit d'une première crise, si elle dure plus de quelques minutes ou si l'enfant ne retrouve pas rapidement son état habituel.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les signes de déshydratation à surveiller",
+      "points": [
+        "Bouche très sèche, soif intense ou absence de larmes chez le jeune enfant.",
+        "Urines beaucoup moins fréquentes, très foncées ou couches inhabituellement sèches.",
+        "Vertiges, faiblesse marquée, yeux creusés ou difficulté à rester éveillé.",
+        "Vomissements ou diarrhée qui empêchent de garder les liquides.",
+        "Refus persistant de boire chez un bébé ou un enfant."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon indicateur : l'évolution de l'état général",
+      "html": "<p>Notez la température, les médicaments réellement pris, les quantités bues et les nouveaux symptômes. Ces informations seront bien plus utiles à un professionnel de santé qu'une succession de mesures isolées. Une personne qui recommence à boire, parle normalement et récupère progressivement est généralement sur une trajectoire plus rassurante, même si la fièvre n'a pas totalement disparu.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Suivre l'évolution plutôt que poursuivre un chiffre",
+      "html": "<p>Une fièvre liée à une infection virale courante peut fluctuer pendant quelques jours. Après un antipyrétique, elle peut baisser puis remonter lorsque l'effet s'estompe : cela ne signifie pas forcément que l'état s'aggrave. Ce qui doit guider la décision est l'ensemble du tableau : durée, intensité, symptômes associés, terrain de la personne et capacité à s'hydrater.</p><p>Contactez un médecin ou un pharmacien si la fièvre dure plus de quelques jours chez l'adulte, si elle ne s'améliore pas chez l'enfant, ou plus tôt si vous êtes inquiet. Consultez également si elle réapparaît après une amélioration, si une douleur localisée devient importante ou si de nouveaux symptômes surviennent. Mieux vaut demander un conseil adapté que multiplier les remèdes maison ou les médicaments.</p><p>Enfin, évitez les activités physiques intenses et l'alcool tant que la fièvre est présente. Reprenez progressivement le rythme habituel après au moins une amélioration nette de l'état général. La récupération a parfois besoin d'un peu plus de temps que la baisse de la température.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il absolument faire baisser une fièvre à 38 °C ?",
+      "a_html": "<p>Non. Une température de 38 °C ne nécessite pas automatiquement un médicament si la personne se sent globalement bien, boit correctement et ne présente pas de signe d'alerte. On traite surtout l'inconfort, la douleur et la mauvaise tolérance, tout en surveillant l'évolution.</p><p>Chez un nourrisson de moins de 3 mois, en revanche, une fièvre de 38 °C ou plus requiert un avis médical urgent, même si son comportement paraît rassurant.</p>"
+    },
+    {
+      "q": "Comment faire baisser la fièvre d'un enfant ?",
+      "a_html": "<p>Faites-le boire souvent, habillez-le légèrement, laissez-le se reposer et surveillez son comportement. Si un médicament est nécessaire, utilisez uniquement celui qui est adapté à son âge, à son poids et à sa situation, en respectant exactement la notice ou l'ordonnance.</p><p>N'utilisez pas d'aspirine, ne donnez pas de bain froid et n'alternez pas des médicaments sans avis professionnel. Consultez rapidement si l'enfant est très abattu, boit peu, respire mal ou présente un signe inhabituel.</p>"
+    },
+    {
+      "q": "Peut-on prendre une douche quand on a de la fièvre ?",
+      "a_html": "<p>Une douche tiède peut être prise si elle procure une sensation de bien-être, mais elle ne doit pas être froide. L'objectif n'est pas de refroidir brutalement le corps : si elle déclenche des frissons, elle est contre-productive et doit être arrêtée.</p><p>Les bains glacés, les douches froides et les applications de glace sont déconseillés, car ils peuvent augmenter l'inconfort et provoquer des frissons.</p>"
+    },
+    {
+      "q": "Peut-on prendre paracétamol et ibuprofène ensemble pour faire tomber la fièvre ?",
+      "a_html": "<p>Ne les associez ni ne les alternez sans recommandation explicite d'un médecin ou d'un pharmacien. Cette pratique rend les erreurs de dose et d'horaire plus probables, particulièrement chez l'enfant.</p><p>Le paracétamol est souvent choisi en première intention lorsqu'un traitement est utile. L'ibuprofène comporte davantage de contre-indications, notamment en cas de déshydratation, de varicelle, de certaines maladies ou de grossesse.</p>"
+    },
+    {
+      "q": "À partir de quelle température faut-il aller aux urgences ?",
+      "a_html": "<p>Il n'existe pas un seul chiffre valable pour tout le monde. Les urgences sont justifiées surtout par l'état général et les signes associés : gêne respiratoire, confusion, raideur de nuque, éruption violacée, déshydratation importante, convulsion ou dégradation rapide.</p><p>Une température de 38 °C ou plus chez un bébé de moins de 3 mois doit faire demander un avis médical urgent. En cas de doute ou de signe de détresse, appelez le 15 ou le 112 en France.</p>"
+    },
+    {
+      "q": "La fièvre peut-elle provoquer une convulsion chez l'enfant ?",
+      "a_html": "<p>Des convulsions fébriles peuvent survenir chez certains jeunes enfants, le plus souvent entre 6 mois et 5 ans, parfois au début d'une poussée de fièvre. Les médicaments antipyrétiques améliorent le confort mais ne garantissent pas la prévention de ces convulsions.</p><p>Lors d'une crise, sécurisez l'enfant, ne mettez rien dans sa bouche et appelez les secours, particulièrement s'il s'agit de la première convulsion, si elle se prolonge ou si la récupération n'est pas rapide.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour faire face à la fièvre, retenez une règle simple : <strong>hydrater, alléger, laisser récupérer et surveiller</strong>. Les médicaments peuvent aider quand l'inconfort est réel, mais ils doivent être employés avec précision et prudence. Si l'âge, les symptômes ou l'évolution vous inquiètent, ne cherchez pas à gérer seul : un pharmacien, un médecin ou les urgences pourront vous orienter vers la bonne prise en charge.</p>",
+  "__slug": "comment-baisser-la-fievre-rapidement"
+}

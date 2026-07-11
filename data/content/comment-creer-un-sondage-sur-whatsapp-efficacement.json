@@ -1,0 +1,199 @@
+{
+  "title": "Comment créer un sondage sur WhatsApp et obtenir des réponses utiles",
+  "meta_description": "Créez un sondage WhatsApp clair en quelques secondes : étapes iPhone et Android, options, confidentialité et erreurs courantes à éviter.",
+  "reading_time_min": 9,
+  "hero_intro": "Choisir une date, un restaurant, une activité ou trancher une décision d'équipe ne mérite pas toujours une longue chaîne de messages. Le sondage WhatsApp permet de recueillir des votes directement dans une conversation, en groupe comme en privé. Encore faut-il poser la bonne question, proposer des choix lisibles et savoir interpréter les réponses.",
+  "key_takeaways": [
+    "Un sondage WhatsApp se crée depuis une conversation : touchez le trombone sur Android ou le bouton « + » sur iPhone, puis « Sondage ».",
+    "Posez une seule question par sondage et proposez des options courtes, distinctes et réellement exploitables.",
+    "Désactivez les réponses multiples lorsqu'un seul choix est attendu ; activez-les surtout pour les disponibilités ou les listes d'intérêts.",
+    "Les votes ne sont pas anonymes : les participants d'un groupe peuvent consulter le détail des votes.",
+    "Un sondage WhatsApp ne se modifie pas après envoi ; relisez-le et annoncez une échéance avant de le publier."
+  ],
+  "toc": [
+    "Pourquoi utiliser un sondage WhatsApp ?",
+    "Créer un sondage sur WhatsApp : les étapes",
+    "Choisir le bon format de réponse",
+    "Rédiger une question qui fait vraiment décider",
+    "Sondage WhatsApp ou formulaire externe ?",
+    "Faire voter sans relancer inutilement",
+    "Confidentialité, limites et erreurs à éviter",
+    "Lire les résultats et passer à l'action"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi utiliser un sondage WhatsApp ?",
+      "html": "<p>Le sondage intégré à WhatsApp transforme une discussion confuse en choix visible par tous. Il est particulièrement pratique lorsque les personnes concernées sont déjà réunies dans le même groupe : famille, amis, association, équipe de travail, parents d'élèves ou colocataires.</p><p>Son principal avantage est la simplicité. Personne n'a besoin d'ouvrir un lien, de créer un compte ou de chercher les réponses parmi des dizaines de messages. Chacun vote dans l'application qu'il utilise déjà, puis le groupe visualise rapidement la tendance.</p><p>Ce format convient surtout aux <strong>décisions courtes et concrètes</strong> : retenir une date, choisir un lieu, savoir qui participe, sélectionner un créneau ou départager quelques idées. Pour une enquête détaillée, des réponses anonymes ou l'analyse de nombreuses données, un formulaire dédié sera plus adapté.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Créer un sondage sur WhatsApp : les étapes",
+      "intro": "La procédure est presque identique sur Android et iPhone. Les intitulés peuvent légèrement varier selon la version de l'application.",
+      "steps": [
+        {
+          "title": "Ouvrez la bonne conversation",
+          "html": "<p>Lancez WhatsApp, puis ouvrez le groupe ou la conversation individuelle dans lequel vous souhaitez recueillir les réponses. Vérifiez les destinataires avant de publier : un sondage envoyé dans le mauvais groupe peut être supprimé, mais il est préférable d'éviter cette situation.</p>"
+        },
+        {
+          "title": "Accédez à l'outil « Sondage »",
+          "html": "<p>Sur Android, touchez généralement l'icône en forme de trombone à côté du champ de saisie, puis choisissez <strong>« Sondage »</strong>. Sur iPhone, touchez le bouton <strong>« + »</strong> près du champ de message, puis « Sondage ». Sur WhatsApp Web ou l'application de bureau, cherchez l'icône de pièce jointe dans la conversation.</p>"
+        },
+        {
+          "title": "Écrivez une question sans ambiguïté",
+          "html": "<p>Saisissez une seule décision à prendre. Préférez « Quel créneau retenons-nous pour la réunion ? » à « Quand êtes-vous disponibles et quel sujet voulez-vous aborder ? ». Une question trop large produit des votes difficiles à utiliser.</p>"
+        },
+        {
+          "title": "Ajoutez les options de réponse",
+          "html": "<p>Renseignez chaque proposition dans un champ distinct. WhatsApp permet généralement d'ajouter jusqu'à <strong>12 options</strong>, mais un choix raisonnable de deux à six options est souvent plus confortable à lire. Réorganisez les réponses si nécessaire avant l'envoi.</p>"
+        },
+        {
+          "title": "Réglez les réponses multiples et envoyez",
+          "html": "<p>Choisissez si les participants peuvent cocher plusieurs réponses. Désactivez cette option lorsqu'il faut élire une seule date, un seul lieu ou une seule activité. Relisez ensuite l'ensemble, ajoutez si besoin une date limite dans votre message, puis envoyez le sondage.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe avant d'envoyer",
+      "html": "<p>Ajoutez une phrase de contexte juste avant ou juste après le sondage : <strong>« Merci de voter avant jeudi 18 h ; nous retiendrons l'option qui obtient le plus de voix. »</strong> Les participants savent ainsi pourquoi ils votent, jusqu'à quand et selon quelle règle la décision sera prise.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quel réglage choisir selon votre besoin ?",
+      "intro": "Le paramètre « Autoriser plusieurs réponses » change fortement la qualité des résultats. Voici comment l'utiliser à bon escient.",
+      "columns": [
+        "Situation",
+        "Exemple de question",
+        "Réponses multiples",
+        "Conseil pratique"
+      ],
+      "rows": [
+        [
+          "Fixer un rendez-vous",
+          "« Quel créneau vous convient ? »",
+          "Oui",
+          "Chaque personne coche tous ses créneaux possibles ; retenez ensuite celui qui rassemble le plus de monde."
+        ],
+        [
+          "Choisir un restaurant",
+          "« Où dînons-nous vendredi ? »",
+          "Non",
+          "Une personne, un vote : les options doivent être comparables en prix, distance ou style."
+        ],
+        [
+          "Recenser des participants",
+          "« Qui sera présent au barbecue ? »",
+          "Non",
+          "Proposez « Je viens », « Je ne viens pas » et, si utile, « Je ne sais pas encore »."
+        ],
+        [
+          "Choisir des activités",
+          "« Quelles activités vous intéressent ? »",
+          "Oui",
+          "Le vote sert ici à établir des priorités, pas nécessairement à n'en garder qu'une seule."
+        ],
+        [
+          "Collecter un avis nuancé",
+          "« Que pensez-vous du projet ? »",
+          "Non, ou formulaire externe",
+          "Des choix comme « favorable », « à revoir », « défavorable » sont possibles, mais un commentaire libre peut être nécessaire."
+        ],
+        [
+          "Répartir des tâches",
+          "« Quelles tâches pouvez-vous prendre ? »",
+          "Oui",
+          "Précisez qu'une réponse vaut engagement uniquement si cela a été convenu avec le groupe."
+        ]
+      ],
+      "note": "Le sondage WhatsApp est idéal pour décider rapidement. Il ne remplace pas un outil de planification lorsque les contraintes ou les réponses deviennent nombreuses."
+    },
+    {
+      "type": "prose",
+      "heading": "Rédiger une question qui fait vraiment décider",
+      "html": "<p>Un sondage efficace ne consiste pas seulement à cliquer sur un bouton : il doit permettre une action précise. Commencez par définir la décision attendue. À la fin du vote, devez-vous réserver une table, bloquer un créneau, commander du matériel ou simplement mesurer l'intérêt du groupe ? Cette réponse guide la formulation.</p><p>Écrivez des options <strong>homogènes et indépendantes</strong>. Pour une sortie, évitez de mélanger « samedi soir », « cinéma » et « chez Léa » dans la même liste. Interrogez d'abord la disponibilité, puis le type d'activité dans un second sondage si nécessaire. Deux petits votes successifs sont souvent plus utiles qu'un seul sondage confus.</p><p>Donnez les informations qui influencent réellement le choix : date complète, heure, quartier, budget approximatif ou durée. « Samedi 12 octobre, 19 h, centre-ville » est plus exploitable que « samedi soir ». Limitez aussi les formulations orientées, telles que « On est tous d'accord pour choisir le meilleur restaurant italien ? ».</p><p>Enfin, prévoyez un choix de repli lorsque c'est pertinent. « Aucun de ces créneaux » ou « Je ne peux pas encore répondre » évite de transformer une absence de solution en faux accord. Vous saurez alors s'il faut proposer de nouvelles options.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Sondage WhatsApp ou formulaire externe ?",
+      "intro": "Le bon outil dépend moins du nombre de participants que du niveau de détail, de confidentialité et de suivi dont vous avez besoin.",
+      "left": {
+        "title": "Le sondage intégré à WhatsApp",
+        "points": [
+          "À privilégier pour une décision simple, rapide et liée à une discussion existante.",
+          "Aucun lien à ouvrir : la participation est généralement plus spontanée.",
+          "Jusqu'à 12 options, avec choix unique ou réponses multiples.",
+          "Résultats visibles directement dans la conversation.",
+          "Peu adapté aux réponses longues, aux questions conditionnelles et à l'anonymat."
+        ]
+      },
+      "right": {
+        "title": "Un formulaire externe",
+        "points": [
+          "À choisir pour plusieurs questions, des commentaires libres ou une collecte structurée.",
+          "Peut proposer des réponses anonymes selon l'outil et ses réglages.",
+          "Permet d'ajouter des champs obligatoires, des logiques conditionnelles et parfois une exportation des données.",
+          "Demande un lien, une configuration et parfois une relance supplémentaire.",
+          "Utile pour un questionnaire d'équipe, une inscription détaillée ou un retour d'expérience."
+        ]
+      }
+    },
+    {
+      "type": "key_points",
+      "heading": "Faire voter sans relancer inutilement",
+      "points": [
+        "Annoncez l'objectif : « Le résultat nous permettra de réserver aujourd'hui. »",
+        "Fixez une échéance réaliste, surtout si une réservation ou une organisation en dépend.",
+        "Évitez de taguer immédiatement chaque membre : laissez d'abord le temps de voir le message.",
+        "Si des réponses manquent, envoyez un seul rappel bref et courtois près de l'échéance.",
+        "Dites ce qui se passe en cas d'égalité : second tour, choix de l'organisateur ou priorité à l'option la plus accessible.",
+        "Publiez la décision finale dans le groupe, même si le résultat vous semble évident."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Confidentialité, limites et erreurs à éviter",
+      "html": "<p>Les sondages WhatsApp sont protégés par le chiffrement de bout en bout de l'application, mais cela ne signifie pas qu'ils sont anonymes. Dans un groupe, les membres peuvent consulter le détail du sondage, notamment via l'option permettant de voir les votes. Ne les utilisez donc pas pour des sujets personnels, sensibles ou susceptibles de mettre quelqu'un mal à l'aise.</p><p>Une fois le sondage envoyé, vous ne pouvez pas modifier sa question ni ses propositions. Si vous avez fait une erreur, créez un nouveau sondage et indiquez clairement que le précédent ne doit plus être pris en compte. Vous pouvez aussi supprimer votre message si la situation l'exige, dans les limites prévues par WhatsApp, mais cette solution ne corrige pas le manque de clarté auprès des personnes qui l'ont déjà vu.</p><p>WhatsApp ne propose pas, en règle générale, de véritable fonction de clôture avec verrouillage des votes ni d'analyse avancée. Annoncez vous-même l'heure de fin, relevez le résultat à ce moment-là et publiez la conclusion. Gardez aussi à l'esprit qu'un participant peut ajuster son vote : le décompte peut donc évoluer jusqu'à votre décision.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Trois erreurs qui faussent un sondage",
+      "html": "<ul><li><strong>Trop d'options :</strong> une liste interminable décourage le vote et disperse les voix.</li><li><strong>Le mauvais mode de réponse :</strong> autoriser plusieurs choix pour élire un seul gagnant rend le résultat ambigu.</li><li><strong>Aucune règle de décision :</strong> sans échéance ni consigne, le groupe ne sait pas quand le résultat devient définitif.</li></ul>"
+    },
+    {
+      "type": "prose",
+      "heading": "Lire les résultats et passer à l'action",
+      "html": "<p>Pour consulter un sondage, ouvrez le message concerné et touchez l'affichage des votes ou l'option « Voir les votes ». Vous accédez au total par réponse et, dans un groupe, au détail des choix. Ne vous contentez pas de regarder l'option en tête : vérifiez si les réponses multiples, les indécis ou une faible participation changent l'interprétation.</p><p>La règle la plus simple est la majorité relative : l'option qui reçoit le plus de voix l'emporte. Elle fonctionne bien lorsqu'il faut choisir un restaurant ou une activité. Pour une date, il peut être plus pertinent de retenir le créneau qui convient au plus grand nombre, même s'il n'arrive pas largement en tête dans un vote à choix unique. C'est précisément pour cela que les disponibilités gagnent à être recueillies avec plusieurs réponses autorisées.</p><p>Terminez toujours par un message clair : <strong>« Le samedi 12 octobre à 19 h a recueilli le plus de disponibilités. Je réserve ce soir ; merci de me confirmer si votre situation change. »</strong> Cette dernière étape transforme le vote en décision et montre que la participation a eu un effet concret. Elle augmente aussi les chances que le groupe réponde aux prochains sondages.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment créer un sondage WhatsApp sur iPhone ?",
+      "a_html": "<p>Ouvrez la discussion concernée, touchez le bouton « + » à gauche du champ de saisie, puis choisissez « Sondage ». Rédigez la question, ajoutez les options, réglez les réponses multiples si besoin et envoyez.</p><p>Si l'option n'apparaît pas, vérifiez que WhatsApp est à jour dans l'App Store, puis relancez l'application.</p>"
+    },
+    {
+      "q": "Pourquoi l'option « Sondage » n'apparaît-elle pas dans WhatsApp ?",
+      "a_html": "<p>La cause la plus fréquente est une version ancienne de l'application. Mettez WhatsApp à jour depuis le Play Store ou l'App Store, puis ouvrez à nouveau la conversation. Sur ordinateur, essayez également d'actualiser WhatsApp Web ou l'application de bureau.</p><p>Vérifiez aussi que vous ouvrez bien le menu des pièces jointes ou le bouton « + » de la conversation, et non les paramètres généraux de l'application.</p>"
+    },
+    {
+      "q": "Les sondages WhatsApp sont-ils anonymes ?",
+      "a_html": "<p>Non. Les résultats et le détail des votes sont consultables dans la conversation par les participants concernés. Le chiffrement de WhatsApp protège les échanges contre les personnes extérieures à la discussion, mais il ne rend pas les votes anonymes vis-à-vis des membres du groupe.</p><p>Pour une question sensible, privilégiez un outil de formulaire configuré pour recueillir des réponses anonymes et expliquez clairement son fonctionnement aux répondants.</p>"
+    },
+    {
+      "q": "Peut-on modifier un sondage WhatsApp après l'avoir envoyé ?",
+      "a_html": "<p>Non, la question et les options ne peuvent pas être éditées après l'envoi. Relisez donc les dates, les horaires et les intitulés avant de publier le sondage.</p><p>En cas d'erreur, créez un nouveau sondage corrigé et écrivez un message explicite demandant au groupe d'ignorer le précédent. Selon les possibilités offertes par WhatsApp au moment de l'action, vous pouvez aussi supprimer votre propre message, mais il reste plus sûr de publier une correction visible.</p>"
+    },
+    {
+      "q": "Peut-on limiter un sondage WhatsApp à une seule réponse ?",
+      "a_html": "<p>Oui. Lors de la création, désactivez l'option qui autorise plusieurs réponses. Chaque participant devra alors sélectionner une seule proposition, ce qui est recommandé pour désigner un lieu, une date définitive ou une option gagnante.</p><p>Activez les réponses multiples uniquement si une personne peut valablement retenir plusieurs options, par exemple plusieurs créneaux de disponibilité.</p>"
+    },
+    {
+      "q": "Comment fermer un sondage WhatsApp et connaître le résultat final ?",
+      "a_html": "<p>WhatsApp ne propose pas forcément un bouton de clôture qui bloque les votes. Indiquez donc une date et une heure limites dans la conversation, consultez le décompte à ce moment-là, puis annoncez la décision au groupe.</p><p>Pour éviter les contestations, précisez à l'avance la règle retenue : majorité, créneau accessible au plus grand nombre ou second tour en cas d'égalité.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Créer un sondage sur WhatsApp ne prend qu'une minute, mais un bon résultat repose surtout sur la préparation : <strong>une décision, une question claire, des options comparables et une échéance annoncée</strong>. Utilisez le vote unique pour départager, les réponses multiples pour recueillir des disponibilités, et gardez en tête que les choix ne sont pas anonymes.</p><p>Une fois les votes recueillis, prenez la décision et communiquez-la sans attendre. C'est ce qui fait d'un simple sondage un véritable outil d'organisation collective.</p>",
+  "__slug": "comment-creer-un-sondage-sur-whatsapp-efficacement"
+}

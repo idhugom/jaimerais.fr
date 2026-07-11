@@ -1,0 +1,235 @@
+{
+  "title": "Calcul de note : comment ramener facilement une note sur 20",
+  "meta_description": "Convertissez toute note sur 20 avec la bonne formule : exemples, arrondis, coefficients et conseils pour mieux lire vos résultats.",
+  "reading_time_min": 9,
+  "hero_intro": "Vous avez obtenu 13 sur 15, 37 sur 50 ou 82 sur 100 et vous souhaitez savoir ce que cela vaut sur 20 ? La conversion est simple dès lors que l'on applique la bonne proportion. Découvrez la formule, des exemples détaillés et les précautions à prendre pour interpréter vos résultats sans vous tromper.",
+  "key_takeaways": [
+    "Pour convertir une note sur 20, multipliez la note obtenue par 20, puis divisez le résultat par le total de points possible.",
+    "La formule préserve exactement le pourcentage de réussite : 75 % correspond toujours à 15/20.",
+    "N'arrondissez qu'à la fin du calcul et vérifiez la règle appliquée par votre établissement.",
+    "Les coefficients se calculent sur les notes déjà ramenées à une même échelle, ou avec une moyenne pondérée adaptée.",
+    "Une note convertie facilite la comparaison, mais elle ne résume pas à elle seule les compétences acquises."
+  ],
+  "toc": [
+    "La formule pour ramener une note sur 20",
+    "Comprendre la proportionnalité derrière le calcul",
+    "Exemples de conversion de notes sur 20",
+    "Arrondi : quelle règle appliquer ?",
+    "Coefficient, moyenne et barèmes différents",
+    "Les situations où la conversion demande de la prudence",
+    "Calculer sa note sur 20 en quelques étapes",
+    "Mieux interpréter son résultat au-delà du chiffre"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "La formule pour ramener une note sur 20",
+      "html": "<p>La règle est toujours la même : <strong>note sur 20 = (note obtenue × 20) ÷ total de points</strong>. Il vous faut donc connaître deux informations : le nombre de points que vous avez obtenus et le nombre maximal de points que l'évaluation permettait d'obtenir.</p><p>Par exemple, pour une note de 18 sur 24, le calcul est : 18 × 20 ÷ 24 = 15. Votre résultat équivaut donc à <strong>15/20</strong>. La méthode fonctionne avec tous les barèmes positifs : sur 10, sur 30, sur 40, sur 50 ou sur 100.</p><p>Cette opération est une règle de trois. Elle conserve votre part de réussite : si vous avez obtenu les trois quarts des points, vous aurez aussi les trois quarts de 20, soit 15/20. Inutile de chercher une formule différente selon la matière ou le type de devoir, tant que le barème est proportionnel.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les trois réflexes à avoir avant de calculer",
+      "points": [
+        "Relevez le barème total réel, y compris si le devoir est noté sur 17, 23 ou 37 points.",
+        "Utilisez la note brute avant un éventuel bonus, malus ou coefficient, sauf indication contraire de l'enseignant.",
+        "Gardez au moins deux décimales pendant le calcul, puis arrondissez seulement le résultat final.",
+        "Distinguez une note d'évaluation d'une moyenne : la seconde peut intégrer des coefficients.",
+        "Vérifiez si l'établissement affiche les notes au dixième, au centième ou à l'entier."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Exemples : convertir les barèmes les plus courants",
+      "intro": "Voici plusieurs calculs pour visualiser rapidement le passage à une note sur 20.",
+      "columns": [
+        "Note obtenue",
+        "Calcul",
+        "Équivalent sur 20",
+        "Pourcentage de réussite"
+      ],
+      "rows": [
+        [
+          "7/10",
+          "7 × 20 ÷ 10",
+          "14/20",
+          "70 %"
+        ],
+        [
+          "13/15",
+          "13 × 20 ÷ 15",
+          "17,33/20",
+          "86,67 %"
+        ],
+        [
+          "18/24",
+          "18 × 20 ÷ 24",
+          "15/20",
+          "75 %"
+        ],
+        [
+          "21/30",
+          "21 × 20 ÷ 30",
+          "14/20",
+          "70 %"
+        ],
+        [
+          "37/50",
+          "37 × 20 ÷ 50",
+          "14,8/20",
+          "74 %"
+        ],
+        [
+          "82/100",
+          "82 × 20 ÷ 100",
+          "16,4/20",
+          "82 %"
+        ]
+      ],
+      "note": "Pour passer d'un pourcentage à une note sur 20, multipliez simplement le pourcentage par 20 puis divisez par 100. Ainsi, 68 % équivaut à 13,6/20."
+    },
+    {
+      "type": "comparison",
+      "heading": "Conversion sur 20 ou pourcentage : deux lectures complémentaires",
+      "intro": "Les deux formats décrivent le même niveau de réussite, mais ne répondent pas tout à fait au même besoin.",
+      "left": {
+        "title": "La note sur 20",
+        "points": [
+          "Format très courant dans le système scolaire français.",
+          "Pratique pour comparer plusieurs matières notées selon le même repère.",
+          "Facile à situer : 10/20 représente la moitié des points.",
+          "Peut être nécessaire pour calculer une moyenne ou respecter un format demandé."
+        ]
+      },
+      "right": {
+        "title": "Le pourcentage",
+        "points": [
+          "Lecture immédiate de la part de points obtenus.",
+          "Utile pour comparer des évaluations internationales ou des outils numériques.",
+          "Particulièrement clair sur des barèmes atypiques, comme 17 ou 43 points.",
+          "Ne remplace pas les règles de validation propres à une formation."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Pourquoi la formule est exacte, et non une estimation",
+      "html": "<p>Dans un barème classique, la conversion sur 20 n'est pas une approximation : c'est une <strong>équivalence mathématique exacte</strong>. Une note de 12 sur 16 représente 75 % des points ; 75 % de 20 font 15. La difficulté d'un devoir ou le nombre de questions ne changent pas ce rapport.</p><p>Il faut toutefois distinguer l'équivalence de points de l'interprétation pédagogique. Deux évaluations peuvent toutes deux aboutir à 15/20 tout en mesurant des connaissances différentes, avec un niveau d'exigence différent. La conversion permet de comparer une proportion de réussite, pas de déclarer que deux devoirs ont exactement la même valeur formative.</p><p>Le principe ne reste fidèle que si chaque point du barème a le même statut. Si un enseignant fixe une note plancher, applique une pénalité particulière ou valorise une compétence par niveaux, le résultat officiel peut ne pas correspondre à une simple règle de trois.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le raccourci à connaître",
+      "html": "<p>Pour une note sur 10, il suffit de <strong>multiplier par 2</strong>. Pour une note sur 100, il suffit de <strong>diviser par 5</strong>. Exemples : 8,5/10 = 17/20 ; 65/100 = 13/20.</p><p>Pour tous les autres barèmes, gardez la formule complète : note obtenue × 20 ÷ total des points.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Arrondi : faut-il écrire 14,6, 14,7 ou 15/20 ?",
+      "html": "<p>Après conversion, une note tombe souvent avec des décimales. Par exemple, 11 sur 16 donnent 13,75 sur 20. La règle la plus prudente consiste à <strong>conserver la valeur précise</strong> pour vos calculs personnels, puis à appliquer l'arrondi attendu uniquement au moment de présenter le résultat.</p><p>En arrondi usuel au dixième, 13,75 devient 13,8/20. À l'unité, il devient 14/20. Mais les pratiques varient : certains logiciels tronquent au lieu d'arrondir, d'autres gardent deux décimales, et un règlement d'examen peut définir une règle spécifique. Une troncature de 13,79 donne 13,7, alors qu'un arrondi au dixième donne 13,8.</p><p>Ne modifiez jamais une note officielle sur la seule base de votre calcul. Si votre résultat affiché paraît différent, vérifiez d'abord le barème, les points de pénalité, les questions bonus et la règle d'arrondi annoncée.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Moyenne avec coefficients : la bonne méthode",
+      "intro": "Lorsqu'il y a plusieurs devoirs, convertir les notes sur une base commune aide à calculer une moyenne pondérée.",
+      "columns": [
+        "Évaluation",
+        "Note ramenée sur 20",
+        "Coefficient",
+        "Contribution au calcul"
+      ],
+      "rows": [
+        [
+          "Contrôle de vocabulaire",
+          "16/20",
+          "1",
+          "16 × 1 = 16"
+        ],
+        [
+          "Devoir surveillé",
+          "12/20",
+          "3",
+          "12 × 3 = 36"
+        ],
+        [
+          "Exposé oral",
+          "15/20",
+          "2",
+          "15 × 2 = 30"
+        ],
+        [
+          "Total",
+          "—",
+          "6",
+          "82 ÷ 6 = 13,67/20"
+        ]
+      ],
+      "note": "La formule d'une moyenne pondérée est : somme des notes multipliées par leur coefficient, puis division par la somme des coefficients. Une moyenne simple de 16, 12 et 15 serait ici inadaptée, car les devoirs n'ont pas le même poids."
+    },
+    {
+      "type": "steps",
+      "heading": "Calculer votre note sur 20 en quatre étapes",
+      "intro": "Cette méthode fonctionne à la main, dans une calculatrice ou dans un tableur.",
+      "steps": [
+        {
+          "title": "1. Identifiez le total de points",
+          "html": "<p>Repérez le dénominateur du barème : 30 dans une note de 22/30, 50 dans une note de 41/50. Ne le confondez pas avec le nombre de questions si celles-ci n'ont pas toutes la même valeur.</p>"
+        },
+        {
+          "title": "2. Notez votre score réellement obtenu",
+          "html": "<p>Inscrivez la note avant conversion. Incluez les demi-points ou quarts de point lorsqu'ils existent : 17,5/25, par exemple.</p>"
+        },
+        {
+          "title": "3. Appliquez la proportion",
+          "html": "<p>Multipliez votre score par 20, puis divisez par le barème total. Pour 17,5/25 : 17,5 × 20 ÷ 25 = 14.</p>"
+        },
+        {
+          "title": "4. Présentez le résultat avec le bon arrondi",
+          "html": "<p>Écrivez la note au format demandé, par exemple 14/20 ou 14,0/20. Pour une moyenne, gardez les décimales intermédiaires afin de limiter les écarts d'arrondi.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Cas particuliers : quand il ne faut pas convertir mécaniquement",
+      "html": "<p>La règle de trois ne suffit pas toujours. Soyez vigilant si l'évaluation comporte des <strong>points négatifs</strong>, une note minimale ou maximale imposée, des bonus plafonnés, des compétences validées par couleurs ou niveaux, ou encore une notation relative à la moyenne du groupe.</p><p>De même, une épreuve notée « acquis / en cours d'acquisition / non acquis » ne gagne pas forcément à être artificiellement transformée en note sur 20. Dans ces cas, consultez le barème ou demandez la méthode de calcul à l'enseignant.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Bien lire sa note : le chiffre est un repère, pas un verdict",
+      "html": "<p>Une fois la conversion faite, utilisez-la pour vous situer et décider de votre prochaine action. Une note de 12/20 signifie que 60 % des points ont été obtenus : c'est utile, mais cela ne dit pas quelles notions sont maîtrisées ni quelles erreurs ont coûté les points restants.</p><p>Pour progresser, relisez la correction en distinguant les erreurs de connaissance, de méthode, de compréhension de consigne et de gestion du temps. Repérez aussi les points faciles perdus : une réponse non justifiée, une unité oubliée, un calcul non détaillé ou une relecture trop rapide peuvent parfois être corrigés dès le devoir suivant.</p><p>Si vous comparez plusieurs résultats, regardez la tendance plutôt qu'une seule note. Une progression de 10 à 12 puis 14/20 a souvent plus de sens qu'une performance isolée. L'objectif est de transformer l'évaluation en informations utiles pour apprendre, et non de réduire votre travail à un seul nombre.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "Une note convertie permet de comparer des barèmes ; la correction permet de comprendre comment progresser.",
+      "author": ""
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment calculer une note sur 20 à partir d'une note sur 30 ?",
+      "a_html": "<p>Multipliez votre note par 20, puis divisez par 30. Par exemple, 24/30 donnent 24 × 20 ÷ 30 = <strong>16/20</strong>.</p><p>Vous pouvez aussi simplifier mentalement : pour passer d'un barème sur 30 à un barème sur 20, multipliez la note par 2 puis divisez par 3.</p>"
+    },
+    {
+      "q": "Comment transformer une note sur 100 en note sur 20 ?",
+      "a_html": "<p>Il suffit de diviser la note par 5. Une note de 85/100 correspond donc à <strong>17/20</strong>, puisque 85 ÷ 5 = 17.</p><p>Cette conversion est aussi celle qui permet de passer d'un pourcentage à une note sur 20 : 72 % correspondent à 14,4/20.</p>"
+    },
+    {
+      "q": "Comment convertir une note sur 10 en note sur 20 ?",
+      "a_html": "<p>Multipliez simplement la note par 2. Ainsi, 6,5/10 équivalent à <strong>13/20</strong> et 9/10 à 18/20.</p><p>Cette méthode est valable parce que 20 est exactement le double de 10.</p>"
+    },
+    {
+      "q": "Quelle note sur 20 correspond à 75 % de réussite ?",
+      "a_html": "<p>75 % correspondent à <strong>15/20</strong>. Le calcul est : 75 × 20 ÷ 100 = 15.</p><p>Inversement, pour connaître le pourcentage associé à une note sur 20, multipliez la note par 5 : 14/20 correspondent à 70 %.</p>"
+    },
+    {
+      "q": "Comment calculer une moyenne sur 20 avec des coefficients ?",
+      "a_html": "<p>Multipliez chaque note sur 20 par son coefficient, additionnez les résultats, puis divisez le total par la somme des coefficients. Avec 14/20 coefficient 2 et 10/20 coefficient 1 : (14 × 2 + 10 × 1) ÷ 3 = <strong>12,67/20</strong>.</p><p>Avant le calcul, veillez à ce que toutes les notes soient sur le même barème. Si besoin, convertissez-les d'abord sur 20.</p>"
+    },
+    {
+      "q": "Une note ramenée sur 20 peut-elle dépasser 20 ?",
+      "a_html": "<p>Dans un barème ordinaire sans bonus, non : une note maximale reste équivalente à 20/20. En revanche, un système de points bonus peut produire un résultat supérieur à 20 avant plafonnement.</p><p>La manière de traiter ce surplus dépend du règlement : certaines évaluations conservent le bonus, d'autres plafonnent la note à 20. Référez-vous à la consigne de l'enseignant ou de l'examen.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Ramener une note sur 20 repose sur un calcul simple : <strong>note obtenue × 20 ÷ barème total</strong>. Cette conversion vous donne un repère commun pour lire des résultats issus de barèmes différents, calculer une moyenne ou suivre votre progression.</p><p>Gardez néanmoins le bon réflexe : vérifiez les coefficients, les bonus et la règle d'arrondi, puis utilisez la correction pour comprendre ce qui se cache derrière le chiffre. Une note est surtout utile lorsqu'elle vous aide à choisir la prochaine étape pour progresser.</p>",
+  "__slug": "calcul-de-note-comment-ramener-une-note-sur-20-pour-comprendre-vos-resultats"
+}

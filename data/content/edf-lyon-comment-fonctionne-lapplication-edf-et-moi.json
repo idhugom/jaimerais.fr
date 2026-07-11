@@ -1,0 +1,192 @@
+{
+  "title": "Application EDF & MOI à Lyon : fonctionnement, factures et démarches",
+  "meta_description": "Découvrez comment utiliser l'application EDF & MOI à Lyon : relevés, factures, paiements, déménagement et démarches utiles en cas de panne.",
+  "reading_time_min": 9,
+  "hero_intro": "Vous êtes client EDF à Lyon et souhaitez suivre vos consommations, retrouver une facture ou préparer un déménagement sans multiplier les appels ? L'application EDF & MOI réunit les principales informations de votre contrat d'énergie dans un espace mobile. Voici comment l'utiliser efficacement, ce qu'elle permet réellement de faire et les situations où il faut plutôt contacter le gestionnaire de réseau.",
+  "key_takeaways": [
+    "L'application EDF & MOI est un espace client mobile destiné aux particuliers ayant un contrat EDF ; elle n'est pas réservée à Lyon.",
+    "Elle permet généralement de consulter les contrats, les factures, les paiements et les données de consommation disponibles selon votre compteur et votre offre.",
+    "EDF est votre fournisseur ; pour une coupure générale, un compteur ou le réseau électrique à Lyon, l'interlocuteur est le plus souvent Enedis.",
+    "L'application est gratuite à télécharger, mais une mise en service, une intervention réseau ou une option contractuelle peuvent être facturées séparément.",
+    "Avant un déménagement, anticipez la date de départ, l'adresse complète et les identifiants de compteur pour éviter une facture qui se prolonge après votre départ."
+  ],
+  "toc": [
+    "Comprendre le rôle de l'application EDF & MOI à Lyon",
+    "EDF, Enedis et GRDF : qui contacter selon la situation ?",
+    "Les fonctions utiles de l'application au quotidien",
+    "Consulter ses factures et suivre sa consommation",
+    "Utiliser EDF & MOI lors d'un déménagement",
+    "Panne, impayé ou problème de compteur : les bons réflexes",
+    "Sécuriser son espace client et éviter les erreurs"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre le rôle de l'application EDF & MOI à Lyon",
+      "html": "<p>L'application <strong>EDF & MOI</strong> est la version mobile de l'espace client EDF. Elle sert à centraliser les informations liées à vos contrats d'électricité et, si vous en avez un chez EDF, de gaz : coordonnées, échéancier, factures, historique de paiement et données de consommation lorsqu'elles sont disponibles. Son intérêt est simple : effectuer les démarches courantes sans attendre les horaires d'un service téléphonique.</p><p>À Lyon comme ailleurs en France, son fonctionnement n'est pas lié à une agence EDF de quartier. L'application est associée à votre <strong>compte client EDF</strong>, à votre adresse de fourniture et à vos contrats. Vous pouvez donc conserver le même accès si vous déménagez dans la métropole lyonnaise ou dans une autre ville, à condition de mettre correctement votre dossier à jour.</p><p>Elle est habituellement disponible sur les boutiques d'applications Android et iOS. Téléchargez uniquement l'application dont l'éditeur est clairement identifié comme EDF, puis connectez-vous avec les identifiants de votre espace client. Si vous n'avez pas encore créé de compte, préparez une référence client ou les informations figurant sur une facture pour faciliter l'inscription.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Ce que l'application peut vous faire gagner au quotidien",
+      "points": [
+        "Retrouver une facture ou un échéancier sans fouiller dans ses e-mails.",
+        "Vérifier le montant, la date et le statut d'un paiement.",
+        "Suivre une tendance de consommation lorsque les données de compteur sont remontées.",
+        "Mettre à jour certaines coordonnées et consulter les informations contractuelles.",
+        "Préparer une demande liée à un emménagement ou à un départ, selon les démarches proposées dans votre espace."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "EDF, Enedis et GRDF : qui contacter selon la situation ?",
+      "html": "<p>Une confusion fréquente consiste à attribuer à EDF toutes les opérations liées à l'énergie. <strong>EDF est un fournisseur</strong> : il vend l'électricité ou le gaz, facture votre consommation et gère votre contrat. En revanche, le compteur, les câbles et une grande partie des interventions techniques relèvent du gestionnaire de réseau, indépendant du fournisseur.</p><p>À Lyon, le réseau d'électricité est généralement géré par <strong>Enedis</strong>. Pour le gaz naturel, il s'agit le plus souvent de <strong>GRDF</strong>. Cette distinction est essentielle en cas de coupure collective, de compteur défaillant ou d'odeur de gaz : l'application EDF & MOI peut afficher des informations utiles sur votre contrat, mais elle ne remplace pas un dispositif d'urgence ni une intervention réseau.</p><p>Si vous constatez une panne, regardez d'abord si vos voisins ou les parties communes sont aussi concernés et vérifiez votre tableau électrique. Une coupure dans tout le quartier relève probablement du réseau. Pour une urgence gaz, quittez les lieux si nécessaire, évitez toute flamme ou étincelle et utilisez le numéro d'urgence indiqué par le gestionnaire de réseau, une fois en sécurité.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Application EDF & MOI ou gestionnaire de réseau ?",
+      "intro": "Le bon canal dépend du problème rencontré, et non du fait que vous soyez client EDF.",
+      "left": {
+        "title": "Utilisez EDF & MOI pour votre contrat",
+        "points": [
+          "Consulter et télécharger une facture.",
+          "Vérifier un prélèvement ou régler une somme due.",
+          "Suivre les consommations affichées dans votre espace.",
+          "Modifier des informations personnelles ou préparer un déménagement.",
+          "Consulter les caractéristiques de votre offre et vos coordonnées client."
+        ]
+      },
+      "right": {
+        "title": "Contactez Enedis ou GRDF pour le réseau",
+        "points": [
+          "Signaler une panne électrique collective ou un incident sur le réseau.",
+          "Traiter un problème technique de compteur ou de branchement.",
+          "Faire face à une odeur de gaz ou une situation potentiellement dangereuse.",
+          "Connaître l'avancement d'une intervention technique programmée.",
+          "Demander une intervention qui relève du gestionnaire de réseau."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Les démarches courantes et leur place dans l'application",
+      "intro": "Les écrans et options peuvent évoluer selon votre contrat, votre équipement et la version de l'application. Ce tableau donne des repères pratiques.",
+      "columns": [
+        "Votre besoin",
+        "Ce que vous pouvez généralement faire dans EDF & MOI",
+        "À préparer",
+        "Point d'attention"
+      ],
+      "rows": [
+        [
+          "Retrouver une facture",
+          "Consulter, télécharger ou vérifier les factures disponibles.",
+          "Vos identifiants de connexion.",
+          "Conservez le document si vous en avez besoin pour un justificatif de domicile ou une note de frais."
+        ],
+        [
+          "Suivre l'énergie consommée",
+          "Visualiser des données de consommation, souvent par période, lorsque le compteur et le contrat le permettent.",
+          "Un compteur communicant et les autorisations nécessaires, le cas échéant.",
+          "Les données ne sont pas forcément instantanées ; elles peuvent être consolidées avec un décalage."
+        ],
+        [
+          "Payer ou vérifier un paiement",
+          "Consulter une échéance, un prélèvement ou les moyens de régularisation proposés.",
+          "Une carte bancaire si le paiement ponctuel est disponible.",
+          "En cas de difficulté financière, ne laissez pas l'échéance sans réponse : contactez EDF rapidement."
+        ],
+        [
+          "Déménager",
+          "Initier ou préparer l'arrêt d'un contrat et l'ouverture d'un nouveau logement selon les parcours proposés.",
+          "Date, adresse complète, relevé éventuel, numéro de compteur ou point de livraison.",
+          "Une demande de réseau peut nécessiter un délai ; évitez de vous y prendre la veille du déménagement."
+        ],
+        [
+          "Signaler une panne",
+          "Accéder à des informations ou des contacts utiles.",
+          "Adresse précise et nature du problème.",
+          "Une panne de réseau ne se résout pas depuis l'application : adressez-vous au gestionnaire compétent."
+        ]
+      ],
+      "note": "Les frais éventuels de mise en service et les délais sont liés à l'opération demandée et au gestionnaire de réseau ; ils peuvent évoluer."
+    },
+    {
+      "type": "prose",
+      "heading": "Consulter ses factures et suivre sa consommation sans se tromper",
+      "html": "<p>Pour une grande partie des utilisateurs, la facture est la première raison d'ouvrir l'application. Prenez l'habitude de vérifier quatre éléments : la <strong>période facturée</strong>, le montant, le mode de paiement et la prochaine échéance. Cette lecture permet de repérer plus tôt une estimation inhabituelle, un changement de mensualité ou un prélèvement qui n'aurait pas été pris en compte.</p><p>Le suivi de consommation est particulièrement utile pour observer des tendances : hausse en hiver, effet d'un chauffe-eau, arrivée d'un télétravail régulier ou usage intensif de la climatisation. Avec un compteur communicant tel que Linky, les données peuvent être plus détaillées, mais elles ne correspondent pas nécessairement à un affichage en temps réel. Servez-vous-en pour comparer des périodes similaires plutôt que pour tirer des conclusions sur une seule journée.</p><p>Une hausse ne signifie pas automatiquement une erreur de facturation. Elle peut venir de la météo, du nombre d'occupants, d'un appareil vieillissant ou d'un changement d'habitudes. Avant de contester une facture, comparez le volume consommé avec la même période de l'année précédente, vérifiez si la facture repose sur un relevé réel ou estimé et contrôlez vos équipements les plus énergivores.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réflexe utile : activez les alertes utiles, pas le stress",
+      "html": "<p>Si l'application vous propose des notifications, privilégiez celles concernant une facture disponible, une échéance proche ou un changement de dossier. Consultez également vos données de consommation à intervalles réguliers, par exemple une fois par mois. Un suivi calme et comparatif est plus utile qu'une vérification anxieuse chaque jour.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Utiliser EDF & MOI pour préparer un déménagement",
+      "intro": "Un déménagement est une démarche contractuelle : l'énergie ne « suit » pas automatiquement votre adresse. Procédez suffisamment tôt, idéalement dès que la date de remise des clés est connue.",
+      "steps": [
+        {
+          "title": "Rassemblez les informations du logement",
+          "html": "<p>Notez l'adresse complète, l'étage ou le numéro d'appartement si nécessaire, la date souhaitée de début ou de fin de contrat, ainsi que l'identifiant du point de livraison électrique ou du point de comptage gaz lorsque vous le connaissez. Ces références figurent parfois sur les documents du logement ou les anciennes factures.</p>"
+        },
+        {
+          "title": "Déclarez votre départ, même si vous restez à Lyon",
+          "html": "<p>Indiquez une date précise de fin de contrat pour votre ancien logement. Le jour du départ, relevez le compteur s'il le permet et conservez une photo datée à titre de précaution. Cela aide à distinguer votre consommation de celle du nouvel occupant.</p>"
+        },
+        {
+          "title": "Ouvrez le contrat du nouveau logement",
+          "html": "<p>Choisissez une date qui correspond à votre entrée effective dans les lieux. Si l'énergie est coupée ou qu'une mise en service est nécessaire, une intervention du gestionnaire de réseau peut être requise. Les délais et les coûts varient selon la situation ; une opération standard peut représenter quelques euros à plusieurs dizaines d'euros, tandis qu'une demande accélérée est souvent plus chère.</p>"
+        },
+        {
+          "title": "Contrôlez le premier document reçu",
+          "html": "<p>Après l'emménagement, vérifiez l'adresse, la puissance électrique souscrite, l'option tarifaire, le mode de paiement et la date de début. Corriger une erreur tôt est nettement plus simple que de régulariser plusieurs mois plus tard.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Une coupure ou une odeur de gaz n'est pas une démarche d'application",
+      "html": "<p>En cas de panne d'électricité à Lyon, vérifiez d'abord votre installation et l'étendue de la coupure. Si le réseau semble concerné, contactez Enedis via son canal de dépannage : pour le Rhône, le numéro de dépannage habituellement utilisé est le 09 72 67 50 69. En cas d'odeur de gaz ou de suspicion de fuite, aérez si vous pouvez le faire sans risque, n'actionnez aucun appareil électrique, éloignez-vous et contactez immédiatement le service Urgence Sécurité Gaz de GRDF au 0 800 47 33 33.</p><p>Ne tentez jamais de manipuler un compteur, un coffret extérieur ou une canalisation. L'application est pratique pour le suivi administratif ; la sécurité, elle, passe avant tout par les services d'urgence et les professionnels habilités.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Sécuriser son espace client et éviter les erreurs les plus courantes",
+      "html": "<p>Votre espace EDF contient des informations personnelles, contractuelles et parfois bancaires. Choisissez un mot de passe long et unique, ne le communiquez pas à un proche et ne vous connectez pas depuis un lien reçu dans un message douteux. En cas de doute, ouvrez directement l'application officielle ou tapez vous-même l'adresse du site EDF dans votre navigateur.</p><p>Évitez aussi de confondre un problème de budget avec un problème technique. Si une facture vous semble trop élevée, examinez-la dans l'application, mais ne faites pas opposition à un prélèvement sans avoir échangé avec le fournisseur : cela peut compliquer la situation. Selon vos droits et votre situation, un échéancier, une explication de facture ou une orientation vers des aides peut parfois être envisagé.</p><p>Enfin, l'application ne remplace pas la lecture attentive du contrat. Avant de modifier une mensualisation, une puissance ou une option, mesurez l'effet probable sur votre usage réel. Une puissance insuffisante peut provoquer des disjonctions ; une puissance trop élevée peut alourdir la part fixe de la facture. En cas d'hésitation, demandez une explication avant de valider un changement.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "Une application d'énergie est surtout un tableau de bord : elle devient vraiment utile lorsqu'on s'en sert pour comprendre ses habitudes, anticiper ses échéances et choisir le bon interlocuteur.",
+      "author": ""
+    }
+  ],
+  "faq": [
+    {
+      "q": "L'application EDF & MOI est-elle gratuite ?",
+      "a_html": "<p>Le téléchargement et l'accès à l'application sont généralement gratuits pour les clients concernés. En revanche, votre forfait mobile peut consommer des données et les opérations liées à votre contrat ne sont pas nécessairement gratuites.</p><p>Par exemple, une mise en service, une intervention sur le réseau ou certaines prestations techniques peuvent entraîner des frais fixés selon l'opération et les règles du gestionnaire de réseau. L'application ne modifie pas ces coûts.</p>"
+    },
+    {
+      "q": "Puis-je utiliser EDF & MOI si je vis à Lyon mais que je ne suis pas client EDF ?",
+      "a_html": "<p>Non, l'espace EDF & MOI est lié à un contrat souscrit chez EDF. Habiter à Lyon ne suffit pas : si votre fournisseur est un autre acteur du marché, vous devez utiliser son espace client ou ses propres canaux de contact.</p><p>En revanche, pour un incident sur le réseau électrique lyonnais, le gestionnaire de réseau reste le même quel que soit votre fournisseur. C'est pourquoi une panne collective relève généralement d'Enedis, pas de l'application de votre fournisseur.</p>"
+    },
+    {
+      "q": "Pourquoi ma consommation n'apparaît-elle pas immédiatement dans l'application ?",
+      "a_html": "<p>Les données de consommation peuvent être transmises, traitées puis affichées avec un délai. Leur niveau de détail dépend notamment du type de compteur, de la configuration du contrat et des autorisations associées à l'utilisation des données.</p><p>Si l'absence d'information dure, vérifiez que votre contrat est bien actif et que l'adresse affichée est correcte. Vous pouvez ensuite contacter EDF depuis les canaux prévus dans votre espace client.</p>"
+    },
+    {
+      "q": "Peut-on payer une facture EDF depuis l'application ?",
+      "a_html": "<p>L'application permet généralement de consulter le statut des factures et peut proposer des modalités de paiement selon votre situation. Les options visibles dépendent notamment du mode de règlement déjà choisi, par prélèvement ou paiement ponctuel.</p><p>Si un prélèvement est rejeté ou si vous ne pouvez pas régler à la date prévue, contactez EDF sans attendre plutôt que d'ignorer la notification. Une prise de contact précoce facilite la recherche d'une solution adaptée.</p>"
+    },
+    {
+      "q": "Comment résilier EDF lors d'un départ de Lyon ?",
+      "a_html": "<p>Vous devez signaler votre départ et indiquer la date de fin souhaitée pour le logement quitté. Préparez l'adresse, la date de départ et un relevé de compteur si cela est pertinent pour votre installation. N'attendez pas que le nouvel occupant ouvre son contrat : tant que le vôtre n'est pas clos, vous pouvez rester responsable de l'abonnement et des consommations.</p><p>Vous pouvez ensuite souscrire un contrat pour votre nouveau logement, chez EDF ou chez le fournisseur de votre choix. Il s'agit de deux démarches distinctes.</p>"
+    },
+    {
+      "q": "Que faire si mon compteur disjoncte souvent à Lyon ?",
+      "a_html": "<p>Commencez par identifier ce qui déclenche la coupure : trop d'appareils puissants utilisés simultanément, un appareil défectueux ou une puissance souscrite inadaptée. Testez prudemment les appareils un par un si vous suspectez un défaut et ne manipulez pas l'installation si vous n'êtes pas à l'aise.</p><p>Si le problème vient de votre installation intérieure, faites appel à un électricien. S'il semble concerner le compteur ou le réseau, contactez le gestionnaire de réseau. Une éventuelle modification de puissance se traite, elle, dans le cadre de votre contrat fournisseur.</p>"
+    }
+  ],
+  "conclusion_html": "<p><strong>EDF & MOI est un outil pratique pour garder la main sur votre contrat d'énergie à Lyon</strong> : factures, échéances, consommation et démarches administratives deviennent plus accessibles. Son bon usage repose toutefois sur une distinction essentielle : EDF gère votre offre et votre facturation, tandis qu'Enedis ou GRDF interviennent sur le réseau et les urgences.</p><p>Créez votre accès, vérifiez vos informations contractuelles et utilisez l'application comme un rendez-vous mensuel avec votre consommation. Vous gagnerez en visibilité, tout en sachant réagir rapidement et au bon endroit lorsqu'un problème technique survient.</p>",
+  "__slug": "edf-lyon-comment-fonctionne-lapplication-edf-et-moi"
+}

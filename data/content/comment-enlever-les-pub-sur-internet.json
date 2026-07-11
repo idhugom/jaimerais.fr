@@ -1,0 +1,233 @@
+{
+  "title": "Comment enlever les pubs sur Internet : méthodes efficaces et sûres",
+  "meta_description": "Réduisez les publicités, pop-up et traqueurs sur Internet : réglages, bloqueurs et conseils fiables pour PC, Mac, Android et iPhone, en toute sécurité.",
+  "reading_time_min": 11,
+  "hero_intro": "Les publicités sur Internet peuvent ralentir la navigation, détourner l'attention et parfois cacher des arnaques. Bonne nouvelle : vous pouvez fortement les réduire, sans être expert en informatique, grâce à quelques réglages et à des outils bien choisis. Voici comment bloquer les pubs, les fenêtres intempestives et le pistage publicitaire, sur ordinateur comme sur mobile.",
+  "key_takeaways": [
+    "Activez d'abord le bloqueur de pop-up et les protections anti-pistage intégrés à votre navigateur.",
+    "Une seule extension de blocage réputée, installée depuis la boutique officielle, suffit généralement pour le Web.",
+    "Les notifications abusives ne sont pas des pop-up : il faut retirer l'autorisation accordée au site concerné.",
+    "Un bloqueur dans le navigateur ne supprime pas toutes les pubs dans les applications, les vidéos ou les contenus sponsorisés.",
+    "Ne cliquez jamais sur une alerte publicitaire annonçant un virus, un cadeau ou une urgence : c'est souvent une tentative d'arnaque."
+  ],
+  "toc": [
+    "Comprendre ce que vous voulez réellement bloquer",
+    "Les solutions pour enlever les publicités sur Internet",
+    "Régler son navigateur avant d'installer une extension",
+    "Installer et paramétrer un bloqueur de publicité",
+    "Réduire le pistage et les publicités ciblées",
+    "Extension de navigateur ou DNS filtrant : que choisir ?",
+    "Enlever les pubs sur Android, iPhone et dans les applications",
+    "Réagir face aux fausses alertes et aux pub malveillantes",
+    "Garder une navigation fluide sans tout casser"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre ce que vous voulez réellement bloquer",
+      "html": "<p>Le mot « pub » recouvre plusieurs éléments très différents. Il peut s'agir de bannières dans une page Web, de vidéos publicitaires, de fenêtres pop-up qui s'ouvrent seules, de demandes d'autorisation de notifications ou encore de recommandations sponsorisées au milieu d'un fil d'actualité. La bonne méthode dépend donc de ce qui vous gêne réellement.</p><p>Un <strong>bloqueur de publicité</strong> filtre les requêtes et les éléments connus comme publicitaires avant ou pendant l'affichage de la page. Il peut aussi limiter certains traceurs. En revanche, il ne peut pas toujours supprimer une promotion intégrée directement au contenu d'un site, une publicité diffusée dans une application ou un message sponsorisé servi comme une publication ordinaire.</p><p>Enfin, distinguez les publicités agaçantes des messages dangereux. Une fenêtre qui affirme que votre appareil est infecté, vous demande d'appeler un numéro ou vous promet un gain immédiat n'est pas un simple désagrément : elle peut chercher à vous faire installer un logiciel indésirable ou à voler vos informations.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel avant de commencer",
+      "points": [
+        "Commencez par les réglages gratuits de votre navigateur : pop-up, notifications et protection contre le pistage.",
+        "Installez une seule extension de filtrage fiable plutôt que plusieurs bloqueurs qui risquent de se gêner.",
+        "Vérifiez toujours les autorisations demandées par une extension : un bloqueur n'a pas besoin d'accéder à vos mots de passe.",
+        "Supprimer les cookies peut réduire temporairement le ciblage, mais cela ne bloque pas les emplacements publicitaires.",
+        "Gardez la possibilité de désactiver le filtrage pour un site fiable qui ne fonctionne plus correctement."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Les solutions pour enlever les publicités sur Internet",
+      "html": "<p>Pour la navigation sur ordinateur, la solution la plus accessible est généralement l'association de deux protections : le blocage des fenêtres intempestives déjà présent dans le navigateur et une extension de filtrage reconnue. Les navigateurs modernes proposent aussi des options contre les cookies tiers, le suivi intersites et les notifications insistantes.</p><p>Pour une protection plus large, certaines personnes utilisent un <strong>DNS filtrant</strong>. Au lieu d'agir dans un seul navigateur, il empêche l'appareil de joindre certains domaines publicitaires ou de suivi. Cette approche peut réduire les pubs dans plusieurs applications, mais elle est moins précise : elle ne sait pas toujours distinguer un élément publicitaire d'une ressource indispensable au bon fonctionnement d'un service.</p><p>Les offres payantes de blocage ou de sécurité ajoutent parfois une protection multi-appareils, un contrôle parental ou un filtrage au niveau du système. Elles ne sont pas indispensables pour la plupart des usages. Avant de payer, vérifiez les appareils couverts, les fonctions réellement incluses et les conditions de renouvellement.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quelle méthode choisir selon votre besoin ?",
+      "intro": "Ces solutions sont complémentaires : commencez par les réglages simples, puis ajoutez l'outil adapté à votre usage.",
+      "columns": [
+        "Méthode",
+        "Ce qu'elle bloque surtout",
+        "Avantages et limites",
+        "Budget habituel"
+      ],
+      "rows": [
+        [
+          "Réglages du navigateur",
+          "Pop-up, notifications, une partie du pistage",
+          "Gratuit et immédiat, mais ne retire pas la majorité des bannières",
+          "Gratuit"
+        ],
+        [
+          "Extension de blocage",
+          "Bannières, vidéos publicitaires selon les sites, traceurs Web",
+          "Très efficace dans le navigateur concerné ; peut parfois gêner un site",
+          "Gratuit, avec parfois une offre premium facultative"
+        ],
+        [
+          "DNS filtrant",
+          "Domaines de pub et de suivi dans plusieurs navigateurs ou applications",
+          "Utile sur mobile ; ne bloque pas les pubs servies depuis le même domaine que le contenu",
+          "Souvent gratuit avec limites, ou quelques euros par mois"
+        ],
+        [
+          "Application de filtrage payante",
+          "Publicité, suivi et parfois fonctions de sécurité",
+          "Peut couvrir plusieurs appareils ; l'efficacité varie selon le système et les apps",
+          "Souvent entre 20 et 60 € par an"
+        ],
+        [
+          "Abonnement sans publicité",
+          "Publicités d'un service précis",
+          "Solution la plus stable pour ce service, sans protéger le reste du Web",
+          "Prix variable selon le service"
+        ]
+      ],
+      "note": "Aucune solution ne garantit la disparition de toutes les publicités, notamment dans les applications, les flux sociaux et certains lecteurs vidéo."
+    },
+    {
+      "type": "prose",
+      "heading": "Régler son navigateur avant d'installer une extension",
+      "html": "<p>Ouvrez les paramètres de votre navigateur, puis cherchez les rubriques proches de « Confidentialité et sécurité », « Paramètres des sites » ou « Autorisations ». Les intitulés changent selon Chrome, Firefox, Edge, Safari et leurs versions, mais les options importantes restent similaires.</p><p>Vérifiez d'abord que le <strong>blocage des fenêtres pop-up et des redirections</strong> est actif. Ensuite, consultez la liste des sites autorisés à vous envoyer des notifications. Si un site inconnu, un site de jeux, de streaming ou une page douteuse y figure, retirez son autorisation. Beaucoup de prétendues publicités qui apparaissent en bas à droite de l'écran sont en réalité des notifications que l'utilisateur a acceptées par inadvertance.</p><p>Activez également la protection renforcée contre le suivi lorsque votre navigateur la propose, et limitez les cookies tiers. Cela réduit la capacité de nombreux annonceurs à vous reconnaître d'un site à l'autre. Attention : effacer tous les cookies vous déconnectera souvent de vos comptes et ne fera pas disparaître les emplacements publicitaires ; c'est une mesure de nettoyage, pas un bloqueur de pubs.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Installer un bloqueur de publicité sans prendre de risque",
+      "intro": "Suivez ces étapes pour conserver un navigateur sûr et éviter les fausses extensions.",
+      "steps": [
+        {
+          "title": "Choisissez une extension reconnue",
+          "html": "<p>Recherchez un bloqueur connu dans la boutique officielle de votre navigateur. Lisez le nom de l'éditeur, le nombre d'avis, les autorisations et les avis récents. Évitez les téléchargements proposés par des bannières ou des sites inconnus.</p>"
+        },
+        {
+          "title": "N'installez pas plusieurs bloqueurs à la fois",
+          "html": "<p>Une seule extension de filtrage bien réglée est généralement suffisante. Empiler plusieurs bloqueurs peut ralentir le navigateur, provoquer des erreurs d'affichage et compliquer le diagnostic lorsqu'un site ne fonctionne plus.</p>"
+        },
+        {
+          "title": "Conservez les listes de filtres par défaut",
+          "html": "<p>Les listes proposées au départ bloquent habituellement les publicités et les traceurs courants. Ajoutez des listes spécialisées uniquement si vous savez pourquoi vous en avez besoin : trop de filtres peut créer des faux blocages.</p>"
+        },
+        {
+          "title": "Testez sur vos sites habituels",
+          "html": "<p>Ouvrez vos sites d'information, de messagerie, de banque ou d'achat. Si une fonction essentielle disparaît, désactivez temporairement le bloqueur pour cette page ou ajoutez uniquement ce site fiable à la liste d'autorisation.</p>"
+        },
+        {
+          "title": "Mettez à jour navigateur et extension",
+          "html": "<p>Les filtres évoluent, tout comme les techniques publicitaires. Laissez les mises à jour automatiques activées et supprimez les extensions que vous n'utilisez plus.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Réduire le pistage et les publicités ciblées",
+      "html": "<p>Bloquer une bannière améliore le confort visuel, mais limiter le <strong>pistage publicitaire</strong> améliore aussi votre confidentialité. Les traceurs peuvent enregistrer des informations techniques, relier vos visites à un identifiant publicitaire et alimenter des profils utilisés pour personnaliser les annonces. Toutes les mesures de suivi ne sont pas malveillantes, mais vous pouvez en réduire la portée.</p><p>Dans votre navigateur, refusez les cookies non essentiels lorsque le choix est clair, privilégiez le refus plutôt que l'acceptation globale et examinez périodiquement les données de sites enregistrées. Dans les comptes de grandes plateformes, cherchez les rubriques liées à la personnalisation des annonces : désactiver la personnalisation ne supprime pas toujours la pub, mais peut la rendre moins fondée sur votre activité.</p><p>Une navigation privée peut éviter de conserver l'historique local sur l'appareil après la fermeture de la fenêtre. Elle ne vous rend pas invisible pour autant : le site visité, votre fournisseur d'accès, votre réseau professionnel ou les services auxquels vous vous connectez peuvent toujours disposer de certaines informations. Utilisez-la pour séparer vos sessions, pas comme une promesse d'anonymat total.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Extension de navigateur ou DNS filtrant : deux approches différentes",
+      "intro": "Ces deux solutions peuvent coexister, mais elles ne protègent pas exactement au même endroit.",
+      "left": {
+        "title": "Extension dans le navigateur",
+        "points": [
+          "Agit sur les pages affichées dans Chrome, Firefox, Edge, Safari ou un autre navigateur compatible.",
+          "Peut masquer des blocs publicitaires directement dans la page et bloquer de nombreux traceurs.",
+          "Permet souvent de désactiver le filtrage site par site en un clic.",
+          "Ne protège généralement pas les autres applications de l'appareil."
+        ]
+      },
+      "right": {
+        "title": "DNS filtrant",
+        "points": [
+          "Bloque certains domaines publicitaires avant leur chargement, parfois dans plusieurs applications.",
+          "Peut être configuré sur un appareil, un routeur ou via un service dédié selon votre niveau technique.",
+          "N'affiche pas toujours quel élément est bloqué et peut empêcher une fonction légitime de se charger.",
+          "Ne peut pas retirer une publicité fournie par le même domaine que le contenu demandé."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Enlever les pubs sur Android, iPhone et dans les applications",
+      "html": "<p>Sur smartphone, les possibilités dépendent fortement du système et de l'application utilisée. Pour les pages Web, un navigateur doté de protections renforcées ou un navigateur compatible avec un bloqueur de contenu peut déjà faire une grande différence. Sur iPhone et iPad, les bloqueurs de contenu s'emploient principalement avec Safari et s'activent ensuite dans les réglages du système. Sur Android, le choix d'un navigateur et, selon l'appareil, l'utilisation d'un DNS privé filtrant peuvent limiter le suivi et une partie de la publicité.</p><p>Les applications mobiles sont plus difficiles à filtrer que les pages Web. Une application de jeu, un réseau social ou une plateforme vidéo peut afficher des annonces intégrées à son interface ou les charger depuis les mêmes serveurs que son contenu. Dans ce cas, un bloqueur ne sera ni universel ni toujours fiable. Une formule officielle sans publicité, lorsqu'elle existe et correspond à votre usage, est souvent l'option la plus simple.</p><p>N'installez pas d'APK ou de version modifiée d'une application afin de supprimer les pubs. Ces fichiers peuvent contenir un logiciel espion, compromettre vos comptes ou ne plus recevoir de mises à jour de sécurité. Le gain de confort ne justifie pas le risque.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux fausses alertes publicitaires",
+      "html": "<p>Une vraie alerte de sécurité ne vous demandera pas, via une bannière Web, d'appeler immédiatement un numéro, de payer pour débloquer votre ordinateur ou d'installer une application inconnue. Fermez l'onglet concerné, ne téléchargez rien et ne communiquez aucune donnée bancaire.</p><p>Si ces messages reviennent, retirez les autorisations de notifications du site, vérifiez les extensions récemment installées, lancez l'analyse de sécurité intégrée à votre appareil et mettez à jour le navigateur. Si vous avez déjà donné un mot de passe, changez-le sans tarder, en priorité sur l'adresse e-mail associée au compte.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Garder une navigation fluide sans tout casser",
+      "html": "<p>Un bon blocage publicitaire doit rester proportionné. Certains sites vivent en partie de la publicité et peuvent vous demander de désactiver votre bloqueur pour accéder à un article. Vous restez libre de votre choix : vous pouvez accepter, chercher une offre payante, consulter une autre source ou autoriser le site si vous lui faites confiance et si son affichage reste raisonnable.</p><p>Lorsqu'une page se charge mal, ne désinstallez pas immédiatement votre extension. Commencez par la désactiver uniquement pour ce site, rechargez la page, puis vérifiez si le problème vient réellement du filtrage. Si oui, conservez une exception limitée à ce domaine plutôt que de couper votre protection partout.</p><p>Enfin, surveillez régulièrement la liste de vos extensions. Supprimez celles qui sont inutiles, inconnues ou abandonnées. Une extension trop intrusive peut voir les pages que vous consultez ; elle mérite donc le même niveau de vigilance qu'une application installée sur votre téléphone.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les problèmes les plus fréquents et leur solution",
+      "intro": "Si les pubs persistent ou si un site se comporte bizarrement, ce tableau aide à identifier la cause probable.",
+      "columns": [
+        "Problème rencontré",
+        "Cause possible",
+        "Action recommandée"
+      ],
+      "rows": [
+        [
+          "Des fenêtres apparaissent même navigateur fermé",
+          "Notifications autorisées sur un site",
+          "Retirez l'autorisation de notification dans les paramètres du navigateur ou du système."
+        ],
+        [
+          "Les publicités sont toujours visibles",
+          "Extension inactive, liste de filtres insuffisante ou publicité intégrée",
+          "Vérifiez que l'extension est activée, mettez-la à jour et acceptez qu'un contenu intégré ne soit pas toujours filtrable."
+        ],
+        [
+          "Un site ne charge plus ou un paiement échoue",
+          "Filtre trop strict ou script nécessaire bloqué",
+          "Désactivez le bloqueur uniquement pour ce site fiable, puis rechargez la page."
+        ],
+        [
+          "Le navigateur est devenu lent",
+          "Trop d'extensions ou extension de qualité douteuse",
+          "Gardez un seul bloqueur, retirez les extensions inutiles et redémarrez le navigateur."
+        ],
+        [
+          "Des annonces ciblées reviennent après un achat",
+          "Historique, cookies, compte connecté ou identifiant publicitaire",
+          "Réduisez le suivi, ajustez la personnalisation des annonces et attendez la mise à jour des profils publicitaires."
+        ]
+      ],
+      "note": "Le cadenas HTTPS indique que la connexion avec le site est chiffrée. Il ne prouve pas, à lui seul, que le site ou la publicité affichée est fiable."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel est le meilleur bloqueur de pub gratuit ?",
+      "a_html": "<p>Il n'existe pas un unique meilleur choix pour tout le monde, mais privilégiez un bloqueur <strong>réputé, activement maintenu et téléchargé depuis la boutique officielle</strong> de votre navigateur. Des outils tels qu'uBlock Origin, lorsqu'il est compatible avec votre navigateur, ou certaines solutions de filtrage reconnues sont souvent appréciés pour leur sobriété.</p><p>Le plus important est d'éviter les extensions inconnues, les copies au nom presque identique et les outils qui réclament des autorisations excessives. Installez un seul bloqueur, puis testez-le sur vos usages habituels.</p>"
+    },
+    {
+      "q": "Comment supprimer les pop-up sur Chrome, Firefox ou Edge ?",
+      "a_html": "<p>Dans les paramètres du navigateur, ouvrez la section liée à la confidentialité ou aux autorisations de sites, puis activez le blocage des fenêtres pop-up et des redirections. Vérifiez aussi les exceptions : un site peut avoir été autorisé par erreur.</p><p>Si le message apparaît en dehors du navigateur, consultez surtout les autorisations de <strong>notifications</strong>. Les alertes abusives viennent très souvent de là, et non des pop-up classiques.</p>"
+    },
+    {
+      "q": "Pourquoi ai-je encore des pubs avec un bloqueur activé ?",
+      "a_html": "<p>Le bloqueur peut être désactivé pour ce site, ne pas avoir reçu ses mises à jour ou laisser passer certaines annonces selon ses réglages. Il est aussi possible que la publicité soit intégrée directement dans le contenu, servie depuis le même domaine que le site ou affichée dans une application non couverte par l'extension.</p><p>Vérifiez d'abord que l'icône de l'extension est active sur la page, puis actualisez-la. Évitez d'ajouter immédiatement plusieurs bloqueurs : cela crée souvent davantage de problèmes que de solutions.</p>"
+    },
+    {
+      "q": "Peut-on enlever les pubs dans les applications sur téléphone ?",
+      "a_html": "<p>Pas de façon universelle. Un DNS filtrant ou un outil de filtrage système peut bloquer certaines requêtes publicitaires dans plusieurs applications, mais il peut aussi empêcher des fonctions de marcher correctement. De nombreuses apps intègrent leurs annonces de manière difficile à distinguer du contenu.</p><p>Pour les applications très utilisées, une offre officielle sans publicité est généralement la méthode la plus fiable. N'utilisez pas de versions modifiées téléchargées hors des boutiques d'applications : elles peuvent mettre vos données en danger.</p>"
+    },
+    {
+      "q": "Supprimer les cookies enlève-t-il les publicités ?",
+      "a_html": "<p>Non. La suppression des cookies peut effacer une partie des données utilisées pour vous reconnaître ou cibler les annonces, mais les espaces publicitaires restent présents sur les sites. Vous serez aussi souvent déconnecté de vos comptes et certains réglages seront réinitialisés.</p><p>Pour réduire les pubs, utilisez plutôt un bloqueur de contenu. Pour réduire le ciblage, combinez-le avec le blocage des cookies tiers et les réglages de confidentialité de vos comptes.</p>"
+    },
+    {
+      "q": "Est-il légal de bloquer les publicités sur Internet ?",
+      "a_html": "<p>En règle générale, vous pouvez configurer votre navigateur et choisir les contenus qu'il charge. Cependant, certains sites conditionnent l'accès à leurs articles à la désactivation d'un bloqueur ou à un abonnement. Il convient alors de respecter leurs conditions d'accès ou de choisir une autre source.</p><p>Si vous appréciez régulièrement un média, un créateur ou un service, vous pouvez aussi envisager des alternatives de soutien : abonnement, don ou formule sans publicité, selon ce qui est proposé.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour enlever les pubs sur Internet, commencez simplement : activez le blocage des pop-up, retirez les notifications indésirables et installez une extension de filtrage fiable. Ajoutez ensuite les réglages de confidentialité ou un DNS filtrant seulement si votre besoin l'exige.</p><p>La meilleure protection est celle qui améliore votre confort sans fragiliser votre sécurité ni bloquer les services utiles. Gardez vos outils à jour, méfiez-vous des alertes alarmistes et accordez des exceptions uniquement aux sites auxquels vous faites réellement confiance.</p>",
+  "__slug": "comment-enlever-les-pub-sur-internet"
+}

@@ -1,0 +1,207 @@
+{
+  "title": "EDF à Paris : gérer sa consommation d’énergie et réduire sa facture",
+  "meta_description": "À Paris, pilotez votre consommation d’électricité et de gaz : compteur Linky, suivi, options tarifaires, gestes utiles et économies durables au quotidien.",
+  "reading_time_min": 10,
+  "hero_intro": "À Paris, mieux gérer son énergie ne consiste pas seulement à éteindre les lumières en sortant. Il s’agit d’abord de comprendre ce que vous consommez, à quels moments et pour quels usages, puis d’agir sur les bons leviers : chauffage, eau chaude, contrat, puissance du compteur et équipements. Que vous soyez client EDF ou d’un autre fournisseur, vous pouvez reprendre la main sans sacrifier votre confort.",
+  "key_takeaways": [
+    "EDF est un fournisseur d’énergie ; à Paris, Enedis gère le réseau électrique et le compteur Linky, tandis que GRDF intervient pour le réseau de gaz.",
+    "Le compteur Linky aide à visualiser les usages, mais il ne fait pas baisser la consommation à lui seul : l’analyse des données et les habitudes font la différence.",
+    "Le chauffage et l’eau chaude pèsent souvent bien plus lourd que les petits appareils, surtout dans un logement tout électrique.",
+    "L’option heures pleines/heures creuses n’est intéressante que si une part importante de vos usages peut réellement être déplacée aux heures creuses.",
+    "Avant de changer d’offre, vérifiez votre consommation annuelle, la puissance souscrite et le coût total de l’abonnement, pas uniquement le prix du kWh."
+  ],
+  "toc": [
+    "Comprendre les acteurs de l’énergie à Paris",
+    "EDF, Enedis et GRDF : qui contacter ?",
+    "Suivre sa consommation avec Linky et son espace client",
+    "Situer sa consommation annuelle d’électricité",
+    "Lire les signaux d’une consommation trop élevée",
+    "Tarif Base ou heures creuses : quelle option choisir ?",
+    "Choisir un contrat adapté sans se focaliser sur le prix du kWh",
+    "Plan d’action en six étapes pour réduire sa consommation",
+    "Les erreurs qui empêchent de faire des économies",
+    "Agir sur le logement, surtout en chauffage collectif"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre les acteurs de l’énergie à Paris",
+      "html": "<p>Lorsque l’on recherche « EDF Paris », on cherche souvent un interlocuteur pour souscrire un contrat, suivre une facture ou réduire sa consommation. Il est utile de distinguer les rôles : <strong>EDF est un fournisseur</strong>, au même titre que d’autres entreprises qui vendent de l’électricité et parfois du gaz. Il n’existe pas, pour un particulier, une offre résidentielle « EDF Paris » à sélectionner uniquement parce que son logement se situe dans la capitale.</p><p>La facture dépend avant tout de vos usages, de la surface et de l’isolation du logement, de votre mode de chauffage, du nombre d’occupants, de l’option tarifaire et de la puissance souscrite. À Paris, le chauffage collectif est fréquent : dans ce cas, une partie importante de l’énergie peut être intégrée aux charges de copropriété ou de location plutôt qu’à votre facture individuelle d’électricité ou de gaz.</p><p>Commencez donc par séparer les dépenses que vous pouvez piloter directement de celles qui relèvent de l’immeuble. Votre contrat individuel couvre généralement l’électricité de vos appareils, parfois l’eau chaude et le chauffage. Si ces deux derniers sont collectifs, les gestes du quotidien restent utiles, mais les travaux et réglages de la copropriété auront souvent un impact plus important.</p><p>Enfin, ne confondez pas consommation et montant facturé : une hausse peut venir d’un hiver plus froid, d’une régularisation après estimation, d’un changement de prix, d’un nouvel équipement ou d’une modification de vos habitudes. Comparer des périodes équivalentes, idéalement en kWh et non seulement en euros, permet de comprendre ce qui se passe réellement.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "EDF, Enedis et GRDF : qui contacter à Paris ?",
+      "intro": "Le bon interlocuteur dépend de votre besoin. Pour le gaz, le gestionnaire de réseau est généralement GRDF ; pour l’électricité, c’est Enedis dans la grande majorité des logements parisiens.",
+      "left": {
+        "title": "Votre fournisseur, par exemple EDF",
+        "points": [
+          "Souscription, résiliation et changement d’offre d’électricité ou de gaz.",
+          "Factures, échéanciers, paiement et service client liés à votre contrat.",
+          "Accès à une application ou à un espace client pour suivre les données transmises par le compteur.",
+          "Possibilité de changer de fournisseur gratuitement, sans coupure, pour un même logement."
+        ]
+      },
+      "right": {
+        "title": "Enedis pour l’électricité",
+        "points": [
+          "Gestion du réseau public d’électricité et du compteur Linky.",
+          "Mise en service technique, dépannage et intervention sur le compteur.",
+          "Information en cas de panne de réseau dans le quartier.",
+          "Données de consommation accessibles aussi depuis son espace dédié, selon les autorisations activées."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Suivre sa consommation avec Linky et son espace client",
+      "html": "<p>Le compteur Linky enregistre la consommation d’électricité et facilite les relevés à distance. Son premier intérêt est de donner une vision plus fiable de vos kWh consommés. Selon votre fournisseur et les autorisations que vous avez activées, vous pouvez consulter un historique quotidien, voire par créneau plus fin, dans votre espace client ou dans un service de suivi associé.</p><p><strong>Un compteur communicant ne réduit pas automatiquement la facture.</strong> Il devient utile lorsque vous vous en servez pour comparer les journées, repérer les pics et vérifier l’effet d’un changement concret. Par exemple, regardez une semaine avant et après avoir modifié la température de chauffage, programmé le ballon d’eau chaude ou supprimé un appareil resté en veille.</p><ul><li>Relevez votre consommation totale sur sept jours ordinaires, sans chercher à tout changer immédiatement.</li><li>Repérez les jours où vous êtes absent et observez la consommation résiduelle : elle révèle les veilles, box, appareils de froid et équipements qui tournent en continu.</li><li>Comparez des semaines de météo et d’occupation proches, surtout si le chauffage est électrique.</li><li>Notez les nouveaux usages : télétravail, sèche-linge, climatiseur mobile, recharge de vélo ou de voiture électrique, arrivée d’un occupant.</li></ul><p>Si vous n’êtes pas client EDF, votre propre fournisseur propose généralement un suivi similaire. Pour obtenir une photographie indépendante des offres disponibles, utilisez le <a href=\"https://comparateur-offres.energie-info.fr/\">comparateur officiel du Médiateur national de l’énergie</a>, en renseignant votre consommation la plus récente plutôt qu’une estimation trop optimiste.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Situer sa consommation annuelle d’électricité",
+      "intro": "Ces fourchettes indicatives permettent de détecter un ordre de grandeur inhabituel. Elles concernent l’électricité du logement et varient fortement selon l’eau chaude, le chauffage, l’isolation, l’électroménager et le temps passé chez soi.",
+      "columns": [
+        "Profil de logement",
+        "Chauffage et eau chaude",
+        "Ordre de grandeur annuel",
+        "À interpréter avec prudence si…"
+      ],
+      "rows": [
+        [
+          "Studio occupé par une personne",
+          "Non électriques ou collectifs",
+          "Environ 700 à 1 500 kWh",
+          "Vous télétravaillez beaucoup, utilisez une climatisation mobile ou avez de nombreux appareils."
+        ],
+        [
+          "Deux-pièces pour une à deux personnes",
+          "Non électriques ou collectifs",
+          "Environ 1 200 à 2 500 kWh",
+          "Le ballon d’eau chaude, le chauffage ou la cuisson sont électriques."
+        ],
+        [
+          "Deux-pièces chauffé à l’électricité",
+          "Chauffage et souvent eau chaude électriques",
+          "Environ 3 000 à 6 500 kWh",
+          "Le logement est mal isolé, situé sous les toits ou chauffé à une température élevée."
+        ],
+        [
+          "Trois-pièces ou logement familial tout électrique",
+          "Chauffage électrique, usages familiaux",
+          "Environ 6 000 à 10 000 kWh ou plus",
+          "La surface est importante, plusieurs personnes sont présentes la journée ou une recharge électrique est réalisée à domicile."
+        ]
+      ],
+      "note": "Ces repères ne remplacent pas l’analyse de vos factures. Une consommation élevée n’est pas forcément anormale si le chauffage ou l’eau chaude sont électriques."
+    },
+    {
+      "type": "key_points",
+      "heading": "Lire les signaux d’une consommation trop élevée",
+      "points": [
+        "Une consommation importante la nuit ou lors d’une absence peut signaler un ballon d’eau chaude mal programmé, des veilles nombreuses ou un appareil défectueux.",
+        "Un pic récurrent en début de matinée et en soirée est souvent lié au chauffage, à la cuisson et à l’eau chaude : c’est normal, mais cela peut guider vos réglages.",
+        "Une hausse brutale sans changement d’habitude mérite une vérification : relevé réel, réglage du chauffage, panne d’un appareil ou consommation estimée régularisée.",
+        "Si le logement est chauffé à l’électricité, comparez surtout les mois froids d’une année sur l’autre, pas janvier avec juillet.",
+        "Une consommation électrique stable mais des charges de chauffage en hausse dans l’immeuble relèvent probablement du chauffage collectif : demandez le détail au syndic ou au bailleur."
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Tarif Base ou heures pleines/heures creuses : quelle option choisir ?",
+      "intro": "L’option la moins chère sur le papier n’est pas toujours la plus économique. Le choix dépend de la part de votre consommation que vous pouvez décaler sans contrainte.",
+      "left": {
+        "title": "Option Tarif Base",
+        "points": [
+          "Un même prix du kWh quelle que soit l’heure.",
+          "Simple à comprendre et adaptée si vous consommez surtout le soir, le week-end ou de façon peu programmable.",
+          "Souvent pertinente pour les petits logements sans ballon d’eau chaude électrique ni gros appareils pilotables.",
+          "Évite de payer un abonnement parfois plus élevé pour une option que vous n’exploitez pas réellement."
+        ]
+      },
+      "right": {
+        "title": "Option heures pleines / heures creuses",
+        "points": [
+          "Un prix du kWh plus bas pendant les heures creuses et plus élevé le reste du temps.",
+          "Devient intéressante si le ballon d’eau chaude, certains lavages, une recharge ou le chauffage peuvent fonctionner largement sur ces plages.",
+          "Demande de connaître les horaires attribués au logement et de programmer les appareils compatibles.",
+          "Peut coûter plus cher si l’essentiel de la consommation reste effectué en heures pleines."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Choisir un contrat adapté sans se focaliser sur le prix du kWh",
+      "html": "<p>Avant de comparer les offres EDF ou celles d’autres fournisseurs, récupérez une année de consommation en kWh, ou au minimum vos dernières factures. Regardez ensuite le <strong>coût total annuel estimé</strong> : abonnement, prix du kWh, option tarifaire, éventuelles conditions d’évolution du prix et services réellement utiles. Une remise temporaire ne compense pas toujours un abonnement plus coûteux ou une hausse ultérieure du prix de l’énergie.</p><p>La puissance souscrite est un autre levier. Dans beaucoup de petits logements, 6 kVA convient ; 3 kVA peut suffire à certains studios peu équipés, tandis que 9 kVA ou davantage peut être nécessaire si plusieurs appareils puissants fonctionnent ensemble. Une puissance trop faible provoque des disjonctions ; une puissance surdimensionnée augmente la part fixe de la facture. À titre d’ordre de grandeur, l’abonnement d’un contrat d’électricité résidentiel représente souvent <strong>une dizaine à plusieurs dizaines d’euros par mois</strong>, selon la puissance, l’option et les tarifs en vigueur.</p><p>Les offres à jours ou plages tarifaires spécifiques, les offres dites « week-end » et les formules à prix variables peuvent convenir à certains foyers, mais elles demandent une lecture attentive des conditions. Ne choisissez pas une formule parce que vous êtes souvent chez vous le week-end : vérifiez précisément quels jours, quelles heures et quels usages bénéficient réellement d’un tarif réduit.</p><p>Pour le gaz, le raisonnement est similaire : séparez l’abonnement de la consommation et comparez les prix à la même date. Si le gaz sert au chauffage, la performance de la chaudière, l’isolation et la température demandée pèseront généralement davantage sur la facture que quelques centimes d’écart sur le kWh.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Un plan d’action en six étapes pour consommer moins",
+      "intro": "L’objectif n’est pas de tout bouleverser en un week-end, mais d’obtenir des résultats mesurables et durables.",
+      "steps": [
+        {
+          "title": "1. Faites l’inventaire de vos énergies",
+          "html": "<p>Identifiez ce qui fonctionne à l’électricité et au gaz : chauffage, eau chaude, plaques, four, lave-linge, sèche-linge, ventilation, climatisation et recharge. Vérifiez aussi si le chauffage est individuel ou collectif.</p>"
+        },
+        {
+          "title": "2. Analysez une semaine de référence",
+          "html": "<p>Consultez le suivi Linky ou vos relevés, puis notez vos absences, lessives, repas à domicile et jours de télétravail. Cette base vous évite de prendre une décision sur une simple impression.</p>"
+        },
+        {
+          "title": "3. Réduisez les consommations invisibles",
+          "html": "<p>Éteignez les multiprises inutilisées, paramétrez la veille de l’ordinateur, évitez de laisser un décodeur ou une console allumés en permanence et contrôlez la température du réfrigérateur. Ces gestes ne remplacent pas une action sur le chauffage, mais ils réduisent le talon de consommation.</p>"
+        },
+        {
+          "title": "4. Réglez le chauffage et l’eau chaude",
+          "html": "<p>Dans un logement chauffé à l’électricité, programmez des températures adaptées à vos horaires plutôt que de chauffer inutilement une pièce vide. Fermez rideaux et volets la nuit si possible, ne masquez pas les radiateurs et vérifiez la programmation du ballon d’eau chaude.</p>"
+        },
+        {
+          "title": "5. Ajustez contrat et puissance",
+          "html": "<p>Après avoir observé vos usages, vérifiez si l’option Base ou heures creuses est cohérente et si votre puissance est adaptée. Ne baissez pas la puissance à l’aveugle : testez d’abord vos appareils utilisés simultanément.</p>"
+        },
+        {
+          "title": "6. Mesurez à nouveau après un à trois mois",
+          "html": "<p>Comparez des périodes comparables et gardez les actions qui ont un effet réel. Si la consommation reste anormalement haute, recherchez un équipement en défaut ou demandez un diagnostic plus complet au propriétaire, au gestionnaire ou à un professionnel.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention : ne confondez pas économie et inconfort",
+      "html": "<p>Réduire excessivement le chauffage peut favoriser humidité et condensation dans un logement fragile. Visez des réglages raisonnables, aérez quotidiennement quelques minutes et traitez les causes structurelles lorsque le logement est mal isolé. En cas d’odeur de gaz, de suspicion de fuite ou d’appareil de chauffage défaillant, ne tentez pas de réparation vous-même : aérez, évitez toute flamme ou étincelle et contactez le service d’urgence compétent.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Agir sur le logement, surtout en chauffage collectif",
+      "html": "<p>Les économies les plus visibles viennent souvent du chauffage et de l’eau chaude. Dans un logement individuel, l’entretien des équipements, la programmation, l’étanchéité des fenêtres et l’usage de robinets thermostatiques peuvent améliorer la situation. Une chaudière individuelle au gaz doit faire l’objet d’un entretien régulier par un professionnel ; c’est à la fois une question de sécurité, de fonctionnement et de consommation.</p><p>En location, vous pouvez agir sur les réglages, les usages et les petits équipements réversibles. En revanche, l’isolation, les fenêtres, la ventilation ou le remplacement d’un système de chauffage relèvent généralement du propriétaire. Conservez vos relevés : ils vous aideront à signaler une anomalie de manière précise, par exemple une température insuffisante, des radiateurs impossibles à régler ou une consommation disproportionnée.</p><p>En copropriété avec chauffage collectif, demandez comment les charges sont réparties, quelle est la période de chauffe, quelle température de consigne est appliquée et si des travaux de régulation ou d’isolation sont prévus. Une démarche collective peut avoir davantage d’effet que l’optimisation d’un seul contrat électrique. Pour un projet de rénovation, renseignez-vous aussi sur les aides disponibles au moment de votre projet : leurs critères, montants et calendriers évoluent régulièrement.</p><p>La meilleure stratégie reste progressive : mesurer, corriger les usages coûteux, adapter le contrat, puis engager les améliorations techniques qui ont du sens pour votre logement. C’est ainsi que la gestion de l’énergie devient à la fois plus simple, plus économique et plus durable.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Le compteur Linky permet-il vraiment de faire baisser la facture ?",
+      "a_html": "<p>Le compteur Linky ne diminue pas la consommation par lui-même. Il facilite toutefois l’accès à des données plus précises, ce qui aide à repérer les pics, les veilles et les usages qui peuvent être déplacés ou réduits.</p><p>Son efficacité dépend de ce que vous faites des informations : comparer des périodes, programmer certains appareils, ajuster le chauffage ou vérifier une anomalie. Sans analyse ni changement d’usage, il ne génère pas d’économie automatique.</p>"
+    },
+    {
+      "q": "Comment suivre ma consommation EDF à Paris ?",
+      "a_html": "<p>Si vous êtes client EDF, consultez votre espace client ou l’application proposée par le fournisseur, à condition que les données de consommation soient disponibles et autorisées. Vous pouvez aussi accéder à des données liées au compteur via les services d’Enedis, indépendamment du fournisseur.</p><p>Regardez surtout les kWh par jour ou par semaine, puis comparez-les avec vos habitudes et la météo. Le montant en euros reste indispensable pour le budget, mais il explique moins bien l’origine d’une hausse.</p>"
+    },
+    {
+      "q": "Est-il rentable de passer aux heures creuses dans un appartement parisien ?",
+      "a_html": "<p>Ce peut être rentable si vous pouvez faire fonctionner une part significative de vos appareils pendant les heures creuses : ballon d’eau chaude, lave-linge, lave-vaisselle, certains chauffages ou recharge électrique. Les horaires sont propres au point de livraison et ne correspondent pas nécessairement à toutes les nuits.</p><p>Dans un petit appartement sans eau chaude électrique et avec une consommation surtout répartie en journée et en soirée, l’option Base est souvent plus simple et peut être plus adaptée. Comparez toujours le coût total avec votre profil réel.</p>"
+    },
+    {
+      "q": "Puis-je changer de fournisseur d’électricité si je suis locataire ?",
+      "a_html": "<p>Oui, si le contrat d’électricité est à votre nom, vous pouvez généralement choisir ou changer de fournisseur sans l’accord du propriétaire. Le changement est gratuit, sans coupure et sans remplacement du compteur, à condition de rester dans le même logement et sur le même réseau.</p><p>En revanche, vous ne pouvez pas modifier seul une installation collective, des radiateurs appartenant au logement ou le système de chauffage de l’immeuble. Ces sujets doivent être abordés avec le bailleur ou le syndic.</p>"
+    },
+    {
+      "q": "Pourquoi ma facture augmente-t-elle alors que je consomme moins ?",
+      "a_html": "<p>Une facture peut augmenter malgré une baisse de kWh à cause du prix de l’énergie, de l’abonnement, d’une régularisation après des mensualités estimées ou d’une période de facturation différente. Vérifiez la ligne indiquant les index de compteur, la période couverte et la distinction entre consommation et abonnement.</p><p>Comparez également le même mois ou la même saison d’une année à l’autre. Pour un logement chauffé à l’électricité ou au gaz, quelques jours froids supplémentaires peuvent modifier fortement la consommation.</p>"
+    },
+    {
+      "q": "Comment réduire les charges de chauffage collectif à Paris ?",
+      "a_html": "<p>À votre échelle, évitez de surchauffer, purgez ou signalez les radiateurs qui fonctionnent mal selon les règles de l’immeuble, et limitez les déperditions par les fenêtres et les portes. Demandez au syndic ou au bailleur le détail des charges, la température de consigne et le calendrier de chauffe.</p><p>À l’échelle de la copropriété, les leviers les plus importants sont souvent l’équilibrage du chauffage, la régulation, l’entretien de la chaufferie, l’isolation et le suivi des consommations. Ce sont des décisions collectives, mais des relevés précis et des demandes documentées peuvent aider à les faire avancer.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Gérer sa consommation d’énergie à Paris commence par une règle simple : <strong>mesurer avant d’agir</strong>. Utilisez les données de votre compteur, identifiez le poids du chauffage et de l’eau chaude, puis choisissez une option tarifaire et une puissance réellement adaptées à votre quotidien.</p><p>Les gestes utiles sont ceux que vous pouvez maintenir dans la durée. En combinant un suivi régulier, quelques réglages ciblés et une vigilance sur le contrat comme sur le logement, vous réduirez plus sûrement vos dépenses qu’en cherchant une solution miracle.</p>",
+  "__slug": "edf-paris-comment-peut-on-gerer-la-consommation-denergie"
+}

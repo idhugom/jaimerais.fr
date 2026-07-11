@@ -1,0 +1,212 @@
+{
+  "title": "Que faire si votre Samsung ne prend plus de photos ? Le guide de dépannage complet",
+  "meta_description": "Votre Samsung ne prend plus de photos ? Vérifiez stockage, appli, mises à jour et carte SD, puis identifiez une éventuelle panne matérielle.",
+  "reading_time_min": 10,
+  "hero_intro": "Un écran noir, un bouton déclencheur qui ne répond plus ou des clichés qui disparaissent : un appareil photo Samsung défaillant peut avoir plusieurs causes. La bonne nouvelle, c'est qu'il s'agit souvent d'un problème de stockage, d'application ou de logiciel, résoluble sans perdre vos données. Suivez ces vérifications dans l'ordre, des plus simples aux plus avancées.",
+  "key_takeaways": [
+    "Ne réinitialisez pas le téléphone en premier : un redémarrage, de l'espace libre et le nettoyage du cache suffisent fréquemment.",
+    "Le symptôme est un indice : écran noir, application qui se ferme, photo non enregistrée ou une seule lentille en panne ne pointent pas vers la même cause.",
+    "Vider le cache ou les données de l'application Appareil photo ne supprime pas les photos déjà enregistrées dans votre Galerie.",
+    "Une carte microSD pleine, défectueuse ou en lecture seule peut empêcher l'enregistrement des nouvelles photos.",
+    "Si toutes les applications affichent un écran noir après une chute, un choc ou un contact avec l'eau, une panne matérielle devient probable."
+  ],
+  "toc": [
+    "Identifier le symptôme avant de manipuler le téléphone",
+    "Faire les vérifications immédiates",
+    "Réinitialiser l'application Appareil photo sans effacer vos clichés",
+    "Contrôler l'espace de stockage, la Galerie et la carte microSD",
+    "Écarter un conflit logiciel ou une application tierce",
+    "Savoir reconnaître une panne matérielle et demander une réparation",
+    "Utiliser la réinitialisation complète uniquement en dernier recours"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Identifier le symptôme avant de manipuler le téléphone",
+      "html": "<p>« Mon Samsung ne prend plus de photos » peut recouvrir des situations très différentes. L'application Appareil photo peut refuser de s'ouvrir, afficher un écran noir, se fermer avec un message d'erreur, ne rien faire lorsque vous appuyez sur le déclencheur ou prendre la photo sans parvenir à l'enregistrer. Prenez quelques secondes pour observer précisément ce qui se passe : cela évite de chercher au mauvais endroit.</p><p>Testez aussi la caméra avant et la caméra arrière, puis essayez de basculer entre les modes Photo et Vidéo. Si seule la caméra frontale, le grand-angle ou le zoom ne fonctionne plus, le souci peut concerner une lentille précise. Si, au contraire, l'appareil photo marche mais que les images n'apparaissent pas dans la Galerie, le problème est probablement lié à l'enregistrement ou à l'affichage des fichiers, pas au capteur.</p><p>Avant toute action importante, vérifiez si des photos récentes doivent être protégées. Les manipulations proposées au début de ce guide sont sans danger pour vos clichés. En revanche, le formatage d'une carte microSD et la réinitialisation d'usine effacent des données : gardez-les pour la fin.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Le symptôme vous aide à trouver la bonne piste",
+      "intro": "Ce tableau permet de prioriser les vérifications plutôt que d'essayer toutes les solutions au hasard.",
+      "columns": [
+        "Ce que vous constatez",
+        "Cause fréquente",
+        "Action à faire en premier"
+      ],
+      "rows": [
+        [
+          "L'écran reste noir dans l'application Appareil photo",
+          "Application bloquée, conflit avec une autre appli, souci de capteur",
+          "Fermer les applis, redémarrer le téléphone et tester la caméra avant/arrière"
+        ],
+        [
+          "Le déclencheur réagit mais aucune photo ne s'enregistre",
+          "Stockage saturé, carte microSD défaillante ou dossier inaccessible",
+          "Libérer de l'espace et vérifier la carte microSD"
+        ],
+        [
+          "L'application se ferme ou affiche « Appareil photo s'est arrêté »",
+          "Cache corrompu, bug logiciel ou mise à jour incomplète",
+          "Vider le cache de l'application puis rechercher une mise à jour"
+        ],
+        [
+          "Les photos sont prises mais absentes de la Galerie",
+          "Indexation de la Galerie, mauvais dossier ou carte SD non lue",
+          "Chercher dans Mes fichiers, puis relancer la Galerie et la carte SD"
+        ],
+        [
+          "Seule une lentille ne fonctionne plus",
+          "Bug de mode photo ou module photo concerné",
+          "Redémarrer, mettre à jour, puis envisager un diagnostic si le défaut persiste"
+        ],
+        [
+          "Le problème a commencé après un choc ou de l'humidité",
+          "Dommage physique ou oxydation",
+          "Éviter de forcer l'utilisation et demander un diagnostic professionnel"
+        ]
+      ],
+      "note": "Les intitulés des menus peuvent légèrement varier selon votre version d'Android et de One UI."
+    },
+    {
+      "type": "steps",
+      "heading": "Faire les vérifications immédiates, dans le bon ordre",
+      "intro": "Commencez par ces gestes simples. Ils règlent de nombreux blocages temporaires sans modifier vos photos ni vos réglages essentiels.",
+      "steps": [
+        {
+          "title": "Vérifiez l'espace de stockage disponible",
+          "html": "<p>Ouvrez <strong>Paramètres</strong>, puis <strong>Maintenance de l'appareil</strong> ou <strong>Entretien de l'appareil</strong>, et enfin <strong>Stockage</strong>. Essayez de conserver au moins quelques gigaoctets libres : une photo ou une vidéo a besoin d'espace temporaire pour être traitée avant d'être enregistrée. Supprimez les téléchargements inutiles, les vidéos lourdes ou transférez vos fichiers vers un ordinateur ou un espace de sauvegarde.</p>"
+        },
+        {
+          "title": "Fermez les applications qui peuvent utiliser la caméra",
+          "html": "<p>Instagram, Snapchat, WhatsApp, une application de visioconférence, un lecteur de QR code ou une application de surveillance peuvent parfois conserver l'accès à la caméra. Ouvrez les applications récentes et fermez-les toutes, puis relancez uniquement l'application <strong>Appareil photo</strong> de Samsung.</p>"
+        },
+        {
+          "title": "Redémarrez normalement, puis forcez le redémarrage si nécessaire",
+          "html": "<p>Éteignez et rallumez votre téléphone si son écran répond. S'il est figé, maintenez généralement la touche latérale et le bouton de volume bas enfoncés pendant environ 7 à 10 secondes, jusqu'au redémarrage. Cette opération ne supprime rien : elle ferme les processus bloqués et réinitialise la mémoire de travail.</p>"
+        },
+        {
+          "title": "Nettoyez et testez les objectifs",
+          "html": "<p>Retirez provisoirement une coque qui couvre mal le bloc photo et nettoyez doucement les lentilles avec un chiffon microfibre propre et sec. Testez ensuite la caméra avant, la caméra arrière et, s'il existe, le grand-angle. Une image floue relève souvent d'une lentille sale ; un écran noir sur une seule caméra est plus préoccupant.</p>"
+        },
+        {
+          "title": "Vérifiez l'accès global à l'appareil photo",
+          "html": "<p>Sur les versions récentes d'Android, l'accès global à la caméra peut être désactivé depuis les raccourcis rapides ou les réglages de confidentialité. Vérifiez que l'option d'accès à l'appareil photo est active. Pour une application comme Instagram ou WhatsApp, allez dans <strong>Paramètres</strong>, <strong>Applications</strong>, sélectionnez l'application, puis <strong>Autorisations</strong> et autorisez l'accès à l'appareil photo si besoin.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Réinitialiser l'application Appareil photo sans effacer vos clichés",
+      "html": "<p>Quand l'application Appareil photo s'ouvre mal, plante ou affiche une image figée, commencez par remettre ses réglages à plat. Ouvrez l'application, touchez l'icône des réglages, puis cherchez l'option <strong>Réinitialiser les paramètres</strong>. Cette action remet à zéro les préférences de prise de vue, comme le format ou le minuteur, mais elle ne touche pas à votre Galerie.</p><p>Si l'application ne s'ouvre pas ou si le problème persiste, allez dans <strong>Paramètres</strong>, <strong>Applications</strong>, puis <strong>Appareil photo</strong>. Dans la rubrique <strong>Stockage</strong>, choisissez d'abord <strong>Vider le cache</strong>. Relancez l'appareil photo pour vérifier. Le cache correspond à des fichiers temporaires ; le supprimer est une opération courante et sans incidence sur les photos enregistrées.</p><p>En deuxième intention seulement, utilisez <strong>Effacer les données</strong> ou <strong>Supprimer les données</strong> dans cette même fiche. L'application retrouvera sa configuration d'origine et vous devrez éventuellement rétablir certains réglages. Vos images restent dans le dossier DCIM, dans la mémoire interne ou sur votre carte microSD : elles ne sont pas stockées dans les données de l'application Appareil photo.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Vider le cache ou effacer les données : quelle différence ?",
+      "intro": "Les deux options se trouvent souvent au même endroit, mais elles n'ont pas les mêmes effets.",
+      "left": {
+        "title": "Vider le cache",
+        "points": [
+          "Supprime les fichiers temporaires qui peuvent être corrompus",
+          "Conserve vos préférences de l'application Appareil photo",
+          "N'efface ni les photos, ni les vidéos, ni les albums",
+          "À essayer en premier en cas de lenteur, de blocage ou de fermeture inattendue"
+        ]
+      },
+      "right": {
+        "title": "Effacer les données",
+        "points": [
+          "Réinitialise les réglages de l'application à leur état par défaut",
+          "Peut corriger un dysfonctionnement plus tenace",
+          "N'efface pas les fichiers de votre Galerie",
+          "Implique de reconfigurer vos options photo personnelles ensuite"
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Contrôler l'espace de stockage, la Galerie et la carte microSD",
+      "html": "<p>Si le Samsung prend la photo mais n'affiche aucun résultat, regardez d'abord dans l'application <strong>Mes fichiers</strong>. Explorez le dossier <strong>Images</strong> ou <strong>DCIM</strong>, puis le sous-dossier <strong>Camera</strong>. Si les fichiers y sont présents, votre appareil photo a bien fonctionné : c'est plutôt la Galerie qui ne les indexe pas correctement. Fermez-la, redémarrez le téléphone et vérifiez si les images réapparaissent.</p><p>Une carte microSD peut aussi être en cause. Elle peut être pleine, mal reconnue, endommagée ou passée en lecture seule. Dans <strong>Paramètres</strong>, <strong>Stockage</strong>, vérifiez qu'elle est détectée et qu'elle dispose encore d'espace. Éteignez le téléphone avant de retirer puis de réinsérer la carte, si votre modèle le permet. Évitez de manipuler une carte encore utilisée par le système.</p><p>Si le problème disparaît lorsque vous enregistrez les photos dans la mémoire interne, la carte est très probablement responsable. Copiez dès que possible son contenu vers un ordinateur ou un support fiable. Un formatage peut résoudre certaines erreurs, mais il efface tout son contenu : ne le faites qu'après une sauvegarde complète. Pour une carte qui se déconnecte régulièrement, le remplacement est généralement plus sûr qu'un formatage répété.</p><p>Pensez également aux dossiers particuliers : Corbeille de la Galerie, Dossier sécurisé, albums masqués ou stockage cloud. Une photo peut avoir été créée sans être visible immédiatement dans l'album principal.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne formatez jamais une carte microSD avant d'avoir récupéré vos fichiers",
+      "html": "<p>Le formatage peut rendre une carte à nouveau utilisable, mais il supprime les photos, vidéos et documents qui s'y trouvent. Si la carte contient des souvenirs importants, cessez d'y enregistrer de nouvelles images et copiez d'abord ce qui reste accessible. Si elle est illisible, évitez les essais répétés qui risquent d'aggraver la perte de données.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Écarter un conflit logiciel, une application récente ou un bug de mise à jour",
+      "html": "<p>Un problème qui apparaît juste après l'installation d'une application mérite votre attention. Les applications utilisant l'appareil photo, les filtres, les scanners ou les outils de sécurité sont les premières à examiner. Désinstallez temporairement la dernière application ajoutée, redémarrez le Samsung et testez à nouveau. Ne supprimez pas plusieurs applications à l'aveugle : procédez une par une afin d'identifier la cause.</p><p>Installez aussi les mises à jour disponibles dans <strong>Paramètres</strong>, <strong>Mise à jour logicielle</strong>, puis <strong>Télécharger et installer</strong>. Une mise à jour de One UI ou d'Android peut corriger un défaut de caméra connu. Depuis le Galaxy Store et le Play Store, mettez également à jour les applications Samsung, notamment la Galerie, si les images sont bien créées mais mal affichées.</p><p>Le <strong>mode sans échec</strong> est utile lorsque vous suspectez une application tierce. Selon le modèle, ouvrez le menu d'alimentation puis maintenez l'option Éteindre appuyée jusqu'à voir apparaître le mode sans échec. Le téléphone redémarre alors avec les applications téléchargées désactivées temporairement. Si l'appareil photo fonctionne dans ce mode, l'origine est presque certainement une application installée. Redémarrez normalement pour sortir du mode sans échec, puis désinstallez les applications suspectes.</p><p>Vous pouvez enfin lancer le diagnostic matériel proposé dans l'application Samsung Members lorsqu'elle est disponible sur votre appareil. Ce test ne remplace pas un réparateur, mais il peut confirmer qu'une fonction de caméra ne répond pas correctement.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Reconnaître une panne matérielle et décider de la suite",
+      "intro": "Quand les vérifications logicielles échouent, ces signaux permettent de savoir s'il est raisonnable de passer par le service après-vente.",
+      "steps": [
+        {
+          "title": "Repérez les signes qui orientent vers le matériel",
+          "html": "<p>Une chute, une forte pression sur le bloc photo, de la condensation, un contact avec un liquide ou un écran noir permanent dans toutes les applications sont des indices importants. Un bruit anormal de mise au point, une image qui tremble en permanence ou une seule lentille systématiquement indisponible peuvent également révéler un module photo endommagé.</p>"
+        },
+        {
+          "title": "Faites un dernier test croisé",
+          "html": "<p>Essayez l'appareil photo Samsung, puis une application fiable qui utilise la caméra. Si les deux échouent de la même façon après redémarrage et mise à jour, la probabilité d'un simple problème d'application diminue. Notez le message d'erreur exact et les caméras concernées : ces informations aideront le technicien.</p>"
+        },
+        {
+          "title": "Préservez la garantie et demandez un devis",
+          "html": "<p>Si votre smartphone est encore couvert par une garantie ou une assurance, contactez d'abord le vendeur, Samsung ou votre assureur selon les conditions applicables. Hors garantie, le prix dépend fortement du modèle et du module à remplacer : une intervention peut aller de quelques dizaines d'euros à plusieurs centaines d'euros sur un appareil haut de gamme ou pliable. Demandez un devis avant réparation et sauvegardez vos données si le téléphone reste utilisable.</p>"
+        },
+        {
+          "title": "N'essayez pas de démonter le téléphone",
+          "html": "<p>Les smartphones récents sont collés et comportent des joints d'étanchéité fragiles. Ouvrir l'appareil sans équipement adapté peut endommager l'écran, la batterie ou les nappes de caméra, et compromettre une éventuelle prise en charge. Après exposition à l'eau, éteignez-le si possible et évitez de le charger avant avis professionnel.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "La réinitialisation d'usine est un dernier recours, pas un premier réflexe",
+      "html": "<p>Avant de réinitialiser complètement votre Samsung, effectuez les tests de ce guide et sauvegardez vos photos, contacts, messages et fichiers. Une réinitialisation d'usine efface le contenu du téléphone. Si l'appareil photo reste noir juste après cette opération, avant même la réinstallation de vos applications, une panne matérielle est alors beaucoup plus plausible.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'ordre de dépannage le plus efficace",
+      "points": [
+        "Libérez de l'espace, fermez les applications en cours et redémarrez le Samsung.",
+        "Testez séparément les caméras avant, arrière et les différents objectifs.",
+        "Réinitialisez les réglages de l'appareil photo, puis videz son cache.",
+        "Vérifiez les fichiers dans Mes fichiers et isolez une éventuelle carte microSD défectueuse.",
+        "Installez les mises à jour et utilisez le mode sans échec en cas de conflit possible.",
+        "Faites diagnostiquer le téléphone si toutes les applications échouent après un choc ou une exposition à l'humidité."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi l'écran de l'appareil photo de mon Samsung est-il noir ?",
+      "a_html": "<p>Un écran noir peut être causé par une application qui utilise encore la caméra, un blocage temporaire du système, un conflit logiciel ou une panne du module photo. Fermez toutes les applications, forcez le redémarrage, puis testez la caméra avant et arrière. Si l'écran est noir dans toutes les applications, y compris après une mise à jour et un redémarrage, faites diagnostiquer l'appareil.</p>"
+    },
+    {
+      "q": "Vider les données de l'application Appareil photo efface-t-il mes photos ?",
+      "a_html": "<p>Non. Les photos et vidéos enregistrées sont des fichiers stockés dans la mémoire du téléphone ou sur la carte microSD, généralement dans le dossier DCIM. Effacer les données de l'application Appareil photo remet surtout ses réglages à zéro. Par prudence, vérifiez toutefois que vos clichés apparaissent bien dans la Galerie ou dans Mes fichiers avant toute manipulation importante.</p>"
+    },
+    {
+      "q": "Mon Samsung indique qu'il manque de l'espace alors qu'il reste du stockage : que faire ?",
+      "a_html": "<p>Vérifiez à la fois la mémoire interne et, si vous en utilisez une, la carte microSD. Une carte peut être pleine ou défectueuse alors que la mémoire interne est disponible. Supprimez les fichiers temporaires et les vidéos lourdes, videz la Corbeille de la Galerie si nécessaire, puis redémarrez le téléphone. Testez ensuite un enregistrement dans la mémoire interne.</p>"
+    },
+    {
+      "q": "Comment mettre un Samsung en mode sans échec pour tester l'appareil photo ?",
+      "a_html": "<p>Sur de nombreux modèles Galaxy, ouvrez le menu d'alimentation, puis maintenez l'option « Éteindre » appuyée jusqu'à ce que le mode sans échec soit proposé. Validez et testez l'application Appareil photo après le redémarrage. Les applications téléchargées sont alors temporairement désactivées. Un redémarrage normal permet de quitter ce mode.</p><p>La procédure peut différer légèrement selon la version de One UI. Si l'option n'apparaît pas, consultez l'aide intégrée de votre modèle ou redémarrez en suivant les indications affichées par le téléphone.</p>"
+    },
+    {
+      "q": "Une mise à jour peut-elle réparer l'appareil photo de mon Samsung ?",
+      "a_html": "<p>Oui, lorsqu'un bug de l'application, d'Android ou de One UI est à l'origine du problème. Recherchez les mises à jour système dans Paramètres, puis mettez à jour les applications via le Galaxy Store et le Play Store. En revanche, une mise à jour ne réparera pas un capteur endommagé après une chute ou un contact avec un liquide.</p>"
+    },
+    {
+      "q": "Quand faut-il faire réparer un Samsung qui ne prend plus de photos ?",
+      "a_html": "<p>Faites appel à un professionnel si la caméra reste noire dans toutes les applications après les vérifications logicielles, si une lentille ne répond plus, si le défaut suit un choc ou une infiltration d'humidité, ou si un diagnostic Samsung signale une anomalie. Avant de confier l'appareil, sauvegardez vos données et demandez un devis, surtout hors garantie.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Face à un Samsung qui ne prend plus de photos, avancez par élimination : espace libre, redémarrage, application Appareil photo, carte microSD, mises à jour et applications tierces. Cette méthode limite les manipulations inutiles et protège vos souvenirs.</p><p>Si le problème persiste sur toutes les caméras et dans toutes les applications, notamment après un choc ou de l'humidité, ne forcez pas : une réparation ou un diagnostic est la solution la plus sûre. Vous saurez alors si un réglage suffit ou si le module photo doit être remplacé.</p>",
+  "__slug": "que-faire-si-mon-samsung-ne-prend-plus-de-photos"
+}

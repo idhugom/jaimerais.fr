@@ -1,0 +1,226 @@
+{
+  "title": "Comment localiser un téléphone perdu ou volé : iPhone et Android",
+  "meta_description": "Téléphone perdu ou volé ? Localisez-le sur iPhone ou Android, verrouillez vos données et adoptez les bons réflexes sans vous mettre en danger.",
+  "reading_time_min": 10,
+  "hero_intro": "Un téléphone égaré peut souvent être retrouvé en quelques minutes, à condition que les bons réglages aient été activés avant l'incident. Entre les services Apple et Google, le verrouillage à distance et les démarches auprès de votre opérateur, l'essentiel est d'agir vite, dans le bon ordre, sans mettre votre sécurité en jeu.",
+  "key_takeaways": [
+    "Utilisez en priorité le service officiel lié à votre compte : « Localiser » sur iPhone et « Localiser mon appareil » sur Android.",
+    "Un appareil doit généralement être allumé, associé à votre compte et avoir un moyen de communiquer pour envoyer une position récente ou actuelle.",
+    "Activez immédiatement le mode Perdu ou le verrouillage à distance : vos données comptent davantage que le téléphone.",
+    "En cas de vol, ne tentez pas de récupérer l'appareil vous-même : conservez les preuves, contactez l'opérateur et déposez plainte.",
+    "N'effacez le téléphone à distance qu'après avoir évalué vos chances de le récupérer, et ne le retirez jamais de votre compte sans nécessité."
+  ],
+  "toc": [
+    "Ce qu'il faut savoir avant de tenter une localisation",
+    "Localiser un iPhone avec l'app Localiser",
+    "Localiser un téléphone Android avec Google",
+    "Téléphone perdu ou volé : les actions à faire dans le bon ordre",
+    "Les méthodes qui ne fonctionnent pas, ou pas comme on le croit",
+    "Protéger vos comptes, votre ligne et vos données",
+    "Préparer son téléphone avant qu'il ne disparaisse",
+    "FAQ : localiser un téléphone"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Ce qu'il faut savoir avant de tenter une localisation",
+      "html": "<p>Localiser un téléphone ne consiste pas à saisir un numéro dans un site web pour obtenir une adresse précise. Pour des raisons de sécurité et de vie privée, les solutions fiables reposent sur un <strong>compte déjà connecté à l'appareil</strong> : compte Apple pour un iPhone, compte Google pour la plupart des smartphones Android.</p><p>La position affichée peut être exacte à quelques mètres en extérieur, ou beaucoup plus approximative dans un immeuble, un parking ou une zone peu couverte. Elle peut aussi correspondre à une <strong>dernière position connue</strong> : ce n'est donc pas forcément la position du téléphone à l'instant où vous regardez la carte.</p><p>Les chances de retrouver l'appareil sont meilleures s'il est allumé, si la localisation a été autorisée et s'il peut communiquer par données mobiles, Wi-Fi ou, selon le modèle et les réglages, via un réseau de localisation hors ligne. Une batterie vide, le mode avion, l'absence de réseau ou un téléphone éteint limitent logiquement ce que le service peut afficher.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quel outil utiliser selon votre téléphone ?",
+      "intro": "Les deux grands écosystèmes proposent gratuitement leur propre service de localisation et de sécurisation à distance.",
+      "columns": [
+        "Votre appareil",
+        "Service à utiliser",
+        "Ce que vous pouvez faire",
+        "Conditions principales"
+      ],
+      "rows": [
+        [
+          "iPhone, iPad, Apple Watch, Mac",
+          "App « Localiser » ou iCloud",
+          "Voir une position, faire sonner, activer le mode Perdu, effacer l'appareil",
+          "« Localiser » activé, appareil lié à votre compte Apple"
+        ],
+        [
+          "Smartphone ou tablette Android",
+          "Google « Localiser mon appareil »",
+          "Voir une position, faire sonner, sécuriser ou effacer l'appareil",
+          "Compte Google connecté et service de localisation configuré"
+        ],
+        [
+          "Téléphone sans smartphone ou appareil non préparé",
+          "Opérateur et autorités en cas de vol",
+          "Suspendre la ligne, bloquer la SIM, engager des démarches",
+          "Aucune géolocalisation grand public fiable par simple numéro ou IMEI"
+        ]
+      ],
+      "note": "Les intitulés et fonctions peuvent légèrement varier selon la version du système, le fabricant et les réglages de confidentialité."
+    },
+    {
+      "type": "prose",
+      "heading": "Localiser un iPhone avec l'app Localiser",
+      "html": "<p>Si vous avez perdu un iPhone, ouvrez l'app <strong>Localiser</strong> depuis un autre appareil Apple connecté à votre compte, ou connectez-vous à votre compte Apple depuis un navigateur. Sélectionnez l'iPhone dans la liste de vos appareils : une carte indique sa position actuelle, sa dernière position connue ou son statut hors ligne.</p><p>Si vous pensez qu'il est à proximité, utilisez <strong>Faire sonner</strong>. Même en mode silencieux, l'iPhone émet généralement un son puissant lorsqu'il reçoit la commande. C'est particulièrement efficace à la maison, au bureau, dans une voiture ou au fond d'un sac.</p><p>S'il est hors de votre vue, activez le <strong>mode Perdu</strong>. L'appareil se verrouille avec votre code et vous pouvez afficher un message avec un numéro auquel vous joindre. Vous recevez aussi des notifications lorsqu'une nouvelle position devient disponible. Si votre modèle et vos réglages le permettent, le réseau Localiser peut contribuer à repérer l'appareil hors connexion grâce aux appareils Apple à proximité, sans révéler leur identité.</p><p>Ne communiquez jamais votre mot de passe Apple ni un code de validation reçu par SMS ou notification à une personne prétendant avoir trouvé votre iPhone. Apple ne vous demandera pas ces informations pour vous rendre votre appareil.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe sur iPhone",
+      "html": "<p>Activez le mode Perdu avant toute autre action si le téléphone est réellement introuvable. <strong>Ne le supprimez pas de votre compte Apple</strong> : vous risqueriez de désactiver le verrouillage d'activation, une protection essentielle contre la revente et la réutilisation de l'appareil.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Localiser un téléphone Android avec Google",
+      "html": "<p>Sur Android, rendez-vous sur le service officiel <a href=\"https://www.google.com/android/find/\">Google Localiser mon appareil</a> depuis un ordinateur ou un autre téléphone, puis connectez-vous avec le <strong>même compte Google</strong> que celui enregistré sur l'appareil perdu. Si plusieurs appareils sont associés au compte, choisissez le bon modèle dans la liste.</p><p>La carte affiche la position disponible et plusieurs commandes. Vous pouvez faire sonner l'appareil, même s'il est réglé en silencieux, ou le <strong>sécuriser</strong> : le téléphone est verrouillé et un message de contact peut être affiché sur l'écran. Cette étape protège vos accès tout en laissant à une personne honnête la possibilité de vous joindre.</p><p>Lorsque l'appareil est hors ligne, Google peut parfois montrer la dernière position enregistrée ou exploiter les possibilités de localisation hors ligne proposées par certains appareils récents. Ne tirez pas de conclusion hâtive : attendez une mise à jour, vérifiez les lieux où vous êtes passé et activez les notifications si le service les propose.</p><p>La commande d'effacement est utile si la récupération paraît très improbable et que des données sensibles sont en jeu. Elle supprime les données de l'appareil dès qu'il se reconnecte, mais elle peut aussi mettre fin à vos possibilités de suivi à distance. C'est une décision de protection, pas une méthode pour retrouver le téléphone.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Téléphone simplement perdu ou probablement volé ?",
+      "intro": "La technologie est la même, mais votre priorité change selon la situation.",
+      "left": {
+        "title": "Vous l'avez probablement égaré",
+        "points": [
+          "Faites sonner l'appareil et retracez calmement vos derniers déplacements.",
+          "Consultez la carte, en gardant à l'esprit la marge d'erreur et l'heure de la position.",
+          "Activez le verrouillage avec un message de contact si vous quittez la zone de recherche.",
+          "Appelez votre numéro depuis un autre téléphone, sans divulguer d'informations personnelles inutiles."
+        ]
+      },
+      "right": {
+        "title": "Vous suspectez un vol",
+        "points": [
+          "Activez immédiatement le mode Perdu ou le verrouillage à distance.",
+          "N'allez pas seul à l'adresse indiquée et n'organisez pas de rendez-vous risqué.",
+          "Contactez votre opérateur pour suspendre la ligne ou remplacer la carte SIM.",
+          "Conservez captures d'écran, numéro IMEI et preuve d'achat pour la plainte et l'assurance."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Téléphone perdu ou volé : les actions à faire dans le bon ordre",
+      "intro": "Ces étapes limitent les dégâts, même si la localisation ne donne aucun résultat immédiat.",
+      "steps": [
+        {
+          "title": "Vérifiez les endroits les plus plausibles",
+          "html": "<p>Appelez votre numéro, faites sonner l'appareil à distance et fouillez méthodiquement vos derniers lieux : domicile, véhicule, accueil d'un commerce, transport, travail. Une position récente dans un lieu connu mérite d'être vérifiée sans précipitation.</p>"
+        },
+        {
+          "title": "Verrouillez et affichez un message",
+          "html": "<p>Activez le mode Perdu sur iPhone ou la sécurisation sur Android. Indiquez un numéro alternatif ou une adresse e-mail dédiée, jamais votre adresse complète ni d'autres données sensibles.</p>"
+        },
+        {
+          "title": "Protégez vos comptes prioritaires",
+          "html": "<p>Depuis un appareil de confiance, vérifiez les sessions ouvertes de votre messagerie, de vos réseaux sociaux, de vos applications bancaires et de vos services de paiement. Changez en priorité les mots de passe des comptes sensibles si vous craignez que le code de verrouillage soit compromis.</p>"
+        },
+        {
+          "title": "Contactez votre opérateur",
+          "html": "<p>Demandez la suspension de la ligne ou de la carte SIM si le téléphone est volé ou si vous n'avez plus de contrôle dessus. Cela évite notamment l'interception de SMS servant à réinitialiser des mots de passe. Demandez aussi les modalités de remplacement de la SIM ou de l'eSIM.</p>"
+        },
+        {
+          "title": "Déclarez le vol et décidez de l'effacement",
+          "html": "<p>En cas de vol, déposez plainte selon la procédure applicable dans votre pays et transmettez l'IMEI si on vous le demande. En France, ce numéro à 15 chiffres figure souvent sur la boîte, la facture ou l'espace client de l'opérateur. Envisagez l'effacement à distance si l'appareil semble irrécupérable ou contient des données professionnelles, de santé ou financières.</p>"
+        }
+      ]
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs à éviter absolument",
+      "points": [
+        "Se rendre seul chez une personne ou à une adresse indiquée par la carte : une localisation n'est pas une preuve et votre sécurité passe avant l'appareil.",
+        "Payer un site qui promet de géolocaliser n'importe quel téléphone avec son numéro, son IMEI ou un simple lien : ce sont souvent des arnaques ou des services inefficaces.",
+        "Donner son identifiant Apple, son mot de passe Google ou un code à usage unique à un prétendu « service de récupération ».",
+        "Réinitialiser ou retirer trop vite l'appareil de son compte : vous pouvez perdre des protections et des informations utiles.",
+        "Attendre plusieurs jours avant de bloquer une SIM en cas de vol : les SMS reçus sur votre ligne peuvent servir à prendre le contrôle de comptes."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Les méthodes qui ne fonctionnent pas, ou pas comme on le croit",
+      "html": "<p><strong>Localiser un téléphone avec son seul numéro de téléphone</strong> n'est pas une option fiable pour le grand public. Les opérateurs et les autorités peuvent intervenir dans des cadres légaux précis, notamment pour des urgences ou des enquêtes, mais ils ne fournissent pas une position à la demande à un particulier.</p><p>Il en va de même pour l'<strong>IMEI</strong>, l'identifiant matériel du téléphone. Il est précieux pour identifier l'appareil, appuyer une plainte ou demander certaines mesures à l'opérateur, mais il ne permet pas de suivre soi-même une position sur une carte. Méfiez-vous des services payants qui prétendent faire l'inverse.</p><p>Enfin, les applications d'espionnage et les liens de « traçage » envoyés à quelqu'un sans son consentement ne sont ni une solution légitime ni une réponse à la perte de votre propre appareil. Pour retrouver le téléphone d'un proche, utilisez les fonctions de partage de position qu'il a acceptées à l'avance, ou demandez-lui son accord.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux faux messages de récupération",
+      "html": "<p>Après un vol, vous pouvez recevoir un SMS ou un e-mail affirmant que votre téléphone a été retrouvé, avec un lien vers une fausse page Apple ou Google. Le but est de récupérer vos identifiants. Ouvrez directement l'app officielle ou tapez vous-même l'adresse du service : <strong>ne cliquez pas sur le lien reçu</strong>.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Protéger vos comptes, votre ligne et vos données",
+      "html": "<p>Le verrouillage de l'écran reste votre première défense. Préférez un code suffisamment robuste, associé à Face ID, Touch ID ou à l'empreinte digitale selon l'appareil. Évitez les codes trop évidents, comme une date de naissance, et masquez si possible le contenu des notifications sur l'écran verrouillé : un code de connexion reçu par SMS ne devrait pas être lisible par n'importe qui.</p><p>Si votre téléphone servait d'outil d'authentification, surveillez particulièrement votre boîte e-mail principale. Elle permet souvent de réinitialiser l'accès à d'autres services. Vérifiez vos applications bancaires et contactez votre banque en cas de doute, surtout si une carte est enregistrée dans un portefeuille mobile.</p><p>La sauvegarde régulière n'aide pas à localiser le téléphone, mais elle transforme une perte matérielle en incident beaucoup plus gérable. Activez les sauvegardes chiffrées ou cloud proposées par votre système, et assurez-vous de pouvoir restaurer vos contacts, photos et documents sur un nouvel appareil.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Préparer son téléphone avant qu'il ne disparaisse",
+      "intro": "Dix minutes de préparation peuvent faire une vraie différence le jour où vous cherchez votre appareil.",
+      "columns": [
+        "Réglage",
+        "Pourquoi c'est utile",
+        "À vérifier"
+      ],
+      "rows": [
+        [
+          "Service de localisation officiel activé",
+          "Permet de voir l'appareil, le faire sonner et le verrouiller à distance",
+          "« Localiser » sur Apple ; « Localiser mon appareil » sur Android"
+        ],
+        [
+          "Localisation et réseau hors ligne autorisés",
+          "Augmente les chances d'obtenir une position ou une dernière activité",
+          "Paramètres de confidentialité, Bluetooth et options du réseau de localisation"
+        ],
+        [
+          "Code d'écran et biométrie",
+          "Empêche l'accès direct aux données et applications",
+          "Code non trivial, verrouillage automatique court"
+        ],
+        [
+          "Sauvegarde automatique",
+          "Permet de récupérer vos données si l'effacement devient nécessaire",
+          "Dernière sauvegarde réussie, capacité de stockage disponible"
+        ],
+        [
+          "IMEI et preuve d'achat conservés",
+          "Facilite les démarches auprès de l'opérateur, de l'assurance ou des autorités",
+          "Photo de l'étiquette de boîte, facture et numéro stockés ailleurs que sur le téléphone"
+        ]
+      ],
+      "note": "Effectuez ces vérifications après l'achat d'un téléphone, puis à chaque changement de compte, de carte SIM ou de système."
+    },
+    {
+      "type": "quote",
+      "text": "Le meilleur plan pour retrouver un téléphone n'est pas une application installée après la perte : ce sont des protections activées, des comptes sécurisés et des réflexes simples préparés à l'avance.",
+      "author": "Conseil pratique jaimerais.fr"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on localiser un téléphone éteint ?",
+      "a_html": "<p>Pas en temps réel de façon certaine. Un téléphone complètement éteint ne peut plus transmettre sa position. Les services Apple et Google peuvent néanmoins afficher une <strong>dernière position connue</strong> et, selon l'appareil ainsi que les réglages activés avant la perte, proposer certaines capacités de localisation hors ligne.</p><p>Consultez la date et l'heure associées au point sur la carte : elles sont aussi importantes que l'emplacement lui-même.</p>"
+    },
+    {
+      "q": "Comment localiser un téléphone avec son numéro gratuitement ?",
+      "a_html": "<p>Il n'existe pas de service grand public fiable et légal permettant de géolocaliser n'importe quel téléphone à partir de son seul numéro. Utilisez plutôt le compte Apple ou Google associé à votre propre appareil.</p><p>Les sites qui demandent un paiement, un numéro IMEI ou l'envoi d'un SMS pour afficher une position sont à considérer avec une extrême méfiance.</p>"
+    },
+    {
+      "q": "Puis-je retrouver le téléphone de mon enfant ou d'un proche ?",
+      "a_html": "<p>Oui, si la personne a accepté de partager sa position avec vous avant l'incident, via les fonctions familiales ou de partage de position d'Apple, Google ou une application appropriée. Pour un adulte, le consentement est indispensable.</p><p>En cas d'urgence réelle, contactez les services d'urgence compétents plutôt que de chercher une solution de traçage improvisée.</p>"
+    },
+    {
+      "q": "Faut-il effacer son téléphone à distance dès qu'il est volé ?",
+      "a_html": "<p>Pas forcément dans les premières minutes. Commencez par le verrouiller, afficher un moyen de contact et sécuriser votre ligne. L'effacement est pertinent si les données sont très sensibles, si le téléphone paraît définitivement inaccessible ou si les consignes de votre employeur l'exigent.</p><p>Avant de confirmer cette action, vérifiez que vous avez une sauvegarde et comprenez ses effets sur la localisation. Gardez l'appareil associé à votre compte lorsque le système le recommande afin de conserver les protections contre la réactivation.</p>"
+    },
+    {
+      "q": "Que faire si la position de mon téléphone apparaît chez quelqu'un ?",
+      "a_html": "<p>Ne vous présentez pas seul à cette adresse et n'accusez personne : la position peut être approximative, ancienne ou correspondre à un lieu voisin. Prenez des captures d'écran montrant l'heure et l'emplacement, puis transmettez-les aux autorités si vous avez déposé plainte.</p><p>Pour un simple oubli dans un commerce ou un lieu public, contactez l'accueil ou le service des objets trouvés en décrivant précisément l'appareil, sans révéler inutilement toutes vos informations.</p>"
+    },
+    {
+      "q": "L'opérateur peut-il retrouver mon téléphone grâce à l'IMEI ?",
+      "a_html": "<p>L'IMEI identifie le matériel, mais il ne donne pas au particulier un accès à une géolocalisation. Votre opérateur peut vous aider à suspendre la ligne et, selon les procédures applicables, à demander le blocage de l'appareil sur les réseaux après un vol déclaré.</p><p>Conservez donc l'IMEI, la facture et le numéro de dossier de plainte : ils pourront vous être demandés pour ces démarches ou par votre assurance.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour localiser un téléphone perdu, misez d'abord sur les outils officiels Apple ou Google, puis activez sans attendre le verrouillage à distance. Si le vol est probable, protégez votre ligne et vos comptes, gardez les preuves utiles et laissez les autorités gérer toute récupération à risque.</p><p>Le meilleur moment pour vérifier vos réglages de localisation, vos sauvegardes et votre code de verrouillage est aujourd'hui. Vous gagnerez en sérénité si votre téléphone disparaît demain.</p>",
+  "__slug": "comment-localiser-un-telephone"
+}

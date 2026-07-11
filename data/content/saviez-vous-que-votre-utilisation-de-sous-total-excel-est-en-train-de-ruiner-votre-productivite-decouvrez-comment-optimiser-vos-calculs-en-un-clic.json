@@ -1,0 +1,193 @@
+{
+  "title": "Sous-total Excel : la bonne méthode pour des calculs rapides et fiables",
+  "meta_description": "Apprenez à utiliser SOUS.TOTAL, tableaux et tableaux croisés dynamiques pour obtenir des calculs Excel fiables, rapides et faciles à mettre à jour.",
+  "reading_time_min": 12,
+  "hero_intro": "Vous filtrez une liste de ventes, de dépenses ou d'heures et votre total ne suit plus ? Le sous-total Excel peut devenir un formidable indicateur dynamique, à condition de ne pas confondre la commande historique « Sous-total » et la fonction SOUS.TOTAL. Découvrez quel outil choisir, comment éviter les doubles comptes et obtenir un total juste dès que vos données évoluent.",
+  "key_takeaways": [
+    "La commande Données > Sous-total insère des lignes de synthèse dans une plage triée : elle est utile pour un rapport ponctuel, moins pour une base de données vivante.",
+    "La formule SOUS.TOTAL calcule uniquement les lignes visibles après un filtre et ignore les autres formules de sous-total incluses dans sa plage.",
+    "Utilisez le code 109 plutôt que 9 si vous souhaitez exclure aussi les lignes masquées manuellement.",
+    "Transformez votre source en tableau Excel avec Ctrl+T : les plages et les totaux s'étendent alors automatiquement quand vous ajoutez des données.",
+    "Pour analyser plusieurs catégories, périodes ou indicateurs, un tableau croisé dynamique est souvent plus robuste et plus lisible que des sous-totaux insérés dans la feuille."
+  ],
+  "toc": [
+    "Les deux sens du sous-total dans Excel",
+    "Quel outil choisir selon votre objectif",
+    "La formule SOUS.TOTAL : codes et bonnes pratiques",
+    "Commande Sous-total ou formule dynamique ?",
+    "Créer un total visible fiable en quelques étapes",
+    "Tableau Excel et tableau croisé dynamique : les alternatives solides",
+    "Les erreurs qui faussent vos totaux",
+    "Garder un classeur Excel rapide et facile à maintenir"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Les deux sens du sous-total dans Excel",
+      "html": "<p>Dans Excel, le mot <strong>sous-total</strong> désigne deux outils très différents. La commande <strong>Données &gt; Sous-total</strong> ajoute des lignes de calcul au milieu d'une liste, par exemple un total après chaque région ou chaque commercial. La fonction <strong>SOUS.TOTAL</strong>, elle, est une formule qui calcule une plage tout en tenant compte des filtres appliqués.</p><p>Cette distinction compte beaucoup. La commande est pratique pour produire rapidement une feuille structurée à lire ou à imprimer. Mais elle modifie la présentation de la liste : elle insère des lignes, crée un plan repliable et suppose que les données soient triées par le champ de regroupement. Sur une base que l'on enrichit tous les jours, ces lignes ajoutées peuvent gêner les tris, les imports, les formules et le travail collaboratif.</p><p>À l'inverse, une formule SOUS.TOTAL ne crée aucune ligne dans vos données. Placée dans une cellule de synthèse, elle peut afficher le chiffre d'affaires, le nombre de dossiers ou la moyenne des valeurs <strong>encore visibles</strong> après un filtre. C'est généralement la meilleure solution pour construire un tableau de bord simple et interactif.</p><p>Les lignes de sous-total créées par la commande ne sont pas des doublons de vos données d'origine : ce sont des résultats ajoutés à la feuille. Le vrai risque est plutôt de les inclure par mégarde dans une formule SOMME, puis de compter deux fois les mêmes montants. Comprendre ce mécanisme suffit à éliminer une grande partie des erreurs.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas total et total filtré",
+      "html": "<p>La formule <strong>SOMME</strong> additionne toutes les cellules de la plage, même celles masquées par un filtre. Si votre objectif est d'afficher le total des lignes actuellement visibles, utilisez <strong>SOUS.TOTAL</strong> ou, pour certains cas avancés, <strong>AGREGAT</strong>.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quel outil Excel choisir selon votre besoin ?",
+      "intro": "Le bon choix dépend surtout de la manière dont vos données sont mises à jour et du résultat attendu.",
+      "columns": [
+        "Votre objectif",
+        "Outil recommandé",
+        "Atout principal",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Afficher le total des lignes filtrées",
+          "SOUS.TOTAL, code 109",
+          "Le résultat change immédiatement avec le filtre",
+          "La plage doit couvrir uniquement les données pertinentes"
+        ],
+        [
+          "Ajouter un total qui s'étend avec de nouvelles lignes",
+          "Tableau Excel + ligne des totaux",
+          "La structure se met à jour automatiquement",
+          "Une colonne doit contenir des valeurs numériques cohérentes"
+        ],
+        [
+          "Créer un rapport par région, mois ou produit",
+          "Tableau croisé dynamique",
+          "Regroupements et indicateurs sans modifier la source",
+          "Il faut actualiser le tableau après un changement de données"
+        ],
+        [
+          "Insérer des ruptures et des totaux dans une liste triée",
+          "Données > Sous-total",
+          "Rapport détaillé repliable en quelques clics",
+          "À éviter comme structure permanente d'une base active"
+        ],
+        [
+          "Calculer malgré des erreurs ou des critères particuliers",
+          "AGREGAT ou formule adaptée",
+          "Plus d'options de calcul et d'exclusion",
+          "La syntaxe est moins intuitive pour un débutant"
+        ]
+      ],
+      "note": "Conseil : conservez toujours une feuille de données brutes sans lignes de synthèse insérées. Placez les analyses sur une autre feuille lorsque c'est possible."
+    },
+    {
+      "type": "prose",
+      "heading": "La formule SOUS.TOTAL : codes et bonnes pratiques",
+      "html": "<p>La syntaxe est simple : <strong>=SOUS.TOTAL(no_fonction;référence)</strong>. Pour additionner une colonne Montant, vous pouvez écrire <strong>=SOUS.TOTAL(9;D2:D500)</strong>. Cette formule ignore les lignes écartées par un filtre automatique, mais elle conserve les lignes que vous auriez masquées manuellement.</p><p>Dans la pratique, le code le plus sûr pour un total de pilotage est <strong>109</strong> : <strong>=SOUS.TOTAL(109;D2:D500)</strong>. Il additionne les cellules visibles et ignore à la fois les lignes filtrées et celles masquées manuellement. Le principe est facile à retenir : les codes de 1 à 11 gèrent les lignes filtrées ; les codes de 101 à 111 appliquent le même calcul en excluant aussi les lignes masquées à la main.</p><p>Quelques repères utiles : 1 et 101 calculent une moyenne, 2 et 102 comptent les cellules numériques, 3 et 103 comptent les cellules non vides, 9 et 109 font une somme, 4 et 104 recherchent le maximum, 5 et 105 le minimum. Selon la langue de votre installation Excel, le nom de la fonction peut apparaître dans une autre langue, mais son fonctionnement reste identique.</p><p>Un avantage souvent méconnu : SOUS.TOTAL ignore les autres résultats SOUS.TOTAL présents dans la référence. Si une plage contient déjà des sous-totaux de groupes, la formule évite ainsi le double comptage. En revanche, elle n'ignore pas automatiquement une simple formule SOMME placée dans la plage. Délimitez donc toujours vos zones de données et vos zones de synthèse avec soin.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Commande Sous-total ou formule dynamique ?",
+      "intro": "Ces deux approches ne se remplacent pas totalement : l'une sert à présenter une liste, l'autre à piloter un résultat qui doit rester vivant.",
+      "left": {
+        "title": "Données > Sous-total",
+        "points": [
+          "Insère une ligne de résultat à chaque changement de catégorie.",
+          "Nécessite de trier la liste sur la colonne de regroupement avant application.",
+          "Crée un plan permettant d'afficher le détail ou seulement les niveaux de total.",
+          "Convient à un état ponctuel, une revue de données ou une impression structurée.",
+          "Demande souvent d'être supprimé puis recréé si la structure de la liste évolue fortement."
+        ]
+      },
+      "right": {
+        "title": "Formule SOUS.TOTAL",
+        "points": [
+          "Reste dans une cellule de synthèse sans toucher à la liste source.",
+          "Réagit instantanément aux filtres appliqués par l'utilisateur.",
+          "S'intègre parfaitement à une ligne des totaux de tableau Excel.",
+          "N'affiche pas à elle seule un sous-total par catégorie : il faut des formules ciblées ou un tableau croisé dynamique.",
+          "Convient aux tableaux de suivi mis à jour régulièrement."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Créer un total visible fiable en quelques étapes",
+      "intro": "Cette méthode convient à une liste de dépenses, de commandes, de prospects ou de temps passés. Elle évite de reconstruire vos calculs à chaque ajout de ligne.",
+      "steps": [
+        {
+          "title": "1. Nettoyez la liste source",
+          "html": "<p>Prévoyez une seule ligne d'en-têtes et une colonne par information : date, catégorie, responsable, montant, par exemple. Évitez les cellules fusionnées, les lignes vides au milieu du tableau et les sous-titres insérés entre les enregistrements.</p>"
+        },
+        {
+          "title": "2. Transformez la plage en tableau Excel",
+          "html": "<p>Cliquez dans les données puis utilisez <strong>Ctrl+T</strong>. Confirmez que la plage comporte des en-têtes. Le tableau s'agrandira lorsque vous saisirez une nouvelle ligne juste en dessous, ce qui réduit fortement le risque d'oublier des données dans vos calculs.</p>"
+        },
+        {
+          "title": "3. Activez la ligne des totaux",
+          "html": "<p>Sélectionnez le tableau, puis activez l'option <strong>Ligne des totaux</strong> dans l'onglet de création du tableau. Dans la cellule de total de la colonne Montant, choisissez Somme dans la liste. Excel insère habituellement un calcul de type SOUS.TOTAL, adapté aux filtres.</p>"
+        },
+        {
+          "title": "4. Vérifiez la formule et choisissez le bon code",
+          "html": "<p>Si vous créez la formule vous-même, utilisez par exemple <strong>=SOUS.TOTAL(109;Tableau1[Montant])</strong>. Remplacez Tableau1 et Montant par les noms réellement affichés dans votre fichier. Le code 109 est recommandé si vous masquez parfois des lignes manuellement.</p>"
+        },
+        {
+          "title": "5. Testez le comportement avant de diffuser le fichier",
+          "html": "<p>Filtrez une catégorie, puis comparez le total affiché avec quelques lignes visibles. Ajoutez ensuite une nouvelle ligne dans le tableau : elle doit être prise en compte sans modifier la formule. Ce test de deux minutes prévient de nombreuses erreurs de reporting.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Tableau Excel et tableau croisé dynamique : les alternatives solides",
+      "html": "<p>Le <strong>tableau Excel</strong> est l'amélioration la plus simple pour une liste opérationnelle. Il apporte des filtres, des références structurées lisibles et une extension automatique des formules. Une ligne des totaux placée en bas du tableau offre un excellent indicateur pour répondre à la question : « Quel est le total de ce que je regarde actuellement ? »</p><p>Lorsque vous avez besoin d'un résultat par mois, catégorie, client et commercial à la fois, préférez un <strong>tableau croisé dynamique</strong>. Il conserve les données source intactes et permet de déplacer les champs par glisser-déposer. Vous pouvez afficher des sommes, des nombres, des moyennes, filtrer une période ou ajouter un segment sans insérer une seule ligne de sous-total dans votre base.</p><p>Une organisation robuste comporte souvent trois niveaux : une feuille de données brutes sous forme de tableau, une feuille de calculs complémentaires si nécessaire, puis une feuille de synthèse avec tableau croisé dynamique ou indicateurs. Cette séparation rend les contrôles plus faciles et limite les manipulations accidentelles.</p><p>Pour les cas plus techniques, la fonction <strong>AGREGAT</strong> peut compléter SOUS.TOTAL. Elle propose davantage de calculs et peut ignorer certaines erreurs. Par exemple, AGREGAT est pertinente si des erreurs de saisie doivent être écartées temporairement d'un maximum ou d'une somme. N'utilisez toutefois pas une formule complexe là où un tableau propre et une formule simple suffisent.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs qui faussent le plus souvent les sous-totaux",
+      "points": [
+        "Appliquer la commande Sous-total sans avoir trié la colonne qui définit les groupes : les ruptures deviennent incohérentes.",
+        "Additionner avec SOMME une plage qui contient déjà des lignes de sous-total : le résultat peut être gonflé par un double comptage.",
+        "Inclure l'en-tête, une ligne de total ou une zone de commentaire dans la référence de calcul.",
+        "Ajouter des lignes sous une plage classique sans étendre la formule : le nouveau montant n'est alors pas pris en compte.",
+        "Mélanger nombres, textes et valeurs saisies avec des devises ou espaces non reconnus : une somme peut ignorer silencieusement certains montants.",
+        "Oublier d'actualiser un tableau croisé dynamique après une modification de la source."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réflexe de contrôle avant d'envoyer un chiffre",
+      "html": "<p>Filtrez volontairement une seule catégorie et vérifiez manuellement trois ou quatre lignes. Si le total visible ne correspond pas, contrôlez d'abord la référence de la formule, puis le format des cellules. Un montant aligné à gauche ou précédé d'une apostrophe est souvent enregistré comme du texte, pas comme un nombre.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Garder un classeur Excel rapide et facile à maintenir",
+      "html": "<p>La présence de sous-totaux ne rend pas automatiquement un fichier lent. Le ralentissement vient plus souvent d'une accumulation de formules sur des colonnes entières, de fonctions volatiles, de mises en forme conditionnelles excessives, de liaisons vers d'autres fichiers ou de milliers de lignes de synthèse ajoutées à une base déjà volumineuse.</p><p>Pour un classeur plus fluide, gardez les données brutes compactes, limitez les calculs répétés et évitez de recréer des sous-totaux à chaque modification de la liste. Un unique total dynamique en haut de feuille, ou dans la ligne des totaux d'un tableau, est plus facile à relire qu'une succession de lignes intermédiaires.</p><p>Si votre fichier contient des dizaines de milliers de lignes ou reçoit régulièrement des exports, créez un tableau Excel comme source et construisez une synthèse séparée. Actualisez ensuite le tableau croisé dynamique après import. Vous gagnez en fiabilité, en lisibilité et en temps de contrôle, sans sacrifier la possibilité d'explorer le détail.</p><p>En résumé, ne bannissez pas le sous-total : employez la commande pour un rapport ponctuel, la fonction SOUS.TOTAL pour un total sensible aux filtres et le tableau croisé dynamique pour analyser des regroupements. C'est ce choix d'outil, bien plus qu'un simple clic, qui rend vos calculs réellement productifs.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la différence entre SOMME et SOUS.TOTAL dans Excel ?",
+      "a_html": "<p><strong>SOMME</strong> additionne toutes les valeurs de la plage, y compris les lignes que vous avez exclues au moyen d'un filtre. <strong>SOUS.TOTAL</strong> peut ignorer les lignes filtrées, ce qui en fait la formule adaptée à un total visible et interactif.</p><p>SOUS.TOTAL a aussi l'avantage d'ignorer les autres résultats SOUS.TOTAL contenus dans sa plage, afin d'éviter les doubles comptes entre total général et sous-totaux de groupes.</p>"
+    },
+    {
+      "q": "Quelle est la différence entre SOUS.TOTAL 9 et SOUS.TOTAL 109 ?",
+      "a_html": "<p>Les deux codes réalisent une somme. <strong>9</strong> ignore les lignes retirées par un filtre, tandis que <strong>109</strong> ignore également les lignes masquées manuellement.</p><p>Pour un tableau de suivi partagé, 109 est souvent le choix le plus prudent : le résultat correspond alors strictement aux lignes visibles à l'écran.</p>"
+    },
+    {
+      "q": "Pourquoi mon sous-total Excel est-il égal à zéro ou incorrect ?",
+      "a_html": "<p>Commencez par vérifier que les montants sont bien numériques : des chiffres importés comme texte, des espaces invisibles ou une apostrophe au début de la cellule empêchent Excel de les additionner correctement. Vérifiez aussi que la référence couvre toutes les lignes attendues.</p><p>Si vous utilisez la commande Données &gt; Sous-total, assurez-vous que la liste a été triée sur la colonne de regroupement. Enfin, recherchez une formule SOMME qui additionnerait à la fois les données et des lignes de sous-total déjà présentes.</p>"
+    },
+    {
+      "q": "La formule SOUS.TOTAL se met-elle à jour quand j'ajoute une ligne ?",
+      "a_html": "<p>Elle se met à jour automatiquement si la référence s'étend jusqu'à la nouvelle ligne. La solution la plus fiable consiste à convertir la source en tableau Excel avec Ctrl+T et à utiliser une référence structurée, par exemple <strong>=SOUS.TOTAL(109;Tableau1[Montant])</strong>.</p><p>Dans une plage classique comme D2:D500, une ligne ajoutée en D501 ne sera pas incluse tant que vous n'aurez pas modifié la référence.</p>"
+    },
+    {
+      "q": "Comment faire un sous-total par catégorie dans Excel ?",
+      "a_html": "<p>Pour un rapport ponctuel, triez d'abord les données par catégorie, puis utilisez <strong>Données &gt; Sous-total</strong> et choisissez la colonne de regroupement ainsi que l'opération à appliquer. Excel insérera une ligne de total à chaque changement de catégorie.</p><p>Pour un suivi réutilisable, créez plutôt un tableau croisé dynamique : placez Catégorie dans les lignes et Montant dans les valeurs. Vous pourrez ensuite filtrer, développer le détail et actualiser l'analyse sans modifier votre liste source.</p>"
+    },
+    {
+      "q": "Quand utiliser AGREGAT au lieu de SOUS.TOTAL ?",
+      "a_html": "<p>Utilisez <strong>AGREGAT</strong> lorsque vous avez besoin de calculs supplémentaires ou d'ignorer certaines valeurs d'erreur, comme #DIV/0! ou #N/A. Elle propose davantage d'options d'exclusion que SOUS.TOTAL.</p><p>Pour une somme, une moyenne ou un comptage de lignes filtrées, SOUS.TOTAL reste généralement plus lisible et donc plus facile à maintenir par toute l'équipe.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Un sous-total Excel bien choisi vous fait gagner du temps ; un sous-total inséré au mauvais endroit peut rendre une liste difficile à exploiter. Pour vos données quotidiennes, partez d'un tableau Excel propre et utilisez <strong>SOUS.TOTAL(109;...)</strong> pour suivre les lignes visibles. Réservez la commande <strong>Données &gt; Sous-total</strong> aux rapports ponctuels et adoptez le tableau croisé dynamique dès que votre analyse comporte plusieurs axes.</p><p>Votre prochain pas est simple : prenez une liste existante, transformez-la en tableau avec Ctrl+T, activez la ligne des totaux et testez un filtre. Vous disposerez immédiatement d'un indicateur plus fiable, plus clair et bien plus facile à mettre à jour.</p>",
+  "__slug": "saviez-vous-que-votre-utilisation-de-sous-total-excel-est-en-train-de-ruiner-votre-productivite-decouvrez-comment-optimiser-vos-calculs-en-un-clic"
+}

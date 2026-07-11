@@ -1,0 +1,252 @@
+{
+  "title": "Comment faire et imprimer des étiquettes sur Word : guide pas à pas",
+  "meta_description": "Créez et imprimez des étiquettes dans Word : choix du modèle, publipostage, réglages d'impression et astuces pour un résultat net, sans décalage.",
+  "reading_time_min": 9,
+  "hero_intro": "Vous souhaitez imprimer des adresses, organiser des boîtes, identifier des produits ou préparer des badges ? Word permet de créer des planches d'étiquettes sans logiciel compliqué, à condition de choisir le bon format et de régler l'impression avec soin. Voici une méthode claire, pour une planche identique comme pour des dizaines d'adresses personnalisées.",
+  "key_takeaways": [
+    "Utilisez la référence indiquée sur l'emballage des planches d'étiquettes : Word connaît les dimensions de nombreux modèles standards.",
+    "Choisissez « page complète avec la même étiquette » pour un texte répété, et le publipostage pour des destinataires ou contenus différents.",
+    "Pour un format non répertorié, créez une étiquette personnalisée à partir de mesures précises : dimensions, marges et pas horizontal/vertical.",
+    "Faites toujours un test sur papier ordinaire, imprimé à taille réelle, avant d'utiliser vos feuilles autocollantes.",
+    "En cas de décalage, vérifiez d'abord le format A4, l'absence de mise à l'échelle et le bon bac d'alimentation de l'imprimante."
+  ],
+  "toc": [
+    "Préparer son projet d'étiquettes",
+    "Étiquettes identiques ou publipostage : quelle méthode choisir ?",
+    "Créer une planche d'étiquettes identiques dans Word",
+    "Choisir la référence ou créer un format personnalisé",
+    "Créer des étiquettes d'adresses avec un fichier Excel",
+    "Imprimer sans décalage",
+    "Résoudre les problèmes d'impression fréquents",
+    "Enregistrer son modèle pour le réutiliser"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Préparer son projet d'étiquettes",
+      "html": "<p>Avant d'ouvrir Word, identifiez ce que vous voulez imprimer : une adresse d'expéditeur, des noms de destinataires, des étiquettes de rangement, des prix ou encore des codes internes. Le contenu détermine la méthode la plus simple. Un même texte sur toute une planche se crée en quelques clics ; une liste d'adresses différentes nécessite plutôt un publipostage.</p><p>Regardez ensuite l'emballage de vos feuilles autocollantes. Vous y trouverez généralement la <strong>marque</strong>, la <strong>référence produit</strong>, le nombre d'étiquettes par page et leurs dimensions. Ces informations sont bien plus fiables qu'une estimation à la règle : elles permettent à Word de placer le texte au bon endroit sur une feuille A4.</p><p>Pour ces fonctions, privilégiez la version de bureau de Microsoft Word. Dans la version française, la commande se trouve habituellement dans l'onglet <strong>Publipostage</strong>, puis <strong>Étiquettes</strong>. Selon votre version de Word, le nom ou l'emplacement de certains boutons peut légèrement varier, mais le principe reste le même.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Étiquettes identiques ou publipostage : quelle méthode choisir ?",
+      "intro": "Le bon choix dépend surtout de la question suivante : chaque étiquette doit-elle afficher exactement le même contenu ?",
+      "left": {
+        "title": "Une planche identique",
+        "points": [
+          "Idéale pour des bocaux, classeurs, cartons, produits ou une adresse expéditeur.",
+          "Vous saisissez un texte une seule fois et Word le répète sur toutes les étiquettes.",
+          "Possible d'imprimer une seule étiquette si votre planche est déjà entamée.",
+          "Mise en route très rapide, sans fichier Excel."
+        ]
+      },
+      "right": {
+        "title": "Un publipostage",
+        "points": [
+          "Indispensable pour des noms, adresses, numéros de commande ou codes différents.",
+          "Les données proviennent souvent d'un tableau Excel ou d'une liste Outlook.",
+          "Word crée une étiquette type, puis la duplique en remplaçant les champs pour chaque destinataire.",
+          "Demande une vérification attentive des colonnes et de l'aperçu avant impression."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Créer une planche d'étiquettes identiques dans Word",
+      "intro": "Cette méthode convient si toutes les cases de la feuille doivent contenir le même texte ou la même présentation.",
+      "steps": [
+        {
+          "title": "Ouvrez la boîte de dialogue Étiquettes",
+          "html": "<p>Dans Word, allez dans <strong>Publipostage</strong>, puis sélectionnez <strong>Étiquettes</strong>. Une fenêtre permet de saisir le texte à reproduire et de choisir les caractéristiques de la planche.</p>"
+        },
+        {
+          "title": "Saisissez le contenu de l'étiquette",
+          "html": "<p>Écrivez votre texte dans la zone prévue : par exemple « Épices douces », une adresse complète ou une référence produit. Utilisez des retours à la ligne pour aérer le contenu, mais restez concis afin de préserver des marges confortables.</p>"
+        },
+        {
+          "title": "Choisissez le bon format de feuille",
+          "html": "<p>Cliquez sur <strong>Options</strong>. Sélectionnez le fournisseur correspondant à votre papier, puis la référence exacte du produit. Vérifiez le nombre d'étiquettes par page : c'est un bon moyen de confirmer que vous avez choisi le bon modèle.</p>"
+        },
+        {
+          "title": "Décidez entre une page complète et une étiquette unique",
+          "html": "<p>Choisissez <strong>Page complète avec la même étiquette</strong> pour remplir toute la planche. Si vous souhaitez utiliser une seule case d'une feuille déjà commencée, sélectionnez l'option d'étiquette unique et indiquez sa ligne et sa colonne.</p>"
+        },
+        {
+          "title": "Générez un nouveau document",
+          "html": "<p>Cliquez sur <strong>Nouveau document</strong>, plutôt que sur Imprimer immédiatement. Word crée alors une page composée d'étiquettes modifiables. Vous pouvez ajuster la police, la taille du texte, l'alignement ou ajouter une information avant l'impression.</p>"
+        },
+        {
+          "title": "Relisez chaque zone",
+          "html": "<p>Parcourez rapidement les étiquettes générées. Vérifiez notamment les caractères accentués, les codes postaux, les retours à la ligne et le fait qu'aucun texte ne touche les bordures de l'étiquette.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Trouver le réglage adapté à votre support",
+      "intro": "Le tableau ci-dessous vous aide à choisir la solution la plus sûre selon le papier et l'usage prévus.",
+      "columns": [
+        "Votre situation",
+        "Réglage conseillé dans Word",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Planche de marque avec une référence",
+          "Fournisseur et numéro de produit dans « Options »",
+          "La même marque peut proposer plusieurs formats visuellement proches."
+        ],
+        [
+          "Étiquettes rondes, étroites ou d'un format atypique",
+          "Créer une « Nouvelle étiquette » personnalisée",
+          "Mesurez aussi les espaces entre les étiquettes, pas seulement leur largeur."
+        ],
+        [
+          "Une seule case à remplir sur une feuille entamée",
+          "Option d'étiquette unique, avec ligne et colonne",
+          "Faites un test pour confirmer le sens de chargement du papier."
+        ],
+        [
+          "Adresses ou noms tous différents",
+          "Démarrer un publipostage d'étiquettes",
+          "Préparez des en-têtes de colonnes propres dans votre fichier de données."
+        ],
+        [
+          "Grandes quantités ou usage professionnel",
+          "Modèle validé, puis test sur le matériel final",
+          "Vérifiez la compatibilité des feuilles avec une imprimante laser ou jet d'encre."
+        ]
+      ],
+      "note": "La référence imprimée sur la boîte ou la pochette reste le meilleur repère. Ne choisissez pas un modèle uniquement parce que le nombre d'étiquettes par page semble similaire."
+    },
+    {
+      "type": "prose",
+      "heading": "Choisir la référence ou créer un format personnalisé",
+      "html": "<p>Dans la fenêtre <strong>Options</strong>, Word propose une liste de fournisseurs et de références. Sélectionnez d'abord la marque de votre support, puis le modèle exact. Si votre planche est standard, cette solution évite de régler manuellement les dimensions et réduit nettement le risque de décalage.</p><p>Votre référence n'apparaît pas ? Utilisez le bouton <strong>Nouvelle étiquette</strong>. Vous devrez renseigner le format de page, les marges supérieure et latérale, la largeur et la hauteur d'une étiquette, le nombre d'étiquettes horizontalement et verticalement, ainsi que le <em>pas</em> horizontal et vertical. Le pas correspond à la distance entre le début d'une étiquette et le début de la suivante : il intègre donc l'étiquette et l'espace qui la sépare de sa voisine.</p><p>Mesurez votre feuille avec précision, idéalement au millimètre. Une petite erreur répétée sur plusieurs colonnes suffit à déplacer fortement la dernière étiquette de la ligne. Ne confondez pas non plus le sens de la feuille avec le format de l'étiquette : une étiquette verticale se définit avant tout par sa largeur et sa hauteur, pas par une simple rotation de page.</p><p>Une fois créé, votre format personnalisé peut être enregistré sous un nom explicite, comme « Pots_63x38_A4 ». Vous le retrouverez ensuite dans les options d'étiquettes, ce qui vous évite de reprendre les mesures à chaque utilisation.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Créer des étiquettes d'adresses avec un fichier Excel",
+      "intro": "Le publipostage relie Word à une liste de données. C'est la méthode la plus efficace pour envoyer des courriers, constituer des badges ou imprimer des étiquettes de produits variables.",
+      "steps": [
+        {
+          "title": "Préparez une liste propre dans Excel",
+          "html": "<p>Placez un intitulé de colonne sur la première ligne : « Prénom », « Nom », « Adresse », « Code postal », « Ville », par exemple. Chaque ligne suivante correspond à une personne ou à un article. Évitez les lignes vides, les cellules fusionnées et les titres décoratifs avant le tableau.</p>"
+        },
+        {
+          "title": "Enregistrez et fermez le fichier",
+          "html": "<p>Enregistrez le classeur au format habituel, puis fermez-le avant de le connecter à Word. Cela limite les problèmes d'accès au fichier et facilite la sélection de la bonne feuille de calcul.</p>"
+        },
+        {
+          "title": "Démarrez le publipostage pour des étiquettes",
+          "html": "<p>Dans l'onglet <strong>Publipostage</strong>, choisissez de démarrer un publipostage de type <strong>Étiquettes</strong>. Sélectionnez ensuite le même fournisseur et la même référence de planche que pour des étiquettes identiques.</p>"
+        },
+        {
+          "title": "Sélectionnez les destinataires",
+          "html": "<p>Cliquez sur l'option permettant de choisir des destinataires existants, puis indiquez votre fichier Excel. Vérifiez que Word a sélectionné la bonne feuille et que la première ligne contient bien les en-têtes.</p>"
+        },
+        {
+          "title": "Composez la première étiquette",
+          "html": "<p>Dans la première cellule seulement, insérez les champs nécessaires, un par un ou via le bloc d'adresse. Placez les espaces et retours à la ligne comme vous souhaitez les voir imprimés. Un exemple courant est le prénom et le nom sur la première ligne, puis l'adresse, puis le code postal et la ville.</p>"
+        },
+        {
+          "title": "Mettez à jour, prévisualisez et terminez",
+          "html": "<p>Utilisez <strong>Mettre à jour les étiquettes</strong> afin de copier la structure sur toute la planche. Activez ensuite l'aperçu des résultats pour contrôler plusieurs fiches, corrigez si besoin, puis choisissez de terminer et fusionner vers un nouveau document ou directement vers l'imprimante.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le test qui évite de perdre une planche",
+      "html": "<p>Avant d'insérer vos feuilles autocollantes, imprimez le document sur une feuille blanche ordinaire. Posez cette feuille sur une planche d'étiquettes et regardez-les face à une source lumineuse.</p><ol><li>Les contours imprimés doivent tomber au centre de chaque étiquette.</li><li>Le texte doit conserver une marge sur les quatre côtés.</li><li>Le haut et le bas de page doivent correspondre au sens réel de chargement dans l'imprimante.</li></ol><p>Si le test est bon, lancez l'impression sur une seule planche d'étiquettes avant de produire toute la série.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Étiquettes décalées ou mal imprimées : les corrections à essayer",
+      "intro": "Un mauvais centrage vient souvent des paramètres d'impression plutôt que du document Word lui-même.",
+      "columns": [
+        "Symptôme",
+        "Cause probable",
+        "Correction concrète"
+      ],
+      "rows": [
+        [
+          "Tout le contenu est décalé vers le haut, le bas ou un côté",
+          "Mauvais format de papier ou mise à l'échelle activée",
+          "Choisissez le papier A4 adapté et imprimez à 100 %, « taille réelle » ou sans ajustement."
+        ],
+        [
+          "Le décalage augmente d'une colonne à l'autre",
+          "Mauvaise référence ou mauvais pas dans le format personnalisé",
+          "Vérifiez largeur, marges et pas horizontal ; ne modifiez pas seulement la largeur des étiquettes."
+        ],
+        [
+          "Le texte est trop près des bords",
+          "Police trop grande, lignes trop nombreuses ou marges internes insuffisantes",
+          "Réduisez légèrement la taille de police et raccourcissez le contenu avant de modifier le modèle."
+        ],
+        [
+          "Une face sort vide ou l'impression est au verso",
+          "Feuille chargée dans le mauvais sens",
+          "Consultez le pictogramme du bac de l'imprimante et faites un test avec une marque au crayon."
+        ],
+        [
+          "Les étiquettes se décollent ou se gondolent",
+          "Support incompatible avec la technologie d'impression ou chaleur excessive",
+          "Employez des feuilles prévues pour jet d'encre ou laser selon votre appareil et évitez le recto-verso."
+        ]
+      ],
+      "note": "Ne forcez pas une correction au hasard dans les marges du document : commencez par confirmer la référence de planche et les paramètres du pilote d'impression."
+    },
+    {
+      "type": "prose",
+      "heading": "Imprimer sans décalage et obtenir un rendu propre",
+      "html": "<p>Dans les paramètres d'impression de Word et de votre imprimante, sélectionnez le bon format de papier, généralement <strong>A4</strong> en France. Désactivez les options qui redimensionnent automatiquement le document, telles que « Ajuster à la page », « Réduire les pages surdimensionnées » ou toute mise à l'échelle différente de 100 %. Une planche d'étiquettes est conçue pour être imprimée à sa taille exacte.</p><p>Chargez une feuille à la fois, surtout si le papier est épais ou si votre imprimante entraîne difficilement les supports autocollants. Vérifiez le manuel de l'appareil pour savoir si la face imprimable doit être orientée vers le haut ou vers le bas dans le bac. Évitez le recto-verso : la chaleur et le passage répété peuvent fragiliser la colle ou faire gondoler la feuille.</p><p>Choisissez un papier compatible avec votre technologie. Les étiquettes pour imprimante laser supportent la chaleur de fusion du toner ; celles destinées au jet d'encre sont conçues pour absorber l'encre correctement. Une boîte de 100 feuilles standard coûte souvent entre <strong>5 et 20 €</strong> selon le format, la finition et la marque : cela justifie largement de prendre quelques minutes pour valider une feuille test.</p><p>Pour des adresses postales, recherchez la lisibilité avant l'effet décoratif. Une police simple, un corps raisonnable et un contraste fort donnent généralement le meilleur résultat. Gardez une marge interne visuelle afin que le texte ne paraisse pas collé au bord, même lorsque le centrage est techniquement exact.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "La vérification express avant de cliquer sur Imprimer",
+      "points": [
+        "La référence de la planche dans Word correspond à celle indiquée sur l'emballage.",
+        "Le document est réglé pour le format de papier réellement chargé, le plus souvent A4.",
+        "L'impression est à 100 %, sans option d'ajustement ou de redimensionnement.",
+        "Les données Excel ont des en-têtes clairs et l'aperçu du publipostage a été contrôlé sur plusieurs lignes.",
+        "Une impression de test sur papier ordinaire est correctement alignée.",
+        "La feuille autocollante est compatible avec votre imprimante et chargée dans le bon sens."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Enregistrer son modèle pour le réutiliser",
+      "html": "<p>Une fois votre mise en page validée, conservez le document Word comme modèle. Donnez-lui un nom qui rappelle le format et l'usage, par exemple « Étiquettes_rangement_24_par_page » ou « Adresses_colis_2025 ». Vous pourrez modifier le texte ou reconnecter une nouvelle liste sans repartir de zéro.</p><p>Pour un publipostage, gardez séparément le document principal Word et votre fichier Excel. Cette organisation permet de mettre à jour les coordonnées dans Excel tout en conservant une présentation cohérente dans Word. Avant une nouvelle campagne, ouvrez le document, reconnectez la liste si nécessaire et faites de nouveau un aperçu : les données évoluent, vos réglages d'impression, eux, restent prêts.</p><p>Si votre projet comporte un logo, des éléments graphiques ou une charte stricte, réalisez plusieurs essais et archivez la version qui a réellement été imprimée avec succès. Ce petit réflexe transforme une tâche répétitive en procédure fiable, particulièrement utile pour une association, une petite entreprise ou un rangement domestique régulier.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Où se trouve la fonction Étiquettes dans Word ?",
+      "a_html": "<p>Dans la plupart des versions de Word sur ordinateur, ouvrez l'onglet <strong>Publipostage</strong>, puis cliquez sur <strong>Étiquettes</strong>. Cette commande ouvre une boîte de dialogue dans laquelle vous pouvez saisir un texte, choisir une référence de planche et créer un nouveau document.</p><p>Si vous utilisez Word dans un navigateur, les fonctions de mise en page et de publipostage peuvent être limitées. Ouvrir le fichier dans l'application de bureau est généralement la solution la plus simple.</p>"
+    },
+    {
+      "q": "Comment créer des étiquettes avec des adresses différentes dans Word ?",
+      "a_html": "<p>Préparez d'abord un tableau Excel avec une ligne d'en-têtes et une ligne par destinataire. Dans Word, démarrez un <strong>publipostage</strong> de type Étiquettes, sélectionnez votre fichier Excel, insérez les champs dans la première étiquette et cliquez sur « Mettre à jour les étiquettes ».</p><p>Utilisez l'aperçu des résultats avant de terminer la fusion. Il vous permet de repérer un champ vide, une adresse trop longue ou une erreur de mise en forme avant l'impression.</p>"
+    },
+    {
+      "q": "Peut-on créer un format d'étiquette qui n'existe pas dans Word ?",
+      "a_html": "<p>Oui. Dans les options d'étiquettes, choisissez de créer une <strong>nouvelle étiquette</strong>. Renseignez précisément les dimensions de la feuille, les marges, la taille de chaque étiquette, les espacements et le nombre de colonnes et de lignes.</p><p>Le point le plus important est le pas horizontal et vertical : il doit inclure l'étiquette et l'espace qui la sépare de la suivante. Faites obligatoirement un test sur papier ordinaire après avoir enregistré le format.</p>"
+    },
+    {
+      "q": "Pourquoi mes étiquettes Word sont-elles décalées à l'impression ?",
+      "a_html": "<p>Les causes les plus fréquentes sont une mauvaise référence de planche, un papier configuré dans un mauvais format ou une option d'impression qui redimensionne la page. Vérifiez que l'impression est à 100 % et que votre imprimante est bien réglée sur le format de feuille chargé.</p><p>Si le décalage augmente au fil des colonnes, contrôlez les dimensions et les espacements du modèle. S'il est identique sur toute la page, examinez plutôt les marges, le format de papier et le sens de chargement.</p>"
+    },
+    {
+      "q": "Comment imprimer une seule étiquette sur une planche déjà utilisée ?",
+      "a_html": "<p>Dans la boîte de dialogue Étiquettes, choisissez l'option permettant d'imprimer une <strong>étiquette unique</strong>, puis indiquez sa position par ligne et colonne. Cela évite de gaspiller les cases encore disponibles.</p><p>Le résultat dépend aussi de l'entraînement du papier par votre imprimante. Un essai sur papier blanc, positionné comme la planche entamée, reste la meilleure sécurité.</p>"
+    },
+    {
+      "q": "Quelle police choisir pour imprimer des étiquettes lisibles ?",
+      "a_html": "<p>Privilégiez une police sobre et bien dessinée, avec une taille adaptée à la surface disponible. Pour des adresses ou des références, la lisibilité à distance compte davantage qu'une typographie décorative. Évitez les corps trop petits et les textes entièrement en majuscules sur plusieurs lignes.</p><p>Conservez des marges visuelles autour du texte et limitez les informations à l'essentiel. Si le contenu ne tient pas, il vaut souvent mieux abréger ou choisir un format d'étiquette plus grand que réduire la police à l'excès.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Faire des étiquettes sur Word est surtout une affaire de méthode : identifier précisément son support, choisir la bonne référence, créer un document avant d'imprimer et toujours valider l'alignement sur une feuille test. Pour un contenu répété, une planche identique suffit ; pour une liste d'adresses, le publipostage vous fera gagner beaucoup de temps.</p><p>Une fois votre premier modèle validé et enregistré, vous pourrez réimprimer des étiquettes propres et cohérentes en quelques minutes, sans tâtonner ni gaspiller de feuilles autocollantes.</p>",
+  "__slug": "comment-faire-des-etiquettes-sur-word"
+}

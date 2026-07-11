@@ -1,0 +1,225 @@
+{
+  "title": "Carte Wi-Fi : avantages, inconvénients et guide pour bien choisir",
+  "meta_description": "Carte Wi-Fi : avantages, limites et critères pour choisir le bon modèle, l'installer et améliorer votre connexion sans fil, à la maison comme au bureau.",
+  "reading_time_min": 10,
+  "hero_intro": "Vous aimeriez profiter d'une connexion sans fil plus rapide, plus stable ou simplement ajouter le Wi-Fi à un ordinateur fixe ? Une carte Wi-Fi peut être une excellente solution, à condition de choisir un modèle cohérent avec votre box, votre logement et vos usages. Voici comment comprendre ses vrais atouts, ses limites et les critères qui comptent avant l'achat.",
+  "key_takeaways": [
+    "Une carte Wi-Fi permet de connecter ou de moderniser un ordinateur, mais elle n'augmente pas à elle seule le débit de votre abonnement internet.",
+    "Le gain dépend de toute la chaîne : box ou routeur, norme Wi-Fi, distance, murs, interférences, antennes et pilote.",
+    "Pour un PC fixe, une carte PCIe avec antennes externes offre souvent le meilleur compromis entre stabilité et performances.",
+    "Le Wi-Fi 6 est aujourd'hui un choix polyvalent ; les bénéfices du Wi-Fi 6E et du Wi-Fi 7 nécessitent un routeur compatible.",
+    "Pour le jeu compétitif, le télétravail très sensible ou les transferts lourds, un câble Ethernet reste généralement la référence en matière de régularité."
+  ],
+  "toc": [
+    "À quoi sert réellement une carte Wi-Fi ?",
+    "Carte Wi-Fi ou câble Ethernet : que choisir ?",
+    "Wi-Fi 5, Wi-Fi 6, Wi-Fi 6E et Wi-Fi 7 : quelles différences ?",
+    "Ce qu'une carte Wi-Fi peut améliorer, ou non",
+    "PCIe, USB ou M.2 : choisir le bon format",
+    "Les critères pour acheter une carte Wi-Fi adaptée",
+    "Installer et régler sa carte Wi-Fi",
+    "Les avantages et les inconvénients à connaître"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "À quoi sert réellement une carte Wi-Fi ?",
+      "html": "<p>Une carte Wi-Fi est le composant qui permet à un ordinateur de communiquer sans fil avec une box, un routeur ou un point d'accès. Elle peut être intégrée d'origine à un ordinateur portable, ajoutée dans un PC de bureau via un port PCIe, installée dans certains portables au format M.2, ou prendre la forme plus simple d'un adaptateur USB.</p><p>Son rôle est de recevoir et d'émettre le signal radio. Elle ne remplace donc ni votre abonnement internet ni votre routeur : si la connexion est lente parce que l'offre internet est limitée, qu'une panne touche l'opérateur ou que le Wi-Fi couvre mal une pièce éloignée, une nouvelle carte ne réglera pas tout à elle seule.</p><p>En revanche, elle peut faire une différence nette lorsqu'un ordinateur est dépourvu de Wi-Fi, utilise une ancienne norme, capte mal le signal ou ne sait pas exploiter les bandes et fonctions proposées par un routeur récent. C'est aussi une solution pratique pour éviter de tirer un câble à travers un logement ou un bureau.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel avant d'acheter",
+      "points": [
+        "Vérifiez d'abord ce que votre box ou votre routeur prend en charge : une carte très récente reste compatible avec un ancien routeur, mais ne donnera pas accès à ses fonctions les plus avancées.",
+        "Privilégiez les modèles avec antennes externes orientables pour un PC fixe installé sous un bureau, près d'un mur ou dans une pièce éloignée.",
+        "Ne confondez pas débit Wi-Fi théorique et débit réellement disponible : le résultat dépend aussi de la qualité du signal et de votre accès fibre, câble ou ADSL.",
+        "Une carte Wi-Fi peut inclure le Bluetooth, mais cette fonction demande parfois un branchement interne supplémentaire sur les PC de bureau.",
+        "Avant de remplacer une carte, testez la couverture : le problème peut venir de l'emplacement du routeur plutôt que de l'ordinateur."
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Carte Wi-Fi ou câble Ethernet : que choisir ?",
+      "intro": "Les deux solutions peuvent coexister. Le bon choix dépend surtout de la distance au routeur, de la stabilité recherchée et de la possibilité — ou non — de faire passer un câble.",
+      "left": {
+        "title": "Carte Wi-Fi",
+        "points": [
+          "Installation souple, sans câble qui traverse la pièce",
+          "Idéale pour un ordinateur mobile ou une pièce difficile à câbler",
+          "Débit potentiellement élevé avec un routeur récent et un bon signal",
+          "Performances plus sensibles aux murs, aux réseaux voisins et aux interférences",
+          "Latence et régularité variables selon l'environnement radio"
+        ]
+      },
+      "right": {
+        "title": "Câble Ethernet",
+        "points": [
+          "Connexion généralement plus stable et plus prévisible",
+          "Très adapté au jeu en ligne exigeant, aux visioconférences importantes et aux gros transferts",
+          "Pas de dépendance aux ondes ni au choix de canal Wi-Fi",
+          "Nécessite un passage de câble ou des prises réseau disponibles",
+          "Moins pratique pour un poste éloigné ou fréquemment déplacé"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Comprendre les normes Wi-Fi avant de comparer les modèles",
+      "intro": "Le numéro affiché sur une carte désigne sa génération Wi-Fi. Pour profiter des apports d'une norme, il faut également qu'elle soit prise en charge par le routeur ou la box.",
+      "columns": [
+        "Norme",
+        "Bandes utilisables",
+        "Ce qu'elle apporte",
+        "Pour quel besoin ?"
+      ],
+      "rows": [
+        [
+          "Wi-Fi 5 (802.11ac)",
+          "Principalement 5 GHz",
+          "Encore suffisant pour la navigation, le streaming et de nombreux usages courants",
+          "Budget serré ou routeur Wi-Fi 5 existant"
+        ],
+        [
+          "Wi-Fi 6 (802.11ax)",
+          "2,4 GHz et 5 GHz",
+          "Meilleure efficacité lorsque plusieurs appareils sont connectés, avec une technologie désormais très répandue",
+          "Choix polyvalent pour la plupart des foyers et des PC fixes"
+        ],
+        [
+          "Wi-Fi 6E",
+          "2,4 GHz, 5 GHz et 6 GHz",
+          "Ajoute la bande 6 GHz, souvent moins encombrée à proximité du routeur compatible",
+          "Logement dense en réseaux Wi-Fi et équipement 6E déjà présent"
+        ],
+        [
+          "Wi-Fi 7 (802.11be)",
+          "2,4 GHz, 5 GHz et 6 GHz selon les pays et le matériel",
+          "Fonctions récentes et potentiel de très hauts débits, à condition d'avoir des équipements compatibles",
+          "Configuration récente, besoins avancés et budget plus confortable"
+        ]
+      ],
+      "note": "Le débit annoncé sur l'emballage est un débit de liaison maximal dans des conditions idéales. Le débit utile observé sera souvent inférieur, et il ne peut pas dépasser durablement les limites de votre accès internet ou de votre réseau local."
+    },
+    {
+      "type": "prose",
+      "heading": "Ce qu'une carte Wi-Fi peut améliorer, ou non",
+      "html": "<p>Remplacer une vieille carte peut améliorer la qualité de réception, l'accès à la bande 5 GHz, la vitesse de liaison avec une box récente et la gestion d'un réseau chargé. Sur un PC de bureau, de vraies antennes déportées sont souvent plus efficaces qu'un petit adaptateur placé directement derrière une tour métallique.</p><p>Le résultat est particulièrement visible si l'ancienne carte ne gérait que le Wi-Fi 4 ou le Wi-Fi 5, si elle perd régulièrement le réseau ou si elle dispose d'une seule antenne. Les technologies de transmission sur plusieurs flux, souvent désignées par le terme MIMO, peuvent améliorer les échanges lorsque le routeur les prend aussi en charge.</p><p>En revanche, une carte ne peut pas créer une bonne couverture là où le signal n'arrive presque pas. Dans une dépendance, un étage éloigné ou derrière plusieurs murs épais, il faut parfois agir sur l'installation elle-même :</p><ul><li>replacer la box ou le routeur dans une zone plus centrale et dégagée ;</li><li>ajouter un point d'accès relié en Ethernet, un système Wi-Fi maillé ou, selon le contexte, une solution filaire intermédiaire ;</li><li>réduire les sources de perturbation proches, comme certains appareils sans fil ou un meuble métallique qui masque les antennes ;</li><li>tester séparément la qualité du Wi-Fi et le débit réel de la ligne internet.</li></ul><p>Le choix du canal Wi-Fi relève surtout du routeur ou du point d'accès. Une carte récente sait mieux exploiter le réseau disponible, mais elle ne résout pas seule un canal saturé ou une couverture insuffisante.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "PCIe, USB ou M.2 : quel format de carte Wi-Fi choisir ?",
+      "intro": "Le format détermine autant le confort d'installation que les performances possibles. Vérifiez toujours les connecteurs disponibles dans votre ordinateur avant de commander.",
+      "columns": [
+        "Format",
+        "Atouts",
+        "Points de vigilance",
+        "Budget indicatif"
+      ],
+      "rows": [
+        [
+          "Carte PCIe pour PC fixe",
+          "Antennes externes, bonne réception, installation durable, modèles souvent complets",
+          "Nécessite un port PCIe libre ; le Bluetooth peut demander un câble vers un connecteur USB interne",
+          "Souvent entre 30 et 80 € pour des modèles Wi-Fi 6 ou 6E"
+        ],
+        [
+          "Adaptateur USB",
+          "Très simple à brancher, pratique pour dépanner ou équiper plusieurs machines",
+          "Petites antennes sur les modèles compacts, risque d'encombrer un port, réception parfois plus modeste",
+          "Souvent entre 15 et 50 € selon la norme et les antennes"
+        ],
+        [
+          "Module M.2 pour ordinateur portable",
+          "Solution interne discrète, souvent économique si le portable est compatible",
+          "Démontage nécessaire ; le format doit être destiné au Wi-Fi, pas au stockage SSD ; compatibilité à vérifier soigneusement",
+          "Souvent entre 20 et 50 €, hors éventuelle main-d'oeuvre"
+        ]
+      ],
+      "note": "Ces montants sont des ordres de grandeur : le prix varie selon la génération Wi-Fi, le Bluetooth intégré, les antennes fournies et la disponibilité des composants."
+    },
+    {
+      "type": "steps",
+      "heading": "Les 5 étapes pour choisir une carte Wi-Fi adaptée",
+      "intro": "Une fiche technique impressionnante ne garantit pas un meilleur résultat. Procédez dans cet ordre pour éviter un achat inutile ou incompatible.",
+      "steps": [
+        {
+          "title": "1. Identifier le matériel déjà en place",
+          "html": "<p>Repérez le modèle de votre box ou routeur, les bandes qu'il propose et la norme Wi-Fi prise en charge. Sur un PC fixe, vérifiez la présence d'un port PCIe libre. Sur un portable, recherchez le format précis de la carte sans fil installée avant de l'ouvrir.</p>"
+        },
+        {
+          "title": "2. Définir l'usage prioritaire",
+          "html": "<p>Pour consulter le web et regarder des vidéos, un bon adaptateur Wi-Fi 5 ou Wi-Fi 6 peut suffire. Pour un foyer connecté, le télétravail, le streaming en haute définition ou les transferts de fichiers, privilégiez une carte Wi-Fi 6 avec deux antennes ou plus. Pour un jeu compétitif, vérifiez d'abord si l'Ethernet est envisageable.</p>"
+        },
+        {
+          "title": "3. Choisir les bandes et les antennes utiles",
+          "html": "<p>La bande 2,4 GHz porte généralement plus loin mais elle est souvent plus encombrée. Le 5 GHz offre habituellement de meilleures vitesses à distance modérée. Le 6 GHz des équipements Wi-Fi 6E ou 7 peut être intéressant près d'un routeur compatible, mais sa portée à travers les obstacles n'est pas miraculeuse.</p>"
+        },
+        {
+          "title": "4. Contrôler la compatibilité logicielle",
+          "html": "<p>Assurez-vous que le fabricant fournit un pilote adapté à votre version de Windows, de Linux ou d'un autre système. Même si le système reconnaît automatiquement la carte, installer le pilote officiel à jour peut corriger des pertes de connexion ou améliorer la stabilité.</p>"
+        },
+        {
+          "title": "5. Anticiper les détails pratiques",
+          "html": "<p>Pour une carte PCIe avec Bluetooth, vérifiez si un câble vers un connecteur USB interne est nécessaire. Regardez aussi la longueur du câble d'antenne, la place disponible dans le boîtier et la possibilité de positionner les antennes loin de l'arrière métallique du PC.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe avant de remplacer votre matériel",
+      "html": "<p><strong>Faites un test au même endroit avec un smartphone récent.</strong> Si le téléphone capte lui aussi très mal le réseau, le souci vient probablement de la couverture Wi-Fi. Investir d'abord dans un meilleur emplacement de routeur ou un point d'accès sera souvent plus pertinent qu'une carte Wi-Fi haut de gamme.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Installer et régler sa carte Wi-Fi pour en tirer parti",
+      "html": "<p>Pour une carte PCIe, éteignez complètement le PC, débranchez-le, ouvrez le boîtier et insérez la carte dans un port PCIe compatible. Vissez-la sans forcer, connectez le câble interne prévu pour le Bluetooth s'il existe, puis vissez les antennes. Sur un ordinateur portable, le remplacement demande davantage de précautions : consultez la documentation du modèle et évitez toute intervention si vous n'êtes pas à l'aise avec le démontage.</p><p>Après le redémarrage, installez de préférence le pilote téléchargé depuis le site du fabricant ou du constructeur de la puce. Évitez les sites de pilotes génériques peu fiables. Si possible, téléchargez le pilote avant l'installation ou conservez une solution temporaire, comme un câble Ethernet, pour finaliser la configuration.</p><p>Une fois connecté, prenez quelques minutes pour optimiser l'ensemble :</p><ol><li>placez les antennes en hauteur et à l'écart du boîtier, idéalement sur leur socle déporté si elles en ont un ;</li><li>essayez le réseau 5 GHz ou 6 GHz près du routeur, puis comparez avec le 2,4 GHz dans les pièces éloignées ;</li><li>mettez à jour le pilote de la carte et le logiciel de la box lorsque cela est proposé par les canaux officiels ;</li><li>sécurisez le réseau avec WPA3 lorsque tous vos appareils le permettent, ou avec WPA2 utilisant le chiffrement AES sur les équipements plus anciens.</li></ol><p>Pour mesurer le bénéfice, comparez plusieurs tests à différents moments de la journée. Regardez non seulement le débit descendant, mais aussi le débit montant, la régularité et les coupures éventuelles lors d'un appel vidéo ou d'un transfert de fichier.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux promesses de débit maximal",
+      "html": "<p>Un chiffre élevé sur la boîte ne signifie pas que vous téléchargerez à cette vitesse. Il additionne parfois plusieurs bandes ou représente une situation idéale, très proche du routeur. Entre la carte et internet interviennent aussi la box, les murs, les appareils voisins, le serveur consulté et le débit de votre abonnement.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les vrais avantages et inconvénients d'une carte Wi-Fi",
+      "points": [
+        "Avantage : elle ajoute une connexion sans fil à un PC fixe ou modernise une connexion vieillissante sans changer tout l'ordinateur.",
+        "Avantage : elle apporte une grande liberté d'installation et peut offrir d'excellentes vitesses avec un routeur compatible et des antennes bien placées.",
+        "Avantage : les modèles récents gèrent mieux les environnements où plusieurs appareils utilisent le réseau en même temps.",
+        "Limite : les performances restent variables selon la distance, les obstacles, les réseaux voisins et la qualité du routeur.",
+        "Limite : les modèles internes demandent de vérifier les connecteurs, le format et les pilotes ; une installation USB est plus simple mais pas toujours aussi performante.",
+        "Limite : pour une stabilité maximale, notamment dans un usage professionnel critique ou compétitif, l'Ethernet garde généralement l'avantage."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la différence entre une carte Wi-Fi et une clé Wi-Fi USB ?",
+      "a_html": "<p>Les deux servent à connecter un ordinateur au Wi-Fi. Une carte PCIe est installée à l'intérieur d'un PC fixe et dispose souvent d'antennes externes plus efficaces, ce qui favorise une réception stable. Une clé USB se branche en quelques secondes et convient très bien pour un besoin ponctuel, un portable ou un ordinateur difficile à ouvrir.</p><p>Pour un PC de bureau utilisé tous les jours et placé loin de la box, une carte PCIe avec antennes déportées est souvent le choix le plus confortable. Pour une solution rapide et peu coûteuse, l'USB est généralement suffisant.</p>"
+    },
+    {
+      "q": "Une carte Wi-Fi 6 fonctionne-t-elle avec une ancienne box ?",
+      "a_html": "<p>Oui, les normes Wi-Fi sont en principe rétrocompatibles. Une carte Wi-Fi 6 peut se connecter à une box Wi-Fi 5 ou plus ancienne, mais elle utilisera les capacités de la norme commune. Elle n'apportera donc pas automatiquement les gains spécifiques du Wi-Fi 6.</p><p>Inversement, une box Wi-Fi 6 ne donnera pas tous ses avantages à une ancienne carte Wi-Fi. Les meilleurs résultats arrivent lorsque le routeur et l'ordinateur prennent en charge une génération similaire.</p>"
+    },
+    {
+      "q": "Est-ce qu'une carte Wi-Fi augmente le débit internet ?",
+      "a_html": "<p>Elle peut augmenter le débit observé entre votre ordinateur et la box si votre ancienne carte était le maillon faible. C'est fréquent lorsqu'on passe d'un ancien Wi-Fi limité au 2,4 GHz à une carte Wi-Fi 6 utilisant correctement le 5 GHz.</p><p>Elle ne peut toutefois pas dépasser les limites de votre abonnement, de la ligne internet ou du serveur distant. Si votre débit est faible sur tous les appareils et même à côté de la box, il faut plutôt examiner l'accès internet ou le routeur.</p>"
+    },
+    {
+      "q": "Une carte Wi-Fi peut-elle améliorer la portée du réseau ?",
+      "a_html": "<p>Une carte dotée de meilleures antennes peut mieux capter un signal existant et réduire certaines déconnexions. Elle ne transforme pas pour autant une zone blanche en zone bien couverte : les murs épais, les planchers et la distance restent déterminants.</p><p>Pour étendre réellement la couverture, envisagez un point d'accès supplémentaire ou un système Wi-Fi maillé correctement positionné. Dans certains cas, relier ce point d'accès en Ethernet est la solution la plus fiable.</p>"
+    },
+    {
+      "q": "Quelle carte Wi-Fi choisir pour jouer en ligne ?",
+      "a_html": "<p>Si un câble Ethernet est possible, c'est généralement l'option la plus régulière pour le jeu en ligne. Sinon, choisissez une carte Wi-Fi 6 de bonne qualité, de préférence en PCIe avec antennes externes pour un PC fixe, et utilisez le 5 GHz ou le 6 GHz si le signal est fort.</p><p>Placez les antennes correctement, limitez les téléchargements simultanés et évitez de jouer trop loin du routeur. La stabilité et la latence comptent autant que le débit maximal affiché.</p>"
+    },
+    {
+      "q": "Pourquoi ma nouvelle carte Wi-Fi n'est-elle pas détectée ?",
+      "a_html": "<p>Commencez par vérifier que la carte est bien enfoncée dans son port, que les antennes sont vissées et que le pilote adapté est installé. Sur un modèle PCIe avec Bluetooth, l'absence du câble USB interne peut empêcher le Bluetooth de fonctionner, sans forcément empêcher le Wi-Fi de fonctionner.</p><p>Si le problème persiste, testez un autre emplacement compatible, consultez le gestionnaire de périphériques de votre système et téléchargez le pilote depuis la page officielle du fabricant. Pour un module interne de portable, vérifiez également que son format est bien compatible avec la machine.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Une carte Wi-Fi est un investissement utile pour équiper un ordinateur fixe, remplacer un adaptateur vieillissant ou exploiter une box plus récente. Le meilleur modèle n'est pas forcément le plus cher : il doit avant tout être compatible avec votre matériel, adapté à la distance qui vous sépare du routeur et équipé d'antennes cohérentes avec votre installation.</p><p>Avant d'acheter, identifiez la véritable cause du problème : carte ancienne, couverture insuffisante, routeur mal placé ou débit internet limité. Avec ce diagnostic, vous pourrez choisir entre carte PCIe, adaptateur USB, amélioration de la couverture ou câble Ethernet — et obtenir une connexion réellement plus agréable au quotidien.</p>",
+  "__slug": "carte-wi-fi-quels-sont-les-avantages-et-les-inconvenients"
+}

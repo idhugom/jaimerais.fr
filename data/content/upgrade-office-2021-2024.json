@@ -1,0 +1,245 @@
+{
+  "title": "Passer d'Office 2021 à Office 2024 : licence, nouveautés, prix et méthode",
+  "meta_description": "Office 2021 vers Office 2024 : découvrez les vraies nouveautés, le prix, les limites de la licence et les étapes pour migrer sans risque.",
+  "reading_time_min": 12,
+  "hero_intro": "Vous utilisez Office 2021 et vous hésitez à acheter Office 2024 ? La nouvelle édition apporte surtout des évolutions ciblées dans Excel, Word, PowerPoint et Outlook, avec une prise en charge plus longue que votre version actuelle. Mais il ne s'agit pas d'une mise à jour gratuite : avant de changer, mieux vaut vérifier vos usages, vos fichiers et l'alternative Microsoft 365.",
+  "key_takeaways": [
+    "Office 2024 est une nouvelle licence perpétuelle : une clé Office 2021 ne donne pas droit à Office 2024.",
+    "Le gain le plus concret concerne Excel, avec de nouvelles fonctions de texte, de tableaux dynamiques et d'images, ainsi que des améliorations de productivité dans les autres applications.",
+    "Office 2021 reste utilisable, mais son support prend fin le 13 octobre 2026 ; Office 2024 est pris en charge jusqu'au 9 octobre 2029.",
+    "Office 2024 ne comprend pas les nouveautés continues, les services cloud avancés ni Copilot : pour cela, Microsoft 365 est généralement plus adapté.",
+    "Avant d'installer la nouvelle version, sauvegardez vos fichiers, testez vos macros et vérifiez que vos collaborateurs peuvent lire les fonctions Excel récentes."
+  ],
+  "toc": [
+    "Office 2021 vers Office 2024 : est-ce une vraie mise à niveau ?",
+    "Les différences concrètes entre Office 2021 et Office 2024",
+    "Office 2024 ou Microsoft 365 : quelle formule choisir ?",
+    "Prix, éditions et durée de support",
+    "Qui a réellement intérêt à acheter Office 2024 ?",
+    "Préparer la migration sans perdre de données",
+    "Installer et activer Office 2024 étape par étape",
+    "Compatibilité des fichiers, macros et travail en équipe",
+    "Les erreurs à éviter avant de remplacer Office 2021"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Office 2021 vers Office 2024 : est-ce une vraie mise à niveau ?",
+      "html": "<p>Dans le vocabulaire courant, on parle volontiers de « mise à niveau » d'Office 2021 vers Office 2024. En pratique, il faut comprendre qu'il s'agit de <strong>l'achat et de l'installation d'une nouvelle version</strong>. Une licence perpétuelle Office 2021 reste attachée à Office 2021 : elle ne se transforme pas automatiquement en licence Office 2024.</p><p>Office 2024 fonctionne lui aussi sur un modèle d'achat unique. Vous payez une fois la version choisie, puis vous pouvez l'utiliser sur l'appareil couvert par la licence, sans abonnement mensuel ou annuel. Vous recevez des correctifs de sécurité pendant la période de support, mais pas les grandes fonctionnalités qui pourront apparaître dans de futures éditions d'Office.</p><p>Cette nuance est essentielle : installer les mises à jour d'Office 2021 ne fera jamais apparaître les fonctions propres à Office 2024. À l'inverse, une licence Microsoft 365 donne accès aux applications Office toujours actualisées tant que l'abonnement reste actif.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "À savoir avant d'acheter",
+      "html": "<p><strong>Il n'existe généralement pas de tarif de mise à niveau réservé aux détenteurs d'Office 2021.</strong> Comparez donc le prix d'une nouvelle licence Office 2024 avec celui d'un abonnement Microsoft 365 sur deux ou trois ans, selon votre façon de travailler.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les différences utiles entre Office 2021 et Office 2024",
+      "intro": "Les évolutions sont réelles, mais elles n'ont pas toutes le même intérêt selon que vous rédigez des documents, analysez des données ou travaillez à plusieurs.",
+      "columns": [
+        "Domaine",
+        "Office 2021",
+        "Office 2024 : ce qui évolue",
+        "Pour qui c'est utile"
+      ],
+      "rows": [
+        [
+          "Licence et mises à jour",
+          "Achat unique, fonctions figées après sa sortie.",
+          "Achat unique également, avec une base fonctionnelle plus récente.",
+          "Utilisateurs qui veulent éviter l'abonnement tout en repartant sur une version plus actuelle."
+        ],
+        [
+          "Excel",
+          "Fonctions modernes déjà présentes, dont RECHERCHEX et les tableaux dynamiques selon les cas.",
+          "Nouvelles fonctions de texte et de tableaux, fonction IMAGE, références de tableaux dynamiques dans les graphiques et améliorations de productivité.",
+          "Tableaux de suivi, reporting, analyse de listes et modèles Excel réutilisables."
+        ],
+        [
+          "Word",
+          "Outils de rédaction et de mise en forme classiques.",
+          "Améliorations de l'expérience de rédaction, de récupération et de compatibilité avec des formats récents.",
+          "Utilisateurs qui produisent régulièrement des documents longs ou partagés."
+        ],
+        [
+          "PowerPoint",
+          "Création de présentations classique.",
+          "Outils plus récents pour intégrer et présenter une caméra dans une diapositive, ainsi que des améliorations de création et d'enregistrement selon la plateforme.",
+          "Formateurs, enseignants, commerciaux et présentations à distance."
+        ],
+        [
+          "Outlook",
+          "Inclus avec certaines éditions, notamment Famille et Petite Entreprise.",
+          "Expérience actualisée et améliorations générales de recherche, de gestion et d'accessibilité.",
+          "Indépendants et petites entreprises utilisant Outlook de bureau."
+        ],
+        [
+          "Support",
+          "Fin du support prévue le 13 octobre 2026.",
+          "Fin du support prévue le 9 octobre 2029.",
+          "Toute personne souhaitant conserver une licence perpétuelle plusieurs années."
+        ]
+      ],
+      "note": "Les fonctions exactes dépendent de l'application, de l'édition achetée et de votre système (Windows ou Mac). Les services cloud et les fonctions ajoutées en continu relèvent surtout de Microsoft 365."
+    },
+    {
+      "type": "prose",
+      "heading": "Les nouveautés d'Office 2024 : utiles surtout si Excel est central",
+      "html": "<p>Le saut entre Office 2021 et Office 2024 est moins spectaculaire que le passage d'une très ancienne version d'Office à une version actuelle. Les utilisateurs de Word ou PowerPoint qui rédigent des courriers simples et des présentations sobres ne verront pas forcément un changement radical. En revanche, <strong>Excel est souvent la raison la plus solide de migrer</strong>.</p><p>Office 2024 enrichit notamment le travail sur les données avec des fonctions permettant de séparer du texte, d'extraire ce qui se trouve avant ou après un séparateur, de manipuler des tableaux et d'insérer des images depuis une source web dans une cellule. Ces outils peuvent remplacer des combinaisons de formules longues, des colonnes intermédiaires ou certaines manipulations manuelles.</p><p>Les références de tableaux dynamiques dans les graphiques simplifient aussi la création de visuels qui suivent automatiquement l'évolution d'une liste de données. C'est particulièrement pratique pour un budget mensuel, un suivi de ventes, un planning ou un tableau de bord, à condition de maîtriser un minimum la logique des tableaux Excel.</p><p>Dans PowerPoint, les possibilités liées à la présentation à distance sont modernisées. L'outil Cameo, par exemple, permet d'intégrer le flux de la caméra dans une diapositive. C'est intéressant pour enregistrer une formation ou personnaliser une présentation, mais ce n'est pas indispensable pour tous les usages.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Ce que vous ne trouverez pas automatiquement dans Office 2024",
+      "points": [
+        "Pas de Copilot inclus avec une simple licence Office 2024 : les offres et conditions liées à l'IA de Microsoft sont distinctes.",
+        "Pas de nouvelles fonctions majeures ajoutées chaque mois : l'achat unique privilégie la stabilité.",
+        "Pas de stockage OneDrive supplémentaire inclus par principe : votre espace dépend de votre compte et de l'offre éventuellement souscrite.",
+        "Pas d'accès garanti aux outils collaboratifs les plus évolués de Microsoft 365, même si vous pouvez enregistrer des fichiers sur OneDrive avec un compte Microsoft.",
+        "Pas de conversion magique de vos anciens fichiers : les formules, macros et compléments doivent être vérifiés dans votre contexte."
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Office 2024 ou Microsoft 365 : le bon choix dépend de votre rythme",
+      "intro": "Le choix ne se résume pas à « achat unique contre abonnement ». Il dépend de votre besoin de nouveautés, de collaboration et du nombre de personnes ou d'appareils à équiper.",
+      "left": {
+        "title": "Choisir Office 2024",
+        "points": [
+          "Vous préférez payer une fois et garder la même version plusieurs années.",
+          "Vous utilisez surtout Word, Excel ou PowerPoint hors ligne, sur un seul ordinateur.",
+          "Vous n'avez pas besoin des fonctions les plus récentes dès leur sortie.",
+          "Vous souhaitez une solution simple pour un poste personnel, familial ou professionnel isolé.",
+          "Vous acceptez qu'une future version d'Office nécessite un nouvel achat."
+        ]
+      },
+      "right": {
+        "title": "Choisir Microsoft 365",
+        "points": [
+          "Vous voulez les fonctionnalités Office qui évoluent en continu.",
+          "Vous collaborez fréquemment sur OneDrive, SharePoint ou Teams.",
+          "Vous travaillez sur plusieurs appareils ou avec plusieurs membres du foyer, selon l'offre choisie.",
+          "Vous avez besoin d'un espace de stockage cloud inclus et d'applications web ou mobiles complètes.",
+          "Vous souhaitez accéder, lorsque votre formule le permet, aux services et fonctions d'IA proposés par Microsoft."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Prix, éditions et durée de support : calculez le coût réel",
+      "html": "<p>Les prix varient selon le revendeur, la plateforme et les promotions, mais les tarifs publics observés pour Office 2024 tournent souvent autour de <strong>150 € pour une édition Famille</strong> et de <strong>300 € pour une édition Famille et Petite Entreprise</strong>. Cette dernière ajoute généralement Outlook de bureau, ce qui peut justifier l'écart pour une activité professionnelle qui s'appuie sur une boîte mail, un calendrier et des contacts dans Outlook.</p><p>Une licence perpétuelle peut être économiquement pertinente si vous gardez votre ordinateur et votre suite bureautique longtemps. À l'inverse, un abonnement Microsoft 365 devient souvent plus cohérent si plusieurs personnes doivent être équipées, si vous changez fréquemment de matériel ou si le stockage cloud et les services collaboratifs font partie de votre quotidien.</p><p>Le calendrier de support compte aussi. Office 2021 recevra des mises à jour de sécurité jusqu'au 13 octobre 2026, tandis qu'Office 2024 est prévu pour être pris en charge jusqu'au 9 octobre 2029. Après ces dates, le logiciel peut continuer à s'ouvrir, mais il ne reçoit plus les correctifs de sécurité : ce n'est pas idéal sur un ordinateur connecté ou dans un environnement professionnel.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Les repères à garder en tête",
+      "items": [
+        {
+          "value": "13 oct. 2026",
+          "label": "fin prévue du support d'Office 2021"
+        },
+        {
+          "value": "9 oct. 2029",
+          "label": "fin prévue du support d'Office 2024"
+        },
+        {
+          "value": "≈ 150 €",
+          "label": "ordre de grandeur d'une édition Office 2024 Famille"
+        },
+        {
+          "value": "≈ 300 €",
+          "label": "ordre de grandeur d'une édition incluant Outlook pour l'activité professionnelle"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Qui a réellement intérêt à acheter Office 2024 ?",
+      "html": "<p>La migration est raisonnable pour une personne qui utilise intensivement Excel, qui souhaite rester sur une licence sans abonnement et qui prévoit de conserver son équipement plusieurs années. Elle est également pertinente pour une petite structure qui veut prolonger son horizon de support sans changer son modèle de licence.</p><p>En revanche, si votre usage se limite à rédiger quelques courriers, ouvrir des fichiers Excel simples et faire des diaporamas occasionnels, Office 2021 peut encore répondre à vos besoins jusqu'à la fin de son support. Il peut être plus judicieux d'attendre le remplacement d'un ordinateur ou de réserver votre budget à une sauvegarde fiable, une suite de sécurité ou une formation Excel.</p><p>Pour les équipes qui coéditent chaque jour des documents, utilisent Teams, stockent tout dans OneDrive ou SharePoint et veulent les nouveautés au fil de l'eau, Microsoft 365 est souvent plus naturel. Office 2024 n'empêche pas l'utilisation de fichiers dans le cloud, mais il ne propose pas le même modèle de services ni le même rythme d'évolution.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un test simple pour décider",
+      "html": "<p>Listez trois irritants concrets dans votre usage actuel : une formule Excel trop complexe, une présentation à enregistrer, un besoin d'Outlook ou des problèmes de collaboration. Si Office 2024 ne résout aucun de ces irritants, gardez Office 2021 pour le moment. Si vos besoins portent surtout sur les nouveautés récurrentes et le travail partagé, comparez plutôt avec Microsoft 365.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Préparer et installer Office 2024 sans mauvaise surprise",
+      "intro": "Une migration réussie se prépare. Comptez un peu de temps pour la sauvegarde et les vérifications, particulièrement si vous utilisez des macros, des modèles maison ou des compléments.",
+      "steps": [
+        {
+          "title": "1. Identifiez précisément votre installation actuelle",
+          "html": "<p>Dans une application Office, ouvrez les informations du compte ou du produit pour confirmer l'édition, le compte Microsoft associé et la présence éventuelle d'Outlook. Vérifiez aussi si votre Office 2021 est une licence personnelle, professionnelle ou gérée par votre employeur.</p>"
+        },
+        {
+          "title": "2. Vérifiez la compatibilité de votre ordinateur",
+          "html": "<p>Assurez-vous que votre système est pris en charge et à jour. Sur Windows, Office 2024 nécessite une version récente et prise en charge de Windows. Sur Mac, vérifiez les exigences de macOS avant d'acheter : les suites Office récentes ne prennent pas en charge indéfiniment les anciennes versions du système.</p>"
+        },
+        {
+          "title": "3. Sauvegardez vos documents, modèles et données Outlook",
+          "html": "<p>Copiez vos dossiers de travail vers un disque externe ou un espace cloud fiable. Exportez ou sauvegardez les données importantes d'Outlook si elles sont stockées localement. Conservez aussi vos modèles Word, thèmes PowerPoint, fichiers Excel et éventuels fichiers de macros.</p>"
+        },
+        {
+          "title": "4. Testez les fichiers sensibles",
+          "html": "<p>Repérez les classeurs avec macros VBA, connexions de données, compléments, protections, signatures numériques ou formules avancées. Si possible, ouvrez une copie dans Office 2024 avant un déploiement général. Pour une entreprise, réalisez ce test avec les fichiers réellement critiques, pas seulement un document vierge.</p>"
+        },
+        {
+          "title": "5. Achetez une licence adaptée et associez-la au bon compte",
+          "html": "<p>Privilégiez un vendeur fiable et vérifiez le nombre d'appareils autorisés, la plateforme concernée et les applications incluses. Lors de l'activation, associez la licence au compte Microsoft que vous utilisez réellement : il servira ensuite à retrouver votre achat et à réinstaller Office.</p>"
+        },
+        {
+          "title": "6. Désinstallez ou remplacez proprement l'ancienne version",
+          "html": "<p>Pour limiter les conflits d'installation et d'activation, il est généralement préférable de désinstaller Office 2021 avant d'installer Office 2024, après avoir sécurisé vos données. Suivez ensuite l'assistant d'installation depuis votre compte Microsoft, connectez-vous et vérifiez que chaque application est bien activée.</p>"
+        },
+        {
+          "title": "7. Contrôlez l'installation après quelques jours",
+          "html": "<p>Ouvrez vos documents de référence, envoyez un e-mail de test si vous utilisez Outlook, lancez vos macros et vérifiez vos imprimantes, compléments et comptes cloud. Gardez vos sauvegardes jusqu'à ce que vous soyez certain que tout fonctionne comme prévu.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Compatibilité des fichiers, macros et travail en équipe",
+      "html": "<p>Dans la plupart des cas, les documents Word, classeurs Excel et présentations PowerPoint créés avec Office 2021 s'ouvrent sans difficulté dans Office 2024. Les formats Office courants, tels que DOCX, XLSX et PPTX, sont conçus pour conserver une bonne compatibilité entre les versions.</p><p>Le point de vigilance concerne les <strong>fonctions qui n'existent pas dans Office 2021</strong>. Si vous créez dans Office 2024 un classeur contenant une fonction récente, une personne qui l'ouvre dans Office 2021 peut voir une formule non reconnue, un résultat erroné ou un affichage incomplet. Avant d'envoyer un fichier important, demandez quelle version les destinataires utilisent ou fournissez une exportation en PDF lorsque l'objectif est uniquement la lecture.</p><p>Les macros VBA sont souvent conservées, mais elles ne doivent jamais être considérées comme compatibles sans test. Les compléments, les contrôles ActiveX, les connexions à une base de données, les pilotes d'impression PDF et les règles Outlook sont autant d'éléments qui peuvent nécessiter un ajustement. Dans une organisation, planifiez un pilote sur quelques postes avant de déployer Office 2024 partout.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux clés à prix anormalement bas",
+      "html": "<p>Une clé vendue quelques euros pour une édition professionnelle ou en volume peut provenir d'un canal non prévu pour un particulier ou être désactivée ultérieurement. Vérifiez l'identité du vendeur, l'édition exacte, les conditions de licence et la possibilité d'obtenir une facture. Une licence légitime, associée à votre compte Microsoft, évite bien des difficultés de réinstallation et de support.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les erreurs à éviter avant de remplacer Office 2021",
+      "html": "<p>La première erreur consiste à croire qu'Office 2024 apporte toutes les fonctionnalités présentées dans les démonstrations de Microsoft 365. Les deux produits partagent des applications, mais leur modèle est différent : Office 2024 est une version figée, alors que Microsoft 365 reçoit des évolutions régulières.</p><p>Évitez aussi de choisir l'édition Famille si Outlook de bureau est indispensable à votre activité. Vérifiez la liste exacte des applications avant le paiement plutôt que de supposer qu'Outlook est toujours inclus. De même, ne basez pas votre choix sur l'idée d'obtenir Copilot gratuitement avec une licence perpétuelle : les fonctionnalités d'intelligence artificielle répondent à des conditions et à des offres distinctes.</p><p>Enfin, ne désinstallez pas votre ancien Office à la hâte sans sauvegarde ni inventaire de vos extensions. La majorité des migrations se passent bien, mais les problèmes viennent généralement des détails : modèle personnalisé oublié, fichier PST local, macro non testée ou licence activée avec le mauvais compte Microsoft.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on mettre à jour Office 2021 gratuitement vers Office 2024 ?",
+      "a_html": "<p>Non. Office 2021 et Office 2024 sont deux licences perpétuelles distinctes. Les mises à jour incluses avec Office 2021 apportent surtout des correctifs, pas le droit à une nouvelle version majeure.</p><p>Pour utiliser Office 2024, vous devez acheter une nouvelle licence ou choisir un abonnement Microsoft 365 si ce modèle correspond mieux à vos besoins.</p>"
+    },
+    {
+      "q": "Office 2021 fonctionne-t-il encore après l'installation d'Office 2024 ?",
+      "a_html": "<p>Techniquement, plusieurs versions peuvent parfois coexister selon les cas, mais cela peut compliquer l'activation, les associations de fichiers et les mises à jour. Pour un poste personnel, désinstaller Office 2021 avant d'installer Office 2024 est généralement l'option la plus simple.</p><p>Sauvegardez toujours vos fichiers et vos données Outlook avant de modifier l'installation.</p>"
+    },
+    {
+      "q": "Jusqu'à quand Office 2021 est-il pris en charge ?",
+      "a_html": "<p>La fin de support prévue d'Office 2021 est le 13 octobre 2026. Jusqu'à cette date, Microsoft prévoit de publier des mises à jour de sécurité. Après cette échéance, le logiciel peut rester utilisable, mais il ne recevra plus de correctifs de sécurité.</p>"
+    },
+    {
+      "q": "Quelles sont les principales nouveautés d'Excel dans Office 2024 ?",
+      "a_html": "<p>Office 2024 apporte notamment de nouvelles fonctions pour découper et extraire du texte, manipuler des tableaux dynamiques et insérer des images via une formule. Il améliore aussi certains usages des tableaux dynamiques dans les graphiques.</p><p>Ces nouveautés sont surtout intéressantes pour les utilisateurs qui nettoient des listes, construisent des tableaux de bord ou automatisent des rapports. Pour un tableur très simple, le gain peut être limité.</p>"
+    },
+    {
+      "q": "Office 2024 inclut-il Outlook et Copilot ?",
+      "a_html": "<p>Outlook n'est pas inclus dans toutes les éditions. L'édition Office Famille comprend habituellement Word, Excel, PowerPoint et OneNote, tandis qu'une édition destinée aux particuliers et petites entreprises ajoute généralement Outlook. Vérifiez systématiquement la fiche de l'édition achetée.</p><p>Copilot n'est pas inclus automatiquement avec Office 2024. Son accès dépend des offres, comptes, régions et éventuels abonnements ou licences spécifiques proposés par Microsoft.</p>"
+    },
+    {
+      "q": "Les fichiers créés avec Office 2024 s'ouvrent-ils dans Office 2021 ?",
+      "a_html": "<p>Les fichiers DOCX, XLSX et PPTX s'ouvrent généralement dans Office 2021. En revanche, un document qui utilise une fonctionnalité ou une formule introduite dans Office 2024 peut ne pas s'afficher ou se calculer correctement dans Office 2021.</p><p>Pour un envoi externe important, testez le fichier avec une version plus ancienne ou joignez un PDF si le destinataire n'a pas à le modifier.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Passer d'Office 2021 à Office 2024 a du sens si vous voulez prolonger votre support jusqu'en 2029, bénéficier d'un Excel plus moderne et conserver le confort d'une licence sans abonnement. Ce n'est toutefois pas une migration obligatoire immédiate : Office 2021 reste une solution valable jusqu'à sa fin de support, surtout pour un usage classique.</p><p>Avant d'acheter, partez de vos besoins réels : fonctions Excel, présence d'Outlook, travail collaboratif, nombre d'appareils et besoin de nouveautés continues. Une fois le choix fait, une sauvegarde sérieuse et un test de vos fichiers importants vous permettront de passer à Office 2024 avec sérénité.</p>",
+  "__slug": "upgrade-office-2021-2024"
+}

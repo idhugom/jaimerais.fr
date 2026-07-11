@@ -1,0 +1,256 @@
+{
+  "title": "Courgettes au beurre à la poêle : la recette fondante et sans eau",
+  "meta_description": "Courgettes au beurre fondantes, jamais aqueuses : ingrédients, cuisson à la poêle, astuces, variantes et idées d'accompagnements faciles au quotidien.",
+  "reading_time_min": 9,
+  "hero_intro": "J'aimerais cuisiner des courgettes au beurre qui restent tendres, brillantes et pleines de goût, sans finir dans une poêle remplie d'eau. Avec peu d'ingrédients et les bons gestes, ce grand classique devient un accompagnement express aussi délicieux avec un poisson qu'avec des pâtes ou des œufs. Voici la méthode fiable, les erreurs à éviter et de nombreuses idées pour la personnaliser.",
+  "key_takeaways": [
+    "Choisissez des courgettes petites à moyennes, fermes et lourdes : elles sont généralement moins gorgées d'eau et plus savoureuses.",
+    "Faites cuire dans une grande poêle chaude, sans couvrir et sans la surcharger, pour favoriser une légère coloration.",
+    "Salez plutôt en fin de cuisson afin de limiter le rejet d'eau des courgettes.",
+    "Comptez environ 40 g de beurre pour 4 personnes, en gardant une partie pour la finition brillante et parfumée.",
+    "Les courgettes au beurre accompagnent aussi bien les grillades que les céréales, les pâtes, les œufs ou un plat végétarien."
+  ],
+  "toc": [
+    "Les ingrédients et le matériel pour des courgettes au beurre réussies",
+    "Bien choisir et découper les courgettes",
+    "La recette pas à pas à la poêle",
+    "Poêlée saisie ou courgettes étuvées : quelle cuisson choisir ?",
+    "Les gestes qui évitent une poêle pleine d'eau",
+    "Variantes gourmandes autour des courgettes au beurre",
+    "Avec quoi servir les courgettes au beurre ?",
+    "Conservation, réchauffage et congélation"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Les ingrédients et le matériel pour des courgettes au beurre réussies",
+      "html": "<p>Cette recette de <strong>courgettes au beurre pour 4 personnes</strong> repose sur un équilibre très simple : la douceur du légume, le parfum du beurre et une cuisson suffisamment vive pour concentrer les saveurs. Prévoyez 900 g de courgettes, 1 petit oignon jaune ou 2 échalotes, 40 g de beurre doux ou demi-sel, du sel, du poivre et quelques brins de persil, de basilic ou de ciboulette.</p><p>Gardez aussi sous la main 2 à 3 cuillères à soupe d'eau ou de bouillon de légumes. Elles ne sont pas systématiquement nécessaires : elles servent uniquement à décoller les sucs si la poêle accroche ou si vous préférez une texture plus fondante. Une grande poêle, idéalement de 28 cm de diamètre, est le véritable secret de la recette : les morceaux doivent pouvoir s'étaler plutôt que cuire les uns sur les autres.</p><p>Le beurre demi-sel apporte une note très gourmande, mais il rend le dosage du sel plus délicat. Avec du beurre doux, assaisonnez progressivement à la fin. Si votre poêle est fine ou chauffe très fort, ajoutez une petite cuillère d'huile neutre au premier morceau de beurre : elle aidera à éviter qu'il ne noircisse trop vite, sans masquer son goût.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "La recette en un coup d'œil",
+      "items": [
+        {
+          "value": "4",
+          "label": "personnes"
+        },
+        {
+          "value": "10 min",
+          "label": "de préparation"
+        },
+        {
+          "value": "12 à 15 min",
+          "label": "de cuisson"
+        },
+        {
+          "value": "≈ 4 à 7 €",
+          "label": "hors accompagnement, selon la saison"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Choisir et préparer les courgettes",
+      "intro": "La variété importe moins que la fraîcheur et la taille du légume. Voici les repères utiles avant de passer en cuisine.",
+      "columns": [
+        "Élément",
+        "Bon réflexe",
+        "Pourquoi c'est important"
+      ],
+      "rows": [
+        [
+          "Courgettes",
+          "Préférez-les petites à moyennes, à la peau lisse et ferme.",
+          "Elles ont souvent moins de grosses graines et une chair plus dense."
+        ],
+        [
+          "Couleur",
+          "Vertes, jaunes ou striées : toutes conviennent.",
+          "Les courgettes jaunes sont souvent un peu plus douces ; mélangez les couleurs pour une assiette plus jolie."
+        ],
+        [
+          "Lavage",
+          "Rincez-les puis séchez-les soigneusement.",
+          "L'eau restée sur la peau favorise la vapeur au lieu de la coloration."
+        ],
+        [
+          "Épluchage",
+          "Conservez la peau, sauf si elle est très abîmée ou cireuse.",
+          "Elle apporte de la tenue, de la couleur et évite aux morceaux de se défaire."
+        ],
+        [
+          "Découpe",
+          "Faites des demi-rondelles épaisses, des quartiers ou des gros dés réguliers.",
+          "Des morceaux de 1 à 1,5 cm cuisent uniformément sans se transformer en purée."
+        ]
+      ],
+      "note": "Évitez les rondelles très fines : elles cuisent vite, rendent davantage d'eau et deviennent facilement molles."
+    },
+    {
+      "type": "steps",
+      "heading": "La recette des courgettes au beurre, étape par étape",
+      "intro": "Pour une poêlée fondante avec une légère coloration, comptez 12 à 15 minutes de cuisson après la préparation des légumes.",
+      "steps": [
+        {
+          "title": "Préparez les légumes",
+          "html": "<p>Lavez et séchez les courgettes. Retirez les extrémités, puis coupez-les en quartiers dans la longueur avant de les détailler en morceaux réguliers. Si les courgettes sont très grosses, ôtez la partie centrale spongieuse et les graines. Pelez l'oignon et émincez-le finement.</p>"
+        },
+        {
+          "title": "Faites suer l'oignon sans le colorer",
+          "html": "<p>Faites fondre 20 g de beurre dans une grande poêle sur feu moyen. Ajoutez l'oignon avec une petite pincée de sel et laissez-le devenir translucide pendant 3 à 4 minutes. Il doit être tendre et parfumé, pas brun : un oignon trop coloré prendrait le dessus sur la saveur délicate de la courgette.</p>"
+        },
+        {
+          "title": "Saisissez les courgettes",
+          "html": "<p>Montez légèrement le feu et ajoutez les courgettes. Étalez-les en une couche aussi régulière que possible. Laissez-les 2 minutes sans les remuer, puis retournez-les délicatement. Poursuivez la cuisson 6 à 8 minutes en remuant de temps en temps, mais sans les brasser sans arrêt.</p>"
+        },
+        {
+          "title": "Glacez au beurre et assaisonnez",
+          "html": "<p>Quand les courgettes sont tendres sous la pointe d'un couteau tout en gardant de la tenue, ajoutez les 20 g de beurre restants. S'il y a des sucs au fond de la poêle, versez seulement 2 cuillères à soupe d'eau ou de bouillon et mélangez 1 minute. Salez, poivrez généreusement et ajoutez les herbes fraîches juste avant de servir.</p>"
+        },
+        {
+          "title": "Servez sans attendre",
+          "html": "<p>Les courgettes au beurre sont meilleures chaudes, lorsque le beurre les enrobe encore d'un voile brillant. Goûtez avant d'ajouter du sel : le beurre demi-sel, un bouillon salé ou un fromage ajouté en finition peuvent déjà suffire.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réflexe anti-courgettes aqueuses",
+      "html": "<p><strong>Ne couvrez pas la poêle</strong> et ne la remplissez pas excessivement. La courgette est naturellement riche en eau : si la vapeur reste prisonnière, elle étuve et devient molle. Pour une grande quantité, faites cuire en deux fois, puis réunissez les portions une minute à la fin avec le beurre.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Poêlée saisie ou courgettes étuvées : quelle cuisson choisir ?",
+      "intro": "Les deux méthodes sont bonnes, mais elles ne donnent ni la même texture ni le même usage en cuisine.",
+      "left": {
+        "title": "Courgettes saisies à la poêle",
+        "points": [
+          "Feu moyen-vif, poêle large et cuisson sans couvercle.",
+          "Texture plus ferme, bords légèrement dorés, goût plus concentré.",
+          "Idéales en accompagnement de grillades, avec des pâtes ou dans une salade tiède.",
+          "Demande de ne pas surcharger la poêle et de remuer avec modération."
+        ]
+      },
+      "right": {
+        "title": "Courgettes étuvées au beurre",
+        "points": [
+          "Feu doux à moyen, petite quantité de bouillon et couvercle partiel.",
+          "Texture très fondante, presque confite, avec davantage de jus.",
+          "Parfaites pour accompagner du riz, une purée, du poisson ou pour garnir une omelette.",
+          "Moins de coloration et une saveur de courgette plus douce, moins grillée."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Les gestes qui font vraiment la différence",
+      "html": "<p>La difficulté des courgettes au beurre ne réside pas dans la liste d'ingrédients, mais dans la maîtrise de leur eau. Le premier piège est de saler abondamment dès le départ : le sel attire l'humidité et peut faire bouillir les légumes dans leur jus. Une pincée pour l'oignon est utile, mais ajustez l'assaisonnement des courgettes à la toute fin.</p><p>Le deuxième piège consiste à remuer en continu. En cherchant à les surveiller, on empêche les morceaux de toucher assez longtemps le fond chaud de la poêle. Laissez-leur quelques instants immobiles, puis retournez-les avec une spatule. Elles doivent être tendres, mais conserver une légère résistance : une cuisson prolongée les fait se déliter.</p><p>Enfin, surveillez le beurre. Il peut devenir délicieusement noisette, avec une odeur de fruits secs, mais il brûle vite. Si des particules brunissent très fortement avant que les courgettes ne soient cuites, baissez le feu et ajoutez une cuillère d'eau. Vous récupérerez les sucs sans donner d'amertume au plat.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs à éviter",
+      "points": [
+        "Couper les courgettes trop finement ou en morceaux de tailles inégales.",
+        "Mettre 1 kg de légumes dans une petite poêle : ils vont surtout cuire à la vapeur.",
+        "Couvrir pendant toute la cuisson alors que l'on cherche une poêlée dorée.",
+        "Ajouter tout le beurre au début et le laisser brûler sur feu fort.",
+        "Cuire jusqu'à ce que les courgettes s'écrasent : mieux vaut arrêter un peu avant, la chaleur résiduelle finit le travail."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Variantes gourmandes autour des courgettes au beurre",
+      "intro": "La base beurre-oignon-courgette se prête à de nombreux assaisonnements. Ajoutez-les avec parcimonie afin de respecter le goût du légume.",
+      "columns": [
+        "Envie",
+        "Ajout pour 4 personnes",
+        "Quand l'ajouter",
+        "Résultat"
+      ],
+      "rows": [
+        [
+          "Herbes fraîches",
+          "2 cuillères à soupe de persil, basilic, menthe ou ciboulette",
+          "Hors du feu",
+          "Fraîcheur et couleur"
+        ],
+        [
+          "Ail et citron",
+          "1 petite gousse d'ail, zeste fin et quelques gouttes de citron",
+          "Ail 1 minute avant la fin, citron au service",
+          "Une version vive, idéale avec le poisson"
+        ],
+        [
+          "Crémeuse",
+          "2 cuillères à soupe de crème fraîche épaisse",
+          "En toute fin de cuisson",
+          "Une sauce douce pour le riz ou les pâtes"
+        ],
+        [
+          "Fromagère",
+          "30 à 40 g de parmesan, pecorino ou feta émiettée",
+          "Au moment de servir",
+          "Une note salée : réduisez le sel ajouté"
+        ],
+        [
+          "Épicée",
+          "1 pincée de curry doux, cumin ou piment d'Espelette",
+          "Avec les courgettes, en début de cuisson",
+          "Un accompagnement plus chaleureux et parfumé"
+        ],
+        [
+          "Méditerranéenne",
+          "Tomates cerises, thym et olives noires en petite quantité",
+          "Tomates à mi-cuisson, olives à la fin",
+          "Un plat plus complet, proche d'une poêlée d'été"
+        ]
+      ],
+      "note": "Pour une version végétale, remplacez le beurre par une margarine de cuisson de qualité ou de l'huile d'olive. Le résultat sera différent, mais très savoureux avec de l'ail et des herbes."
+    },
+    {
+      "type": "prose",
+      "heading": "Avec quoi servir les courgettes au beurre ?",
+      "html": "<p>En accompagnement, prévoyez environ 200 à 250 g de courgettes crues par personne. Leur douceur s'accorde naturellement avec un filet de saumon, une truite, des brochettes de poulet, une côte de porc ou une viande grillée. Pour un repas végétarien simple, servez-les avec des œufs mollets, une omelette aux herbes, des pois chiches croustillants ou du halloumi poêlé.</p><p>Les féculents absorbent très bien le beurre parfumé : riz pilaf, semoule, polenta crémeuse, pommes de terre vapeur ou pâtes courtes sont des valeurs sûres. Vous pouvez aussi mélanger les courgettes encore chaudes à des tagliatelles avec un peu d'eau de cuisson et du parmesan, pour un dîner rapide et réconfortant.</p><p>Pour transformer l'accompagnement en plat principal, ajoutez en fin de cuisson des haricots blancs cuits, des lentilles, du quinoa ou des dés de tofu dorés à part. Dans ce cas, gardez une texture plutôt saisie : elle apportera un contraste agréable avec les ingrédients plus moelleux.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Un bon plat d'été, mais pas seulement",
+      "html": "<p>Les courgettes sont particulièrement agréables en pleine saison, souvent de juin à septembre selon les régions. Hors saison, choisissez-les très fermes et cuisinez-les rapidement : les exemplaires plus vieux et très volumineux ont davantage de graines et une chair parfois plus aqueuse.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Conservation, réchauffage et congélation",
+      "html": "<p>Les courgettes au beurre se gardent jusqu'à <strong>3 jours au réfrigérateur</strong>, dans une boîte hermétique une fois totalement refroidies. Ne les laissez pas plus de 2 heures à température ambiante. Leur texture est meilleure le jour même, mais les restes sont excellents dans une omelette, une quiche, un gratin ou une garniture de sandwich chaud.</p><p>Pour les réchauffer, utilisez une poêle sur feu moyen plutôt que le micro-ondes : l'eau s'évapore plus facilement et les courgettes retrouvent un peu de tenue. Ajoutez une noisette de beurre ou une cuillère d'eau seulement si elles paraissent sèches. Évitez une cuisson longue, qui les rendrait pâteuses.</p><p>La congélation est possible, mais la courgette décongelée sera nettement plus molle. Congelez-la en petites portions et réutilisez-la de préférence dans une soupe, une sauce, un gratin ou une tarte salée. Pour une poêlée à la texture impeccable, mieux vaut cuisiner des courgettes fraîches.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il éplucher les courgettes pour les cuire au beurre ?",
+      "a_html": "<p>Non, ce n'est généralement pas nécessaire. La peau fine des courgettes se mange, aide les morceaux à garder leur forme et apporte une jolie couleur. Lavez-les soigneusement, séchez-les et retirez seulement les zones abîmées. Épluchez-les uniquement si la peau est très épaisse ou si vous utilisez une courgette particulièrement grosse.</p>"
+    },
+    {
+      "q": "Pourquoi mes courgettes rendent-elles beaucoup d'eau à la poêle ?",
+      "a_html": "<p>La cause la plus fréquente est une poêle trop petite ou trop remplie : la vapeur ne peut pas s'échapper et les légumes étuvent. Des courgettes mal séchées, une cuisson trop douce, un couvercle ou un salage trop précoce peuvent aussi accentuer le phénomène.</p><p>Utilisez une grande poêle bien chaude, cuisez en plusieurs fois si besoin et salez en fin de cuisson. Si du liquide apparaît malgré tout, poursuivez quelques minutes sans couvercle pour le faire évaporer.</p>"
+    },
+    {
+      "q": "Peut-on remplacer le beurre dans cette recette ?",
+      "a_html": "<p>Oui. L'huile d'olive donne une version plus méditerranéenne, particulièrement bonne avec ail, citron et basilic. Une margarine adaptée à la cuisson convient pour une recette sans produits laitiers.</p><p>Vous pouvez aussi employer moitié beurre, moitié huile d'olive : le beurre conserve son parfum, tandis que l'huile offre une marge de sécurité supplémentaire à feu vif.</p>"
+    },
+    {
+      "q": "Combien de temps cuire les courgettes à la poêle ?",
+      "a_html": "<p>Pour des morceaux d'environ 1 à 1,5 cm, comptez le plus souvent 8 à 12 minutes après avoir fait revenir l'oignon. Le temps exact dépend de la taille des morceaux, de la puissance du feu et de la texture souhaitée.</p><p>Goûtez plutôt que de vous fier uniquement au minuteur : elles doivent être fondantes au centre tout en restant légèrement fermes et reconnaissables en morceaux.</p>"
+    },
+    {
+      "q": "Peut-on préparer les courgettes au beurre à l'avance ?",
+      "a_html": "<p>Vous pouvez laver et couper les courgettes quelques heures avant, puis les conserver au frais dans une boîte fermée. Il est toutefois préférable de les cuire peu avant le repas, car elles perdent un peu de leur tenue au réchauffage.</p><p>Si vous devez les préparer à l'avance, arrêtez la cuisson une minute avant le résultat désiré. Réchauffez-les rapidement à la poêle avec une petite noisette de beurre et les herbes fraîches au dernier moment.</p>"
+    },
+    {
+      "q": "Quelle quantité de courgettes prévoir par personne ?",
+      "a_html": "<p>Comptez environ 200 à 250 g de courgettes crues par personne pour un accompagnement, car elles réduisent légèrement à la cuisson. Pour un plat végétarien composé autour de courgettes, prévoyez plutôt 300 à 350 g par personne et ajoutez une source de protéines ainsi qu'un féculent.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Les <strong>courgettes au beurre</strong> prouvent qu'une recette quotidienne peut être très gourmande avec seulement quelques ingrédients bien choisis. Une poêle assez large, des morceaux réguliers, une cuisson sans couvercle et un peu de beurre ajouté à la fin suffisent à obtenir une texture fondante, loin des courgettes fades ou détrempées. Servez-les simplement avec vos herbes préférées, puis adaptez la recette à votre menu : citronnée avec un poisson, crémeuse avec des pâtes ou épicée pour réveiller un dîner végétarien.</p>",
+  "__slug": "courgette-au-beurre-une-recette-simple-et-savoureuse"
+}

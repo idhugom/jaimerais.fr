@@ -1,0 +1,296 @@
+{
+  "title": "Comment préparer un authentique cassoulet toulousain maison ?",
+  "meta_description": "Réussissez un cassoulet toulousain maison : choix des haricots et des viandes, cuisson lente, astuces, budget et erreurs à éviter pour un résultat fondant.",
+  "reading_time_min": 12,
+  "hero_intro": "Le cassoulet toulousain n'est pas une recette à expédier : c'est un plat de patience, de bons produits et de cuisson douce. Haricots blancs crémeux, saucisse de Toulouse, porc et confit s'unissent dans une cassole pour former un plat généreux, parfait à partager. Voici une méthode fiable pour le réussir à la maison, sans transformer la tradition en règle rigide.",
+  "key_takeaways": [
+    "Prévoyez des haricots secs, idéalement des haricots tarbais, et faites-les tremper 10 à 12 heures.",
+    "La version toulousaine repose sur le trio confit de canard, saucisse de Toulouse et porc, avec un bouillon riche mais maîtrisé.",
+    "Les haricots doivent être presque cuits avant le passage au four : ils finiront de s'imprégner du jus sans se défaire.",
+    "Au four, ne remuez pas le cassoulet : enfoncez délicatement la croûte et ajoutez un peu de bouillon chaud si nécessaire.",
+    "Préparé la veille puis réchauffé doucement, le cassoulet gagne souvent en profondeur et en fondant."
+  ],
+  "toc": [
+    "Ce qui caractérise le cassoulet toulousain",
+    "Les ingrédients et les quantités pour 6 à 8 personnes",
+    "Matériel, budget et temps à prévoir",
+    "Haricots secs ou en conserve : quelle option choisir ?",
+    "La recette pas à pas du cassoulet toulousain",
+    "Réussir la croûte et la texture sans dessécher le plat",
+    "Les erreurs fréquentes et leurs solutions",
+    "Comment servir, conserver et réchauffer le cassoulet"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Ce qui caractérise le cassoulet toulousain",
+      "html": "<p>Le mot « cassoulet » vient de la <em>cassole</em>, un récipient en terre cuite évasé dans lequel le plat mijote traditionnellement. Au-delà de l'ustensile, le cassoulet est un grand plat de haricots blancs cuits longuement dans un bouillon parfumé et enrichi de viandes du Sud-Ouest.</p><p>Il existe plusieurs traditions locales, notamment autour de Castelnaudary, Carcassonne et Toulouse. La version toulousaine est volontiers généreuse en viandes : on y retrouve classiquement la <strong>saucisse de Toulouse</strong>, du <strong>confit de canard ou d'oie</strong> et du <strong>porc</strong>. La couenne peut aussi participer au goût et à l'onctuosité du jus.</p><p>Plutôt que de chercher une liste immuable d'ingrédients, retenez l'esprit du plat : de très bons haricots, une cuisson lente, un bouillon savoureux, une juste quantité de gras et du temps. Un cassoulet trop chargé en épices, noyé sous la tomate ou composé de viandes interchangeables peut être excellent, mais il s'éloigne du profil toulousain traditionnel.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les repères d'un cassoulet réussi",
+      "points": [
+        "Des haricots entiers, moelleux et crémeux, jamais farineux ni croquants.",
+        "Un jus lié naturellement par l'amidon des haricots et la gélatine du porc, sans farine.",
+        "Une saucisse de Toulouse fraîche, assez charnue, et non une saucisse fumée ou très épicée.",
+        "Une surface légèrement gratinée, régulièrement humidifiée avec du bouillon chaud.",
+        "Un assaisonnement vérifié à la fin : le confit et la saucisse apportent déjà du sel."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les ingrédients pour 6 à 8 personnes",
+      "intro": "Ces proportions donnent un cassoulet copieux. Adaptez légèrement la quantité de bouillon selon la largeur de votre plat et l'absorption des haricots.",
+      "columns": [
+        "Ingrédient",
+        "Quantité conseillée",
+        "Son rôle",
+        "Alternative raisonnable"
+      ],
+      "rows": [
+        [
+          "Haricots tarbais secs",
+          "500 g",
+          "Texture fondante, peau fine, goût doux",
+          "Haricots lingots secs de bonne qualité"
+        ],
+        [
+          "Confit de canard",
+          "4 cuisses",
+          "Viande fondante et graisse parfumée",
+          "Confit d'oie"
+        ],
+        [
+          "Saucisse de Toulouse fraîche",
+          "600 à 700 g",
+          "Signature toulousaine, goût de porc poivré",
+          "Saucisse de porc artisanale peu épicée"
+        ],
+        [
+          "Échine ou poitrine de porc demi-sel",
+          "450 à 500 g",
+          "Moelleux et richesse du bouillon",
+          "Épaule de porc fraîche, à saler modérément"
+        ],
+        [
+          "Couenne de porc",
+          "100 à 150 g, facultatif",
+          "Gélatine et goût traditionnel",
+          "À omettre si elle est introuvable"
+        ],
+        [
+          "Oignon et carotte",
+          "1 gros oignon et 1 carotte",
+          "Base aromatique du bouillon",
+          "2 oignons si vous n'avez pas de carotte"
+        ],
+        [
+          "Ail",
+          "3 à 4 gousses",
+          "Parfum discret",
+          "Ail séché déconseillé"
+        ],
+        [
+          "Bouquet garni",
+          "1",
+          "Thym, laurier, persil",
+          "Thym et laurier seuls"
+        ],
+        [
+          "Bouillon non salé ou eau",
+          "Environ 2 à 2,5 litres",
+          "Cuisson et liaison",
+          "Bouillon de volaille peu salé"
+        ],
+        [
+          "Graisse de canard",
+          "1 à 2 cuillères à soupe",
+          "Pour faire revenir les viandes",
+          "Graisse prélevée du confit"
+        ]
+      ],
+      "note": "Le budget se situe souvent entre 45 et 70 € pour 6 à 8 personnes, selon l'origine du confit, la charcuterie choisie et l'achat chez un artisan. C'est un plat riche, mais son coût par convive reste généralement raisonnable."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le bon choix des haricots fait la différence",
+      "html": "<p>Les haricots tarbais sont réputés pour leur peau fine et leur capacité à rester entiers après une longue cuisson. À défaut, choisissez des lingots secs récents : des haricots trop anciens cuisent difficilement, même après plusieurs heures. Ne les remplacez pas par des haricots rouges ou des flageolets, dont la texture et le goût ne conviennent pas au cassoulet.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Matériel, budget et temps à prévoir",
+      "html": "<p>Une cassole en terre cuite est idéale, car sa forme large favorise l'évaporation et la formation de la croûte. Mais un grand plat à gratin profond, une cocotte en fonte allant au four ou une terrine en céramique feront très bien l'affaire. L'essentiel est d'utiliser un récipient suffisamment large et de ne pas trop le remplir : laissez au moins 2 à 3 cm avant le bord.</p><p>Prévoyez une grande marmite pour le bouillon et les haricots, une poêle pour colorer la saucisse et le confit, une écumoire et une louche. Un thermomètre de cuisine est utile au réchauffage, mais pas indispensable pour la cuisson initiale.</p><p>La recette demande peu de gestes techniques, mais elle ne s'improvise pas le soir même. Le plus confortable est de tremper les haricots la veille, de cuisiner le cassoulet le lendemain, puis de le déguster après un repos au frais. Ce rythme permet aussi de dégraisser légèrement le jus si vous le souhaitez.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Les chiffres à garder en tête",
+      "items": [
+        {
+          "value": "10 à 12 h",
+          "label": "de trempage pour des haricots secs"
+        },
+        {
+          "value": "3 h 30 à 4 h 30",
+          "label": "de cuisson totale, selon les haricots et le plat"
+        },
+        {
+          "value": "140 à 150 °C",
+          "label": "pour une cuisson lente au four"
+        },
+        {
+          "value": "6 à 8",
+          "label": "portions généreuses avec 500 g de haricots secs"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Haricots secs ou en conserve : deux approches, deux résultats",
+      "intro": "Les haricots secs restent le meilleur choix pour une texture authentique. Les conserves peuvent néanmoins dépanner si le temps manque.",
+      "left": {
+        "title": "La méthode traditionnelle : haricots secs",
+        "points": [
+          "Trempage indispensable la veille, puis cuisson progressive dans le bouillon.",
+          "Texture plus crémeuse et jus naturellement mieux lié.",
+          "Permet de contrôler précisément le sel et la cuisson.",
+          "À privilégier pour un cassoulet de fête ou préparé à l'avance."
+        ]
+      },
+      "right": {
+        "title": "La solution express : haricots en conserve",
+        "points": [
+          "Choisir des haricots blancs nature, sans sauce, et les rincer soigneusement.",
+          "Réduire fortement le temps de cuisson au four, souvent à 1 h 30 environ.",
+          "Ajouter les haricots seulement au montage pour éviter qu'ils ne s'écrasent.",
+          "Résultat honorable, mais moins profond et moins fondant qu'avec des haricots secs."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "La recette pas à pas du cassoulet toulousain",
+      "intro": "Cette méthode privilégie une cuisson douce et un montage simple. Commencez idéalement la veille du repas.",
+      "steps": [
+        {
+          "title": "1. Faites tremper les haricots",
+          "html": "<p>La veille, triez rapidement les 500 g de haricots puis rincez-les. Couvrez-les largement d'eau froide dans un grand saladier et laissez-les reposer 10 à 12 heures. Égouttez-les juste avant la cuisson. Ne salez pas l'eau de trempage.</p>"
+        },
+        {
+          "title": "2. Préparez le porc et le bouillon",
+          "html": "<p>Si vous utilisez de la poitrine demi-sel, dessalez-la 1 à 2 heures dans de l'eau froide, en renouvelant l'eau une fois si elle est très salée. Dans une grande marmite, faites revenir doucement l'oignon, la carotte et l'ail avec une cuillère de graisse de canard. Ajoutez le porc, la couenne si vous en avez, le bouquet garni et environ 2 litres d'eau ou de bouillon peu salé.</p><p>Portez à frémissement, écumez si nécessaire, puis laissez cuire sans gros bouillons pendant 45 minutes à 1 heure. Retirez le porc lorsqu'il est presque tendre, réservez-le, puis gardez le bouillon chaud.</p>"
+        },
+        {
+          "title": "3. Cuisez les haricots sans les achever",
+          "html": "<p>Versez les haricots égouttés dans le bouillon frémissant. Laissez-les cuire 45 minutes à 1 heure selon leur variété et leur âge. Ils doivent être souples en surface mais encore légèrement fermes au cœur : ils finiront leur cuisson au four. Retirez le bouquet garni et goûtez le bouillon avant tout ajout de sel.</p>"
+        },
+        {
+          "title": "4. Colorez séparément saucisse et confit",
+          "html": "<p>Dans une poêle chaude, faites dorer la saucisse de Toulouse entière ou en gros tronçons, sans la cuire complètement. Retirez-la. Faites ensuite rissoler les cuisses de confit côté peau pour les colorer et récupérer un peu de graisse. Inutile de les faire longuement cuire : le confit est déjà cuit.</p>"
+        },
+        {
+          "title": "5. Montez le cassoulet dans la cassole",
+          "html": "<p>Préchauffez le four à 150 °C. Tapissez éventuellement le fond du plat de quelques morceaux de couenne, côté gras contre le récipient. Déposez la moitié des haricots avec un peu de leur jus, répartissez le porc, la saucisse et les cuisses de confit, puis recouvrez avec le reste des haricots.</p><p>Versez du bouillon chaud jusqu'à arriver juste au niveau des haricots, sans immerger complètement les viandes. Le plat doit rester généreusement humide, mais non liquide comme une soupe.</p>"
+        },
+        {
+          "title": "6. Laissez confire lentement au four",
+          "html": "<p>Enfournez 2 à 3 heures à 140-150 °C. Une pellicule dorée se forme à la surface : enfoncez-la délicatement avec le dos d'une cuillère lorsqu'elle devient sèche, sans remuer l'ensemble. Ajoutez une petite louche de bouillon chaud si les haricots paraissent s'assécher. Répétez l'opération 2 ou 3 fois au besoin.</p><p>En fin de cuisson, les haricots doivent être très tendres, les viandes fondantes et le jus onctueux. Laissez reposer au moins 20 à 30 minutes avant de servir, ou refroidissez-le pour le déguster le lendemain.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Réussir la croûte et la texture sans dessécher le plat",
+      "html": "<p>La fameuse croûte du cassoulet est une fine couche formée par les haricots, le jus réduit et la graisse. Elle ne doit pas être confondue avec une épaisse couche de chapelure. Certaines familles ajoutent des miettes de pain, mais ce n'est ni nécessaire ni systématique dans une interprétation toulousaine classique.</p><p>La règle la plus utile est simple : <strong>on enfonce la croûte, on ne mélange pas le cassoulet</strong>. Remuer casserait les haricots, troublerait le jus et ferait disparaître les couches de viandes. Si la surface paraît sèche, versez peu à peu du bouillon très chaud sur le pourtour du plat.</p><p>Un cassoulet trop liquide manque souvent de temps au four ou contient trop de bouillon au départ. À l'inverse, un cassoulet sec a cuit trop chaud ou trop longtemps sans apport de liquide. L'équilibre recherché est un jus épais qui nappe la cuillère, sans noyer les haricots.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le repos du lendemain : une vraie amélioration",
+      "html": "<p>Après cuisson, laissez tiédir le cassoulet puis placez-le au réfrigérateur dans les deux heures. Le lendemain, retirez si besoin une fine couche de graisse figée, ajoutez un peu de bouillon si le plat semble compact et réchauffez doucement à 140 °C pendant 45 minutes à 1 heure. Les saveurs auront eu le temps de se mêler et la texture sera souvent encore meilleure.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les erreurs fréquentes et comment les corriger",
+      "intro": "Le cassoulet pardonne beaucoup de choses, à condition d'intervenir avec douceur et de garder du bouillon chaud à portée de main.",
+      "columns": [
+        "Problème",
+        "Cause probable",
+        "Solution immédiate",
+        "À retenir pour la prochaine fois"
+      ],
+      "rows": [
+        [
+          "Haricots encore durs",
+          "Haricots anciens, eau très calcaire ou cuisson insuffisante",
+          "Prolongez la cuisson dans du bouillon frémissant avant de poursuivre au four",
+          "Achetez des haricots récents et anticipez le trempage"
+        ],
+        [
+          "Haricots en purée",
+          "Trop de remuage ou cuisson initiale trop longue",
+          "Évitez de mélanger ; servez avec précaution",
+          "Arrêtez la précuisson quand le cœur est encore légèrement ferme"
+        ],
+        [
+          "Cassoulet trop sec",
+          "Four trop chaud ou manque de bouillon",
+          "Ajoutez quelques louches de bouillon chaud sur les bords",
+          "Cuisez à température douce et surveillez la surface"
+        ],
+        [
+          "Cassoulet trop salé",
+          "Poitrine demi-sel, confit et bouillon cumulés",
+          "Allongez avec un peu d'eau chaude non salée et davantage de haricots si possible",
+          "Dessalez le porc et ne salez qu'après dégustation"
+        ],
+        [
+          "Jus trop gras",
+          "Confit très riche ou trop de graisse ajoutée",
+          "Retirez délicatement une partie du gras en surface après repos",
+          "Utilisez la graisse de canard avec parcimonie"
+        ],
+        [
+          "Saucisse éclatée",
+          "Cuisson vive ou trop longue à la poêle",
+          "Laissez-la entière ou coupez-la en gros morceaux, puis cuisez doucement",
+          "Faites-la seulement colorer avant le four"
+        ]
+      ],
+      "note": "N'ajoutez pas de farine ou de fécule pour épaissir : l'amidon libéré par les haricots suffit lorsque la cuisson est assez longue."
+    },
+    {
+      "type": "prose",
+      "heading": "Comment servir, conserver et réchauffer le cassoulet",
+      "html": "<p>Servez le cassoulet très chaud, directement dans son plat, avec une simple salade verte à la vinaigrette moutardée pour apporter de la fraîcheur. Le pain de campagne est bienvenu pour recueillir le jus, mais évitez de multiplier les accompagnements : le cassoulet est un plat complet et particulièrement nourrissant.</p><p>Pour le vin, cherchez plutôt de la fraîcheur et des tanins souples qu'une puissance excessive. Un rouge du Sud-Ouest ou du Languedoc, servi sans être trop chaud, accompagne naturellement le canard et la saucisse. Une eau pétillante et une salade suffisent aussi à alléger le repas.</p><p>Conservé au réfrigérateur dans un contenant couvert, le cassoulet se garde généralement 2 à 3 jours. Réchauffez-le au four à couvert au début, puis découvert en fin de cuisson pour reformer une légère croûte. Pour une sécurité alimentaire optimale, le cœur du plat doit être bien chaud avant le service.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la différence entre un cassoulet toulousain et un cassoulet de Castelnaudary ?",
+      "a_html": "<p>Les frontières entre recettes sont souples et les familles ont leurs habitudes. Le cassoulet toulousain met généralement à l'honneur la saucisse de Toulouse, le confit de canard ou d'oie et le porc. Le cassoulet de Castelnaudary est souvent présenté comme la référence historique et accorde une place importante au porc et aux haricots du Lauragais.</p><p>Dans les deux cas, les fondamentaux restent les mêmes : bons haricots blancs, bouillon parfumé, cuisson longue et surface légèrement gratinée.</p>"
+    },
+    {
+      "q": "Peut-on préparer le cassoulet toulousain entièrement la veille ?",
+      "a_html": "<p>Oui, et c'est même une excellente option. Réalisez la cuisson, laissez le plat tiédir, puis placez-le au frais sans dépasser deux heures à température ambiante. Le lendemain, réchauffez-le lentement au four avec un peu de bouillon chaud si nécessaire.</p><p>Ce repos permet aux viandes, aux haricots et au jus de mieux s'harmoniser. La saucisse et le confit supportent très bien ce second passage au four.</p>"
+    },
+    {
+      "q": "Peut-on utiliser des haricots en boîte pour un cassoulet ?",
+      "a_html": "<p>Oui, pour une version plus rapide, à condition de choisir des haricots blancs nature en conserve et de les rincer. Diminuez alors le bouillon et le temps de cuisson : les haricots déjà cuits doivent seulement s'imprégner du jus sans se déliter.</p><p>Le résultat sera moins crémeux et moins traditionnel qu'avec des haricots secs, mais il peut être savoureux pour un repas improvisé.</p>"
+    },
+    {
+      "q": "Faut-il mettre de la chapelure sur le cassoulet ?",
+      "a_html": "<p>Ce n'est pas obligatoire. La croûte recherchée se forme naturellement grâce au jus réduit, aux haricots et à la graisse. Une fine touche de chapelure existe dans certaines pratiques domestiques, mais une couche épaisse donnerait une texture éloignée du cassoulet traditionnel.</p>"
+    },
+    {
+      "q": "Pourquoi mes haricots restent-ils durs après des heures de cuisson ?",
+      "a_html": "<p>Le plus souvent, les haricots sont trop anciens ou ont été conservés longtemps. Une eau très calcaire peut aussi ralentir leur attendrissement. Faites-les tremper, cuisez-les à frémissement et évitez les ingrédients acides pendant leur cuisson.</p><p>Si les haricots résistent encore, poursuivez leur cuisson dans le bouillon avant de les mettre au four : la chaleur sèche du four ne résoudra pas le problème.</p>"
+    },
+    {
+      "q": "Quelle quantité de cassoulet prévoir par personne ?",
+      "a_html": "<p>Avec 500 g de haricots secs et environ 1,5 à 1,8 kg de viandes, comptez 6 portions très généreuses ou 8 portions confortables, surtout si vous servez une entrée légère et une salade. Pour un grand repas, mieux vaut préparer un peu trop : le cassoulet se réchauffe très bien.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Un authentique cassoulet toulousain maison demande surtout de l'organisation : des haricots secs de qualité, des viandes bien choisies, un bouillon peu salé et une cuisson patiente. Ne cherchez pas la perfection dès la première tentative : surveillez l'humidité, goûtez, ajustez et laissez le plat reposer. C'est ainsi qu'un simple repas devient un moment de table généreux, fidèle à l'esprit du Sud-Ouest.</p>",
+  "__slug": "comment-preparer-un-authentique-cassoulet-toulousain"
+}

@@ -1,0 +1,237 @@
+{
+  "title": "Cave à vin : quelle température choisir pour bien conserver vos bouteilles ?",
+  "meta_description": "Quelle température régler dans une cave à vin ? Repères par vin, humidité, réglages et conseils pour préserver vos bouteilles longtemps en toute sérénité.",
+  "reading_time_min": 9,
+  "hero_intro": "Une bouteille bien conservée ne demande pas une température compliquée, mais une température stable. Entre la cave de vieillissement, l’armoire de service et le simple coin frais de la maison, le bon réglage dépend surtout de votre objectif : faire évoluer vos vins ou les déguster bientôt. Voici les repères fiables pour protéger vos bouteilles, leurs arômes et leurs bouchons.",
+  "key_takeaways": [
+    "Pour faire vieillir la plupart des vins, visez une température stable autour de 12 °C, avec une plage généralement adaptée de 10 à 14 °C.",
+    "La température de conservation n’est pas la température de service : un rouge se conserve frais, puis se tempère avant dégustation.",
+    "Une hygrométrie située idéalement entre 60 et 75 % aide à préserver les bouchons en liège sans favoriser excessivement moisissures et étiquettes abîmées.",
+    "Les variations brutales de température, la lumière, les vibrations et l’air trop sec sont souvent plus dommageables qu’un écart ponctuel de quelques degrés.",
+    "Si vous ne possédez qu’une cave à une zone, 12 °C constitue le compromis le plus simple pour une collection variée. Autour de 250 à 600 €, une petite cave de service est souvent accessible ; une vraie cave de vieillissement coûte habituellement davantage."
+  ],
+  "toc": [
+    "Température de conservation et température de service : ne pas les confondre",
+    "La bonne température pour conserver chaque type de vin",
+    "Pourquoi la stabilité compte plus qu’un réglage au dixième de degré",
+    "Cave de vieillissement ou cave de service : laquelle choisir ?",
+    "Humidité, lumière et vibrations : les autres conditions essentielles",
+    "Régler et installer sa cave à vin en 6 étapes",
+    "Choisir son équipement selon ses bouteilles et son budget"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Température de conservation et température de service : ne pas les confondre",
+      "html": "<p>La question « à quelle température conserver le vin ? » appelle une réponse différente de celle de la température à laquelle le servir. Pour le vieillissement, l’objectif est de ralentir et d’harmoniser l’évolution du vin. Une température fraîche et régulière, proche de <strong>12 °C</strong>, convient ainsi à une grande majorité des bouteilles, qu’elles soient rouges, blanches, rosées ou effervescentes.</p><p>La température de service, elle, est choisie pour mettre en valeur les arômes et la texture au moment de la dégustation. Un champagne servi très frais peut être délicieux vers 8 °C, tandis qu’un rouge puissant s’exprime plutôt aux environs de 16 à 18 °C. Cela ne signifie pas qu’il faut entreposer ce rouge à 18 °C pendant des années : une conservation durable à cette température accélère son vieillissement.</p><p>En pratique, une <strong>cave de vieillissement</strong> maintient une seule température pour toute la collection. Une <strong>cave de service</strong>, parfois à plusieurs zones, prépare les bouteilles à boire. Les deux appareils peuvent être complémentaires, mais ils ne répondent pas exactement au même besoin.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les repères à garder en tête",
+      "points": [
+        "Pour une cave contenant des vins variés, réglez de préférence à 12 °C.",
+        "Une plage de 10 à 14 °C est généralement sûre pour le vieillissement, à condition d’être stable.",
+        "Évitez de laisser des bouteilles de garde dans une cuisine, une véranda, un garage très chaud ou près d’un radiateur.",
+        "Un écart lent et modéré est moins préoccupant qu’une alternance fréquente entre chaud et froid.",
+        "Ne cherchez pas à reproduire les températures de service dans une cave destinée à la conservation longue."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quelle température pour conserver les différents vins ?",
+      "intro": "Pour une conservation de plusieurs mois ou années, les plages ci-dessous offrent des repères simples. Dans une cave unique, le réglage commun à 12 °C reste le choix le plus polyvalent.",
+      "columns": [
+        "Type de vin",
+        "Température de conservation conseillée",
+        "Conseil pratique"
+      ],
+      "rows": [
+        [
+          "Rouges de garde",
+          "12 à 14 °C",
+          "12 °C convient très bien si la cave contient aussi des blancs."
+        ],
+        [
+          "Rouges légers, rosés et vins blancs secs",
+          "10 à 12 °C",
+          "Évitez surtout les zones chaudes et les variations saisonnières."
+        ],
+        [
+          "Blancs liquoreux et vins moelleux",
+          "10 à 12 °C",
+          "Une fraîcheur stable préserve leur équilibre sur la durée."
+        ],
+        [
+          "Champagnes et autres effervescents",
+          "10 à 12 °C",
+          "Conservez-les à l’abri de la lumière ; rafraîchissez-les avant de servir."
+        ],
+        [
+          "Vins naturels ou peu sulfités",
+          "10 à 13 °C",
+          "La stabilité thermique est particulièrement utile ; suivez aussi les recommandations du producteur."
+        ],
+        [
+          "Spiritueux et bouteilles ouvertes",
+          "Pas dans une cave de vieillissement",
+          "Ils se gardent généralement debout, dans un placard frais et sombre."
+        ],
+        [
+          "Tous styles mélangés",
+          "Environ 12 °C",
+          "Le compromis le plus serein pour une collection hétérogène."
+        ]
+      ],
+      "note": "Ces valeurs sont des repères de conservation. L’état initial de la bouteille, la qualité du bouchage et la régularité des conditions comptent tout autant."
+    },
+    {
+      "type": "prose",
+      "heading": "Pourquoi la stabilité compte plus qu’un réglage au dixième de degré",
+      "html": "<p>Il n’est pas nécessaire de régler votre cave à 12,0 °C et de surveiller son affichage chaque jour. Le vin tolère un léger écart, notamment lors de l’ouverture de la porte. Le vrai ennemi est l’<strong>instabilité répétée</strong> : une pièce qui passe de 10 °C l’hiver à plus de 25 °C l’été, ou un appareil mal ventilé dont la température fait constamment le yo-yo.</p><p>Une chaleur durable accélère les réactions chimiques dans la bouteille. Le vin peut alors évoluer trop vite, perdre de sa fraîcheur et offrir des arômes fatigués avant l’heure. À l’inverse, un froid important ne fait pas mieux vieillir le vin : il ralentit fortement son évolution et, s’il est extrême, peut pousser le bouchon ou endommager la bouteille.</p><p>Retenez aussi qu’une armoire à vin placée dans un local à 28 °C en été devra beaucoup travailler pour tenir 12 °C. Vérifiez toujours la plage de température ambiante prévue par le fabricant. Une cave installée dans une pièce tempérée, à distance d’une source de chaleur, sera plus silencieuse, plus économe et plus régulière.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Cave de vieillissement ou cave de service : faites le bon choix",
+      "intro": "Avant de choisir un appareil ou son réglage, identifiez ce que vous attendez réellement de vos bouteilles.",
+      "left": {
+        "title": "Cave de vieillissement",
+        "points": [
+          "Une température unique, souvent réglable autour de 10 à 14 °C.",
+          "Conçue pour conserver les bouteilles plusieurs années dans un environnement stable.",
+          "Intéressante si vous achetez des vins de garde, constituez une collection ou manquez de vraie cave enterrée.",
+          "Privilégiez l’hygrométrie, la filtration de l’air, une bonne isolation et de faibles vibrations.",
+          "Les bouteilles restent couchées, étiquetées et peu manipulées."
+        ]
+      },
+      "right": {
+        "title": "Cave de service",
+        "points": [
+          "Une ou plusieurs zones de température pour amener les vins à boire au bon degré.",
+          "Pratique pour les repas, les apéritifs et les bouteilles consommées dans les semaines ou mois à venir.",
+          "Une zone basse peut accueillir blancs et bulles, une zone plus haute les rouges prêts à servir.",
+          "Elle peut dépanner pour conserver, mais n’offre pas toujours les mêmes garanties sur l’humidité et la stabilité à long terme.",
+          "Son esthétique et son accès facile en font souvent un équipement de cuisine ou de salle à manger."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L’erreur classique : régler les rouges « à température ambiante »",
+      "html": "<p>La notion de température ambiante date d’intérieurs bien plus frais qu’aujourd’hui. Dans un logement chauffé à 20 ou 22 °C, un rouge ne doit pas être stocké durablement à cette température. Conservez-le autour de 12 °C, puis sortez-le à l’avance pour qu’il atteigne sa température de service. Un rouge très tannique servi trop chaud paraît souvent plus alcooleux et moins équilibré.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "À quelle température servir le vin ?",
+      "intro": "Ces températures concernent la dégustation, après avoir sorti la bouteille de sa cave de conservation. Adaptez-les légèrement au style précis du vin et à vos préférences.",
+      "columns": [
+        "Vin à déguster",
+        "Température de service indicative",
+        "Bon réflexe"
+      ],
+      "rows": [
+        [
+          "Champagne, crémant, prosecco",
+          "6 à 10 °C",
+          "Servez plus frais pour l’apéritif, un peu moins frais pour une cuvée complexe."
+        ],
+        [
+          "Blanc vif, rosé sec",
+          "8 à 10 °C",
+          "Sortez-le peu avant le repas ; trop froid, il devient discret au nez."
+        ],
+        [
+          "Blanc ample, blanc de Bourgogne, moelleux",
+          "10 à 13 °C",
+          "Laissez-le se réchauffer doucement dans le verre si nécessaire."
+        ],
+        [
+          "Rouge léger, beaujolais, pinot noir souple",
+          "12 à 15 °C",
+          "Un bref passage au frais peut être utile en été."
+        ],
+        [
+          "Rouge structuré, bordeaux, syrah, grenache",
+          "15 à 18 °C",
+          "Ouvrez ou carafez selon le vin, mais évitez les 20 °C et plus."
+        ]
+      ],
+      "note": "La température idéale se juge aussi dans le verre : mieux vaut un vin légèrement trop frais, qui se réchauffera, qu’un vin trop chaud, difficile à rafraîchir sans le brusquer."
+    },
+    {
+      "type": "prose",
+      "heading": "Humidité, lumière et vibrations : les autres conditions essentielles",
+      "html": "<p>La température ne fait pas tout. Pour les bouteilles bouchées au liège, une hygrométrie comprise en général entre <strong>60 et 75 %</strong> est un bon objectif. Un air très sec peut, à la longue, dessécher la partie extérieure du bouchon et fragiliser son étanchéité. À l’inverse, une humidité excessivement élevée favorise moisissures et étiquettes détériorées, même si le vin lui-même reste protégé.</p><p>Rangez les bouteilles à l’abri de la lumière, particulièrement des rayons directs du soleil et des éclairages intenses. Les vins blancs et les effervescents y sont sensibles, mais tous gagnent à être conservés dans l’obscurité. Les portes vitrées d’armoires à vin sont utiles si elles disposent d’un filtre anti-UV ; elles ne dispensent pas de placer l’appareil loin d’une baie très ensoleillée.</p><p>Enfin, limitez les vibrations et les manipulations. Un compresseur moderne de qualité produit normalement peu de vibrations, mais évitez de transformer les clayettes en espace de rangement désordonné. Les bouteilles avec bouchon en liège se stockent couchées pour maintenir le contact du vin avec le bouchon. Celles à capsule à vis peuvent rester couchées ou debout, selon l’organisation qui vous convient.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Régler et installer votre cave à vin en 6 étapes",
+      "intro": "Que vous utilisiez une armoire électrique ou une cave naturelle, cette méthode évite les erreurs les plus fréquentes.",
+      "steps": [
+        {
+          "title": "Faites l’inventaire de vos bouteilles",
+          "html": "<p>Distinguez les vins à boire dans l’année des bouteilles que vous souhaitez attendre. Si vous avez surtout des rouges et blancs de garde, une température unique de 12 °C est adaptée. Si vous recevez souvent, une cave de service à deux zones peut être plus pratique.</p>"
+        },
+        {
+          "title": "Choisissez un emplacement tempéré",
+          "html": "<p>Préférez une pièce peu exposée au soleil, éloignée du four, d’un radiateur, d’une chaudière et d’un mur très chaud. Laissez les espaces de ventilation recommandés autour de l’appareil, surtout pour un modèle à pose libre.</p>"
+        },
+        {
+          "title": "Réglez une température simple et stable",
+          "html": "<p>Commencez par 12 °C pour une cave de conservation mixte. Ne modifiez pas le réglage au gré des bouteilles que vous achetez : la cohérence de l’environnement est plus utile qu’une optimisation permanente.</p>"
+        },
+        {
+          "title": "Laissez l’appareil se stabiliser",
+          "html": "<p>Après l’installation ou un déplacement, attendez que la température se régularise avant d’y placer vos bouteilles les plus précieuses. Un thermomètre-hygromètre indépendant peut aider à contrôler les conditions réelles.</p>"
+        },
+        {
+          "title": "Rangez avec méthode",
+          "html": "<p>Couchez les bouteilles à bouchon de liège, classez-les par période de consommation et gardez une liste simple de votre stock. Vous éviterez de chercher longtemps une bouteille et de déplacer inutilement les autres.</p>"
+        },
+        {
+          "title": "Entretenez sans excès",
+          "html": "<p>Nettoyez l’intérieur périodiquement, vérifiez les joints de porte et remplacez le filtre à charbon actif lorsqu’il est prévu par le fabricant. Ouvrez la porte le moins longtemps possible, sans pour autant craindre les ouvertures normales du quotidien.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Si vous n’avez pas de cave à vin",
+      "html": "<p>Un placard intérieur frais, sombre et peu soumis aux écarts de température peut convenir pour des bouteilles destinées à être bues dans les mois qui viennent. Posez-les loin de la cuisine et du chauffage, idéalement couchées si elles ont un bouchon en liège. Pour des vins coûteux ou conçus pour vieillir plusieurs années, une armoire adaptée ou un professionnel du stockage reste plus rassurant.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Choisir son équipement selon ses bouteilles et son budget",
+      "html": "<p>Le bon volume n’est pas seulement celui que vous pouvez remplir aujourd’hui : comptez une marge pour vos futurs achats et pour les formats larges. Les capacités annoncées sont souvent calculées avec des bouteilles bordelaises standard. Des flacons de champagne, de bourgogne ou de riesling prennent davantage de place et peuvent réduire sensiblement la capacité réelle.</p><p>À titre d’ordre de grandeur, une petite cave de service de 12 à 30 bouteilles se trouve souvent entre <strong>250 et 600 €</strong>, selon la finition, le nombre de zones et le niveau sonore. Pour une armoire de vieillissement mieux isolée, équipée d’un contrôle plus poussé de l’humidité et prévue pour 100 bouteilles ou davantage, le budget se situe fréquemment entre <strong>700 et 2 000 €</strong>, voire plus pour les grandes capacités et l’encastrable.</p><p>Au-delà du prix, examinez la classe climatique, le niveau sonore, la consommation, le sens d’ouverture de porte, la qualité des clayettes et la présence d’une alarme de température. Une belle porte vitrée ne compense pas une installation dans un lieu inadapté. Mieux vaut un modèle simple, bien ventilé et correctement placé qu’un appareil sophistiqué exposé à la chaleur.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la température idéale pour une cave à vin de vieillissement ?",
+      "a_html": "<p>Pour une collection variée, <strong>12 °C</strong> est la référence la plus simple. Une plage stable de 10 à 14 °C convient généralement à la conservation des rouges, blancs, rosés et effervescents. La régularité est plus importante que le fait d’atteindre un chiffre exact.</p>"
+    },
+    {
+      "q": "Peut-on conserver du vin à 18 °C ?",
+      "a_html": "<p>À 18 °C de manière ponctuelle, une bouteille ne sera pas forcément abîmée. En revanche, une conservation de plusieurs mois ou années à cette température est trop chaude pour la plupart des vins : elle accélère leur évolution et peut réduire leur potentiel de garde.</p><p>Si votre logement est à 18 °C toute l’année et que les bouteilles sont destinées à être bues rapidement, le risque est limité. Pour les vins de garde, recherchez plutôt un espace autour de 12 à 14 °C.</p>"
+    },
+    {
+      "q": "Quelle humidité faut-il dans une cave à vin ?",
+      "a_html": "<p>Visez idéalement une hygrométrie d’environ <strong>60 à 75 %</strong> pour les bouteilles fermées par un bouchon en liège. Sous 50 %, l’air peut devenir trop sec sur la durée. Au-delà de 80 %, surveillez l’apparition de moisissures et l’état des étiquettes.</p><p>Une humidité imparfaite sur une courte période est moins inquiétante qu’une chaleur excessive ou des variations fréquentes de température.</p>"
+    },
+    {
+      "q": "Faut-il conserver le champagne à 6 °C dans une cave à vin ?",
+      "a_html": "<p>Non : 6 à 10 °C est surtout une température de <strong>service</strong>. Pour une conservation longue, un champagne se garde très bien autour de 10 à 12 °C, à l’abri de la lumière. Placez-le au réfrigérateur ou dans une zone froide de votre cave de service seulement avant la dégustation.</p>"
+    },
+    {
+      "q": "Comment conserver du vin sans cave électrique ?",
+      "a_html": "<p>Choisissez l’endroit le plus frais, sombre, calme et constant du logement : placard intérieur, sous-sol sain ou cellier non chauffé. Évitez les garages qui surchauffent l’été, les cuisines et les pièces près d’une baie vitrée.</p><p>Cette solution convient surtout à des bouteilles à boire assez vite. Pour un grand cru ou des vins à conserver longtemps, un stockage professionnel ou une cave de vieillissement apporte davantage de sécurité.</p>"
+    },
+    {
+      "q": "Pourquoi ma cave à vin affiche-t-elle une température différente selon les étagères ?",
+      "a_html": "<p>Un léger gradient thermique est normal, surtout dans une cave de service à plusieurs zones ou après l’ouverture de la porte. Vérifiez avec un thermomètre indépendant et évitez de surcharger les grilles de ventilation.</p><p>Si l’écart est durable et important dans une cave de vieillissement, contrôlez l’emplacement de l’appareil, la fermeture de la porte et les consignes du fabricant. Un appareil installé dans une pièce trop chaude peut aussi peiner à maintenir une température homogène.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour conserver vos bouteilles dans de bonnes conditions, retenez une règle simple : <strong>12 °C, de la stabilité et de l’obscurité</strong>. Ajoutez une hygrométrie raisonnable, peu de vibrations et un rangement couché pour les bouchons en liège, et vous offrez à vos vins un environnement protecteur.</p><p>Ensuite, adaptez la température uniquement au moment de servir. Cette distinction entre conservation et dégustation vous permet de profiter de chaque bouteille au bon moment, sans compliquer inutilement la gestion de votre cave.</p>",
+  "__slug": "cave-a-vin-savez-vous-a-quelle-temperature-conserver-vos-bouteilles"
+}

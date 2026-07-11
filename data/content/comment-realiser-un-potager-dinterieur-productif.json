@@ -1,0 +1,246 @@
+{
+  "title": "Comment créer un potager d'intérieur productif, même en appartement",
+  "meta_description": "Créez un potager d'intérieur productif : plantes faciles, lumière, matériel, arrosage et astuces pour récolter frais toute l'année, même en appartement.",
+  "reading_time_min": 11,
+  "hero_intro": "Pas de jardin, peu de place ou envie de cueillir du basilic en plein hiver ? Un potager d'intérieur peut devenir une source régulière d'herbes, de jeunes pousses et de légumes-feuilles, à condition de respecter quelques règles simples. Lumière, choix des cultures, arrosage et espace disponible : voici comment construire une installation vraiment productive, sans la transformer en laboratoire.",
+  "key_takeaways": [
+    "Commencez par des cultures rapides et tolérantes : basilic, persil, ciboulette, roquette, laitue à couper et micro-pousses offrent les récoltes les plus accessibles.",
+    "La lumière est le premier facteur de réussite : une fenêtre très lumineuse suffit parfois, mais une lampe horticole LED devient indispensable pour produire régulièrement en hiver.",
+    "Privilégiez des pots percés, un terreau aéré et un arrosage mesuré : les racines souffrent bien plus souvent d'un excès d'eau que d'un manque ponctuel.",
+    "Pour une récolte continue, semez peu mais souvent, échelonnez les plantations et cueillez les feuilles sans épuiser la plante.",
+    "Un petit potager en terreau peut démarrer avec un budget modeste ; les systèmes hydroponiques ou automatisés sont surtout un choix de confort et de régularité."
+  ],
+  "toc": [
+    "Définir un objectif réaliste pour son potager d'intérieur",
+    "Choisir les plantes les plus productives selon son espace",
+    "Lumière naturelle ou lampe LED : la décision qui change tout",
+    "Installer le potager pas à pas",
+    "Maîtriser le substrat, l'arrosage et la nutrition",
+    "Terreau ou hydroponie : quelle méthode choisir ?",
+    "Prévoir son budget et rentabiliser l'espace",
+    "Récolter, prévenir les problèmes et relancer les cultures"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Définir un objectif réaliste pour son potager d'intérieur",
+      "html": "<p>Un potager d'intérieur productif ne signifie pas nécessairement l'autonomie en légumes. Dans un logement, l'objectif le plus réaliste et le plus gratifiant est de produire régulièrement des aromatiques, des salades à couper, des jeunes pousses et quelques petits fruits ou légumes. Ces récoltes améliorent vraiment la cuisine du quotidien tout en restant compatibles avec un rebord de fenêtre, une étagère ou un coin de plan de travail.</p><p>Avant d'acheter le moindre pot, observez votre espace pendant quelques jours. Une fenêtre orientée au sud ou à l'ouest peut recevoir plusieurs heures de soleil direct ; une fenêtre au nord reste utile pour certaines plantes vertes, mais rarement pour un potager nourricier sans éclairage complémentaire. Mesurez aussi la largeur disponible, la proximité d'un radiateur, la présence de courants d'air et l'accès à une prise électrique si vous envisagez une lampe.</p><p>La meilleure stratégie consiste à commencer avec <strong>trois à cinq contenants</strong> et deux ou trois espèces seulement. Vous apprendrez ainsi à lire l'humidité du terreau et la réaction des plantes à votre lumière. Une fois cette première routine stabilisée, vous pourrez ajouter une étagère de culture, faire des semis échelonnés ou tenter des cultures plus exigeantes comme les tomates cerises naines.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les cultures les plus adaptées à un potager d'intérieur",
+      "intro": "Choisissez des plantes dont la vitesse de croissance et les besoins correspondent réellement à votre niveau de lumière.",
+      "columns": [
+        "Culture",
+        "Récolte et productivité",
+        "Profondeur de pot conseillée",
+        "Niveau de difficulté"
+      ],
+      "rows": [
+        [
+          "Basilic, ciboulette, persil, coriandre",
+          "Cueillettes répétées pendant plusieurs semaines ou mois",
+          "15 à 20 cm",
+          "Facile à intermédiaire"
+        ],
+        [
+          "Roquette, mesclun, laitue à couper, épinard jeune",
+          "Premières feuilles souvent en 3 à 6 semaines ; plusieurs coupes possibles",
+          "12 à 18 cm",
+          "Facile"
+        ],
+        [
+          "Micro-pousses de radis, pois, tournesol",
+          "Récolte unique mais très rapide, souvent en 7 à 14 jours",
+          "3 à 6 cm",
+          "Très facile"
+        ],
+        [
+          "Radis courts",
+          "Récolte ponctuelle en général après 4 à 6 semaines selon les conditions",
+          "15 à 20 cm",
+          "Intermédiaire"
+        ],
+        [
+          "Piment compact, tomate cerise naine",
+          "Production étalée, mais demande beaucoup de lumière et parfois une pollinisation manuelle",
+          "25 à 35 cm ou plus",
+          "Avancé"
+        ],
+        [
+          "Menthe",
+          "Très généreuse, à contenir dans son propre pot",
+          "18 à 25 cm",
+          "Facile"
+        ]
+      ],
+      "note": "Les délais dépendent surtout de la variété, de la température et de l'intensité lumineuse. Pour débuter, les aromatiques, salades à couper et micro-pousses sont les options les plus fiables."
+    },
+    {
+      "type": "comparison",
+      "heading": "Lumière naturelle ou lampe horticole LED ?",
+      "intro": "La bonne solution dépend moins de la taille de votre appartement que de la quantité de lumière réellement reçue par les plantes.",
+      "left": {
+        "title": "Près d'une fenêtre lumineuse",
+        "points": [
+          "Solution sans consommation électrique supplémentaire.",
+          "Convient bien aux herbes aromatiques, jeunes salades et micro-pousses au printemps et en été.",
+          "Placez les pots au plus près de la vitre sans les coller à un verre froid en hiver.",
+          "La production peut ralentir fortement lors des journées courtes, couvertes ou si la fenêtre est peu exposée."
+        ]
+      },
+      "right": {
+        "title": "Sous lampe horticole LED",
+        "points": [
+          "Apporte une lumière régulière toute l'année, même loin d'une fenêtre.",
+          "Particulièrement utile pour le basilic, les semis, les salades d'hiver et les plantes à fruits.",
+          "Prévoyez généralement 12 à 16 heures d'éclairage quotidien avec une minuterie.",
+          "Représente un achat initial et une petite consommation d'électricité, mais rend une étagère réellement exploitable."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Installer une lumière suffisante sans compliquer son quotidien",
+      "html": "<p>En intérieur, une plante peut sembler vivante tout en ne produisant presque rien. Des tiges longues et fragiles, des feuilles pâles, des semis qui s'étirent ou un basilic qui végète sont souvent des signes de lumière insuffisante. Pour un potager, visez une lumière forte et régulière plutôt qu'un simple emplacement « clair » à l'œil humain.</p><p>Une lampe horticole LED à spectre adapté constitue le moyen le plus simple de fiabiliser les récoltes. Pour une petite étagère d'aromatiques ou de salades, un éclairage LED réellement dimensionné pour la surface cultivée est généralement plus pertinent qu'une ampoule décorative très faible. Suivez la hauteur indiquée par le fabricant : elle se situe souvent à quelques dizaines de centimètres au-dessus du feuillage. Trop loin, la lumière perd en efficacité ; trop près, elle peut chauffer ou marquer les feuilles.</p><p>Installez une minuterie dès le départ. Elle évite les oublis et respecte une période d'obscurité utile aux plantes. Une durée de 12 à 14 heures est une base confortable pour beaucoup d'herbes et de légumes-feuilles ; les cultures très gourmandes en lumière peuvent demander davantage, sans dépasser inutilement une longue journée artificielle. Tournez les pots placés à la fenêtre une ou deux fois par semaine pour conserver une croissance équilibrée.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Monter un premier potager d'intérieur en une après-midi",
+      "intro": "Une installation simple, propre et évolutive vaut mieux qu'un grand projet abandonné après deux semaines.",
+      "steps": [
+        {
+          "title": "Choisissez un emplacement stable",
+          "html": "<p>Préférez une étagère, un rebord large ou une desserte proche d'une fenêtre. Évitez le dessus d'un radiateur, les zones très sombres et les passages où les pots risquent d'être heurtés. Protégez le meuble avec des soucoupes ou un plateau étanche.</p>"
+        },
+        {
+          "title": "Préparez des contenants avec drainage",
+          "html": "<p>Utilisez des pots percés ou des jardinières avec trous d'évacuation. Ajoutez une soucoupe et videz l'eau qui y stagne. Un pot sans trou est l'une des causes les plus fréquentes de perte de plantes en intérieur.</p>"
+        },
+        {
+          "title": "Remplissez avec un substrat léger",
+          "html": "<p>Un terreau de qualité pour potager, semis ou plantes comestibles convient. Pour l'aérer davantage, vous pouvez y incorporer une petite part de matière drainante adaptée. Ne tassez pas fortement : les racines ont besoin d'eau, mais aussi d'air.</p>"
+        },
+        {
+          "title": "Semez ou plantez sans surcharger",
+          "html": "<p>Semez en respectant autant que possible l'espacement du sachet. Pour un résultat immédiat, achetez un ou deux plants d'aromatiques sains et complétez par des semis de roquette ou de micro-pousses. Étiquetez chaque pot avec le nom et la date de semis.</p>"
+        },
+        {
+          "title": "Créez une routine de cinq minutes",
+          "html": "<p>Chaque jour ou tous les deux jours, observez les feuilles et touchez le premier centimètre de terreau. Chaque semaine, récoltez, retirez les feuilles abîmées et vérifiez que l'eau ne stagne pas dans les soucoupes.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le geste qui transforme une culture ponctuelle en récolte continue",
+      "html": "<p>Ne semez pas tous vos sachets le même jour. Semez une petite barquette de roquette, laitue à couper ou micro-pousses toutes les une à deux semaines. Vous éviterez d'avoir trop à récolter d'un coup, puis plus rien pendant un mois. Pour les aromatiques, prélevez régulièrement les extrémités des tiges : cela favorise souvent la ramification.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Maîtriser le substrat, l'arrosage et la nutrition",
+      "html": "<p>Le terreau doit rester légèrement humide, jamais détrempé. Au lieu d'arroser selon un calendrier rigide, enfoncez un doigt dans le substrat : s'il est sec sur le premier ou les deux premiers centimètres, arrosez doucement autour du pied. Si la terre est encore fraîche et humide, attendez. Les besoins varient avec la chaleur, la lumière, la taille du pot et le stade de développement.</p><p>Arrosez de préférence avec une eau à température ambiante et sans noyer le feuillage. Un arrosage lent permet au substrat d'absorber l'eau sans la faire ruisseler. Après quelques minutes, retirez l'excédent présent dans la soucoupe. Une humidité permanente autour des racines favorise le jaunissement, la pourriture et les petits moucherons du terreau.</p><p>Un terreau neuf nourrit habituellement les cultures courtes pendant leurs premières semaines. Pour des aromatiques conservés plusieurs mois ou des plantes fruitières, un apport modéré d'engrais organique utilisable sur plantes comestibles peut devenir utile. Respectez la dose du produit : trop fertiliser ne fait pas pousser plus vite et peut fragiliser les racines. Un compost mûr, en petite quantité, peut enrichir un mélange, mais il ne doit pas rendre le substrat compact.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Culture en terreau ou hydroponie : deux façons de cultiver chez soi",
+      "intro": "Les deux méthodes peuvent produire en intérieur. Le choix dépend surtout de votre envie d'entretien, de votre budget et du type de récolte recherché.",
+      "left": {
+        "title": "Pots et jardinières en terreau",
+        "points": [
+          "Méthode intuitive, économique et très adaptée aux débutants.",
+          "Matériel facile à trouver et large choix de contenants.",
+          "Idéale pour aromatiques, salades, radis, piments et tomates compactes.",
+          "Demande de surveiller l'arrosage et peut attirer des moucherons si le terreau reste trop humide."
+        ]
+      },
+      "right": {
+        "title": "Système hydroponique domestique",
+        "points": [
+          "Les racines poussent dans l'eau enrichie en nutriments, souvent sous éclairage intégré.",
+          "Peut simplifier l'arrosage et offrir une croissance régulière pour les herbes et jeunes feuilles.",
+          "Coût d'achat plus élevé et nécessité de suivre le niveau d'eau, les nutriments et le nettoyage.",
+          "Moins adapté si vous souhaitez expérimenter librement avec de grands plants ou limiter les équipements électriques."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Quel budget prévoir pour démarrer ?",
+      "intro": "Vous n'avez pas besoin d'un kit sophistiqué pour obtenir vos premières récoltes. Voici des ordres de grandeur habituellement constatés pour une petite installation.",
+      "columns": [
+        "Équipement",
+        "Option économique",
+        "Option plus confortable",
+        "À vérifier avant l'achat"
+      ],
+      "rows": [
+        [
+          "Pots, jardinières et soucoupes",
+          "Environ 10 à 25 € en récupérant certains contenants adaptés",
+          "Environ 30 à 70 € pour une installation homogène sur étagère",
+          "Présence de trous de drainage et volume adapté aux plantes"
+        ],
+        [
+          "Terreau, graines et premiers plants",
+          "Environ 15 à 35 €",
+          "Environ 30 à 60 € avec plusieurs variétés et étiquettes",
+          "Terreau utilisable pour cultures comestibles et dates des graines"
+        ],
+        [
+          "Éclairage LED et minuterie",
+          "0 € si fenêtre très ensoleillée ; sinon souvent autour de 30 à 70 € pour une petite surface",
+          "Souvent autour de 80 à 200 € ou plus pour une étagère mieux équipée",
+          "Surface couverte, distance conseillée, puissance réelle et réglage horaire"
+        ],
+        [
+          "Système hydroponique de table",
+          "Non nécessaire pour débuter",
+          "Souvent entre 70 et 250 € selon la taille et les fonctions",
+          "Disponibilité des consommables, capacité, facilité de nettoyage"
+        ]
+      ],
+      "note": "Ces montants sont indicatifs. Un bon emplacement lumineux et une routine d'entretien ont généralement plus d'impact sur la récolte que des accessoires coûteux."
+    },
+    {
+      "type": "prose",
+      "heading": "Récolter, prévenir les problèmes et relancer les cultures",
+      "html": "<p>Récoltez tôt et souvent, mais sans dépouiller une plante. Sur le basilic, coupez une tige juste au-dessus d'une paire de feuilles plutôt que de prélever au hasard les plus grandes feuilles. Sur la roquette ou la laitue à couper, prenez les feuilles externes et laissez le cœur poursuivre sa croissance. Une coupe nette avec des ciseaux propres limite les blessures.</p><p>Inspectez le dessous des feuilles à chaque arrosage. Pucerons, aleurodes, cochenilles et acariens peuvent arriver par un plant acheté ou une fenêtre ouverte. Isolez toute plante suspecte, retirez les feuilles très atteintes et rincez délicatement les ravageurs visibles avec de l'eau. En intérieur, la prévention est plus efficace que les traitements : espace entre les pots, outils propres, feuillage non constamment mouillé et quarantaine des nouvelles plantes.</p><p>Acceptez aussi le cycle naturel des cultures. Les micro-pousses et les radis se récoltent une fois puis laissent la place à un nouveau semis. Les salades à couper produisent plusieurs fois avant de monter en graines. Dès qu'un pot s'épuise, videz-le, nettoyez-le et repartez avec du terreau renouvelé ou enrichi. Cette rotation maintient un potager propre, productif et agréable à suivre.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les erreurs qui font échouer la plupart des potagers d'intérieur",
+      "html": "<ul><li><strong>Installer trop de plantes dans un coin peu lumineux :</strong> mieux vaut quatre pots bien éclairés que dix pots qui s'étiolent.</li><li><strong>Arroser « par habitude » :</strong> vérifiez toujours l'humidité du substrat avant d'ajouter de l'eau.</li><li><strong>Choisir d'emblée des légumes très exigeants :</strong> tomates, concombres et aubergines demandent volume, lumière, chaleur et parfois pollinisation.</li><li><strong>Négliger la circulation d'air :</strong> des plantes serrées et humides sont plus vulnérables aux moisissures et aux parasites.</li><li><strong>Oublier de semer à nouveau :</strong> la productivité repose sur la succession des cultures autant que sur l'entretien.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelles plantes poussent le mieux dans un potager d'intérieur ?",
+      "a_html": "<p>Les aromatiques comme le basilic, la ciboulette, le persil, la coriandre et la menthe sont de très bonnes candidates. Les légumes-feuilles à croissance rapide, notamment la roquette, les jeunes laitues, le mesclun et les micro-pousses, donnent aussi d'excellents résultats dans peu d'espace.</p><p>Les tomates cerises naines, piments et fraisiers peuvent pousser à l'intérieur, mais ils exigent davantage de lumière, des pots plus grands et une attention plus suivie. Ils sont donc préférables après une première expérience réussie.</p>"
+    },
+    {
+      "q": "Peut-on faire un potager d'intérieur sans lampe horticole ?",
+      "a_html": "<p>Oui, si vous disposez d'une fenêtre très lumineuse, idéalement exposée au sud ou à l'ouest, surtout au printemps et en été. Placez alors les plantes au plus près de la source lumineuse et privilégiez les herbes, les jeunes salades et les micro-pousses.</p><p>En automne et en hiver, ou avec une exposition peu ensoleillée, la lampe LED horticole devient souvent nécessaire pour maintenir une croissance dense et productive. Sans elle, les plantes peuvent survivre, mais produire peu.</p>"
+    },
+    {
+      "q": "Combien d'heures de lumière faut-il à un potager d'intérieur ?",
+      "a_html": "<p>Pour la majorité des aromatiques et légumes-feuilles cultivés sous LED, une durée d'environ 12 à 16 heures par jour constitue une base courante. La durée exacte ne suffit pas : la puissance de la lampe, sa distance par rapport aux feuilles et la surface éclairée comptent tout autant.</p><p>Programmez une période d'obscurité quotidienne avec une minuterie. Laisser une lampe allumée en permanence n'améliore pas forcément la croissance et complique inutilement la gestion de l'installation.</p>"
+    },
+    {
+      "q": "Comment éviter les moucherons dans le terreau ?",
+      "a_html": "<p>Les petits moucherons se développent volontiers dans un substrat qui reste très humide. Laissez sécher légèrement la surface entre deux arrosages, videz les soucoupes, retirez les feuilles mortes et évitez les pots dépourvus de drainage.</p><p>Si le problème persiste, isolez les pots touchés et utilisez des pièges englués adaptés pour repérer les adultes. La solution durable reste de corriger l'excès d'humidité et d'améliorer l'aération du terreau.</p>"
+    },
+    {
+      "q": "Faut-il mettre de l'engrais dans un potager d'intérieur ?",
+      "a_html": "<p>Pour une culture courte semée dans un terreau neuf, l'engrais n'est pas systématiquement utile. En revanche, des aromatiques gardées longtemps, des salades récoltées à plusieurs reprises ou des plantes à fruits finissent par épuiser les réserves du pot.</p><p>Choisissez alors un engrais adapté aux plantes comestibles et utilisez-le avec parcimonie, selon les indications du fabricant. Un excès d'engrais peut brûler les racines et déséquilibrer la plante.</p>"
+    },
+    {
+      "q": "Comment polliniser une tomate cerise cultivée à l'intérieur ?",
+      "a_html": "<p>Les fleurs de tomate sont généralement autofertiles, mais elles ont besoin d'un léger mouvement pour libérer leur pollen en l'absence de vent et d'insectes. Lorsque les fleurs sont ouvertes, tapotez doucement les tiges ou utilisez un petit pinceau souple pour passer d'une fleur à l'autre.</p><p>Cette technique ne compense pas un manque de lumière : pour fructifier, un plant de tomate d'intérieur doit aussi recevoir un éclairage puissant, suffisamment de chaleur, de l'espace racinaire et une nutrition adaptée.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Un potager d'intérieur productif commence par une ambition simple : récolter souvent quelques plantes que vous utiliserez vraiment. Choisissez des cultures faciles, installez-les dans la meilleure lumière disponible, arrosez avec mesure et relancez les semis au fil des semaines.</p><p>Avec quelques pots, une poignée de graines et, si besoin, une lampe LED sur minuterie, vous pouvez transformer un petit espace en réserve fraîche de basilic, de salade et de jeunes pousses. Commencez petit, observez beaucoup, puis faites grandir votre installation à votre rythme.</p>",
+  "__slug": "comment-realiser-un-potager-dinterieur-productif"
+}

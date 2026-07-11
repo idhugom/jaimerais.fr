@@ -1,0 +1,234 @@
+{
+  "title": "Assurance auto et voiture partagée : quelle couverture choisir selon votre usage ?",
+  "meta_description": "Prêt, covoiturage, location entre particuliers ou autopartage : découvrez quelle assurance auto choisir, les garanties à vérifier et les pièges à éviter.",
+  "reading_time_min": 11,
+  "hero_intro": "Prêter sa voiture, covoiturer ou la louer entre particuliers peut réduire les dépenses automobiles et rendre un véhicule plus utile au quotidien. Mais une voiture partagée ne s'assure pas de la même manière selon qui conduit, dans quel cadre et contre rémunération ou non. Voici comment choisir une couverture adaptée, éviter les exclusions et savoir qui est indemnisé en cas d'accident.",
+  "key_takeaways": [
+    "L'assurance responsabilité civile est obligatoire, mais elle ne couvre pas automatiquement tous les conducteurs ni tous les usages de partage.",
+    "Le prêt ponctuel, le covoiturage avec partage de frais, la location rémunérée et l'autopartage en plateforme obéissent à des règles d'assurance différentes.",
+    "Avant de confier les clés, vérifiez la clause de prêt du volant, la franchise applicable, les conducteurs exclus et l'usage déclaré au contrat.",
+    "L'assurance incluse par une plateforme peut être utile, mais ses plafonds, franchises et exclusions doivent être lus avant chaque réservation.",
+    "En cas de sinistre, prévenez rapidement l'assureur ou la plateforme, conservez les preuves et remplissez un constat avec le conducteur impliqué."
+  ],
+  "toc": [
+    "Voiture partagée : de quel usage parle-t-on ?",
+    "Prêt, covoiturage ou location : les différences d'assurance",
+    "Les garanties à vérifier avant de partager sa voiture",
+    "Quelle assurance choisir selon votre situation ?",
+    "Bien lire l'assurance proposée par une plateforme",
+    "Les démarches pour assurer une voiture partagée",
+    "Prix, franchise et impact sur le bonus-malus",
+    "Que faire en cas d'accident avec une voiture partagée ?"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Voiture partagée : de quel usage parle-t-on ?",
+      "html": "<p>Le terme « voiture partagée » recouvre des réalités très différentes. Vous pouvez <strong>prêter votre véhicule à un proche</strong> de façon occasionnelle, transporter des passagers en covoiturage, louer votre voiture à un particulier, utiliser un service d'autopartage ou encore acheter un véhicule à plusieurs. Or, le niveau de risque et le contrat d'assurance à prévoir ne sont pas les mêmes.</p><p>En France, tout véhicule terrestre à moteur doit au minimum être couvert par une <strong>assurance responsabilité civile</strong>. Cette garantie indemnise les dommages causés à des tiers. Elle ne signifie pas pour autant que n'importe qui peut prendre le volant dans n'importe quelles conditions. Le contrat peut limiter le prêt de volant, majorer la franchise quand un conducteur non désigné est responsable, ou exclure certains profils et usages.</p><p>Le bon réflexe consiste donc à partir de votre pratique réelle : qui utilisera la voiture, à quelle fréquence, pour quel trajet, avec ou sans paiement, et par quel intermédiaire ? Une déclaration exacte à l'assureur est essentielle : une activité de location ou un usage professionnel non déclaré peut compliquer, voire réduire, l'indemnisation après un sinistre.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Prêt, covoiturage et location : ne les confondez pas",
+      "intro": "Le point décisif est souvent la présence d'une rémunération et le cadre dans lequel le véhicule est mis à disposition.",
+      "left": {
+        "title": "Partage non lucratif",
+        "points": [
+          "Prêt ponctuel à un ami ou à un membre de la famille, si la clause de prêt du volant l'autorise.",
+          "Covoiturage avec simple partage des frais de trajet : le conducteur ne doit pas réaliser de bénéfice.",
+          "Le contrat auto personnel reste généralement la base de la couverture.",
+          "La franchise peut être plus élevée si le conducteur n'est pas désigné au contrat."
+        ]
+      },
+      "right": {
+        "title": "Partage rémunéré ou organisé",
+        "points": [
+          "Location entre particuliers, mise à disposition régulière contre paiement ou activité assimilable à un usage professionnel.",
+          "Autopartage via un opérateur ou une plateforme disposant de ses propres garanties.",
+          "Une assurance dédiée ou celle de la plateforme est souvent nécessaire pendant la période de location.",
+          "Les conditions d'éligibilité, plafonds, exclusions et franchises doivent être contrôlés précisément."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Quelle couverture pour chaque mode de voiture partagée ?",
+      "intro": "Ce tableau donne les grandes lignes : les conditions exactes dépendent toujours de votre contrat et, le cas échéant, de la plateforme utilisée.",
+      "columns": [
+        "Situation",
+        "Couverture à envisager",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Prêt occasionnel à un proche",
+          "Contrat auto du propriétaire avec prêt du volant autorisé",
+          "Conducteur novice ou non désigné : franchise majorée ou exclusion possible."
+        ],
+        [
+          "Prêt régulier à la même personne",
+          "Ajout du conducteur comme conducteur secondaire ou désigné",
+          "Le conducteur principal déclaré doit rester celui qui utilise réellement le plus le véhicule."
+        ],
+        [
+          "Covoiturage avec partage de frais",
+          "Contrat auto habituel, avec garanties dommages adaptées à la valeur du véhicule",
+          "Pas de bénéfice : sinon l'usage peut être assimilé à du transport rémunéré."
+        ],
+        [
+          "Location entre particuliers",
+          "Assurance fournie par la plateforme ou extension/location spécifique",
+          "Vérifier la franchise, l'état des lieux, les kilomètres inclus et les exclusions."
+        ],
+        [
+          "Autopartage en libre-service",
+          "Assurance incluse dans le service pendant la réservation",
+          "Le compte doit être ouvert au nom du conducteur réel et les conditions d'âge/permis respectées."
+        ],
+        [
+          "Véhicule acheté à plusieurs",
+          "Un contrat désignant clairement le souscripteur et les conducteurs réguliers",
+          "Organiser par écrit le partage des frais, de la franchise et de l'entretien."
+        ]
+      ],
+      "note": "Les garanties proposées et les règles d'acceptation varient d'un assureur, d'une plateforme et du profil des conducteurs."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "À retenir : la carte grise ne règle pas tout",
+      "html": "<p>Être titulaire ou cotitulaire du certificat d'immatriculation ne suffit pas à être correctement assuré. L'assureur doit connaître le <strong>conducteur principal</strong> et les conducteurs réguliers. Déclarer une personne comme conducteur secondaire alors qu'elle utilise presque toujours la voiture expose à un risque de fausse déclaration.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les garanties à vérifier avant de partager sa voiture",
+      "html": "<p>La responsabilité civile reste le socle légal, mais elle protège surtout les victimes tierces. Si le conducteur à qui vous prêtez la voiture est responsable d'un accident, les réparations de votre propre véhicule ne seront indemnisées que si vous avez souscrit une formule incluant les <strong>dommages au véhicule</strong>, souvent appelée tous risques ou dommages tous accidents selon les contrats. Pour une voiture de faible valeur, une formule au tiers enrichie peut rester cohérente ; pour un véhicule récent, une protection plus large est souvent à étudier.</p><p>Examinez ensuite la <strong>clause de conduite</strong>. Certains contrats autorisent tout conducteur titulaire d'un permis valide ; d'autres prévoient une conduite exclusive, une liste de conducteurs nommés ou une restriction pour les jeunes permis. Lisez aussi les modalités de franchise : elle peut être plus élevée lorsqu'un conducteur occasionnel provoque le sinistre, ce qui change fortement l'intérêt d'un prêt.</p><p>Les garanties vol, incendie, bris de glace, assistance et protection du conducteur méritent également attention. La garantie du conducteur sert à indemniser ses blessures lorsqu'il est responsable ou qu'aucun tiers identifié ne peut l'indemniser. Quant à l'assistance, vérifiez notamment la distance de déclenchement, le véhicule de remplacement éventuel et les conditions de rapatriement. Elles peuvent faire une vraie différence lors d'une immobilisation loin de chez vous.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les questions à poser à votre assureur",
+      "points": [
+        "Le prêt du volant est-il autorisé sans restriction pour ce conducteur précis ?",
+        "Quelle franchise s'applique si un conducteur non désigné est responsable ?",
+        "Les conducteurs novices, avec peu d'ancienneté de permis ou ayant eu des sinistres sont-ils acceptés ?",
+        "Le covoiturage avec partage de frais est-il bien admis par le contrat ?",
+        "La location rémunérée entre particuliers est-elle exclue ou couverte par une extension ?",
+        "Qui supporte les conséquences sur le bonus-malus après un accident responsable ?"
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Les démarches pour assurer une voiture partagée sereinement",
+      "intro": "Quelques vérifications en amont évitent les mauvaises surprises au moment où vous en avez le moins besoin.",
+      "steps": [
+        {
+          "title": "1. Définissez l'usage réel",
+          "html": "<p>Notez la fréquence du partage, les personnes susceptibles de conduire, les trajets habituels et l'existence d'une rémunération. Une utilisation ponctuelle par un proche ne se traite pas comme une location hebdomadaire.</p>"
+        },
+        {
+          "title": "2. Relisez les conditions particulières du contrat",
+          "html": "<p>Repérez les rubriques « conducteur », « prêt de volant », « usage du véhicule », « exclusions » et « franchises ». Les conditions particulières signées priment souvent sur les explications générales reçues au téléphone.</p>"
+        },
+        {
+          "title": "3. Demandez une confirmation écrite",
+          "html": "<p>En cas de doute, interrogez votre assureur ou votre courtier en décrivant précisément la situation. Conservez la réponse écrite, ainsi que tout avenant ajoutant un conducteur ou modifiant l'usage déclaré.</p>"
+        },
+        {
+          "title": "4. Contrôlez le permis et organisez la remise des clés",
+          "html": "<p>Avant un prêt ou une location, vérifiez que le conducteur possède un permis valide adapté au véhicule. Photographiez l'état extérieur et le kilométrage, signalez les défauts existants et précisez qui paiera une éventuelle franchise.</p>"
+        },
+        {
+          "title": "5. Choisissez la bonne formule ou la bonne plateforme",
+          "html": "<p>Comparez le coût de l'extension d'assurance, la franchise et les garanties réellement incluses. Une offre apparemment moins chère peut coûter davantage après un petit accrochage si la franchise est élevée.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Location entre particuliers : bien lire l'assurance de la plateforme",
+      "html": "<p>De nombreuses plateformes de location entre particuliers intègrent une assurance pour la durée de la réservation. Cela peut simplifier la situation : la couverture de location prend généralement le relais pendant le créneau réservé, sous réserve que la réservation ait bien été effectuée dans l'application et que le conducteur déclaré soit celui qui conduit. Toutefois, les garanties ne sont jamais identiques d'un service à l'autre.</p><p>Avant de publier votre voiture ou de réserver celle d'un particulier, regardez la nature de la formule : dommages au véhicule, vol, assistance, protection corporelle, plafond d'indemnisation, dépôt de garantie et rachat éventuel de franchise. Une franchise de quelques centaines d'euros est fréquente dans l'assurance automobile ; elle peut être plus importante selon la catégorie du véhicule et le niveau de protection retenu. N'acceptez pas une réservation sans savoir clairement ce qui restera à votre charge.</p><p>Respectez aussi le processus prévu : état des lieux de départ et de retour, photos datées si l'outil le permet, déclaration des rayures existantes, niveau de carburant ou de batterie et signalement immédiat de tout incident. Un arrangement informel hors plateforme peut vous priver des protections annoncées et créer un désaccord difficile à résoudre.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les erreurs qui peuvent coûter cher",
+      "html": "<p>Ne laissez pas un conducteur non autorisé utiliser votre voiture, même « juste pour quelques kilomètres ». Ne déclarez pas un usage privé si vous louez régulièrement le véhicule contre rémunération. Enfin, ne supposez pas que l'assurance de la plateforme couvrira un accident survenu avant la remise des clés, après la fin de réservation ou avec un autre conducteur que celui enregistré.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Prix, franchise et bonus-malus : les repères utiles",
+      "intro": "Le coût réel d'une voiture partagée ne se limite pas à la cotisation d'assurance. Voici les postes à comparer avant de choisir une solution.",
+      "columns": [
+        "Élément",
+        "Ce qu'il faut comprendre",
+        "Comment limiter la dépense"
+      ],
+      "rows": [
+        [
+          "Cotisation ou extension",
+          "Ajouter un conducteur régulier ou déclarer un usage différent peut faire évoluer la prime.",
+          "Demander plusieurs scénarios : prêt ponctuel, conducteur secondaire, formule dommages étendue."
+        ],
+        [
+          "Assurance temporaire",
+          "Elle peut convenir à certains besoins courts, si le profil du conducteur est accepté.",
+          "Comparer le coût global avec une extension annuelle ; vérifier les garanties incluses."
+        ],
+        [
+          "Franchise",
+          "Somme restant à payer après un sinistre couvert, souvent de quelques centaines d'euros ou davantage.",
+          "Choisir un niveau de franchise compatible avec votre budget et formaliser qui la paie."
+        ],
+        [
+          "Bonus-malus",
+          "Un accident responsable peut affecter le coefficient lié au contrat du véhicule.",
+          "Prévoir une règle de remboursement entre utilisateurs, sans oublier que l'assureur applique ses propres règles."
+        ],
+        [
+          "Dépôt de garantie",
+          "Il peut être bloqué ou préautorisé lors d'une location via plateforme.",
+          "Lire les conditions de restitution et documenter soigneusement l'état du véhicule."
+        ]
+      ],
+      "note": "Les montants varient fortement selon le véhicule, la zone géographique, l'âge, l'ancienneté de permis et l'historique d'assurance du conducteur."
+    },
+    {
+      "type": "prose",
+      "heading": "Accident avec une voiture partagée : les bons réflexes",
+      "html": "<p>En cas d'accident, protégez d'abord les personnes : sécurisez les lieux dans la mesure du possible et appelez les secours si nécessaire. Échangez les coordonnées, l'immatriculation, les références d'assurance et les coordonnées des témoins. Remplissez un constat amiable avec le conducteur qui était effectivement au volant, sans modifier les faits pour « simplifier » le dossier. Prenez des photos des véhicules, des dégâts, de la signalisation et de l'environnement.</p><p>Informez ensuite l'assureur dans le délai indiqué par le contrat, souvent très court, et la plateforme sans attendre lorsqu'une réservation est concernée. Transmettez les éléments demandés et gardez une copie des échanges. Si vous êtes propriétaire, n'oubliez pas que l'assureur appréciera la conformité de l'usage et du conducteur avec le contrat ; d'où l'importance d'avoir vérifié ces points avant le partage.</p><p>Lorsque le prêt est privé, discutez calmement de la franchise et des conséquences pratiques, mais ne retardez jamais la déclaration dans l'espoir de régler les dégâts entre vous. Un accord amiable peut être utile pour de petits dommages, à condition qu'il soit clair et qu'il ne conduise pas à masquer un sinistre qui doit être déclaré.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Une règle simple entre proches",
+      "html": "<p>Avant de prêter votre voiture, envoyez un message récapitulatif : durée du prêt, conducteur autorisé, carburant ou recharge, interdiction éventuelle de sortir du territoire, et prise en charge de la franchise si un accident survient. Ce n'est pas de la méfiance : c'est une façon bienveillante de préserver la relation.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Puis-je prêter ma voiture à un ami assuré de son côté ?",
+      "a_html": "<p>Oui, si votre propre contrat autorise le prêt de volant et si votre ami possède un permis valide. Son assurance personnelle ne remplace pas automatiquement l'assurance du véhicule qu'il conduit. Vérifiez surtout les restrictions liées aux jeunes conducteurs, aux conducteurs non désignés et à la franchise majorée.</p>"
+    },
+    {
+      "q": "Le covoiturage est-il couvert par une assurance auto classique ?",
+      "a_html": "<p>Le covoiturage avec partage des frais est généralement compatible avec un contrat auto personnel, car il ne s'agit pas d'une activité lucrative. Le conducteur ne doit pas dégager de bénéfice. Si le transport devient rémunéré de manière régulière, demandez une confirmation à votre assureur : l'usage peut nécessiter une couverture différente.</p>"
+    },
+    {
+      "q": "Qui paie la franchise si la personne à qui je prête ma voiture a un accident ?",
+      "a_html": "<p>Vis-à-vis de l'assureur, la franchise est appliquée selon le contrat du véhicule assuré. Entre le propriétaire et le conducteur, vous pouvez convenir que le conducteur responsable la rembourse, mais il est préférable de l'avoir prévu avant le prêt. Une franchise spécifique peut s'appliquer à un conducteur occasionnel.</p>"
+    },
+    {
+      "q": "L'assurance incluse dans une location entre particuliers suffit-elle ?",
+      "a_html": "<p>Elle peut suffire pour la période réservée, mais cela dépend des garanties et exclusions de la plateforme. Vérifiez les dommages couverts, le montant de la franchise, la protection du conducteur, le vol, l'assistance et les conditions d'éligibilité. Respectez impérativement le processus de réservation et d'état des lieux.</p>"
+    },
+    {
+      "q": "Un accident causé par un conducteur secondaire fait-il perdre le bonus ?",
+      "a_html": "<p>Un sinistre responsable peut avoir des conséquences sur le contrat qui assure la voiture, même s'il a été causé par un conducteur secondaire ou occasionnel autorisé. Le mécanisme exact dépend de la responsabilité retenue et des règles applicables au contrat. Anticipez ce risque lorsque vous organisez un partage régulier.</p>"
+    },
+    {
+      "q": "Peut-on assurer une voiture achetée à plusieurs ?",
+      "a_html": "<p>Oui. Il faut désigner clairement le souscripteur, le conducteur principal et les conducteurs réguliers, en cohérence avec l'utilisation réelle du véhicule. Entre copropriétaires, prévoyez aussi une organisation écrite pour la cotisation, l'entretien, les contraventions, les pannes et les franchises.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Partager une voiture peut être économique, pratique et plus sobre que multiplier les véhicules. La condition est de ne pas traiter l'assurance comme un détail : <strong>prêt du volant, usage déclaré, garanties dommages, franchise et identité du conducteur</strong> doivent être parfaitement clairs. Prenez quelques minutes pour relire votre contrat ou demander un avenant avant de partager les clés : c'est le moyen le plus simple de profiter de la voiture partagée avec confiance.</p>",
+  "__slug": "assurance-automobile-et-voiture-partagee"
+}

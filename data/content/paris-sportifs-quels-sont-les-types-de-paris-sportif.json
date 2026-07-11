@@ -1,0 +1,268 @@
+{
+  "title": "Types de paris sportifs : guide pour comprendre les paris et les cotes",
+  "meta_description": "Types de paris sportifs : simples, combinés, handicaps, over/under… comprenez les cotes, les risques et choisissez avec méthode.",
+  "reading_time_min": 10,
+  "hero_intro": "Avant de placer une mise, mieux vaut comprendre précisément ce que recouvre chaque type de pari sportif. Du classique « 1N2 » au handicap, du score exact au pari en direct, les mécanismes et les niveaux de risque ne sont pas les mêmes. Ce guide vous aide à lire les cotes, à choisir un marché adapté et, surtout, à garder une pratique strictement responsable.",
+  "key_takeaways": [
+    "Un pari simple porte sur une seule sélection ; il est plus facile à suivre qu'un combiné, mais ne rend jamais un gain certain.",
+    "La cote détermine le retour potentiel : mise × cote = retour brut, mise comprise. Une cote basse n'est pas une garantie.",
+    "La double chance couvre deux issues sur trois en football, tandis que le « remboursé si nul » ne couvre qu'une équipe avec remboursement en cas de match nul.",
+    "Les paris à forte cote, comme le score exact ou certains combinés, sont aussi ceux dont la probabilité de réussite est généralement faible.",
+    "Les paris sportifs sont réservés aux majeurs et comportent un risque de perte d'argent : fixez un budget de loisir et ne cherchez jamais à récupérer une perte."
+  ],
+  "toc": [
+    "Comprendre le principe d'un pari sportif",
+    "Les grands types de paris sportifs",
+    "Paris simples ou combinés : quelle différence ?",
+    "Cotes, probabilités et calcul des gains",
+    "Paris avant-match et paris en direct",
+    "Choisir un pari sans perdre de vue le risque",
+    "Les erreurs fréquentes à éviter",
+    "Jouer dans un cadre responsable et légal"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre le principe d'un pari sportif",
+      "html": "<p>Un pari sportif consiste à miser une somme sur la réalisation d'un événement proposé par un opérateur : victoire d'une équipe, nombre de buts, performance d'un joueur ou issue d'un match. Chaque possibilité est associée à une <strong>cote</strong>, qui reflète à la fois l'estimation du risque par l'opérateur et sa marge commerciale.</p><p>Contrairement à une idée reçue, parier n'est pas un moyen de revenu ni une façon fiable de « gagner facilement ». Même une analyse sérieuse ne supprime ni l'incertitude du sport ni l'avantage structurel intégré aux cotes. Une blessure, une décision arbitrale, un carton rouge ou un simple rebond peuvent changer le résultat.</p><p>En France, les paris sportifs en ligne sont réservés aux personnes de <strong>18 ans ou plus</strong>. Il est prudent de choisir uniquement un opérateur autorisé, de vérifier les conditions de mise et de retrait, et de considérer chaque mise comme une dépense de divertissement que vous pouvez entièrement perdre.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Le vocabulaire à connaître avant de miser",
+      "points": [
+        "La <strong>sélection</strong> est le résultat ou l'événement sur lequel vous pariez.",
+        "La <strong>mise</strong> est la somme engagée ; elle est perdue si le pari ne se réalise pas, sauf règle particulière.",
+        "La <strong>cote décimale</strong> sert à calculer le retour brut potentiel, mise incluse.",
+        "Un <strong>marché</strong> est une famille de paris : vainqueur, total de buts, handicap, buteurs, etc.",
+        "Un pari est <strong>réglé</strong> selon le résultat officiel et les règles affichées par l'opérateur, pas selon une interprétation personnelle de l'action."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les principaux types de paris sportifs en un coup d'œil",
+      "intro": "Le bon choix dépend de ce que vous pensez pouvoir évaluer, mais aussi du risque que vous acceptez. Voici les marchés les plus courants.",
+      "columns": [
+        "Type de pari",
+        "Fonctionnement",
+        "À savoir avant de choisir"
+      ],
+      "rows": [
+        [
+          "Pari simple",
+          "Une seule sélection, par exemple la victoire de l'équipe A.",
+          "Le plus lisible pour débuter ; une seule erreur fait perdre la mise."
+        ],
+        [
+          "1N2",
+          "En football : 1 = équipe à domicile, N = nul, 2 = équipe à l'extérieur.",
+          "Le match nul est une issue à part entière, souvent oubliée par les débutants."
+        ],
+        [
+          "Double chance",
+          "Vous couvrez deux résultats sur trois : 1N, N2 ou 12.",
+          "La couverture supplémentaire réduit généralement la cote et le retour potentiel."
+        ],
+        [
+          "Remboursé si nul",
+          "Vous pariez sur une équipe ; la mise est habituellement remboursée si le match se termine nul.",
+          "À distinguer de la double chance : le nul ne fait pas gagner, il annule le pari."
+        ],
+        [
+          "Over/under",
+          "Vous pariez sur un total au-dessus ou au-dessous d'un seuil, souvent le nombre de buts.",
+          "Vérifiez le seuil exact : plus de 2,5 buts n'a pas le même sens que plus de 2 buts."
+        ],
+        [
+          "Handicap",
+          "Une avance ou un retard fictif est appliqué à une équipe ou un joueur.",
+          "Utile pour nuancer un favori, mais les règles du handicap doivent être lues attentivement."
+        ],
+        [
+          "Les deux équipes marquent",
+          "Vous pariez sur le fait que chaque équipe inscrira au moins un but.",
+          "Un 1-1, un 2-1 ou un 3-2 gagnent ; un 1-0 perd."
+        ],
+        [
+          "Score exact",
+          "Vous annoncez le résultat final précis, par exemple 2-1.",
+          "Cotes souvent élevées, mais probabilité de réussite faible."
+        ],
+        [
+          "Combiné",
+          "Plusieurs sélections sont réunies sur un seul ticket.",
+          "Toutes les sélections doivent généralement être gagnantes ; le risque augmente vite."
+        ],
+        [
+          "Pari en direct",
+          "Le pari est placé pendant la rencontre, avec des cotes évolutives.",
+          "Décisions rapides et émotionnelles : ce format demande une grande discipline."
+        ]
+      ],
+      "note": "Les intitulés et les modalités précises peuvent varier selon le sport, l'opérateur et le marché. Lisez toujours la règle affichée sur le ticket avant validation."
+    },
+    {
+      "type": "prose",
+      "heading": "Les marchés les plus utilisés : 1N2, totaux, handicaps et performances",
+      "html": "<p>Le <strong>1N2</strong> est le marché emblématique du football. Vous choisissez la victoire de l'équipe qui reçoit, le match nul ou la victoire de l'équipe visiteuse. Dans certains sports sans match nul à l'issue de la rencontre, comme le tennis, le marché principal porte simplement sur le vainqueur du match.</p><p>Les paris <strong>over/under</strong>, aussi appelés paris sur les totaux, concernent le nombre d'occurrences : buts, points, sets, jeux, cartons ou corners selon les compétitions proposées. « Plus de 2,5 buts » signifie qu'il faut au moins trois buts au total. Le seuil avec une demi-unité évite le nul sur ce marché ; à l'inverse, certains seuils entiers peuvent prévoir un remboursement selon les règles du pari.</p><p>Le <strong>handicap</strong> sert à rééquilibrer une affiche jugée déséquilibrée. Avec un handicap de -1 but sur un favori, cette équipe doit gagner par plus d'un but pour que le pari soit gagnant dans de nombreuses formules. Un handicap de +1,5 sur l'adversaire lui laisse davantage de marge. Il existe des handicaps européens et asiatiques : leurs modalités de remboursement ou de demi-gain peuvent différer.</p><p>Enfin, les marchés de <strong>performances</strong> portent sur un élément précis : un buteur, le nombre de tirs cadrés, le premier but, les corners ou les cartons. Ils demandent une lecture attentive des règles, notamment sur les prolongations, les tirs au but et le temps de jeu effectivement pris en compte.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Pari simple ou pari combiné : deux logiques très différentes",
+      "intro": "Le combiné peut sembler séduisant car les cotes se multiplient. Mais cette mécanique augmente aussi la difficulté de réussir le ticket.",
+      "left": {
+        "title": "Pari simple",
+        "points": [
+          "Une seule prédiction à évaluer et à suivre.",
+          "Calcul du retour facile : mise × cote.",
+          "Permet de limiter le nombre de conditions nécessaires au gain.",
+          "Adapté à une approche prudente, sans que le risque de perte disparaisse.",
+          "Une cote plus modeste ne signifie jamais que le résultat est acquis."
+        ]
+      },
+      "right": {
+        "title": "Pari combiné",
+        "points": [
+          "Deux sélections ou davantage réunies sur un même ticket.",
+          "Toutes les sélections doivent généralement être justes pour être payé.",
+          "Les cotes se multiplient, tout comme les occasions d'échec.",
+          "Un seul résultat contraire annule habituellement l'ensemble du pari.",
+          "À réserver, si vous jouez, à de petites mises que vous acceptez de perdre."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Double chance, « 12 » et « remboursé si nul » : ne les confondez pas",
+      "html": "<p>En football, une double chance <strong>1N</strong> gagne si l'équipe à domicile gagne ou si le match est nul. La double chance <strong>12</strong> gagne si l'une des deux équipes l'emporte : elle perd donc en cas de nul. Avec un pari <strong>remboursé si nul</strong>, vous choisissez une équipe ; sa victoire fait gagner le pari, le nul rend généralement la mise, et sa défaite fait perdre. Ces options réduisent le risque par rapport à une victoire sèche, mais leur cote est logiquement moins élevée.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Cotes, probabilité et calcul du retour potentiel",
+      "html": "<p>Les sites français utilisent le plus souvent des <strong>cotes décimales</strong>. La formule est simple : <strong>mise × cote = retour brut potentiel</strong>. Avec 10 € placés à une cote de 2,20, le retour brut potentiel est de 22 €, soit 12 € de gain net en cas de succès, car les 10 € de mise y sont inclus.</p><p>Une cote de 1,50 correspond, de façon très approximative, à une probabilité implicite de 66,7 % avant prise en compte de la marge de l'opérateur. Une cote de 4,00 correspond à environ 25 %. Ces chiffres ne prédisent pas l'issue d'un match : ils aident seulement à comprendre pourquoi une cote élevée implique un scénario considéré comme moins probable.</p><p>Comparez surtout ce que vous savez réellement du contexte : forme récente sur un échantillon raisonnable, absences confirmées, calendrier, fatigue, motivation, surface en tennis ou style de jeu. Méfiez-vous des statistiques isolées et des « pronostics sûrs » : ils n'existent pas. Les cotes peuvent en outre évoluer jusqu'au coup d'envoi lorsque de nouvelles informations apparaissent.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Une méthode simple pour choisir un marché avec recul",
+      "intro": "Cette démarche ne rend pas le pari gagnant. Elle permet surtout d'éviter les décisions impulsives et de savoir pourquoi vous misez.",
+      "steps": [
+        {
+          "title": "Définissez un budget fermé",
+          "html": "<p>Décidez à l'avance d'une somme de loisir mensuelle que vous pouvez perdre sans conséquence sur vos dépenses essentielles. Ne l'augmentez pas après une défaite et ne misez jamais de l'argent emprunté.</p>"
+        },
+        {
+          "title": "Choisissez un sport que vous comprenez",
+          "html": "<p>Privilégiez une compétition dont vous connaissez les règles et le calendrier. Ne pariez pas uniquement parce qu'un match est très médiatisé ou qu'une cote paraît attractive.</p>"
+        },
+        {
+          "title": "Formulez votre hypothèse avant de regarder la cote",
+          "html": "<p>Par exemple : match fermé, équipe affaiblie, confrontation équilibrée. Cherchez ensuite le marché qui correspond réellement à cette idée, plutôt que d'adapter votre avis à une grosse cote.</p>"
+        },
+        {
+          "title": "Lisez les conditions exactes du marché",
+          "html": "<p>Contrôlez le seuil, la période concernée, le traitement des prolongations et les éventuelles conditions de remboursement. Un intitulé proche peut cacher une règle différente.</p>"
+        },
+        {
+          "title": "Limitez la mise et acceptez le résultat",
+          "html": "<p>Validez seulement si la somme reste compatible avec votre budget. Une fois le pari pris, évitez de multiplier les mises pour compenser une perte ou une émotion liée au match.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Paris avant-match ou paris en direct : lequel choisir ?",
+      "intro": "Le moment où vous pariez modifie les informations disponibles, mais aussi la pression ressentie.",
+      "left": {
+        "title": "Avant le coup d'envoi",
+        "points": [
+          "Temps pour vérifier les compositions, absences et règles.",
+          "Décision généralement plus posée et préparée.",
+          "Cotes susceptibles de bouger avant le début de la rencontre.",
+          "Moins de tentation de réagir à chaque action du match."
+        ]
+      },
+      "right": {
+        "title": "Pendant le match",
+        "points": [
+          "Les cotes évoluent après chaque événement important.",
+          "Possibilité d'observer le rythme réel de la rencontre.",
+          "Temps de décision très court et risque de jugement émotionnel.",
+          "Risque accru de multiplier les paris sans stratégie ni budget."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le cash out ne protège pas systématiquement votre mise",
+      "html": "<p>La fonction de <strong>cash out</strong> permet parfois de clôturer un pari avant sa fin contre une somme proposée par l'opérateur. Elle peut être inférieure à la mise, au gain potentiel ou ne pas être disponible à certains moments. Ce n'est ni un droit automatique ni une assurance : vérifiez le montant affiché et évitez de l'utiliser dans la précipitation.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs fréquentes qui coûtent cher",
+      "points": [
+        "Croire qu'une cote faible ou qu'un grand favori rend le pari sans risque.",
+        "Ajouter des sélections « faciles » à un combiné pour gonfler artificiellement le gain potentiel.",
+        "Confondre retour brut et bénéfice net, ou oublier que la mise est incluse dans le retour annoncé.",
+        "Parier sous l'effet de la frustration, de l'euphorie, de l'alcool ou de la pression d'un proche.",
+        "Suivre des tipsters, groupes de messagerie ou promotions qui promettent des gains garantis.",
+        "Négliger les règles du marché, notamment pour les prolongations, les annulations et les joueurs non partants."
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Repères essentiels pour une pratique responsable",
+      "items": [
+        {
+          "value": "18 ans +",
+          "label": "Âge minimum pour les jeux d'argent et de hasard en France."
+        },
+        {
+          "value": "0 %",
+          "label": "De gain garanti, quelle que soit la cote, l'analyse ou la réputation d'un pronostiqueur."
+        },
+        {
+          "value": "1 budget",
+          "label": "De loisir fixé à l'avance, distinct des charges, de l'épargne et des besoins du quotidien."
+        },
+        {
+          "value": "100 % perdu",
+          "label": "Montant maximal à envisager pour toute mise : un pari peut ne rien rapporter."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Jouer dans un cadre responsable et légal",
+      "html": "<p>Si vous choisissez de parier, ouvrez un compte uniquement auprès d'un opérateur légalement autorisé en France et prenez le temps d'activer les outils proposés : plafond de dépôt, limite de mise, limitation du temps de jeu, pause temporaire ou auto-exclusion. Ces dispositifs existent précisément pour éviter que le jeu ne prenne trop de place.</p><p>Un signal d'alerte doit être pris au sérieux : cacher ses mises, penser constamment au prochain pari, négliger ses obligations, miser davantage pour récupérer des pertes ou utiliser de l'argent destiné aux dépenses courantes. Dans cette situation, la meilleure décision est d'arrêter de jouer et d'en parler à un proche ou à un service spécialisé dans l'accompagnement des problèmes de jeu.</p><p>Le sport reste plus agréable lorsqu'il n'est pas réduit à un ticket. Suivre une équipe, apprécier une compétition et échanger avec d'autres supporters ne devraient jamais dépendre du résultat d'une mise.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel est le type de pari sportif le plus simple pour débuter ?",
+      "a_html": "<p>Le pari simple est généralement le plus facile à comprendre : une seule sélection, une cote et un résultat à vérifier. En football, cela peut être une victoire en 1N2 ou un total de buts. Sa simplicité ne le rend pas sûr : vous devez toujours pouvoir perdre la totalité de votre mise.</p><p>Avant de valider, lisez la règle du marché et commencez, si vous jouez, par une mise très limitée dans un budget de loisir fixé à l'avance.</p>"
+    },
+    {
+      "q": "Comment fonctionne la double chance dans les paris sportifs ?",
+      "a_html": "<p>En football, la double chance regroupe deux des trois issues possibles. Le pari 1N couvre la victoire de l'équipe à domicile et le nul ; N2 couvre le nul et la victoire de l'équipe visiteuse ; 12 couvre la victoire de l'une ou l'autre équipe, mais perd si le match est nul.</p><p>Cette couverture supplémentaire entraîne généralement une cote plus basse qu'un pari sur une victoire sèche.</p>"
+    },
+    {
+      "q": "Quelle est la différence entre un pari combiné et un système ?",
+      "a_html": "<p>Dans un combiné classique, toutes les sélections doivent être gagnantes pour obtenir un retour. Un pari système répartit plusieurs sélections dans plusieurs combinaisons plus petites. Il peut donc parfois générer un retour malgré une sélection perdante, selon la formule choisie.</p><p>En contrepartie, le montant total engagé peut être plus élevé, car plusieurs tickets sont joués. Vérifiez le coût global avant de confirmer : un système ne réduit pas automatiquement le risque financier.</p>"
+    },
+    {
+      "q": "Comment calculer le gain d'un pari à cote décimale ?",
+      "a_html": "<p>Multipliez votre mise par la cote pour obtenir le <strong>retour brut potentiel</strong>. Pour 5 € à une cote de 3,00, le retour brut potentiel est de 15 €, dont 10 € de gain net et 5 € correspondant à votre mise.</p><p>Pour un combiné, les cotes des sélections sont multipliées entre elles, puis multipliées par la mise. Ce calcul explique pourquoi le retour potentiel augmente vite, mais aussi pourquoi chaque sélection supplémentaire fragilise le ticket.</p>"
+    },
+    {
+      "q": "Les paris en direct sont-ils plus avantageux ?",
+      "a_html": "<p>Pas nécessairement. Le direct offre davantage d'informations sur le déroulement du match, mais les cotes évoluent très vite et la pression peut pousser à décider sans recul. Les opérateurs ajustent également leurs cotes en fonction des événements observés.</p><p>Si le direct vous incite à multiplier les mises ou à poursuivre une perte, mieux vaut l'éviter et utiliser les limites de jeu disponibles.</p>"
+    },
+    {
+      "q": "Peut-on vivre des paris sportifs ?",
+      "a_html": "<p>Il ne faut pas considérer les paris sportifs comme un revenu. Les résultats sont incertains, les cotes incluent une marge pour l'opérateur et les pertes peuvent s'accumuler rapidement. Les promesses de salaire régulier ou de gains garantis grâce aux pronostics sont trompeuses.</p><p>La seule approche raisonnable consiste à traiter le pari comme un loisir facultatif, avec une limite de dépense stricte et sans impact sur votre situation financière.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Les types de paris sportifs sont nombreux, mais leur principe reste le même : vous prenez un risque contre une cote, sans certitude de résultat. Le pari simple, la double chance, les totaux et les handicaps sont plus faciles à appréhender lorsque vous maîtrisez leurs règles ; les combinés, scores exacts et paris en direct exigent une prudence encore plus grande.</p><p>Avant toute mise, retenez l'essentiel : comprendre le marché, vérifier les conditions, calculer le retour brut, fixer une limite et accepter de perdre la somme engagée. Si le jeu cesse d'être un divertissement, faites une pause et sollicitez de l'aide.</p>",
+  "__slug": "paris-sportifs-quels-sont-les-types-de-paris-sportif"
+}

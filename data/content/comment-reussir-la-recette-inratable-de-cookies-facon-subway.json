@@ -1,0 +1,258 @@
+{
+  "title": "Cookies façon Subway : la recette moelleuse et épaisse à réussir à tous les coups",
+  "meta_description": "Réalisez des cookies façon Subway moelleux au centre et dorés sur les bords : ingrédients, repos, cuisson et astuces anti-ratage maison.",
+  "reading_time_min": 9,
+  "hero_intro": "Vous rêvez de gros cookies généreux, légèrement croustillants en surface et très moelleux au cœur ? Le secret des cookies façon Subway ne tient pas à un ingrédient magique, mais à un bon équilibre entre sucres, matière grasse, repos de la pâte et cuisson courte. Voici une méthode fiable, avec les repères qui vous permettront de l'adapter à votre four et à vos envies.",
+  "key_takeaways": [
+    "Pour une texture épaisse et fondante, formez de grosses boules de pâte et placez-les au frais avant cuisson.",
+    "Sortez les cookies quand leur centre semble encore un peu sous-cuit : ils terminent de se raffermir sur la plaque.",
+    "La cassonade apporte le moelleux et le goût caramélisé ; le sucre blanc aide à obtenir des bords légèrement croustillants.",
+    "Pesez les ingrédients, surtout la farine, et évitez de trop travailler la pâte après son ajout.",
+    "Pour des cookies réguliers, prévoyez environ 70 à 80 g de pâte par biscuit et espacez-les largement."
+  ],
+  "toc": [
+    "Ce qui fait la texture d'un cookie façon Subway",
+    "Les ingrédients et leurs rôles",
+    "La recette pas à pas",
+    "Beurre fondu ou beurre pommade : quelle méthode choisir ?",
+    "Maîtriser la cuisson selon votre four",
+    "Les erreurs qui rendent les cookies secs ou plats",
+    "Variantes gourmandes et conservation",
+    "FAQ : réussir ses cookies moelleux"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Ce qui fait la texture d'un cookie façon Subway",
+      "html": "<p>Un cookie inspiré de ceux vendus chez Subway est généralement <strong>grand, épais, tendre au centre et très riche en garniture</strong>. Il ne doit être ni croquant comme un sablé, ni gonflé comme un gâteau. Sa texture repose sur un point d'équilibre : assez de farine pour soutenir la pâte, assez de sucre pour le moelleux, et une cuisson suffisamment courte pour garder un cœur fondant.</p><p>La taille compte beaucoup. Une petite portion de pâte cuit vite et sèche facilement ; une boule de 75 g conserve davantage d'humidité au milieu. Le repos au froid est l'autre geste déterminant : il raffermit le beurre, hydrate la farine et limite l'étalement brutal dans le four.</p><p>Le mot « inratable » doit toutefois être pris comme une promesse de méthode, pas comme une règle absolue : chaque four chauffe un peu différemment et la taille des œufs varie. En suivant les repères visuels de cet article, vous pourrez ajuster une première fournée et réussir les suivantes sans tâtonner.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les quatre repères à garder en tête",
+      "points": [
+        "Utilisez une plaque froide et du papier cuisson pour chaque tournée.",
+        "Préparez des boules de pâte hautes plutôt que de les aplatir avant d'enfourner.",
+        "Laissez au moins 8 cm entre les portions : les cookies s'étalent à la cuisson.",
+        "Attendez 10 à 15 minutes avant de les déplacer, car ils sont très fragiles à la sortie du four.",
+        "Conservez une ou deux boules de pâte pour tester le temps de cuisson de votre four avant de cuire toute la fournée."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les ingrédients pour 10 gros cookies",
+      "intro": "Cette base donne environ 10 cookies de 75 g, ou 14 à 16 cookies plus petits. Une balance de cuisine améliore nettement la régularité du résultat.",
+      "columns": [
+        "Ingrédient",
+        "Quantité",
+        "Rôle et conseil"
+      ],
+      "rows": [
+        [
+          "Beurre doux",
+          "115 g",
+          "Apporte le fondant. Utilisez-le fondu puis tiédi, jamais brûlant."
+        ],
+        [
+          "Cassonade ou sucre roux",
+          "100 g",
+          "Donne du moelleux, une couleur plus chaude et une note caramélisée."
+        ],
+        [
+          "Sucre blanc",
+          "60 g",
+          "Favorise des contours légèrement croustillants et une bonne diffusion de la pâte."
+        ],
+        [
+          "Œuf moyen",
+          "1",
+          "Lie la préparation. Sortez-le 20 minutes avant si possible."
+        ],
+        [
+          "Extrait de vanille",
+          "1 c. à café",
+          "Renforce la gourmandise ; facultatif, mais très appréciable."
+        ],
+        [
+          "Farine de blé T45 ou T55",
+          "190 g",
+          "Structure la pâte. Pesez-la plutôt que de la mesurer au verre."
+        ],
+        [
+          "Bicarbonate alimentaire",
+          "1/2 c. à café rase",
+          "Aide à obtenir une texture tendre et une belle coloration."
+        ],
+        [
+          "Sel fin",
+          "1 pincée généreuse",
+          "Équilibre le sucre et révèle le chocolat."
+        ],
+        [
+          "Pépites ou chocolat noir concassé",
+          "170 à 180 g",
+          "Mélangez pépites et gros morceaux pour un cœur plus coulant."
+        ]
+      ],
+      "note": "Si vous utilisez du beurre demi-sel, réduisez le sel ajouté à une toute petite pincée. Le bicarbonate peut être remplacé par la même quantité de levure chimique, mais la texture sera souvent un peu plus proche d'un gâteau."
+    },
+    {
+      "type": "steps",
+      "heading": "La recette de cookies moelleux, étape par étape",
+      "intro": "Comptez 20 minutes de préparation, puis au moins 1 heure de repos. Préchauffez le four seulement vers la fin du repos afin que la pâte reste bien froide.",
+      "steps": [
+        {
+          "title": "Faites fondre et tiédir le beurre",
+          "html": "<p>Faites fondre le beurre à feu très doux ou par courtes séquences au micro-ondes. Laissez-le revenir à une température tiède : il doit être liquide, mais ne pas cuire l'œuf au contact. Chemisez une plaque de papier cuisson.</p>"
+        },
+        {
+          "title": "Mélangez les sucres, le beurre et l'œuf",
+          "html": "<p>Dans un grand saladier, mélangez le beurre fondu tiède, la cassonade et le sucre blanc. Incorporez l'œuf et la vanille jusqu'à obtenir une préparation homogène. Il est inutile de fouetter longuement : cherchez une texture lisse, sans faire entrer trop d'air.</p>"
+        },
+        {
+          "title": "Ajoutez les poudres sans insister",
+          "html": "<p>Mélangez la farine, le bicarbonate et le sel dans un autre récipient, puis versez-les sur la préparation liquide. Mélangez juste assez pour ne plus voir de traces de farine. Ajoutez enfin le chocolat concassé ou les pépites. Une pâte un peu souple est normale à ce stade.</p>"
+        },
+        {
+          "title": "Formez et refroidissez la pâte",
+          "html": "<p>Prélevez environ 75 g de pâte par cookie. Formez des boules irrégulières et plutôt hautes, sans les tasser. Disposez-les sur une assiette ou une petite plaque, couvrez-les, puis réfrigérez-les au minimum 1 heure. Un repos de 12 à 24 heures développe encore les arômes.</p>"
+        },
+        {
+          "title": "Cuisez peu, puis laissez finir hors du four",
+          "html": "<p>Préchauffez à 180 °C en chaleur statique, ou 170 °C en chaleur tournante. Espacez les boules froides de 8 à 10 cm sur la plaque. Enfournez 9 à 12 minutes : les bords doivent être pris et blond doré, tandis que le centre reste pâle et souple. Laissez les cookies 10 minutes sur la plaque avant de les transférer avec précaution.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le test visuel qui évite les cookies trop cuits",
+      "html": "<p>Ne cherchez pas un cookie entièrement doré en sortant du four. Lorsqu'il est prêt, son centre paraît encore légèrement brillant ou tendre, mais il n'est plus liquide. La chaleur de la plaque poursuit la cuisson pendant quelques minutes : c'est ce qui crée ce cœur moelleux tant recherché.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Beurre fondu ou beurre pommade : deux résultats différents",
+      "intro": "Les deux méthodes fonctionnent, mais elles ne donnent pas exactement le même cookie. Choisissez selon la texture que vous préférez, puis adaptez le repos.",
+      "left": {
+        "title": "Beurre fondu puis pâte réfrigérée",
+        "points": [
+          "Texture plus dense, chewy et fondante.",
+          "Saveur de caramel plus marquée avec la cassonade.",
+          "Repos au froid indispensable pour éviter un étalement excessif.",
+          "Méthode idéale pour des cookies généreux et irréguliers."
+        ]
+      },
+      "right": {
+        "title": "Beurre pommade battu avec les sucres",
+        "points": [
+          "Texture plus aérée et souvent un peu plus épaisse.",
+          "Cookies plus proches d'un biscuit moelleux que d'un cœur très fondant.",
+          "Le beurre doit être souple, mais surtout pas fondu.",
+          "Le repos reste conseillé, même s'il peut être plus court."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Maîtriser la cuisson selon votre four",
+      "html": "<p>La durée indiquée est un repère, pas une vérité immuable. Les fours domestiques peuvent présenter plusieurs degrés d'écart, et une plaque sombre transmet davantage de chaleur qu'une plaque claire. Pour votre première fournée, faites cuire seulement deux cookies : vous connaîtrez rapidement le temps idéal sans risquer de sécher toute la pâte.</p><p>En <strong>chaleur statique</strong>, placez la plaque au milieu du four et commencez à surveiller dès 9 minutes à 180 °C. En <strong>chaleur tournante</strong>, réduisez légèrement la température, autour de 170 °C, car l'air chaud circule plus vite autour des biscuits. Évitez de superposer deux plaques, qui compliquent la cuisson homogène.</p><p>Si les cookies sortent très bombés, vous pouvez taper doucement la plaque sur le plan de travail une ou deux fois juste après cuisson. Ce geste les aide à se détendre un peu sans les écraser. En revanche, ne les aplatissez pas avant la cuisson : ils s'étaleraient davantage et perdraient leur centre épais.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Diagnostiquer un résultat imparfait",
+      "intro": "Un ajustement simple suffit souvent pour transformer la prochaine fournée. Voici les causes les plus fréquentes et les solutions concrètes.",
+      "columns": [
+        "Problème observé",
+        "Cause probable",
+        "Ajustement pour la prochaine fois"
+      ],
+      "rows": [
+        [
+          "Cookies trop plats",
+          "Pâte trop chaude, beurre très liquide ou pas assez de farine",
+          "Réfrigérez 1 à 2 heures de plus ; pesez la farine ; cuisez les boules bien froides."
+        ],
+        [
+          "Cookies secs et durs",
+          "Cuisson trop longue ou portions trop petites",
+          "Retirez-les 1 à 2 minutes plus tôt et formez des portions de 70 g minimum."
+        ],
+        [
+          "Cookies qui ne s'étalent presque pas",
+          "Trop de farine ou pâte trop froide et compacte",
+          "Vérifiez la pesée ; laissez les boules 5 à 10 minutes à température ambiante avant cuisson."
+        ],
+        [
+          "Cookies pâles et sans relief",
+          "Four pas assez chaud ou plaque trop chargée",
+          "Vérifiez le préchauffage, espacez les cookies et prolongez seulement d'une minute si nécessaire."
+        ],
+        [
+          "Texture farineuse",
+          "Pâte trop travaillée après ajout de la farine",
+          "Mélangez uniquement jusqu'à disparition de la farine, à la spatule si possible."
+        ],
+        [
+          "Chocolat peu présent",
+          "Pépites trop petites ou quantité réduite",
+          "Utilisez du chocolat concassé en morceaux de tailles variées et gardez quelques morceaux visibles sur le dessus."
+        ]
+      ],
+      "note": "Ne modifiez qu'un paramètre à la fois : il devient ainsi beaucoup plus facile de trouver l'équilibre qui convient à votre four."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les trois erreurs qui changent vraiment la texture",
+      "html": "<p><strong>Ajouter la farine au hasard :</strong> quelques dizaines de grammes en trop suffisent à rendre un cookie épais mais sec. <strong>Enfourner une pâte chaude :</strong> elle s'étale avant que les bords ne se fixent. <strong>Attendre que le centre soit ferme :</strong> le cookie sera alors trop cuit après refroidissement.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Variantes gourmandes sans déséquilibrer la recette",
+      "html": "<p>Une fois la base maîtrisée, variez surtout la garniture plutôt que de modifier toute la formule. Remplacez jusqu'à la moitié du chocolat noir par du chocolat au lait, blanc ou blond. Pour éviter un résultat écœurant avec le chocolat blanc, ajoutez une pincée de sel ou des fruits rouges séchés coupés finement.</p><p>Les noix de pécan, noisettes, amandes ou noix se marient très bien au chocolat. Faites-les torréfier 8 à 10 minutes à 160 °C, laissez-les refroidir, puis incorporez-en 60 à 80 g en remplaçant une part équivalente du chocolat. Vous obtiendrez une garniture plus croquante sans alourdir la pâte.</p><p>Pour une version double chocolat, remplacez 20 g de farine par 20 g de cacao non sucré. Pour une version plus généreuse, glissez quelques gros carrés de chocolat au centre de chaque boule. Gardez toutefois le même poids total de garniture : une pâte surchargée se tient moins bien et cuit de façon irrégulière.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Conserver, congeler et préparer à l'avance",
+      "points": [
+        "Les cookies cuits restent agréables 2 à 3 jours dans une boîte hermétique, une fois complètement froids.",
+        "Pour retrouver du moelleux, réchauffez un cookie 5 à 8 secondes au micro-ondes ou quelques minutes au four doux.",
+        "Les boules de pâte crue se congèlent très bien, séparées sur une plaque puis placées dans un sac hermétique.",
+        "Cuisez les boules congelées sans décongélation, en ajoutant généralement 2 à 4 minutes et en surveillant les bords.",
+        "Une pâte reposée 24 heures au réfrigérateur donne souvent des saveurs plus rondes, à condition de la couvrir soigneusement."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Un dernier détail : la dégustation au bon moment",
+      "html": "<p>Les cookies sont souvent les plus irrésistibles lorsqu'ils ont reposé 15 à 20 minutes : les bords se stabilisent, le cœur reste tendre et le chocolat demeure fondant. Ils se dégustent tels quels, avec un verre de lait, un café ou une boisson végétale peu sucrée.</p><p>Si vous les préparez pour offrir, attendez qu'ils soient totalement froids avant de les emballer. La vapeur enfermée dans une boîte ramollirait les bords. Avec une pâte bien pesée, un repos au frais et une cuisson volontairement courte, vous disposez désormais de tous les leviers pour créer des cookies maison généreux, réguliers et vraiment moelleux.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi mes cookies façon Subway deviennent-ils durs en refroidissant ?",
+      "a_html": "<p>La cause la plus courante est une cuisson trop longue. Sortez-les quand les contours sont pris mais que le milieu semble encore tendre : ils se raffermissent sur la plaque. Des portions très petites, un excès de farine ou une boîte mal fermée peuvent également les assécher.</p><p>Pour une prochaine fournée, pesez la farine, privilégiez des boules de 70 à 80 g et réduisez le temps de cuisson d'une minute.</p>"
+    },
+    {
+      "q": "Peut-on préparer la pâte à cookies la veille ?",
+      "a_html": "<p>Oui, et c'est même une excellente idée. Conservez la pâte couverte au réfrigérateur jusqu'à 24 heures, idéalement déjà divisée en boules. Ce repos améliore la tenue à la cuisson et permet aux arômes de se développer.</p><p>Si la pâte est très dure après une nuit au frais, laissez les boules 5 à 10 minutes à température ambiante avant de les enfourner.</p>"
+    },
+    {
+      "q": "Faut-il utiliser de la cassonade pour des cookies moelleux ?",
+      "a_html": "<p>La cassonade n'est pas strictement obligatoire, mais elle aide beaucoup : sa teneur en mélasse contribue à une texture plus souple et à une saveur caramélisée. Un mélange de cassonade et de sucre blanc donne un bon contraste entre cœur moelleux et bords légèrement croustillants.</p><p>Avec seulement du sucre blanc, les cookies seront souvent plus plats et plus croustillants. Avec seulement de la cassonade, ils peuvent être plus mous et moins craquants sur les bords.</p>"
+    },
+    {
+      "q": "Comment faire des cookies épais qui ne s'étalent pas trop ?",
+      "a_html": "<p>Formez des boules hautes, non aplaties, et réfrigérez-les au moins une heure. Enfournez-les sur une plaque froide et ne surchargez pas la plaque. Une pâte chaude ou du beurre trop liquide favorisent au contraire l'étalement.</p><p>Respecter la quantité de farine est essentiel : ajoutez-en trop peu à peu seulement après un essai, car un surplus rend vite les cookies secs.</p>"
+    },
+    {
+      "q": "Peut-on remplacer le bicarbonate alimentaire dans la recette ?",
+      "a_html": "<p>Oui. Remplacez-le par la même quantité de levure chimique si nécessaire. Le résultat restera bon, mais il pourra être légèrement plus gonflé et moins typé. N'augmentez pas la dose : trop de poudre levante peut laisser un goût désagréable et modifier la texture.</p>"
+    },
+    {
+      "q": "Comment congeler des cookies maison ?",
+      "a_html": "<p>Vous pouvez congeler les cookies déjà cuits, complètement refroidis et bien emballés, pendant environ deux à trois mois. Mais congeler la pâte crue en boules est souvent encore plus pratique : vous cuisez seulement la quantité désirée, avec quelques minutes supplémentaires.</p><p>Pour éviter que les boules ne collent entre elles, faites-les d'abord durcir séparément sur une plaque, puis transférez-les dans un sac de congélation hermétique.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Réussir des cookies façon Subway, c'est surtout apprendre à <strong>ne pas trop les cuire</strong>. Avec du beurre tiédi, un mélange de sucres, des portions généreuses et un passage au réfrigérateur, vous obtenez une base fiable à décliner selon vos envies. Testez d'abord deux cookies, observez votre four, puis gardez précieusement vos réglages : votre recette maison pourra vite devenir celle que tout le monde vous réclame.</p>",
+  "__slug": "comment-reussir-la-recette-inratable-de-cookies-facon-subway"
+}

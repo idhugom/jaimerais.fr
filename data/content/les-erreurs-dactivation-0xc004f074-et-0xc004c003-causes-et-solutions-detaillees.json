@@ -1,0 +1,216 @@
+{
+  "title": "Erreur d’activation Windows 0xC004F074 ou 0xC004C003 : comment la résoudre légalement",
+  "meta_description": "Erreurs Windows 0xC004F074 et 0xC004C003 : identifiez la cause, vérifiez votre licence et réactivez votre PC en toute sécurité, légalement.",
+  "reading_time_min": 10,
+  "hero_intro": "Un code d’activation Windows n’est pas forcément synonyme de panne grave, mais il ne faut pas l’ignorer ni chercher un contournement au hasard. Les erreurs 0xC004F074 et 0xC004C003 n’ont pas la même origine : l’une évoque généralement un serveur d’entreprise inaccessible, l’autre une clé que Microsoft refuse. Voici comment comprendre votre situation, protéger vos données et choisir la bonne solution.",
+  "key_takeaways": [
+    "L’erreur 0xC004F074 concerne le plus souvent une activation KMS, utilisée dans les organisations, dont le serveur n’est pas joignable.",
+    "L’erreur 0xC004C003 signifie généralement que la clé de produit a été bloquée par le service d’activation : elle ne se corrige pas avec un simple redémarrage.",
+    "Avant toute manipulation, vérifiez l’édition installée, le canal de licence et le message exact dans les paramètres d’activation.",
+    "Sur un PC personnel, une licence numérique liée à votre compte Microsoft peut souvent être réactivée avec l’utilitaire de résolution des problèmes.",
+    "Évitez absolument les activateurs KMS, clés à prix dérisoire et serveurs publics : ils exposent à des logiciels malveillants et à un blocage durable de la licence."
+  ],
+  "toc": [
+    "Comprendre ce que signifient les deux codes d’erreur",
+    "Faire le bon diagnostic avant de modifier Windows",
+    "Réactiver un PC personnel étape par étape",
+    "Cas des ordinateurs professionnels et de l’activation KMS",
+    "Éviter les fausses solutions et acheter une licence fiable",
+    "Savoir quand demander de l’aide"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "0xC004F074 et 0xC004C003 : deux problèmes très différents",
+      "html": "<p>L’activation confirme que l’édition de Windows installée correspond bien à une licence valide. Sur un ordinateur non activé, Windows reste généralement utilisable, mais affiche des notifications et limite notamment certains réglages de personnalisation. Inutile, donc, de réinstaller immédiatement le système ou de craindre la perte de vos fichiers.</p><p>Le code <strong>0xC004F074</strong> apparaît lorsque Windows essaie d’utiliser un serveur KMS, ou Key Management Service, sans parvenir à le contacter. Ce mécanisme est normal dans une entreprise, une école ou une administration disposant de licences en volume. Il est en revanche inhabituel sur un PC acheté pour un usage personnel.</p><p>Le code <strong>0xC004C003</strong> indique plus directement que le service d’activation a refusé la clé soumise, car elle est bloquée. Elle a pu être réutilisée abusivement, revendue sans droit, désactivée après un remboursement ou ne pas correspondre au canal de licence attendu. Une faute de saisie ou une mauvaise édition peuvent produire d’autres messages, mais la clé bloquée reste la piste prioritaire avec ce code précis.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Identifier l’erreur en un coup d’œil",
+      "intro": "Le libellé complet affiché dans les paramètres d’activation compte autant que le code. Voici la distinction essentielle à faire avant d’agir.",
+      "left": {
+        "title": "Erreur 0xC004F074 : serveur KMS introuvable",
+        "points": [
+          "Concerne surtout une licence en volume gérée par une organisation.",
+          "Le PC ne rejoint plus le réseau interne, le VPN autorisé ou le DNS de l’entreprise.",
+          "Peut révéler une ancienne configuration professionnelle sur un ordinateur personnel.",
+          "La solution dépend souvent du service informatique, pas d’une nouvelle clé saisie au hasard."
+        ]
+      },
+      "right": {
+        "title": "Erreur 0xC004C003 : clé bloquée",
+        "points": [
+          "La clé installée a été refusée par les serveurs d’activation Microsoft.",
+          "Une clé achetée sur une place de marché peut être d’origine douteuse, même si elle a fonctionné un temps.",
+          "Une licence Retail, OEM et une licence en volume n’offrent pas les mêmes droits de transfert.",
+          "Il faut retrouver une licence légitime, demander un recours au vendeur ou contacter Microsoft selon le cas."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Les vérifications utiles selon votre situation",
+      "intro": "Ouvrez les paramètres de Windows, puis la rubrique Activation : sous Windows 11, elle se trouve dans Système ; sous Windows 10, dans Mise à jour et sécurité. Ne communiquez jamais votre clé complète de 25 caractères à un tiers.",
+      "columns": [
+        "Ce que vous observez",
+        "Cause probable",
+        "Vérification sans risque",
+        "Prochaine action"
+      ],
+      "rows": [
+        [
+          "Mention d’une organisation ou d’un serveur KMS",
+          "Licence en volume ou ancien paramétrage KMS",
+          "Notez l’édition de Windows et le message exact",
+          "Sur un PC professionnel, contactez l’informatique ; sur un PC personnel, vérifiez l’origine de l’installation"
+        ],
+        [
+          "0xC004F074 après un déplacement ou le télétravail",
+          "PC d’entreprise hors réseau interne",
+          "Testez le réseau de l’entreprise ou son VPN, s’il est fourni et autorisé",
+          "Demandez les consignes à votre service informatique"
+        ],
+        [
+          "0xC004C003 après l’achat d’une clé",
+          "Clé bloquée, revendue ou utilisée hors de ses droits",
+          "Conservez facture, e-mail de livraison et référence de commande",
+          "Sollicitez le vendeur, puis Microsoft si nécessaire"
+        ],
+        [
+          "Windows a été réinstallé après un changement matériel",
+          "Licence numérique non retrouvée ou édition différente",
+          "Vérifiez que l’édition installée est bien Home ou Pro, comme auparavant",
+          "Utilisez le dépanneur d’activation avec votre compte Microsoft"
+        ],
+        [
+          "Clé Home saisie sur Windows Pro, ou inversement",
+          "Incohérence entre clé et édition",
+          "Contrôlez l’édition affichée dans Activation",
+          "Installez ou activez l’édition correspondant réellement à votre licence"
+        ]
+      ],
+      "note": "Le numéro de produit affiché dans Windows n’est pas votre clé de produit. Il ne permet pas, à lui seul, de prouver le droit à la licence."
+    },
+    {
+      "type": "steps",
+      "heading": "Réactiver Windows sur un PC personnel : la méthode la plus sûre",
+      "intro": "Procédez dans cet ordre. Chaque étape évite une modification inutile et vous aide à conserver les éléments utiles si vous devez joindre un support.",
+      "steps": [
+        {
+          "title": "Vérifiez l’édition et l’état d’activation",
+          "html": "<p>Dans les paramètres d’Activation, relevez l’édition installée, par exemple Windows Home ou Windows Pro, ainsi que le texte complet de l’erreur. Une licence numérique Windows Home ne peut pas activer une installation Windows Pro. Vérifiez aussi que la date, l’heure et le fuseau horaire sont corrects, puis connectez le PC à Internet.</p>"
+        },
+        {
+          "title": "Lancez le dépanneur d’activation",
+          "html": "<p>Si Windows indique qu’il n’est pas activé, sélectionnez l’option de résolution des problèmes. Connectez-vous avec le même compte Microsoft que celui utilisé avant une réinstallation ou un changement de matériel. Si une licence numérique y est associée, l’outil peut proposer de réactiver l’appareil, notamment après le remplacement de la carte mère.</p>"
+        },
+        {
+          "title": "Saisissez une clé uniquement si vous en possédez une légitime",
+          "html": "<p>Utilisez l’option Modifier la clé de produit seulement avec une clé provenant de Microsoft, d’un revendeur reconnu, de votre employeur ou du fabricant du PC. Conservez la preuve d’achat. Les clés génériques trouvées en ligne peuvent aider à installer une édition dans certains contextes, mais elles ne constituent pas une licence et n’activent pas Windows à elles seules.</p>"
+        },
+        {
+          "title": "Traitez le code selon son origine",
+          "html": "<p>Avec 0xC004F074, un ancien PC de travail doit normalement être reconnecté au réseau de l’organisation selon ses règles, souvent via un VPN professionnel. Avec 0xC004C003, ne multipliez pas les essais : demandez plutôt un remboursement ou un échange si la clé vient d’être achetée, en joignant le code d’erreur et votre justificatif.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne tentez pas d’activer Windows via un serveur KMS public",
+      "html": "<p>Les scripts, « activateurs » et adresses de serveurs KMS publics ne réparent pas une licence : ils contournent l’activation et modifient parfois les paramètres de sécurité ou les services Windows. Ils peuvent installer un logiciel malveillant, compromettre vos données et laisser votre PC avec une activation instable. Si l’ordinateur provient d’une image système non fiable, une réinstallation propre de l’édition adéquate est souvent plus prudente qu’un empilement de correctifs.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "En entreprise : pourquoi l’erreur 0xC004F074 survient-elle ?",
+      "html": "<p>Dans un environnement professionnel, le serveur KMS valide les postes équipés de licences en volume. Une activation KMS est valable pour une durée limitée et le PC doit périodiquement pouvoir retrouver l’infrastructure de l’organisation. Un salarié en télétravail, un ordinateur déplacé sur un réseau invité ou une machine sortie du domaine peut donc rencontrer l’erreur 0xC004F074.</p><p>La cause peut aussi être technique : enregistrement DNS interne absent ou erroné, accès au serveur KMS bloqué, nom de serveur mal configuré, VPN non connecté ou service KMS indisponible. Le port TCP 1688 est couramment utilisé par KMS, mais il ne doit pas être ouvert vers Internet pour autant. La bonne pratique consiste à rendre le serveur accessible uniquement depuis les réseaux autorisés de l’organisation.</p><p>Un décalage important de date et d’heure, un proxy mal paramétré ou une politique de sécurité réseau trop restrictive peuvent également perturber l’environnement de licence. Désinstaller l’antivirus ou désactiver le pare-feu en urgence n’est pas une réponse recommandée : l’équipe informatique doit plutôt vérifier les règles précises qui s’appliquent au poste et au réseau.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Contrôles à confier au service informatique",
+      "intro": "Ces éléments concernent les administrateurs ou les personnes explicitement chargées du parc informatique. Ils ne justifient pas de modifier la configuration d’un PC personnel.",
+      "columns": [
+        "Point de contrôle",
+        "Pourquoi c’est important",
+        "Exemple de vérification"
+      ],
+      "rows": [
+        [
+          "Canal de licence du poste",
+          "Un poste en volume doit relever de l’organisation qui le gère",
+          "Contrôler les informations de licence avec la commande slmgr /dlv"
+        ],
+        [
+          "Connexion réseau et VPN",
+          "Le client doit joindre l’infrastructure interne autorisée",
+          "Vérifier que le VPN professionnel est connecté et que les routes réseau sont correctes"
+        ],
+        [
+          "DNS interne",
+          "Les clients KMS découvrent fréquemment le service par DNS",
+          "Contrôler l’enregistrement de service KMS dans la zone DNS interne"
+        ],
+        [
+          "Serveur KMS et pare-feu",
+          "Le service doit être disponible et accessible sur le port prévu",
+          "Vérifier l’état du service, les journaux et les règles TCP 1688 internes"
+        ],
+        [
+          "Capacité d’activation KMS",
+          "Le service nécessite un nombre minimal de clients pour activer certaines familles de produits",
+          "Vérifier le compteur KMS et la configuration de l’hôte d’activation"
+        ]
+      ],
+      "note": "La commande slmgr /dlv affiche des informations de diagnostic ; elle ne crée ni ne valide une licence. Les commandes qui remplacent une clé ou un serveur KMS ne doivent être exécutées qu’avec une consigne d’administration claire."
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs qui compliquent inutilement l’activation",
+      "points": [
+        "Confondre une clé de produit, une licence numérique et l’identifiant de produit affiché dans Windows.",
+        "Acheter une clé très bon marché sans vérifier le type de licence ni les conditions de transfert.",
+        "Installer Windows Pro alors que l’ordinateur dispose seulement d’une licence Home intégrée au firmware.",
+        "Copier une commande d’activation sans comprendre si le PC relève d’une licence personnelle ou professionnelle.",
+        "Envoyer sa clé complète par e-mail, messagerie ou capture d’écran à un interlocuteur non vérifié."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Quelle licence choisir si la vôtre est réellement invalide ?",
+      "html": "<p>Si votre clé est définitivement bloquée et qu’aucun recours n’est possible, achetez une licence adaptée à votre édition et à votre usage. À titre d’ordre de grandeur, une licence Windows Home authentique coûte souvent autour de 100 à 150 €, tandis qu’une licence Pro se situe fréquemment autour de 200 à 260 € selon le canal de vente, le pays et les promotions. Un tarif de quelques euros doit éveiller la prudence.</p><p>Une licence <strong>Retail</strong>, achetée séparément, est en principe transférable vers un autre PC, à condition de ne plus être utilisée sur l’ancien. Une licence <strong>OEM</strong>, fournie avec un ordinateur neuf, est généralement liée à sa première machine et surtout à sa carte mère. Les licences en volume, elles, sont réservées à l’organisation qui les a acquises : elles ne peuvent pas être revendues comme une clé personnelle.</p><p>Avant de payer, vérifiez l’identité du vendeur, les conditions de remboursement, la facture et la nature exacte de la licence. Pour un ordinateur qui possédait déjà une activation numérique, réinstaller la même édition de Windows puis se connecter à Internet peut parfois suffire : il est inutile de racheter une clé avant d’avoir essayé cette piste.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Quand contacter le support ou demander un remboursement ?",
+      "html": "<p>Contactez le fabricant de votre PC si Windows était préinstallé et que l’activation échoue après une réinstallation de la même édition. Contactez votre employeur ou établissement si le message fait référence à une organisation, à KMS ou à une gestion centralisée. Dans ces deux cas, modifier soi-même le mécanisme de licence risque surtout de compliquer le diagnostic.</p><p>Pour une clé achetée récemment et associée à 0xC004C003, sollicitez d’abord le vendeur avec la facture, la date d’achat, l’édition concernée et une capture du message en masquant toute clé complète. Si la vente était trompeuse, demandez un remboursement. Préparez les mêmes informations avant de contacter l’assistance Microsoft : elles permettront de distinguer un problème de droit numérique, d’édition Windows ou de clé bloquée.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "L’erreur 0xC004F074 empêche-t-elle d’utiliser mon ordinateur ?",
+      "a_html": "<p>Pas complètement dans la plupart des cas. Windows peut continuer à fonctionner, mais vous verrez des alertes d’activation et certaines options de personnalisation seront limitées. Il est préférable de résoudre le problème rapidement, mais il n’est généralement pas nécessaire de réinstaller Windows dans l’urgence.</p>"
+    },
+    {
+      "q": "Puis-je corriger 0xC004F074 avec la commande slmgr /ato ?",
+      "a_html": "<p>La commande slmgr /ato demande à Windows de retenter l’activation avec la licence déjà installée. Elle peut être utile lorsqu’un poste professionnel a retrouvé son réseau KMS autorisé. Elle ne peut toutefois ni créer une licence valide ni contacter un serveur qui reste inaccessible.</p><p>Ne l’utilisez pas avec des commandes récupérées sur des sites proposant des clés ou serveurs inconnus.</p>"
+    },
+    {
+      "q": "Pourquoi mon PC personnel parle-t-il d’un serveur d’activation de mon organisation ?",
+      "a_html": "<p>Il peut s’agir d’un ancien ordinateur d’entreprise, d’une installation de Windows effectuée avec une clé en volume, ou d’un système configuré auparavant pour utiliser KMS. Sur un PC acheté d’occasion ou avec une clé à bas prix, ce signal doit vous pousser à vérifier la provenance de la licence.</p><p>Un PC personnel ne doit pas dépendre d’un serveur KMS public. Recherchez plutôt une licence numérique, une clé Retail valide ou la licence OEM d’origine de l’appareil.</p>"
+    },
+    {
+      "q": "Une date ou une heure incorrecte peut-elle provoquer ces erreurs ?",
+      "a_html": "<p>Une horloge fortement décalée peut compliquer des connexions réseau et des mécanismes de licence, notamment en entreprise. Corriger automatiquement la date, l’heure et le fuseau horaire est donc une vérification simple et utile. En revanche, cela ne débloquera pas une clé réellement refusée avec le code 0xC004C003.</p>"
+    },
+    {
+      "q": "Puis-je transférer ma licence Windows vers un nouveau PC ?",
+      "a_html": "<p>Souvent oui pour une licence Retail achetée séparément, à condition qu’elle ne reste active que sur un seul appareil à la fois. Les licences OEM préinstallées sont généralement liées à l’ordinateur d’origine. Les licences de volume appartiennent à l’organisation qui les a achetées et ne sont pas transférables à titre personnel.</p>"
+    },
+    {
+      "q": "Faut-il désactiver l’antivirus ou le pare-feu pour activer Windows ?",
+      "a_html": "<p>Non, pas comme première solution. Sur un poste personnel, une connexion Internet normale suffit habituellement. En entreprise, un pare-feu ou un VPN peut avoir une incidence sur l’accès au serveur KMS, mais les règles doivent être contrôlées par l’administrateur sans abaisser globalement la protection du poste.</p>"
+    }
+  ],
+  "conclusion_html": "<p>La solution commence par le bon diagnostic : <strong>0xC004F074</strong> renvoie le plus souvent à une activation KMS qui ne peut pas joindre l’infrastructure de l’organisation, tandis que <strong>0xC004C003</strong> exige de traiter une clé refusée ou bloquée. Vérifiez l’édition de Windows, vos justificatifs et votre type de licence avant toute modification. Avec une démarche légitime et méthodique, vous éviterez les faux correctifs, les dépenses inutiles et les risques pour vos données.</p>",
+  "__slug": "les-erreurs-dactivation-0xc004f074-et-0xc004c003-causes-et-solutions-detaillees"
+}

@@ -1,0 +1,262 @@
+{
+  "title": "Problèmes de synchronisation iPhone et iCloud : le guide pour les résoudre sans perdre vos données",
+  "meta_description": "Votre iPhone ne synchronise plus iCloud ? Vérifiez réseau, stockage et réglages, puis relancez la synchronisation sans risquer vos données.",
+  "reading_time_min": 12,
+  "hero_intro": "Vos photos n'apparaissent plus sur votre Mac, un contact manque sur votre iPhone ou iCloud affiche une synchronisation en pause ? Ces incidents sont fréquents et ne signalent pas forcément une perte de données. En procédant dans le bon ordre — connexion, compte Apple, stockage, réglages puis actions ciblées — vous pouvez généralement rétablir la synchronisation sans prendre de risque inutile.",
+  "key_takeaways": [
+    "Commencez toujours par vérifier le Wi-Fi, l'état du service iCloud et l'espace de stockage avant de modifier des réglages.",
+    "La synchronisation iCloud et la sauvegarde iCloud n'ont pas le même rôle : une photo supprimée d'iCloud Photos disparaît aussi des appareils synchronisés.",
+    "Un iPhone en mode économie d'énergie, sans batterie suffisante ou avec une mise à jour iOS en attente peut retarder certaines synchronisations.",
+    "Désactiver iCloud ou se déconnecter du compte Apple est une solution de dernier recours : vérifiez ce qui est conservé localement avant toute confirmation.",
+    "Traitez le type de donnée concerné séparément : Photos, Contacts, Calendriers, Notes, Messages et sauvegardes n'obéissent pas tous aux mêmes conditions."
+  ],
+  "toc": [
+    "Identifier le type de problème de synchronisation",
+    "Faire le diagnostic rapide, sans toucher aux données",
+    "Synchronisation iCloud ou sauvegarde iCloud : ne pas les confondre",
+    "Corriger les causes les plus fréquentes",
+    "Vérifier et libérer le stockage iCloud",
+    "Résoudre le problème selon les données concernées",
+    "Relancer iCloud dans le bon ordre",
+    "Les erreurs à éviter avant de se déconnecter"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Identifier le type de problème de synchronisation",
+      "html": "<p>Avant de tenter une réparation, identifiez précisément <strong>ce qui ne se synchronise plus</strong>. Une photo qui reste sur l'iPhone, un calendrier absent sur un autre appareil et une sauvegarde iCloud qui échoue sont trois problèmes différents. Les réglages à vérifier et les délais normaux ne sont pas les mêmes.</p><p>Les symptômes les plus courants sont une mention « Synchronisation avec iCloud en pause » dans Photos, des contacts ou notes différents selon l'appareil, des fichiers iCloud Drive introuvables, ou encore l'alerte indiquant qu'une sauvegarde n'a pas été effectuée depuis longtemps. Notez aussi si le souci concerne <strong>un seul appareil ou tous vos appareils</strong>. Si vos données sont visibles sur iCloud.com mais pas sur l'iPhone, le problème est probablement local à l'iPhone. Si elles sont absentes partout, il peut s'agir d'un réglage, d'un compte différent ou d'une suppression synchronisée.</p><p>Gardez en tête qu'iCloud peut prendre du temps. Une photothèque importante, une première synchronisation après changement d'iPhone ou une connexion lente peuvent nécessiter plusieurs heures, voire davantage. L'absence de progrès durable, les messages d'erreur ou les données incohérentes justifient en revanche un diagnostic.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les vérifications à faire en premier",
+      "points": [
+        "Vérifiez que le mode avion est désactivé et que le Wi-Fi ouvre réellement des pages ou des applications.",
+        "Contrôlez que vous utilisez le même compte Apple sur tous les appareils concernés.",
+        "Ouvrez Réglages > votre nom > iCloud et vérifiez que le service concerné est activé.",
+        "Regardez l'espace disponible dans iCloud, mais aussi dans le stockage de l'iPhone.",
+        "Consultez la page « État du système » d'Apple si plusieurs services iCloud semblent indisponibles en même temps."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Diagnostic : associer le symptôme à la bonne cause",
+      "intro": "Ce tableau permet d'éviter les manipulations au hasard. Commencez par les causes les plus simples et les moins risquées.",
+      "columns": [
+        "Symptôme observé",
+        "Causes probables",
+        "Contrôle ou action utile"
+      ],
+      "rows": [
+        [
+          "Photos bloquées sur « En pause »",
+          "Mode économie d'énergie, batterie faible, Wi-Fi instable, stockage plein",
+          "Branchez l'iPhone, désactivez temporairement le mode économie d'énergie, connectez-vous à un Wi-Fi fiable et vérifiez l'espace libre."
+        ],
+        [
+          "Contacts ou calendriers différents selon les appareils",
+          "Mauvais compte Apple, compte Gmail/Exchange affiché à la place, option iCloud désactivée",
+          "Vérifiez les comptes dans les réglages de Contacts ou Calendrier et activez Contacts/Calendriers dans iCloud."
+        ],
+        [
+          "Sauvegarde iCloud ancienne ou impossible",
+          "Forfait iCloud saturé, iPhone non branché, Wi-Fi absent, sauvegarde trop volumineuse",
+          "Contrôlez la dernière sauvegarde, branchez l'iPhone sur Wi-Fi et libérez ou augmentez l'espace iCloud."
+        ],
+        [
+          "Notes, fichiers ou rappels manquants",
+          "Dossier local ou autre fournisseur de compte, synchronisation temporairement retardée",
+          "Vérifiez les comptes et les dossiers dans l'application concernée avant de supprimer quoi que ce soit."
+        ],
+        [
+          "Message demandant le mot de passe du compte Apple",
+          "Identifiants modifiés, validation de sécurité requise, conditions iCloud non acceptées",
+          "Saisissez le mot de passe, validez les demandes affichées et contrôlez les réglages de sécurité du compte."
+        ]
+      ],
+      "note": "Les intitulés de menus peuvent légèrement varier selon la version d'iOS. Évitez de supprimer une donnée tant que vous n'avez pas confirmé où se trouve sa copie."
+    },
+    {
+      "type": "steps",
+      "heading": "Faire le diagnostic rapide en 7 étapes",
+      "intro": "Suivez cette séquence, de la vérification la plus simple à l'action plus technique. Après chaque étape, laissez quelques minutes à l'iPhone pour reprendre la synchronisation.",
+      "steps": [
+        {
+          "title": "1. Stabilisez la connexion",
+          "html": "<p>Connectez l'iPhone à un Wi-Fi fiable. Désactivez puis réactivez le Wi-Fi si nécessaire et évitez les réseaux publics avec page de connexion. Si vous utilisez les données mobiles, vérifiez dans Réglages que l'accès cellulaire est autorisé pour les services concernés, tout en sachant que certaines opérations volumineuses attendent souvent le Wi-Fi.</p>"
+        },
+        {
+          "title": "2. Branchez l'iPhone et vérifiez la batterie",
+          "html": "<p>Branchez l'appareil sur secteur, déverrouillez-le au besoin puis laissez-le sur Wi-Fi. Une sauvegarde iCloud automatique se lance habituellement lorsque l'iPhone est verrouillé, connecté à l'alimentation et au Wi-Fi.</p>"
+        },
+        {
+          "title": "3. Désactivez temporairement le mode économie d'énergie",
+          "html": "<p>Ce mode peut limiter des activités en arrière-plan, notamment avec Photos. Allez dans Réglages > Batterie et désactivez le mode économie d'énergie le temps de la reprise.</p>"
+        },
+        {
+          "title": "4. Contrôlez le compte Apple",
+          "html": "<p>Dans Réglages, touchez votre nom. Vérifiez l'adresse associée au compte Apple et comparez-la avec celle des autres appareils. Une demande de mot de passe ou d'acceptation des conditions doit être traitée avant que certains services reprennent.</p>"
+        },
+        {
+          "title": "5. Vérifiez les interrupteurs iCloud",
+          "html": "<p>Ouvrez Réglages > votre nom > iCloud. Assurez-vous que Photos, Contacts, Calendriers, Notes, iCloud Drive ou Messages sont activés selon vos besoins. N'activez pas un service sans comprendre son effet : certaines données locales pourront être fusionnées ou téléversées.</p>"
+        },
+        {
+          "title": "6. Installez les mises à jour disponibles",
+          "html": "<p>Dans Réglages > Général > Mise à jour logicielle, vérifiez qu'iOS est à jour. Une mise à jour corrige parfois un bug de synchronisation ou une incompatibilité avec un service Apple récent.</p>"
+        },
+        {
+          "title": "7. Redémarrez l'iPhone",
+          "html": "<p>Un redémarrage simple peut relancer des processus réseau bloqués. Une fois l'iPhone rallumé, reconnectez-le au Wi-Fi et observez l'état du service concerné avant de changer d'autres réglages.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Synchronisation iCloud et sauvegarde iCloud : deux protections différentes",
+      "intro": "Confondre ces deux fonctions peut conduire à de mauvaises décisions, notamment lorsqu'une donnée a été supprimée ou semble manquer.",
+      "left": {
+        "title": "Synchronisation iCloud",
+        "points": [
+          "Garde les données à jour entre vos appareils utilisant le même compte Apple.",
+          "Concerne notamment Photos iCloud, Contacts, Calendriers, Notes, iCloud Drive et, selon les réglages, Messages.",
+          "Une modification ou une suppression est généralement répercutée sur les appareils synchronisés.",
+          "Permet de retrouver rapidement une version actuelle d'une donnée, mais ne remplace pas forcément une archive indépendante."
+        ]
+      },
+      "right": {
+        "title": "Sauvegarde iCloud",
+        "points": [
+          "Crée une copie de restauration de l'iPhone à un instant donné.",
+          "Sert principalement à récupérer un iPhone après perte, panne, réinitialisation ou changement d'appareil.",
+          "Inclut surtout les réglages, données d'apps et éléments non déjà synchronisés séparément avec iCloud.",
+          "Ne fonctionne pas comme un dossier où l'on consulte chaque élément un par un ; elle doit être récente et disposer de suffisamment d'espace."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Corriger les causes les plus fréquentes",
+      "html": "<p>La cause la plus banale est un <strong>stockage iCloud saturé</strong>. Dans Réglages > votre nom > iCloud, consultez la barre d'utilisation et la répartition par catégories. Quand l'espace est plein, les nouvelles photos, les sauvegardes et certains documents ne peuvent plus être envoyés. Supprimez uniquement les contenus dont vous êtes certain de ne plus avoir besoin, ou envisagez un forfait iCloud+ adapté à votre usage.</p><p>En France, les premiers paliers iCloud+ sont généralement de l'ordre de <strong>1 € par mois pour 50 Go, 3 € pour 200 Go et 10 € pour 2 To</strong>. Les tarifs et l'offre peuvent évoluer : vérifiez toujours le prix affiché dans les réglages avant de souscrire. Avant d'augmenter votre forfait, examinez les anciennes sauvegardes d'appareils que vous n'utilisez plus, les pièces jointes volumineuses et les doublons de photos.</p><p>Vérifiez aussi le <strong>stockage local de l'iPhone</strong> dans Réglages > Général > Stockage iPhone. Même avec beaucoup de place dans iCloud, un appareil presque plein peut manquer d'espace temporaire pour traiter les données. Libérez quelques gigaoctets en déchargeant des applications inutilisées, en supprimant des téléchargements hors ligne ou en transférant de gros fichiers, puis recommencez.</p><p>Enfin, assurez-vous que la date et l'heure sont réglées automatiquement dans Réglages > Général > Date et heure. C'est rarement la cause principale, mais un réglage très erroné peut perturber l'authentification et les services en ligne.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe pour Photos iCloud",
+      "html": "<p>Pour une photothèque importante, laissez l'iPhone <strong>branché, connecté à un Wi-Fi stable et avec le mode économie d'énergie désactivé</strong> pendant plusieurs heures, idéalement la nuit. Dans l'application Photos, ouvrez votre bibliothèque et consultez le message d'état en bas de l'écran : il indique souvent si la synchronisation est en pause, le nombre d'éléments restants ou le motif du blocage.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Résoudre le problème selon les données concernées",
+      "html": "<p><strong>Pour les contacts et les calendriers</strong>, vérifiez d'abord que vous consultez la bonne liste. Dans Contacts, les fiches peuvent provenir d'iCloud, de Gmail, d'Exchange ou d'un compte professionnel. Dans Calendrier, affichez la liste des calendriers et cochez ceux que vous souhaitez voir. Un événement qui n'est présent que dans un calendrier Google ne sera pas automatiquement envoyé dans iCloud.</p><p><strong>Pour les Notes et les Rappels</strong>, regardez le nom du dossier ou de la liste. Une note placée dans « Sur mon iPhone » reste locale ; une note dans un compte Gmail dépend de ce compte. Déplacez-la vers le dossier iCloud seulement si vous souhaitez qu'elle soit disponible sur vos autres appareils Apple.</p><p><strong>Pour iCloud Drive</strong>, vérifiez que l'option iCloud Drive est activée et que l'application Fichiers affiche bien l'emplacement iCloud Drive. Un fichier peut aussi rester en attente de téléversement si l'appareil est hors ligne ou si son nom, son format ou son application d'origine pose un conflit. Dupliquez le fichier critique dans un emplacement local ou sur un support externe avant toute manipulation lourde.</p><p><strong>Pour Messages dans iCloud</strong>, contrôlez que l'option est activée dans iCloud et que les appareils concernés utilisent le même compte Apple. Les anciennes conversations et pièces jointes volumineuses peuvent demander du temps pour apparaître. Ne désactivez pas l'option au hasard si vos messages sont importants : l'iPhone peut vous demander de choisir entre télécharger ou supprimer une copie locale.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quel réglage vérifier selon le service iCloud ?",
+      "intro": "Les chemins de menus peuvent évoluer, mais ces contrôles restent les plus utiles pour isoler le problème.",
+      "columns": [
+        "Donnée concernée",
+        "Où vérifier sur l'iPhone",
+        "Point d'attention"
+      ],
+      "rows": [
+        [
+          "Photos",
+          "Réglages > votre nom > iCloud > Photos",
+          "Vérifiez l'activation de la synchronisation et l'état affiché dans l'application Photos."
+        ],
+        [
+          "Contacts",
+          "Réglages > votre nom > iCloud, puis comptes dans les réglages de Contacts",
+          "Distinguez les contacts iCloud de ceux issus de Gmail, Exchange ou d'un compte professionnel."
+        ],
+        [
+          "Calendriers",
+          "Réglages > votre nom > iCloud, puis liste des calendriers dans l'app Calendrier",
+          "Un calendrier masqué ou lié à un autre fournisseur peut donner l'impression d'une absence de synchronisation."
+        ],
+        [
+          "Notes et Rappels",
+          "Réglages > votre nom > iCloud, puis dossiers ou listes dans les apps",
+          "Les éléments stockés « Sur mon iPhone » ne sont pas synchronisés avec iCloud."
+        ],
+        [
+          "Sauvegarde de l'iPhone",
+          "Réglages > votre nom > iCloud > Sauvegarde iCloud",
+          "Contrôlez la date de la dernière sauvegarde, le Wi-Fi, l'alimentation et la capacité disponible."
+        ],
+        [
+          "Fichiers",
+          "Réglages > votre nom > iCloud > iCloud Drive, puis app Fichiers",
+          "Un fichier en local ou dans un autre cloud n'apparaît pas automatiquement dans iCloud Drive."
+        ]
+      ],
+      "note": "Avant de désactiver un service, vérifiez où résident vos données et lisez attentivement les options proposées par l'iPhone."
+    },
+    {
+      "type": "steps",
+      "heading": "Relancer la synchronisation sans prendre de risque",
+      "intro": "Si les vérifications précédentes n'ont rien changé, relancez le service concerné progressivement. Procédez à une seule modification à la fois pour savoir ce qui résout le problème.",
+      "steps": [
+        {
+          "title": "1. Protégez vos données importantes",
+          "html": "<p>Avant une manipulation, vérifiez sur un autre appareil ou sur iCloud.com que vos données essentielles sont bien présentes. Pour les fichiers irremplaçables, conservez aussi une copie dans un emplacement indépendant.</p>"
+        },
+        {
+          "title": "2. Fermez puis rouvrez l'application concernée",
+          "html": "<p>Fermez Photos, Calendrier, Notes ou Fichiers depuis le sélecteur d'applications, puis rouvrez-la après avoir vérifié le Wi-Fi. Cette action est simple et peut suffire lorsque l'affichage n'est pas actualisé.</p>"
+        },
+        {
+          "title": "3. Désactivez et réactivez uniquement le service en cause",
+          "html": "<p>Dans les réglages iCloud, coupez l'interrupteur du service concerné, lisez le message affiché et choisissez avec prudence de conserver une copie locale lorsque cette option est proposée et que vous avez un doute. Réactivez ensuite le service et laissez l'iPhone se reconnecter.</p>"
+        },
+        {
+          "title": "4. Redémarrez et observez",
+          "html": "<p>Redémarrez l'iPhone, branchez-le et laissez-le sur Wi-Fi. Vérifiez si le compteur de photos, la date de sauvegarde ou les données sur l'autre appareil évoluent réellement.</p>"
+        },
+        {
+          "title": "5. Envisagez la déconnexion du compte Apple seulement en dernier recours",
+          "html": "<p>La déconnexion puis reconnexion peut résoudre un problème d'authentification persistant, mais elle est plus intrusive. Faites-la uniquement après avoir confirmé la présence de vos données dans iCloud et avoir mémorisé le mot de passe du compte Apple ainsi que les moyens de validation à deux facteurs.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne vous déconnectez pas d'iCloud trop vite",
+      "html": "<p>Se déconnecter du compte Apple ne doit pas être votre premier réflexe. Cette opération peut retirer de l'iPhone des copies locales de contacts, calendriers, photos ou fichiers selon les choix effectués à l'écran. Si vous ne voyez plus vos données nulle part, si vous soupçonnez une suppression ou si vous n'êtes pas certain du compte utilisé, <strong>ne désactivez rien</strong> : vérifiez d'abord iCloud.com, un autre appareil ou une sauvegarde existante.</p><p>De même, réinitialiser les réglages réseau peut dépanner une connexion défaillante, mais efface les réseaux Wi-Fi enregistrés, leurs mots de passe et certains réglages de connexion. Réservez cette action aux cas où le Wi-Fi pose aussi problème dans d'autres applications.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Quand demander de l'aide à Apple",
+      "html": "<p>Contactez l'assistance Apple si le problème persiste après une mise à jour, un redémarrage, les vérifications de stockage et une connexion fiable, surtout si l'iPhone affiche une erreur de compte Apple, une boucle de connexion ou un message de sécurité inhabituel. Préparez la version d'iOS, le modèle d'iPhone, le service iCloud concerné, le texte exact de l'erreur et les actions déjà tentées : le diagnostic sera plus rapide.</p><p>Agissez aussi sans tarder en cas de suspicion d'accès non autorisé au compte Apple : appareil inconnu dans la liste des appareils, demandes de code que vous n'avez pas initiées ou changement d'adresse e-mail inattendu. Modifiez alors le mot de passe depuis les réglages de sécurité du compte et contrôlez les appareils connectés. Un souci de synchronisation peut parfois révéler un problème d'identification plutôt qu'un simple bug technique.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi mon iPhone affiche-t-il « Synchronisation avec iCloud en pause » ?",
+      "a_html": "<p>Ce message apparaît fréquemment lorsque l'iPhone est en mode économie d'énergie, manque de batterie, n'est pas connecté à un Wi-Fi suffisamment stable ou ne dispose plus d'assez d'espace iCloud. Branchez-le, désactivez temporairement le mode économie d'énergie, vérifiez le Wi-Fi et consultez l'espace disponible dans iCloud.</p><p>Dans Photos, le message affiché en bas de la bibliothèque peut préciser la raison du blocage. Une grande quantité de photos ou de vidéos à envoyer peut également expliquer un délai important.</p>"
+    },
+    {
+      "q": "Comment forcer la synchronisation iCloud sur mon iPhone ?",
+      "a_html": "<p>Il n'existe pas toujours un bouton unique pour forcer toutes les données iCloud. La méthode la plus sûre consiste à connecter l'iPhone au Wi-Fi, le brancher sur secteur, vérifier le service iCloud concerné puis redémarrer l'appareil.</p><p>Si une seule catégorie reste bloquée, vous pouvez désactiver puis réactiver uniquement son interrupteur dans Réglages > votre nom > iCloud, après avoir vérifié que vos données importantes sont bien présentes dans iCloud ou sur un autre appareil.</p>"
+    },
+    {
+      "q": "Mes photos sont dans iCloud mais pas sur mon iPhone : que faire ?",
+      "a_html": "<p>Vérifiez d'abord que Photos iCloud est activé sur l'iPhone et que vous utilisez le même compte Apple. Assurez-vous ensuite que le téléphone dispose d'une connexion Wi-Fi stable et de suffisamment de stockage local pour afficher et télécharger les éléments demandés.</p><p>Si l'option d'optimisation du stockage est active, les originaux peuvent rester dans iCloud et être téléchargés à la demande. Cela est normal : les vignettes ou certaines photos peuvent mettre un peu de temps à se charger.</p>"
+    },
+    {
+      "q": "Est-ce que supprimer une photo de mon iPhone la supprime aussi d'iCloud ?",
+      "a_html": "<p>Oui, si Photos iCloud est activé, la photothèque est synchronisée : supprimer une photo sur l'iPhone la supprime aussi des autres appareils liés au même compte Apple et d'iCloud. Elle reste généralement un temps limité dans l'album « Supprimés récemment », ce qui peut permettre de la récupérer.</p><p>Si votre objectif est seulement de libérer de l'espace sur l'iPhone, préférez l'optimisation du stockage ou transférez vos fichiers vers un autre support plutôt que de les supprimer sans vérification.</p>"
+    },
+    {
+      "q": "Pourquoi ma sauvegarde iCloud ne se fait-elle pas alors que la synchronisation fonctionne ?",
+      "a_html": "<p>La sauvegarde et la synchronisation sont distinctes. Une sauvegarde automatique a habituellement besoin que l'iPhone soit verrouillé, branché sur secteur et connecté au Wi-Fi. Elle peut aussi échouer si le stockage iCloud est insuffisant.</p><p>Dans Réglages > votre nom > iCloud > Sauvegarde iCloud, vérifiez la date de la dernière sauvegarde et lancez-en une manuellement si l'option est disponible. Examinez ensuite les applications et anciennes sauvegardes qui occupent de la place.</p>"
+    },
+    {
+      "q": "Puis-je me déconnecter d'iCloud pour régler un problème de synchronisation ?",
+      "a_html": "<p>Vous le pouvez, mais c'est une solution de dernier recours. Avant de vous déconnecter, vérifiez que les données importantes sont visibles sur iCloud.com ou sur un autre appareil, que vous connaissez le mot de passe du compte Apple et que vous pouvez recevoir les codes de validation.</p><p>Lors de la déconnexion, l'iPhone peut vous demander quelles données garder localement. Lisez chaque écran avec attention : un mauvais choix peut retirer des copies locales et compliquer la vérification de vos informations.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Un problème de synchronisation entre l'iPhone et iCloud se résout le plus souvent avec une méthode simple : stabiliser la connexion, vérifier le compte Apple, contrôler les réglages du service concerné et libérer de l'espace si nécessaire. Prenez le temps d'identifier la donnée en cause avant d'agir : vous éviterez les déconnexions inutiles et les suppressions accidentelles.</p><p>Si le blocage persiste, protégez d'abord vos éléments importants, relancez uniquement le service concerné et conservez le message d'erreur exact. Cette approche prudente vous permettra de retrouver une synchronisation fiable, sans sacrifier vos photos, contacts ou documents.</p>",
+  "__slug": "comment-faire-face-a-des-problemes-de-synchronisation-entre-mon-iphone-et-icloud"
+}

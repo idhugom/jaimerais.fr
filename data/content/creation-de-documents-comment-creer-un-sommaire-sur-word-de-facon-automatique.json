@@ -1,0 +1,232 @@
+{
+  "title": "Comment créer un sommaire automatique dans Word et le mettre à jour",
+  "meta_description": "Créez un sommaire automatique dans Word grâce aux styles de titres, à la mise à jour et aux réglages utiles pour un document clair et professionnel.",
+  "reading_time_min": 9,
+  "hero_intro": "Un long rapport, un mémoire, un dossier professionnel ou un livre gagnent immédiatement en clarté avec un sommaire bien structuré. Dans Word, il peut se générer en quelques clics et se mettre à jour sans refaire toute la mise en page. La clé n'est pas de taper les titres à la main, mais d'utiliser correctement les styles de titre.",
+  "key_takeaways": [
+    "Le sommaire automatique de Word repose sur les styles « Titre 1 », « Titre 2 », « Titre 3 » et non sur une mise en forme manuelle.",
+    "Insérez la table des matières seulement lorsque la structure de votre document est en place, de préférence sur une page dédiée.",
+    "Après chaque modification importante, mettez à jour toute la table et pas uniquement les numéros de page.",
+    "Vous pouvez choisir le nombre de niveaux affichés, les points de suite, les liens cliquables et les styles visuels du sommaire.",
+    "Un titre qui ne s'affiche pas dans le sommaire est presque toujours un problème de style ou de niveau de plan."
+  ],
+  "toc": [
+    "Pourquoi utiliser un sommaire automatique dans Word ?",
+    "Le principe à connaître : les styles de titres",
+    "Préparer la hiérarchie de son document",
+    "Insérer une table des matières automatique",
+    "Sommaire automatique ou sommaire manuel : que choisir ?",
+    "Personnaliser la table des matières",
+    "Mettre à jour le sommaire sans erreur",
+    "Résoudre les problèmes fréquents",
+    "Bien finaliser un document à partager ou à imprimer",
+    "Questions fréquentes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi utiliser un sommaire automatique dans Word ?",
+      "html": "<p>Dans Word, le « sommaire » est généralement nommé <strong>table des matières</strong>. Son rôle est simple : présenter les grandes parties d'un document, indiquer leur page et permettre au lecteur de se repérer rapidement. Dans un fichier numérique, les entrées peuvent aussi devenir des liens : un clic mène directement à la section correspondante.</p><p>Cette fonction est particulièrement utile dès qu'un document dépasse quelques pages : mémoire, rapport de stage, dossier de candidature détaillé, guide interne, compte rendu structuré, proposition commerciale ou ebook. Elle donne une impression de rigueur, mais surtout elle rend le contenu réellement plus facile à consulter.</p><p>Son principal avantage est le gain de temps. Si vous déplacez une partie, ajoutez un chapitre ou modifiez la longueur d'un paragraphe, les pages changent. Une table créée manuellement devient alors vite fausse. Une table automatique, elle, peut recalculer les titres et la pagination en quelques secondes.</p><p>Attention toutefois : Word ne devine pas votre plan à partir de la taille ou de la couleur des caractères. Pour générer un sommaire fiable, le logiciel doit reconnaître la <strong>structure logique</strong> de vos titres.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel avant de commencer",
+      "points": [
+        "Créez d'abord un plan cohérent : parties, sous-parties et, si nécessaire, sous-sous-parties.",
+        "Appliquez un style de titre à chaque intitulé, y compris si son apparence vous convient déjà.",
+        "Gardez une numérotation régulière : un « 2.1 » doit appartenir à une partie « 2 ».",
+        "Prévoyez une page ou un emplacement distinct pour la table des matières.",
+        "Vérifiez l'affichage final dans le format de diffusion choisi : Word, PDF ou impression papier."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Le principe à connaître : appliquer les styles de titres",
+      "intro": "Les styles sont les balises invisibles qui indiquent à Word quel texte est un titre et quel est son niveau dans le plan. C'est cette étape qui rend l'automatisation possible.",
+      "steps": [
+        {
+          "title": "Sélectionnez le titre de votre première grande partie",
+          "html": "<p>Cliquez dans le texte du titre, par exemple « Introduction », « 1. Présentation du projet » ou « Chapitre 1 ». Il n'est pas indispensable de sélectionner toute la ligne : placer le curseur dans le paragraphe suffit généralement.</p>"
+        },
+        {
+          "title": "Choisissez le bon style dans l'onglet Accueil",
+          "html": "<p>Dans le groupe des styles, appliquez <strong>« Titre 1 »</strong> aux grandes parties. Utilisez <strong>« Titre 2 »</strong> pour leurs sous-parties, puis <strong>« Titre 3 »</strong> pour le niveau suivant. Selon votre version de Word, ouvrez la galerie complète des styles si tous ne sont pas visibles.</p>"
+        },
+        {
+          "title": "Répétez la même logique dans tout le document",
+          "html": "<p>Deux titres de même importance doivent recevoir le même style. Ne choisissez pas « Titre 2 » parce que sa police vous plaît : son niveau doit correspondre à sa place réelle dans le plan.</p>"
+        },
+        {
+          "title": "Modifiez le style plutôt que chaque titre isolément",
+          "html": "<p>Si l'apparence ne vous convient pas, adaptez le style de titre : police, taille, couleur, espacement ou numérotation. Ainsi, tous les titres du même niveau restent homogènes et votre sommaire continue de fonctionner correctement.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quelle hiérarchie de titres utiliser ?",
+      "intro": "Une hiérarchie simple est plus lisible pour vos lecteurs et plus fiable pour Word. Dans la plupart des documents, trois niveaux suffisent largement.",
+      "columns": [
+        "Élément du document",
+        "Style Word conseillé",
+        "Exemple",
+        "Présence dans le sommaire"
+      ],
+      "rows": [
+        [
+          "Grande partie ou chapitre",
+          "Titre 1",
+          "2. Méthodologie",
+          "Oui, indispensable"
+        ],
+        [
+          "Sous-partie principale",
+          "Titre 2",
+          "2.1 Collecte des données",
+          "Oui, recommandé"
+        ],
+        [
+          "Point détaillé",
+          "Titre 3",
+          "2.1.1 Entretiens individuels",
+          "Oui, selon la longueur du document"
+        ],
+        [
+          "Précision très fine",
+          "Titre 4 ou texte normal",
+          "Préparation du questionnaire",
+          "Souvent à éviter pour ne pas surcharger"
+        ],
+        [
+          "Texte courant",
+          "Normal",
+          "Le questionnaire a été envoyé à…",
+          "Non"
+        ]
+      ],
+      "note": "Conseil : limitez-vous souvent aux niveaux 1 à 3 dans la table des matières. Au-delà, elle devient longue et moins facile à parcourir."
+    },
+    {
+      "type": "steps",
+      "heading": "Insérer une table des matières automatique dans Word",
+      "intro": "Une fois les styles appliqués à l'ensemble de vos titres, la création du sommaire prend quelques instants.",
+      "steps": [
+        {
+          "title": "Placez le curseur à l'emplacement souhaité",
+          "html": "<p>Insérez idéalement la table des matières après la page de garde et avant l'introduction. Pour un rapport long, placez-la sur une page dédiée afin qu'elle puisse s'étendre sans gêner le reste de la mise en page.</p>"
+        },
+        {
+          "title": "Ouvrez l'onglet Références",
+          "html": "<p>Dans le ruban de Word, cliquez sur <strong>« Références »</strong>, puis sur <strong>« Table des matières »</strong>. Sur certaines versions, notamment Word pour le web ou Mac, les libellés et l'emplacement peuvent légèrement varier, mais la fonction porte le même nom.</p>"
+        },
+        {
+          "title": "Choisissez un modèle automatique",
+          "html": "<p>Sélectionnez l'un des modèles qualifiés d'automatiques. Word insère alors les titres qu'il a détectés, leurs numéros de page et, selon le modèle et le format, des liens de navigation.</p>"
+        },
+        {
+          "title": "Contrôlez immédiatement le résultat",
+          "html": "<p>Vérifiez que toutes les grandes parties sont présentes, que leur ordre est correct et que les sous-parties n'apparaissent pas à un niveau incohérent. Si un titre manque, ne le tapez pas dans la table : corrigez son style dans le corps du document.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Sommaire automatique ou sommaire manuel : que choisir ?",
+      "intro": "Le choix dépend surtout de la taille du document et de sa probabilité d'évoluer. Pour la majorité des documents structurés, l'automatique est la solution la plus sûre.",
+      "left": {
+        "title": "Table des matières automatique",
+        "points": [
+          "Se met à jour quand les titres ou les pages changent.",
+          "Crée des liens de navigation utiles dans un document numérique.",
+          "Conserve une structure homogène grâce aux styles.",
+          "Demande une préparation initiale des titres.",
+          "Convient aux rapports, mémoires, guides et documents modifiés régulièrement."
+        ]
+      },
+      "right": {
+        "title": "Sommaire manuel",
+        "points": [
+          "Peut suffire pour une page très courte et totalement figée.",
+          "Laisse une liberté graphique immédiate, mais demande plus de travail.",
+          "Les numéros de page doivent être corrigés à la main.",
+          "Risque élevé d'oublis et d'erreurs après une modification.",
+          "À réserver aux cas très ponctuels ou à une maquette conçue hors de Word."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Personnaliser la table des matières sans casser son fonctionnement",
+      "html": "<p>Les modèles proposés par Word constituent un bon point de départ, mais ils ne sont pas figés. Depuis le menu <strong>« Table des matières »</strong>, choisissez l'option de table personnalisée pour régler la présentation : nombre de niveaux visibles, alignement des numéros de page, présence de points de suite entre le titre et le numéro, ou affichage des liens à la place des pages dans une version destinée à l'écran.</p><p>Pour un mémoire ou un dossier professionnel, un affichage des niveaux 1 à 3 est souvent le meilleur équilibre. Limiter l'affichage aux grandes parties donne un sommaire très épuré ; afficher quatre ou cinq niveaux peut être pertinent dans un manuel technique, mais seulement si le plan reste facile à lire.</p><p>Vous pouvez également modifier les styles propres à la table des matières, souvent nommés « TM 1 », « TM 2 » et ainsi de suite. Cette méthode permet d'ajuster la typographie des entrées sans changer l'apparence des titres dans le document. C'est préférable à une retouche directe d'une seule ligne du sommaire, qui risque d'être perdue à la prochaine mise à jour.</p><p>Si votre document suit une charte graphique, adaptez d'abord les styles « Titre 1 », « Titre 2 » et « Titre 3 », puis harmonisez les styles de table des matières. Vous obtenez ainsi une présentation cohérente et facile à maintenir.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L'erreur qui fait disparaître vos modifications",
+      "html": "<p>Évitez de corriger directement un intitulé, une page ou la police d'une entrée dans la table générée. Lors de la prochaine actualisation, Word remplacera cette modification. Corrigez toujours le titre dans le document source ou ajustez le style concerné.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Mettre à jour le sommaire après une modification",
+      "intro": "La table n'est pas mise à jour en continu : prenez l'habitude de l'actualiser avant d'envoyer, d'imprimer ou d'exporter votre fichier.",
+      "steps": [
+        {
+          "title": "Cliquez dans la table des matières",
+          "html": "<p>Un cadre et une commande de mise à jour apparaissent généralement lorsque vous cliquez dans le sommaire. Vous pouvez aussi passer par l'onglet <strong>« Références »</strong> et choisir <strong>« Mettre à jour la table »</strong>.</p>"
+        },
+        {
+          "title": "Choisissez le bon type de mise à jour",
+          "html": "<p>Si vous avez seulement ajouté ou supprimé du texte et que les titres n'ont pas changé, l'option de mise à jour des <strong>numéros de page uniquement</strong> peut suffire. Si vous avez créé, renommé, supprimé ou déplacé des titres, choisissez impérativement la mise à jour de <strong>toute la table</strong>.</p>"
+        },
+        {
+          "title": "Relisez le résultat comme un lecteur",
+          "html": "<p>Parcourez les entrées, vérifiez les niveaux et ouvrez quelques liens dans le document numérique. Avant une impression ou un export PDF, contrôlez aussi que la pagination affichée correspond au rendu final.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Résoudre les problèmes fréquents",
+      "html": "<p><strong>Un titre n'apparaît pas :</strong> cliquez dans ce titre et vérifiez son style. Un texte simplement mis en gras, agrandi ou coloré n'est pas forcément un « Titre 1 », « Titre 2 » ou un style inclus dans votre table. Réappliquez le bon style, puis mettez à jour toute la table.</p><p><strong>Un titre apparaît au mauvais niveau :</strong> il a probablement reçu un mauvais style de titre. Par exemple, une sous-partie appliquée en « Titre 1 » sera traitée comme une nouvelle grande partie. Corrigez le style dans le document, pas dans le sommaire.</p><p><strong>Une entrée affiche un ancien intitulé ou une page erronée :</strong> actualisez toute la table. Si le souci persiste, vérifiez que le document n'est pas en cours de modification par une autre personne et que votre fichier est bien enregistré avant de mettre à jour.</p><p><strong>La table est trop longue :</strong> réduisez le nombre de niveaux affichés dans les options de personnalisation. Vous pouvez conserver vos « Titre 4 » dans le texte pour structurer votre travail, sans obliger le lecteur à les voir dans le sommaire.</p><p><strong>Des titres inutiles sont listés :</strong> un style de titre a peut-être été appliqué par erreur à une ligne de texte, une légende ou une note. Remplacez-le par le style « Normal » ou par un style personnalisé dont le niveau de plan n'est pas repris dans la table.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un contrôle rapide avec le volet Navigation",
+      "html": "<p>Activez le volet Navigation dans l'onglet d'affichage de Word. Il présente les titres selon leur hiérarchie et permet de les réorganiser plus facilement. Si ce volet est clair et logique, votre future table des matières a de fortes chances de l'être aussi.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Bien finaliser un document à partager ou à imprimer",
+      "html": "<p>Avant de diffuser votre document, effectuez une dernière mise à jour complète de la table des matières, puis enregistrez le fichier. Si vous exportez en PDF, ouvrez le PDF produit et vérifiez la pagination : une police remplacée, une imprimante différente ou un changement de format de papier peut parfois décaler des pages.</p><p>Pour une version numérique, conservez les liens cliquables lorsque cela est proposé. Dans Word, l'ouverture d'un lien de table peut demander un raccourci clavier selon vos paramètres ; dans un PDF bien exporté, les liens sont généralement plus directs. Ces liens sont particulièrement appréciables dans les documents de plusieurs dizaines de pages.</p><p>Dans un travail collaboratif, convenez d'une règle simple : chacun applique les styles de titres plutôt que de formater les titres « à sa façon ». Cette petite discipline évite les sommaires incohérents et facilite les modifications tardives.</p><p>Enfin, une table des matières ne remplace pas un plan clair. Des intitulés courts, précis et parallèles dans leur formulation aideront votre lecteur bien plus qu'une liste très détaillée de titres imprécis.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment faire un sommaire automatique sur Word sans numéros de page ?",
+      "a_html": "<p>Dans les options de personnalisation de la table des matières, décochez l'option d'affichage des numéros de page. Cette présentation peut être utile pour un document consulté uniquement à l'écran, surtout si vous conservez les liens cliquables.</p><p>Pour une version imprimée, les numéros de page restent généralement préférables : ils permettent de retrouver une section sans outil de navigation.</p>"
+    },
+    {
+      "q": "Pourquoi Word ne détecte-t-il pas mes titres dans le sommaire ?",
+      "a_html": "<p>La cause la plus fréquente est l'absence de styles de titres. Word ne se base pas sur le gras, la taille de police ou le soulignement, mais sur les styles « Titre 1 », « Titre 2 », etc.</p><p>Appliquez le bon style à chaque intitulé concerné, puis lancez une mise à jour de toute la table. Vérifiez aussi que le style utilisé est bien inclus dans les niveaux affichés de votre table des matières personnalisée.</p>"
+    },
+    {
+      "q": "Comment ajouter un titre dans un sommaire Word déjà créé ?",
+      "a_html": "<p>N'ajoutez pas la ligne directement dans le sommaire. Dans le corps du document, créez ou repérez le titre, appliquez-lui le niveau approprié, puis cliquez dans la table et choisissez « Mettre à jour la table ».</p><p>Sélectionnez la mise à jour de toute la table afin que le nouveau titre et sa page soient intégrés.</p>"
+    },
+    {
+      "q": "Peut-on modifier la police et les points de suite d'un sommaire automatique ?",
+      "a_html": "<p>Oui. Ouvrez les options de table des matières personnalisée pour choisir les points de suite, l'alignement des numéros de page et le nombre de niveaux. Pour modifier la police ou les retraits durablement, adaptez les styles de table des matières, tels que « TM 1 » et « TM 2 ».</p><p>Évitez de modifier une entrée une par une : ces retouches disparaîtront lors de l'actualisation.</p>"
+    },
+    {
+      "q": "Comment numéroter automatiquement les titres et les sous-titres dans Word ?",
+      "a_html": "<p>Utilisez une liste à plusieurs niveaux liée aux styles de titre. Le principe est d'associer le premier niveau à « Titre 1 », le deuxième à « Titre 2 », et ainsi de suite. Word peut alors générer une numérotation cohérente du type « 1 », « 1.1 », « 1.1.1 ».</p><p>Cette numérotation se répercute naturellement dans la table des matières, à condition de mettre ensuite la table à jour.</p>"
+    },
+    {
+      "q": "Le sommaire automatique fonctionne-t-il sur Word pour Mac et Word en ligne ?",
+      "a_html": "<p>Oui, la fonction existe sur les principales versions de Word, mais l'emplacement exact des commandes et certaines options avancées peuvent varier. Recherchez la commande « Table des matières » dans l'onglet Références ou utilisez la barre de recherche de Word.</p><p>Si une option de personnalisation manque dans la version web, ouvrez le document dans l'application de bureau pour accéder à des réglages plus complets.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Créer un sommaire automatique dans Word devient très simple dès lors que votre document repose sur une vraie hiérarchie de styles. Appliquez les niveaux de titre avec rigueur, insérez une table des matières automatique, puis actualisez-la avant chaque version finale.</p><p>Cette méthode vous épargne les corrections de pagination, améliore la navigation et donne à vos documents une présentation plus professionnelle. Une fois cette habitude adoptée, vous pourrez consacrer votre temps au contenu plutôt qu'à la mise en page répétitive.</p>",
+  "__slug": "creation-de-documents-comment-creer-un-sommaire-sur-word-de-facon-automatique"
+}

@@ -1,0 +1,225 @@
+{
+  "title": "Comment réduire le gaspillage alimentaire au quotidien : 12 gestes simples et durables",
+  "meta_description": "Réduisez le gaspillage alimentaire avec des gestes simples : achats, conservation, dates, restes et compost pour alléger vos déchets et votre budget.",
+  "reading_time_min": 9,
+  "hero_intro": "Jeter un aliment oublié au fond du réfrigérateur n'est jamais très agréable. La bonne nouvelle, c'est que réduire le gaspillage alimentaire ne demande ni une cuisine parfaite ni des heures d'organisation : quelques réflexes bien choisis suffisent. De la liste de courses aux restes du dîner, voici comment consommer mieux, dépenser moins et limiter les ressources gaspillées.",
+  "key_takeaways": [
+    "Planifier quelques repas et vérifier ses placards avant les courses évite la majorité des achats en double ou irréalistes.",
+    "La DLC est une date de sécurité à respecter, tandis que la DDM concerne surtout la qualité : il faut apprendre à les distinguer.",
+    "Un réfrigérateur bien rangé, des portions adaptées et une congélation anticipée prolongent concrètement la vie des aliments.",
+    "Les restes sont des ingrédients à part entière : soupe, gratin, salade, bouillon ou lunch du lendemain leur offrent une seconde vie.",
+    "Le compostage ne remplace pas la prévention du gaspillage, mais valorise les épluchures et déchets alimentaires réellement inévitables."
+  ],
+  "toc": [
+    "Pourquoi le gaspillage alimentaire commence souvent à la maison",
+    "Planifier les repas et acheter la juste quantité",
+    "Comprendre les dates : DLC, DDM et bon sens sanitaire",
+    "Bien ranger et conserver ses aliments",
+    "Réutiliser les restes sans manger la même chose deux fois",
+    "Congeler au bon moment pour garder le contrôle",
+    "Compost, partage et dons : que faire des surplus ?",
+    "Installer une routine anti-gaspillage durable"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi le gaspillage alimentaire commence souvent à la maison",
+      "html": "<p>Le gaspillage alimentaire ne se résume pas aux fruits et légumes abîmés. Il comprend aussi le paquet acheté en double, le plat cuisiné en trop grande quantité, le fromage oublié, les restes que personne ne pense à emporter le lendemain ou les produits jetés par méconnaissance de leur date.</p><p>À chaque aliment produit, transporté, transformé puis jeté correspondent de l'eau, de l'énergie, du travail agricole et souvent des emballages mobilisés pour rien. Réduire ses déchets alimentaires est donc un geste environnemental concret, mais aussi une façon de reprendre la main sur son budget courses.</p><p>Inutile de viser le « zéro déchet » du jour au lendemain. Le plus efficace est d'identifier <strong>vos trois causes de gaspillage les plus fréquentes</strong>. Chez certains, ce sont les achats d'impulsion ; chez d'autres, les portions trop généreuses ou un réfrigérateur mal organisé. Une habitude corrigée vaut mieux qu'une résolution trop ambitieuse abandonnée après une semaine.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les trois réflexes qui font vraiment la différence",
+      "points": [
+        "Faire l'inventaire rapide du réfrigérateur, du congélateur et des placards avant d'acheter.",
+        "Prévoir une journée « fin de stocks » chaque semaine pour utiliser les produits fragiles et les restes.",
+        "Mettre les aliments à consommer rapidement bien en vue, et ranger les nouveaux achats derrière les anciens.",
+        "Cuisiner les quantités adaptées au nombre de convives et à leur appétit réel.",
+        "Congeler avant que l'aliment ne soit à l'agonie, pas lorsqu'il est déjà douteux."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Planifier ses repas sans transformer sa semaine en emploi du temps",
+      "intro": "Un menu n'a pas besoin d'être rigide. L'objectif est simplement de donner une destination aux aliments que vous achetez et de laisser une marge pour les imprévus.",
+      "steps": [
+        {
+          "title": "Faire un inventaire de cinq minutes",
+          "html": "<p>Avant les courses, regardez ce qui doit être mangé rapidement : légumes entamés, produits laitiers proches de leur date, pain, restes, viande ou poisson à cuisiner. Notez aussi les aliments déjà présents en quantité pour éviter les doublons.</p>"
+        },
+        {
+          "title": "Choisir quatre à cinq repas, pas sept repas figés",
+          "html": "<p>Prévoir tous les dîners peut sembler rassurant, mais laisse peu de place à une invitation, une livraison ou une envie de repas simple. Planifiez quelques recettes et gardez une ou deux soirées flexibles pour les restes, les conserves ou le congélateur.</p>"
+        },
+        {
+          "title": "Construire la liste autour des quantités nécessaires",
+          "html": "<p>Listez les ingrédients manquants, puis précisez les quantités lorsque c'est utile : trois yaourts plutôt qu'un lot trop grand, deux courgettes plutôt qu'un filet entier. Les achats en gros ne sont économiques que s'ils sont vraiment consommés ou congelés.</p>"
+        },
+        {
+          "title": "Prévoir un repas « vide-frigo »",
+          "html": "<p>Placez-le idéalement avant les nouvelles courses. Une omelette aux légumes, une soupe, un gratin, une quiche ou une poêlée de céréales permettent d'utiliser des ingrédients variés sans suivre une recette au gramme près.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon test avant d'acheter une promotion",
+      "html": "<p>Demandez-vous : <strong>« Est-ce que j'aurais acheté ce produit sans réduction ? »</strong> Puis : « Ai-je une place au frais, un repas prévu ou une possibilité de congélation ? » Une promotion est une économie seulement si le produit est consommé.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "DLC et DDM : ne plus jeter par erreur, sans prendre de risque",
+      "intro": "Les dates inscrites sur les emballages n'ont pas toutes la même signification. Les lire correctement permet d'éviter à la fois le gaspillage inutile et les imprudences sanitaires.",
+      "left": {
+        "title": "DLC : « à consommer jusqu'au »",
+        "points": [
+          "Elle concerne les aliments très périssables, souvent conservés au frais : viande, poisson, plats réfrigérés, certains produits laitiers.",
+          "Après cette date, le fabricant ne garantit plus la sécurité sanitaire du produit : mieux vaut ne pas le consommer.",
+          "Respectez strictement la chaîne du froid et consommez rapidement un emballage ouvert.",
+          "Si vous ne pourrez pas le cuisiner à temps, congelez-le avant la DLC lorsque le produit s'y prête."
+        ]
+      },
+      "right": {
+        "title": "DDM : « à consommer de préférence avant »",
+        "points": [
+          "Elle s'applique surtout aux produits stables : pâtes, riz, conserves, café, biscuits, chocolat ou lait UHT non ouvert.",
+          "Une fois la DDM passée, le produit peut perdre en goût, texture ou croustillant, sans être automatiquement impropre à la consommation.",
+          "Vérifiez l'emballage, l'odeur, l'aspect et les conditions de stockage avant de décider.",
+          "Ne confondez pas la DDM avec une autorisation générale : une boîte gonflée, une conserve abîmée ou un produit suspect se jette."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Conserver chaque aliment au bon endroit",
+      "intro": "La température et l'organisation du rangement influencent directement la durée de conservation. Les zones varient selon les appareils : consultez la notice de votre réfrigérateur et réglez-le généralement autour de 4 °C ou moins dans sa zone la plus froide.",
+      "columns": [
+        "Aliment ou catégorie",
+        "Où le ranger",
+        "Réflexe anti-gaspillage",
+        "À éviter"
+      ],
+      "rows": [
+        [
+          "Viande, poisson, plats frais entamés",
+          "Zone la plus froide du réfrigérateur",
+          "Les placer devant pour les cuisiner en priorité ; les congeler avant leur DLC si besoin",
+          "Les laisser longtemps à température ambiante après les courses"
+        ],
+        [
+          "Fruits et légumes",
+          "Bac à légumes ou selon leurs besoins",
+          "Laver juste avant de consommer, retirer les parties abîmées et séparer les fruits très mûrissants",
+          "Tout enfermer humide dans un sac hermétique"
+        ],
+        [
+          "Fromages et produits laitiers",
+          "Zone fraîche adaptée, dans leur emballage ou une boîte appropriée",
+          "Noter la date d'ouverture et utiliser les portions entamées en premier",
+          "Conserver un produit sensible hors du froid pendant le repas"
+        ],
+        [
+          "Pain, viennoiseries, gâteaux maison",
+          "Boîte à pain ou sac en tissu ; congélateur pour une conservation longue",
+          "Trancher et congeler en portions, puis toaster au besoin",
+          "Mettre systématiquement le pain au réfrigérateur, ce qui le rassit plus vite"
+        ],
+        [
+          "Herbes fraîches et salades",
+          "Au frais, protégées sans être étouffées",
+          "Les utiliser dès les premiers jours ou les transformer en sauce, pesto ou soupe",
+          "Les oublier au fond du bac après les avoir lavées et laissées mouillées"
+        ],
+        [
+          "Produits secs et conserves",
+          "Placard sec, propre et à l'abri de la chaleur",
+          "Appliquer la règle « premier entré, premier sorti »",
+          "Garder des paquets ouverts sans fermeture ou sans date d'ouverture"
+        ]
+      ],
+      "note": "Un aliment présentant une odeur anormale, des moisissures non prévues, un emballage gonflé ou une rupture de froid doit être écarté, quelle que soit sa date."
+    },
+    {
+      "type": "prose",
+      "heading": "Bien ranger le réfrigérateur : une petite organisation, de grands effets",
+      "html": "<p>Un réfrigérateur plein mais illisible favorise les oublis. Réservez une zone visible aux aliments à manger rapidement : restes datés, produits ouverts et denrées proches de leur DLC. Placez les nouveaux achats derrière les plus anciens afin d'appliquer naturellement le principe du <em>premier entré, premier sorti</em>.</p><p>Évitez également de le surcharger. L'air froid doit circuler pour maintenir une température homogène. Après les courses, rangez d'abord les produits réfrigérés et surgelés, idéalement transportés dans un sac isotherme. Un thermomètre de réfrigérateur peut être utile si vous avez un doute sur le réglage de votre appareil.</p><p>Enfin, datez les préparations maison et les boîtes de restes avec un petit morceau d'étiquette. Cette indication très simple évite le jeu des devinettes et aide toute la famille à savoir ce qu'il faut manger en premier.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le bon sens sanitaire reste prioritaire",
+      "html": "<p>Ne goûtez pas un aliment douteux pour « vérifier ». Pour les denrées sensibles, une odeur normale ne garantit pas l'absence de risque. Respectez les indications de conservation, les DLC et les délais indiqués après ouverture. En cas de doute sérieux, il vaut mieux jeter : lutter contre le gaspillage ne signifie pas prendre de risques pour sa santé.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Réutiliser les restes sans avoir l'impression de manger la même chose",
+      "html": "<p>Les restes deviennent beaucoup plus désirables lorsqu'ils changent de forme. Des légumes rôtis peuvent finir dans une soupe, une quiche ou une sauce pour pâtes ; du riz peut devenir une poêlée, des galettes ou une salade ; un poulet rôti peut garnir des tacos, un sandwich ou un bouillon. Gardez une « boîte à idées » avec quelques recettes modulables plutôt qu'une liste de recettes compliquées.</p><p>Le pain un peu sec se transforme en croûtons, chapelure, pain perdu ou pudding. Les fanes de radis ou de carottes peuvent enrichir un velouté ou un pesto si elles sont fraîches et bien lavées. Les fruits trop mûrs trouvent leur place dans une compote, un smoothie, un gâteau ou des glaces maison.</p><p>Servez les portions raisonnablement et laissez chacun se resservir. C'est souvent la manière la plus simple de réduire les restes d'assiette, qui ne se conservent pas toujours aussi facilement que les restes restés dans le plat.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Faire du congélateur votre filet de sécurité",
+      "intro": "La congélation permet de décaler un repas, pas de sauver indéfiniment un aliment déjà altéré. Elle est particulièrement utile lorsque vous cuisinez pour une ou deux personnes ou que vos semaines sont imprévisibles.",
+      "steps": [
+        {
+          "title": "Congeler tôt et en portions",
+          "html": "<p>Congelez les aliments lorsqu'ils sont encore frais, en petites portions adaptées à un repas. Une soupe en deux bols ou une sauce en portions individuelles sera plus facile à utiliser qu'un grand bloc gelé.</p>"
+        },
+        {
+          "title": "Refroidir et protéger correctement",
+          "html": "<p>Laissez un plat cuisiné tiédir sans le laisser des heures à température ambiante, puis placez-le rapidement au froid dans un contenant adapté. Chassez autant d'air que possible des sacs ou boîtes pour limiter le dessèchement.</p>"
+        },
+        {
+          "title": "Étiqueter avec le contenu et la date",
+          "html": "<p>Une boîte non identifiée finit souvent oubliée. Indiquez ce qu'elle contient, la date et, si nécessaire, le nombre de portions. Organisez régulièrement une semaine « repas du congélateur ».</p>"
+        },
+        {
+          "title": "Décongeler en sécurité",
+          "html": "<p>Décongelez de préférence au réfrigérateur, au micro-ondes si l'aliment est cuit immédiatement, ou directement à la cuisson selon le produit. Évitez de recongeler un aliment décongelé, sauf s'il a été recuit entre-temps dans de bonnes conditions.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Compost, partage et dons : la bonne destination des surplus",
+      "html": "<p>La priorité reste toujours de prévenir le déchet à la source. Mais certaines parties sont inévitables : épluchures, marc de café, coquilles d'œufs, trognons ou aliments réellement impropres à la consommation. Selon votre commune, ces biodéchets peuvent être déposés dans une collecte dédiée, un composteur de jardin ou un composteur partagé.</p><p>Le compost nourrit les sols, mais il ne doit pas devenir une excuse pour suracheter. Vérifiez les règles locales, car tous les dispositifs n'acceptent pas forcément les mêmes déchets, notamment la viande, le poisson, les produits laitiers ou les aliments cuisinés.</p><p>Vous avez des produits non ouverts en surplus ? Pensez d'abord à les proposer à vos proches, voisins ou collègues. Certaines associations acceptent aussi des denrées selon leurs besoins et leurs règles de collecte. N'apportez que des aliments correctement conservés, non périmés lorsqu'une DLC est concernée, et dans un emballage intact.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "Le meilleur déchet alimentaire est celui que l'on n'a pas produit : acheter juste, cuisiner avec plaisir et conserver avec attention forment le trio le plus efficace.",
+      "author": "Principe simple pour une cuisine plus durable"
+    },
+    {
+      "type": "prose",
+      "heading": "Installer une routine anti-gaspillage qui tient dans le temps",
+      "html": "<p>Pour que ces gestes deviennent naturels, choisissez un rendez-vous hebdomadaire de dix minutes : avant les courses, ouvrez le réfrigérateur, faites l'inventaire des produits fragiles, planifiez deux ou trois repas et ajoutez un repas « reste ou congélateur ». Cette routine suffit souvent à faire baisser les achats inutiles.</p><p>Impliquez les autres membres du foyer. Les enfants peuvent choisir une recette pour utiliser les bananes mûres ou aider à ranger les produits par ordre de priorité. En colocation, un panier ou une étagère « à consommer en premier » limite les malentendus et les aliments abandonnés.</p><p>Ne cherchez pas la perfection. Observez plutôt ce que vous jetez pendant deux semaines : pain, salade, yaourts, repas préparés ? Vous disposerez alors d'un diagnostic très concret pour ajuster les quantités, le rangement ou les recettes. Chaque aliment sauvé est une petite victoire pour votre portefeuille et pour les ressources de la planète.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment réduire le gaspillage alimentaire avec un petit budget ?",
+      "a_html": "<p>Commencez par cuisiner ce que vous avez déjà avant de racheter. Les repas à base de légumineuses, œufs, pâtes, riz, légumes de saison et restes bien transformés sont économiques et faciles à adapter.</p><p>Évitez toutefois les grands formats ou les promotions si vous n'avez pas prévu de les consommer ou de les congeler. Le prix au kilo le plus bas n'est pas une économie si une partie finit à la poubelle.</p>"
+    },
+    {
+      "q": "Peut-on manger un produit après la date indiquée ?",
+      "a_html": "<p>Cela dépend de la mention. Une <strong>DLC</strong>, formulée « à consommer jusqu'au », concerne des aliments périssables et doit être respectée. Une <strong>DDM</strong>, formulée « à consommer de préférence avant », indique surtout une limite de qualité pour de nombreux produits secs ou stables non ouverts.</p><p>Après une DDM, vérifiez toujours l'état de l'emballage, l'aspect, l'odeur et les conditions de stockage. En cas d'emballage gonflé, d'odeur inhabituelle ou de moisissures non attendues, ne consommez pas le produit.</p>"
+    },
+    {
+      "q": "Quels aliments peut-on congeler facilement ?",
+      "a_html": "<p>Les pains, viandes et poissons frais destinés à être congelés avant leur date limite, légumes blanchis ou cuits, sauces, soupes, plats maison, fruits pour smoothies et herbes hachées se congèlent généralement bien.</p><p>Certains aliments changent de texture, notamment les salades crues, le concombre, les pommes de terre crues ou les sauces très riches en crème. Ils ne sont pas forcément dangereux après congélation adaptée, mais seront souvent moins agréables à manger.</p>"
+    },
+    {
+      "q": "Comment éviter de jeter les fruits et légumes ?",
+      "a_html": "<p>Achetez-les en petites quantités, en tenant compte de leur vitesse de maturation. Consommez en premier les fruits fragiles et les feuilles, puis les légumes plus robustes. Retirez rapidement les pièces abîmées pour éviter qu'elles n'accélèrent l'altération des autres.</p><p>Prévoyez une solution de secours : soupe pour les légumes fatigués, compote pour les pommes ou poires mûres, smoothie ou gâteau pour les bananes très mûres. Beaucoup peuvent aussi être découpés et congelés.</p>"
+    },
+    {
+      "q": "Le compostage suffit-il pour lutter contre le gaspillage alimentaire ?",
+      "a_html": "<p>Non. Le compostage est une excellente valorisation des biodéchets inévitables, mais il intervient après l'achat et la préparation. Le premier levier consiste à éviter de jeter des aliments encore consommables grâce à la planification, à la bonne conservation et à la cuisine des restes.</p><p>Utilisez donc le compost comme dernière étape pour les épluchures, trognons et déchets non évitables, en respectant les consignes de votre dispositif local.</p>"
+    },
+    {
+      "q": "Comment organiser une semaine de repas anti-gaspillage ?",
+      "a_html": "<p>Planifiez les produits les plus fragiles en début de semaine, gardez les conserves et produits surgelés pour les jours flexibles, puis prévoyez un repas de restes avant les courses suivantes. Une soupe, une quiche, un gratin ou une poêlée sont parfaits pour terminer les ingrédients entamés.</p><p>Gardez aussi une soirée sans recette précise : elle permet d'absorber un imprévu, une invitation annulée ou un plat dont il reste plus de portions que prévu.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Réduire le gaspillage alimentaire au quotidien commence par une idée simple : donner une place et un usage à ce que vous achetez. Planifiez avec souplesse, regardez vos dates avec discernement, organisez le froid, cuisinez les restes et congelez sans attendre.</p><p>Choisissez dès cette semaine un seul réflexe à adopter, comme le repas « vide-frigo » ou l'étiquetage des restes. Une fois installé, il allègera durablement vos poubelles, vos dépenses et votre impact sur les ressources.</p>",
+  "__slug": "comment-reduire-le-gaspillage-alimentaire-au-quotidien-pour-sauver-la-planete"
+}

@@ -1,0 +1,204 @@
+{
+  "title": "Quelles sont les différentes aides au logement et comment les obtenir ?",
+  "meta_description": "APL, ALS, ALF, FSL, Visale : découvrez les aides au logement, conditions et démarches pour alléger loyer, dépôt et impayés sans passer à côté de vos droits.",
+  "reading_time_min": 11,
+  "hero_intro": "Le coût d'un logement ne se résume pas au loyer : dépôt de garantie, charges, assurance, déménagement ou impayés peuvent rapidement peser sur un budget. En France, plusieurs aides existent pour louer, rester dans son logement, financer une adaptation ou sécuriser son dossier. Voici comment distinguer les dispositifs, vérifier vos droits et engager les bonnes démarches sans vous perdre dans les sigles.",
+  "key_takeaways": [
+    "L'APL, l'ALF et l'ALS sont trois aides mensuelles versées selon votre logement, vos ressources et votre situation familiale : une seule peut être attribuée à la fois.",
+    "La demande d'aide au logement se fait principalement auprès de la CAF ou de la MSA, idéalement dès la signature du bail ou l'entrée dans les lieux.",
+    "Le FSL, Visale, Loca-Pass et certaines aides locales peuvent aider à financer ou sécuriser l'installation, mais ils ne remplacent pas les aides mensuelles.",
+    "Étudiants, alternants, familles monoparentales, personnes âgées ou en situation de handicap ont accès à des dispositifs complémentaires selon leur profil.",
+    "Une modification de revenus, de foyer, d'adresse ou de loyer doit être déclarée rapidement pour éviter un trop-perçu à rembourser."
+  ],
+  "toc": [
+    "Les trois aides mensuelles de la CAF ou de la MSA",
+    "APL, ALF, ALS : quelle différence ?",
+    "Les conditions d'éligibilité et le calcul de l'aide",
+    "Aides au dépôt, à la garantie et aux difficultés de paiement",
+    "Les aides selon votre situation personnelle",
+    "Comment demander une aide au logement étape par étape",
+    "Éviter les erreurs, les retards et les arnaques",
+    "Les aides au logement pour les propriétaires et l'adaptation du domicile"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Les trois aides mensuelles de la CAF ou de la MSA",
+      "html": "<p>Quand on parle d'aide au logement, on pense d'abord aux prestations versées par la <strong>CAF</strong>, ou par la <strong>MSA</strong> pour les personnes relevant du régime agricole. Elles visent à réduire la dépense de logement d'un locataire, d'un colocataire ou, dans quelques situations particulières, d'un accédant à la propriété. Elles sont généralement versées chaque mois, soit au bénéficiaire, soit directement au bailleur lorsque le tiers payant est mis en place.</p><p>Il existe trois prestations : l'<strong>aide personnalisée au logement</strong> (APL), l'<strong>allocation de logement familiale</strong> (ALF) et l'<strong>allocation de logement sociale</strong> (ALS). Elles ne se cumulent pas. Vous n'avez donc pas à choisir celle qui vous paraît la plus avantageuse : lors de votre demande, la CAF ou la MSA étudie votre situation et détermine le dispositif applicable.</p><p>Le montant n'est jamais garanti à l'avance, même lorsque vous êtes éligible. Il dépend notamment de vos ressources récentes, de la composition du foyer, de la commune, du loyer retenu dans la limite de plafonds réglementaires et du type de logement. Une aide au logement peut donc évoluer d'une année à l'autre, ou même en cours d'année après un changement de situation.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "APL, ALF et ALS : à quoi correspondent-elles ?",
+      "intro": "Ces aides répondent au même objectif, mais leur attribution dépend d'abord de la nature du logement et de votre situation familiale.",
+      "columns": [
+        "Aide",
+        "Pour quels logements et profils ?",
+        "Point important"
+      ],
+      "rows": [
+        [
+          "APL",
+          "Locataires d'un logement conventionné, souvent dans le parc social mais aussi dans certains logements privés ou résidences.",
+          "Le caractère conventionné du logement est déterminant : demandez-le au propriétaire ou au gestionnaire."
+        ],
+        [
+          "ALF",
+          "Foyers répondant à certaines situations familiales ou personnelles prévues par les règles d'attribution.",
+          "Elle concerne notamment certaines familles avec enfant ou personne à charge et des situations spécifiques."
+        ],
+        [
+          "ALS",
+          "Personnes ne pouvant bénéficier ni de l'APL ni de l'ALF : étudiants, jeunes actifs, personnes seules, retraités et autres locataires selon leurs ressources.",
+          "C'est souvent l'aide rencontrée dans le parc privé non conventionné, sans être automatique pour autant."
+        ]
+      ],
+      "note": "Les règles et plafonds sont actualisés régulièrement. Une simulation sur le site de la CAF ou de la MSA reste le meilleur premier repère."
+    },
+    {
+      "type": "comparison",
+      "heading": "APL, ALF ou ALS : ne cherchez pas à faire le bon choix vous-même",
+      "intro": "Ces prestations sont exclusives : l'organisme calcule celle qui correspond à votre dossier. En revanche, vous pouvez vérifier en amont les caractéristiques de votre logement.",
+      "left": {
+        "title": "Ce que vous pouvez préparer",
+        "points": [
+          "L'adresse exacte et la date d'entrée dans les lieux",
+          "Le montant du loyer hors charges et des charges",
+          "Les coordonnées du propriétaire ou du gestionnaire",
+          "Votre contrat de location, votre RIB et vos ressources",
+          "La preuve qu'il s'agit de votre résidence principale"
+        ]
+      },
+      "right": {
+        "title": "Ce que la CAF ou la MSA détermine",
+        "points": [
+          "Le type d'aide attribuable : APL, ALF ou ALS",
+          "Les ressources prises en compte et le montant final",
+          "Le loyer retenu dans les limites applicables",
+          "Le versement au locataire ou directement au bailleur",
+          "La date d'ouverture des droits selon votre situation"
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Les conditions d'éligibilité : ce qui compte vraiment",
+      "html": "<p>Pour recevoir une aide au logement, vous devez occuper le bien comme <strong>résidence principale</strong>. En pratique, cela signifie y vivre habituellement et non l'utiliser comme pied-à-terre, location saisonnière ou logement de vacances. Le logement doit aussi répondre aux critères de décence : surface minimale, sécurité, absence de risque manifeste pour la santé et équipements essentiels.</p><p>Votre statut n'est pas un frein en soi : salarié, travailleur indépendant, demandeur d'emploi, étudiant, apprenti, retraité ou parent isolé peuvent déposer une demande. La nationalité française n'est pas la seule situation admise ; les personnes étrangères doivent en revanche disposer d'un droit au séjour répondant aux conditions requises. En colocation, chacun effectue normalement sa propre demande pour sa quote-part de loyer, à condition de figurer sur le bail ou de pouvoir justifier son occupation.</p><p>La CAF examine les ressources du foyer, généralement sur une période glissante de douze mois actualisée régulièrement. Salaires, indemnités, pensions, revenus indépendants et, dans certains cas, éléments de patrimoine peuvent être considérés. Le loyer réel n'est pas intégralement retenu au-delà d'un plafond : payer un loyer très élevé ne donne donc pas mécaniquement droit à une aide plus importante.</p><p>Un étudiant peut demander une aide même s'il est rattaché fiscalement à ses parents. Mais cette décision peut avoir des conséquences sur les prestations de ces derniers, notamment s'ils reçoivent des aides familiales : il est utile de simuler les deux situations avant de déposer le dossier.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les dispositifs complémentaires à connaître selon votre profil",
+      "points": [
+        "Étudiant : aide CAF ou MSA, logement CROUS, accompagnement du service social du CROUS et garantie Visale selon l'éligibilité.",
+        "Alternant ou jeune salarié : garantie Visale, avance Loca-Pass et, selon les conditions en vigueur, aide Mobili-Jeune d'Action Logement.",
+        "Famille monoparentale : aides mensuelles, FSL, accompagnement du CCAS et prestations familiales à examiner dans leur ensemble.",
+        "Personne âgée ou en situation de handicap : aides à l'adaptation du logement, MaPrimeAdapt', prestation de compensation du handicap ou aides locales selon le projet.",
+        "Personne en difficulté financière : Fonds de solidarité pour le logement, CCAS, travailleur social, prévention des impayés et, si nécessaire, recours DALO."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Comment demander une aide au logement sans perdre de temps",
+      "intro": "La demande peut être faite dès que le bail est signé et que la date d'entrée dans le logement est connue. Ne comptez pas sur une rétroactivité automatique : mieux vaut agir rapidement.",
+      "steps": [
+        {
+          "title": "1. Faites une estimation réaliste",
+          "html": "<p>Utilisez le simulateur de la <a href=\"https://www.caf.fr/allocataires/aides-et-demarches/mes-demarches/faire-une-simulation\">CAF</a> ou celui de la MSA si vous en dépendez. Saisissez le loyer hors charges, l'adresse, la composition du foyer et les revenus demandés. Le résultat est une estimation, pas une décision d'attribution.</p>"
+        },
+        {
+          "title": "2. Réunissez les informations avant de commencer",
+          "html": "<p>Prévoyez votre RIB, le contrat de bail, la date d'entrée dans les lieux, le montant du loyer hors charges, les coordonnées du bailleur, votre numéro de sécurité sociale et les éléments relatifs à vos revenus. Une attestation de loyer pourra être demandée au propriétaire.</p>"
+        },
+        {
+          "title": "3. Déposez votre demande en ligne",
+          "html": "<p>Créez ou utilisez votre espace personnel CAF ou MSA. Répondez avec précision, notamment sur la colocation, la vie en couple et les personnes qui résident réellement dans le logement. Une fausse déclaration peut entraîner un remboursement et des sanctions.</p>"
+        },
+        {
+          "title": "4. Suivez le dossier et répondez aux demandes",
+          "html": "<p>Consultez votre espace en ligne : un document manquant bloque souvent l'étude. Si l'aide est accordée, vérifiez le premier versement et conservez les justificatifs transmis. Informez ensuite l'organisme de tout changement important.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Aides pour s'installer, payer ou rester dans son logement",
+      "intro": "Les prestations mensuelles ne sont pas les seules solutions. Certaines aides répondent à une dépense précise ou à une situation d'urgence.",
+      "columns": [
+        "Dispositif",
+        "Ce qu'il peut financer ou sécuriser",
+        "À qui s'adresser ?"
+      ],
+      "rows": [
+        [
+          "FSL (Fonds de solidarité pour le logement)",
+          "Dépôt de garantie, premier loyer, assurance, énergie, dette de loyer ou accompagnement, selon le règlement du département.",
+          "Département, CCAS, travailleur social ou organisme local compétent."
+        ],
+        [
+          "Visale",
+          "Garantie gratuite contre les impayés de loyer pour les locataires et logements éligibles. Ce n'est pas une somme versée au locataire.",
+          "Action Logement, avant la signature du bail ou selon les délais prévus."
+        ],
+        [
+          "Avance Loca-Pass",
+          "Avance sans intérêts du dépôt de garantie pour certains jeunes et salariés éligibles, remboursable selon un échéancier.",
+          "Action Logement, sous réserve des conditions en vigueur."
+        ],
+        [
+          "Mobili-Jeune",
+          "Aide au loyer destinée à certains alternants du secteur privé, avec conditions, montants et périodes de demande variables.",
+          "Action Logement."
+        ],
+        [
+          "Aides du CCAS ou de la commune",
+          "Secours ponctuel, aide à l'énergie, accompagnement budgétaire, accès à certains dispositifs locaux.",
+          "Centre communal d'action sociale, mairie ou association agréée."
+        ]
+      ],
+      "note": "Les critères, budgets et calendriers de ces aides peuvent varier selon le territoire ou être modifiés. Vérifiez toujours les conditions au moment de votre demande."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "FSL, Visale et caution : trois choses différentes",
+      "html": "<p>Le <strong>FSL</strong> est une aide sociale attribuée selon les règles locales, souvent après évaluation de la situation. <strong>Visale</strong> est une garantie qui rassure le bailleur en cas d'impayé, sous conditions. Une <strong>caution solidaire</strong>, enfin, est une personne physique qui s'engage à payer si le locataire ne le fait pas. Ces mécanismes peuvent se compléter, mais aucun ne doit être supposé acquis sans accord écrit.</p><p>Ne versez jamais d'argent avant la visite d'un logement et la vérification de l'identité du bailleur. Une demande de paiement par mandat, coupon prépayé ou cryptomonnaie est un signal d'alerte fréquent dans les fausses annonces.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Impayés, maintien dans les lieux et recours : ne restez pas seul",
+      "html": "<p>Si le loyer devient difficile à payer, agissez avant que la dette ne s'accumule. Contactez sans attendre votre bailleur, la CAF ou la MSA, puis le <strong>CCAS</strong> de votre commune. Un travailleur social peut étudier une demande de FSL, aider à négocier un échéancier et vous orienter vers les aides adaptées. Selon votre situation, le chèque énergie, les aides départementales ou une médiation peuvent aussi soulager le budget global.</p><p>En cas de menace d'expulsion, de logement insalubre, de violences, de handicap incompatible avec le logement ou d'absence durable de solution malgré des démarches actives, il existe des voies de recours. Le <strong>droit au logement opposable</strong> (DALO) ne verse pas une allocation, mais peut permettre de faire reconnaître le caractère prioritaire d'une demande de logement social dans certaines situations. Les critères sont stricts : faites-vous accompagner par une assistante sociale, une association spécialisée ou un point d'accès au droit.</p><p>À l'inverse, ne cessez jamais de payer votre loyer de votre propre initiative en raison d'un litige avec le propriétaire. Même si le logement présente un problème, il faut demander conseil et suivre une procédure adaptée. Le maintien du paiement, dans la mesure du possible, protège votre dossier.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Propriétaires, seniors et handicap : les aides ne prennent pas la même forme",
+      "html": "<p>Pour un achat immobilier récent, il n'existe pas d'APL générale couvrant les mensualités d'un nouveau crédit. L'aide au logement accession concerne surtout certains prêts ou situations encadrés et ne doit pas être intégrée à un plan de financement sans vérification préalable auprès de la CAF, de la banque ou d'un conseiller habitat. Les aides à l'achat, comme le prêt à taux zéro lorsqu'il est accessible, répondent à d'autres règles que les allocations logement.</p><p>Pour rester chez soi dans de bonnes conditions, les aides à l'<strong>adaptation du logement</strong> sont souvent plus pertinentes. MaPrimeAdapt' peut contribuer, sous conditions de ressources et de situation, au financement de travaux tels qu'une douche accessible, des barres d'appui, un monte-escalier ou l'élargissement d'un passage. Une personne en situation de handicap peut aussi étudier la prestation de compensation du handicap, tandis que les caisses de retraite et les collectivités proposent parfois des compléments.</p><p>Avant de signer un devis, faites évaluer le besoin et vérifiez les aides mobilisables : certaines exigent une demande déposée avant le début des travaux. L'accompagnement par un opérateur agréé ou par un conseiller France Rénov' peut sécuriser le projet.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle aide au logement pour un étudiant ?",
+      "a_html": "<p>Un étudiant peut demander l'APL, l'ALS ou, plus rarement, l'ALF selon son logement, ses ressources et sa situation. Il peut aussi chercher un logement en résidence CROUS, vérifier son éligibilité à Visale pour la garantie locative et solliciter le service social du CROUS en cas de difficulté financière.</p><p>La demande se fait à titre personnel auprès de la CAF ou de la MSA. Il est prudent de simuler l'effet d'une demande sur la situation des parents lorsque l'étudiant est encore rattaché à leur foyer fiscal ou à leurs prestations.</p>"
+    },
+    {
+      "q": "Peut-on cumuler APL et FSL ?",
+      "a_html": "<p>Oui, ces dispositifs n'ont pas le même objet. L'APL, l'ALF ou l'ALS est une aide mensuelle au paiement du logement, tandis que le FSL peut intervenir ponctuellement pour l'installation, des charges ou une dette, selon les règles du département.</p><p>Le FSL est attribué après étude du dossier et n'est pas automatique. Un travailleur social ou le CCAS peut vous aider à constituer la demande.</p>"
+    },
+    {
+      "q": "Puis-je toucher une aide au logement si je suis hébergé gratuitement ?",
+      "a_html": "<p>En principe, non : les aides au logement visent un locataire, sous-locataire autorisé ou résident d'une structure qui supporte une dépense de logement reconnue. Une personne hébergée gratuitement chez un proche ne paie pas de loyer au sens d'un bail et ne peut généralement pas demander l'APL pour cet hébergement.</p><p>En cas de sous-location, vérifiez qu'elle est autorisée et déclarée, car une sous-location irrégulière peut empêcher l'ouverture des droits.</p>"
+    },
+    {
+      "q": "L'aide au logement est-elle versée le premier mois ?",
+      "a_html": "<p>Le droit dépend de la date d'entrée dans les lieux, du dépôt de la demande et de l'instruction du dossier. Le premier mois d'occupation n'est généralement pas indemnisé de la même manière que les mois suivants, et le versement intervient souvent après traitement du dossier.</p><p>Déposez donc la demande dès que possible et prévoyez de pouvoir avancer le dépôt de garantie, le premier loyer et les frais d'installation sans compter immédiatement sur l'aide.</p>"
+    },
+    {
+      "q": "Que faut-il déclarer à la CAF en cas de changement de situation ?",
+      "a_html": "<p>Déclarez rapidement un déménagement, une séparation, une mise en couple, une naissance, le départ d'un enfant, une variation importante de revenus, un changement de loyer ou de bailleur. Ces éléments peuvent modifier le montant de l'aide ou l'organisme compétent.</p><p>Ne tardez pas : une aide versée à tort peut être réclamée plusieurs mois plus tard sous la forme d'un trop-perçu.</p>"
+    },
+    {
+      "q": "Comment savoir si un logement donne droit à l'APL ?",
+      "a_html": "<p>Demandez au propriétaire, à l'agence ou au gestionnaire si le logement est conventionné APL. Cette information est particulièrement utile avant de signer, mais elle ne suffit pas à garantir un versement : vos ressources et votre situation restent examinées.</p><p>Si le logement n'est pas conventionné, vous pouvez éventuellement relever de l'ALS ou de l'ALF. Faites une simulation avec les informations exactes du bien avant de vous engager.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Les aides au logement ne se limitent pas à l'APL : elles peuvent réduire le loyer chaque mois, sécuriser un bail, avancer un dépôt de garantie, prévenir une expulsion ou financer l'adaptation d'un domicile. Commencez par une simulation CAF ou MSA, puis examinez les dispositifs complémentaires d'Action Logement, du département et de votre commune.</p><p>Le bon réflexe est de faire les démarches tôt, de conserver vos justificatifs et de signaler chaque changement de situation. Un dossier complet et une demande déposée au bon moment peuvent faire une différence concrète dans votre budget logement.</p>",
+  "__slug": "quelles-sont-les-differentes-formes-daides-au-logement"
+}

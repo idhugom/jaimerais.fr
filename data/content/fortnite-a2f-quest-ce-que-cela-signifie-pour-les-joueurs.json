@@ -1,0 +1,177 @@
+{
+  "title": "Fortnite A2F : à quoi sert l'authentification à deux facteurs ?",
+  "meta_description": "Fortnite A2F : comprenez l'authentification à deux facteurs, activez-la pas à pas et protégez votre compte, vos achats et vos V-Bucks.",
+  "reading_time_min": 8,
+  "hero_intro": "Vous avez vu la mention « A2F requise » sur Fortnite, pour un cadeau ou une compétition ? Il ne s'agit ni d'un mode de jeu ni d'une collection de skins : l'A2F est une protection de votre compte Epic Games. Voici ce qu'elle change concrètement, comment l'activer sans vous bloquer et les réflexes qui évitent les mauvaises surprises.",
+  "key_takeaways": [
+    "L'A2F signifie « authentification à deux facteurs » : elle ajoute une vérification après votre mot de passe pour mieux protéger votre compte Epic Games.",
+    "Elle ne modifie pas vos performances dans Fortnite, mais peut être demandée pour certaines fonctions, notamment les cadeaux ou les compétitions selon les règles en vigueur.",
+    "L'application d'authentification est souvent le choix le plus robuste ; l'e-mail est pratique, à condition que votre boîte mail soit elle aussi très bien sécurisée.",
+    "L'activation est gratuite et se fait dans les paramètres de sécurité du compte Epic Games, pas dans une vidéo, un site de concours ou un message privé.",
+    "Un code A2F est personnel : ne le communiquez jamais, même à une personne qui prétend représenter Epic Games ou un créateur de contenu."
+  ],
+  "toc": [
+    "A2F sur Fortnite : la vraie signification",
+    "Ce que l'A2F change réellement pour les joueurs",
+    "Quel moyen d'authentification choisir ?",
+    "Activer l'A2F Fortnite : les étapes à suivre",
+    "Cadeaux, tournois et récompenses : ce qu'il faut savoir",
+    "Protéger son compte contre les arnaques",
+    "Que faire en cas de téléphone perdu ou de code absent ?"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "A2F sur Fortnite : la vraie signification",
+      "html": "<p>Sur Fortnite, <strong>A2F</strong> veut dire <strong>authentification à deux facteurs</strong>. On parle aussi de « 2FA » en anglais. Le principe est simple : après avoir saisi votre mot de passe Epic Games, vous devez confirmer qu'il s'agit bien de vous avec un second élément, le plus souvent un code reçu par e-mail, SMS ou généré dans une application dédiée.</p><p>Cette étape supplémentaire empêche une personne qui aurait deviné, récupéré ou acheté votre mot de passe de se connecter facilement à votre compte. C'est particulièrement utile pour un compte Fortnite qui peut contenir des V-Bucks, des skins achetés, des objets rares, une progression de longue date et des comptes PlayStation, Xbox, Nintendo ou autres plateformes associés.</p><p>L'A2F n'est donc <strong>pas</strong> une mise à jour de gameplay, une alliance, un événement Fortnitemares ou une série de cosmétiques. Elle ne donne pas davantage de puissance dans une partie et ne change ni le matchmaking ni les armes disponibles. C'est avant tout une barrière de sécurité pour votre identité numérique et vos achats dans l'écosystème Epic.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel avant de l'activer",
+      "points": [
+        "L'A2F se règle sur le compte Epic Games auquel votre profil Fortnite est rattaché.",
+        "Un mot de passe solide reste indispensable : l'A2F le complète, elle ne le remplace pas.",
+        "L'activation prend généralement quelques minutes si vous avez accès à votre e-mail ou à votre téléphone.",
+        "Ne confondez pas un code de connexion avec un code de carte V-Bucks : un code A2F ne sert jamais à recevoir une récompense.",
+        "Si vous jouez sur console, sécurisez aussi le compte PlayStation Network, Xbox, Nintendo ou autre compte de plateforme lié."
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Jouer sans A2F ou avec A2F : quelle différence ?",
+      "intro": "L'A2F ajoute une petite contrainte à la connexion sur un nouvel appareil, mais elle réduit fortement les risques liés à un mot de passe compromis.",
+      "left": {
+        "title": "Sans authentification à deux facteurs",
+        "points": [
+          "Connexion fondée uniquement sur le mot de passe",
+          "Compte plus exposé si le mot de passe est réutilisé ou divulgué",
+          "Certaines fonctionnalités ou inscriptions peuvent être indisponibles",
+          "Récupération parfois plus difficile après un piratage"
+        ]
+      },
+      "right": {
+        "title": "Avec authentification à deux facteurs",
+        "points": [
+          "Code de confirmation demandé lors de connexions sensibles",
+          "Meilleure protection des cosmétiques, achats et comptes associés",
+          "Accès possible à des fonctions qui exigent l'A2F selon les conditions Epic",
+          "Habitude utile pour sécuriser aussi vos autres services en ligne"
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Ce que l'A2F change réellement pour les joueurs",
+      "html": "<p>Au quotidien, vous ne verrez pas forcément de différence si vous jouez toujours sur le même appareil. La vérification intervient surtout quand vous vous connectez depuis un nouvel ordinateur, après une déconnexion, lors d'une action jugée sensible ou si Epic Games détecte une tentative inhabituelle. C'est précisément dans ces situations que la protection est la plus utile.</p><p>Epic Games peut demander l'A2F pour certaines actions, par exemple pour envoyer des cadeaux dans Fortnite ou participer à des compétitions officielles. Les règles, les pays concernés et les conditions d'éligibilité peuvent évoluer : vérifiez toujours le message affiché dans le jeu, le règlement du tournoi ou les paramètres de votre compte plutôt que de vous fier à une ancienne publication.</p><p>Il arrive aussi que l'activation de l'A2F soit associée à un avantage promotionnel ou à un objet dans un jeu Epic. Considérez cela comme un éventuel bonus, pas comme une promesse permanente. L'intérêt principal reste la sécurité. Méfiez-vous tout particulièrement des sites qui prétendent offrir des skins, des V-Bucks ou une récompense « A2F » en échange de vos identifiants.</p><p>Bonne nouvelle : activer cette protection est normalement <strong>gratuit</strong>. Vous n'avez pas à acheter de logiciel, à payer une personne pour configurer votre compte ni à transmettre un code à un tiers. Seuls les éventuels frais habituels de votre forfait mobile peuvent s'appliquer si vous choisissez la réception par SMS.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "E-mail, SMS ou application : quel second facteur choisir ?",
+      "intro": "Les options exactes affichées peuvent varier selon votre compte et votre pays. Voici comment choisir parmi les méthodes couramment proposées.",
+      "columns": [
+        "Méthode",
+        "Points forts",
+        "Limites à anticiper",
+        "Pour qui ?"
+      ],
+      "rows": [
+        [
+          "Application d'authentification",
+          "Codes générés sur l'appareil, même sans réseau ; niveau de protection généralement élevé",
+          "Il faut prévoir le changement ou la perte du téléphone et conserver les informations de récupération",
+          "Joueurs qui veulent la solution la plus solide au quotidien"
+        ],
+        [
+          "E-mail",
+          "Très simple à mettre en place ; pas d'application supplémentaire",
+          "Inefficace si votre boîte mail est elle-même mal protégée ou inaccessible",
+          "Joueurs occasionnels avec une adresse e-mail sécurisée"
+        ],
+        [
+          "SMS",
+          "Pratique et familier ; mise en route rapide",
+          "Dépend du numéro, du réseau et peut poser problème en cas de changement de SIM ou de téléphone",
+          "Solution de confort, si les autres options ne conviennent pas"
+        ]
+      ],
+      "note": "Conseil : quel que soit votre choix, protégez votre adresse e-mail avec un mot de passe unique et sa propre authentification à deux facteurs."
+    },
+    {
+      "type": "steps",
+      "heading": "Activer l'A2F Fortnite : les étapes à suivre",
+      "intro": "La manipulation se fait depuis le compte Epic Games lié à votre profil Fortnite. Prenez quelques minutes dans un endroit calme : le plus important est d'être certain de l'adresse e-mail et du compte utilisés.",
+      "steps": [
+        {
+          "title": "Identifiez le bon compte Epic Games",
+          "html": "<p>Connectez-vous au compte avec lequel vous jouez réellement. Sur console, vérifiez quelle identité Epic est liée à votre compte PlayStation, Xbox ou Nintendo avant de modifier quoi que ce soit. Créer un second compte par erreur peut compliquer la récupération de vos achats et de votre progression.</p>"
+        },
+        {
+          "title": "Mettez d'abord vos informations à jour",
+          "html": "<p>Contrôlez l'adresse e-mail associée et choisissez un mot de passe long, unique et différent de celui de votre boîte mail. Si votre ancien mot de passe est réutilisé sur plusieurs sites, changez-le partout où cela est nécessaire.</p>"
+        },
+        {
+          "title": "Ouvrez les réglages de sécurité",
+          "html": "<p>Dans les paramètres de votre compte Epic Games, recherchez la rubrique consacrée au mot de passe et à la sécurité. Repérez la zone dédiée à l'authentification à deux facteurs, puis choisissez la méthode qui vous convient : application, e-mail ou SMS lorsque cette option est proposée.</p>"
+        },
+        {
+          "title": "Validez le code et gardez une solution de secours",
+          "html": "<p>Saisissez le code de vérification reçu ou généré. Conservez avec prudence les codes, confirmations ou consignes de récupération éventuellement fournis pendant la configuration. Ne les enregistrez pas dans un message public, une capture d'écran partagée ou le chat d'un jeu.</p>"
+        },
+        {
+          "title": "Testez avant d'oublier",
+          "html": "<p>Déconnectez-vous puis reconnectez-vous sur un appareil de confiance, ou vérifiez que vous savez retrouver votre code. Si vous utilisez une application d'authentification, vérifiez aussi qu'elle est bien sauvegardée ou transférable selon ses propres options.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Un code A2F ne se partage jamais",
+      "html": "<p>Un faux support technique peut vous écrire : « Donne-moi le code reçu pour vérifier ton compte » ou « Active l'A2F ici pour obtenir des V-Bucks ». C'est une tentative de vol. Epic Games, un streamer, un coéquipier ou un prétendu administrateur n'ont jamais besoin de votre mot de passe ni du code temporaire affiché sur votre téléphone. Fermez la page, ne répondez pas et passez uniquement par l'application, le jeu ou le site officiel saisi directement dans votre navigateur.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Cadeaux, tournois et récompenses : ce qu'il faut savoir",
+      "html": "<p>Pour les cadeaux Fortnite, l'A2F peut faire partie des conditions demandées par Epic Games. Mais ce n'est pas le seul critère : l'ancienneté de votre relation avec l'ami, le niveau du compte, la disponibilité de l'article, les limites de cadeaux et les règles du moment peuvent aussi entrer en jeu. Si l'option reste grisée après l'activation, lisez le message précis affiché par le jeu au lieu de supposer que l'A2F est en cause.</p><p>Les compétitions officielles ont également leurs propres critères : âge minimal, rang, région, compte en règle, validation de l'A2F et parfois exigences supplémentaires. Activez-la plusieurs jours avant un tournoi important. Vous éviterez le stress d'un code non reçu ou d'une adresse e-mail à mettre à jour quelques minutes avant le début.</p><p>Pour les jeunes joueurs, l'idéal est que le parent ou responsable qui gère le compte sache quelle adresse e-mail est utilisée et où retrouver les moyens de récupération. Cela ne signifie pas que le code doit circuler dans la famille ou entre amis : il s'agit d'organiser un accès de secours légitime, pas de multiplier les personnes qui peuvent se connecter.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe pour un compte console",
+      "html": "<p>L'A2F Epic protège le compte Epic Games, mais elle ne remplace pas la sécurité de votre console. Activez aussi la double vérification sur votre compte PlayStation Network, Xbox, Nintendo ou autre plateforme liée, et protégez chaque compte avec un mot de passe distinct. Ne dissociez pas un compte de plateforme « pour essayer » : une liaison mal modifiée peut rendre l'accès à votre progression beaucoup plus complexe.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Que faire en cas de téléphone perdu ou de code absent ?",
+      "html": "<p>Si vous perdez votre téléphone, n'attendez pas la prochaine connexion urgente. Essayez d'abord les options de récupération que vous avez préparées : autre méthode A2F encore active, accès à votre e-mail, informations de secours ou procédure officielle du compte. Si vous avez toujours accès à Epic Games sur un appareil déjà connecté, mettez immédiatement à jour la méthode de sécurité avant de changer de numéro ou d'effacer l'ancien téléphone.</p><p>Un code qui n'arrive pas n'est pas forcément un piratage. Vérifiez l'adresse e-mail affichée, le dossier des courriers indésirables, la qualité du réseau pour les SMS et l'heure automatique du téléphone pour une application d'authentification. Demandez un nouveau code avec modération : une succession de demandes peut retarder la réception ou déclencher une protection temporaire.</p><p>Si vous n'avez accès ni au facteur de sécurité ni à l'e-mail associé, utilisez la procédure officielle de récupération d'Epic Games. Rassemblez les informations qui peuvent confirmer que le compte vous appartient, sans les publier : anciennes adresses e-mail, comptes de plateformes liés, reçus d'achat ou dates approximatives de création. Évitez de créer un nouveau compte et d'y lier précipitamment votre console, car cela peut compliquer le dossier.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "L'A2F est-elle obligatoire pour jouer à Fortnite ?",
+      "a_html": "<p>En règle générale, vous pouvez jouer à Fortnite sans avoir activé l'A2F. En revanche, Epic Games peut l'exiger pour certaines fonctionnalités, comme l'envoi de cadeaux, ou pour l'accès à certaines compétitions. Les conditions peuvent évoluer : fiez-vous au message dans le jeu et au règlement officiel concerné.</p>"
+    },
+    {
+      "q": "Est-ce que l'A2F donne des skins ou des V-Bucks ?",
+      "a_html": "<p>L'A2F est d'abord une mesure de sécurité. Epic Games peut parfois proposer une récompense liée à son activation, mais ce n'est pas un droit permanent et cela dépend des opérations en cours. N'entrez jamais vos identifiants sur un site promettant automatiquement des skins ou des V-Bucks contre une activation A2F.</p>"
+    },
+    {
+      "q": "Quelle est la meilleure méthode A2F pour Fortnite ?",
+      "a_html": "<p>Une application d'authentification est souvent le meilleur compromis entre sécurité et autonomie, car elle génère des codes sans dépendre de la réception d'un SMS. L'e-mail reste très pratique si votre boîte est bien protégée. Le SMS peut dépanner, mais il est préférable de ne pas le considérer comme votre seule solution de récupération.</p>"
+    },
+    {
+      "q": "Je n'ai pas reçu mon code A2F Fortnite : que faire ?",
+      "a_html": "<p>Vérifiez d'abord le dossier indésirable de votre messagerie, l'adresse associée au compte, votre réseau mobile et l'heure réglée sur le téléphone. Attendez quelques minutes avant de redemander un code. Si le problème persiste, passez par une autre méthode A2F que vous aviez configurée ou par l'assistance officielle Epic Games.</p>"
+    },
+    {
+      "q": "Comment récupérer mon compte Fortnite si j'ai perdu mon téléphone ?",
+      "a_html": "<p>Utilisez l'e-mail associé, une autre méthode A2F déjà activée ou les éléments de récupération conservés lors de la configuration. Si cela ne suffit pas, lancez la procédure officielle de récupération Epic Games et fournissez uniquement les preuves demandées dans cet espace sécurisé. Ne communiquez jamais vos codes temporaires sur les réseaux sociaux ou à un intermédiaire.</p>"
+    },
+    {
+      "q": "L'A2F Epic Games protège-t-elle aussi mon compte PlayStation, Xbox ou Nintendo ?",
+      "a_html": "<p>Elle protège l'accès au compte Epic Games, mais chaque plateforme a ses propres paramètres de sécurité. Activez également la vérification en deux étapes sur vos comptes PlayStation Network, Xbox ou Nintendo, surtout s'ils sont liés à Fortnite et enregistrent des moyens de paiement.</p>"
+    }
+  ],
+  "conclusion_html": "<p>L'A2F Fortnite ne transforme pas votre façon de jouer, mais elle peut éviter la perte d'un compte construit pendant des années. Activez-la sur le bon compte Epic Games, privilégiez une méthode que vous saurez récupérer, sécurisez aussi votre adresse e-mail et vos comptes console, puis gardez vos codes pour vous. En quelques minutes, vous protégez bien plus que des skins : votre progression, vos achats et votre tranquillité.</p>",
+  "__slug": "fortnite-a2f-quest-ce-que-cela-signifie-pour-les-joueurs"
+}

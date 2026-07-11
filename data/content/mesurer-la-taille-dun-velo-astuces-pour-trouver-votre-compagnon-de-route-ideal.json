@@ -1,0 +1,257 @@
+{
+  "title": "Comment mesurer la taille d’un vélo et choisir un cadre vraiment adapté",
+  "meta_description": "Mesurez votre entrejambe, lisez les tailles de cadre et réglez selle et guidon pour choisir un vélo confortable, stable et adapté à vos trajets.",
+  "reading_time_min": 10,
+  "hero_intro": "Un vélo à la bonne taille se fait presque oublier : vous pédalez sans douleurs inutiles, gardez le contrôle et avez envie de prolonger la sortie. Taille du cycliste, entrejambe, géométrie du cadre et réglages comptent tous. Voici une méthode simple pour choisir votre vélo avec confiance, en magasin comme en ligne.",
+  "key_takeaways": [
+    "L’entrejambe est le repère le plus utile pour présélectionner une taille de cadre ; la taille totale ne suffit pas à elle seule.",
+    "Les appellations S, M, L, les pouces et les centimètres ne sont pas comparables d’une marque à l’autre : consultez toujours le guide du fabricant.",
+    "Un cadre adapté doit offrir une position naturelle, une bonne maîtrise à l’arrêt et en virage, ainsi qu’une marge de réglage de selle et de guidon.",
+    "Entre deux tailles, l’usage, votre souplesse et la géométrie du vélo aident à trancher ; un essai reste la meilleure validation.",
+    "La hauteur de selle est essentielle, mais elle ne peut pas compenser un cadre trop long, trop court, trop haut ou trop bas."
+  ],
+  "toc": [
+    "Pourquoi la taille du vélo ne se résume pas à votre taille",
+    "Prendre ses mesures : taille et entrejambe",
+    "Comprendre les tailles selon le type de vélo",
+    "Cadre trop grand ou trop petit : les signes à connaître",
+    "Entre deux tailles : comment faire le bon choix",
+    "Vérifier le vélo avant de l’acheter",
+    "Régler la selle, puis le poste de pilotage",
+    "Les réglages à contrôler après vos premières sorties",
+    "Cas particuliers : VAE, vélo enfant et occasion",
+    "Quand faire appel à une étude posturale"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi la taille du vélo ne se résume pas à votre taille",
+      "html": "<p>Choisir la taille d’un vélo ne consiste pas seulement à regarder un tableau correspondant à votre taille en centimètres. Deux personnes mesurant 1,75 m peuvent avoir des longueurs de jambes, de buste et de bras très différentes. Elles ne seront donc pas forcément à l’aise sur le même cadre, ni avec le même réglage de selle ou de cintre.</p><p>La taille du cadre donne une base, mais la <strong>géométrie</strong> fait la différence. La hauteur du tube de selle influence l’enjambement et la sortie de selle ; la longueur et la hauteur de l’avant du vélo déterminent l’allongement vers le guidon. Sur un vélo de ville, on recherchera souvent une position redressée et facile à contrôler. Sur un vélo de route, l’appui sera plus avancé. En VTT, il faut en plus pouvoir bouger librement au-dessus du vélo sur un terrain irrégulier.</p><p>Un vélo bien dimensionné favorise un pédalage régulier, une respiration libre et une meilleure maniabilité. À l’inverse, un mauvais choix peut provoquer des tensions au cou, au dos, aux mains ou aux genoux. Il peut aussi rendre les démarrages, les arrêts et les virages moins rassurants. Prendre quelques mesures avant l’achat est donc un vrai investissement de confort.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Prendre vos mesures correctement",
+      "intro": "Munissez-vous d’un mètre ruban, d’un livre à couverture rigide et, idéalement, demandez à une personne de vous aider. Prenez les mesures pieds nus ou avec des chaussettes fines, contre un mur et sur un sol plat.",
+      "steps": [
+        {
+          "title": "Mesurez votre taille",
+          "html": "<p>Tenez-vous droit, talons au sol, dos contre un mur et regard horizontal. Notez votre taille en centimètres. C’est un premier filtre utile dans les tableaux de fabricants, mais pas le critère final.</p>"
+        },
+        {
+          "title": "Mesurez votre entrejambe",
+          "html": "<p>Placez le livre verticalement entre vos jambes, dos du livre contre le mur, et remontez-le fermement jusqu’au périnée, comme une selle. Mesurez la distance entre le sol et le haut du livre. Cette valeur en centimètres est votre entrejambe.</p>"
+        },
+        {
+          "title": "Répétez et notez le résultat",
+          "html": "<p>Refaites la mesure deux ou trois fois : une différence de 1 cm est fréquente selon la position du livre. Retenez une valeur moyenne. Si vous hésitez entre deux résultats, mieux vaut ne pas arrondir trop généreusement vers le haut.</p>"
+        },
+        {
+          "title": "Ajoutez vos préférences de pratique",
+          "html": "<p>Notez votre usage principal : trajets urbains, longues randonnées, route sportive, chemins, montagne ou déplacements avec un VAE. Votre souplesse, d’anciennes douleurs et l’envie d’une position droite ou dynamique orienteront le choix à l’intérieur de la plage conseillée.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon geste pour l’entrejambe",
+      "html": "<p>Le livre doit être remonté avec une pression franche mais supportable. Une mesure prise trop bas peut vous conduire vers un vélo trop petit ; une mesure prise avec des chaussures épaisses peut fausser le résultat. Gardez le même protocole si vous comparez plusieurs vélos.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Tailles de vélo : ce que signifient les indications",
+      "intro": "Les unités et les repères changent selon les familles de vélos. Ne convertissez pas automatiquement une taille d’une marque à une autre : comparez le guide officiel et la géométrie du modèle visé.",
+      "columns": [
+        "Type de vélo",
+        "Affichage de taille fréquent",
+        "Repère utile pour choisir",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Vélo de route",
+          "Centimètres ou XS à XL",
+          "Entrejambe, longueur du cadre et hauteur du guidon",
+          "Un même « 54 » peut avoir une position très différente selon la marque et l’année."
+        ],
+        [
+          "Gravel et cyclotourisme",
+          "XS à XL, parfois centimètres",
+          "Entrejambe et allonge vers le cintre",
+          "Le confort sur plusieurs heures compte autant que la hauteur de cadre."
+        ],
+        [
+          "VTT",
+          "Pouces ou XS à XL",
+          "Entrejambe, taille et hauteur d’enjambement",
+          "La taille des roues, la suspension et le tube supérieur modifient fortement le ressenti."
+        ],
+        [
+          "Vélo de ville, trekking ou VTC",
+          "S, M, L ou centimètres",
+          "Position recherchée et facilité à poser le pied",
+          "Un cadre ouvert facilite l’enjambement sans indiquer à lui seul une taille différente."
+        ],
+        [
+          "Vélo électrique",
+          "S, M, L ou centimètres",
+          "Contrôle à basse vitesse, enjambement et reach",
+          "Le poids du vélo rend les manœuvres à l’arrêt particulièrement importantes."
+        ],
+        [
+          "Vélo enfant",
+          "Diamètre des roues en pouces",
+          "Entrejambe et capacité à freiner et monter seul",
+          "L’âge est seulement indicatif : ne choisissez pas un vélo trop grand « pour durer »."
+        ]
+      ],
+      "note": "Les plages de tailles des marques restent prioritaires, car elles sont établies pour la géométrie précise de chaque modèle."
+    },
+    {
+      "type": "comparison",
+      "heading": "Cadre trop petit ou trop grand : reconnaître les différences",
+      "intro": "Ces signaux ne remplacent pas un essai, mais ils permettent d’identifier rapidement une taille inadaptée.",
+      "left": {
+        "title": "Un vélo probablement trop petit",
+        "points": [
+          "Genoux très remontés et sensation de pédaler « sur place », malgré une selle déjà haute.",
+          "Buste comprimé ou guidon trop proche, avec une position tassée.",
+          "Tige de selle sortie au-delà de la limite indiquée par le fabricant.",
+          "Direction vive, parfois nerveuse, et manque d’espace pour bouger sur un VTT.",
+          "Sur un long trajet, impression de manquer d’allonge plutôt que de confort."
+        ]
+      },
+      "right": {
+        "title": "Un vélo probablement trop grand",
+        "points": [
+          "Difficulté à enjamber le cadre ou à garder le contrôle lors des arrêts.",
+          "Bras tendus, épaules haussées, nuque ou bas du dos qui se crispent.",
+          "Sensation d’être loin du guidon et de devoir glisser vers l’avant sur la selle.",
+          "Manœuvres lentes ou virages serrés moins naturels.",
+          "Selle déjà très basse alors que vous peinez encore à atteindre les pédales ou le sol à l’arrêt."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Entre deux tailles : comment faire le bon choix",
+      "html": "<p>Être entre deux tailles est très courant, surtout si votre taille ou votre entrejambe se situe à la frontière d’un tableau. Le premier réflexe est de regarder les mesures de géométrie : le <strong>reach</strong> correspond approximativement à l’espace horizontal jusqu’au cintre, tandis que le <strong>stack</strong> traduit la hauteur de l’avant du vélo. Un reach plus court ou un stack plus élevé donne généralement une position plus relevée et moins étirée.</p><p>À géométrie comparable, une taille inférieure offre souvent plus de maniabilité et davantage de facilité pour poser pied à terre. Elle peut convenir à une personne peu souple, à un usage urbain ou à une pratique VTT engagée, à condition que la sortie de selle reste suffisante. Une taille supérieure peut apporter de la stabilité et de l’espace à un cycliste aux bras ou au buste longs, mais elle devient vite difficile à corriger si l’avant paraît trop loin ou trop bas.</p><p>Ne comptez pas sur une potence très longue, une selle poussée au maximum ou une tige de selle hors de ses repères pour « sauver » une mauvaise taille. Ces pièces permettent des ajustements fins ; elles ne transforment pas la géométrie d’un cadre. En cas de doute, comparez les deux tailles à l’essai ou demandez les cotes précises au vendeur.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Une formule peut aider, mais ne décide pas à votre place",
+      "points": [
+        "Pour un vélo de route traditionnel, certains calculs utilisent l’entrejambe multipliée par environ 0,65 à 0,67 pour estimer une taille de tube de selle en centimètres.",
+        "Ces formules sont des repères historiques, pas une prescription : elles ignorent notamment le tube supérieur incliné, le reach et le stack.",
+        "Pour un VTT, les pouces indiqués sur le cadre ne suffisent pas non plus : la géométrie moderne et le débattement de suspension changent le comportement.",
+        "Utilisez une formule seulement pour présélectionner une taille, puis confirmez avec le tableau de la marque et un essai.",
+        "Si le fabricant indique une plage qui vous inclut dans deux tailles, l’usage et le ressenti doivent départager les options."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Vérifier la taille du vélo avant l’achat",
+      "intro": "Que vous achetiez en magasin, sur internet ou d’occasion, prenez quelques minutes pour contrôler les éléments qui ne se voient pas toujours sur une fiche produit.",
+      "steps": [
+        {
+          "title": "Consultez le guide du modèle exact",
+          "html": "<p>Recherchez le tableau de taille du millésime concerné. Un modèle peut évoluer d’une année à l’autre. Comparez votre taille et votre entrejambe aux recommandations, puis ouvrez si possible le tableau de géométrie complet.</p>"
+        },
+        {
+          "title": "Contrôlez l’enjambement",
+          "html": "<p>À cheval sur le vélo, les pieds au sol, vous devez pouvoir vous tenir sans que le tube supérieur vous gêne. Sur un VTT ou un vélo destiné aux chemins, une marge plus confortable facilite les mouvements et les arrêts imprévus. Ce contrôle est particulièrement parlant avec un cadre à tube horizontal.</p>"
+        },
+        {
+          "title": "Faites un essai réaliste",
+          "html": "<p>Roulez au moins quelques minutes si cela est possible. Démarrez, freinez, tournez à faible allure, passez les vitesses et pédalez assis puis debout. Vérifiez que vos mains ne portent pas tout votre poids et que le guidon reste accessible sans verrouiller les coudes.</p>"
+        },
+        {
+          "title": "Observez la marge de réglage",
+          "html": "<p>La selle ne doit être ni tout en bas ni à l’extrême limite de la tige. Vérifiez aussi la présence du repère d’insertion minimale sur la tige de selle. Une marge raisonnable permet d’affiner la position au fil de votre pratique.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Régler la selle, puis le poste de pilotage",
+      "html": "<p>Une fois le bon cadre choisi, commencez par la hauteur de selle. Une méthode simple consiste à poser le <strong>talon</strong> sur la pédale placée au point le plus bas : la jambe doit être presque tendue, sans que votre bassin bascule de droite à gauche. Lorsque vous replacerez l’avant du pied sur la pédale pour rouler, le genou conservera une légère flexion. C’est une base fiable pour débuter.</p><p>Une selle trop basse peut surcharger les genoux et donner l’impression de pédaler sans efficacité. Trop haute, elle fait osciller le bassin, tire derrière la cuisse et peut créer des douleurs. Modifiez la hauteur par petites étapes, de quelques millimètres à la fois, puis testez-la sur plusieurs kilomètres avant de conclure.</p><p>Réglez ensuite l’inclinaison de la selle presque horizontale pour commencer, puis sa position avant-arrière si nécessaire. Enfin, ajustez la hauteur et l’orientation du guidon dans les limites prévues par le fabricant. Les poignets doivent rester dans l’axe des avant-bras, les coudes légèrement fléchis et les épaules relâchées. Avec des pédales automatiques, les cales sous les chaussures influencent également le confort : ne négligez pas ce point.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Douleur ou gêne : les réglages à examiner en premier",
+      "intro": "Une gêne n’a pas toujours une cause unique. Avant de changer de vélo, vérifiez les réglages les plus simples et consultez un professionnel si une douleur persiste.",
+      "columns": [
+        "Sensation ressentie",
+        "Cause possible",
+        "Premier contrôle à effectuer"
+      ],
+      "rows": [
+        [
+          "Bassin qui se balance à chaque coup de pédale",
+          "Selle trop haute",
+          "Baissez la selle de quelques millimètres et roulez de nouveau."
+        ],
+        [
+          "Pression marquée à l’avant des genoux",
+          "Selle trop basse ou trop avancée",
+          "Vérifiez d’abord la hauteur, puis l’avancée de la selle."
+        ],
+        [
+          "Nuque, épaules ou mains douloureuses",
+          "Guidon trop bas, trop loin ou appuis excessifs",
+          "Essayez une position de cintre plus relevée ou rapprochée dans les limites compatibles."
+        ],
+        [
+          "Sensation d’être très étiré",
+          "Cadre ou potence trop longue, cintre trop bas",
+          "Contrôlez la taille du cadre avant de multiplier les compensations."
+        ],
+        [
+          "Inconfort à l’arrêt ou dans les démarrages",
+          "Cadre trop haut, vélo lourd ou manque de pratique",
+          "Vérifiez l’enjambement et testez le vélo à faible vitesse dans un lieu dégagé."
+        ]
+      ],
+      "note": "Une douleur aiguë, durable ou associée à un engourdissement mérite un avis médical et, selon le cas, un réglage postural professionnel."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Vélo électrique, vélo pliant et vélo d’occasion : trois cas à regarder de près",
+      "html": "<p>Sur un <strong>VAE</strong>, privilégiez une taille qui vous met en confiance lors des manœuvres : le vélo est souvent plus lourd et l’assistance peut surprendre au démarrage. Sur un pliant, la taille de cadre est moins conventionnelle ; la plage de réglage de selle et de cintre est déterminante. Pour un vélo d’occasion, vérifiez la taille gravée sur le cadre, mesurez le tube de selle si besoin et contrôlez surtout que la tige de selle et la potence n’ont pas été bricolées hors de leurs repères de sécurité.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Quand faire appel à une étude posturale",
+      "html": "<p>Pour des balades occasionnelles, un bon choix de taille et les réglages de base suffisent généralement. En revanche, une <strong>étude posturale</strong> peut être très utile si vous roulez longtemps, préparez des épreuves, utilisez des pédales automatiques, revenez d’une blessure ou ressentez des douleurs malgré plusieurs ajustements raisonnables.</p><p>Le professionnel observe votre pédalage et votre mobilité, puis ajuste notamment selle, cintre, cales et parfois la longueur de potence ou les manivelles. Selon le niveau de prestation et le matériel utilisé, comptez souvent autour de 80 à 200 € pour un bilan simple, et davantage pour une analyse approfondie. Ce n’est pas indispensable pour chacun, mais cela peut éviter des achats de composants inutiles et rendre le vélo durablement plus agréable.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment savoir si un vélo est à ma taille sans l’essayer ?",
+      "a_html": "<p>Commencez par mesurer votre taille et votre entrejambe, puis consultez le guide de tailles du <strong>modèle exact</strong>. Comparez ensuite les données de géométrie, notamment le reach et le stack, si vous connaissez un vélo sur lequel vous êtes à l’aise.</p><p>Sans essai, vous obtenez une bonne présélection, pas une certitude absolue. Vérifiez les conditions de retour, surtout pour un achat en ligne, et ne choisissez pas un cadre trop grand en espérant le corriger avec les réglages.</p>"
+    },
+    {
+      "q": "Quelle taille de vélo choisir si je suis entre deux tailles ?",
+      "a_html": "<p>Comparez d’abord les deux géométries et votre usage. La taille inférieure est souvent plus facile à manœuvrer et peut convenir à un usage urbain, à une personne peu souple ou à un VTT. La taille supérieure peut être pertinente si vous avez le buste et les bras longs et recherchez une position plus stable.</p><p>La réponse dépend du modèle : un M d’une marque peut être plus long qu’un L d’une autre. Un essai des deux tailles, même court, reste la méthode la plus fiable.</p>"
+    },
+    {
+      "q": "Comment régler la hauteur de selle d’un vélo ?",
+      "a_html": "<p>Installez-vous sur le vélo, placez un talon sur la pédale au point le plus bas et réglez la selle pour que la jambe soit presque tendue, sans basculement du bassin. En roulant avec l’avant du pied sur la pédale, votre genou gardera alors une légère flexion.</p><p>Faites des ajustements très progressifs. Une selle correctement réglée ne doit pas vous obliger à vous déhancher, ni laisser les genoux excessivement pliés en bas du mouvement.</p>"
+    },
+    {
+      "q": "Un vélo trop petit est-il préférable à un vélo trop grand ?",
+      "a_html": "<p>Il n’existe pas de règle universelle, mais un vélo légèrement compact peut souvent se régler plus facilement qu’un vélo dont le guidon est réellement trop loin ou dont l’enjambement est difficile. Cela ne signifie pas qu’il faut choisir volontairement trop petit : une tige de selle sortie au-delà de sa limite ou des genoux très relevés indiquent aussi une mauvaise taille.</p><p>Le bon objectif est un cadre dans votre plage de taille, avec une marge de réglage normale et une position naturelle.</p>"
+    },
+    {
+      "q": "Comment choisir la taille d’un vélo enfant ?",
+      "a_html": "<p>Basez-vous surtout sur l’entrejambe de l’enfant, sa capacité à monter et descendre seul, à attraper les freins et à poser les pieds au sol de façon rassurante. Le diamètre des roues en pouces est un repère commercial utile, mais l’âge et la taille ne suffisent pas.</p><p>Évitez d’acheter un vélo trop grand pour qu’il dure plusieurs années : il sera plus difficile à maîtriser et peut décourager l’apprentissage. Un enfant doit pouvoir freiner et s’arrêter en confiance.</p>"
+    },
+    {
+      "q": "La taille du cadre est-elle la même pour un vélo de route et un VTT ?",
+      "a_html": "<p>Non. Les vélos de route sont souvent exprimés en centimètres, alors que les VTT peuvent l’être en pouces ou en lettres. Surtout, leurs géométries répondent à des usages très différents : un VTT doit laisser plus de liberté de mouvement, tandis qu’un vélo de route recherche une position efficace sur la durée.</p><p>Ne transférez donc jamais directement une taille chiffrée d’un type de vélo à l’autre. Consultez le tableau propre à chaque modèle.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour mesurer la taille d’un vélo, commencez par votre entrejambe, utilisez le guide du fabricant et prenez le temps d’observer la géométrie du cadre. Ensuite, validez votre choix par un essai et par un réglage méthodique de la selle et du guidon.</p><p>Le bon vélo n’est pas seulement celui qui correspond à une lettre ou à un chiffre : c’est celui sur lequel vous vous sentez stable, libre de vos mouvements et prêt à rouler plus souvent. Prenez ces quelques repères, et faites de chaque trajet une envie de repartir.</p>",
+  "__slug": "mesurer-la-taille-dun-velo-astuces-pour-trouver-votre-compagnon-de-route-ideal"
+}

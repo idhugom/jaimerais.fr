@@ -1,0 +1,273 @@
+{
+  "title": "Statuts de SAS : clauses, formats juridiques et choix pour créer une société solide",
+  "meta_description": "Statuts de SAS : maîtrisez les clauses indispensables, les variantes, les coûts et les étapes pour créer une société solide et bien protégée.",
+  "reading_time_min": 11,
+  "hero_intro": "Vous envisagez de créer une SAS et vous vous demandez si ce statut recouvre plusieurs formats juridiques ? La réponse est nuancée : la SAS est une forme de société très souple, qui peut s'adapter à de nombreux projets sans pour autant tout englober. Découvrez comment distinguer SAS, SASU et variantes pratiques, puis rédiger des statuts réellement utiles à votre entreprise.",
+  "key_takeaways": [
+    "La SAS est une forme juridique unique, mais elle peut être aménagée dans les statuts pour répondre à des projets très différents : associés multiples, holding, capital variable ou société à mission.",
+    "La SASU n'est pas une forme totalement distincte : c'est une SAS avec un associé unique. Elle peut devenir une SAS dès l'entrée d'un nouvel associé.",
+    "Les statuts doivent organiser bien plus que les mentions obligatoires : pouvoirs du président, votes, arrivée ou départ d'associés, cession d'actions et prévention des blocages.",
+    "La liberté de la SAS est un avantage à condition d'anticiper. Des statuts génériques ou imprécis peuvent devenir coûteux lors d'un conflit ou d'une levée de fonds.",
+    "Le président de SAS est assimilé salarié s'il est rémunéré, sans bénéficier automatiquement de l'assurance chômage. La société relève en principe de l'impôt sur les sociétés."
+  ],
+  "toc": [
+    "SAS : une forme juridique souple, pas un statut fourre-tout",
+    "SAS, SASU et autres configurations : ce qui change vraiment",
+    "Les mentions obligatoires des statuts de SAS",
+    "Les clauses stratégiques à négocier entre associés",
+    "Créer une SAS : étapes, formalités et budget",
+    "Fiscalité, protection sociale et embauche en SAS",
+    "Les erreurs à éviter avant de signer les statuts",
+    "FAQ sur les statuts de SAS"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "SAS : une forme juridique souple, pas un statut fourre-tout",
+      "html": "<p>La <strong>société par actions simplifiée</strong>, ou SAS, est une société commerciale dotée de sa propre personnalité juridique. Elle permet à une ou plusieurs personnes de réunir un capital, de détenir des actions et de développer une activité sous le nom de la société. Sa grande force réside dans la liberté laissée aux associés pour définir son fonctionnement dans les statuts.</p><p>Il est toutefois plus juste de parler de <strong>plusieurs configurations possibles d'une même forme juridique</strong> que d'un statut englobant plusieurs formes. Une SAS peut accueillir deux associés ou davantage, exercer une activité opérationnelle, détenir des participations via une holding, prévoir un capital variable ou adopter la qualité de société à mission. Dans tous ces cas, elle demeure une SAS.</p><p>Cette souplesse la rend particulièrement adaptée aux projets appelés à évoluer : création à plusieurs, répartition sur mesure des droits de vote, entrée progressive d'investisseurs, association de salariés au capital ou mise en place d'une gouvernance plus élaborée. En contrepartie, les statuts ne doivent jamais être traités comme une simple formalité administrative.</p><p>La loi impose quelques règles incontournables, notamment la désignation d'un président. Pour le reste, elle délègue de nombreuses décisions aux associés. C'est donc le texte des statuts qui déterminera, au quotidien, qui décide, comment les actions circulent et comment résoudre les désaccords.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel à comprendre avant de choisir la SAS",
+      "points": [
+        "La SAS exige au moins un président, personne physique ou morale, qui représente légalement la société.",
+        "Aucun capital social minimum élevé n'est imposé : 1 € est légalement possible, mais un capital cohérent renforce la crédibilité du projet.",
+        "Les associés détiennent des actions, dont les droits financiers et politiques peuvent être aménagés dans le respect de la loi.",
+        "La SAS n'a pas de plafond d'effectif : elle peut démarrer sans salarié et se développer largement.",
+        "Les règles de majorité, de consultation et de cession des actions doivent être clairement écrites dans les statuts."
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "SASU ou SAS à plusieurs associés : quelle configuration choisir ?",
+      "intro": "Le choix dépend d'abord du nombre d'associés au démarrage. Les deux configurations reposent sur le même socle juridique, mais leur fonctionnement pratique diffère.",
+      "left": {
+        "title": "SASU : l'entrepreneur seul",
+        "points": [
+          "Un associé unique prend les décisions relevant des associés.",
+          "Les statuts peuvent être plus simples, tout en devant préparer une future ouverture du capital.",
+          "Adaptée à un lancement individuel, une activité de conseil, une filiale ou une holding personnelle.",
+          "L'associé unique peut aussi être président, mais ce n'est pas obligatoire.",
+          "L'arrivée d'un nouvel associé fait évoluer la SASU en SAS, sans créer une nouvelle société."
+        ]
+      },
+      "right": {
+        "title": "SAS : plusieurs associés",
+        "points": [
+          "Les statuts doivent préciser les règles de vote, les majorités et les pouvoirs de chacun.",
+          "Indispensable de prévoir la vente d'actions, le droit de préemption et l'agrément d'un nouvel entrant.",
+          "Adaptée aux cofondateurs, projets familiaux, startups et entreprises avec investisseurs.",
+          "Permet de distinguer les rôles opérationnels, financiers et stratégiques.",
+          "Un pacte d'associés complète souvent les statuts pour traiter les sujets confidentiels."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "SAS, SASU, holding, capital variable : les formats que peut prendre votre projet",
+      "html": "<p>La <strong>SASU</strong> est la déclinaison unipersonnelle de la SAS. Elle convient lorsqu'une seule personne détient toutes les actions au départ. Il ne s'agit pas d'une société moins évolutive : des statuts bien conçus peuvent prévoir l'arrivée d'associés, les modalités d'émission de nouvelles actions et l'organisation future de la gouvernance.</p><p>Une <strong>holding en SAS</strong> n'est pas une forme juridique différente. C'est une SAS dont l'objet consiste principalement à détenir des titres d'autres sociétés, et parfois à leur fournir des services de gestion ou d'animation. Cette organisation peut être pertinente pour structurer un groupe, mais elle exige un raisonnement fiscal, financier et patrimonial personnalisé.</p><p>La SAS peut également être dotée d'un <strong>capital variable</strong>. Les statuts fixent alors un capital plancher et un capital autorisé, dans les limites prévues. Cette solution peut faciliter certaines entrées ou sorties d'associés, mais elle n'élimine pas le besoin d'encadrer précisément les droits de chacun. Elle est moins fréquente dans les projets simples que dans les structures collectives ou évolutives.</p><p>Enfin, une SAS peut inscrire dans ses statuts une raison d'être et devenir une <strong>société à mission</strong>, à condition de respecter les obligations liées à ce dispositif. Certaines activités réglementées peuvent aussi relever de structures particulières, comme la SELAS pour des professions libérales autorisées. Il faut alors vérifier les règles professionnelles applicables avant toute rédaction.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les éléments que les statuts de SAS doivent prévoir",
+      "intro": "Les statuts constituent le mode d'emploi juridique de la société. Voici les rubriques à contrôler avant leur signature.",
+      "columns": [
+        "Élément",
+        "À quoi sert-il ?",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Dénomination, siège, objet et durée",
+          "Identifier la société, son adresse officielle, son activité et sa durée de vie.",
+          "L'objet social doit couvrir les activités envisagées sans être inutilement vague ou trop restrictif. La durée ne peut pas dépasser 99 ans."
+        ],
+        [
+          "Capital social et apports",
+          "Définir le montant du capital, le nombre d'actions et les apports de chaque associé.",
+          "Avec des apports en numéraire, au moins la moitié doit en principe être libérée à la création ; le solde peut être versé ultérieurement."
+        ],
+        [
+          "Président et dirigeants éventuels",
+          "Désigner le représentant légal et préciser les pouvoirs d'autres organes si besoin.",
+          "Le président est obligatoire. Directeur général, comité ou conseil ne le sont que si les statuts les organisent."
+        ],
+        [
+          "Décisions collectives",
+          "Fixer les sujets soumis aux associés, les modalités de convocation et les règles de majorité.",
+          "Évitez les formules floues : précisez les seuils, les délais, le vote à distance et les situations imposant l'unanimité."
+        ],
+        [
+          "Cession et transmission des actions",
+          "Encadrer l'entrée, la sortie ou le remplacement d'un associé.",
+          "Prévoyez agrément, préemption, exclusion ou inaliénabilité seulement si les mécanismes sont précis et équilibrés."
+        ],
+        [
+          "Catégories d'actions",
+          "Attribuer, si nécessaire, des droits différents à certains détenteurs.",
+          "Les actions de préférence sont utiles dans certains projets, mais doivent être conçues avec un conseil compétent."
+        ],
+        [
+          "Exercice social et affectation du résultat",
+          "Définir les dates comptables et les règles de distribution.",
+          "Les dividendes ne peuvent être distribués que si les comptes et les règles légales le permettent."
+        ]
+      ],
+      "note": "Les mentions exactes et les formalités dépendent de la situation des associés, de l'activité et de la composition des apports."
+    },
+    {
+      "type": "prose",
+      "heading": "Les clauses stratégiques : protéger le projet sans bloquer la société",
+      "html": "<p>Les statuts standards suffisent rarement lorsque plusieurs personnes s'associent. La première question à trancher est celle de la <strong>gouvernance</strong> : le président décide-t-il seul dans la limite de l'objet social ? Faut-il l'accord d'un comité ou des associés au-delà d'un certain engagement ? Ces règles doivent protéger les intérêts communs sans paralyser les décisions courantes.</p><p>La seconde question concerne la <strong>circulation des actions</strong>. Une clause d'agrément permet de soumettre la cession à un tiers à l'accord des associés. Un droit de préemption donne la priorité aux associés existants lorsqu'un associé souhaite vendre. Ces deux mécanismes sont fréquents chez les cofondateurs, car ils évitent qu'un inconnu entre au capital sans concertation.</p><p>Une clause d'exclusion peut être utile en cas de violation grave des engagements, de concurrence déloyale ou de conflit durable. Elle doit toutefois définir avec soin les motifs, la procédure contradictoire, l'organe compétent et la méthode de valorisation des actions. Une clause imprécise risque d'être difficile à appliquer au moment où l'entreprise est la plus vulnérable.</p><p>Pour les projets à fort potentiel, les statuts sont souvent complétés par un <strong>pacte d'associés</strong>. Ce document confidentiel peut traiter du calendrier d'acquisition des actions des fondateurs, des engagements de non-concurrence, du départ d'un dirigeant, de la confidentialité ou des conditions de sortie conjointe. Il ne remplace pas les statuts : il les complète.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux modèles de statuts trop génériques",
+      "html": "<p>Un modèle gratuit peut aider à comprendre la structure d'une SAS simple, mais il ne répond pas automatiquement à votre situation. Si vous créez à plusieurs, accueillez un investisseur, apportez un bien, exercez une activité réglementée ou souhaitez protéger un savoir-faire, une relecture par un avocat, un expert-comptable ou un professionnel du droit est généralement un investissement prudent.</p><p>Modifier des statuts après un conflit ou une entrée mal encadrée coûte souvent bien plus cher que de les concevoir correctement dès le départ.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Créer une SAS : les étapes dans le bon ordre",
+      "intro": "La constitution d'une SAS combine des choix entrepreneuriaux et des formalités officielles. Procédez méthodiquement pour éviter les retards.",
+      "steps": [
+        {
+          "title": "Clarifier le projet et la répartition du capital",
+          "html": "<p>Définissez l'activité, les associés, les apports de chacun, le rôle des dirigeants et les besoins de financement. Ne confondez pas égalité au capital et égalité des responsabilités : la répartition doit refléter votre accord réel.</p>"
+        },
+        {
+          "title": "Choisir un capital crédible et déposer les fonds",
+          "html": "<p>Le capital peut être faible en droit, mais il doit rester cohérent avec les dépenses initiales et l'image recherchée. Les apports en numéraire sont déposés sur un compte bloqué ou auprès d'un dépositaire habilité avant l'immatriculation.</p>"
+        },
+        {
+          "title": "Rédiger les statuts et, si utile, un pacte d'associés",
+          "html": "<p>Intégrez les mentions obligatoires et les règles qui sécurisent votre fonctionnement. Vérifiez notamment les pouvoirs du président, les votes, la cession des actions et la gestion d'un départ d'associé.</p>"
+        },
+        {
+          "title": "Nommer le président et accomplir les publications",
+          "html": "<p>Le président est nommé dans les statuts ou dans un acte séparé selon l'organisation retenue. Il faut ensuite publier un avis de constitution dans un support habilité à recevoir des annonces légales.</p>"
+        },
+        {
+          "title": "Déposer le dossier sur le guichet unique",
+          "html": "<p>La demande d'immatriculation est effectuée en ligne via le guichet des formalités des entreprises. Le dossier comprend notamment les statuts signés, les justificatifs requis et la déclaration des bénéficiaires effectifs.</p>"
+        },
+        {
+          "title": "Organiser les premiers mois de la société",
+          "html": "<p>Après l'immatriculation, ouvrez ou débloquez le compte bancaire professionnel, mettez en place la comptabilité, les assurances nécessaires, les contrats et le suivi des décisions d'associés.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quel budget prévoir pour créer une SAS ?",
+      "intro": "Les montants varient selon votre département, la complexité des statuts et l'accompagnement choisi. Ces repères donnent un ordre de grandeur hors dépenses liées à l'activité.",
+      "columns": [
+        "Poste",
+        "Ordre de grandeur habituel",
+        "À savoir"
+      ],
+      "rows": [
+        [
+          "Capital social",
+          "À partir de 1 €, souvent plusieurs centaines ou milliers d'euros en pratique",
+          "Ce n'est pas une taxe : la somme appartient à la société après son immatriculation, sous réserve des règles de déblocage."
+        ],
+        [
+          "Annonce légale de constitution",
+          "Souvent autour de 200 à 250 €",
+          "Le tarif forfaitaire dépend notamment du lieu d'immatriculation et évolue périodiquement."
+        ],
+        [
+          "Immatriculation et bénéficiaires effectifs",
+          "Généralement quelques dizaines d'euros",
+          "Les frais exacts dépendent de la formalité et peuvent être mis à jour par l'administration."
+        ],
+        [
+          "Statuts rédigés seul",
+          "0 € hors frais obligatoires",
+          "Option envisageable pour une situation très simple, à condition de maîtriser les conséquences des clauses."
+        ],
+        [
+          "Plateforme juridique",
+          "Souvent environ 150 à 500 € hors frais obligatoires",
+          "Vérifiez ce qui est inclus : statuts personnalisés, dépôt du dossier, assistance et éventuelle relecture."
+        ],
+        [
+          "Avocat ou expert-comptable",
+          "Souvent de 500 à plus de 2 000 € selon la complexité",
+          "Particulièrement pertinent en présence de plusieurs associés, d'apports spécifiques ou d'investisseurs."
+        ]
+      ],
+      "note": "Demandez toujours un devis détaillé et vérifiez si les frais légaux obligatoires sont inclus dans le prix annoncé."
+    },
+    {
+      "type": "prose",
+      "heading": "Fiscalité, protection sociale et embauche en SAS",
+      "html": "<p>Par défaut, une SAS est soumise à l'<strong>impôt sur les sociétés</strong>. Le taux normal est de 25 %, avec un taux réduit susceptible de s'appliquer sur une fraction du bénéfice pour les petites entreprises qui remplissent les conditions légales. Sous conditions strictes, une option temporaire pour l'impôt sur le revenu peut être possible ; elle doit être étudiée avant d'être choisie, car elle modifie l'imposition des associés.</p><p>Le président rémunéré relève du régime général de la sécurité sociale en tant qu'<strong>assimilé salarié</strong>. Il bénéficie d'une protection sociale liée à sa rémunération, mais n'acquiert pas automatiquement de droits à l'assurance chômage au titre de son mandat. En l'absence de rémunération, il n'y a généralement pas de cotisations sociales sur ce mandat, mais pas non plus de protection sociale correspondante.</p><p>Les dividendes, s'ils sont décidés après approbation des comptes et s'il existe un bénéfice distribuable, ne remplacent pas mécaniquement un salaire. Ils ne sont pas déductibles du résultat de la société et leur fiscalité dépend notamment du choix du contribuable. Arbitrer salaire et dividendes demande donc une vision globale : protection sociale, trésorerie, impôt et projet personnel du dirigeant.</p><p>La SAS peut embaucher sans plafond particulier d'effectif. Elle peut également mettre en place des dispositifs d'épargne salariale ou d'intéressement, sous réserve des règles applicables. Pour associer des salariés ou des talents au capital, des actions gratuites, stock-options ou bons de souscription peuvent parfois être envisagés, mais certains outils comme les BSPCE obéissent à des critères d'éligibilité précis.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "SAS ou SARL : deux logiques de fonctionnement",
+      "intro": "La SAS n'est pas toujours le meilleur choix. La comparaison avec la SARL aide à choisir une structure cohérente avec votre projet et votre profil de dirigeant.",
+      "left": {
+        "title": "Choisir la SAS",
+        "points": [
+          "Grande liberté statutaire pour organiser votes, pouvoirs et catégories d'actions.",
+          "Souvent appréciée pour les projets à plusieurs fondateurs et les levées de fonds.",
+          "Président assimilé salarié lorsqu'il est rémunéré.",
+          "Cession d'actions souvent plus simple à organiser, sous réserve des clauses statutaires.",
+          "Rédaction des statuts plus technique, surtout avec plusieurs associés."
+        ]
+      },
+      "right": {
+        "title": "Choisir la SARL",
+        "points": [
+          "Cadre légal plus encadré, parfois rassurant pour un projet familial ou stable.",
+          "Fonctionnement moins personnalisable, mais souvent plus lisible sans ingénierie statutaire poussée.",
+          "Le régime social du gérant dépend de sa participation au capital et de sa situation.",
+          "Parts sociales et agrément suivent des règles légales plus structurées.",
+          "Peut être pertinente quand les associés recherchent avant tout un cadre standardisé."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe : penser à la sortie avant l'entrée",
+      "html": "<p>Avant de signer, posez-vous ces questions simples : que se passe-t-il si un associé ne travaille plus dans l'entreprise ? S'il veut vendre ses actions ? Si vous avez besoin d'un investisseur ? Si les votes sont bloqués à égalité ? Les réponses doivent figurer dans les statuts et, lorsque nécessaire, dans un pacte d'associés.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les erreurs à éviter avant de signer les statuts",
+      "html": "<p>La première erreur consiste à choisir la SAS uniquement parce qu'elle est réputée « souple ». La souplesse n'est utile que si elle est organisée. Des règles de majorité absentes ou mal formulées peuvent créer un blocage total entre deux associés détenant chacun la moitié du capital.</p><p>La deuxième erreur est de sous-estimer les apports et la propriété intellectuelle. Si un associé apporte un logiciel, une marque, une clientèle, du matériel ou un savoir-faire central, il faut déterminer à qui ces éléments appartiennent et selon quelles conditions ils sont mis à disposition de la société. Un simple accord oral ne sécurise pas l'entreprise.</p><p>Enfin, évitez de remettre à plus tard les discussions délicates : rémunération des fondateurs, temps de travail, dépenses autorisées, départ anticipé, dilution future ou rôle du conjoint. Ce ne sont pas des signes de méfiance ; ce sont les fondations d'une collaboration durable. Une SAS bien structurée permet précisément de transformer ces sujets sensibles en règles claires et partagées.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la différence entre les statuts d'une SAS et ceux d'une SASU ?",
+      "a_html": "<p>Les statuts d'une SASU sont les statuts d'une SAS ne comptant qu'un associé. Ils sont souvent plus simples sur les décisions collectives, puisque l'associé unique décide seul. Il reste néanmoins judicieux de prévoir l'entrée future d'associés si le projet doit se développer.</p><p>Lorsque l'associé unique cède une partie de ses actions ou réalise une ouverture du capital, la SASU devient une SAS à plusieurs associés. Il faut alors vérifier et, si nécessaire, adapter les règles de gouvernance et de cession des actions.</p>"
+    },
+    {
+      "q": "Peut-on créer une SAS avec 1 € de capital ?",
+      "a_html": "<p>Oui, la loi n'impose pas de capital minimum supérieur à 1 € pour une SAS. Ce montant est toutefois rarement adapté aux besoins réels d'un démarrage : frais, achats, assurances, dépôt de garantie, communication ou délai avant les premières ventes.</p><p>Un capital plus cohérent peut améliorer la crédibilité de la société auprès des banques, fournisseurs et partenaires. Il faut distinguer le capital, qui constitue une ressource de la société, des frais de création, qui sont des dépenses définitives.</p>"
+    },
+    {
+      "q": "Les statuts de SAS doivent-ils être rédigés par un avocat ?",
+      "a_html": "<p>Ce n'est pas obligatoire. Dans une SASU très simple, sans apport particulier ni projet d'ouverture du capital, un entrepreneur averti peut utiliser une trame fiable et accomplir les formalités lui-même.</p><p>En revanche, l'accompagnement d'un avocat, d'un expert-comptable ou d'un professionnel compétent est vivement recommandé dès qu'il y a plusieurs associés, des droits différents entre actionnaires, un investisseur, des apports en nature, une activité réglementée ou un risque de désaccord.</p>"
+    },
+    {
+      "q": "Un président de SAS peut-il être salarié de sa société ?",
+      "a_html": "<p>Le président peut percevoir une rémunération au titre de son mandat social et relève alors du régime des assimilés salariés. Cette qualité ne signifie pas qu'il possède automatiquement un contrat de travail ni qu'il est couvert par l'assurance chômage.</p><p>Un cumul mandat social et contrat de travail peut parfois être admis si des fonctions techniques distinctes, une rémunération spécifique et un véritable lien de subordination sont réunis. Cette situation doit être analysée avec prudence.</p>"
+    },
+    {
+      "q": "Peut-on modifier les statuts d'une SAS après sa création ?",
+      "a_html": "<p>Oui. Les statuts peuvent être modifiés, par exemple après un transfert de siège, une augmentation de capital, un changement de dénomination, une évolution de l'objet social ou une nouvelle règle de gouvernance. La décision doit respecter les modalités prévues dans les statuts et les exigences légales.</p><p>La modification entraîne généralement des formalités : rédaction d'une décision, mise à jour des statuts, publication d'une annonce légale dans de nombreux cas et dépôt d'un dossier modificatif sur le guichet unique.</p>"
+    },
+    {
+      "q": "Faut-il un pacte d'associés en plus des statuts de SAS ?",
+      "a_html": "<p>Il n'est pas obligatoire, mais il est souvent utile dans une SAS à plusieurs associés. Les statuts sont publics et opposables à la société ainsi qu'aux tiers dans certaines conditions ; le pacte est en principe confidentiel et ne lie que ses signataires.</p><p>Le pacte peut encadrer des sujets sensibles comme la confidentialité, l'engagement des fondateurs, les modalités de sortie, les droits de vente conjointe ou la stratégie de financement. Les deux documents doivent être cohérents.</p>"
+    }
+  ],
+  "conclusion_html": "<p>La SAS n'englobe pas plusieurs formes juridiques au sens strict, mais elle offre une <strong>capacité d'adaptation exceptionnelle</strong>. SASU, société à plusieurs associés, holding ou société à mission : ces configurations reposent sur le même socle, dont les statuts fixent les règles essentielles.</p><p>Pour faire un choix durable, partez de votre projet réel : nombre d'associés, ambition de croissance, besoin de financement, rôle de chacun et scénario de sortie. Des statuts clairs, complétés si besoin par un pacte d'associés, vous donneront la liberté d'entreprendre sans laisser les sujets décisifs au hasard.</p>",
+  "__slug": "statuts-des-sas-un-statut-qui-englobe-plusieurs-formats-juridiques"
+}

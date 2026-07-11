@@ -1,0 +1,198 @@
+{
+  "title": "Installer une imprimante en réseau : les étapes en Wi-Fi ou Ethernet",
+  "meta_description": "Installez votre imprimante en réseau, en Wi-Fi ou Ethernet : préparation, réglages Windows et Mac, sécurité, partage et dépannage simple à la maison.",
+  "reading_time_min": 10,
+  "hero_intro": "Vous aimeriez imprimer depuis plusieurs ordinateurs, un smartphone ou une tablette sans déplacer de câble USB ? Une imprimante en réseau rend cela possible, à condition de la connecter correctement à votre box ou votre routeur. Voici une méthode simple, complète et fiable pour l'installer en Wi-Fi ou en Ethernet, puis résoudre les difficultés les plus fréquentes.",
+  "key_takeaways": [
+    "Une imprimante réseau doit être reliée au même réseau local que les appareils qui l'utilisent, par Wi-Fi ou câble Ethernet.",
+    "Le câble Ethernet est souvent le choix le plus stable ; le Wi-Fi est plus souple pour placer l'imprimante où vous le souhaitez.",
+    "Installez de préférence le pilote ou l'application officielle du fabricant pour accéder au scanner, au niveau d'encre et aux réglages avancés.",
+    "Notez l'adresse IP de l'imprimante et, si possible, créez une réservation DHCP dans le routeur pour éviter les pannes après redémarrage.",
+    "Une page de test depuis chaque ordinateur permet de valider l'installation avant d'en avoir réellement besoin."
+  ],
+  "toc": [
+    "Préparer l'installation de l'imprimante réseau",
+    "Wi-Fi ou Ethernet : quelle connexion choisir ?",
+    "Connecter l'imprimante à votre réseau",
+    "Choisir la méthode d'installation adaptée",
+    "Ajouter l'imprimante sur Windows, macOS et mobile",
+    "Stabiliser l'adresse IP sans compliquer le réseau",
+    "Partager, sécuriser et entretenir votre imprimante",
+    "Tester l'impression et dépanner les erreurs courantes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Préparer l'installation de l'imprimante réseau",
+      "html": "<p>Une imprimante réseau est une imprimante accessible par plusieurs appareils reliés au même réseau local : les ordinateurs de la maison, mais aussi parfois les téléphones et tablettes. Elle se connecte directement à votre box, à votre routeur ou à un point d'accès Wi-Fi. Contrairement à une imprimante branchée uniquement en USB, elle n'a pas besoin qu'un ordinateur précis reste allumé pour fonctionner.</p><p>Avant de commencer, vérifiez que le modèle possède bien une fonction Wi-Fi, Ethernet ou les deux. Allumez l'imprimante, installez les cartouches ou le toner, chargez du papier et terminez sa configuration initiale. Préparez également le nom de votre réseau Wi-Fi, appelé SSID, et son mot de passe. Si vous avez accès aux réglages de votre box, gardez les identifiants administrateur à portée de main : ils seront utiles pour réserver une adresse IP, mais ne sont pas indispensables à la première installation.</p><p>Placez l'imprimante dans une zone où le signal Wi-Fi est correct et où elle peut être utilisée sans gêner les passages. Évitez de l'enfermer dans un meuble métallique ou de l'installer trop loin de la box. Si elle est destinée à un petit bureau, un câble Ethernet relié à la box ou à un switch reste souvent la solution la plus régulière au quotidien.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Wi-Fi ou Ethernet : quelle connexion choisir ?",
+      "intro": "Les deux solutions permettent l'impression partagée. Le bon choix dépend surtout de l'emplacement de l'imprimante et de la stabilité attendue.",
+      "left": {
+        "title": "Connexion Wi-Fi",
+        "points": [
+          "Pratique si l'imprimante est loin de la box ou si vous ne voulez pas tirer de câble.",
+          "Permet généralement l'impression depuis les mobiles et tablettes connectés au même Wi-Fi.",
+          "Dépend de la qualité du signal, de la bonne saisie du mot de passe et de la compatibilité de la bande Wi-Fi.",
+          "Certaines imprimantes anciennes n'acceptent que le réseau 2,4 GHz, même si votre téléphone utilise aussi le 5 GHz."
+        ]
+      },
+      "right": {
+        "title": "Connexion Ethernet",
+        "points": [
+          "Connexion filaire généralement plus stable, particulièrement adaptée aux impressions fréquentes ou volumineuses.",
+          "Configuration souvent plus rapide : l'imprimante reçoit habituellement une adresse réseau automatiquement.",
+          "Nécessite une prise réseau disponible près de l'imprimante ou le passage d'un câble jusqu'à la box ou au switch.",
+          "Un câble Ethernet de longueur courante coûte souvent entre 5 et 15 €, selon sa taille et sa qualité."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Connecter l'imprimante à votre réseau",
+      "intro": "Les intitulés varient selon les marques, mais la logique reste la même. Réalisez ces étapes directement sur l'écran de l'imprimante, via son application de configuration ou à l'aide du guide de démarrage du fabricant.",
+      "steps": [
+        {
+          "title": "Vérifier le bon réseau",
+          "html": "<p>Connectez votre ordinateur ou votre téléphone au réseau habituel de la maison ou du bureau. Ne choisissez pas le réseau invité : il isole souvent les appareils les uns des autres et empêche la détection de l'imprimante.</p>"
+        },
+        {
+          "title": "Relier l'imprimante en Ethernet ou en Wi-Fi",
+          "html": "<p>En Ethernet, branchez un câble entre le port réseau de l'imprimante et la box, le routeur ou un switch. En Wi-Fi, ouvrez le menu <strong>Réseau</strong>, <strong>Wi-Fi</strong> ou <strong>Assistant de configuration sans fil</strong>, sélectionnez votre SSID puis saisissez le mot de passe avec soin.</p><p>Si le nom de votre réseau apparaît deux fois, l'une des versions peut correspondre au 2,4 GHz et l'autre au 5 GHz. Choisissez le 2,4 GHz si l'imprimante ne voit pas le 5 GHz ou ne parvient pas à s'y connecter.</p>"
+        },
+        {
+          "title": "Confirmer la connexion",
+          "html": "<p>Attendez le message de connexion réussie ou l'icône Wi-Fi stable. Beaucoup de modèles permettent aussi d'imprimer un rapport de configuration réseau : conservez-le temporairement, car il indique souvent le nom du réseau, l'état de la connexion et l'adresse IP attribuée.</p>"
+        },
+        {
+          "title": "Mettre à jour si nécessaire",
+          "html": "<p>Si l'imprimante est neuve ou n'a pas été utilisée depuis longtemps, une mise à jour de son micrologiciel peut améliorer sa compatibilité réseau. Lancez-la uniquement lorsque l'imprimante est bien alimentée et connectée ; ne l'éteignez pas pendant l'opération.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quelle méthode d'installation choisir selon votre situation ?",
+      "intro": "Toutes les méthodes ne se valent pas pour le confort, la stabilité et les fonctions disponibles.",
+      "columns": [
+        "Méthode",
+        "Pour qui ?",
+        "Atouts",
+        "Limites et vigilance"
+      ],
+      "rows": [
+        [
+          "Détection automatique sur le réseau",
+          "Installation simple sur un ordinateur récent",
+          "Rapide, sans saisir d'adresse IP",
+          "Peut échouer si le pare-feu, le réseau invité ou le Wi-Fi bloque la découverte"
+        ],
+        [
+          "Ajout par adresse IP",
+          "Imprimante non détectée ou installation durable",
+          "Fiable, précis, utile avec plusieurs imprimantes",
+          "Demande de relever l'adresse IP et de la garder stable"
+        ],
+        [
+          "Application ou pilote du fabricant",
+          "Utilisation du scanner, réglages avancés, niveaux d'encre",
+          "Donne accès à davantage de fonctions",
+          "Télécharger uniquement depuis le site officiel ou la boutique d'applications"
+        ],
+        [
+          "AirPrint ou impression sans pilote sur Mac et iPhone",
+          "Usage courant dans l'écosystème Apple",
+          "Très simple quand l'imprimante est compatible",
+          "Certaines options de finition ou de numérisation peuvent être moins complètes"
+        ],
+        [
+          "Partage d'une imprimante USB via un ordinateur",
+          "Ancienne imprimante sans réseau",
+          "Évite parfois un nouvel achat à court terme",
+          "L'ordinateur hôte doit rester allumé ; solution moins pratique et moins robuste"
+        ]
+      ],
+      "note": "Le Wi-Fi Direct crée un lien direct entre un appareil et l'imprimante, mais ce n'est pas toujours une connexion au réseau domestique. Il peut couper l'accès Internet du téléphone pendant l'impression selon l'appareil."
+    },
+    {
+      "type": "prose",
+      "heading": "Ajouter l'imprimante sur Windows, macOS et mobile",
+      "html": "<p>Une fois l'imprimante connectée à la box, installez-la sur chaque appareil qui doit l'utiliser. Sur <strong>Windows 10 ou 11</strong>, ouvrez les paramètres, puis la rubrique des imprimantes et scanners, et choisissez l'ajout d'une imprimante. Si le modèle est détecté, sélectionnez-le et laissez Windows terminer l'installation. Si la recherche ne donne rien, utilisez l'option d'ajout manuel et choisissez l'ajout par adresse TCP/IP : saisissez l'adresse indiquée sur le rapport réseau de l'imprimante.</p><p>Sur <strong>macOS</strong>, allez dans les réglages système, puis dans la rubrique des imprimantes et scanners. Cliquez sur l'ajout d'une imprimante. Le Mac détecte souvent automatiquement les imprimantes compatibles AirPrint ou IPP sur le réseau. Si elle n'apparaît pas, ajoutez-la via l'onglet IP en renseignant son adresse IP et le protocole conseillé par le fabricant. AirPrint convient pour les besoins courants ; le pilote du fabricant peut être préférable si vous utilisez le scanner recto verso, des bacs spécifiques ou des réglages couleur avancés.</p><p>Sur smartphone ou tablette, commencez par vérifier que l'appareil est sur le même Wi-Fi que l'imprimante. iPhone et iPad utilisent souvent AirPrint depuis le menu de partage. Sur Android, le service d'impression intégré ou l'application du fabricant peut détecter l'imprimante. Installez les logiciels uniquement depuis le site de la marque ou depuis la boutique officielle de votre appareil : évitez les programmes de pilotes génériques proposés par des sites inconnus.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "L'adresse IP : le repère qui simplifie les pannes",
+      "html": "<p>Votre routeur attribue en général une adresse IP automatiquement à l'imprimante, par exemple sous une forme proche de « 192.168.x.x ». Cette adresse peut changer après un redémarrage de la box ou de l'imprimante. Pour une installation durable, le plus simple est de créer une <strong>réservation DHCP</strong> dans les réglages du routeur : l'imprimante recevra toujours la même adresse, tout en restant gérée automatiquement.</p><p>Évitez de définir une adresse IP fixe au hasard directement sur l'imprimante. Elle peut entrer en conflit avec un autre appareil du réseau. Si vous ne maîtrisez pas les plages d'adresses et les réglages de la box, la réservation DHCP est l'option la plus prudente.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Finaliser l'installation et vérifier que tout fonctionne",
+      "intro": "Ne vous contentez pas de voir l'imprimante dans la liste : quelques tests simples évitent les mauvaises surprises au moment d'imprimer un document important.",
+      "steps": [
+        {
+          "title": "Imprimer une page de test",
+          "html": "<p>Depuis les propriétés de l'imprimante sur l'ordinateur, lancez une page de test. Vérifiez que le bon modèle est sélectionné, que le document sort sans message d'erreur et que la qualité est correcte.</p>"
+        },
+        {
+          "title": "Tester les fonctions utiles",
+          "html": "<p>Si votre appareil est multifonction, essayez une numérisation vers l'ordinateur ou le téléphone. Testez aussi le recto verso, le format A4 ou photo et les différents bacs si vous les utilisez. Certaines fonctions nécessitent le logiciel complet du fabricant, même si l'impression de base fonctionne déjà.</p>"
+        },
+        {
+          "title": "Ajouter les autres utilisateurs",
+          "html": "<p>Répétez l'ajout sur les ordinateurs et mobiles autorisés. Il est préférable que chacun installe l'imprimante directement sur le réseau plutôt que de dépendre d'un PC « principal » partagé.</p>"
+        },
+        {
+          "title": "Choisir les réglages par défaut",
+          "html": "<p>Pour limiter les dépenses, définissez si besoin le noir et blanc, le recto verso et le brouillon comme options par défaut. Modifiez-les ponctuellement pour un document où la qualité couleur est importante.</p>"
+        }
+      ]
+    },
+    {
+      "type": "key_points",
+      "heading": "Réflexes de sécurité pour une imprimante connectée",
+      "points": [
+        "Utilisez un Wi-Fi protégé par WPA2 ou WPA3 avec un mot de passe robuste, plutôt qu'un réseau ouvert.",
+        "N'installez pas l'imprimante sur le réseau invité si vous souhaitez imprimer depuis vos appareils habituels.",
+        "Changez le mot de passe administrateur de l'imprimante s'il est encore celui d'origine, surtout dans un lieu partagé.",
+        "Désactivez le Wi-Fi Direct, l'impression à distance ou les services cloud que vous n'utilisez pas réellement.",
+        "Mettez à jour le micrologiciel lorsque le fabricant propose un correctif utile, sans interrompre l'alimentation pendant la mise à jour."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Résoudre les problèmes les plus fréquents",
+      "html": "<p>Si l'imprimante n'est pas trouvée, commencez par le plus simple : vérifiez qu'elle est allumée, qu'elle affiche une connexion réseau active et que votre ordinateur n'est pas connecté à un autre Wi-Fi. Redémarrez ensuite l'imprimante, puis la box si nécessaire. Un redémarrage suffit souvent à rétablir la détection, notamment après une coupure électrique ou une mise à jour.</p><p>Quand l'imprimante est affichée comme <strong>hors connexion</strong>, comparez son adresse IP actuelle avec celle utilisée par l'ordinateur. Si elle a changé, supprimez l'ancienne imprimante et ajoutez-la à nouveau, ou créez une réservation DHCP pour éviter que cela se reproduise. Un document qui reste bloqué peut aussi nécessiter de vider la file d'impression avant de relancer le test.</p><p>Des caractères incompréhensibles, des pages blanches ou l'absence d'options comme le recto verso signalent souvent un mauvais pilote. Désinstallez l'imprimante, téléchargez le pilote correspondant exactement au modèle et à votre système, puis recommencez l'ajout. Si le Wi-Fi se coupe régulièrement, rapprochez l'imprimante de la box, privilégiez le 2,4 GHz lorsqu'il est mieux porté dans le logement, ou passez à l'Ethernet. Pour un besoin ponctuel, un câble Ethernet coûte peu ; pour une intervention à domicile, les tarifs varient beaucoup mais se situent souvent autour de quelques dizaines d'euros à plus de 100 € selon la région et le temps passé.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment trouver l'adresse IP de mon imprimante réseau ?",
+      "a_html": "<p>Consultez le menu réseau de l'imprimante, son écran d'information ou imprimez un rapport de configuration réseau. L'adresse IP figure généralement à côté de la mention IPv4. Vous pouvez aussi la retrouver dans la liste des appareils connectés depuis l'interface de votre box.</p><p>Cette adresse permet d'ajouter manuellement l'imprimante si la détection automatique ne fonctionne pas.</p>"
+    },
+    {
+      "q": "Pourquoi mon imprimante Wi-Fi ne détecte-t-elle pas ma box ?",
+      "a_html": "<p>Vérifiez d'abord que le Wi-Fi de la box est activé et que vous sélectionnez le bon nom de réseau. De nombreuses imprimantes, surtout les modèles moins récents, se connectent uniquement au réseau 2,4 GHz et ne voient pas le 5 GHz.</p><p>Un signal trop faible, un mot de passe mal saisi, un réseau masqué ou un filtrage des appareils dans le routeur peuvent également empêcher la connexion.</p>"
+    },
+    {
+      "q": "Puis-je utiliser une imprimante réseau sans installer de pilote ?",
+      "a_html": "<p>Oui, dans certains cas. Windows, macOS et les appareils Apple peuvent installer une imprimante compatible avec des protocoles standards comme AirPrint ou IPP, ce qui suffit souvent pour imprimer des documents simples.</p><p>Le pilote officiel reste conseillé pour profiter de toutes les fonctions : numérisation, niveaux de consommables, choix détaillé du papier, gestion des bacs ou options de finition.</p>"
+    },
+    {
+      "q": "Faut-il donner une adresse IP fixe à une imprimante ?",
+      "a_html": "<p>Ce n'est pas obligatoire pour imprimer, mais c'est utile si l'imprimante est utilisée régulièrement par plusieurs appareils. L'adresse peut sinon changer, et certains ordinateurs risquent de ne plus la retrouver.</p><p>Préférez une réservation DHCP dans la box à une adresse fixe configurée manuellement sur l'imprimante. Vous réduisez ainsi le risque de conflit avec un autre appareil.</p>"
+    },
+    {
+      "q": "Comment partager une ancienne imprimante USB sur le réseau ?",
+      "a_html": "<p>Vous pouvez la brancher à un ordinateur et activer le partage d'imprimante dans le système. Les autres postes pourront alors l'utiliser, à condition que l'ordinateur hôte soit allumé, connecté au réseau et correctement configuré.</p><p>Cette solution est pratique à titre temporaire, mais une imprimante Wi-Fi ou Ethernet reste plus autonome. Certains routeurs disposent aussi d'un port USB et d'une fonction serveur d'impression, dont la compatibilité dépend du modèle de routeur et d'imprimante.</p>"
+    },
+    {
+      "q": "Mon téléphone imprime mais mon ordinateur ne trouve pas l'imprimante : que faire ?",
+      "a_html": "<p>Le téléphone et l'ordinateur ne sont peut-être pas sur le même réseau, ou l'ordinateur utilise encore une ancienne adresse IP de l'imprimante. Vérifiez les deux connexions Wi-Fi, puis ajoutez l'imprimante manuellement avec son adresse IP actuelle.</p><p>Si nécessaire, installez le pilote officiel et contrôlez que le pare-feu de l'ordinateur n'empêche pas la découverte des appareils sur le réseau privé.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Installer une imprimante en réseau devient très simple lorsqu'on suit l'ordre logique : connecter l'appareil à la box, vérifier son adresse réseau, l'ajouter sur chaque poste puis lancer une page de test. Le Wi-Fi apporte de la liberté d'installation, tandis que l'Ethernet offre une stabilité appréciable pour un usage intensif.</p><p>Pour éviter les interruptions à l'avenir, conservez le rapport réseau de l'imprimante, réservez son adresse IP dans votre box et gardez son pilote à jour. Vous profiterez ainsi d'une impression partagée, pratique et fiable dans toute la maison ou le bureau.</p>",
+  "__slug": "quelles-sont-les-etapes-pour-installer-une-imprimante-en-reseau"
+}

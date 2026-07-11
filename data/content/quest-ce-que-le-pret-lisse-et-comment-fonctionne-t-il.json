@@ -1,0 +1,231 @@
+{
+  "title": "Prêt lissé : définition, fonctionnement et calcul des mensualités",
+  "meta_description": "Prêt lissé : principe, calcul des mensualités, exemple, avantages, limites et comparaison avec le rachat de crédits immobilier.",
+  "reading_time_min": 9,
+  "hero_intro": "Vous financez un logement avec plusieurs prêts aux durées différentes et redoutez une mensualité trop lourde les premières années ? Le prêt lissé, aussi appelé prêt à paliers, permet d'organiser les remboursements pour conserver une charge mensuelle plus régulière. Voici comment il fonctionne, ce qu'il coûte réellement et les points à vérifier avant de signer.",
+  "key_takeaways": [
+    "Le prêt lissé coordonne plusieurs prêts, le plus souvent dans un financement immobilier, afin de stabiliser le total des mensualités.",
+    "Il ne fusionne pas juridiquement les crédits : chaque ligne de prêt conserve en principe son taux, sa durée, ses garanties et ses conditions propres.",
+    "La banque réduit temporairement la mensualité du prêt principal pendant le remboursement d'un prêt court ou différé, puis l'augmente lorsque celui-ci s'éteint.",
+    "Le confort budgétaire peut avoir une contrepartie : une durée plus longue ou un coût total d'intérêts supérieur sur le prêt principal.",
+    "Pour comparer deux offres, regardez le tableau d'amortissement, le TAEG, l'assurance, le coût total et non la seule mensualité affichée."
+  ],
+  "toc": [
+    "Prêt lissé : de quoi parle-t-on exactement ?",
+    "Le mécanisme : des mensualités qui se relaient",
+    "Exemple chiffré d'un financement immobilier lissé",
+    "Quels prêts peut-on lisser ?",
+    "Prêt lissé, rachat de crédits et prêt modulable : ne pas confondre",
+    "Les avantages et les limites à connaître",
+    "Comment une banque calcule un prêt lissé",
+    "Les vérifications à faire avant d'accepter l'offre",
+    "Dans quels cas le lissage est-il pertinent ?",
+    "FAQ sur le prêt lissé"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Prêt lissé : de quoi parle-t-on exactement ?",
+      "html": "<p>Un <strong>prêt lissé</strong> est un montage qui rend plus stable la somme totale que vous remboursez chaque mois lorsque votre projet comporte plusieurs crédits. Il est particulièrement fréquent dans l'immobilier : un prêt bancaire principal peut être associé à un prêt à taux zéro (PTZ), un prêt Action Logement, un prêt épargne logement, un prêt travaux ou un autre prêt aidé.</p><p>Sans lissage, vous additionnez les échéances de chaque prêt. La charge est donc souvent élevée tant que les prêts les plus courts sont en cours, puis elle baisse brutalement à leur extinction. Avec un lissage, la banque construit des <strong>paliers de remboursement</strong> : elle allège, au départ, la mensualité du prêt principal pour compenser les autres échéances. Quand un prêt court est terminé, la mensualité du prêt principal augmente afin de maintenir un total proche du montant prévu.</p><p>Le mot « lissé » peut donner l'impression qu'il s'agit d'un crédit unique. En réalité, ce n'est généralement pas le cas. Les prêts restent des contrats ou des lignes distincts, avec leur capital, leur taux, leur durée et parfois leur assurance propres. Le lissage est surtout une <strong>coordination de leurs échéanciers</strong>.</p><p>Cette solution vise donc avant tout la lisibilité du budget et le respect de la capacité de remboursement. Elle ne diminue pas mécaniquement le montant à rembourser : elle en modifie la répartition dans le temps.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'idée en une minute",
+      "points": [
+        "Plusieurs prêts financent un même projet, mais leurs mensualités sont organisées pour éviter un pic au démarrage.",
+        "Le prêt principal joue souvent le rôle de variable d'ajustement : sa mensualité évolue par paliers.",
+        "Le total mensuel est souvent constant, mais peut varier légèrement selon les assurances, les dates de déblocage ou certaines spécificités de l'offre.",
+        "Un lissage peut être prévu dès la mise en place du financement ; il ne correspond pas nécessairement à un rachat de crédits existants."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Le mécanisme : des mensualités qui se relaient",
+      "html": "<p>Le montage commence par l'identification de chaque source de financement. La banque connaît pour chacune le montant emprunté, le taux, la durée, le différé éventuel et les mensualités théoriques. Elle fixe ensuite une mensualité globale cible compatible avec votre budget et les règles d'endettement qu'elle applique.</p><p>Prenons le cas classique d'un prêt aidé remboursé sur une durée plus courte que le prêt principal. Pendant la première période, le prêt aidé réclame une échéance. Pour éviter que son addition avec le prêt principal ne dépasse le plafond souhaité, la mensualité du prêt principal est réduite. Lorsque le prêt aidé prend fin, le prêt principal augmente. Le total reste alors identique ou très voisin.</p><p>Le lissage est aussi très utile en présence d'un <strong>différé</strong>, notamment lorsque le remboursement d'un prêt ne commence qu'après plusieurs années. Dans ce cas, l'échéance du prêt principal peut être abaissée à partir du moment où le prêt différé devient remboursable. Le calendrier peut donc comporter deux, trois, voire davantage de paliers.</p><p>Attention : une mensualité globale annoncée comme « fixe » ne signifie pas toujours que votre prélèvement sera rigoureusement identique au centime près. L'assurance emprunteur, en particulier, peut être calculée sur le capital initial ou sur le capital restant dû. Lisez l'échéancier complet pour connaître les montants réellement prélevés à chaque période.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Exemple simplifié d'un prêt immobilier avec lissage",
+      "intro": "Cet exemple pédagogique illustre le principe. Les montants sont arrondis et n'intègrent pas l'assurance ni les frais : une offre réelle dépend des taux et des conditions de chaque prêt.",
+      "columns": [
+        "Période",
+        "Prêt principal",
+        "Prêt aidé ou prêt court",
+        "Total mensuel"
+      ],
+      "rows": [
+        [
+          "Années 1 à 8",
+          "650 €",
+          "250 €",
+          "900 €"
+        ],
+        [
+          "Années 9 à 20",
+          "900 €",
+          "0 €",
+          "900 €"
+        ]
+      ],
+      "note": "Sans lissage, le prêt principal aurait pu conserver une mensualité de 900 € dès le départ, ce qui aurait porté le total à 1 150 € pendant les huit premières années. Le lissage ne fait pas disparaître la dette : il reporte une part de l'amortissement du prêt principal sur la seconde période."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le document qui fait foi : le tableau d'amortissement",
+      "html": "<p>Ne vous limitez pas à la mensualité totale présentée en rendez-vous. Demandez le <strong>tableau d'amortissement de chaque prêt</strong> et l'échéancier global par période. Vous verrez précisément quand chaque mensualité évolue, quelle part rembourse le capital et quel est le coût des intérêts et de l'assurance.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Quels prêts peut-on lisser ?",
+      "html": "<p>Le lissage est avant tout un outil de <strong>financement immobilier multi-prêts</strong>. Il peut articuler un prêt immobilier classique avec des dispositifs ayant leurs propres calendriers de remboursement. Le PTZ constitue un cas courant, car il peut comporter un différé de remboursement selon le profil et l'opération. Un prêt employeur, un prêt épargne logement ou un prêt travaux intégré au projet peuvent également être concernés, selon les établissements.</p><p>Un prêt à la consommation déjà souscrit ne se transforme pas automatiquement en prêt lissé. Certaines banques peuvent étudier une restructuration de l'ensemble de votre endettement, mais l'opération relève alors souvent du <strong>regroupement ou rachat de crédits</strong>, avec une nouvelle analyse, des coûts éventuels et parfois une garantie immobilière. Les règles, les risques et le calcul ne sont pas les mêmes.</p><p>En pratique, la banque qui monte votre dossier immobilier propose le lissage au moment de l'édition de l'offre. Tous les établissements ne présentent pas les paliers de la même manière et certains préfèrent conserver des échéances séparées. Cela rend la comparaison des offres indispensable.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Prêt lissé, rachat de crédits ou mensualités modulables ?",
+      "intro": "Ces mécanismes peuvent tous modifier votre budget mensuel, mais ils ne répondent pas au même besoin.",
+      "left": {
+        "title": "Prêt lissé",
+        "points": [
+          "Prévu le plus souvent dès le financement d'un achat immobilier.",
+          "Coordonne plusieurs prêts liés à un même projet.",
+          "Les prêts conservent généralement leurs caractéristiques propres.",
+          "Objectif : rendre la somme des échéances plus régulière.",
+          "Particulièrement adapté à un prêt principal associé à un prêt aidé ou plus court."
+        ]
+      },
+      "right": {
+        "title": "Rachat de crédits ou modulation",
+        "points": [
+          "Le rachat remplace un ou plusieurs crédits existants par un nouveau financement.",
+          "Il peut inclure des crédits consommation et entraîner indemnités, frais ou garanties.",
+          "La modulation ajuste, dans les limites prévues au contrat, la mensualité d'un prêt unique.",
+          "Objectif : restructurer une dette existante ou faire face à une évolution ponctuelle du budget.",
+          "À comparer sur le coût global, pas seulement sur la baisse de mensualité."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Les avantages et les limites à connaître",
+      "html": "<p>Le premier avantage du prêt lissé est une <strong>meilleure prévisibilité</strong>. Vous pouvez bâtir votre budget sur une charge de crédit plus stable, sans devoir absorber des mensualités cumulées très élevées pendant les premières années. Pour la banque, un plan cohérent avec vos revenus, vos charges et votre reste à vivre peut également faciliter la lecture du dossier.</p><p>Le lissage peut aussi être pertinent si vous souhaitez conserver une marge de sécurité pour les dépenses de logement, les travaux non prévus, l'arrivée d'un enfant ou une baisse temporaire de revenus. Il ne faut toutefois pas confondre confort de trésorerie et économie. Comme le capital du prêt principal est amorti plus lentement au début, des intérêts peuvent courir plus longtemps sur une somme plus élevée.</p><p>Selon le montage, l'impact sur le coût total peut être faible ou plus sensible. Il dépend notamment de la durée du prêt principal, de son taux, de l'ampleur des paliers et du mode de calcul de l'assurance. Si le lissage conduit à allonger la durée totale ou à différer fortement l'amortissement, il mérite une attention renforcée.</p><p>Enfin, un échéancier stable aujourd'hui ne doit pas vous faire oublier votre avenir financier. Une revente, un remboursement anticipé, une renégociation ou un changement d'assurance peuvent être plus complexes à analyser lorsqu'il existe plusieurs lignes de prêt. Ce n'est pas un obstacle, mais une raison de conserver tous les tableaux et de demander un chiffrage précis avant toute décision.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Atouts et points de vigilance du prêt lissé",
+      "intro": "Le bon choix dépend de votre capacité de remboursement durable et du surcoût éventuel accepté pour obtenir davantage de souplesse au début du projet.",
+      "columns": [
+        "Aspect",
+        "Ce que le lissage apporte",
+        "Ce qu'il faut contrôler"
+      ],
+      "rows": [
+        [
+          "Budget mensuel",
+          "Une charge totale plus régulière et plus facile à anticiper.",
+          "Les éventuelles variations liées à l'assurance et aux dates d'échéance."
+        ],
+        [
+          "Endettement au départ",
+          "Peut éviter l'addition temporaire de plusieurs fortes mensualités.",
+          "Le taux d'endettement et le reste à vivre retenus par la banque."
+        ],
+        [
+          "Coût du crédit",
+          "Peut rendre le projet finançable sans augmenter brutalement la mensualité initiale.",
+          "Le coût total, les intérêts du prêt principal et toute prolongation de durée."
+        ],
+        [
+          "Souplesse future",
+          "Un échéancier clair pour planifier votre budget.",
+          "Les conditions de remboursement anticipé, de revente et de modulation."
+        ],
+        [
+          "Lecture de l'offre",
+          "Une vision consolidée de la charge de crédit.",
+          "Le détail de chaque prêt, du TAEG, des garanties et de l'assurance."
+        ]
+      ],
+      "note": "Les modalités varient selon la banque et la nature des prêts. Une simulation n'a de valeur décisionnelle que si elle détaille les échéances et le coût de chaque ligne."
+    },
+    {
+      "type": "steps",
+      "heading": "Comment une banque calcule un prêt lissé",
+      "intro": "Le calcul est réalisé par l'établissement prêteur, mais comprendre ses étapes vous aide à poser les bonnes questions.",
+      "steps": [
+        {
+          "title": "Recenser les financements et leurs calendriers",
+          "html": "<p>La banque liste les apports et les prêts : montant, taux nominal, durée, différé, périodicité, assurance et mensualité théorique. Elle tient compte des prêts aidés susceptibles de commencer ou de s'arrêter à des dates différentes.</p>"
+        },
+        {
+          "title": "Évaluer votre budget de remboursement",
+          "html": "<p>Elle étudie vos revenus stables, vos charges, votre apport, votre épargne de précaution et le reste à vivre. La mensualité cible doit rester soutenable sur la durée, et non seulement au jour de la signature.</p>"
+        },
+        {
+          "title": "Construire les paliers du prêt principal",
+          "html": "<p>La mensualité du prêt principal est baissée durant les périodes où d'autres prêts pèsent sur le budget, puis relevée après leur extinction ou au début de leur remboursement différé. Les intérêts sont calculés selon les conditions propres à chaque ligne.</p>"
+        },
+        {
+          "title": "Éditer et comparer les échéanciers",
+          "html": "<p>Vous recevez une proposition qui doit permettre de suivre les échéances, le capital restant dû et le coût total. Comparez-la avec une version non lissée à durée et garanties comparables pour mesurer le prix réel de la régularité budgétaire.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Une petite mensualité de départ peut coûter plus cher",
+      "html": "<p>Si le prêt principal amortit peu au début, son <strong>capital restant dû</strong> diminue plus lentement. En cas de revente ou de remboursement anticipé quelques années après l'achat, le montant à solder peut donc être plus élevé que dans un plan non lissé équivalent. Demandez une estimation du capital restant dû aux dates qui correspondent à vos projets possibles.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les vérifications à faire avant d'accepter l'offre",
+      "html": "<p>Commencez par comparer le financement lissé à une solution non lissée. À montant emprunté comparable, vérifiez la durée, le <strong>TAEG</strong>, le coût total des intérêts, le coût de l'assurance et les garanties. Le TAEG est un indicateur utile pour comparer des offres, mais les échéanciers restent essentiels lorsqu'il y a plusieurs prêts et des paliers.</p><p>Demandez ensuite si la mensualité annoncée inclut l'assurance. Vérifiez également les frais de dossier, le coût de la garantie, les conditions de délégation d'assurance et les indemnités éventuellement applicables en cas de remboursement anticipé. Ces éléments peuvent peser davantage que quelques euros de différence sur une mensualité.</p><p>Projetez-vous dans le temps : que se passe-t-il si vos revenus diminuent, si vous souhaitez vendre dans sept ans ou si vous recevez une somme que vous voulez affecter au remboursement ? Interrogez la banque sur les possibilités de modulation et sur la ligne de prêt qui sera remboursée en priorité en cas de remboursement partiel.</p><p>Enfin, ne choisissez pas une mensualité cible au maximum de ce que vous pouvez payer aujourd'hui. Un logement entraîne aussi des dépenses récurrentes : taxe foncière, charges de copropriété, entretien, énergie et travaux. Un prêt lissé est utile lorsqu'il préserve réellement une marge de manœuvre, pas lorsqu'il masque un budget trop tendu.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les 6 questions à poser à votre banque ou courtier",
+      "points": [
+        "Quel est le coût total de la solution lissée par rapport à la même solution sans lissage ?",
+        "La mensualité affichée comprend-elle l'assurance emprunteur et toutes les échéances ?",
+        "Combien de paliers sont prévus, à quelles dates et pour quels montants ?",
+        "Quel sera le capital restant dû après 5, 8 ou 10 ans ?",
+        "La durée du prêt principal est-elle allongée à cause du lissage ?",
+        "Quelles sont les règles en cas de revente, de remboursement anticipé ou de baisse temporaire des revenus ?"
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Dans quels cas le lissage est-il pertinent ?",
+      "html": "<p>Le prêt lissé a du sens lorsque vous disposez d'une capacité de remboursement stable, mais que la superposition temporaire de plusieurs échéances rendrait le début du crédit inconfortable ou incompatible avec le budget retenu. C'est notamment le cas d'un achat de résidence principale associant un prêt bancaire classique et un prêt aidé avec un calendrier différent.</p><p>Il est moins convaincant si vous pouvez supporter sans difficulté les mensualités cumulées pendant une période courte et que votre priorité absolue est de minimiser le coût des intérêts. Dans ce scénario, un remboursement plus rapide du prêt principal peut être financièrement préférable. Il n'existe donc pas de « meilleur » montage universel : il faut arbitrer entre <strong>régularité des dépenses, sécurité budgétaire et coût global</strong>.</p><p>Avant de vous engager, faites établir au moins deux simulations comparables et prenez le temps de lire les tableaux d'amortissement. Ce réflexe simple transforme une notion technique en décision concrète, adaptée à votre projet de vie.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la différence entre un prêt lissé et un prêt à paliers ?",
+      "a_html": "<p>Dans le langage bancaire, les deux expressions sont très proches. Un <strong>prêt à paliers</strong> décrit une mensualité qui évolue selon des périodes prédéfinies. Le <strong>prêt lissé</strong> utilise justement ces paliers pour que la somme des mensualités de plusieurs prêts reste la plus régulière possible.</p><p>Les termes précis peuvent varier selon les banques. L'important est de demander l'échéancier global et le détail de chaque ligne de financement.</p>"
+    },
+    {
+      "q": "Le prêt lissé réduit-il le coût de mon crédit immobilier ?",
+      "a_html": "<p>Pas nécessairement. Son objectif principal est de stabiliser votre effort mensuel. Lorsque le lissage ralentit l'amortissement du prêt principal ou en allonge la durée, le coût total des intérêts peut augmenter.</p><p>Pour juger l'offre, comparez le coût total, le TAEG, l'assurance et le capital restant dû à plusieurs dates avec une simulation sans lissage.</p>"
+    },
+    {
+      "q": "Peut-on lisser un PTZ avec un prêt immobilier classique ?",
+      "a_html": "<p>Oui, c'est une utilisation fréquente du lissage. Un PTZ peut avoir un différé et un calendrier de remboursement qui ne coïncident pas avec ceux du prêt bancaire principal. La banque peut alors ajuster les mensualités du prêt principal pour éviter une hausse trop forte lorsque le remboursement du PTZ débute.</p><p>Les conditions du PTZ et les modalités de lissage dépendent toutefois de votre opération, de votre profil et de l'établissement qui finance le projet.</p>"
+    },
+    {
+      "q": "Est-ce que tous les prêts sont regroupés en un seul contrat ?",
+      "a_html": "<p>En général, non. Le lissage organise plusieurs prêts autour d'une mensualité globale, mais chaque prêt peut conserver son contrat, son taux, sa durée et son assurance. Vous pouvez parfois voir une présentation consolidée sur vos documents ou votre relevé, sans que les crédits soient juridiquement fusionnés.</p><p>Un véritable regroupement de crédits est une autre opération : il remplace habituellement les dettes rachetées par un nouveau prêt.</p>"
+    },
+    {
+      "q": "Peut-on rembourser par anticipation un prêt lissé ?",
+      "a_html": "<p>Oui, un remboursement anticipé peut être envisageable, mais ses règles dépendent de chaque contrat. Des indemnités peuvent s'appliquer dans les limites prévues par la réglementation et l'offre de prêt, sauf cas particuliers. Avec plusieurs lignes, il faut aussi déterminer quel prêt sera remboursé et comment le lissage sera recalculé.</p><p>Avant de verser une somme importante, demandez à la banque un décompte de remboursement anticipé et un nouvel échéancier.</p>"
+    },
+    {
+      "q": "Le prêt lissé est-il obligatoire avec plusieurs prêts immobiliers ?",
+      "a_html": "<p>Non. Vous pouvez parfaitement rembourser des prêts séparés avec leurs mensualités propres si votre budget le permet. Le lissage est une option de structuration proposée ou négociée dans le cadre du montage financier.</p><p>Il devient intéressant lorsque les échéances cumulées créent un pic temporaire que vous préférez éviter, à condition que le surcoût éventuel reste acceptable pour vous.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Le prêt lissé n'est ni une remise sur votre crédit ni un simple regroupement : c'est un <strong>outil d'organisation des remboursements</strong>. Il peut sécuriser le démarrage d'un achat immobilier en rendant la charge mensuelle plus prévisible, surtout lorsque plusieurs prêts aux calendriers différents se cumulent.</p><p>La bonne décision consiste à comparer, sur les mêmes hypothèses, un échéancier lissé et un échéancier classique. Si le confort de budget justifie le coût supplémentaire éventuel et vous laisse une vraie marge de sécurité, le lissage peut être un choix très pertinent pour avancer sereinement dans votre projet.</p>",
+  "__slug": "quest-ce-que-le-pret-lisse-et-comment-fonctionne-t-il"
+}

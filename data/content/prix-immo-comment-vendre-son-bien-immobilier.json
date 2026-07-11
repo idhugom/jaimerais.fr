@@ -1,0 +1,184 @@
+{
+  "title": "Vendre son bien immobilier : estimer le bon prix et réussir chaque étape",
+  "meta_description": "Notre guide pour estimer le prix de votre logement, choisir agence ou vente directe, réunir les diagnostics et signer sereinement, en confiance.",
+  "reading_time_min": 11,
+  "hero_intro": "Vendre une maison ou un appartement ne consiste pas seulement à publier une annonce : le prix, le dossier et la négociation déterminent largement la réussite de la vente. En préparant chaque étape dans le bon ordre, vous pouvez attirer des acquéreurs sérieux sans brader votre bien ni laisser traîner sa commercialisation. Voici une méthode concrète pour vendre en France, avec ou sans agence.",
+  "key_takeaways": [
+    "Un prix de mise en vente réaliste se fonde sur des ventes comparables récentes, les caractéristiques du logement et l'état du marché local, pas seulement sur les annonces en ligne.",
+    "La vente entre particuliers économise une commission, mais elle demande du temps, une bonne organisation des visites et une maîtrise du dossier ; une agence apporte un accompagnement contre des honoraires.",
+    "Un dossier de diagnostics et de copropriété bien préparé rassure les acheteurs, limite les retards et sécurise les négociations.",
+    "Une offre d'achat doit être analysée au-delà de son montant : financement, conditions suspensives, délai proposé et solidité de l'acquéreur comptent autant.",
+    "Après l'acceptation de l'offre, le notaire encadre le compromis puis l'acte authentique ; anticipez les éventuels frais de crédit, de mainlevée et d'imposition sur la plus-value."
+  ],
+  "toc": [
+    "Déterminer le juste prix de vente",
+    "Choisir entre agence immobilière et vente directe",
+    "Préparer le logement et le dossier de vente",
+    "Publier l'annonce, organiser les visites et négocier",
+    "De l'offre d'achat à l'acte authentique",
+    "FAQ : vendre un bien immobilier"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Déterminer le juste prix de vente",
+      "html": "<p>Le prix est le premier levier de votre vente. Trop élevé, il réduit le nombre de contacts et peut faire vieillir l'annonce ; trop bas, il vous prive d'une partie de la valeur de votre patrimoine. Le bon objectif n'est pas de deviner le prix maximal imaginable, mais de positionner votre bien à un niveau cohérent avec ce qu'un acheteur peut réellement accepter dans votre secteur.</p><p>Commencez par comparer votre logement à des <strong>biens effectivement vendus</strong>, et non uniquement à des annonces encore publiées. Surface, nombre de pièces, étage, ascenseur, extérieur, stationnement, luminosité, état général, travaux à prévoir, qualité de l'adresse et performance énergétique peuvent créer des écarts importants, parfois au sein d'un même quartier.</p><p>Solliciter deux ou trois avis est souvent utile, à condition de demander les éléments de comparaison utilisés. Méfiez-vous d'une estimation flatteuse non justifiée : elle peut servir à obtenir un mandat, sans garantir que le prix sera tenable face au marché. Enfin, intégrez votre propre calendrier : si vous devez acheter avant de vendre ou rembourser un prêt, définissez votre prix plancher et votre marge de négociation avant la publication.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quelles sources utiliser pour estimer un logement ?",
+      "intro": "Croiser plusieurs sources permet d'obtenir une fourchette plus solide qu'une estimation isolée.",
+      "columns": [
+        "Méthode",
+        "Ce qu'elle apporte",
+        "Budget indicatif",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Données de ventes et comparables locaux",
+          "Des repères sur les prix réellement conclus dans une zone donnée.",
+          "Souvent gratuit",
+          "Les biens doivent être vraiment comparables : une rue, un étage ou un extérieur peuvent changer la valeur."
+        ],
+        [
+          "Simulateur immobilier en ligne",
+          "Une première fourchette rapide à partir d'informations générales.",
+          "Généralement gratuit",
+          "L'outil ne voit ni l'état réel, ni la vue, ni les défauts du logement."
+        ],
+        [
+          "Avis de valeur d'une agence",
+          "Une lecture du marché local et de la demande actuelle des acheteurs.",
+          "Souvent gratuit dans une démarche commerciale",
+          "Comparez les justifications et les conditions du mandat, pas seulement le montant annoncé."
+        ],
+        [
+          "Estimation par un professionnel indépendant",
+          "Une analyse plus formalisée, utile dans certaines situations patrimoniales ou familiales.",
+          "Souvent quelques centaines d'euros",
+          "Le niveau de détail et le tarif varient selon la mission et la région."
+        ]
+      ],
+      "note": "Les prix affichés dans les annonces ne sont pas nécessairement les prix signés. La valeur finale dépend aussi de la qualité du dossier et des conditions de l'offre."
+    },
+    {
+      "type": "comparison",
+      "heading": "Agence immobilière ou vente entre particuliers : que choisir ?",
+      "intro": "Le meilleur choix dépend surtout de votre disponibilité, de votre connaissance du marché et de la complexité de votre vente.",
+      "left": {
+        "title": "Passer par une agence",
+        "points": [
+          "Accompagnement pour l'estimation, la diffusion, les visites et la négociation.",
+          "Accès possible à un fichier d'acquéreurs et à une visibilité locale.",
+          "Honoraires à prévoir, souvent exprimés en pourcentage du prix de vente et variables selon les mandats.",
+          "Lisez le mandat attentivement : durée, exclusivité, prix affiché, honoraires, conditions de résiliation et obligations de chacun."
+        ]
+      },
+      "right": {
+        "title": "Vendre soi-même",
+        "points": [
+          "Pas de commission d'agence, ce qui peut élargir votre marge de négociation.",
+          "Maîtrise complète de l'annonce, des créneaux de visite et des échanges avec les acheteurs.",
+          "Temps nécessaire pour filtrer les demandes, organiser les visites et suivre les candidats.",
+          "Le notaire sécurise les actes, mais vous restez responsable de la présentation du bien et de la qualité des informations transmises."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Préparer le logement et le dossier de vente",
+      "html": "<p>Avant de penser décoration, mettez le logement en ordre. Réparez ce qui donne une impression de négligence : poignée instable, fuite visible, joint très abîmé, prise descellée ou peinture franchement marquée. De petits travaux ciblés ont souvent un meilleur retour qu'une rénovation lourde décidée dans la précipitation. En revanche, ne masquez jamais un désordre important : une information transparente évite les conflits après la vente.</p><p>Soignez ensuite la présentation. Désencombrez les pièces, nettoyez les zones sensibles, laissez entrer la lumière et rangez les effets très personnels avant les photos comme avant les visites. L'objectif n'est pas de faire croire que le bien est différent, mais d'aider l'acheteur à apprécier ses volumes, ses rangements et son potentiel. Pour un logement occupé, prévoyez un circuit de visite simple et des créneaux réguliers.</p><p>Constituez aussi un dossier accessible dès le départ. Le vendeur doit communiquer les <strong>diagnostics applicables</strong> au bien et à sa situation : le dossier de diagnostic technique peut notamment inclure le DPE, ainsi que des diagnostics relatifs au plomb, à l'amiante, au gaz, à l'électricité, aux risques, aux termites ou à l'assainissement selon l'âge, la localisation et les équipements du logement. Le DPE doit notamment être disponible avant la mise en vente et ses informations doivent figurer dans l'annonce selon les règles en vigueur.</p><p>En copropriété, rassemblez également les documents demandés par le notaire : règlement de copropriété, procès-verbaux d'assemblées générales, montant des charges, informations financières de l'immeuble, éventuels travaux votés et mesurage privatif si nécessaire. Un futur ravalement ou une rénovation énergétique déjà votés peut influencer l'offre : mieux vaut l'expliquer clairement que laisser l'acquéreur le découvrir tardivement.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "La méthode en 7 étapes pour vendre sans vous disperser",
+      "intro": "Suivez cette feuille de route, que vous choisissiez une agence ou une vente directe.",
+      "steps": [
+        {
+          "title": "1. Clarifiez votre projet et vos contraintes",
+          "html": "<p>Définissez la date souhaitée de vente, le montant minimal dont vous avez besoin et vos contraintes de relogement. Si un prêt est en cours, demandez à votre banque les modalités de remboursement anticipé.</p>"
+        },
+        {
+          "title": "2. Établissez une fourchette de valeur",
+          "html": "<p>Analysez des ventes comparables récentes, complétez par plusieurs avis locaux et listez objectivement les atouts comme les points faibles du bien.</p>"
+        },
+        {
+          "title": "3. Fixez un prix de diffusion et une stratégie de négociation",
+          "html": "<p>Choisissez un prix lisible et cohérent. Décidez à l'avance jusqu'où vous êtes prêt à négocier et quels éléments peuvent justifier une concession : rapidité, absence de condition complexe ou calendrier adapté.</p>"
+        },
+        {
+          "title": "4. Réunissez les documents et diagnostics",
+          "html": "<p>Anticipez les délais de réalisation des diagnostics et demandez au notaire la liste adaptée à votre cas. En copropriété, récupérez les pièces auprès du syndic sans attendre une offre.</p>"
+        },
+        {
+          "title": "5. Rédigez et diffusez une annonce complète",
+          "html": "<p>Indiquez les caractéristiques utiles, les surfaces, les équipements, le montant des charges lorsque cela est pertinent, la situation de copropriété et les informations énergétiques requises. Ajoutez des photos lumineuses, réalistes et rangées.</p>"
+        },
+        {
+          "title": "6. Filtrez les demandes et formalisez les offres",
+          "html": "<p>Avant une seconde visite ou une négociation avancée, interrogez poliment le candidat sur son budget, son apport, son financement et son calendrier. Demandez une offre écrite précisant ses conditions.</p>"
+        },
+        {
+          "title": "7. Signez avec le notaire et préparez la remise des clés",
+          "html": "<p>Après l'accord, transmettez rapidement le dossier au notaire. Relevez les compteurs, conservez les factures et notices utiles, puis organisez un état des lieux pratique du logement au moment de la remise des clés.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L'erreur coûteuse : tester un prix irréaliste trop longtemps",
+      "html": "<p>Un bien qui reste longtemps en ligne sans visite sérieuse finit souvent par susciter des questions chez les acheteurs. Si les retours convergent vers un prix trop élevé, réagissez vite : vérifiez les comparables, la qualité de l'annonce, les photos et le positionnement. Une baisse ajustée tôt est généralement plus saine qu'une succession de petites réductions tardives.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Publier l'annonce, organiser les visites et négocier",
+      "html": "<p>Une annonce efficace répond aux questions concrètes avant même le premier appel. Décrivez les surfaces, le nombre de pièces, l'étage, l'ascenseur, l'extérieur, le stationnement, les transports, le chauffage, les charges et les travaux connus, sans exagération. Les photos doivent montrer les pièces principales dans de bonnes conditions de lumière ; une dizaine d'images utiles vaut mieux qu'une galerie floue ou répétitive.</p><p>Pendant les visites, laissez le temps d'observer et répondez factuellement. Préparez les réponses aux questions récurrentes : taxe foncière, charges, consommation énergétique, voisins, isolation, travaux de copropriété, fibre, écoles ou nuisances éventuelles. Pour gagner du temps, proposez d'abord un échange téléphonique bref afin de vérifier que le projet, le budget et le calendrier du visiteur sont compatibles.</p><p>Ne jugez pas une offre à son seul prix. Vérifiez son mode de financement, l'existence d'un apport, le besoin éventuel d'un prêt, les conditions demandées et la date de signature envisagée. Une offre d'achat écrite indique habituellement le bien concerné, le prix proposé, sa durée de validité, les modalités de financement et les principales conditions. Une fois l'offre acceptée, l'opération entre dans une phase engageante : transmettez-la vite au notaire et faites-vous expliquer ses conséquences.</p><p>Une négociation réussie reste factuelle. Appuyez-vous sur l'état du marché, les qualités objectivables du logement et les documents disponibles. Si vous faites une contre-proposition, soyez conscient qu'elle modifie la discussion : formulez-la par écrit, avec un prix et une durée de validité clairs.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les éléments à vérifier avant d'accepter une offre",
+      "points": [
+        "Le prix net que vous percevrez réellement, après les frais qui vous incombent éventuellement.",
+        "Le plan de financement : apport, prêt envisagé, revente préalable d'un autre bien ou autre condition particulière.",
+        "Les conditions suspensives demandées, notamment l'obtention d'un crédit lorsque l'acheteur emprunte.",
+        "Le délai entre le compromis et la signature définitive, ainsi que la date souhaitée de remise des clés.",
+        "La cohérence globale du dossier de l'acquéreur : réactivité, justificatifs communiqués et projet réaliste."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Du compromis à l'acte authentique : sécuriser la dernière ligne droite",
+      "html": "<p>Le notaire prépare l'avant-contrat, souvent appelé compromis de vente ou promesse selon le montage retenu. Ce document précise le prix, les conditions suspensives, la désignation du bien, les délais et les obligations de chaque partie. L'acquéreur non professionnel dispose en principe d'un délai légal de rétractation de dix jours après notification de l'avant-contrat. Lorsqu'un crédit est nécessaire, l'obtention du financement est généralement une condition essentielle de la vente.</p><p>Un dépôt de garantie peut être prévu au compromis : il est fréquemment négocié autour de 5 à 10 % du prix, mais son montant n'est pas automatique. Le délai entre l'avant-contrat et l'acte définitif est souvent de quelques mois, notamment pour permettre à l'acheteur d'obtenir son prêt et au notaire d'accomplir les vérifications nécessaires. Il peut être plus court ou plus long selon la situation.</p><p>Côté vendeur, anticipez les frais liés aux diagnostics, aux éventuels honoraires d'agence prévus au mandat, au remboursement d'un crédit et, le cas échéant, à la levée d'une garantie bancaire. Les frais d'acquisition sont habituellement supportés par l'acheteur, sauf accord différent. Si vous vendez un bien autre que votre résidence principale, une imposition sur la plus-value peut s'appliquer selon votre situation et les exonérations possibles. La résidence principale est généralement exonérée, sous réserve de remplir les conditions : demandez au notaire de vérifier votre cas précis.</p><p>Jusqu'à la signature finale, conservez le logement dans l'état convenu, maintenez son assurance et prévenez le notaire de tout événement nouveau : sinistre, travaux, changement d'occupation ou nouvelle information concernant la copropriété. Le jour de l'acte, relevez les compteurs, remettez les clés et transmettez les éléments utiles au nouvel occupant.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on vendre son bien immobilier sans agence ?",
+      "a_html": "<p>Oui. Vous pouvez publier vous-même l'annonce, organiser les visites et négocier directement avec les acheteurs. Le notaire se charge ensuite de sécuriser l'avant-contrat et l'acte de vente.</p><p>Cette solution évite les honoraires d'agence, mais elle suppose d'être disponible, de connaître le marché local et de préparer soigneusement les diagnostics ainsi que les documents de copropriété. Une estimation croisée et un échange anticipé avec le notaire sont particulièrement utiles.</p>"
+    },
+    {
+      "q": "Comment savoir si le prix de mon appartement est trop élevé ?",
+      "a_html": "<p>Peu de demandes qualifiées, des visites sans suite ou des retours récurrents sur le prix sont des signaux à prendre au sérieux. Comparez votre bien à des ventes récentes et à des annonces réellement similaires, puis vérifiez aussi la qualité de vos photos et de votre description.</p><p>Un prix un peu ambitieux peut se défendre si le logement possède un atout rare et démontrable. En revanche, si le marché ne réagit pas après plusieurs semaines, une révision franche et argumentée est souvent préférable à une longue attente.</p>"
+    },
+    {
+      "q": "Quels diagnostics faut-il fournir pour vendre une maison ou un appartement ?",
+      "a_html": "<p>Le contenu du dossier de diagnostic technique dépend notamment de l'âge du logement, de sa localisation, de ses installations et de son assainissement. Il peut comprendre, selon le cas, le DPE, les diagnostics amiante, plomb, gaz, électricité, risques, termites et assainissement.</p><p>Certains diagnostics ont une durée de validité limitée. Faites confirmer la liste exacte par un diagnostiqueur certifié ou votre notaire, surtout si vos documents sont anciens ou si le bien est situé dans une zone soumise à des règles particulières.</p>"
+    },
+    {
+      "q": "Combien de temps faut-il pour vendre un bien immobilier ?",
+      "a_html": "<p>Il n'existe pas de délai universel : la localisation, le prix, l'état du bien, la saison et les conditions de crédit influencent fortement la durée de commercialisation. Une fois un acheteur trouvé, il faut souvent compter plusieurs semaines à quelques mois jusqu'à l'acte définitif, notamment lorsque l'acquéreur finance son achat par un prêt.</p><p>Préparer les documents avant la publication et fixer un prix cohérent sont les deux meilleurs moyens de limiter les retards évitables.</p>"
+    },
+    {
+      "q": "Peut-on vendre un logement occupé par un locataire ?",
+      "a_html": "<p>Oui, un logement peut être vendu occupé : l'acquéreur achète alors en principe avec le bail en cours et devient le nouveau bailleur. Ce type de bien intéresse souvent les investisseurs, mais la valeur et le public visé peuvent différer de ceux d'un logement libre.</p><p>Si vous envisagez de vendre libre, les règles de congé au locataire, les délais et un éventuel droit de préemption doivent être respectés. Consultez le notaire suffisamment tôt avant toute démarche auprès du locataire.</p>"
+    },
+    {
+      "q": "Le vendeur paie-t-il un impôt sur la plus-value immobilière ?",
+      "a_html": "<p>La vente de la résidence principale est généralement exonérée de plus-value immobilière lorsque les conditions sont remplies. Pour une résidence secondaire, un logement locatif, un terrain ou d'autres biens, l'imposition peut s'appliquer avec des abattements liés à la durée de détention et diverses exonérations possibles.</p><p>Le calcul dépend de votre prix d'acquisition, des frais et travaux retenus, de votre durée de détention et de votre situation. Le notaire peut établir une estimation avant la signature.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour vendre son bien immobilier dans de bonnes conditions, retenez une règle simple : <strong>un prix juste, un dossier complet et une négociation préparée</strong> valent mieux qu'une annonce précipitée. Prenez le temps de comparer les ventes locales, de choisir le niveau d'accompagnement dont vous avez besoin et de réunir les documents avant les premières visites.</p><p>Vous pourrez ainsi répondre clairement aux acheteurs, défendre votre prix avec des éléments concrets et avancer sereinement jusqu'à la signature chez le notaire.</p>",
+  "__slug": "prix-immo-comment-vendre-son-bien-immobilier"
+}

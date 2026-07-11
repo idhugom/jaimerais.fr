@@ -1,0 +1,202 @@
+{
+  "title": "Comment rendre une dragodinde montable dans Dofus ? Les étapes à suivre",
+  "meta_description": "Découvrez comment rendre votre dragodinde montable dans Dofus : maturité, niveau, énergie, enclos et étapes pour chevaucher sans erreur.",
+  "reading_time_min": 9,
+  "hero_intro": "Vous avez une dragodinde, mais l'option pour la monter reste inaccessible ? C'est généralement une question de maturité, de niveau ou d'énergie, et non un bug. Voici la méthode claire pour rendre votre monture utilisable et identifier rapidement ce qui bloque.",
+  "key_takeaways": [
+    "Une dragodinde devient montable lorsqu'elle a atteint son niveau minimal et sa maturité maximale.",
+    "La maturité se travaille dans un enclos avec des dragofesses, à condition que la sérénité de la monture soit adaptée.",
+    "Pour chevaucher la dragodinde, votre personnage doit aussi remplir les conditions de niveau et la monture doit avoir de l'énergie.",
+    "Les enclos publics sont pratiques pour débuter ; les enclos privés permettent surtout de gagner du temps avec de meilleurs objets d'élevage.",
+    "Ne confondez pas le statut « montable » de la dragodinde avec le fait de pouvoir l'équiper immédiatement sur votre personnage."
+  ],
+  "toc": [
+    "Comprendre ce que signifie « rendre une dragodinde montable »",
+    "Les prérequis à vérifier avant de commencer",
+    "Maturité, sérénité et dragofesses : le fonctionnement",
+    "Enclos public ou privé : quelle solution choisir ?",
+    "Les étapes pour rendre votre dragodinde montable",
+    "Énergie et équipement : les dernières conditions pour la chevaucher",
+    "Les erreurs qui empêchent une dragodinde de devenir montable",
+    "Faire progresser sa monture sans perdre de temps"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre ce que signifie « rendre une dragodinde montable »",
+      "html": "<p>Dans <strong>Dofus</strong>, une dragodinde n'est pas utilisable comme monture dès son obtention. Elle possède plusieurs caractéristiques d'élevage, dont le niveau, la maturité, la sérénité, l'endurance, l'amour et l'énergie. Pour qu'elle devienne <strong>montable</strong>, les deux informations décisives sont son <strong>niveau</strong> et sa <strong>maturité</strong>.</p><p>Une fois la maturité de la dragodinde remplie et le niveau minimal atteint, son statut change : elle peut alors être montée par un personnage qui remplit lui aussi les conditions requises. Cette étape est distincte de la reproduction : il n'est pas nécessaire de maximiser l'amour ou l'endurance pour simplement chevaucher votre monture.</p><p>Le plus simple est d'ouvrir l'interface de votre monture et de consulter ses jauges. Si elle n'est pas encore montable, ne cherchez pas un objet spécial ou une quête cachée : il faut presque toujours la placer dans un enclos et travailler sa maturité.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les prérequis à réunir",
+      "points": [
+        "Votre dragodinde doit atteindre au moins le niveau 5.",
+        "Sa jauge de maturité doit être entièrement remplie pour son espèce.",
+        "Sa sérénité doit être dans la plage compatible avec le gain de maturité.",
+        "Votre personnage doit généralement être de niveau 60 ou plus pour l'équiper comme monture.",
+        "La dragodinde doit conserver de l'énergie pour être chevauchée durablement."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Diagnostic rapide : ce qui bloque votre dragodinde",
+      "intro": "Avant d'investir du temps dans un enclos, comparez l'état affiché sur votre monture avec ce tableau.",
+      "columns": [
+        "Élément à contrôler",
+        "Condition pour monter",
+        "Comment l'améliorer"
+      ],
+      "rows": [
+        [
+          "Niveau de la dragodinde",
+          "Niveau 5 minimum",
+          "Gagnez de l'expérience avec la monture équipée ou attribuez-lui une part d'expérience."
+        ],
+        [
+          "Maturité",
+          "Jauge pleine",
+          "Placez-la dans un enclos avec des dragofesses adaptées."
+        ],
+        [
+          "Sérénité",
+          "Dans la zone autorisant le travail de maturité",
+          "Utilisez des caresseurs ou des baffeurs selon le sens de correction nécessaire."
+        ],
+        [
+          "Niveau du personnage",
+          "Généralement niveau 60 minimum",
+          "Faites progresser votre personnage avant d'équiper la monture."
+        ],
+        [
+          "Énergie",
+          "Supérieure à zéro pour la chevaucher",
+          "Restaurez-la avec une nourriture ou une ressource adaptée à la monture et à votre version du jeu."
+        ]
+      ],
+      "note": "Les libellés et quelques détails d'interface peuvent varier entre les versions de Dofus, mais le principe niveau + maturité reste le même."
+    },
+    {
+      "type": "prose",
+      "heading": "Maturité, sérénité et dragofesses : le mécanisme essentiel",
+      "html": "<p>La <strong>maturité</strong> est la jauge qui transforme une jeune dragodinde en monture montable. Elle n'augmente pas pendant les combats. Pour la faire progresser, il faut déposer la dragodinde dans un enclos comportant des <strong>dragofesses</strong>, les objets d'élevage consacrés à cette caractéristique.</p><p>Attention : une dragodinde ne gagne pas forcément de maturité dès qu'elle touche une dragofesse. Sa <strong>sérénité</strong> doit se trouver dans une plage compatible, généralement visible au centre de sa jauge. Si la sérénité est trop élevée ou trop basse, la monture interagit avec l'objet sans obtenir le gain de maturité attendu.</p><p>Dans ce cas, corrigez d'abord la sérénité. Les <strong>caresseurs</strong> et les <strong>baffeurs</strong> servent à la déplacer dans un sens ou dans l'autre ; vérifiez directement le sens indiqué par votre interface avant de choisir l'objet. Lorsque la sérénité est redevenue correcte, replacez la dragodinde au contact des dragofesses.</p><p>Le plafond de maturité dépend de la monture : ne vous fiez donc pas à une valeur théorique lue pour une autre dragodinde. Votre objectif est simple : remplir complètement la jauge affichée dans la fiche de <em>votre</em> monture. À ce stade, le statut montable doit apparaître si le niveau minimal est également atteint.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Enclos public ou enclos privé : deux façons d'élever votre dragodinde",
+      "intro": "Les deux solutions permettent de travailler la maturité. Le meilleur choix dépend surtout de votre budget, de votre autonomie et du temps dont vous disposez.",
+      "left": {
+        "title": "Enclos public",
+        "points": [
+          "Accessible sans acheter d'enclos.",
+          "Idéal pour découvrir les objets d'élevage et monter une première dragodinde.",
+          "Objets imposés, souvent moins efficaces que du matériel de qualité.",
+          "Peut demander davantage de passages et de patience.",
+          "Très bon choix si vous élevez occasionnellement une seule monture."
+        ]
+      },
+      "right": {
+        "title": "Enclos privé ou guilde",
+        "points": [
+          "Permet de choisir la qualité et l'organisation des objets.",
+          "Plus confortable pour gérer plusieurs dragodindes.",
+          "Nécessite un accès de guilde, une location ou un investissement plus important.",
+          "Les objets d'élevage s'usent et doivent être entretenus ou remplacés.",
+          "Rentable surtout pour un élevage régulier ou plusieurs montures."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Les étapes pour rendre une dragodinde montable",
+      "intro": "Suivez cet ordre : il évite de travailler une mauvaise jauge ou d'attendre inutilement devant l'enclos.",
+      "steps": [
+        {
+          "title": "1. Vérifiez la fiche de votre monture",
+          "html": "<p>Ouvrez l'interface de la dragodinde et regardez son niveau, sa maturité, sa sérénité et son énergie. Notez ce qui manque réellement. Si la maturité est déjà pleine, vous n'avez peut-être besoin que de faire gagner quelques niveaux à la monture ou de monter votre personnage au niveau requis.</p>"
+        },
+        {
+          "title": "2. Atteignez le niveau minimal de la dragodinde",
+          "html": "<p>La dragodinde doit atteindre le niveau 5 avant de pouvoir devenir montable. Équipez-la lorsque cela est possible, puis attribuez-lui une part de votre expérience en combat. Il est inutile de lui donner 100 % de votre expérience si cela ralentit trop votre personnage : une répartition modérée suffit souvent pour franchir rapidement ce premier palier.</p>"
+        },
+        {
+          "title": "3. Ajustez sa sérénité",
+          "html": "<p>Si la maturité ne progresse pas, placez la dragodinde au contact de caresseurs ou de baffeurs afin de ramener sa sérénité dans la zone requise. Faites des contrôles réguliers : le but n'est pas de maximiser cette statistique, mais de la positionner correctement avant le travail sur les dragofesses.</p>"
+        },
+        {
+          "title": "4. Travaillez la maturité avec des dragofesses",
+          "html": "<p>Déposez la monture dans un enclos contenant des dragofesses. Laissez-la interagir avec les objets, puis consultez de nouveau sa fiche. Répétez l'opération jusqu'à ce que la jauge de maturité soit remplie. Dans un enclos public, la progression est souvent plus lente, mais la méthode reste identique.</p>"
+        },
+        {
+          "title": "5. Équipez la dragodinde et contrôlez l'énergie",
+          "html": "<p>Lorsque le statut montable est acquis, retirez si besoin la dragodinde de l'enclos ou de l'étable, puis équipez-la depuis son interface. Si l'action est refusée, contrôlez le niveau de votre personnage et l'énergie disponible. Une monture sans énergie ne peut pas être utilisée normalement.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne travaillez pas les mauvaises caractéristiques",
+      "html": "<p><strong>Amour</strong> et <strong>endurance</strong> sont utiles pour préparer une dragodinde à la reproduction, pas pour la rendre montable. Si votre seul objectif est de vous déplacer avec elle, concentrez-vous d'abord sur le niveau, la sérénité, la maturité et l'énergie. Vous économiserez des allers-retours et l'usure de vos objets d'élevage.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Énergie et équipement : les dernières conditions pour la chevaucher",
+      "html": "<p>Obtenir le statut montable ne signifie pas que tout est automatiquement prêt. Votre personnage doit atteindre le <strong>niveau requis</strong>, habituellement le niveau 60, pour utiliser une dragodinde. Si votre personnage est encore trop bas niveau, la monture peut être mature et de niveau 5 sans pouvoir être équipée.</p><p>L'<strong>énergie</strong> est l'autre point à surveiller. Elle permet à la dragodinde d'être chevauchée et peut diminuer dans certaines situations, notamment après des défaites selon les règles de votre version. Consultez la jauge avant une longue session : une monture à zéro énergie vous forcera à la restaurer avant de repartir.</p><p>La nourriture et les moyens de récupération d'énergie dépendent des versions du jeu et de l'économie de votre serveur. Avant d'acheter en quantité, vérifiez les objets acceptés dans l'interface de la monture ou comparez les prix en hôtel de vente. Pour un besoin ponctuel, le choix le moins cher par point d'énergie est souvent plus pertinent que l'objet le plus pratique.</p><p>Enfin, assurez-vous de ne pas confondre votre certificat, votre étable et votre inventaire de montures. Selon votre situation, il peut être nécessaire de récupérer la dragodinde depuis l'étable avant de pouvoir l'équiper. Une dragodinde laissée dans un enclos ne peut pas être montée tant qu'elle n'a pas été retirée de cet espace.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "La formule à retenir",
+      "items": [
+        {
+          "value": "Niveau 5",
+          "label": "minimum pour la dragodinde"
+        },
+        {
+          "value": "100 %",
+          "label": "de sa maturité propre à atteindre"
+        },
+        {
+          "value": "Niveau 60",
+          "label": "généralement requis pour le personnage"
+        },
+        {
+          "value": "> 0",
+          "label": "énergie nécessaire pour la chevaucher"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Les erreurs qui font perdre du temps en élevage",
+      "html": "<p>La première erreur consiste à laisser une dragodinde sur des dragofesses alors que sa sérénité est hors de la bonne zone. Si la jauge de maturité reste immobile après plusieurs interactions, arrêtez-vous : continuer ne résoudra rien. Corrigez la sérénité, puis reprenez le travail de maturité.</p><p>Une autre confusion fréquente est de chercher à rendre la monture féconde. La fécondité concerne la reproduction et repose notamment sur l'âge, l'amour et l'endurance. Une dragodinde peut être parfaitement montable sans être prête à se reproduire ; l'inverse est également possible si sa maturité ou son niveau ne sont pas finalisés.</p><p>Évitez aussi de vouloir tout faire dans un ordre rigide. Vous pouvez faire gagner quelques niveaux à la dragodinde avant, pendant ou après son passage en enclos. En pratique, travaillez d'abord la maturité si vous avez accès à l'enclos, puis utilisez la monture pour les combats dès qu'elle est équipable. Cela rend sa progression plus naturelle.</p><p>Pour un élevage de plusieurs montures, créez une routine : contrôle de la sérénité, passage aux dragofesses, vérification de la maturité, retrait des dragodindes terminées. Cette organisation limite l'usure inutile des objets et empêche de laisser une monture achevée occuper une place dans l'enclos.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "À quel niveau une dragodinde devient-elle montable ?",
+      "a_html": "<p>La dragodinde doit généralement atteindre le <strong>niveau 5</strong> et avoir sa <strong>maturité au maximum</strong>. Ces deux conditions concernent la monture elle-même. Pour la chevaucher, votre personnage doit en plus atteindre le niveau requis, habituellement le niveau 60.</p>"
+    },
+    {
+      "q": "Pourquoi ma dragodinde ne gagne-t-elle pas de maturité avec les dragofesses ?",
+      "a_html": "<p>Le blocage vient le plus souvent de sa sérénité. Les dragofesses n'augmentent la maturité que si la dragodinde se trouve dans la plage de sérénité appropriée. Utilisez d'abord des caresseurs ou des baffeurs pour ramener sa jauge dans la bonne zone, puis réessayez.</p>"
+    },
+    {
+      "q": "Faut-il monter l'amour et l'endurance pour utiliser une dragodinde ?",
+      "a_html": "<p>Non. L'amour et l'endurance servent principalement à préparer la reproduction. Pour rendre une dragodinde montable, concentrez-vous sur le niveau 5, la maturité pleine et les conditions d'équipement de votre personnage.</p>"
+    },
+    {
+      "q": "Peut-on rendre une dragodinde montable dans un enclos public ?",
+      "a_html": "<p>Oui. Les enclos publics permettent de travailler les caractéristiques d'élevage, dont la maturité. Leur principal inconvénient est la lenteur relative des objets disponibles ; ils restent toutefois suffisants pour préparer une première monture sans posséder d'enclos privé.</p>"
+    },
+    {
+      "q": "Ma dragodinde est montable, mais je ne peux pas la monter : que vérifier ?",
+      "a_html": "<p>Vérifiez dans cet ordre : le niveau de votre personnage, l'énergie de la dragodinde, son emplacement réel dans l'interface et l'absence d'un autre état qui empêche son équipement. Une monture à l'étable ou dans un enclos doit d'abord être récupérée avant d'être équipée.</p>"
+    },
+    {
+      "q": "Comment faire monter rapidement le niveau de sa dragodinde ?",
+      "a_html": "<p>Attribuez à la monture une partie de l'expérience gagnée en combat une fois qu'elle peut être équipée. Pour atteindre seulement le niveau 5, une répartition raisonnable de l'expérience est généralement suffisante. Adaptez le pourcentage pour ne pas pénaliser excessivement la progression de votre personnage.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour rendre une dragodinde montable, retenez une règle simple : <strong>niveau 5 + maturité complète</strong>. Placez-la sur des dragofesses après avoir réglé sa sérénité, puis vérifiez le niveau de votre personnage et son énergie avant de l'équiper. Avec cette méthode, vous saurez immédiatement quelle jauge travailler et vous pourrez profiter de votre première monture sans vous éparpiller dans les mécaniques de reproduction.</p>",
+  "__slug": "comment-rendre-une-dragodinde-montable"
+}

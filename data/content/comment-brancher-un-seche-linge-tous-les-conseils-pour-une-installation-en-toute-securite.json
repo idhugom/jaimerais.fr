@@ -1,0 +1,186 @@
+{
+  "title": "Comment brancher un sèche-linge en toute sécurité : le guide d'installation",
+  "meta_description": "Installez et branchez votre sèche-linge sans risque : prise, évacuation, mise à niveau et contrôles avant le premier cycle, en toute sécurité.",
+  "reading_time_min": 10,
+  "hero_intro": "Brancher un sèche-linge ne consiste pas seulement à le relier à une prise électrique. Entre le choix de l'emplacement, la stabilité de l'appareil et la gestion de l'humidité, quelques vérifications font toute la différence. Suivez ce guide pour installer votre sèche-linge de façon fiable, sûre et durable.",
+  "key_takeaways": [
+    "Branchez toujours le sèche-linge directement sur une prise murale avec terre, sans rallonge ni multiprise.",
+    "Identifiez votre modèle : un sèche-linge à évacuation exige une sortie d'air vers l'extérieur, tandis qu'un modèle à condensation récupère l'eau dans un bac ou un tuyau de vidange.",
+    "Réglez soigneusement les pieds sur un sol rigide et plan : c'est essentiel pour limiter le bruit, les vibrations et l'usure.",
+    "Ne bloquez jamais les grilles d'aération et nettoyez le filtre à peluches après chaque cycle.",
+    "En cas de doute sur la prise, le circuit électrique, une traversée de mur ou une installation dans une salle de bains, faites intervenir un professionnel."
+  ],
+  "toc": [
+    "Préparer l'emplacement et vérifier l'alimentation électrique",
+    "Évacuation, condensation ou pompe à chaleur : quels raccordements ?",
+    "Installer et brancher le sèche-linge étape par étape",
+    "Respecter les règles de sécurité essentielles",
+    "Gérer la vidange, la superposition et les espaces réduits",
+    "Mettre en service et entretenir son sèche-linge",
+    "Savoir quand faire appel à un professionnel"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Préparer l'emplacement et vérifier l'alimentation électrique",
+      "html": "<p>Avant de déballer l'appareil, choisissez un emplacement <strong>sec, stable et accessible</strong>. Le sol doit supporter le poids du sèche-linge chargé et ne pas fléchir sous les vibrations. Prévoyez aussi assez de recul pour ouvrir complètement le hublot, nettoyer le filtre et accéder à la prise sans déplacer l'appareil.</p><p>Évitez de coincer le sèche-linge dans un placard fermé ou contre un mur sans respecter les dégagements indiqués dans sa notice. Même un modèle à condensation ou à pompe à chaleur a besoin que l'air circule autour de lui. Une pièce trop froide, très humide ou poussiéreuse peut également dégrader les performances, surtout avec une pompe à chaleur.</p><p>Côté électricité, vérifiez que le câble est intact et que la tension inscrite sur la plaque signalétique de l'appareil correspond à votre installation. Le sèche-linge doit être branché <strong>directement sur une prise murale reliée à la terre</strong>. En France, il est normalement prévu sur un circuit spécialisé ; la protection du circuit et son câblage doivent être adaptés par un électricien, notamment lors d'une création ou d'une rénovation d'installation.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les raccordements à prévoir selon le type de sèche-linge",
+      "intro": "Le branchement électrique est commun à tous les modèles, mais la gestion de l'air humide et de l'eau varie selon la technologie.",
+      "columns": [
+        "Type d'appareil",
+        "Raccordement indispensable",
+        "Point à contrôler",
+        "À éviter"
+      ],
+      "rows": [
+        [
+          "À évacuation",
+          "Prise avec terre et conduit d'air vers l'extérieur",
+          "Longueur, diamètre et coudes du conduit selon la notice",
+          "Rejeter l'air humide dans une pièce, un garage fermé ou un faux plafond"
+        ],
+        [
+          "À condensation",
+          "Prise avec terre ; bac à vider ou évacuation des condensats si compatible",
+          "Accès facile au réservoir et nettoyage des filtres",
+          "Laisser le bac déborder ou pincer le tuyau de vidange"
+        ],
+        [
+          "À pompe à chaleur",
+          "Prise avec terre ; bac ou évacuation des condensats selon le modèle",
+          "Température de la pièce, circulation d'air et entretien spécifique",
+          "Installer l'appareil dans un local trop froid ou obstruer ses entrées d'air"
+        ]
+      ],
+      "note": "Les instructions propres à votre modèle priment toujours, notamment pour les distances à laisser autour de l'appareil et les caractéristiques du tuyau."
+    },
+    {
+      "type": "comparison",
+      "heading": "Sèche-linge à évacuation ou à condensation : ce qui change à l'installation",
+      "intro": "La technologie choisie détermine surtout la façon dont l'humidité est évacuée. Un sèche-linge à pompe à chaleur est une catégorie de sèche-linge à condensation.",
+      "left": {
+        "title": "Modèle à évacuation",
+        "points": [
+          "Nécessite un conduit qui mène réellement à l'extérieur.",
+          "Demande une installation plus contraignante, particulièrement en appartement.",
+          "Le conduit doit rester aussi court et rectiligne que possible, conformément aux limites du fabricant.",
+          "L'air chaud et humide ne doit jamais être rejeté à l'intérieur du logement."
+        ]
+      },
+      "right": {
+        "title": "Modèle à condensation ou pompe à chaleur",
+        "points": [
+          "Récupère l'eau dans un bac amovible ou l'envoie vers une évacuation d'eau.",
+          "N'exige pas de gaine traversant un mur, ce qui facilite souvent son placement.",
+          "Conserve toutefois des besoins de ventilation et d'entretien des filtres.",
+          "Les modèles à pompe à chaleur consomment généralement moins d'énergie, mais peuvent être plus sensibles aux conditions de température de la pièce."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Installer et brancher le sèche-linge étape par étape",
+      "intro": "Procédez dans cet ordre, appareil débranché. Gardez la notice à portée de main : elle précise les contraintes de votre référence.",
+      "steps": [
+        {
+          "title": "Inspecter l'appareil après le transport",
+          "html": "<p>Retirez tous les éléments d'emballage, les cales et les protections prévues par le fabricant. Examinez le câble, la porte, le tambour et les raccords. Si l'appareil a été transporté couché, respectez les consignes de repos éventuelles indiquées dans sa notice avant de le mettre sous tension.</p>"
+        },
+        {
+          "title": "Mettre le sèche-linge à sa place",
+          "html": "<p>Faites glisser l'appareil sans tirer sur le câble ni écraser un éventuel tuyau. Respectez les espaces recommandés sur les côtés, à l'arrière et au-dessus. La prise doit rester accessible après la pose afin de pouvoir débrancher l'appareil rapidement si nécessaire.</p>"
+        },
+        {
+          "title": "Régler les pieds pour une parfaite stabilité",
+          "html": "<p>Utilisez un niveau à bulle, puis vissez ou dévissez les pieds réglables jusqu'à ce que l'appareil soit parfaitement stable. Appuyez doucement sur ses angles : il ne doit pas basculer. Serrez les contre-écrous s'il en possède.</p>"
+        },
+        {
+          "title": "Raccorder le conduit d'air pour un modèle à évacuation",
+          "html": "<p>Emboîtez le tuyau sur la sortie prévue et fixez-le comme l'indique le fabricant. Orientez-le vers une sortie extérieure permanente, sans l'écraser ni multiplier les coudes. N'improvisez pas un conduit avec un matériau non prévu pour cet usage.</p>"
+        },
+        {
+          "title": "Installer la vidange des condensats si elle est prévue",
+          "html": "<p>Sur un modèle compatible, remplacez ou ajoutez le tuyau fourni pour diriger l'eau vers une évacuation adaptée. Il s'agit bien d'un <strong>tuyau d'évacuation</strong>, et non d'une arrivée d'eau. Respectez la hauteur de raccordement, le cheminement et les accessoires préconisés dans la notice.</p>"
+        },
+        {
+          "title": "Brancher directement sur la prise murale",
+          "html": "<p>Lorsque tout est en place, insérez la fiche dans une prise avec terre en bon état. Ne branchez ni rallonge, ni bloc multiprise, ni adaptateur douteux entre la prise et l'appareil. Ne manipulez jamais la fiche avec les mains mouillées.</p>"
+        },
+        {
+          "title": "Effectuer un premier contrôle de fonctionnement",
+          "html": "<p>Lancez un programme bref conforme à la notice et restez à proximité. Vérifiez l'absence de vibration anormale, de message d'erreur, d'odeur suspecte ou de fuite d'eau. Contrôlez aussi que le condensat arrive bien dans le bac ou dans l'évacuation prévue.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les règles de sécurité à ne pas négocier",
+      "html": "<p>Ne faites pas sécher des textiles imprégnés de solvants, d'essence, d'alcool, d'huile ou d'autres produits inflammables. Consultez aussi systématiquement les étiquettes d'entretien : certains articles, mousses ou caoutchoucs ne sont pas adaptés au sèche-linge.</p><ul><li>Nettoyez le filtre à peluches après chaque utilisation.</li><li>Ne bouchez jamais les ouvertures d'aération.</li><li>Arrêtez l'appareil et débranchez-le avant tout nettoyage approfondi.</li><li>Si une prise chauffe, si le disjoncteur déclenche ou si le câble est abîmé, cessez d'utiliser l'appareil.</li></ul>"
+    },
+    {
+      "type": "prose",
+      "heading": "Gérer la vidange, la superposition et les espaces réduits",
+      "html": "<p>Vider le bac de récupération après les cycles peut vite devenir contraignant. Si votre sèche-linge à condensation est compatible, le raccordement à une évacuation d'eau est très pratique. Utilisez le kit prévu ou recommandé par la marque et suivez exactement la hauteur maximale, la longueur et le tracé autorisés pour le tuyau. Un flexible trop long, plié ou mal fixé peut provoquer un refoulement ou une fuite.</p><p>Vous souhaitez poser le sèche-linge sur le lave-linge ? C'est possible uniquement avec un <strong>kit de superposition compatible</strong>, adapté aux dimensions et au poids des appareils. Le lave-linge doit être en bas, sur un sol stable, et le kit doit immobiliser le sèche-linge. Poser simplement un appareil sur l'autre, même s'il paraît stable à l'arrêt, est risqué.</p><p>Dans une buanderie étroite, ne sacrifiez pas la circulation d'air pour gagner quelques centimètres. Dans une salle de bains, les règles de sécurité électrique liées aux volumes autour de la douche ou de la baignoire doivent être respectées : ne vous fiez pas uniquement à la présence d'une prise. Dans ces configurations, l'avis d'un électricien est particulièrement prudent.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs fréquentes qui compromettent l'installation",
+      "points": [
+        "Utiliser une rallonge ou une multiprise parce que la prise est trop loin.",
+        "Installer un modèle à évacuation sans véritable sortie d'air vers l'extérieur.",
+        "Oublier de régler les pieds et attribuer ensuite les vibrations à une panne.",
+        "Pincer le câble électrique ou le tuyau de condensats derrière l'appareil.",
+        "Empiler lave-linge et sèche-linge sans kit de liaison adapté.",
+        "Négliger le nettoyage du filtre, ce qui allonge les cycles et favorise la surchauffe."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Mettre en service et entretenir son sèche-linge",
+      "html": "<p>Une fois l'installation validée, commencez avec des textiles autorisés et correctement essorés. Un linge trop mouillé rallonge inutilement le programme et augmente la consommation. Ne surchargez pas le tambour : l'air doit circuler entre les vêtements pour un séchage homogène et moins de faux plis.</p><p>Après chaque cycle, retirez les peluches du filtre. Videz le réservoir si votre appareil n'est pas raccordé à une vidange directe. Selon la technologie, le condenseur, le filtre de socle ou l'échangeur thermique demandent également un entretien périodique : reportez-vous au rythme indiqué dans la notice, car les gestes diffèrent d'un modèle à l'autre.</p><p>Inspectez de temps en temps le câble, la prise, le tuyau d'évacuation et les raccords. Une baisse nette des performances, de la condensation inhabituelle dans la pièce, une odeur de chaud ou des disjonctions répétées ne doivent pas être ignorées. Débranchez alors l'appareil et recherchez la cause avant toute nouvelle utilisation.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe pour sécher plus efficacement",
+      "html": "<p>Un filtre propre et un linge bien essoré ont un effet direct sur la durée des cycles. Triez les textiles par épaisseur et par niveau de séchage souhaité, puis choisissez le programme adapté plutôt que de prolonger systématiquement le cycle. Vous protégerez les fibres tout en limitant la consommation d'électricité.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Quand faire appel à un professionnel ?",
+      "html": "<p>Vous pouvez généralement positionner, mettre à niveau et brancher un sèche-linge sur une prise existante conforme. En revanche, confiez à un professionnel la création d'une prise avec terre, l'ajout ou la modification d'un circuit dédié, une prise qui chauffe, des déclenchements de disjoncteur ou le passage d'un conduit d'évacuation à travers un mur.</p><p>Pour un simple positionnement et une mise en service, une intervention se situe souvent autour de <strong>80 à 150 €</strong>, selon la région et le déplacement. La création d'un circuit électrique adapté peut plutôt représenter <strong>150 à 350 € ou davantage</strong> selon l'état du tableau et la distance à câbler. Une sortie d'air vers l'extérieur ou une superposition complexe mérite un devis, car les contraintes du logement font beaucoup varier le prix.</p><p>Faire vérifier l'installation n'est pas un luxe si votre logement est ancien, si la prise n'a pas de terre ou si vous avez le moindre doute. Un branchement sûr protège à la fois votre appareil, votre linge et votre habitation.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il une prise spéciale pour brancher un sèche-linge ?",
+      "a_html": "<p>Le sèche-linge doit être branché sur une <strong>prise murale avec terre</strong>, en bon état et directement accessible. En France, il est habituellement prévu sur un circuit spécialisé. Si vous devez créer, déplacer ou vérifier ce circuit, faites intervenir un électricien qualifié plutôt que de modifier l'installation vous-même.</p>"
+    },
+    {
+      "q": "Puis-je brancher un sèche-linge sur une rallonge ou une multiprise ?",
+      "a_html": "<p>Non. Une rallonge, un enrouleur ou une multiprise peut surchauffer sous la puissance demandée par l'appareil, surtout lors des phases de chauffe. Le câble du sèche-linge doit rejoindre directement une prise murale adaptée. Si elle est trop éloignée, la bonne solution est de faire installer une prise conforme.</p>"
+    },
+    {
+      "q": "Peut-on raccorder un sèche-linge à l'évacuation d'eau ?",
+      "a_html": "<p>Oui, si votre sèche-linge à condensation ou à pompe à chaleur est conçu pour cela. Le raccordement évite de vider le bac à chaque cycle. Utilisez le tuyau ou le kit recommandé par le fabricant et respectez les consignes de hauteur, de longueur et de fixation dans une évacuation d'eaux usées adaptée.</p><p>Un sèche-linge à évacuation d'air ne se raccorde pas de cette manière : il doit expulser son air humide vers l'extérieur par un conduit dédié.</p>"
+    },
+    {
+      "q": "Puis-je installer un sèche-linge dans une salle de bains ou un garage ?",
+      "a_html": "<p>C'est envisageable seulement si les conditions du lieu et les règles électriques le permettent. Dans une salle de bains, l'emplacement par rapport à la douche ou à la baignoire est déterminant. Dans un garage, une température très basse, l'humidité ou la poussière peuvent affecter certains modèles, notamment ceux à pompe à chaleur.</p><p>Consultez la notice de l'appareil et demandez conseil à un professionnel si le local est humide, non chauffé ou exigu.</p>"
+    },
+    {
+      "q": "Comment installer un sèche-linge sur un lave-linge ?",
+      "a_html": "<p>Placez toujours le lave-linge en bas et le sèche-linge au-dessus, jamais l'inverse. Utilisez un kit de superposition homologué ou explicitement compatible avec les deux appareils. Ce kit maintient le sèche-linge en place malgré les vibrations du lave-linge pendant l'essorage.</p><p>Vérifiez aussi la stabilité du sol, les dimensions, l'accès au filtre et l'espace nécessaire à la ventilation avant l'installation.</p>"
+    },
+    {
+      "q": "Pourquoi mon sèche-linge vibre-t-il ou fait-il beaucoup de bruit après l'installation ?",
+      "a_html": "<p>La cause la plus fréquente est un mauvais réglage des pieds ou un sol irrégulier. Vérifiez que l'appareil ne bouge pas quand vous appuyez sur ses angles et contrôlez son niveau. Assurez-vous également qu'aucun tuyau ni câble ne tape contre la carrosserie ou le mur.</p><p>Si les vibrations restent importantes après ces vérifications, interrompez l'utilisation et consultez le service après-vente ou un professionnel.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Bien brancher un sèche-linge, c'est avant tout réunir trois conditions : une <strong>prise électrique adaptée</strong>, un appareil parfaitement stable et une évacuation de l'humidité cohérente avec sa technologie. Prenez le temps de suivre la notice, de contrôler chaque raccordement et de tester l'appareil lors du premier cycle.</p><p>Avec une installation soignée et un entretien régulier des filtres, votre sèche-linge gagnera en efficacité, en longévité et en sécurité au quotidien.</p>",
+  "__slug": "comment-brancher-un-seche-linge-tous-les-conseils-pour-une-installation-en-toute-securite"
+}

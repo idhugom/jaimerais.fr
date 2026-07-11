@@ -1,0 +1,228 @@
+{
+  "title": "Comment calculer une vitesse moyenne en km/h : formule, exemples et conversions",
+  "meta_description": "Apprenez à calculer une vitesse moyenne en km/h : formule, conversions minutes-heures, exemples et pièges à éviter pour des résultats fiables.",
+  "reading_time_min": 8,
+  "hero_intro": "Vous souhaitez connaître votre allure à vélo, vérifier la vitesse moyenne d'un trajet en voiture ou résoudre un exercice de physique ? Le calcul est simple à condition d'utiliser les bonnes unités : la distance doit être en kilomètres et le temps en heures. Voici la méthode, des exemples concrets et les erreurs qui faussent le plus souvent le résultat.",
+  "key_takeaways": [
+    "La formule de base est : vitesse moyenne = distance totale ÷ durée totale.",
+    "Pour obtenir un résultat en km/h, exprimez la distance en kilomètres et le temps en heures.",
+    "Convertissez toujours les minutes et les secondes en fractions d'heure avant de diviser.",
+    "Sur plusieurs portions, ne faites pas la moyenne des vitesses : additionnez les distances et les durées.",
+    "Une application de cartographie donne une estimation utile, mais la vitesse moyenne réelle inclut vos arrêts et les conditions du trajet."
+  ],
+  "toc": [
+    "La formule de la vitesse moyenne en km/h",
+    "Calculer une vitesse moyenne étape par étape",
+    "Convertir correctement les minutes et les secondes",
+    "Plusieurs portions de trajet : la bonne méthode",
+    "Vitesse moyenne et moyenne des vitesses : la différence",
+    "Utiliser Google Maps, un GPS ou une montre connectée",
+    "Les erreurs fréquentes à éviter",
+    "Exemples de calculs selon votre activité"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "La formule de la vitesse moyenne en km/h",
+      "html": "<p>La vitesse moyenne indique la distance parcourue pendant une durée donnée. Elle ne décrit pas votre vitesse à un instant précis : elle résume l'ensemble d'un déplacement, y compris les portions lentes, les montées, les feux rouges ou les pauses si vous choisissez de les compter.</p><p>La formule est la suivante : <strong>vitesse moyenne = distance totale ÷ temps total</strong>. Pour obtenir un résultat en kilomètres par heure, utilisez une distance exprimée en kilomètres et un temps exprimé en heures. Le résultat sera alors naturellement en km/h.</p><p>Par exemple, si vous parcourez 45 km en 1 h 30, il faut d'abord convertir 1 h 30 en heures décimales : 1 h 30 = 1,5 h. Le calcul devient donc 45 ÷ 1,5 = <strong>30 km/h</strong>.</p><p>Cette formule fonctionne pour un trajet à pied, à vélo, en voiture, en train ou pour un exercice scolaire. Ce qui change, ce n'est pas le calcul, mais la façon de mesurer la distance et le temps de manière cohérente.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les trois règles à garder en tête",
+      "points": [
+        "Distance en kilomètres + temps en heures = résultat en km/h.",
+        "Diviser par une durée plus longue donne une vitesse moyenne plus faible, à distance égale.",
+        "Les arrêts comptent si vous calculez la vitesse moyenne du déplacement complet.",
+        "Pour comparer deux trajets, assurez-vous que les temps incluent ou excluent les pauses de la même manière.",
+        "Ne confondez pas vitesse moyenne et vitesse maximale affichée par un compteur."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Calculer votre vitesse moyenne en 4 étapes",
+      "intro": "Avec une distance et une durée fiables, le calcul ne demande qu'une division.",
+      "steps": [
+        {
+          "title": "Relevez la distance totale parcourue",
+          "html": "<p>Utilisez le compteur kilométrique, une montre GPS, une application de sport ou un itinéraire cartographique. Gardez une seule unité : si la distance est donnée en mètres, convertissez-la en kilomètres avant le calcul.</p>"
+        },
+        {
+          "title": "Mesurez la durée du trajet",
+          "html": "<p>Notez l'heure de départ et l'heure d'arrivée, ou utilisez un chronomètre. Décidez si les pauses, arrêts aux feux ou ravitaillements doivent être inclus : ce choix dépend de ce que vous voulez analyser.</p>"
+        },
+        {
+          "title": "Transformez le temps en heures",
+          "html": "<p>Les minutes et secondes ne peuvent pas être divisées directement comme des heures. Divisez les minutes par 60 et les secondes par 3 600, puis ajoutez le résultat au nombre d'heures entières.</p>"
+        },
+        {
+          "title": "Divisez la distance par la durée",
+          "html": "<p>Appliquez la formule : kilomètres ÷ heures. Arrondissez ensuite selon votre besoin, par exemple à l'unité pour un trajet automobile ou à un chiffre après la virgule pour le vélo et la course à pied.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Conversions utiles pour passer le temps en heures",
+      "intro": "Voici les équivalences les plus pratiques avant de calculer une vitesse moyenne en km/h.",
+      "columns": [
+        "Durée indiquée",
+        "Durée en heures",
+        "Exemple de calcul"
+      ],
+      "rows": [
+        [
+          "15 minutes",
+          "0,25 h",
+          "12 km ÷ 0,25 h = 48 km/h"
+        ],
+        [
+          "30 minutes",
+          "0,5 h",
+          "8 km ÷ 0,5 h = 16 km/h"
+        ],
+        [
+          "45 minutes",
+          "0,75 h",
+          "6 km ÷ 0,75 h = 8 km/h"
+        ],
+        [
+          "1 h 15",
+          "1,25 h",
+          "25 km ÷ 1,25 h = 20 km/h"
+        ],
+        [
+          "1 h 30",
+          "1,5 h",
+          "45 km ÷ 1,5 h = 30 km/h"
+        ],
+        [
+          "2 h 20",
+          "2,333... h",
+          "70 km ÷ 2,333... h = environ 30 km/h"
+        ],
+        [
+          "1 minute",
+          "0,0167 h environ",
+          "1 km ÷ 0,0167 h = environ 60 km/h"
+        ]
+      ],
+      "note": "Pour convertir des minutes en heures, divisez par 60. Pour les secondes, divisez par 3 600."
+    },
+    {
+      "type": "prose",
+      "heading": "Plusieurs portions de trajet : additionnez avant de diviser",
+      "html": "<p>Un trajet comporte rarement une vitesse constante. Vous pouvez rouler rapidement sur une route dégagée, ralentir dans un village, puis vous arrêter quelques minutes. Dans ce cas, la méthode fiable consiste à additionner <strong>toutes les distances</strong>, puis à additionner <strong>toutes les durées</strong>, avant d'effectuer une seule division.</p><p>Imaginons 20 km parcourus en 30 minutes, puis 10 km parcourus en 20 minutes. La distance totale est de 30 km. La durée totale est de 50 minutes, soit 0,833 h environ. La vitesse moyenne est donc 30 ÷ 0,833 = <strong>environ 36 km/h</strong>.</p><p>Si vous avez effectué une pause de 10 minutes entre les deux portions, deux réponses sont possibles. En incluant la pause, la durée devient 1 heure et la moyenne est de 30 km/h : c'est votre vitesse moyenne sur la sortie complète. En l'excluant, vous retrouvez environ 36 km/h : c'est votre vitesse moyenne en mouvement.</p><p>Les montres de sport et applications de vélo distinguent souvent ces deux données. Vérifiez le libellé affiché, car une « vitesse moyenne » et une « vitesse moyenne en déplacement » ne répondent pas exactement à la même question.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Vitesse moyenne ou moyenne des vitesses ?",
+      "intro": "Ces deux calculs donnent parfois le même résultat, mais il ne faut pas les confondre.",
+      "left": {
+        "title": "La bonne vitesse moyenne du trajet",
+        "points": [
+          "Additionner les kilomètres parcourus.",
+          "Additionner le temps réellement retenu.",
+          "Calculer distance totale ÷ durée totale.",
+          "À utiliser pour connaître la vitesse réelle sur un itinéraire complet."
+        ]
+      },
+      "right": {
+        "title": "La moyenne simple des vitesses",
+        "points": [
+          "Additionner les vitesses relevées puis diviser par leur nombre.",
+          "Ne tient pas compte du temps passé à chaque vitesse.",
+          "Peut donner un résultat trompeur si les portions ne durent pas aussi longtemps.",
+          "À éviter pour analyser un trajet, sauf cas très particulier."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le piège classique : 30 km/h puis 60 km/h ne font pas toujours 45 km/h",
+      "html": "<p>Si vous roulez une heure à 30 km/h puis une heure à 60 km/h, votre moyenne est bien de 45 km/h, car les deux vitesses ont été tenues pendant la même durée. Mais si vous parcourez la même distance à 30 km/h puis à 60 km/h, votre moyenne est de <strong>40 km/h</strong>, pas 45 km/h : vous avez passé davantage de temps sur la portion lente.</p><p>Retenez la règle la plus sûre : ne faites pas la moyenne des vitesses affichées. Reprenez toujours la distance totale et le temps total.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Utiliser Google Maps, un GPS ou une application : utile, mais à interpréter",
+      "html": "<p>Un service de cartographie peut vous aider à estimer une vitesse moyenne prévisionnelle. Saisissez le point de départ, la destination et le mode de déplacement. L'outil indique généralement une distance et une durée estimée. Il vous suffit de convertir la durée en heures puis de diviser la distance par cette durée si l'application ne fournit pas déjà une allure ou une vitesse moyenne.</p><p>Par exemple, un itinéraire de 18 km annoncé en 28 minutes correspond à 28 ÷ 60 = 0,467 h environ. La vitesse estimée est donc 18 ÷ 0,467, soit <strong>environ 38,6 km/h</strong>. Cette valeur est une prévision, pas une garantie : trafic, stationnement, météo, travaux et pauses peuvent modifier la durée réelle.</p><p>Pour un trajet déjà effectué, un GPS ou une montre connectée est souvent plus précis qu'une estimation cartographique. Regardez toutefois si le dispositif a été mis en pause automatiquement et si le temps affiché correspond au temps écoulé ou uniquement au temps de mouvement.</p><p>En voiture, la vitesse moyenne d'un itinéraire urbain est fréquemment bien inférieure à la vitesse autorisée. Les limitations, intersections et ralentissements font partie du temps de parcours : une moyenne basse ne signifie donc pas nécessairement que vous avez roulé lentement en permanence.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Exemples de vitesse moyenne dans la vie courante",
+      "intro": "Ces situations montrent comment choisir les données à retenir selon votre objectif.",
+      "columns": [
+        "Situation",
+        "Calcul",
+        "Résultat"
+      ],
+      "rows": [
+        [
+          "Marche : 5 km en 1 h 10",
+          "5 ÷ 1,167 h",
+          "Environ 4,3 km/h"
+        ],
+        [
+          "Course : 10 km en 52 min",
+          "10 ÷ 0,867 h",
+          "Environ 11,5 km/h"
+        ],
+        [
+          "Vélo : 32 km en 1 h 40",
+          "32 ÷ 1,667 h",
+          "Environ 19,2 km/h"
+        ],
+        [
+          "Voiture : 150 km en 2 h 15",
+          "150 ÷ 2,25 h",
+          "Environ 66,7 km/h"
+        ],
+        [
+          "Trajet avec arrêt : 24 km en 1 h, dont 15 min de pause",
+          "24 ÷ 1 h avec pause ; 24 ÷ 0,75 h sans pause",
+          "24 km/h ; 32 km/h en mouvement"
+        ],
+        [
+          "Train : 280 km en 2 h 20",
+          "280 ÷ 2,333 h",
+          "Environ 120 km/h"
+        ]
+      ],
+      "note": "Les résultats sont arrondis. Ils reflètent une moyenne globale, pas la vitesse instantanée ni la vitesse maximale."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Convertir une vitesse entre km/h et mph",
+      "html": "<p>Si une vitesse est donnée en miles par heure, multipliez-la par <strong>1,609</strong> pour obtenir une valeur approximative en km/h. Ainsi, 50 mph correspondent à environ 80,5 km/h.</p><p>Dans l'autre sens, divisez les km/h par 1,609, ou multipliez par 0,621. Par exemple, 100 km/h correspondent à environ 62 mph. Faites cette conversion avant de comparer ou de combiner des données exprimées dans des unités différentes.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment calculer une vitesse moyenne avec des minutes ?",
+      "a_html": "<p>Convertissez d'abord les minutes en heures en les divisant par 60. Ensuite, divisez la distance en kilomètres par cette durée en heures.</p><p>Pour 24 km parcourus en 40 minutes : 40 ÷ 60 = 0,667 h environ, puis 24 ÷ 0,667 = <strong>environ 36 km/h</strong>.</p>"
+    },
+    {
+      "q": "Quelle est la formule exacte de la vitesse moyenne ?",
+      "a_html": "<p>La formule est : <strong>vitesse moyenne = distance totale ÷ temps total</strong>. Avec des kilomètres et des heures, le résultat est exprimé en km/h.</p><p>On peut aussi retrouver la durée avec temps = distance ÷ vitesse, ou la distance avec distance = vitesse × temps, à condition de conserver des unités cohérentes.</p>"
+    },
+    {
+      "q": "Comment calculer une vitesse moyenne avec des arrêts ?",
+      "a_html": "<p>Tout dépend de l'indicateur recherché. Pour la vitesse moyenne de votre sortie complète, incluez les arrêts dans la durée totale. Pour connaître votre vitesse moyenne en mouvement, retirez les temps d'arrêt avant le calcul.</p><p>Il est utile d'indiquer clairement la méthode, notamment lorsque vous comparez une sortie sportive, un déplacement professionnel ou un trajet routier.</p>"
+    },
+    {
+      "q": "Pourquoi ne faut-il pas additionner deux vitesses puis diviser par deux ?",
+      "a_html": "<p>Cette moyenne simple n'est juste que lorsque vous avez roulé exactement le même temps à chacune des deux vitesses. Dans les autres cas, chaque vitesse doit être pondérée par la durée correspondante.</p><p>La méthode universelle reste donc de diviser la distance totale par le temps total. Elle prend automatiquement en compte les portions lentes et rapides.</p>"
+    },
+    {
+      "q": "Comment convertir 1 h 45 en heures décimales ?",
+      "a_html": "<p>Conservez l'heure entière et divisez les 45 minutes par 60 : 45 ÷ 60 = 0,75. Ainsi, 1 h 45 correspondent à <strong>1,75 h</strong>.</p><p>Attention : 1 h 45 ne vaut pas 1,45 h. L'écriture après la virgule est décimale, alors que les minutes sont comptées sur une base de 60.</p>"
+    },
+    {
+      "q": "Google Maps donne-t-il une vitesse moyenne fiable ?",
+      "a_html": "<p>Google Maps et les services similaires fournissent surtout une estimation de durée fondée sur l'itinéraire, le mode de déplacement et parfois les conditions de circulation. Le rapport distance ÷ durée donne donc une vitesse moyenne prévisionnelle utile pour planifier.</p><p>Pour mesurer votre vitesse réellement obtenue, utilisez plutôt les données de votre compteur, GPS ou montre après le trajet, en vérifiant la prise en compte des pauses.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Calculer une vitesse moyenne en km/h revient à appliquer une règle simple : <strong>distance totale ÷ temps total</strong>. La difficulté vient surtout des unités : prenez le réflexe de convertir les minutes en heures et de ne pas moyenner des vitesses affichées séparément.</p><p>Que vous prépariez un itinéraire, suiviez vos progrès sportifs ou vérifiiez un problème de physique, notez la distance, choisissez si les pauses comptent, puis faites une seule division. Vous obtiendrez un résultat clair, comparable et réellement utile.</p>",
+  "__slug": "comment-calculer-une-vitesse-moyenne-en-km-h"
+}

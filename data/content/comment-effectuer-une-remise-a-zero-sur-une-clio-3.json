@@ -1,0 +1,207 @@
+{
+  "title": "Remise à zéro sur Clio 3 : entretien, compteur trajet et pression des pneus",
+  "meta_description": "Remettez facilement à zéro l’entretien, le trajet ou les pneus de votre Clio 3 : procédures fiables, variantes et conseils pour éviter les erreurs.",
+  "reading_time_min": 9,
+  "hero_intro": "Sur une Renault Clio 3, « remise à zéro » peut désigner plusieurs opérations très différentes : réinitialiser l’échéance d’entretien, effacer les données d’un trajet ou initialiser la surveillance de pression des pneus. La bonne manipulation dépend donc du message affiché et de l’équipement de votre voiture. Voici comment agir sans confondre un simple rappel d’entretien avec un voyant qui nécessite un diagnostic.",
+  "key_takeaways": [
+    "Le kilométrage total d’une Clio 3 ne doit pas et ne peut pas être remis à zéro par une manipulation normale au tableau de bord.",
+    "Pour réinitialiser l’entretien, affichez d’abord l’autonomie ou l’échéance de révision, puis maintenez la commande de défilement enfoncée jusqu’au clignotement.",
+    "La remise à zéro du compteur journalier et des données de trajet est sans conséquence sur l’entretien du véhicule.",
+    "Ne débranchez pas la batterie pour faire disparaître un voyant : cette méthode ne remplace ni une réparation ni un diagnostic.",
+    "Une alerte moteur, ABS, airbag ou STOP ne doit jamais être traitée par une simple remise à zéro."
+  ],
+  "toc": [
+    "Identifier le bon type de remise à zéro",
+    "Les remises à zéro possibles sur une Clio 3",
+    "Réinitialiser l’indicateur d’entretien après une vidange",
+    "Remettre à zéro le compteur journalier et les données de trajet",
+    "Initialiser la surveillance de pression des pneus",
+    "Pourquoi débrancher la batterie est rarement une solution",
+    "Quand faire appel à un garage"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Identifier le bon type de remise à zéro",
+      "html": "<p>Avant d’appuyer sur un bouton, prenez le temps d’identifier ce que vous voulez réellement réinitialiser. Sur une Clio 3, le terme « remise à zéro » est souvent employé pour le <strong>rappel de vidange ou de révision</strong>, mais il peut aussi concerner le compteur journalier, la consommation moyenne, l’autonomie calculée ou, sur certaines versions équipées, la surveillance de pression des pneus.</p><p>Le point essentiel est le suivant : le <strong>kilométrage total</strong>, celui qui figure au compteur général du véhicule, ne se remet pas à zéro avec les commandes de bord. Chercher à modifier ce kilométrage est illégal lorsqu’il s’agit de masquer l’historique réel d’un véhicule. En revanche, le kilométrage partiel, généralement appelé compteur journalier ou compteur de trajet, est bien conçu pour être effacé par le conducteur.</p><p>La Clio 3 a connu plusieurs finitions, motorisations et évolutions de tableau de bord. La commande utilisée se trouve le plus souvent sur le commodo d’essuie-glaces ou près de l’afficheur, mais son emplacement et les intitulés peuvent varier. La méthode fiable consiste donc à <strong>faire défiler les informations jusqu’à l’écran concerné</strong>, puis à maintenir la commande qui a permis de l’afficher.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Ne confondez pas rappel d’entretien et compteur de trajet",
+      "intro": "Ces deux opérations sont courantes, mais elles n’ont ni le même objectif ni les mêmes conséquences.",
+      "left": {
+        "title": "Réinitialisation de l’entretien",
+        "points": [
+          "Efface ou met à jour l’échéance de vidange et de révision affichée au tableau de bord.",
+          "À effectuer seulement après l’entretien réellement réalisé : huile, filtre et contrôles prévus.",
+          "N’efface pas les défauts moteur, ABS, airbag ou antipollution.",
+          "Utilise l’écran indiquant la distance ou le temps avant la prochaine révision."
+        ]
+      },
+      "right": {
+        "title": "Remise à zéro du trajet",
+        "points": [
+          "Efface le kilométrage journalier et, selon l’écran, les consommations et vitesses moyennes.",
+          "Peut être faite aussi souvent que souhaité, par exemple à chaque plein de carburant.",
+          "N’a aucun effet sur le plan d’entretien du véhicule.",
+          "Utilise l’écran « trajet » ou « compteur partiel »."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Quelle manipulation choisir selon votre besoin ?",
+      "intro": "Ce tableau vous aide à éviter la mauvaise réinitialisation et à savoir quand une intervention professionnelle est préférable.",
+      "columns": [
+        "Ce que vous voyez ou voulez faire",
+        "Commande ou écran à utiliser",
+        "À faire avant la remise à zéro",
+        "Coût indicatif"
+      ],
+      "rows": [
+        [
+          "Clé ou message d’entretien, échéance de vidange",
+          "Écran d’autonomie avant révision, puis appui long sur la commande de défilement",
+          "Faire réaliser la vidange ou la révision prévue",
+          "0 € vous-même ; souvent entre 20 et 60 € si un garage effectue uniquement l’opération"
+        ],
+        [
+          "Compteur journalier, consommation moyenne, trajet",
+          "Écran « trajet » ou compteur partiel, puis appui long",
+          "Noter les données si vous voulez les conserver",
+          "0 €"
+        ],
+        [
+          "Témoin de pression des pneus sur version équipée",
+          "Fonction d’initialisation dédiée, selon tableau de bord",
+          "Contrôler les quatre pressions à froid selon l’étiquette du véhicule",
+          "0 € ; contrôle ou diagnostic facturé selon le garage"
+        ],
+        [
+          "Voyant moteur, ABS, airbag, STOP ou anomalie persistante",
+          "Aucune remise à zéro manuelle recommandée",
+          "Lire les défauts et réparer la cause",
+          "Diagnostic souvent facturé, généralement autour de 30 à 100 € selon le professionnel"
+        ]
+      ],
+      "note": "Les montants sont des ordres de grandeur : une remise à zéro est souvent comprise dans une révision complète. Les commandes exactes dépendent de la version de votre Clio 3."
+    },
+    {
+      "type": "steps",
+      "heading": "Réinitialiser l’indicateur d’entretien après une vidange",
+      "intro": "Cette procédure concerne le rappel périodique de maintenance. Réalisez-la uniquement lorsque l’entretien correspondant a bien été effectué.",
+      "steps": [
+        {
+          "title": "Stationnez et mettez le contact",
+          "html": "<p>Garez la voiture en sécurité, serrez le frein de stationnement et coupez le moteur. Mettez ensuite le contact <strong>sans démarrer</strong>. Il n’est normalement pas nécessaire d’appuyer sur les pédales ni d’ouvrir le capot.</p>"
+        },
+        {
+          "title": "Affichez l’échéance de révision",
+          "html": "<p>À l’aide de la commande située sur le commodo ou près de l’afficheur, faites défiler les écrans jusqu’à voir la distance ou le temps restant avant la prochaine révision. Selon les versions, l’affichage peut évoquer la vidange, la révision, une clé à molette ou une échéance en kilomètres.</p>"
+        },
+        {
+          "title": "Maintenez la commande enfoncée",
+          "html": "<p>Lorsque l’écran d’entretien est affiché, maintenez la même commande appuyée pendant plusieurs secondes, souvent entre cinq et dix secondes. L’information peut d’abord s’afficher de manière fixe, puis <strong>clignoter</strong> : c’est généralement le signe que la procédure de réinitialisation est engagée.</p>"
+        },
+        {
+          "title": "Attendez la nouvelle échéance",
+          "html": "<p>Continuez l’appui jusqu’à ce qu’une nouvelle distance ou période d’entretien apparaisse. Relâchez alors la commande. Coupez le contact, attendez quelques instants, puis remettez-le pour vérifier que l’échéance a bien été enregistrée.</p>"
+        },
+        {
+          "title": "Contrôlez le résultat sans ignorer les autres voyants",
+          "html": "<p>La disparition du rappel d’entretien confirme seulement la remise à zéro du calculateur de maintenance. Si un voyant de défaut reste allumé, ne le confondez pas avec la clé de révision : son origine doit être recherchée séparément.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Une remise à zéro ne remplace jamais l’entretien",
+      "html": "<p>Réinitialiser l’échéance avant d’avoir effectué la vidange peut vous faire perdre le suivi réel du véhicule. Conservez la date, le kilométrage, la facture et la nature des travaux réalisés. C’est utile pour votre sécurité, pour la revente et pour respecter les intervalles prévus par Renault.</p><p>Si votre Clio 3 affiche un message inhabituel ou un voyant rouge, arrêtez-vous dès que les conditions de sécurité le permettent et consultez le manuel ou un professionnel. Un voyant rouge ou clignotant n’est pas un simple rappel d’entretien.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Remettre à zéro le compteur journalier et les données de trajet",
+      "html": "<p>Le compteur journalier est pratique pour suivre la distance parcourue depuis un plein, un déplacement professionnel ou un départ en vacances. Sur la plupart des Clio 3, faites défiler les informations jusqu’au <strong>kilométrage partiel</strong> ou à l’écran de trajet, puis maintenez le bouton ou la commande de sélection quelques secondes. La valeur revient alors à zéro.</p><p>Selon l’affichage présent au moment de l’appui long, la voiture peut aussi remettre à zéro les paramètres associés : consommation moyenne, vitesse moyenne, carburant consommé et distance parcourue. Si vous souhaitez conserver l’un de ces relevés, notez-le avant la manipulation.</p><p>Si rien ne se passe, vérifiez que vous êtes bien sur l’écran de trajet et non sur l’odomètre total ou l’échéance d’entretien. Sur certaines versions, un appui bref fait défiler les informations tandis qu’un appui long efface la donnée affichée. Le manuel correspondant à l’année et à la finition de votre véhicule reste la meilleure référence en cas de doute.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Initialiser la surveillance de pression des pneus, si votre Clio 3 en est équipée",
+      "intro": "Toutes les Clio 3 ne disposent pas du même système. Lorsqu’une fonction de surveillance est présente, elle doit être initialisée après un réglage correct des pneus, et non utilisée pour masquer une perte de pression.",
+      "steps": [
+        {
+          "title": "Vérifiez les pneus à froid",
+          "html": "<p>Contrôlez l’état des quatre pneus et mesurez leur pression avant de rouler, idéalement lorsque les pneus sont froids. Respectez la pression indiquée sur l’étiquette placée, selon les versions, dans l’encadrement de porte ou dans la trappe à carburant. Tenez compte de la charge du véhicule si deux valeurs sont indiquées.</p>"
+        },
+        {
+          "title": "Corrigez la cause d’une alerte",
+          "html": "<p>Un clou, une vis, une valve qui fuit ou un pneu endommagé ne se résout pas par une initialisation. Si un pneu se dégonfle régulièrement, faites-le contrôler avant toute remise à zéro.</p>"
+        },
+        {
+          "title": "Lancez l’initialisation prévue par votre version",
+          "html": "<p>Avec le contact mis et le véhicule à l’arrêt, recherchez la fonction d’initialisation dans les informations de bord ou utilisez la commande dédiée si votre finition en possède une. Maintenez-la jusqu’à la confirmation visuelle ou sonore indiquée par l’afficheur. La formulation et le chemin de menu varient selon l’équipement.</p>"
+        },
+        {
+          "title": "Roulez puis surveillez le témoin",
+          "html": "<p>Le système a parfois besoin de quelques minutes de roulage pour recalculer une référence. Si le témoin revient rapidement, revérifiez les pressions et faites inspecter les pneus. Une réinitialisation répétée sans contrôle préalable est à éviter.</p>"
+        }
+      ]
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs les plus fréquentes à éviter",
+      "points": [
+        "Maintenir un bouton depuis n’importe quel écran : il faut d’abord afficher la donnée que vous souhaitez effacer.",
+        "Réinitialiser le rappel de vidange pour faire disparaître une clé alors que l’entretien n’a pas été fait.",
+        "Croire qu’un voyant moteur ou airbag disparaîtra durablement après une coupure de batterie.",
+        "Utiliser la pression maximale inscrite sur le flanc du pneu au lieu de la pression recommandée par le constructeur.",
+        "Oublier de vérifier l’échéance après avoir coupé puis remis le contact.",
+        "Confondre le kilométrage partiel, réinitialisable, avec le kilométrage total du véhicule."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Pourquoi débrancher la batterie est rarement une solution",
+      "html": "<p>Débrancher la borne négative de la batterie est parfois présenté comme une remise à zéro universelle. Ce n’est pas une bonne méthode pour l’entretien courant d’une Clio 3. Elle peut effacer certains réglages temporaires, mais elle ne garantit pas l’effacement d’un défaut mémorisé dans un calculateur et ne remet pas correctement à jour l’échéance de maintenance.</p><p>Cette opération peut aussi entraîner des désagréments : perte de stations radio, demande de code autoradio selon l’équipement, réinitialisation de l’horloge ou nécessité de réapprendre certaines fonctions électriques. Surtout, elle peut masquer brièvement un problème qui réapparaîtra ensuite, sans en résoudre la cause.</p><p>Une déconnexion de batterie est justifiée lors de son remplacement ou d’une intervention électrique réalisée selon les préconisations du véhicule. Dans ce cas, moteur arrêté, ne travaillez jamais sur la batterie moteur tournant et suivez la procédure du manuel. Pour un voyant anormal, la bonne démarche reste une <strong>lecture des codes défauts</strong> avec un outil adapté, suivie de la réparation nécessaire.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réflexe simple : photographier l’affichage avant d’agir",
+      "html": "<p>Avant toute remise à zéro, prenez une photo de l’écran et notez le kilométrage total, la date et le message affiché. Vous pourrez vérifier le résultat après la manipulation et conserver un historique utile, notamment si l’alerte revient.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Quand faire appel à un garage",
+      "html": "<p>Vous pouvez effectuer vous-même la remise à zéro du trajet ou du rappel d’entretien si vous avez bien identifié l’écran concerné et si l’entretien a été fait. En revanche, un garage ou un centre automobile est préférable lorsque le témoin reste affiché malgré la procédure, lorsque le tableau de bord signale une anomalie précise ou lorsque vous ne connaissez pas l’historique de la voiture.</p><p>Un professionnel pourra distinguer un simple compteur d’entretien d’un défaut enregistré par l’électronique. Une lecture diagnostic permet notamment d’identifier un problème de capteur, d’antipollution, d’allumage, d’injection, d’ABS ou d’airbag. L’effacement d’un code défaut ne doit intervenir qu’après la correction de la panne ; sinon le voyant risque de revenir rapidement.</p><p>Après une révision complète, demandez au garage de confirmer la nouvelle échéance affichée au tableau de bord. C’est particulièrement utile si vous achetez une Clio 3 d’occasion ou si plusieurs personnes utilisent le véhicule.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment remettre à zéro le voyant de vidange sur une Clio 3 ?",
+      "a_html": "<p>Mettez le contact sans démarrer, faites défiler l’ordinateur de bord jusqu’à l’écran indiquant l’échéance de révision ou de vidange, puis maintenez la commande correspondante plusieurs secondes. Lorsque l’affichage clignote et qu’une nouvelle échéance apparaît, relâchez et vérifiez le résultat après avoir coupé puis remis le contact.</p><p>La séquence peut légèrement varier selon l’année et la finition. Effectuez cette opération après la vidange et les contrôles prévus, pas avant.</p>"
+    },
+    {
+      "q": "Pourquoi la clé de révision reste-t-elle allumée après la vidange ?",
+      "a_html": "<p>Vous êtes peut-être sur le mauvais écran, l’appui n’a peut-être pas été maintenu assez longtemps, ou la procédure propre à votre version diffère. Consultez le manuel de bord correspondant à votre Clio 3 et recommencez depuis l’écran de l’échéance d’entretien.</p><p>Si la clé est accompagnée d’un autre voyant ou d’un message de défaut, un diagnostic peut être nécessaire : la réinitialisation d’entretien ne traite pas les pannes électroniques.</p>"
+    },
+    {
+      "q": "Peut-on remettre à zéro le kilométrage total d’une Clio 3 ?",
+      "a_html": "<p>Non. Le compteur kilométrique total n’est pas destiné à être remis à zéro par l’utilisateur. Seul le compteur journalier ou de trajet peut être effacé avec les commandes du tableau de bord.</p><p>Modifier le kilométrage réel d’un véhicule dans le but de tromper un acheteur est illégal. En cas de panne du combiné d’instruments, faites intervenir un professionnel et conservez les justificatifs.</p>"
+    },
+    {
+      "q": "Comment remettre à zéro le compteur journalier sur une Clio 3 ?",
+      "a_html": "<p>Affichez le kilométrage partiel ou l’écran de trajet avec la commande de défilement, puis effectuez un appui long sur cette commande. Le compteur journalier doit revenir à zéro. Selon l’écran sélectionné, les données de consommation moyenne et de vitesse moyenne peuvent également être effacées.</p>"
+    },
+    {
+      "q": "Faut-il débrancher la batterie pour supprimer un voyant sur une Clio 3 ?",
+      "a_html": "<p>Non, ce n’est pas recommandé pour supprimer un voyant. Débrancher la batterie peut réinitialiser certains réglages sans effacer durablement la cause d’un défaut. Vous risquez aussi de perdre des paramètres du véhicule.</p><p>Un voyant moteur, ABS, airbag ou antipollution doit être contrôlé à l’aide d’un diagnostic adapté. La réparation de la cause reste indispensable.</p>"
+    },
+    {
+      "q": "Comment réinitialiser le voyant de pression des pneus sur une Clio 3 ?",
+      "a_html": "<p>Commencez par vérifier les quatre pressions à froid en suivant les valeurs recommandées pour votre véhicule. Recherchez ensuite la fonction d’initialisation de la surveillance des pneus sur l’ordinateur de bord ou la commande dédiée, si votre Clio 3 en dispose.</p><p>Si le témoin revient après l’initialisation, ne l’ignorez pas : vérifiez une nouvelle fois les pressions et faites contrôler les pneus, les valves et une éventuelle crevaison lente.</p>"
+    }
+  ],
+  "conclusion_html": "<p>La bonne remise à zéro sur une Clio 3 commence par le bon diagnostic : <strong>entretien, trajet, pression des pneus ou défaut électronique</strong> ne se traitent pas de la même façon. Pour le rappel de révision, affichez l’échéance puis maintenez la commande de défilement jusqu’à la confirmation. Pour le compteur journalier, sélectionnez simplement le trajet avant l’appui long.</p><p>Gardez en tête qu’une manipulation de tableau de bord ne remplace ni une vidange, ni un contrôle de pneus, ni un diagnostic de panne. En cas de voyant persistant ou de doute sur votre version de Clio 3, mieux vaut vérifier le manuel de bord ou demander l’avis d’un professionnel.</p>",
+  "__slug": "comment-effectuer-une-remise-a-zero-sur-une-clio-3"
+}

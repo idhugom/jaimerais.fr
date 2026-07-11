@@ -1,0 +1,231 @@
+{
+  "title": "Métiers de l’aéronautique : formations, salaires et carrières",
+  "meta_description": "Découvrez les métiers de l’aéronautique : formations, salaires, recrutements et conseils pour bâtir une carrière concrète adaptée à votre profil.",
+  "reading_time_min": 11,
+  "hero_intro": "Concevoir un avion, assembler une pièce au millimètre, maintenir un appareil en état de vol ou organiser les opérations au sol : l’aéronautique rassemble bien plus de métiers que l’on ne l’imagine. Accessible du CAP au diplôme d’ingénieur, la filière recherche des profils rigoureux, curieux et prêts à apprendre. Voici comment identifier le métier, la formation et l’environnement de travail qui vous correspondent.",
+  "key_takeaways": [
+    "L’aéronautique ne se limite pas aux ingénieurs et aux pilotes : production, maintenance, qualité, logistique, informatique et opérations aéroportuaires offrent de nombreuses portes d’entrée.",
+    "Un CAP, un bac professionnel ou un BTS peut mener à des métiers techniques recherchés ; les études longues ouvrent davantage vers la conception, les essais et le pilotage de projets.",
+    "La sécurité, la traçabilité et le respect des procédures sont centraux dans tous les métiers, y compris les postes d’atelier et de bureau.",
+    "Les rémunérations dépendent fortement du métier, de la région, des horaires et des primes : il faut comparer le salaire fixe, les contraintes et les perspectives d’évolution.",
+    "L’alternance, les stages et l’anglais technique sont de vrais accélérateurs pour décrocher un premier poste dans la filière."
+  ],
+  "toc": [
+    "Pourquoi l’aéronautique propose autant de carrières",
+    "Les principaux métiers de l’aéronautique",
+    "Atelier, hangar ou bureau d’études : choisir son environnement",
+    "Quelles études pour travailler dans l’aéronautique ?",
+    "Construire son projet professionnel pas à pas",
+    "Les règles à connaître avant de viser la maintenance",
+    "Recrutement, compétences et réalités du terrain",
+    "Salaires dans l’aéronautique : quels ordres de grandeur ?"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi l’aéronautique propose autant de carrières",
+      "html": "<p>Le terme « aéronautique » désigne l’ensemble des activités liées à la conception, à la fabrication, à l’exploitation et à l’entretien des aéronefs. On y trouve les constructeurs d’avions et d’hélicoptères, les équipementiers, les entreprises de maintenance, les compagnies aériennes, les aéroports, les sociétés de services et certains acteurs de la défense ou du spatial proche.</p><p>Cette chaîne industrielle fait travailler des personnes aux expertises très différentes. Un avion est le résultat d’un assemblage complexe de matériaux, de systèmes mécaniques, électriques, hydrauliques et numériques. Avant son vol, il faut le produire, contrôler chaque opération, documenter les interventions, le tester, puis assurer sa maintenance pendant des décennies.</p><p>Le secteur convient particulièrement aux personnes qui aiment comprendre comment les choses fonctionnent et travailler avec précision. Il demande aussi un bon esprit d’équipe : une pièce correctement posée, un contrôle bien renseigné ou une anomalie signalée à temps participe directement à la sécurité de tous.</p><p><strong>À ne pas confondre :</strong> les métiers de l’aéronautique concernent souvent l’industrie et la maintenance des aéronefs ; les métiers de l’aviation couvrent plus largement le transport aérien, avec par exemple les pilotes, personnels navigants commerciaux ou agents d’escale. Les frontières se rejoignent dans les compagnies et les aéroports.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les grandes familles de métiers",
+      "points": [
+        "Production et assemblage : ajustage, montage, câblage, chaudronnerie, usinage, composites, contrôle de fabrication.",
+        "Maintenance et navigabilité : entretien programmé, dépannage, inspection, réparation et documentation des interventions.",
+        "Ingénierie et essais : conception mécanique, électronique, logiciels embarqués, calcul, matériaux, essais en vol et industrialisation.",
+        "Qualité, méthodes et supply chain : amélioration des procédés, gestion des non-conformités, achats, logistique et planification.",
+        "Opérations aériennes et aéroportuaires : exploitation au sol, coordination, sécurité, gestion des flux et assistance technique."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les principaux métiers de l’aéronautique",
+      "intro": "Voici des repères pour distinguer les fonctions les plus courantes. Les intitulés peuvent changer d’une entreprise à l’autre, mais les missions restent proches.",
+      "columns": [
+        "Métier",
+        "Missions au quotidien",
+        "Niveau d’accès fréquent",
+        "Ce qu’il faut aimer"
+      ],
+      "rows": [
+        [
+          "Ajusteur-monteur aéronautique",
+          "Ajuster, percer, fixer et assembler des éléments de structure selon un dossier de fabrication.",
+          "CAP, bac pro, titre professionnel ou expérience industrielle",
+          "Le travail manuel précis, les plans, la méthode."
+        ],
+        [
+          "Opérateur composite",
+          "Fabriquer ou réparer des pièces en matériaux composites, réaliser des opérations de moulage et de finition.",
+          "CAP à bac pro, formation spécialisée",
+          "La minutie, les matériaux techniques, le respect des consignes."
+        ],
+        [
+          "Monteur-câbleur aéronautique",
+          "Installer, raccorder et contrôler des faisceaux électriques ou équipements embarqués.",
+          "CAP, bac pro ou BTS selon le poste",
+          "L’électricité, le repérage, la concentration."
+        ],
+        [
+          "Technicien de maintenance aéronautique",
+          "Inspecter, entretenir, diagnostiquer et réparer les systèmes d’un aéronef.",
+          "Bac pro, BTS, licence professionnelle ou parcours adapté",
+          "Le diagnostic, la rigueur, les interventions variées."
+        ],
+        [
+          "Contrôleur qualité",
+          "Vérifier la conformité des pièces, mesures et dossiers avant validation.",
+          "Bac pro à BTS, puis expérience appréciée",
+          "L’observation, la métrologie, l’impartialité."
+        ],
+        [
+          "Technicien méthodes ou industrialisation",
+          "Définir et améliorer les gammes de fabrication, les outillages et les temps de production.",
+          "BTS, BUT, licence pro",
+          "La résolution de problèmes et le lien atelier-bureau."
+        ],
+        [
+          "Ingénieur aéronautique",
+          "Concevoir, calculer, tester ou piloter des projets sur des systèmes complexes.",
+          "Bac+5, école d’ingénieurs ou master",
+          "Les sciences, la coordination et l’innovation."
+        ],
+        [
+          "Agent d’exploitation aéroportuaire",
+          "Coordonner des opérations au sol et veiller à la fluidité ainsi qu’au respect des règles de sécurité.",
+          "Bac à Bac+3 selon les employeurs",
+          "L’organisation, la réactivité et le contact terrain."
+        ]
+      ],
+      "note": "Les diplômes indiqués sont des voies fréquentes, non des conditions absolues. L’expérience, les habilitations et les besoins de l’employeur comptent beaucoup."
+    },
+    {
+      "type": "comparison",
+      "heading": "Atelier, hangar ou bureau d’études : choisir son environnement",
+      "intro": "Avant de choisir une formation, projetez-vous dans vos journées de travail. Le même secteur peut offrir des réalités professionnelles très différentes.",
+      "left": {
+        "title": "Production et maintenance sur le terrain",
+        "points": [
+          "Travail concret sur des pièces, équipements ou aéronefs.",
+          "Port d’équipements de protection et application stricte des procédures.",
+          "Rythme parfois cadencé en usine ; horaires décalés possibles en maintenance.",
+          "Résultats visibles rapidement et montée en compétence par la pratique.",
+          "Mobilité possible entre atelier, chaîne d’assemblage, hangar et piste selon le poste."
+        ]
+      },
+      "right": {
+        "title": "Conception, qualité et pilotage de projet",
+        "points": [
+          "Travail sur plans, données techniques, logiciels de conception ou indicateurs qualité.",
+          "Horaires généralement plus réguliers, avec des échanges fréquents avec les équipes terrain.",
+          "Études plus longues souvent demandées pour l’ingénierie et le calcul.",
+          "Place importante de l’anglais écrit et de la communication technique.",
+          "Évolution possible vers l’expertise, les méthodes, la certification ou le management."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Quelles études pour travailler dans l’aéronautique ?",
+      "html": "<p>Il existe une voie d’accès pour presque chaque niveau d’études. Après la troisième, un <strong>CAP aéronautique</strong> ou un bac professionnel à dominante aéronautique, mécanique, électronique ou usinage permet d’entrer dans les métiers de fabrication. Ces parcours sont particulièrement pertinents pour celles et ceux qui préfèrent apprendre par les gestes, les projets et les périodes en entreprise.</p><p>Après le bac, le <strong>BTS aéronautique</strong> est une référence pour se diriger vers la maintenance, la préparation technique ou l’exploitation. Des BTS industriels, des BUT en génie mécanique, génie électrique, mesures physiques ou informatique industrielle peuvent aussi ouvrir de nombreuses portes. Une licence professionnelle permet ensuite de se spécialiser, par exemple en maintenance, qualité, matériaux composites ou production.</p><p>Pour devenir ingénieur, les voies les plus classiques sont une école d’ingénieurs ou un master scientifique, avec des spécialités en mécanique, électronique, systèmes embarqués, matériaux, informatique, énergétique ou automatisation. Le diplôme ne fait toutefois pas tout : un stage de qualité, une alternance et une première expérience sur un projet industriel rendent un profil beaucoup plus lisible pour un recruteur.</p><p>L’<strong>alternance</strong> est souvent un choix très judicieux. Elle permet de confronter les cours aux contraintes réelles : lecture de plans, outils de contrôle, procédures de sécurité, vocabulaire technique, travail en équipe et gestion des aléas. Il faut s’y prendre tôt, car les candidatures auprès des entreprises se préparent plusieurs mois avant la rentrée.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Construire son projet professionnel pas à pas",
+      "intro": "Vous n’avez pas besoin de savoir immédiatement quel poste vous exercerez dans dix ans. En revanche, vous pouvez avancer avec une méthode simple et concrète.",
+      "steps": [
+        {
+          "title": "1. Identifier ce qui vous attire vraiment",
+          "html": "<p>Préférez-vous fabriquer, réparer, analyser, programmer, organiser ou être au contact des voyageurs ? Notez aussi votre rapport au travail manuel, aux mathématiques, aux horaires décalés et à la mobilité. Ces critères orientent mieux qu’un intitulé de métier choisi au hasard.</p>"
+        },
+        {
+          "title": "2. Explorer des offres d’emploi réelles",
+          "html": "<p>Lisez une vingtaine d’annonces dans les régions qui vous intéressent. Repérez les diplômes demandés, les logiciels cités, les habilitations, le niveau d’anglais et les conditions de travail. Vous verrez vite les compétences qui reviennent le plus souvent.</p>"
+        },
+        {
+          "title": "3. Choisir une formation avec de la pratique",
+          "html": "<p>Privilégiez les cursus qui proposent ateliers, projets, stages ou alternance. Vérifiez le programme, les partenariats avec les entreprises et les débouchés, plutôt que de vous fier uniquement au nom de l’établissement.</p>"
+        },
+        {
+          "title": "4. Renforcer les compétences qui font la différence",
+          "html": "<p>Travaillez l’anglais technique, la lecture de documents, les outils numériques et votre capacité à rédiger clairement. Une expérience dans un club scientifique, un atelier de fabrication ou un projet de robotique peut également enrichir un dossier débutant.</p>"
+        },
+        {
+          "title": "5. Candidater de façon ciblée",
+          "html": "<p>Adaptez votre CV au poste visé et mettez en avant les situations concrètes : projet d’équipe, contrôle qualité, stage d’atelier, dépannage, respect d’une procédure. En entretien, montrez que vous avez compris les exigences de sécurité du métier.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Maintenance aéronautique : un métier réglementé",
+      "html": "<p>Être technicien de maintenance ne signifie pas automatiquement pouvoir certifier la remise en service d’un aéronef. Selon les missions et l’employeur, des qualifications et habilitations spécifiques sont nécessaires. Dans le cadre européen, la licence de maintenance Part-66 peut être requise pour certaines responsabilités de certification, en complément de l’expérience et des autorisations de l’organisme de maintenance.</p><p>Ne choisissez donc pas une formation uniquement sur son intitulé : demandez quelles compétences elle couvre, quels accès professionnels elle permet et si elle accompagne vers les qualifications attendues dans le domaine visé.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Recrutement, compétences et réalités du terrain",
+      "html": "<p>Les besoins de recrutement se concentrent régulièrement sur les métiers de production, de maintenance, de contrôle, d’industrialisation et d’ingénierie. Les opportunités varient selon les programmes industriels, les commandes, la localisation des sites et la conjoncture du transport aérien. Les grands bassins d’emploi français se situent notamment autour de Toulouse, Bordeaux, Nantes et Saint-Nazaire, Marignane, l’Île-de-France et plusieurs zones aéroportuaires, sans s’y limiter.</p><p>Les employeurs recherchent d’abord des professionnels fiables. Savoir suivre une instruction, renseigner une documentation, signaler une anomalie et demander de l’aide lorsqu’un doute subsiste est essentiel. Dans ce secteur, l’initiative ne consiste jamais à contourner une procédure : elle consiste à contribuer à la sécurité et à l’amélioration du travail collectif.</p><p>L’anglais est très utile, voire indispensable pour de nombreux postes techniques et d’ingénierie, car une part importante de la documentation, des logiciels et des échanges est rédigée en anglais. Il n’est pas nécessaire d’être bilingue au départ, mais pouvoir comprendre une consigne technique et progresser régulièrement est un atout réel.</p><p>Enfin, regardez les contraintes avec lucidité. Certains emplois impliquent le travail de nuit, le week-end, en horaires postés ou en extérieur. D’autres nécessitent une habilitation électrique, une aptitude médicale ou, pour certains sites sensibles, des vérifications administratives. Ces exigences ne doivent pas décourager : elles font partie des critères à comparer avant de s’engager.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "L’aéronautique en trois repères",
+      "items": [
+        {
+          "value": "CAP à Bac+5",
+          "label": "Des parcours existent du métier d’atelier à l’ingénierie de systèmes."
+        },
+        {
+          "value": "3 grands pôles",
+          "label": "Produire, maintenir et concevoir : trois manières principales d’entrer dans la filière."
+        },
+        {
+          "value": "24 h/24",
+          "label": "Certaines opérations aéroportuaires et activités de maintenance fonctionnent avec des horaires continus."
+        },
+        {
+          "value": "1 priorité",
+          "label": "La sécurité repose sur la rigueur, la traçabilité et la coopération de chaque métier."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Salaires dans l’aéronautique : quels ordres de grandeur ?",
+      "html": "<p>Les salaires dépendent beaucoup du poste, de l’expérience, de la région, de la taille de l’employeur et des primes associées aux horaires ou aux contraintes. À l’embauche, un opérateur ou ajusteur débutant se situe souvent autour de <strong>23 000 à 30 000 € bruts par an</strong>. Un technicien qualifié peut fréquemment viser environ <strong>27 000 à 38 000 € bruts annuels</strong>, avec des écarts notables selon les habilitations et le travail posté.</p><p>Pour un ingénieur débutant, une fourchette d’environ <strong>36 000 à 48 000 € bruts par an</strong> est courante dans de nombreux contextes, sans être une règle universelle. Les profils expérimentés en calcul, systèmes embarqués, certification, cybersécurité, gestion de programme ou maintenance spécialisée peuvent atteindre des niveaux plus élevés. Comparez toujours les offres à périmètre égal : salaire fixe, treizième mois, intéressement, primes, déplacements, temps de trajet et formation.</p><p>L’évolution ne se limite pas à devenir manager. Un ajusteur peut évoluer vers le contrôle ou l’encadrement d’équipe ; un technicien vers les méthodes, la qualité ou la planification ; un ingénieur vers l’expertise, les essais, la certification ou la direction de projet. Les passerelles se construisent par l’expérience, la formation continue et la capacité à documenter ses compétences.</p><p><strong>Le bon réflexe :</strong> choisissez d’abord un métier dont les missions vous conviennent. Une rémunération attractive ne compense pas durablement des horaires, un environnement ou un niveau de responsabilité qui ne vous correspondent pas.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "Dans l’aéronautique, la précision n’est pas un détail : c’est la manière dont chaque professionnel contribue concrètement à la sécurité du vol.",
+      "author": ""
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quels métiers de l’aéronautique sont accessibles sans bac ?",
+      "a_html": "<p>Plusieurs métiers de production peuvent être accessibles avec un CAP, un titre professionnel, un bac professionnel ou une formation interne : ajusteur-monteur, opérateur composite, chaudronnier, monteur-câbleur ou agent de fabrication, par exemple.</p><p>Sans diplôme, l’accès existe parfois via des postes d’opérateur débutant ou de mission d’intérim, mais une formation technique améliore nettement les perspectives d’embauche et d’évolution. L’alternance est une voie particulièrement efficace pour acquérir l’expérience attendue.</p>"
+    },
+    {
+      "q": "Quel diplôme faut-il pour devenir technicien de maintenance aéronautique ?",
+      "a_html": "<p>Le bac professionnel aéronautique et le BTS aéronautique sont des voies fréquentes. Selon la spécialité visée, d’autres parcours techniques peuvent convenir, complétés par une formation ou une expérience en maintenance.</p><p>Attention : exercer des responsabilités de certification dans la maintenance répond à des règles spécifiques. Une licence Part-66 et des autorisations de l’employeur peuvent être nécessaires selon les missions. Il est donc important de vérifier les débouchés précis de la formation choisie.</p>"
+    },
+    {
+      "q": "Quelle différence entre mécanicien aéronautique et technicien de maintenance aéronautique ?",
+      "a_html": "<p>Les intitulés varient selon les entreprises. Le mécanicien aéronautique intervient généralement sur l’entretien, les réparations et les contrôles pratiques. Le technicien de maintenance peut avoir un périmètre plus large, incluant le diagnostic, les essais, la documentation et la coordination technique.</p><p>Dans tous les cas, les responsabilités réelles dépendent des qualifications détenues, des procédures internes et des autorisations délivrées par l’organisme de maintenance.</p>"
+    },
+    {
+      "q": "Est-ce que le secteur aéronautique recrute ?",
+      "a_html": "<p>La filière propose régulièrement des opportunités, notamment dans la production, la maintenance, la qualité, l’industrialisation et certains domaines d’ingénierie. Le niveau de recrutement évolue toutefois avec les programmes industriels et l’activité du transport aérien.</p><p>Pour augmenter vos chances, ciblez les bassins d’emploi, acceptez si possible une première mobilité et développez des compétences directement utilisables : lecture de plans, outils de contrôle, anglais technique, câblage, composites, conception assistée par ordinateur ou qualité.</p>"
+    },
+    {
+      "q": "Faut-il bien parler anglais pour travailler dans l’aéronautique ?",
+      "a_html": "<p>Tout dépend du poste. Pour l’ingénierie, la maintenance, les compagnies aériennes ou les fonctions internationales, l’anglais est souvent nécessaire pour lire la documentation et échanger avec des interlocuteurs étrangers. Dans un poste de production, un niveau de départ plus modeste peut suffire, mais l’anglais reste un avantage.</p><p>L’objectif raisonnable est de comprendre le vocabulaire de son domaine et de savoir utiliser des documents techniques. Des progrès réguliers comptent davantage qu’un niveau parfait dès l’embauche.</p>"
+    },
+    {
+      "q": "Peut-on devenir pilote avec une formation aéronautique classique ?",
+      "a_html": "<p>Les études aéronautiques apportent une excellente culture technique, mais elles ne remplacent pas la formation de pilote. Pour exercer comme pilote professionnel, il faut suivre un cursus de formation au pilotage, obtenir les licences adaptées et satisfaire aux exigences médicales correspondantes.</p><p>Les deux univers se complètent : un pilote peut avoir une formation scientifique ou aéronautique, mais la voie d’accès au cockpit repose sur des qualifications de vol spécifiques.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Les métiers de l’aéronautique offrent des parcours concrets, exigeants et évolutifs, de l’atelier au bureau d’études en passant par le hangar de maintenance. Pour faire le bon choix, partez de vos goûts réels, renseignez-vous sur les conditions de travail et privilégiez une formation qui vous met rapidement en situation professionnelle.</p><p>Que vous visiez un CAP, un BTS ou une école d’ingénieurs, la meilleure première étape consiste à explorer les offres, rencontrer des professionnels et chercher une expérience de terrain. Dans cette filière, la curiosité, la rigueur et l’envie de progresser peuvent faire décoller un projet de carrière.</p>",
+  "__slug": "comprendre-les-metiers-de-laeronautique-carrieres-et-opportunites"
+}

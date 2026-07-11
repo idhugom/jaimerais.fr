@@ -1,0 +1,244 @@
+{
+  "title": "Comment configurer un répéteur WiFi Netgear : le guide simple et complet",
+  "meta_description": "Configurez votre répéteur WiFi Netgear pas à pas : emplacement, WPS ou navigateur, sécurité et dépannage des pannes les plus courantes à la maison.",
+  "reading_time_min": 10,
+  "hero_intro": "Un répéteur WiFi Netgear peut faire disparaître les zones sans réseau dans une chambre, un bureau ou une terrasse proche. Mais son efficacité dépend autant de son installation que de son modèle : placé trop loin du routeur, il répète surtout un signal déjà dégradé. Voici comment le configurer proprement, choisir le bon emplacement et retrouver une connexion plus stable au quotidien.",
+  "key_takeaways": [
+    "Installez d'abord le répéteur près de votre box ou routeur, puis déplacez-le seulement après la configuration.",
+    "Le bouton WPS est rapide, mais la configuration via navigateur est plus universelle et donne davantage de contrôle.",
+    "Placez le répéteur là où le signal du routeur est encore bon, généralement à mi-chemin de la zone mal couverte.",
+    "Un même nom de réseau est plus simple au quotidien ; un nom avec le suffixe EXT facilite les tests et le dépannage.",
+    "Un répéteur étend la couverture, mais il ne peut pas créer un débit supérieur à celui qu'il reçoit du routeur."
+  ],
+  "toc": [
+    "Comprendre le rôle d'un répéteur WiFi Netgear",
+    "Préparer l'installation",
+    "Choisir entre WPS et configuration manuelle",
+    "Configurer le répéteur étape par étape",
+    "Trouver le meilleur emplacement",
+    "Choisir le nom du réseau étendu",
+    "Répéteur, WiFi mesh ou CPL : quelle solution choisir ?",
+    "Sécuriser et optimiser le répéteur",
+    "Dépanner les problèmes de connexion",
+    "Vérifier que l'installation fonctionne vraiment"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre ce que fait réellement un répéteur WiFi Netgear",
+      "html": "<p>Un répéteur WiFi, aussi appelé amplificateur ou extension WiFi, capte le réseau sans fil de votre box Internet ou de votre routeur puis le rediffuse plus loin. Il est particulièrement utile lorsqu'une ou deux pièces souffrent d'un signal faible, sans que vous souhaitiez tirer un câble réseau à travers le logement.</p><p>Son point fort est la simplicité : beaucoup de modèles Netgear se branchent directement sur une prise électrique. Sa limite est tout aussi importante à connaître : le répéteur ne peut relayer qu'un signal qu'il reçoit correctement. S'il est installé dans une zone déjà presque sans WiFi, la couverture étendue sera instable et lente.</p><p>La méthode ci-dessous convient à la plupart des gammes Netgear, même si le nom précis des voyants, des menus et des boutons peut varier. Gardez à portée de main le mot de passe WiFi de votre box, ainsi que l'étiquette ou le guide rapide livré avec le répéteur.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Ce qu'il faut préparer avant de commencer",
+      "points": [
+        "Le nom et le mot de passe du réseau WiFi de votre box ou routeur.",
+        "Une prise électrique libre, idéalement dans la même pièce que le routeur pour la première configuration.",
+        "Un téléphone, une tablette ou un ordinateur avec WiFi et un navigateur à jour.",
+        "L'accès au bouton WPS du routeur si vous choisissez la méthode rapide.",
+        "Quelques minutes sans débrancher le répéteur pendant son démarrage ou une éventuelle mise à jour."
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "WPS ou configuration manuelle : quelle méthode choisir ?",
+      "intro": "Les deux méthodes permettent de relier le répéteur à votre réseau. Le bon choix dépend surtout des fonctions de votre routeur et du niveau de réglage souhaité.",
+      "left": {
+        "title": "Connexion avec le bouton WPS",
+        "points": [
+          "Très rapide si le routeur et le répéteur disposent tous deux d'un bouton WPS.",
+          "Évite de saisir le mot de passe WiFi à la main.",
+          "Pratique pour une installation standard à domicile.",
+          "Peut nécessiter une seconde manipulation pour étendre aussi la bande 5 GHz, selon le modèle.",
+          "Impossible si le WPS est désactivé ou absent de votre box."
+        ]
+      },
+      "right": {
+        "title": "Configuration via navigateur",
+        "points": [
+          "Fonctionne même sans WPS.",
+          "Permet de sélectionner les bandes 2,4 GHz et 5 GHz et de choisir le nom du réseau étendu.",
+          "Utile si vous devez corriger un mot de passe ou modifier les réglages plus tard.",
+          "Demande de se connecter temporairement au réseau du répéteur.",
+          "C'est la méthode à privilégier en cas d'échec du WPS."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Configurer un répéteur WiFi Netgear pas à pas",
+      "intro": "Pour éviter les problèmes de portée pendant l'installation, commencez toujours à proximité de votre box. Vous déplacerez l'appareil à son emplacement définitif une fois la liaison validée.",
+      "steps": [
+        {
+          "title": "1. Branchez le répéteur près du routeur",
+          "html": "<p>Branchez le répéteur Netgear sur une prise murale située à quelques mètres de la box ou du routeur. Attendez la fin du démarrage : le voyant d'alimentation doit indiquer que l'appareil est prêt. Évitez une multiprise surchargée ou un emplacement enfermé dans un meuble.</p>"
+        },
+        {
+          "title": "2. Utilisez le WPS si votre matériel le permet",
+          "html": "<p>Appuyez brièvement sur le bouton WPS du répéteur, puis sur celui du routeur dans le délai indiqué par votre modèle. Patientez sans toucher aux appareils : le voyant de liaison doit confirmer la connexion. Certains répéteurs demandent de recommencer l'opération pour associer la seconde bande WiFi.</p><p>Si aucun voyant ne confirme la liaison après quelques minutes, ne multipliez pas les tentatives : passez à la configuration manuelle, souvent plus fiable lorsque les réglages WPS de la box sont désactivés.</p>"
+        },
+        {
+          "title": "3. Connectez-vous au réseau provisoire du répéteur",
+          "html": "<p>Sur votre téléphone ou ordinateur, ouvrez la liste des réseaux WiFi disponibles. Repérez le réseau temporaire diffusé par le répéteur, souvent proche de NETGEAR_EXT. Le nom exact et l'éventuel mot de passe initial figurent selon les modèles sur l'étiquette, l'emballage ou le guide de démarrage.</p>"
+        },
+        {
+          "title": "4. Ouvrez l'assistant de configuration",
+          "html": "<p>Une fois connecté au WiFi du répéteur, ouvrez votre navigateur et saisissez mywifiext.net dans la barre d'adresse. Cette adresse fonctionne généralement uniquement lorsque votre appareil est connecté au répéteur, pas depuis un réseau mobile ou un autre WiFi.</p><p>Si la page ne s'affiche pas, vérifiez d'abord la connexion au réseau du répéteur. Consultez ensuite l'étiquette ou la documentation pour l'adresse locale prévue par votre modèle ; certains appareils utilisent une adresse IP locale plutôt qu'un nom de domaine.</p>"
+        },
+        {
+          "title": "5. Sélectionnez le réseau de votre box",
+          "html": "<p>L'assistant recherche les réseaux à portée. Sélectionnez votre réseau principal en 2,4 GHz et, si proposé, celui en 5 GHz. Saisissez avec soin le mot de passe WiFi de la box : il s'agit du mot de passe utilisé habituellement par vos téléphones et ordinateurs, et non du mot de passe d'administration de la box.</p>"
+        },
+        {
+          "title": "6. Nommez le réseau étendu et protégez l'administration",
+          "html": "<p>Choisissez le nom du réseau diffusé par le répéteur. Vous pouvez conserver un nom proche de celui de la box avec un suffixe EXT, ou reprendre le même nom et le même mot de passe pour une utilisation plus transparente. L'assistant peut aussi vous demander de créer des identifiants d'administration Netgear : choisissez un mot de passe distinct et solide.</p>"
+        },
+        {
+          "title": "7. Enregistrez, mettez à jour et testez",
+          "html": "<p>Validez les réglages et attendez le redémarrage complet du répéteur. S'il propose une mise à jour de son micrologiciel, effectuez-la lorsque l'appareil est correctement relié au réseau et reste alimenté. Reconnectez ensuite votre téléphone au réseau étendu, puis vérifiez que vous accédez bien à Internet.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Trouver le meilleur emplacement pour le répéteur",
+      "html": "<p>Après la configuration, débranchez le répéteur et installez-le entre le routeur et la zone mal couverte. L'emplacement idéal n'est pas la pièce où le WiFi est absent : c'est le dernier endroit où le signal de la box reste encore bon. Dans une maison, cela correspond souvent à un couloir, un palier ou une pièce intermédiaire.</p><p>Gardez l'appareil à distance des gros objets métalliques, d'un aquarium, d'un four à micro-ondes, d'une enceinte Bluetooth très sollicitée ou d'une télévision collée à la prise. Les murs porteurs, les planchers en béton et les équipements électriques peuvent atténuer fortement les ondes.</p><p>Observez les voyants de liaison après le déplacement. Leur code couleur dépend du modèle, mais un voyant signalant une liaison faible ou médiocre indique en général qu'il faut rapprocher le répéteur du routeur. Faites un test dans la pièce concernée avant de fixer définitivement votre choix.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le test qui évite 80 % des mauvaises installations",
+      "html": "<p>Avant de brancher définitivement le répéteur, placez-vous à l'endroit envisagé avec votre téléphone connecté directement au WiFi de la box. Si les pages chargent difficilement ou si le signal disparaît, ce point est trop éloigné : avancez le répéteur de quelques mètres vers le routeur.</p><p><strong>Règle simple :</strong> un répéteur doit recevoir un WiFi exploitable pour pouvoir en fournir un WiFi exploitable.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Même nom de réseau ou suffixe EXT : quel réglage choisir ?",
+      "intro": "Le choix du nom WiFi influence surtout votre confort d'utilisation et votre capacité à diagnostiquer un problème.",
+      "left": {
+        "title": "Même SSID et même mot de passe que la box",
+        "points": [
+          "Plus simple : vos appareils voient un réseau unique.",
+          "Pratique pour les usages mobiles dans un petit logement.",
+          "Les appareils peuvent toutefois rester accrochés trop longtemps au signal du routeur ou du répéteur : ce n'est pas un véritable système mesh.",
+          "Convient si les déplacements sont limités et que les tests sont concluants."
+        ]
+      },
+      "right": {
+        "title": "Nom distinct, par exemple Maison_EXT",
+        "points": [
+          "Permet de savoir immédiatement à quel réseau est connecté un appareil.",
+          "Facilite les mesures de débit et le dépannage.",
+          "Peut obliger à choisir manuellement le bon réseau dans certaines zones.",
+          "Souvent préférable au début, le temps de vérifier la qualité de l'installation."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Répéteur, système mesh ou CPL WiFi : choisir la bonne solution",
+      "intro": "Un répéteur est économique et efficace pour une zone ponctuelle. Si les difficultés de couverture sont étendues, une autre solution peut être plus cohérente.",
+      "columns": [
+        "Solution",
+        "Budget généralement constaté",
+        "À privilégier si...",
+        "Limites à connaître"
+      ],
+      "rows": [
+        [
+          "Répéteur WiFi double bande",
+          "Environ 30 à 80 €",
+          "Une ou deux pièces éloignées ont besoin d'une meilleure couverture.",
+          "Le débit dépend fortement de la qualité du signal reçu et de l'environnement."
+        ],
+        [
+          "Répéteur WiFi 6 ou tri-bande",
+          "Souvent entre 80 et 180 €",
+          "Vous avez beaucoup d'appareils récents ou un accès Internet rapide.",
+          "Plus cher ; le gain est limité si le routeur ou les appareils sont anciens."
+        ],
+        [
+          "Kit WiFi mesh",
+          "Souvent entre 150 et 400 € selon le nombre de bornes",
+          "Vous voulez couvrir plusieurs étages ou un grand logement avec un réseau plus homogène.",
+          "Investissement plus élevé et remplacement ou ajout de plusieurs bornes."
+        ],
+        [
+          "CPL avec point d'accès WiFi",
+          "Environ 60 à 180 €",
+          "Le WiFi traverse mal certains murs et le réseau électrique est adapté.",
+          "Les performances dépendent fortement de l'installation électrique ; à tester chez vous."
+        ]
+      ],
+      "note": "Prix indicatifs pour du matériel grand public, variables selon les promotions, la norme WiFi et le nombre de bornes."
+    },
+    {
+      "type": "prose",
+      "heading": "Sécuriser et optimiser votre réseau étendu",
+      "html": "<p>Conservez au minimum le niveau de sécurité WPA2-AES, ou WPA3 si votre routeur et vos appareils le prennent tous en charge. Évitez le protocole WEP, obsolète et insuffisamment protecteur. Le mot de passe WiFi doit être long, unique et différent du mot de passe servant à administrer le répéteur.</p><p>Une fois l'installation terminée, vérifiez régulièrement les mises à jour du micrologiciel dans l'interface Netgear. Elles peuvent corriger des défauts de sécurité ou améliorer la stabilité. Ne coupez jamais l'alimentation pendant une mise à jour en cours.</p><p>Pour de meilleures performances, utilisez de préférence la bande 5 GHz à proximité du répéteur si vos appareils la supportent : elle est souvent moins encombrée et plus rapide, mais sa portée est plus courte. La bande 2,4 GHz reste intéressante derrière plusieurs cloisons ou à plus grande distance. Le filtrage d'adresses MAC peut compléter vos réglages, mais ne remplace ni un chiffrement moderne ni un mot de passe solide.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Dépanner un répéteur Netgear qui ne se connecte pas",
+      "intro": "La plupart des difficultés viennent d'un mot de passe mal saisi, d'un emplacement trop éloigné ou d'une confusion entre le WiFi de la box et celui du répéteur.",
+      "steps": [
+        {
+          "title": "Le réseau NETGEAR_EXT n'apparaît pas",
+          "html": "<p>Rapprochez-vous du répéteur, vérifiez qu'il est bien alimenté et attendez quelques minutes après le branchement. Désactivez puis réactivez le WiFi de votre téléphone. Si le réseau reste invisible, redémarrez le répéteur avant d'envisager une réinitialisation.</p>"
+        },
+        {
+          "title": "La page mywifiext.net ne s'ouvre pas",
+          "html": "<p>Assurez-vous que votre appareil est connecté au WiFi du répéteur et non à celui de la box ou au réseau mobile. Saisissez l'adresse dans la barre d'adresse du navigateur, pas dans un moteur de recherche. Si nécessaire, utilisez l'adresse locale indiquée dans la documentation du modèle.</p>"
+        },
+        {
+          "title": "Le WPS échoue",
+          "html": "<p>Vérifiez que le WPS est activé sur le routeur et recommencez en respectant le délai entre les deux boutons. Si votre box ne possède pas de WPS ou si cette fonction est désactivée pour des raisons de sécurité, configurez le répéteur manuellement via le navigateur.</p>"
+        },
+        {
+          "title": "Le WiFi est présent mais Internet ne fonctionne pas",
+          "html": "<p>Contrôlez d'abord que la box elle-même a accès à Internet. Ensuite, reconnectez-vous au réseau étendu et vérifiez le mot de passe du réseau source dans les réglages du répéteur. Une modification récente du mot de passe WiFi de la box impose souvent de reconfigurer le répéteur.</p>"
+        },
+        {
+          "title": "Le débit reste faible ou la connexion coupe",
+          "html": "<p>Déplacez le répéteur plus près du routeur, même si cela réduit légèrement la zone couverte. Testez aussi l'autre bande WiFi et éloignez les sources d'interférences. Si le problème concerne toute la maison, un système mesh ou un point d'accès relié en Ethernet sera plus adapté.</p>"
+        },
+        {
+          "title": "Réinitialiser seulement en dernier recours",
+          "html": "<p>Si vous avez perdu les identifiants d'administration ou si la configuration est devenue incohérente, utilisez le bouton de réinitialisation selon la procédure propre à votre modèle. Cette opération efface les réglages enregistrés : il faudra reprendre la configuration depuis le début.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Vérifier que l'installation fonctionne vraiment",
+      "html": "<p>Ne vous contentez pas de voir le réseau WiFi dans la liste : testez-le là où vous en avez besoin. Ouvrez plusieurs pages, lancez un appel vidéo ou regardez une courte vidéo, puis déplacez-vous dans les pièces concernées. Comparez la stabilité avant et après l'installation plutôt que de vous fier uniquement au nombre de barres affichées.</p><p>Si un ordinateur, une télévision ou une console reste fixe dans une zone éloignée, il peut être utile de le connecter volontairement au réseau du répéteur portant le suffixe EXT. Pour les appareils mobiles, observez simplement s'ils gardent une connexion stable lorsque vous passez d'une pièce à l'autre.</p><p>Enfin, si le débit obtenu est inférieur à vos attentes mais reste régulier, cela ne signifie pas forcément que le répéteur est défectueux. Il peut s'agir de la limite normale d'une liaison WiFi relayée. Dans ce cas, rapprocher le répéteur du routeur ou choisir une solution avec liaison Ethernet, CPL ou mesh apportera souvent un meilleur résultat.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on installer un répéteur WiFi Netgear sans bouton WPS ?",
+      "a_html": "<p><strong>Oui.</strong> Le WPS est une option pratique, pas une obligation. Branchez le répéteur près de votre routeur, connectez un téléphone ou un ordinateur au réseau provisoire du répéteur, puis ouvrez mywifiext.net dans votre navigateur.</p><p>L'assistant vous demandera de sélectionner le réseau de votre box et de saisir son mot de passe WiFi. Cette méthode est même préférable lorsque vous souhaitez personnaliser le nom du réseau étendu.</p>"
+    },
+    {
+      "q": "Pourquoi mywifiext.net ne fonctionne-t-il pas ?",
+      "a_html": "<p>Cette adresse de configuration fonctionne habituellement lorsque votre appareil est relié au WiFi du répéteur. Vérifiez que votre téléphone n'est pas resté connecté à la box, à un autre réseau ou aux données mobiles.</p><p>Si cela ne suffit pas, consultez l'étiquette ou le guide du répéteur pour utiliser son adresse locale. L'adresse peut varier selon les modèles et selon l'état de leur configuration.</p>"
+    },
+    {
+      "q": "Où placer un répéteur Netgear dans une maison ?",
+      "a_html": "<p>Placez-le entre la box et la zone mal couverte, à un endroit où le WiFi de la box est encore de bonne qualité. Un couloir, un palier ou une pièce intermédiaire sont souvent de bons candidats.</p><p>Évitez de le mettre directement dans la pièce où le réseau est absent : il ne disposerait pas d'un signal suffisant à répéter.</p>"
+    },
+    {
+      "q": "Faut-il garder le même nom WiFi avec un répéteur ?",
+      "a_html": "<p>Garder le même nom et le même mot de passe est le choix le plus simple pour les occupants du logement. Toutefois, certains appareils basculent imparfaitement d'un point d'accès à l'autre et peuvent conserver un signal faible.</p><p>Utiliser un nom distinct, tel que Maison_EXT, permet de vérifier facilement que le répéteur fonctionne et de choisir manuellement le réseau le plus performant. C'est utile au moins pendant la phase de test.</p>"
+    },
+    {
+      "q": "Un répéteur WiFi réduit-il le débit Internet ?",
+      "a_html": "<p>Il peut réduire le débit disponible, surtout lorsqu'il utilise la même liaison radio pour communiquer avec le routeur et avec vos appareils. La perte dépend du modèle, de la distance, des obstacles et de l'encombrement des bandes WiFi.</p><p>Un bon emplacement, un répéteur double ou tri-bande récent et une liaison 5 GHz de qualité limitent ce phénomène. Pour les usages exigeants, un point d'accès Ethernet ou un système mesh peut être plus performant.</p>"
+    },
+    {
+      "q": "Mon répéteur Netgear est connecté, mais le voyant indique un signal faible : que faire ?",
+      "a_html": "<p>Rapprochez le répéteur du routeur par petites étapes, puis attendez que les voyants se stabilisent. Vérifiez également qu'il n'est pas caché derrière un meuble métallique, près d'un appareil électroménager ou derrière plusieurs murs porteurs.</p><p>Le code exact des couleurs dépend de la référence du répéteur : le guide de votre modèle reste la bonne source pour interpréter chaque voyant.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Configurer un répéteur WiFi Netgear ne demande pas de compétences techniques particulières : une liaison correcte avec la box, un mot de passe WiFi exact et un emplacement bien choisi font l'essentiel du travail.</p><p>Commencez près du routeur, testez ensuite le répéteur à mi-chemin de la zone à couvrir, puis ajustez sa position selon la stabilité réelle de vos appareils. Si la couverture reste inégale dans tout le logement, considérez le répéteur comme une première étape et comparez-le à une solution mesh ou à un point d'accès filaire.</p>",
+  "__slug": "comment-configurer-un-repeteur-wifi-netgear-etapes-simples-et-efficaces"
+}

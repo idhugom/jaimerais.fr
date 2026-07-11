@@ -1,0 +1,233 @@
+{
+  "title": "Comment supprimer about:blank et retrouver un navigateur normal",
+  "meta_description": "About:blank n'est généralement pas un virus. Identifiez la cause, nettoyez votre navigateur et évitez durablement le retour des redirections.",
+  "reading_time_min": 10,
+  "hero_intro": "Voir « about:blank » s'afficher au démarrage peut être déconcertant, surtout si cette page remplace soudainement votre moteur de recherche habituel. Bonne nouvelle : dans la majorité des cas, ce n'est ni un virus ni un site malveillant, mais une page vide intégrée au navigateur. Voici comment distinguer un réglage normal d'un vrai problème, puis remettre votre navigateur en ordre sans perdre inutilement vos données.",
+  "key_takeaways": [
+    "« about:blank » est une page vide interne au navigateur : sa seule présence n'indique pas une infection.",
+    "Agissez si la page apparaît sans votre choix, si des redirections surviennent ou si votre moteur de recherche et vos extensions changent seuls.",
+    "Commencez par vérifier les extensions, la page de démarrage, le moteur de recherche et les programmes récemment installés.",
+    "Une réinitialisation du navigateur et une analyse de sécurité sont utiles si les réglages reviennent après leur modification.",
+    "Ne payez pas immédiatement pour un outil de nettoyage : les protections intégrées de Windows, macOS et des navigateurs suffisent souvent pour un premier diagnostic."
+  ],
+  "toc": [
+    "About:blank : est-ce un virus ou une page normale ?",
+    "Reconnaître un simple réglage et un navigateur détourné",
+    "Vérifications rapides avant de supprimer quoi que ce soit",
+    "Modifier about:blank dans Chrome, Edge, Firefox et Safari",
+    "Nettoyer un navigateur qui se comporte anormalement",
+    "Réinitialiser sans confondre nettoyage et suppression des données",
+    "Que faire si about:blank revient après chaque démarrage ?",
+    "Éviter les redirections et les logiciels indésirables à l'avenir"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "About:blank : est-ce un virus ou une page normale ?",
+      "html": "<p><strong>About:blank n'est pas, en soi, un virus.</strong> Il s'agit d'une adresse interne que les navigateurs utilisent pour afficher une page totalement vide. Elle ne charge aucun site web, ne contient pas de publicité et peut même servir de page de démarrage volontaire pour ouvrir le navigateur rapidement ou préserver un peu de confidentialité.</p><p>Vous pouvez donc laisser « about:blank » en place si vous l'avez choisie et que votre navigation reste normale. Il n'y a rien à désinstaller : cette adresse fait partie du fonctionnement de Chrome, Microsoft Edge, Firefox, Safari et d'autres navigateurs.</p><p>En revanche, il faut enquêter si elle s'impose sans votre accord, si votre page d'accueil a changé après l'installation d'un programme, si les recherches partent vers un moteur inconnu ou si des fenêtres publicitaires et des redirections apparaissent. Dans ce cas, about:blank est souvent un <em>symptôme</em> ou un réglage modifié, plutôt que le logiciel malveillant lui-même.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Page vide choisie ou navigateur potentiellement détourné ?",
+      "intro": "Le contexte fait toute la différence. Comparez votre situation avant de lancer un grand nettoyage.",
+      "left": {
+        "title": "Situation généralement normale",
+        "points": [
+          "Vous avez vous-même sélectionné une page vierge au démarrage ou dans les nouveaux onglets.",
+          "Aucune publicité inhabituelle, alerte alarmiste ou redirection ne survient pendant la navigation.",
+          "Votre moteur de recherche, vos favoris et vos extensions sont ceux que vous connaissez.",
+          "La page about:blank disparaît dès que vous saisissez une adresse ou effectuez une recherche."
+        ]
+      },
+      "right": {
+        "title": "Signaux qui doivent vous alerter",
+        "points": [
+          "La page de démarrage, le nouvel onglet ou le moteur de recherche changent sans action de votre part.",
+          "Des résultats de recherche passent par une adresse inconnue avant d'arriver sur un moteur connu.",
+          "Une extension que vous n'avez pas installée est active, ou le navigateur indique qu'elle est « gérée ».",
+          "Des publicités, notifications de sites douteux, téléchargements ou fenêtres s'affichent de façon répétée."
+        ]
+      }
+    },
+    {
+      "type": "key_points",
+      "heading": "Les vérifications à faire en premier",
+      "points": [
+        "Ouvrez votre navigateur et contrôlez l'adresse définie au démarrage, sur la page d'accueil et dans les nouveaux onglets.",
+        "Vérifiez le moteur de recherche par défaut : Google, Bing, DuckDuckGo ou un autre choix connu doivent apparaître clairement.",
+        "Examinez la liste des extensions et supprimez celles que vous ne reconnaissez pas ou dont vous n'avez plus l'utilité.",
+        "Repensez aux logiciels, utilitaires, convertisseurs ou jeux installés juste avant l'apparition du problème.",
+        "Contrôlez si le problème se produit aussi dans un autre navigateur : cela aide à savoir s'il est localisé ou plus général."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Changer ou supprimer about:blank selon votre navigateur",
+      "intro": "Les menus peuvent varier légèrement selon la version, mais ces chemins permettent de retrouver les réglages essentiels.",
+      "columns": [
+        "Navigateur",
+        "Où vérifier",
+        "Action recommandée"
+      ],
+      "rows": [
+        [
+          "Google Chrome",
+          "Paramètres, puis « Au démarrage », « Moteur de recherche » et « Extensions »",
+          "Remplacez la page au démarrage si vous le souhaitez, choisissez votre moteur, puis supprimez les extensions inconnues."
+        ],
+        [
+          "Microsoft Edge",
+          "Paramètres, puis « Démarrer, accueil et nouveaux onglets », « Confidentialité, recherche et services » et « Extensions »",
+          "Choisissez l'ouverture d'un nouvel onglet ou une adresse précise et retirez tout module non désiré."
+        ],
+        [
+          "Mozilla Firefox",
+          "Paramètres, puis « Accueil », « Recherche » et « Extensions et thèmes »",
+          "Modifiez la page d'accueil, rétablissez le moteur voulu et désactivez ou supprimez les extensions suspectes."
+        ],
+        [
+          "Safari sur Mac",
+          "Safari, puis Réglages, « Général », « Recherche » et « Extensions »",
+          "Définissez la page d'accueil voulue et désinstallez toute extension inconnue."
+        ],
+        [
+          "Navigateur sur mobile",
+          "Réglages de l'application, puis recherche, page d'accueil ou données de navigation",
+          "Vérifiez les autorisations, supprimez les sites de notifications indésirables et réinitialisez les données si nécessaire."
+        ]
+      ],
+      "note": "Les intitulés exacts dépendent de la version de votre navigateur et de votre système. Avant de supprimer une extension professionnelle ou scolaire, vérifiez auprès de votre organisation."
+    },
+    {
+      "type": "steps",
+      "heading": "Nettoyer un navigateur qui affiche about:blank sans votre accord",
+      "intro": "Procédez dans cet ordre : il limite les manipulations inutiles et permet d'identifier la cause la plus probable.",
+      "steps": [
+        {
+          "title": "Fermez les onglets et observez le comportement au redémarrage",
+          "html": "<p>Redémarrez une fois le navigateur, puis notez ce qui s'ouvre réellement : une page vierge, un site précis, une recherche redirigée ou des publicités. Ne cliquez pas sur les messages qui vous pressent d'installer un « nettoyeur » ou d'appeler un numéro d'assistance.</p>"
+        },
+        {
+          "title": "Supprimez les extensions non reconnues",
+          "html": "<p>Dans le gestionnaire d'extensions, retirez les modules inconnus, inutilisés ou installés récemment. Méfiez-vous en particulier des faux bloqueurs de publicité, convertisseurs de fichiers, thèmes, extensions de coupons et outils de recherche dont vous ne vous souvenez pas.</p><p>Si vous hésitez, désactivez d'abord l'extension, redémarrez le navigateur et observez. Une extension utile peut toujours être réinstallée depuis la boutique officielle si nécessaire.</p>"
+        },
+        {
+          "title": "Rétablissez les réglages de démarrage et de recherche",
+          "html": "<p>Choisissez explicitement le comportement souhaité : ouvrir la page « Nouvel onglet », reprendre les onglets précédents ou ouvrir une ou plusieurs adresses de confiance. Contrôlez aussi le moteur de recherche par défaut et supprimez les moteurs inconnus proposés dans la liste.</p>"
+        },
+        {
+          "title": "Désinstallez les programmes installés récemment",
+          "html": "<p>Sur Windows, consultez la liste des applications installées et triez-la par date. Sur Mac, examinez le dossier Applications. Désinstallez les logiciels que vous n'avez pas demandés ou qui coïncident avec le début des problèmes, puis redémarrez l'ordinateur.</p><p>Ne supprimez pas au hasard des composants système, pilotes ou outils dont vous ne connaissez pas la fonction. En cas de doute, recherchez d'abord le nom exact du programme ou demandez conseil à une personne compétente.</p>"
+        },
+        {
+          "title": "Lancez une analyse de sécurité complète",
+          "html": "<p>Utilisez en premier lieu l'outil de sécurité déjà présent sur votre appareil, par exemple Sécurité Windows sous Windows, et installez les mises à jour disponibles. Une analyse complète est préférable à une vérification rapide si vous avez constaté des redirections, des téléchargements non sollicités ou des alertes inhabituelles.</p><p>Placez en quarantaine ou supprimez les éléments détectés selon les recommandations de l'outil, puis redémarrez avant de vérifier à nouveau le navigateur.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas page blanche et fausse alerte de sécurité",
+      "html": "<p>Une page affichant « votre ordinateur est infecté », un compte à rebours, un son d'alarme ou un numéro à appeler ne prouve pas qu'un virus est présent. Fermez l'onglet sans appeler le numéro et sans installer le logiciel proposé. Si l'onglet refuse de se fermer, forcez la fermeture du navigateur puis rouvrez-le sans restaurer automatiquement les anciens onglets.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Réinitialiser le navigateur : une solution efficace, mais à utiliser au bon moment",
+      "html": "<p>Si les réglages sont verrouillés, si plusieurs extensions inconnues réapparaissent ou si les redirections continuent après les étapes précédentes, la <strong>réinitialisation du navigateur</strong> peut être la solution la plus simple. Elle restaure notamment les paramètres de démarrage, la page Nouvel onglet et le moteur de recherche, tout en désactivant généralement les extensions.</p><p>Avant de la lancer, synchronisez ou exportez vos favoris si vous n'êtes pas certain qu'ils sont enregistrés. Dans la plupart des navigateurs, les favoris et les mots de passe enregistrés ne sont pas effacés par une simple réinitialisation, mais les paramètres peuvent différer : lisez toujours le récapitulatif affiché avant de valider.</p><p>Effacer les cookies et les données de sites peut également aider à faire disparaître certaines boucles de redirection ou notifications indésirables. En contrepartie, vous serez déconnecté de nombreux sites. C'est une mesure utile, mais elle ne remplace pas la suppression d'une extension ou d'un programme à l'origine du problème.</p><p>Une solution de sécurité payante n'est pas obligatoire pour commencer. Les abonnements individuels coûtent souvent quelques dizaines d'euros par an selon les options, mais un prix élevé ne garantit pas un meilleur nettoyage. Privilégiez d'abord un outil reconnu, les mises à jour du système et une vérification méthodique des réglages.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Si le problème persiste : associer le symptôme à la bonne action",
+      "intro": "Le bon correctif dépend de ce qui revient réellement après vos modifications.",
+      "columns": [
+        "Symptôme observé",
+        "Cause possible",
+        "Action à privilégier"
+      ],
+      "rows": [
+        [
+          "About:blank s'ouvre, mais aucune anomalie n'est visible",
+          "Page de démarrage volontaire ou réglage par défaut",
+          "Gardez-la ou remplacez-la dans les réglages de démarrage."
+        ],
+        [
+          "Le moteur de recherche revient sans cesse à un nom inconnu",
+          "Extension, application indésirable ou synchronisation d'un ancien réglage",
+          "Supprimez l'extension, désinstallez l'application et vérifiez les appareils connectés à votre compte de synchronisation."
+        ],
+        [
+          "Les publicités apparaissent sur de nombreux sites",
+          "Extension publicitaire, notifications de sites ou logiciel indésirable",
+          "Retirez les extensions douteuses, bloquez les notifications non désirées et lancez une analyse complète."
+        ],
+        [
+          "Le navigateur indique « géré par votre organisation »",
+          "Politique légitime d'entreprise ou paramètre imposé non désiré",
+          "Sur un appareil professionnel, contactez le service informatique. Sur un appareil personnel, vérifiez les programmes et extensions récemment ajoutés."
+        ],
+        [
+          "Le navigateur se rouvre toujours sur des onglets suspects",
+          "Restauration de session ou tâche de démarrage associée à un logiciel",
+          "Désactivez la restauration des onglets, supprimez le logiciel concerné et contrôlez les éléments lancés au démarrage."
+        ]
+      ],
+      "note": "Si vous utilisez un ordinateur professionnel, scolaire ou familial administré, n'essayez pas de contourner une politique de gestion légitime."
+    },
+    {
+      "type": "prose",
+      "heading": "Que faire si about:blank revient après chaque démarrage ?",
+      "html": "<p>Un retour systématique après correction indique souvent qu'un élément extérieur réapplique les paramètres. Commencez par vérifier la <strong>synchronisation</strong> de votre compte navigateur : une extension ou un réglage enregistré sur un autre ordinateur, une tablette ou un téléphone peut se réinstaller dès la reconnexion.</p><p>Déconnectez temporairement la synchronisation, nettoyez les extensions et les réglages sur l'appareil concerné, puis reconnectez-vous. Si vous possédez plusieurs appareils, contrôlez-les un par un. Cette précaution est particulièrement utile lorsque le problème semble avoir disparu avant de revenir quelques minutes plus tard.</p><p>Sur Windows, examinez aussi les applications au démarrage et les raccourcis du navigateur. Un raccourci normal doit lancer le navigateur ; s'il contient à la fin une adresse web inconnue, supprimez ce raccourci et créez-en un nouveau depuis le menu Démarrer. Sur Mac, vérifiez les éléments d'ouverture de session ainsi que les profils ou extensions ajoutés récemment.</p><p>Enfin, mettez à jour le système, le navigateur et les logiciels de sécurité. Les mises à jour corrigent des failles, mais elles réduisent aussi les incompatibilités qui peuvent provoquer des comportements inhabituels. Si des identifiants ont été saisis sur une page manifestement frauduleuse, changez rapidement le mot de passe concerné depuis le site officiel et activez la double authentification lorsque c'est possible.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réflexe qui évite la plupart des logiciels indésirables",
+      "html": "<p>Lors de l'installation d'un logiciel gratuit, choisissez l'option « personnalisée », « avancée » ou « manuelle » lorsqu'elle existe. Lisez chaque écran et décochez les offres annexes : changement de moteur de recherche, barre d'outils, antivirus d'essai, extension ou application recommandée. Téléchargez de préférence depuis le site de l'éditeur ou une boutique officielle plutôt que depuis un bouton publicitaire.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs à éviter pendant le nettoyage",
+      "points": [
+        "Ne supprimez pas le navigateur entier avant d'avoir contrôlé ses extensions et ses réglages : une réparation ciblée suffit souvent.",
+        "N'installez pas plusieurs « nettoyeurs » trouvés au hasard dans une publicité ou une pop-up : certains sont eux-mêmes indésirables.",
+        "Ne donnez jamais un accès à distance à votre ordinateur à un prétendu support affiché dans le navigateur.",
+        "Ne désactivez pas votre protection de sécurité pour installer un programme qui le demande sans raison claire.",
+        "Ne supposez pas qu'about:blank est dangereux uniquement parce que son nom est en anglais ou parce que la page est vide."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Quand demander de l'aide ?",
+      "html": "<p>Demandez l'aide d'un professionnel de confiance si les redirections continuent après une analyse complète et la réinitialisation du navigateur, si vous ne pouvez plus ouvrir les réglages, ou si des comptes semblent avoir été utilisés sans votre autorisation. C'est aussi conseillé si l'ordinateur contient des fichiers professionnels, des données sensibles ou des moyens de paiement.</p><p>Pour faciliter le diagnostic, notez le nom des extensions, les adresses vers lesquelles vous êtes redirigé et la date approximative du début du problème. Des captures d'écran peuvent aider, à condition de ne pas y laisser apparaître de mots de passe, codes de sécurité ou données personnelles.</p><p>Retenez surtout ceci : une page about:blank choisie est inoffensive. Ce sont les changements non sollicités, les extensions inconnues et les redirections qui justifient un nettoyage. Avec quelques contrôles précis, vous pouvez retrouver un navigateur rapide, lisible et sous votre contrôle.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi about:blank s'ouvre-t-il dans Chrome ou Edge ?",
+      "a_html": "<p>Il peut s'ouvrir parce que la page de démarrage est réglée sur une page vierge, ce qui est parfaitement normal. S'il apparaît sans votre intervention, vérifiez les paramètres de démarrage, les extensions et le moteur de recherche du navigateur.</p><p>Si des publicités ou des redirections accompagnent cette page, recherchez aussi les logiciels installés récemment et lancez une analyse de sécurité.</p>"
+    },
+    {
+      "q": "Peut-on supprimer définitivement about:blank ?",
+      "a_html": "<p>Non, et ce n'est pas nécessaire : « about:blank » est une adresse interne intégrée au navigateur. Vous ne pouvez pas, et n'avez pas besoin, de la désinstaller.</p><p>En revanche, vous pouvez empêcher son ouverture en choisissant une autre page de démarrage, comme la page Nouvel onglet ou un site précis, dans les paramètres du navigateur.</p>"
+    },
+    {
+      "q": "About:blank est-il dangereux ?",
+      "a_html": "<p>La page about:blank elle-même n'est pas dangereuse : elle est vide et ne télécharge rien. Le risque existe seulement lorsqu'elle s'inscrit dans un comportement plus large, par exemple des extensions inconnues, des redirections, des publicités intrusives ou des modifications répétées de vos réglages.</p>"
+    },
+    {
+      "q": "Comment enlever about:blank sur un téléphone Android ou un iPhone ?",
+      "a_html": "<p>Ouvrez les réglages du navigateur et vérifiez la page d'accueil, le moteur de recherche et les autorisations de notification. Supprimez les onglets suspects, les données de navigation si besoin, puis mettez l'application à jour.</p><p>Sur Android, désinstallez aussi les applications récemment ajoutées si les pop-ups ou redirections ont commencé juste après leur installation. Sur iPhone, contrôlez les extensions Safari et les profils de configuration si votre appareil en utilise.</p>"
+    },
+    {
+      "q": "Pourquoi mon moteur de recherche change-t-il tout seul ?",
+      "a_html": "<p>Le plus souvent, une extension, un logiciel indésirable ou une synchronisation entre appareils modifie ce réglage. Supprimez les extensions inconnues, désinstallez les programmes récents, rétablissez le moteur de recherche voulu et vérifiez les autres appareils reliés au même compte navigateur.</p>"
+    },
+    {
+      "q": "La réinitialisation du navigateur efface-t-elle mes mots de passe et favoris ?",
+      "a_html": "<p>Une réinitialisation conserve généralement les favoris et les mots de passe enregistrés, mais elle rétablit de nombreux réglages et désactive souvent les extensions. Les conséquences exactes sont affichées avant confirmation et peuvent varier selon le navigateur.</p><p>Par prudence, assurez-vous que vos favoris sont synchronisés ou exportez-les avant l'opération, surtout si vous n'utilisez pas de compte de synchronisation.</p>"
+    }
+  ],
+  "conclusion_html": "<p><strong>Supprimer about:blank</strong> ne consiste pas à effacer un virus : cette page vide est normalement une fonction du navigateur. Si elle vous gêne, modifiez simplement la page de démarrage. Si elle s'accompagne de redirections ou de réglages qui changent seuls, suivez la méthode : extensions, paramètres, applications récentes, analyse de sécurité, puis réinitialisation si nécessaire.</p><p>En gardant la main sur ce que vous installez et sur les extensions que vous autorisez, vous réduisez fortement le risque de revoir ce type de comportement. Un navigateur sain est avant tout un navigateur dont vous reconnaissez chaque réglage.</p>",
+  "__slug": "comment-supprimer-about-blank"
+}

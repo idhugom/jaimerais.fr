@@ -1,0 +1,260 @@
+{
+  "title": "Simulation de financement immobilier : calculez votre budget d'achat pas à pas",
+  "meta_description": "Simulez votre financement immobilier : capacité d'emprunt, mensualité, apport et frais. Une méthode claire pour fixer un budget réaliste et négocier.",
+  "reading_time_min": 12,
+  "hero_intro": "Avant de visiter des biens, une simulation de financement immobilier vous aide à transformer une envie d'achat en budget réaliste. Elle permet d'estimer votre mensualité supportable, le montant que vous pourriez emprunter et les frais à prévoir au-delà du prix affiché. Bien menée, elle vous évite de chercher un logement hors de portée… ou de sous-estimer votre marge de manœuvre.",
+  "key_takeaways": [
+    "Commencez par calculer la mensualité réellement disponible, en tenant compte de tous vos crédits et de l'assurance emprunteur.",
+    "Le taux d'endettement de 35 % est un repère majeur en France, mais la banque étudie aussi votre reste à vivre, votre épargne et la stabilité de vos revenus.",
+    "Le budget d'un achat ne se limite pas au prix du bien : frais d'acquisition, garantie, dossier, travaux et déménagement doivent être anticipés.",
+    "Comparez plusieurs durées, taux et niveaux d'apport : une mensualité plus basse peut rendre le crédit nettement plus coûteux.",
+    "Une simulation en ligne est une estimation utile ; seul l'examen complet de votre dossier permet d'obtenir un accord de principe ou une offre de prêt."
+  ],
+  "toc": [
+    "Pourquoi simuler son financement avant de chercher un bien",
+    "Calculer sa capacité d'emprunt et sa mensualité",
+    "Les informations à réunir pour une estimation fiable",
+    "Faire une simulation de prêt immobilier en 6 étapes",
+    "Intégrer tous les frais de l'achat immobilier",
+    "Simulateur en ligne, banque ou courtier : que choisir ?",
+    "Tester la solidité de son projet avant une offre",
+    "Passer de la simulation à un dossier de financement convaincant"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi simuler son financement avant de chercher un bien",
+      "html": "<p>Une simulation de financement répond à deux questions distinctes : <strong>combien pouvez-vous consacrer chaque mois à votre crédit</strong> et <strong>quel budget global votre achat peut-il atteindre</strong>. La première dépend de vos revenus, de vos charges et des règles d'endettement ; la seconde ajoute votre apport personnel, le prix du bien et tous les frais annexes.</p><p>Cette distinction est essentielle. Un foyer peut, par exemple, avoir une capacité de remboursement compatible avec un crédit de 220 000 €, sans pour autant pouvoir acheter un bien à 220 000 € si les frais d'acquisition, la garantie bancaire et des travaux doivent aussi être financés. À l'inverse, un apport confortable peut augmenter le budget du projet sans alourdir la mensualité.</p><p>Faire ce travail avant les visites vous permet de cibler les bons secteurs, de négocier avec davantage de sérénité et de présenter une offre cohérente. La simulation n'est pas une promesse de prêt, mais elle constitue la base d'une recherche immobilière réaliste.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les trois montants à ne pas confondre",
+      "points": [
+        "La mensualité maximale : ce que votre foyer peut rembourser chaque mois, assurance comprise.",
+        "Le montant empruntable : le capital que cette mensualité permet de financer selon le taux et la durée retenus.",
+        "Le budget total d'achat : montant emprunté + apport + éventuelles aides, moins l'ensemble des frais du projet."
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Les repères généralement utilisés par les banques",
+      "items": [
+        {
+          "value": "35 %",
+          "label": "taux d'endettement maximal généralement retenu, avec l'assurance emprunteur et les crédits existants"
+        },
+        {
+          "value": "25 ans",
+          "label": "durée de prêt maximale généralement applicable pour un achat immobilier classique, hors cas particuliers"
+        },
+        {
+          "value": "3 scénarios",
+          "label": "à comparer au minimum : prudent, central et confortable pour votre budget"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Calculer sa capacité d'emprunt et sa mensualité",
+      "html": "<p>En France, les banques s'appuient généralement sur un taux d'endettement maximal de <strong>35 % des revenus nets réguliers du foyer</strong>. Ce ratio comprend la mensualité du futur prêt, l'assurance emprunteur et les échéances de crédits déjà en cours. Le cadre fixé par le Haut Conseil de stabilité financière prévoit une marge de flexibilité pour les banques, mais celle-ci n'est pas un droit : mieux vaut bâtir votre projet sans compter dessus.</p><p>Le calcul de départ est simple : revenus mensuels retenus × 35 % = charges de crédit maximales. Il faut ensuite retirer les mensualités restantes de votre crédit auto, prêt personnel, crédit renouvelable ou pension prise en compte. Ainsi, avec 3 800 € de revenus réguliers et 180 € de crédits en cours, le plafond théorique est de 1 330 € par mois ; il reste donc environ <strong>1 150 € pour le nouveau financement, assurance incluse</strong>.</p><p>La banque ne s'arrête pas à ce ratio. Elle examine aussi le <em>reste à vivre</em>, c'est-à-dire la somme qui demeure après les charges de crédit, la composition du foyer, la gestion des comptes, l'épargne disponible et la pérennité des revenus. Salaires fixes, pensions et revenus professionnels réguliers sont plus faciles à retenir qu'une prime exceptionnelle. Pour un indépendant ou un revenu variable, plusieurs années d'activité sont souvent analysées. Les loyers futurs d'un investissement locatif ne sont, eux, généralement pris en compte que partiellement.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les données qui font varier une simulation de prêt immobilier",
+      "intro": "Renseignez des chiffres justifiables et récents : une estimation fiable est toujours plus utile qu'un résultat artificiellement optimiste.",
+      "columns": [
+        "Élément à renseigner",
+        "Comment l'évaluer",
+        "Effet sur le financement",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Revenus du foyer",
+          "Salaires, pensions et revenus réguliers réellement justifiables",
+          "Augmentent ou limitent la mensualité admissible",
+          "N'ajoutez pas des primes occasionnelles comme un revenu garanti"
+        ],
+        [
+          "Crédits existants",
+          "Toutes les mensualités restant à payer",
+          "Réduisent directement la capacité disponible",
+          "Un petit crédit conso peut peser lourd dans le ratio"
+        ],
+        [
+          "Apport personnel",
+          "Épargne mobilisable sans vider votre sécurité financière",
+          "Réduit le besoin d'emprunt et peut rassurer la banque",
+          "Gardez une réserve pour les imprévus et l'installation"
+        ],
+        [
+          "Durée du prêt",
+          "Souvent de 15 à 25 ans selon le projet",
+          "Une durée longue baisse la mensualité mais augmente le coût total",
+          "Vérifiez que la durée reste compatible avec votre âge et votre projet de vie"
+        ],
+        [
+          "Taux et assurance",
+          "Hypothèses proposées par le simulateur ou un professionnel",
+          "Déterminent le capital accessible et le coût global",
+          "Comparez le TAEG, pas seulement le taux nominal"
+        ],
+        [
+          "Type de bien",
+          "Ancien, neuf, résidence principale ou investissement",
+          "Influence les frais, les aides possibles et l'analyse bancaire",
+          "Un logement à rénover exige un budget travaux documenté"
+        ]
+      ],
+      "note": "Les méthodes de calcul peuvent varier d'un établissement à l'autre. Une simulation donne un ordre de grandeur, non une décision de crédit."
+    },
+    {
+      "type": "steps",
+      "heading": "Faire une simulation de financement en 6 étapes",
+      "intro": "Un bon simulateur est utile, à condition de le nourrir avec les bonnes informations et de comparer plusieurs hypothèses.",
+      "steps": [
+        {
+          "title": "1. Faites l'inventaire de vos ressources et charges",
+          "html": "<p>Réunissez vos revenus mensuels réguliers, vos crédits actuels, vos pensions éventuelles et votre épargne disponible. Regardez aussi vos relevés de compte : ils révèlent les abonnements, dépenses récurrentes ou découverts à corriger avant une demande de prêt.</p>"
+        },
+        {
+          "title": "2. Définissez une mensualité confortable",
+          "html": "<p>Calculez le plafond théorique d'endettement, puis fixez un objectif plus prudent si votre budget est déjà serré. Une mensualité acceptable sur le papier doit encore vous laisser de quoi épargner, entretenir le logement et faire face aux aléas.</p>"
+        },
+        {
+          "title": "3. Testez plusieurs durées",
+          "html": "<p>Comparez au moins 15, 20 et 25 ans lorsque votre profil le permet. Vous verrez immédiatement le compromis : plus la durée augmente, plus le capital finançable peut progresser à mensualité égale, mais plus les intérêts et l'assurance pèsent sur le coût total.</p>"
+        },
+        {
+          "title": "4. Intégrez l'assurance emprunteur",
+          "html": "<p>Ne simulez jamais le prêt hors assurance si votre objectif est de vérifier le taux d'endettement. Son coût dépend notamment de l'âge, de l'état de santé, de la quotité assurée et des garanties choisies ; il peut modifier sensiblement la mensualité totale.</p>"
+        },
+        {
+          "title": "5. Ajoutez tous les frais du projet",
+          "html": "<p>Calculez séparément les frais d'acquisition, de garantie, de dossier, d'agence et les travaux. Déduisez ensuite votre apport pour savoir quel capital doit réellement être emprunté.</p>"
+        },
+        {
+          "title": "6. Créez trois versions de votre plan",
+          "html": "<p>Préparez un scénario prudent avec un taux un peu plus élevé ou moins d'apport, un scénario réaliste et un scénario confortable. Si seul le scénario le plus favorable fonctionne, le projet mérite d'être ajusté avant toute offre d'achat.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Intégrer tous les frais de l'achat immobilier",
+      "html": "<p>Le prix affiché sur une annonce est rarement le coût final de l'opération. Dans l'ancien, les frais d'acquisition, souvent appelés à tort « frais de notaire », représentent fréquemment autour de 7 % à 8 % du prix, selon la localisation et la nature du bien. Dans le neuf, ils sont habituellement beaucoup plus bas, souvent autour de 2 % à 3 %.</p><p>À cela s'ajoutent les frais liés au crédit : garantie par caution ou hypothèque, frais de dossier bancaire, et éventuellement honoraires de courtage. Si le bien est vendu par une agence, vérifiez qui paie les honoraires et si le prix indiqué les inclut. Prévoyez aussi un budget pour les travaux, le mobilier, le déménagement, la taxe foncière, les charges de copropriété et les premières dépenses d'énergie.</p><p>Un apport couvrant au moins les frais de l'opération facilite souvent l'obtention d'un prêt, car il limite la part financée à crédit. Ce n'est toutefois pas une règle absolue : certains profils solides peuvent emprunter avec peu ou pas d'apport. Le point important est de ne pas mobiliser toute votre épargne au point de ne plus avoir de matelas de sécurité.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Budget à prévoir au-delà du prix du logement",
+      "intro": "Ces ordres de grandeur servent à construire votre plan de financement ; demandez ensuite des estimations adaptées à votre dossier et au bien visé.",
+      "columns": [
+        "Poste de dépense",
+        "Ordre de grandeur courant",
+        "Financement possible",
+        "À anticiper"
+      ],
+      "rows": [
+        [
+          "Frais d'acquisition dans l'ancien",
+          "Souvent autour de 7 % à 8 % du prix du bien",
+          "Par l'apport ou, selon le dossier, en partie dans le prêt",
+          "Ils varient selon le département et le montant de la transaction"
+        ],
+        [
+          "Frais d'acquisition dans le neuf",
+          "Souvent autour de 2 % à 3 %",
+          "Apport ou financement selon l'offre bancaire",
+          "Vérifiez le statut exact du programme et les frais annexes"
+        ],
+        [
+          "Garantie du prêt",
+          "Souvent de l'ordre de 1 % à 2 % du capital, selon le mécanisme",
+          "Par l'apport ou parfois intégrée au financement",
+          "Caution et hypothèque n'ont pas le même coût ni les mêmes modalités"
+        ],
+        [
+          "Frais de dossier",
+          "Quelques centaines d'euros à plus de 1 000 € selon l'établissement",
+          "Par l'apport ou le prêt selon les cas",
+          "Ils peuvent parfois être négociés"
+        ],
+        [
+          "Honoraires de courtage",
+          "Gratuits pour l'emprunteur ou de quelques centaines à plusieurs milliers d'euros",
+          "Le plus souvent par l'apport",
+          "Demandez le montant et les conditions avant de vous engager"
+        ],
+        [
+          "Travaux et installation",
+          "Très variables selon le bien",
+          "Prêt travaux, apport ou prêt immobilier selon le projet",
+          "Prévoyez une marge, surtout en rénovation"
+        ]
+      ],
+      "note": "Les frais de notaire et d'acquisition ne font pas partie du TAEG du crédit. Ils doivent être ajoutés à votre budget global."
+    },
+    {
+      "type": "comparison",
+      "heading": "Simulateur en ligne, banque ou courtier : trois outils complémentaires",
+      "intro": "La meilleure méthode consiste souvent à commencer seul, puis à faire vérifier les hypothèses par un professionnel avant de signer un compromis.",
+      "left": {
+        "title": "Simulation en ligne",
+        "points": [
+          "Résultat immédiat pour estimer une capacité d'emprunt et comparer les durées.",
+          "Utile pour faire varier l'apport, les mensualités et le coût total sans pression commerciale.",
+          "Taux et conditions souvent indicatifs : votre profil réel peut conduire à un résultat différent.",
+          "Ne remplace pas l'étude des relevés, de la situation professionnelle et du bien choisi."
+        ]
+      },
+      "right": {
+        "title": "Banque ou courtier",
+        "points": [
+          "Analyse plus individualisée de vos revenus, de votre apport et de votre projet.",
+          "Permet d'obtenir un retour sur la faisabilité, voire un accord de principe selon l'établissement.",
+          "Le courtier peut comparer des partenaires, mais son périmètre et ses honoraires doivent être connus.",
+          "Une offre de prêt définitive reste soumise à l'étude complète du dossier et aux garanties demandées."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne construisez pas votre projet au millimètre près",
+      "html": "<p>Une capacité d'emprunt maximale n'est pas forcément une mensualité souhaitable. Avant de vous engager, testez un taux supérieur de 0,5 à 1 point tant que votre taux n'est pas sécurisé, un apport légèrement inférieur et un budget travaux plus élevé. Si votre projet devient impossible à la moindre variation, baissez le prix cible ou augmentez votre marge de sécurité.</p><p>Évitez également de contracter un crédit à la consommation juste avant la demande de prêt immobilier : il diminue votre capacité et peut dégrader la lecture de votre dossier bancaire.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Passer de la simulation à un dossier de financement convaincant",
+      "html": "<p>Une fois votre budget défini, préparez vos pièces avant même de faire une offre : justificatifs d'identité, revenus, avis d'imposition, relevés de compte, épargne, tableaux d'amortissement des crédits et éléments relatifs au bien. Un dossier ordonné accélère les échanges et vous aide à répondre précisément aux questions de la banque.</p><p>Si vous êtes éligible à un dispositif d'aide, comme un prêt à taux zéro sous conditions pour certains projets, intégrez-le dans le plan de financement sans le confondre avec votre apport. Vérifiez toujours les critères en vigueur au moment de l'achat : localisation, type de logement, ressources et calendrier peuvent avoir leur importance.</p><p>Au moment de signer un compromis, la condition suspensive d'obtention de prêt doit correspondre à votre financement réaliste : montant à emprunter, durée et taux maximal acceptable, notamment. Prenez le temps de la relire avec le notaire ou le professionnel qui vous accompagne. Cette cohérence entre simulation, offre d'achat et dossier bancaire protège votre projet.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment calculer rapidement sa capacité d'emprunt immobilier ?",
+      "a_html": "<p>Multipliez vos revenus mensuels réguliers par 35 %, puis retirez les mensualités de tous vos crédits en cours. Le résultat donne une estimation de la mensualité maximale disponible pour le nouveau prêt, <strong>assurance emprunteur comprise</strong>.</p><p>Transformez ensuite cette mensualité en montant empruntable grâce à un simulateur, en renseignant la durée, le taux et le coût de l'assurance. Gardez à l'esprit que la banque examinera aussi votre reste à vivre, votre épargne et la stabilité de vos revenus.</p>"
+    },
+    {
+      "q": "Le taux d'endettement de 35 % inclut-il l'assurance du prêt ?",
+      "a_html": "<p>Oui. Dans l'analyse habituelle du taux d'endettement, la mensualité du prêt immobilier est prise en compte avec l'assurance emprunteur, ainsi que les échéances de vos autres crédits. C'est pourquoi une simulation limitée au taux nominal du crédit peut surestimer votre capacité.</p><p>Des dérogations limitées peuvent exister dans les politiques bancaires, mais elles ne doivent pas servir de base à votre budget prévisionnel.</p>"
+    },
+    {
+      "q": "Peut-on acheter un logement sans apport personnel ?",
+      "a_html": "<p>C'est parfois possible, notamment pour un profil stable avec une bonne gestion bancaire, mais l'accès au financement est généralement plus exigeant. La banque peut être plus attentive au taux d'endettement, à l'épargne résiduelle et au coût total de l'opération.</p><p>Dans de nombreux dossiers, disposer au moins de quoi régler les frais d'acquisition et de garantie rend le projet plus simple à défendre. Ne videz pas pour autant toutes vos économies : une réserve de précaution reste utile après l'achat.</p>"
+    },
+    {
+      "q": "Vaut-il mieux emprunter sur 20 ou 25 ans ?",
+      "a_html": "<p>Sur 25 ans, la mensualité est plus faible à capital égal, ou le capital empruntable est plus élevé à mensualité égale. En contrepartie, vous payez habituellement davantage d'intérêts et d'assurance sur la durée totale.</p><p>Sur 20 ans, l'effort mensuel est plus important, mais le coût global est souvent réduit. Comparez les deux options avec le même apport et observez à la fois la mensualité, le TAEG, le coût total et votre confort budgétaire.</p>"
+    },
+    {
+      "q": "Une simulation de prêt immobilier équivaut-elle à un accord de prêt ?",
+      "a_html": "<p>Non. Une simulation est une estimation calculée à partir des informations saisies et d'hypothèses de taux. Même un accord de principe reste différent d'une offre de prêt : la décision finale dépend de l'étude complète de votre dossier, du bien, des garanties et des conditions de la banque.</p><p>Utilisez-la pour cadrer votre recherche et préparer votre dossier, mais évitez de signer une offre d'achat sur la seule base d'un résultat automatique.</p>"
+    },
+    {
+      "q": "Quels frais faut-il inclure dans une simulation d'achat immobilier ?",
+      "a_html": "<p>Ajoutez au prix du bien les frais d'acquisition, les frais de garantie, les frais de dossier, les honoraires de courtage éventuels, les frais d'agence lorsqu'ils sont à votre charge, ainsi que les travaux et le déménagement. Pensez aussi aux dépenses récurrentes : taxe foncière, charges de copropriété, entretien et énergie.</p><p>Cette vision globale vous permet de déterminer votre véritable besoin de financement et le montant d'apport à conserver ou à mobiliser.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Une simulation de financement immobilier réussie ne cherche pas seulement le montant maximum que la banque pourrait prêter. Elle vous aide à trouver <strong>un achat soutenable dans la durée</strong>, en intégrant le prix du logement, les frais, l'assurance et votre qualité de vie après l'emménagement.</p><p>Rassemblez vos chiffres réels, testez plusieurs scénarios et faites valider votre plan avant de vous engager. Vous chercherez ainsi un bien avec un budget clair, une meilleure capacité de négociation et beaucoup moins de mauvaises surprises.</p>",
+  "__slug": "simulation-financement-achat-immobilier"
+}

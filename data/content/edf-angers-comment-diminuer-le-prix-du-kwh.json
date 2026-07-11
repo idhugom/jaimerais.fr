@@ -1,0 +1,201 @@
+{
+  "title": "EDF à Angers : comment payer moins cher son kWh d'électricité ?",
+  "meta_description": "À Angers, comparez les offres EDF, Tempo et heures creuses, adaptez votre puissance et vos usages pour alléger durablement votre facture d'électricité.",
+  "reading_time_min": 9,
+  "hero_intro": "À Angers comme partout en France, on ne négocie pas directement le prix réglementé du kWh avec EDF. En revanche, il est possible de choisir une formule mieux adaptée, de décaler certains usages et de corriger les réglages qui alourdissent la facture. Voici comment distinguer les vraies pistes d'économies des fausses bonnes idées.",
+  "key_takeaways": [
+    "Le prix du kWh dépend surtout de l'offre choisie, de son option tarifaire et de vos heures de consommation ; le réseau électrique est le même quel que soit le fournisseur.",
+    "L'option heures creuses n'est intéressante que si une part suffisante de vos usages peut réellement être déplacée sur les créneaux attribués à votre logement.",
+    "L'offre Tempo peut être très compétitive pour un foyer flexible, mais elle exige de réduire fortement ses consommations lors des jours rouges d'hiver.",
+    "Vérifier la puissance souscrite, souvent 6 kVA pour un logement standard, peut réduire l'abonnement sans toucher au confort.",
+    "Les anciens tarifs professionnels Jaune et Vert ne sont plus commercialisés : les professionnels choisissent désormais des offres de marché."
+  ],
+  "toc": [
+    "Comprendre ce qui compose le prix de l'électricité à Angers",
+    "Tarif Bleu, heures creuses, Tempo : quelle option choisir ?",
+    "Ne pas confondre prix du kWh et montant de la facture",
+    "La méthode en cinq étapes pour réduire sa dépense",
+    "Les réglages et habitudes qui font vraiment la différence",
+    "Déménagement, changement de fournisseur et cas des professionnels"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "À Angers, le prix ne dépend pas de votre quartier",
+      "html": "<p>Pour l'électricité, un logement angevin est raccordé au réseau public exploité par <strong>Enedis</strong>. Ce gestionnaire assure le compteur, le dépannage et l'acheminement, tandis qu'EDF ou un autre fournisseur vend l'électricité et facture le contrat. Changer d'offre ou de fournisseur ne modifie donc ni la qualité du courant ni les délais d'intervention sur le réseau.</p><p>Votre facture rassemble trois éléments : la consommation en kWh, l'abonnement lié notamment à la puissance de votre compteur, puis les taxes et contributions. Le tarif de fourniture peut varier selon l'offre, mais les coûts de réseau et les taxes restent largement communs. La meilleure stratégie consiste donc à choisir une tarification cohérente avec votre profil, puis à diminuer les kWh les plus coûteux.</p><p>Le <strong>Tarif Bleu</strong> d'EDF est le tarif réglementé de vente de l'électricité pour les particuliers éligibles. Son prix évolue selon les décisions réglementaires. EDF commercialise aussi des offres de marché, et d'autres fournisseurs proposent leurs propres grilles. Une réduction affichée n'a de sens que si l'on compare le prix du kWh, le coût de l'abonnement, la durée de l'avantage et les conditions d'évolution du prix.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Option Base ou heures creuses : le bon choix dépend de vos horaires",
+      "intro": "Les heures creuses ne sont pas automatiquement synonymes d'économies. Elles créent deux prix du kWh et, en contrepartie, un abonnement généralement un peu plus élevé.",
+      "left": {
+        "title": "Option Base",
+        "points": [
+          "Un seul prix du kWh, quelle que soit l'heure.",
+          "Simple à suivre et adaptée à un foyer présent en journée.",
+          "Souvent pertinente si le chauffage, la cuisine et le lave-linge fonctionnent surtout en heures pleines.",
+          "Évite de devoir programmer les appareils ou surveiller des créneaux imposés."
+        ]
+      },
+      "right": {
+        "title": "Option heures pleines / heures creuses",
+        "points": [
+          "Huit heures creuses sont réparties chaque jour, selon le créneau attribué par Enedis.",
+          "Le kWh est moins cher en heures creuses, mais plus cher en heures pleines que dans une logique Base comparable.",
+          "Intéressante si le chauffe-eau, la recharge d'un véhicule, le chauffage pilotable ou des appareils programmés consomment beaucoup sur ces heures.",
+          "Demande de vérifier ses données de consommation, pas seulement de se fier à ses habitudes supposées."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Comparer les principales options EDF pour un particulier",
+      "intro": "Les noms commerciaux et les prix évoluent : ce tableau aide à sélectionner une logique tarifaire avant de demander une simulation actualisée.",
+      "columns": [
+        "Option ou type d'offre",
+        "Pour quel profil ?",
+        "Atout potentiel",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Tarif Bleu en option Base",
+          "Petit ou moyen foyer, consommation répartie toute la journée",
+          "Lecture simple avec un prix identique à toute heure",
+          "Peu de levier tarifaire pour la recharge ou le chauffe-eau"
+        ],
+        [
+          "Tarif Bleu heures pleines / heures creuses",
+          "Foyer pouvant programmer des usages importants",
+          "Valorise huit heures creuses quotidiennes",
+          "Il faut souvent déplacer une part significative des kWh pour compenser l'abonnement et les heures pleines plus chères"
+        ],
+        [
+          "Tarif Bleu Tempo",
+          "Foyer très flexible, notamment avec usages électriques pilotables",
+          "Prix très avantageux pendant de nombreux jours bleus et blancs",
+          "Les jours rouges d'hiver en heures pleines sont très chers : un chauffage électrique non pilotable peut annuler l'intérêt"
+        ],
+        [
+          "Offre de marché EDF ou concurrente",
+          "Lecteur prêt à comparer régulièrement les conditions",
+          "Peut proposer un prix fixe temporaire ou une remise selon la grille",
+          "Vérifier l'abonnement, la référence de prix, la durée et les modalités de révision"
+        ],
+        [
+          "Offre professionnelle de marché",
+          "Artisan, commerce, copropriété ou activité avec besoins spécifiques",
+          "Contrat ajustable selon puissance, profil et durée",
+          "Comparer l'ensemble fourniture, acheminement, puissance et dépassements éventuels"
+        ]
+      ],
+      "note": "Les tarifs et promotions changent régulièrement. Comparez toujours une estimation annuelle à consommation et puissance identiques, plutôt qu'un seul prix du kWh."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le bon objectif : réduire le coût global, pas seulement afficher un petit kWh",
+      "html": "<p>Une offre peut annoncer un kWh attractif tout en ayant un abonnement plus élevé, ou en appliquant un prix avantageux seulement à certaines heures. Pour comparer, relevez votre consommation annuelle, votre puissance en kVA et, si vous avez un compteur Linky, la part réellement consommée en heures creuses. Une économie de quelques centimes sur un poste marginal ne compense pas forcément un abonnement plus cher.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Tempo : une option efficace, mais exigeante en hiver",
+      "html": "<p>Tempo repose sur six prix du kWh : heures pleines et heures creuses pour trois couleurs de jours. L'année comprend <strong>300 jours bleus</strong>, <strong>43 jours blancs</strong> et au maximum <strong>22 jours rouges</strong>. Les jours rouges se situent en période hivernale ; c'est précisément lorsque les besoins de chauffage sont souvent les plus élevés. La couleur du lendemain est communiquée à l'avance, ce qui permet d'anticiper.</p><p>Cette formule convient bien à une personne qui peut reporter la recharge d'une voiture électrique, programmer le ballon d'eau chaude, cuisiner autrement ou réduire temporairement le chauffage électrique aux jours rouges. Elle peut être moins adaptée à un logement mal isolé chauffé uniquement à l'électricité, occupé toute la journée, sans moyen de moduler les usages.</p><p>Avant de choisir Tempo, faites un scénario prudent : regardez votre consommation des mois froids et demandez-vous quels kWh resteraient inévitables durant les heures pleines rouges. Il ne faut pas compter sur une discipline parfaite. Un foyer qui accepte de baisser un peu le thermostat et dispose d'une programmation fiable peut y trouver un gain réel ; un foyer contraint de chauffer au maximum ces jours-là risque au contraire une mauvaise surprise.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Trois repères utiles avant de modifier votre contrat",
+      "items": [
+        {
+          "value": "8 h",
+          "label": "d'heures creuses quotidiennes, avec des plages fixées pour votre point de livraison et non choisies librement"
+        },
+        {
+          "value": "6 kVA",
+          "label": "puissance fréquemment souscrite dans un appartement ou une maison standard, à confirmer selon les appareils utilisés simultanément"
+        },
+        {
+          "value": "22 jours max.",
+          "label": "de jours rouges Tempo par an, concentrés pendant la saison froide selon les règles de l'option"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Réduire votre facture EDF à Angers en cinq étapes",
+      "intro": "Une optimisation utile part de données réelles, puis s'applique par petites décisions mesurables.",
+      "steps": [
+        {
+          "title": "1. Relire une facture complète",
+          "html": "<p>Notez l'option tarifaire, la puissance souscrite, l'abonnement annuel, la consommation sur douze mois et, le cas échéant, la répartition heures pleines / heures creuses. Une facture d'hiver seule peut fausser l'analyse.</p>"
+        },
+        {
+          "title": "2. Consulter la courbe de charge Linky",
+          "html": "<p>Depuis votre espace client ou l'outil de suivi associé à votre contrat, observez les périodes de forte consommation. Repérez le chauffe-eau, le chauffage électrique, la cuisson, le sèche-linge et la recharge de véhicule. Ce sont eux qui déterminent l'intérêt d'une option horaire.</p>"
+        },
+        {
+          "title": "3. Simuler à profil identique",
+          "html": "<p>Comparez Base, heures creuses, Tempo si votre mode de vie le permet, et éventuellement des offres de marché. Utilisez toujours les mêmes kWh annuels et la même puissance. Lisez aussi ce qui se passe après une éventuelle période promotionnelle.</p>"
+        },
+        {
+          "title": "4. Programmer les usages déplaçables",
+          "html": "<p>Réglez le contacteur du chauffe-eau, le départ différé du lave-linge ou du lave-vaisselle et la recharge du véhicule sur les heures favorables. Ne faites tourner un appareil que s'il est adapté à une utilisation différée et en respectant les consignes de sécurité du fabricant.</p>"
+        },
+        {
+          "title": "5. Mesurer puis corriger",
+          "html": "<p>Après deux ou trois mois représentatifs, vérifiez que les consommations ont bien basculé aux bons horaires. Si l'option ne correspond pas à votre réalité, il vaut mieux l'ajuster que poursuivre une habitude coûteuse par principe.</p>"
+        }
+      ]
+    },
+    {
+      "type": "key_points",
+      "heading": "Les leviers concrets qui font souvent la différence",
+      "points": [
+        "Réduire la température de consigne de chauffage lorsque c'est compatible avec le confort : le chauffage est souvent le premier poste d'un logement électrique.",
+        "Entretenir le ballon d'eau chaude et régler sa température raisonnablement, sans désactiver les dispositifs de sécurité.",
+        "Éviter les veilles inutiles et remplacer prioritairement les appareils très énergivores ou défaillants, plutôt que de traquer chaque petit chargeur.",
+        "Vérifier que la puissance souscrite n'est pas surdimensionnée : si elle n'a jamais disjoncté malgré plusieurs appareils, une baisse peut être envisageable après vérification.",
+        "Piloter les usages importants vaut davantage que décaler de petits appareils dont la consommation est faible."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Trois erreurs fréquentes à éviter",
+      "html": "<p><strong>Choisir les heures creuses sans pouvoir déplacer ses usages</strong> est la première erreur. La deuxième consiste à diminuer la puissance sans tenir compte du four, des plaques, du chauffe-eau, du chauffage ou de la recharge qui peuvent fonctionner ensemble. Enfin, ne confondez pas offre fixe et facture fixe : une offre à prix fixe peut protéger la part fourniture pendant une période définie, mais l'abonnement, les taxes et les coûts réglementés peuvent évoluer.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Puissance, déménagement et offres professionnelles : les règles à connaître",
+      "html": "<p>La puissance est exprimée en kVA. Souscrire trop haut augmente l'abonnement pour peu de bénéfice ; souscrire trop bas peut provoquer des coupures lorsque plusieurs appareils puissants démarrent simultanément. Avant de passer, par exemple, de 6 kVA à 3 kVA, listez les équipements susceptibles de fonctionner ensemble. Dans un logement tout électrique, 6 ou 9 kVA restent souvent nécessaires selon la surface et les habitudes. Le changement de puissance peut entraîner une prestation facturée selon votre situation et votre compteur : renseignez-vous avant de le demander.</p><p>En cas de déménagement à Angers, il faut souscrire un contrat pour la nouvelle adresse et résilier ou clôturer l'ancien. Le fournisseur de votre choix peut être EDF ou un concurrent ; pour un particulier, le changement de fournisseur est en principe gratuit et sans coupure, hors situation particulière sur l'installation ou le compteur. La comparaison est plus utile au moment de l'emménagement, car vous repartez avec une puissance et une option à choisir.</p><p>Pour les professionnels, les anciens <strong>tarifs réglementés Jaune et Vert</strong> ne sont plus proposés depuis plusieurs années. Un commerce, un atelier ou une entreprise doit examiner les offres de marché, la puissance, le profil de consommation et les éventuels pics de demande. Pour les puissances importantes, une analyse de la courbe de charge et des conditions contractuelles est préférable à une comparaison limitée au prix facial du kWh.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "EDF est-il le seul moyen de payer moins cher l'électricité à Angers ?",
+      "a_html": "<p>Non. EDF propose le Tarif Bleu réglementé et des offres de marché, mais les autres fournisseurs peuvent aussi commercialiser des offres pour les logements d'Angers. Le réseau reste le même, car il est exploité localement par Enedis.</p><p>Le bon choix dépend de votre consommation annuelle, de vos horaires, du montant de l'abonnement et des règles d'évolution du prix. Comparez le coût annuel estimé plutôt qu'une remise isolée sur le kWh.</p>"
+    },
+    {
+      "q": "À partir de quelle consommation les heures creuses deviennent-elles rentables ?",
+      "a_html": "<p>Il n'existe pas de seuil universel, car les écarts entre prix heures pleines, heures creuses et abonnement changent selon les grilles. Dans beaucoup de situations, il faut déplacer une part notable des consommations pour que l'option compense son surcoût.</p><p>Un ballon d'eau chaude asservi, une voiture électrique rechargée la nuit ou des appareils programmables peuvent aider. Sans ces usages, l'option Base est souvent plus simple et parfois plus économique.</p>"
+    },
+    {
+      "q": "Puis-je choisir mes heures creuses à Angers ?",
+      "a_html": "<p>Non. Les horaires sont attribués à votre point de livraison par le gestionnaire de réseau. Ils peuvent être nocturnes, mais aussi inclure une plage en journée. Consultez votre facture ou votre espace client avant de programmer vos équipements.</p>"
+    },
+    {
+      "q": "L'offre Tempo est-elle intéressante avec un chauffage électrique ?",
+      "a_html": "<p>Elle peut l'être si vous avez la possibilité de réduire fortement le chauffage et les autres gros usages pendant les jours rouges, notamment en heures pleines. Une bonne isolation, un thermostat programmable, un chauffage d'appoint non électrique ou une autre source d'énergie peuvent améliorer sa pertinence.</p><p>Si votre logement dépend entièrement de radiateurs électriques anciens et que vous êtes présent toute la journée en hiver, faites une simulation prudente avant de vous engager.</p>"
+    },
+    {
+      "q": "Est-ce gratuit de changer de fournisseur d'électricité ?",
+      "a_html": "<p>Pour un particulier, le changement de fournisseur est généralement gratuit et n'entraîne pas de coupure d'électricité. Vous n'avez pas à remplacer votre compteur pour cela. Le nouveau fournisseur organise les démarches de bascule.</p><p>Un changement de puissance, une mise en service après déménagement ou une intervention technique peuvent en revanche donner lieu à des frais distincts, selon les prestations du gestionnaire de réseau.</p>"
+    },
+    {
+      "q": "EDF dispose-t-il encore d'une agence à Angers pour souscrire un contrat ?",
+      "a_html": "<p>Les modalités de contact évoluent et EDF privilégie largement les démarches à distance : téléphone, espace client et souscription en ligne. Il est donc préférable de vérifier les canaux de contact disponibles au moment de votre demande plutôt que de vous déplacer sans confirmation.</p><p>Pour une ouverture de compteur, préparez l'adresse complète, le numéro de point de livraison si vous l'avez, un relevé de compteur si nécessaire, la date d'arrivée et un relevé d'identité bancaire.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour diminuer le prix réellement payé par kWh à Angers, commencez par adapter votre option tarifaire à votre rythme de vie : Base pour la simplicité, heures creuses pour des usages réellement programmables, Tempo pour une flexibilité assumée. Ajoutez une puissance bien dimensionnée et un pilotage des gros appareils : c'est souvent la combinaison la plus durable pour alléger une facture, sans sacrifier inutilement votre confort.</p>",
+  "__slug": "edf-angers-comment-diminuer-le-prix-du-kwh"
+}

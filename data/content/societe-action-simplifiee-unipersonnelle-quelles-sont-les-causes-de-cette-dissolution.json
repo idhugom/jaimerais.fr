@@ -1,0 +1,259 @@
+{
+  "title": "Dissolution d'une SASU : causes, procédure et conséquences à connaître",
+  "meta_description": "Découvrez les causes de dissolution d'une SASU, les démarches, la différence avec la TUP, les délais, coûts et conséquences fiscales à prévoir.",
+  "reading_time_min": 11,
+  "hero_intro": "Fermer une SASU ne consiste pas seulement à arrêter son activité : il faut identifier le motif de dissolution, choisir la bonne procédure et accomplir des formalités précises. La situation est très différente selon que l'associé unique est une personne physique ou une personne morale. Voici comment prendre une décision éclairée, éviter les erreurs coûteuses et organiser une fermeture propre.",
+  "key_takeaways": [
+    "La dissolution est la décision de mettre fin à la SASU ; elle ouvre généralement une phase de liquidation avant la radiation définitive.",
+    "L'associé unique peut décider librement de dissoudre la SASU, mais les statuts, les pertes, un jugement ou une procédure collective peuvent aussi entraîner sa disparition.",
+    "Si l'associé unique est une personne morale, la dissolution peut prendre la forme d'une transmission universelle de patrimoine (TUP), sans liquidation classique.",
+    "Une SASU détenue par une personne physique doit en principe être liquidée : les dettes sont réglées, les actifs vendus ou attribués, puis les comptes sont clôturés.",
+    "Les conséquences fiscales et le coût final dépendent notamment du boni de liquidation, des plus-values, des déficits, de la TVA et de la présence éventuelle d'un bien immobilier."
+  ],
+  "toc": [
+    "Dissolution, liquidation et radiation : ne pas confondre",
+    "Quelles causes peuvent dissoudre une SASU ?",
+    "Liquidation classique ou TUP : quelle procédure selon l'associé unique ?",
+    "Les démarches pour fermer une SASU étape par étape",
+    "Coûts, fiscalité et conséquences patrimoniales",
+    "Les erreurs à éviter avant de dissoudre sa SASU"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Dissolution, liquidation et radiation : ne pas confondre",
+      "html": "<p>La <strong>dissolution</strong> est l'acte juridique qui décide la fin de la société. Elle ne fait pas disparaître immédiatement la SASU : sauf cas de transmission universelle de patrimoine, la société conserve sa personnalité morale pour les seuls besoins de sa liquidation. Elle doit alors faire figurer la mention « société en liquidation » sur ses documents professionnels.</p><p>La <strong>liquidation</strong> est la phase pratique qui suit : le liquidateur recouvre les créances, vend les actifs si nécessaire, paie les fournisseurs, règle les salaires, les impôts et les autres dettes, puis établit les comptes de clôture. Le solde éventuel revient à l'associé unique après remboursement du capital et règlement du passif.</p><p>Enfin, la <strong>radiation</strong> du registre national des entreprises et, le cas échéant, du registre du commerce et des sociétés, marque la suppression administrative définitive de la SASU. Cesser de facturer ou fermer son compte bancaire ne suffit donc pas à fermer légalement l'entreprise.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel avant toute décision",
+      "points": [
+        "Une mise en sommeil, une cession de titres ou une cessation temporaire d'activité peuvent parfois être plus adaptées qu'une dissolution immédiate.",
+        "Le décès de l'associé unique, son changement de situation personnelle ou le départ du président ne dissout pas automatiquement une SASU, sauf clause statutaire particulière.",
+        "La réunion de toutes les actions entre les mains d'un seul associé n'est pas une cause de dissolution : c'est précisément le fonctionnement normal d'une SASU.",
+        "Avant de lancer la procédure, il faut établir une photographie fiable de la trésorerie, des dettes, des contrats, des salariés et des déclarations fiscales à déposer.",
+        "Une société en cessation des paiements ne doit pas être fermée par une liquidation amiable si elle ne peut plus régler ses dettes exigibles avec son actif disponible."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Quelles causes peuvent dissoudre une SASU ?",
+      "html": "<p>La cause la plus fréquente est la <strong>décision volontaire de l'associé unique</strong>. Celui-ci consigne sa décision dans un procès-verbal, fixe la date d'effet de la dissolution et nomme généralement un liquidateur. Il peut s'agir de l'associé lui-même, de l'ancien président ou d'un professionnel extérieur.</p><p>D'autres causes peuvent résulter de la loi, des statuts ou d'une décision de justice. Les statuts méritent donc une lecture attentive : ils peuvent prévoir une dissolution anticipée en cas de survenance d'un événement précis, à condition que la clause soit valable et suffisamment claire.</p><p>En pratique, une SASU peut aussi disparaître au terme de sa durée de vie, en cas d'extinction ou de réalisation de son objet social, ou à l'issue d'une procédure collective. Les pertes importantes n'entraînent pas toujours une dissolution automatique, mais elles imposent une réaction formelle de l'associé unique et peuvent, si la situation n'est pas régularisée, conduire à des difficultés juridiques sérieuses.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les principales causes de dissolution d'une SASU",
+      "intro": "Chaque motif n'emporte pas les mêmes conséquences ni la même marge de choix pour l'associé unique.",
+      "columns": [
+        "Cause",
+        "Exemple concret",
+        "Ce qu'il faut faire"
+      ],
+      "rows": [
+        [
+          "Décision de l'associé unique",
+          "L'activité n'est plus rentable, un projet prend fin ou l'entrepreneur part à la retraite.",
+          "Décider la dissolution, nommer un liquidateur ou appliquer la TUP si elle est possible."
+        ],
+        [
+          "Arrivée du terme statutaire",
+          "La durée de 99 ans prévue dans les statuts arrive à expiration sans prorogation.",
+          "Proroger la société avant le terme ou engager sa dissolution."
+        ],
+        [
+          "Réalisation ou extinction de l'objet social",
+          "La SASU a été créée pour une opération unique désormais terminée.",
+          "Vérifier l'objet statutaire et décider de poursuivre, modifier l'objet ou fermer la société."
+        ],
+        [
+          "Clause de dissolution prévue par les statuts",
+          "Une autorisation indispensable disparaît ou un événement contractuellement prévu survient.",
+          "Contrôler la rédaction de la clause et respecter la procédure statutaire."
+        ],
+        [
+          "Pertes importantes",
+          "Les capitaux propres deviennent inférieurs à la moitié du capital social.",
+          "Consulter l'associé unique, publier la décision et envisager une reconstitution des capitaux propres, une réduction de capital ou la dissolution."
+        ],
+        [
+          "Décision judiciaire",
+          "Un manquement grave, une impossibilité durable de fonctionnement ou un autre juste motif est invoqué devant le tribunal.",
+          "Répondre à la procédure judiciaire ; une solution amiable ou une régularisation peut parfois éviter la dissolution."
+        ],
+        [
+          "Liquidation judiciaire",
+          "La SASU est en cessation des paiements et son redressement est manifestement impossible.",
+          "Déclarer la cessation des paiements dans les délais et suivre la procédure dirigée par le tribunal."
+        ]
+      ],
+      "note": "Le contexte compte : une difficulté de trésorerie ponctuelle, par exemple, ne justifie pas à elle seule une dissolution. Un diagnostic comptable et juridique est préférable avant toute décision irréversible."
+    },
+    {
+      "type": "comparison",
+      "heading": "Liquidation classique ou TUP : la différence décisive",
+      "intro": "La qualité de l'associé unique détermine souvent la procédure à suivre. C'est l'un des premiers points à vérifier.",
+      "left": {
+        "title": "Associé unique personne physique : liquidation amiable",
+        "points": [
+          "La transmission universelle de patrimoine ne s'applique pas.",
+          "Un liquidateur réalise l'actif et règle le passif de la SASU.",
+          "Les comptes de liquidation déterminent un boni ou un mali de liquidation.",
+          "La société est radiée après la clôture de la liquidation.",
+          "La procédure est adaptée si la SASU peut payer toutes ses dettes."
+        ]
+      },
+      "right": {
+        "title": "Associé unique personne morale : TUP en principe",
+        "points": [
+          "La dissolution peut entraîner une transmission universelle du patrimoine à l'associé unique.",
+          "Il n'y a pas de liquidation amiable classique : actifs et passifs sont transférés en bloc.",
+          "Les créanciers disposent d'un délai d'opposition de 30 jours après la publicité légale appropriée.",
+          "La société mère ou l'associé personne morale reprend aussi les obligations de la SASU.",
+          "Les impacts fiscaux, sociaux, contractuels et immobiliers doivent être étudiés avant l'opération."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention : une liquidation amiable suppose une SASU solvable",
+      "html": "<p>Si la SASU ne peut pas régler ses dettes arrivées à échéance avec sa trésorerie et ses actifs immédiatement disponibles, elle peut être en <strong>cessation des paiements</strong>. Dans ce cas, une simple dissolution-liquidation amiable n'est généralement pas la bonne voie. Le dirigeant doit apprécier rapidement la situation et, si nécessaire, effectuer une déclaration auprès du tribunal compétent. Attendre ou organiser une répartition d'actifs au détriment des créanciers peut engager des responsabilités.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Les démarches pour fermer une SASU étape par étape",
+      "intro": "Pour une SASU détenue par une personne physique et solvable, le parcours de liquidation amiable suit habituellement les étapes suivantes.",
+      "steps": [
+        {
+          "title": "1. Faire un état des lieux complet",
+          "html": "<p>Recensez la trésorerie, les factures clients à encaisser, les emprunts, les fournisseurs, les contrats en cours, les immobilisations, les stocks, les obligations sociales et fiscales. Vérifiez aussi si un bail, une assurance, un contrat de crédit-bail ou une garantie personnelle exige une résiliation ou un accord spécifique.</p>"
+        },
+        {
+          "title": "2. Prendre la décision de dissolution",
+          "html": "<p>L'associé unique rédige une décision constatant la dissolution anticipée, la date d'effet et la nomination du liquidateur. Les pouvoirs du président cessent en principe, sauf s'il est désigné liquidateur. Le procès-verbal doit être conservé dans le registre des décisions de l'associé unique.</p>"
+        },
+        {
+          "title": "3. Publier et déclarer la dissolution",
+          "html": "<p>La dissolution fait l'objet d'une publicité dans un support d'annonces légales, puis d'une formalité via le guichet unique des entreprises. Le dossier comprend notamment la décision de l'associé, les informations sur le liquidateur et les pièces demandées par le registre. Ces formalités doivent être engagées rapidement, généralement dans le mois de la décision.</p>"
+        },
+        {
+          "title": "4. Réaliser les opérations de liquidation",
+          "html": "<p>Le liquidateur encaisse les créances, cède les biens utiles, paie les dettes et résilie les contrats. Il ne doit pas développer une nouvelle activité étrangère aux besoins de la liquidation. La liquidation amiable doit être achevée dans un délai raisonnable ; elle ne peut en principe pas se prolonger indéfiniment.</p>"
+        },
+        {
+          "title": "5. Clôturer les comptes et répartir le solde",
+          "html": "<p>Lorsque tout est réglé, le liquidateur établit les comptes définitifs. L'associé unique approuve ces comptes, donne quitus au liquidateur et constate soit un boni de liquidation, soit un mali. Les sommes ne doivent être versées à l'associé qu'après paiement des créanciers et prise en compte des obligations fiscales restantes.</p>"
+        },
+        {
+          "title": "6. Publier la clôture et demander la radiation",
+          "html": "<p>La clôture de liquidation donne lieu à une nouvelle annonce légale et à une formalité de radiation sur le guichet unique. Les comptes de clôture et la décision de l'associé unique font partie des documents habituellement nécessaires. Conservez les archives comptables, fiscales et juridiques pendant les durées légales applicables.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Coûts et fiscalité : les points à budgéter",
+      "intro": "Les montants dépendent du département, de la complexité du dossier et du patrimoine de la SASU. Les fourchettes ci-dessous donnent des repères prudents pour une fermeture simple.",
+      "columns": [
+        "Poste ou situation",
+        "Ordre de grandeur ou principe",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Annonces légales",
+          "Souvent environ 150 à 220 € TTC pour la dissolution, puis environ 110 à 180 € TTC pour la clôture.",
+          "Les tarifs varient selon le support et le lieu de publication."
+        ],
+        [
+          "Formalités de registre et guichet unique",
+          "Quelques dizaines à quelques centaines d'euros selon la formalité et le dossier.",
+          "Prévoyez deux séquences : dissolution puis clôture/radiation."
+        ],
+        [
+          "Accompagnement comptable ou juridique",
+          "De quelques centaines d'euros pour un dossier très simple à plusieurs milliers d'euros en présence d'actifs, contrats ou litiges.",
+          "Un accompagnement est souvent rentable lorsque la SASU détient de l'immobilier, du matériel significatif ou des déficits reportables."
+        ],
+        [
+          "Boni de liquidation versé à une personne physique",
+          "Il est généralement imposé comme un revenu distribué, souvent au prélèvement forfaitaire unique de 30 %, sauf option globale pour le barème progressif.",
+          "Le boni correspond au surplus net après remboursement des apports et règlement du passif ; le traitement dépend de la situation de l'associé."
+        ],
+        [
+          "Droit de partage sur le boni",
+          "Un droit d'enregistrement de 2,5 % est en principe dû sur le boni de liquidation dans le cadre d'une liquidation avec partage.",
+          "Ne pas confondre ce droit avec l'impôt personnel dû par l'associé sur le boni."
+        ],
+        [
+          "TUP vers une personne morale",
+          "Le patrimoine est transféré globalement ; l'opération peut avoir des effets fiscaux importants.",
+          "Les règles applicables aux plus-values, déficits, TVA, immeubles et régimes de faveur doivent être analysées au cas par cas."
+        ]
+      ],
+      "note": "Les frais de publication et de formalités ne couvrent ni les dettes sociales et fiscales, ni les éventuelles pénalités, ni le coût de résiliation des contrats."
+    },
+    {
+      "type": "prose",
+      "heading": "Conséquences fiscales, sociales et patrimoniales : ce qu'il faut anticiper",
+      "html": "<p>La fin d'activité et la liquidation appellent des <strong>déclarations fiscales de cessation</strong>. La SASU doit notamment régulariser l'impôt sur les sociétés, la TVA, la cotisation foncière des entreprises et, le cas échéant, les déclarations liées aux salaires. Les bénéfices en cours, provisions devenues sans objet et certaines plus-values latentes peuvent devenir imposables. Les délais varient selon l'impôt et le régime fiscal : il est prudent de les planifier avec l'expert-comptable dès la décision de fermeture.</p><p>Un <strong>boni de liquidation</strong> apparaît lorsque l'actif net restant excède les apports remboursables de l'associé unique. À l'inverse, un mali signifie que l'associé récupère moins que ce qu'il a apporté. Un déficit de la SASU ne devient pas automatiquement déductible du revenu personnel de l'associé ; sa perte économique et son traitement fiscal sont deux sujets distincts.</p><p>En cas de TUP, la personne morale associée reçoit l'ensemble du patrimoine, y compris les obligations et risques attachés à la SASU. Les contrats, les salariés, les sûretés, les litiges en cours et les autorisations administratives doivent être examinés un par un. Lorsqu'un immeuble est détenu par la SASU, une analyse notariale et fiscale est particulièrement recommandée.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Trois délais à garder en tête",
+      "items": [
+        {
+          "value": "30 jours",
+          "label": "délai d'opposition des créanciers après la publicité d'une TUP, sous réserve des règles applicables"
+        },
+        {
+          "value": "1 mois",
+          "label": "délai couramment applicable pour accomplir les formalités de publicité et de déclaration après une décision de dissolution ou de clôture"
+        },
+        {
+          "value": "3 ans",
+          "label": "durée maximale de principe d'une liquidation amiable avant qu'une intervention judiciaire puisse être demandée"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe : préparer la sortie avant la décision",
+      "html": "<p>Avant de voter la dissolution, établissez un calendrier de sortie : dernier jour de facturation, relance des clients, résiliation des abonnements, sort des stocks, remboursement des comptes courants d'associé, dernière paie, dernier dépôt de TVA et conservation des documents. Cette préparation réduit fortement le risque d'oublier une dette ou de devoir prolonger inutilement la liquidation.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les erreurs à éviter avant de dissoudre sa SASU",
+      "html": "<p>La première erreur consiste à confondre <strong>absence d'activité et absence d'obligations</strong>. Même inactive, une SASU doit tenir sa comptabilité, déposer ses déclarations et, tant qu'elle n'est pas radiée, respecter ses obligations juridiques. Si l'arrêt est temporaire, la mise en sommeil peut être une solution à étudier plutôt qu'une fermeture définitive.</p><p>Autre erreur fréquente : distribuer la trésorerie à l'associé avant d'avoir réglé les impôts, les dettes fournisseurs et les frais de fin de société. Le liquidateur doit protéger les créanciers. Il doit également vérifier les avances en compte courant d'associé, qui sont des dettes de la société envers l'associé et non un simple « argent disponible ».</p><p>Enfin, ne choisissez pas une TUP ou une liquidation uniquement pour aller vite. La TUP peut être très efficace dans un groupe de sociétés, mais elle transfère aussi les risques à la société bénéficiaire. La liquidation est plus adaptée à une SASU détenue par une personne physique, à condition que la société soit solvable. Dans les dossiers comportant un passif important, des salariés, un bien immobilier ou un contrôle fiscal en cours, l'avis d'un expert-comptable, d'un avocat ou d'un notaire sécurise réellement l'opération.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Qui peut décider la dissolution d'une SASU ?",
+      "a_html": "<p>Dans une SASU, l'<strong>associé unique</strong> prend seul la décision de dissolution volontaire. Il doit la formaliser par écrit dans un procès-verbal et respecter les éventuelles conditions prévues par les statuts. Une dissolution peut aussi résulter d'un jugement ou d'une procédure collective dans des situations particulières.</p>"
+    },
+    {
+      "q": "Une SASU sans chiffre d'affaires doit-elle être dissoute ?",
+      "a_html": "<p>Non. Une SASU sans activité peut rester immatriculée, être mise en sommeil pendant une période limitée ou reprendre une autre activité compatible avec son objet social. Elle conserve toutefois ses obligations comptables, fiscales et juridiques. La dissolution est pertinente si l'arrêt est définitif et qu'aucun projet de reprise n'est envisagé.</p>"
+    },
+    {
+      "q": "Peut-on dissoudre une SASU avec des dettes ?",
+      "a_html": "<p>Oui, si la société est en mesure de régler toutes ses dettes avec son actif disponible ou grâce aux ressources mobilisables. Le liquidateur doit les payer avant toute répartition au profit de l'associé. Si la SASU est en cessation des paiements, une procédure collective peut être nécessaire : la liquidation amiable n'est alors pas appropriée.</p>"
+    },
+    {
+      "q": "Quelle est la différence entre dissolution et liquidation d'une SASU ?",
+      "a_html": "<p>La dissolution est la décision juridique de mettre fin à la société. La liquidation est la période pendant laquelle le patrimoine est réalisé et les dettes sont réglées. Après approbation des comptes de clôture, la SASU peut être radiée. Lorsque l'associé unique est une personne morale, une TUP peut remplacer la liquidation classique.</p>"
+    },
+    {
+      "q": "La TUP est-elle possible si l'associé unique est une personne physique ?",
+      "a_html": "<p>Non, en principe. La transmission universelle de patrimoine sans liquidation est réservée au cas où l'ensemble des actions est détenu par une <strong>personne morale</strong>. Si l'associé unique est une personne physique, la fermeture passe habituellement par une dissolution suivie d'une liquidation amiable, si la SASU est solvable.</p>"
+    },
+    {
+      "q": "Combien de temps faut-il pour fermer une SASU ?",
+      "a_html": "<p>Une SASU simple, sans dettes complexes ni actifs difficiles à vendre, peut souvent être fermée en quelques mois. La durée dépend surtout du recouvrement des créances, de la vente éventuelle des actifs, des délais de publicité et des déclarations fiscales. Une TUP requiert notamment de tenir compte du délai d'opposition des créanciers. Une liquidation amiable ne peut en principe pas dépasser trois ans.</p>"
+    }
+  ],
+  "conclusion_html": "<p>La dissolution d'une SASU est une décision structurante, pas une simple formalité de fermeture. Commencez par identifier le motif réel, vérifiez la solvabilité de la société et déterminez si une liquidation classique ou une TUP est juridiquement possible. En préparant les dettes, les déclarations fiscales et les contrats avant la décision, vous protégez l'associé unique, les créanciers et la suite de vos projets.</p>",
+  "__slug": "societe-action-simplifiee-unipersonnelle-quelles-sont-les-causes-de-cette-dissolution"
+}

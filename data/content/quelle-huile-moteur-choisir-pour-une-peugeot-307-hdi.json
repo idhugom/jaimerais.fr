@@ -1,0 +1,214 @@
+{
+  "title": "Quelle huile moteur choisir pour une Peugeot 307 HDi : norme, viscosité et FAP",
+  "meta_description": "Découvrez quelle huile moteur choisir pour votre Peugeot 307 HDi selon le moteur : viscosité, norme PSA, FAP, vidange et pièges courants à éviter.",
+  "reading_time_min": 10,
+  "hero_intro": "Entre les moteurs 1.4, 1.6 et 2.0 HDi, les années de production et la présence éventuelle d'un filtre à particules, il n'existe pas une huile universelle pour toutes les Peugeot 307 HDi. La bonne référence se choisit d'abord selon la norme constructeur, puis selon la viscosité. Voici comment lire un bidon sans vous tromper et entretenir votre diesel avec bon sens.",
+  "key_takeaways": [
+    "La norme PSA et la norme ACEA priment toujours sur la marque ou le prix de l'huile.",
+    "Pour de nombreuses 307 HDi équipées d'un FAP, une huile 5W-30 faible teneur en cendres, ACEA C2 et homologuée PSA B71 2290 est fréquemment requise.",
+    "Une 5W-40 peut convenir à certaines 307 HDi sans FAP, mais uniquement si le manuel de votre version l'autorise.",
+    "Ne déduisez pas l'huile à utiliser de la seule mention HDi : identifiez le moteur, l'année et la présence d'un FAP.",
+    "Lors d'une vidange, changez le filtre à huile, contrôlez le niveau sur sol plat et ne dépassez jamais le repère maximum."
+  ],
+  "toc": [
+    "Identifier précisément votre Peugeot 307 HDi",
+    "Quelle huile choisir selon le moteur et le FAP ?",
+    "Comprendre les indices 5W-30, 5W-40 et les normes",
+    "Huile FAP ou huile classique : une différence essentielle",
+    "Choisir et remplacer l'huile étape par étape",
+    "Quantité d'huile, budget et rythme de vidange",
+    "Les bons réflexes pour préserver un moteur HDi"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Identifier précisément votre Peugeot 307 HDi avant d'acheter",
+      "html": "<p>La Peugeot 307 HDi a existé avec plusieurs blocs diesel : notamment les 1.4 HDi, 1.6 HDi et 2.0 HDi, dans différentes puissances et sur une longue période de commercialisation. Deux véhicules portant le même badge « HDi » peuvent donc avoir des exigences d'huile différentes. C'est particulièrement important si votre voiture est équipée d'un filtre à particules, souvent appelé <strong>FAP</strong>.</p><p>La source à privilégier reste le manuel d'entretien correspondant à votre motorisation. Recherchez une indication de type <strong>ACEA C2</strong>, <strong>ACEA A3/B4</strong> ou une homologation PSA telle que <strong>PSA B71 2290</strong>. La carte grise, le carnet d'entretien, l'étiquette moteur ou le numéro VIN permettent d'identifier la version exacte si vous avez un doute. Un concessionnaire ou un garage Peugeot peut aussi confirmer la préconisation à partir du VIN.</p><p>Ne vous fiez pas uniquement au bouchon de remplissage, à l'ancien bidon trouvé dans le coffre ou à l'avis d'un proche possédant une autre 307. Ils peuvent donner un indice, mais ne remplacent pas la préconisation liée à votre moteur. C'est la meilleure façon d'éviter une huile inadaptée, notamment sur un diesel avec FAP.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel avant de choisir votre bidon",
+      "points": [
+        "Cherchez d'abord la norme inscrite dans le carnet, puis vérifiez qu'elle figure clairement sur l'étiquette du bidon.",
+        "Une huile « compatible Peugeot » sans homologation ou spécification précise n'est pas forcément le meilleur choix.",
+        "Le premier chiffre de la viscosité, comme le 5 de 5W-30, concerne le comportement à froid ; le second, comme le 30, la viscosité à chaud.",
+        "Un kilométrage élevé ne justifie pas, à lui seul, le passage à une huile plus épaisse.",
+        "Pour un simple appoint, utilisez idéalement exactement la même huile que celle déjà présente dans le moteur."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quelle huile moteur pour votre 307 HDi ?",
+      "intro": "Ce tableau donne des repères utiles, mais la validation finale doit toujours se faire avec la préconisation de votre version précise.",
+      "columns": [
+        "Configuration de la 307 HDi",
+        "Huile fréquemment rencontrée",
+        "Vérification indispensable"
+      ],
+      "rows": [
+        [
+          "307 HDi équipée d'un FAP",
+          "Souvent une 5W-30 faible teneur en cendres, avec ACEA C2 et, selon la version, homologation PSA B71 2290",
+          "Contrôler la norme exacte du manuel : le FAP impose une huile adaptée."
+        ],
+        [
+          "307 HDi sans FAP",
+          "Selon le moteur et l'année, une huile répondant notamment à ACEA A3/B4 peut être demandée, souvent en 5W-40 ou parfois en 5W-30",
+          "Ne choisissez pas la viscosité seule : vérifier aussi la norme PSA ou ACEA demandée."
+        ],
+        [
+          "Utilisation urbaine, petits trajets, embouteillages",
+          "Conserver l'huile homologuée, mais prévoir un entretien plus rapproché si les conditions sont sévères",
+          "La conduite urbaine accélère la dégradation de l'huile et complique les régénérations du FAP."
+        ],
+        [
+          "Motorisation ou présence de FAP inconnue",
+          "Ne pas acheter au hasard ; identifier le moteur avec le VIN ou le carnet d'entretien",
+          "Une mauvaise huile peut accroître l'encrassement du système de dépollution."
+        ]
+      ],
+      "note": "Les formulations évoluent avec les années : une norme inscrite sur le bidon doit correspondre à celle demandée pour votre véhicule, et non seulement être présentée comme « recommandée pour diesel »."
+    },
+    {
+      "type": "prose",
+      "heading": "Viscosité et normes : savoir lire l'étiquette d'une huile",
+      "html": "<p>L'indice <strong>5W-30</strong> ou <strong>5W-40</strong> indique la viscosité de l'huile. Le « W » renvoie au comportement à basse température : une 5W reste suffisamment fluide au démarrage par temps froid pour circuler rapidement dans le moteur. Le chiffre situé après le tiret décrit le comportement de l'huile lorsque le moteur est chaud. Une 40 est plus visqueuse à chaud qu'une 30, mais cela ne signifie pas qu'elle est automatiquement plus protectrice pour votre 307 HDi.</p><p>Les mentions <strong>ACEA</strong> et <strong>PSA</strong> sont au moins aussi importantes. ACEA A3/B4 correspond à certaines huiles destinées aux moteurs essence et diesel conventionnels. ACEA C2 désigne une huile dite basse teneur en cendres, pensée pour être compatible avec certains dispositifs de dépollution. La spécification PSA B71 2290, fréquemment associée à une huile 5W-30 ACEA C2, est courante sur de nombreuses motorisations PSA diesel équipées d'un FAP.</p><p>Sur l'emballage, préférez une mention claire telle que « répond à PSA B71 2290 » ou « homologuée PSA B71 2290 », lorsque c'est la norme requise par votre voiture. La formulation marketing « convient à » est moins précise. En cas de différence entre la viscosité habituellement citée sur internet et le carnet de votre 307, <strong>le carnet l'emporte</strong>.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "5W-30 ou 5W-40 : ne choisissez pas seulement au chiffre",
+      "intro": "Ces deux viscosités peuvent exister sur le marché pour les diesels PSA, mais elles ne sont pas interchangeables par défaut.",
+      "left": {
+        "title": "Huile 5W-30",
+        "points": [
+          "Très fréquente sur les versions demandant une huile ACEA C2 et/ou PSA B71 2290.",
+          "Souvent formulée à faible teneur en cendres pour préserver un FAP compatible.",
+          "Bonne fluidité à froid et recherche de consommation maîtrisée.",
+          "À utiliser si la norme et la viscosité correspondent à la préconisation constructeur."
+        ]
+      },
+      "right": {
+        "title": "Huile 5W-40",
+        "points": [
+          "Peut être adaptée à certaines 307 HDi sans FAP selon leur manuel.",
+          "Souvent associée à des spécifications pour moteurs diesel conventionnels, comme ACEA A3/B4.",
+          "Ne doit pas remplacer une 5W-30 C2 imposée pour un moteur équipé d'un FAP.",
+          "Un moteur kilométré ne doit y passer qu'après vérification de compatibilité, idéalement avec un professionnel."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "FAP : l'erreur d'huile peut coûter cher",
+      "html": "<p>Si votre 307 HDi possède un FAP et que le constructeur demande une huile basse teneur en cendres, n'utilisez pas une huile classique simplement parce qu'elle est moins chère ou qu'elle porte la bonne viscosité. Les cendres issues de l'huile ne se consument pas lors de la régénération et peuvent contribuer à saturer progressivement le filtre.</p><p>Ne confondez pas non plus l'huile moteur avec l'additif de FAP présent sur certaines versions PSA. Ce sont deux produits et deux entretiens distincts : ajouter de l'huile dans le réservoir d'additif, ou inversement, serait une erreur grave.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Comment choisir la bonne huile et faire l'appoint sans risque",
+      "intro": "Suivez cette méthode simple avant une vidange ou avant de compléter un niveau bas.",
+      "steps": [
+        {
+          "title": "Relevez la préconisation de votre version",
+          "html": "<p>Dans le manuel ou auprès d'un professionnel avec le VIN, notez la viscosité, la norme ACEA et la spécification PSA demandées. Vérifiez également si la voiture est équipée d'un FAP.</p>"
+        },
+        {
+          "title": "Comparez les mentions sur le bidon",
+          "html": "<p>La norme recherchée doit apparaître clairement sur l'étiquette ou la fiche technique du produit. Ne retenez pas un bidon sur la seule base de « 5W-30 », « synthétique » ou « diesel ».</p>"
+        },
+        {
+          "title": "Achetez une quantité suffisante",
+          "html": "<p>Prévoyez le volume nécessaire à la vidange avec remplacement du filtre, plus une petite marge pour les appoints. Un bidon de 5 litres suffit souvent aux petits moteurs HDi, mais pas systématiquement aux 2.0 HDi.</p>"
+        },
+        {
+          "title": "Faites le niveau correctement",
+          "html": "<p>Placez la voiture sur un sol horizontal. Vérifiez la jauge moteur froid ou après avoir coupé le moteur et attendu quelques minutes. Ajoutez l'huile par petites quantités, laissez-la descendre, puis contrôlez de nouveau.</p>"
+        },
+        {
+          "title": "Ne dépassez jamais le maximum",
+          "html": "<p>Un niveau trop haut peut aussi endommager le moteur et les systèmes de dépollution. Si le niveau est largement au-dessus du repère maximum, faites retirer l'excédent plutôt que de rouler ainsi.</p>"
+        },
+        {
+          "title": "Conservez la preuve de l'entretien",
+          "html": "<p>Notez la date, le kilométrage, la référence de l'huile et le filtre monté. Ce suivi aide à anticiper la prochaine vidange et apporte une information utile en cas de diagnostic mécanique ou de revente.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quantité d'huile et budget : les ordres de grandeur à prévoir",
+      "intro": "Les capacités exactes changent selon le moteur et comprennent généralement le remplacement du filtre à huile. Versez toujours progressivement et terminez à la jauge.",
+      "columns": [
+        "Poste",
+        "Ordre de grandeur",
+        "Conseil pratique"
+      ],
+      "rows": [
+        [
+          "1.4 HDi ou 1.6 HDi",
+          "Environ 3,7 à 4,0 litres selon la version",
+          "Un bidon de 5 litres est souvent adapté et laisse de quoi faire un appoint."
+        ],
+        [
+          "2.0 HDi",
+          "Environ 4,3 à 5,3 litres selon la déclinaison",
+          "Vérifiez la capacité du manuel : un seul bidon de 5 litres peut être insuffisant."
+        ],
+        [
+          "Huile synthétique de qualité adaptée",
+          "Souvent entre 30 et 65 € pour 5 litres",
+          "La conformité à la norme demandée compte davantage que le logo de la marque."
+        ],
+        [
+          "Filtre à huile",
+          "Généralement entre 8 et 20 € hors pose",
+          "Remplacez-le à chaque vidange pour ne pas contaminer l'huile neuve."
+        ],
+        [
+          "Vidange en atelier",
+          "Souvent autour de 80 à 170 € selon l'huile, le moteur et la région",
+          "Demandez la référence exacte d'huile facturée, surtout si votre véhicule a un FAP."
+        ]
+      ],
+      "note": "Ces montants et volumes sont indicatifs. La quantité finale se règle à la jauge, jamais en versant un volume théorique sans contrôle."
+    },
+    {
+      "type": "prose",
+      "heading": "Quand faire la vidange d'une Peugeot 307 HDi ?",
+      "html": "<p>Respectez en priorité l'échéance kilométrique et temporelle indiquée par Peugeot pour votre 307. Selon l'année, la motorisation et le programme d'entretien, les intervalles peuvent varier. Même si le kilométrage n'est pas atteint, une vidange annuelle est souvent une précaution raisonnable sur un véhicule ancien qui roule peu, car l'huile vieillit aussi avec le temps et les cycles de chauffe.</p><p>Raccourcir l'intervalle peut être pertinent en cas de nombreux petits parcours, de trajets urbains, de remorquage, de conduite dans la poussière, de forts écarts de température ou d'utilisation très occasionnelle. L'huile subit alors davantage de dilution par le carburant, d'humidité et d'oxydation. Cela ne dispense pas d'utiliser la norme correcte : une vidange plus fréquente avec une huile inadaptée ne résout pas le problème.</p><p>Sur une 307 HDi dotée d'un FAP, faites régulièrement des trajets assez longs à vitesse stabilisée lorsque les conditions le permettent. Cela ne remplace pas un entretien, mais favorise les cycles de régénération. En présence d'un voyant moteur, d'un message antipollution, d'une montée anormale du niveau d'huile ou d'une consommation importante, demandez un diagnostic plutôt que de multiplier les appoints.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "La meilleure huile n'est pas la plus chère ni la plus épaisse : c'est celle qui porte exactement la norme prévue pour votre moteur.",
+      "author": "Le bon réflexe d'entretien"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Puis-je mettre de la 5W-40 dans ma Peugeot 307 HDi ?",
+      "a_html": "<p>Oui, mais uniquement si le manuel de votre motorisation l'autorise et si les normes ACEA et PSA figurant sur le bidon correspondent à la préconisation. Certaines 307 HDi sans FAP peuvent utiliser une 5W-40 adaptée. En revanche, une 5W-40 classique ne doit pas remplacer une 5W-30 basse teneur en cendres exigée pour une version avec FAP.</p>"
+    },
+    {
+      "q": "Comment savoir si ma Peugeot 307 HDi a un FAP ?",
+      "a_html": "<p>Le moyen le plus fiable est de consulter le manuel d'entretien, les factures précédentes ou de demander une identification par numéro VIN à un garage. La puissance, l'année ou la présence d'un voyant ne suffisent pas toujours à conclure. Ne choisissez pas l'huile sur cette seule supposition.</p>"
+    },
+    {
+      "q": "Combien de litres d'huile faut-il pour une vidange de 307 HDi ?",
+      "a_html": "<p>Comptez généralement environ 3,7 à 4 litres pour un 1.4 ou un 1.6 HDi, et environ 4,3 à 5,3 litres pour un 2.0 HDi selon sa version. Ces chiffres sont des repères : consultez la capacité du carnet et ajustez toujours le niveau final avec la jauge après remplacement du filtre.</p>"
+    },
+    {
+      "q": "Peut-on mélanger deux huiles moteur différentes ?",
+      "a_html": "<p>Pour un appoint exceptionnel, il vaut mieux ajouter une huile ayant au minimum la même norme constructeur et une viscosité compatible. Mélanger régulièrement des huiles de formulations, de normes ou de viscosités différentes est à éviter, surtout avec un FAP. Si l'huile présente dans le moteur est inconnue, une vidange complète est souvent l'option la plus sereine.</p>"
+    },
+    {
+      "q": "À quelle fréquence vérifier le niveau d'huile sur une 307 HDi ?",
+      "a_html": "<p>Un contrôle mensuel est un bon rythme, ainsi qu'avant un long trajet. Vérifiez aussi le niveau si un voyant s'allume ou si vous observez une fumée inhabituelle, une fuite ou une consommation d'huile. Attendez quelques minutes après l'arrêt du moteur et stationnez-vous sur un sol plat pour obtenir une lecture fiable.</p>"
+    },
+    {
+      "q": "Une huile plus épaisse réduit-elle forcément la consommation d'huile ?",
+      "a_html": "<p>Non. Passer sans validation d'une 5W-30 à une 5W-40 peut masquer un symptôme sans traiter une fuite, un problème de reniflard, de turbo ou d'usure moteur. Si votre 307 HDi consomme beaucoup d'huile, faites contrôler la cause et n'utilisez une autre viscosité que si elle reste conforme à la préconisation applicable.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour choisir l'huile de votre Peugeot 307 HDi, retenez une règle simple : <strong>la norme constructeur avant la viscosité</strong>. Une 5W-30 ACEA C2 avec homologation PSA B71 2290 est souvent le bon choix sur les versions concernées par le FAP, tandis que certaines versions sans FAP peuvent demander une autre formulation, parfois en 5W-40.</p><p>Identifiez votre moteur, lisez attentivement l'étiquette du bidon et contrôlez le niveau avec méthode. Avec une huile conforme, un filtre remplacé à chaque vidange et un entretien adapté à votre usage, votre HDi dispose des meilleures conditions pour durer.</p>",
+  "__slug": "quelle-huile-moteur-choisir-pour-une-peugeot-307-hdi"
+}

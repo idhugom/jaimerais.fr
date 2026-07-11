@@ -1,0 +1,240 @@
+{
+  "title": "Fraiseuse bois : que permet cette machine et comment bien l'utiliser ?",
+  "meta_description": "Découvrez ce que permet une fraiseuse bois : rainures, profils, assemblages, choix de machine, fraises, réglages et sécurité pour réussir vos projets.",
+  "reading_time_min": 11,
+  "hero_intro": "Vous aimeriez créer des rainures nettes, des chants décoratifs ou des assemblages précis dans le bois ? La fraiseuse bois ouvre de nombreuses possibilités, à condition de choisir la bonne machine et la bonne fraise. Voici ce qu'elle sait réellement faire, comment l'adopter selon vos projets et les règles à respecter pour travailler avec précision et sérénité.",
+  "key_takeaways": [
+    "Une fraiseuse bois sert surtout à usiner le bois : creuser, profiler, affleurer, chanfreiner, réaliser des feuillures et des assemblages.",
+    "La défonceuse portative est très polyvalente pour l'atelier amateur ; la toupie stationnaire convient mieux aux pièces répétitives et aux travaux plus soutenus.",
+    "Le choix de la fraise, de sa queue, de son diamètre et du sens d'avance compte autant que la puissance de la machine.",
+    "Une profondeur de passe modérée, un bon guidage et une pièce correctement immobilisée améliorent nettement le résultat.",
+    "Les fraises tournent très vite : lunettes, protection auditive, aspiration et débranchement avant tout réglage sont indispensables."
+  ],
+  "toc": [
+    "Comprendre ce qu'est une fraiseuse bois",
+    "Les usinages réalisables dans le bois",
+    "Défonceuse, affleureuse, toupie ou CNC : quelle machine choisir ?",
+    "Choisir une machine et des fraises adaptées",
+    "Réaliser une rainure propre pas à pas",
+    "Réglages, sécurité et erreurs à éviter",
+    "Entretenir son matériel pour conserver la précision"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "La fraiseuse bois : une machine qui enlève la matière avec précision",
+      "html": "<p>Dans le langage courant, l'expression <strong>fraiseuse bois</strong> désigne plusieurs machines équipées d'un moteur et d'une fraise rotative. Leur principe est simple : la fraise enlève progressivement de la matière pour former une gorge, un bord mouluré, un logement ou une découpe guidée. C'est donc un outil d'<strong>usinage</strong>, et non une simple scie.</p><p>La machine la plus fréquente chez les bricoleurs est la <strong>défonceuse portative</strong>. Posée sur la pièce, elle descend verticalement et se déplace à la main, souvent avec un guide parallèle, un gabarit ou une bague de copiage. Une <strong>affleureuse</strong>, plus légère, excelle dans les travaux de finition et le copiage de chants. À l'atelier, la <strong>toupie</strong> stationnaire offre davantage de stabilité et de capacité, mais elle demande une maîtrise supérieure.</p><p>Une fraiseuse ne remplace pas systématiquement une scie, une perceuse ou une ponceuse. Elle peut néanmoins compléter ces outils de façon remarquable : perçage de logements, coupe de panneaux au gabarit, finition de chants ou préparation d'assemblages. Sa vraie force est de produire des formes régulières et répétables.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Ce qu'elle permet de faire au quotidien",
+      "points": [
+        "Creuser des rainures, des mortaises, des feuillures et des logements de quincaillerie.",
+        "Profiler les bords : quart-de-rond, chanfrein, congé, doucine, moulure décorative.",
+        "Araser un placage, un stratifié ou un chant collé avec une fraise à roulement.",
+        "Copier exactement une forme à partir d'un gabarit ou d'une pièce modèle.",
+        "Réaliser des assemblages solides : tenons, queues d'aronde, fausses languettes ou assemblages à enfourchement.",
+        "Découper des ouvertures dans un panneau avec un guide ou un gabarit adapté."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quels travaux réaliser avec une fraiseuse bois ?",
+      "intro": "Les possibilités dépendent de la machine, de la fraise et surtout du dispositif de guidage employé.",
+      "columns": [
+        "Usinage",
+        "Exemple concret",
+        "Fraise ou accessoire utile",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Rainure",
+          "Fond de meuble, étagère réglable, coulisseau",
+          "Fraise droite ou à rainurer",
+          "Faire plusieurs passes si la rainure est profonde."
+        ],
+        [
+          "Feuillure",
+          "Dos de cadre, fond de caisson, battée de porte",
+          "Fraise à feuillurer à roulement",
+          "Tester le réglage sur une chute avant la pièce finale."
+        ],
+        [
+          "Mortaisage",
+          "Logement pour un tenon ou une serrure",
+          "Fraise droite, guide ou gabarit",
+          "Prévoir des extrémités arrondies, ou les finir au ciseau."
+        ],
+        [
+          "Profilage de chant",
+          "Tablette, cadre, plateau, plinthe",
+          "Fraise quart-de-rond, chanfrein ou moulure",
+          "Travailler dans le bon sens et maintenir la machine à plat."
+        ],
+        [
+          "Affleurage",
+          "Placage, chant thermocollé, gabarit de découpe",
+          "Fraise à affleurer avec roulement",
+          "Le roulement doit suivre un bord parfaitement propre."
+        ],
+        [
+          "Assemblage",
+          "Tiroir à queues d'aronde, panneau à plate-bande",
+          "Fraise dédiée et gabarit si nécessaire",
+          "La précision du réglage est déterminante."
+        ]
+      ],
+      "note": "Une même opération peut souvent être réalisée avec plusieurs types de fraises. La qualité du guide et l'ordre des passes font la différence."
+    },
+    {
+      "type": "comparison",
+      "heading": "Défonceuse, affleureuse, toupie ou fraiseuse CNC : laquelle vous correspond ?",
+      "intro": "Le meilleur choix dépend moins du nom de la machine que de la taille des pièces, de la fréquence d'usage et du niveau de précision recherché.",
+      "left": {
+        "title": "Machines portatives : souplesse et polyvalence",
+        "points": [
+          "Défonceuse : idéale pour les rainures, feuillures, mortaises et profils courants.",
+          "Affleureuse : compacte, maniable, très pratique pour les chants et les petits gabarits.",
+          "Budget généralement accessible : souvent autour de 80 à 300 € pour une défonceuse amateur correcte, hors fraises.",
+          "Demandent un guidage rigoureux : rail, guide parallèle, gabarit ou bague de copiage.",
+          "Conviennent aux meubles sur mesure, petits aménagements et projets occasionnels à réguliers."
+        ]
+      },
+      "right": {
+        "title": "Machines d'atelier : rendement et répétabilité",
+        "points": [
+          "Toupie : très stable pour le profilage de longues pièces et les séries, mais plus encombrante.",
+          "Fraiseuse CNC : découpe et grave des formes programmées avec une grande répétabilité.",
+          "Investissement, espace et apprentissage nettement plus importants ; une toupie de qualité ou une CNC représente souvent plusieurs centaines, voire plusieurs milliers d'euros.",
+          "Nécessitent des dispositifs de sécurité et de maintien encore plus soignés.",
+          "À envisager pour un atelier équipé, des projets fréquents ou des formes complexes répétées."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Bien choisir sa fraiseuse bois et son équipement",
+      "html": "<p>Pour une première défonceuse, regardez d'abord la <strong>plongée</strong>, la précision de la butée de profondeur, la stabilité de la semelle et la compatibilité avec les guides. Une course de plongée confortable facilite les mortaises et les rainures profondes. Le variateur de vitesse est utile : une grosse fraise doit généralement tourner moins vite qu'une petite afin de limiter l'échauffement et les vibrations.</p><p>La puissance s'exprime en <strong>watts</strong>, pas en volts. Pour les travaux légers, une machine autour de 700 à 1 000 W peut suffire. Pour usiner régulièrement du bois massif, employer de grandes fraises ou réaliser des passes plus exigeantes, on choisit souvent une défonceuse d'environ 1 200 à 2 000 W. Une puissance élevée ne dispense jamais de réduire la profondeur de passe.</p><p>Vérifiez aussi les pinces fournies : les queues de 6 mm ou 8 mm sont courantes sur les petits modèles, tandis que le 12 mm, plus rigide, est apprécié pour les fraises de plus grand diamètre et les travaux soutenus. Prévoyez enfin un minimum d'accessoires : aspirateur d'atelier, serre-joints, règle droite, équerre, gabarits simples et chutes de bois pour les essais.</p><p>Le prix des fraises varie fortement. Un coffret économique peut dépanner pour découvrir les profils, mais quelques fraises de bonne qualité achetées à l'unité donnent souvent une coupe plus nette et durent davantage : droite, à affleurer, quart-de-rond, chanfrein et feuillure constituent une base pertinente.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe : acheter peu, mais utile",
+      "html": "<p>Ne vous laissez pas guider par le nombre de profils dans un coffret. Commencez avec quatre ou cinq fraises adaptées à vos projets. Préférez des plaquettes carbure bien affûtées et une queue compatible avec votre machine. Une fraise de qualité, correctement réglée, laisse moins de marques et fatigue moins le moteur.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Comment réaliser une rainure droite et nette avec une défonceuse",
+      "intro": "La rainure est l'un des usinages les plus utiles pour construire une bibliothèque, un caisson, un tiroir ou un panneau. Voici une méthode fiable, accessible aux débutants.",
+      "steps": [
+        {
+          "title": "Tracer et préparer la pièce",
+          "html": "<p>Marquez clairement le parcours, la largeur et les limites de la rainure. Posez la face visible du projet du bon côté, puis immobilisez fermement le bois sur un support stable. Repérez aussi tout serre-joint susceptible de gêner le passage de la machine.</p>"
+        },
+        {
+          "title": "Choisir le guidage",
+          "html": "<p>Pour une rainure parallèle à un bord droit, utilisez le guide parallèle de la défonceuse. Pour une rainure éloignée d'un bord, fixez une règle parfaitement rectiligne ou un gabarit. Faites un essai sur une chute : la distance entre la fraise et le bord de la semelle doit être prise en compte.</p>"
+        },
+        {
+          "title": "Régler la profondeur progressivement",
+          "html": "<p>Installez la fraise machine débranchée, puis réglez une première passe peu profonde. Dans le bois massif, plusieurs passes de quelques millimètres sont plus propres et plus sûres qu'une plongée brutale à profondeur finale. Aspirez les copeaux entre les passes si nécessaire.</p>"
+        },
+        {
+          "title": "Usiner à vitesse régulière",
+          "html": "<p>Mettez la machine en marche avant de toucher le bois. Avancez sans à-coups, en gardant la semelle bien plaquée et le guide contre sa référence. Si le son du moteur baisse fortement, ralentissez l'avance ou diminuez la profondeur de passe.</p>"
+        },
+        {
+          "title": "Contrôler avant l'assemblage",
+          "html": "<p>Arrêtez la machine, attendez l'immobilisation complète de la fraise et vérifiez la largeur, la profondeur et la rectitude avec une chute de la pièce qui doit s'y loger. Corrigez le réglage avant d'usiner toutes les pièces de la série.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Le sens d'avance : un détail qui évite les à-coups",
+      "html": "<p>Avec une machine portative, on avance généralement la défonceuse de façon à ce que la rotation de la fraise s'oppose au déplacement. Sur un chant extérieur, cela revient le plus souvent à tourner autour de la pièce dans le sens antihoraire. Cette coupe dite « en opposition » offre un meilleur contrôle.</p><p>À l'inverse, avancer dans le même sens que la rotation peut provoquer une accélération soudaine de la machine : c'est le <strong>fraisage en avalant</strong>. Une très légère passe dans ce sens peut parfois améliorer une finition, mais elle est réservée aux personnes expérimentées, avec une pièce solidement bridée et un contrôle parfait. Pour débuter, mieux vaut s'en tenir à l'avance en opposition.</p><p>Sur du bois massif, tenez compte du fil : une fraise peut arracher les fibres en sortie de coupe, surtout sur les zones de contre-fil. Faire une première passe légère, utiliser une fraise affûtée et fractionner les profils profonds limitent les éclats. Un ruban de masquage ou une cale martyre peut aussi protéger une arête fragile.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Sécurité : une fraiseuse n'est jamais un outil à improviser",
+      "html": "<p>Débranchez toujours la machine avant de changer une fraise ou de toucher au réglage de profondeur. Portez des lunettes de protection et une protection auditive ; utilisez une aspiration efficace, car les poussières de bois sont irritantes et certaines essences peuvent être sensibilisantes.</p><p>Ne tenez jamais une petite pièce à la main près de la fraise : fixez-la avec des serre-joints ou travaillez avec un gabarit. N'utilisez pas une fraise émoussée, fissurée ou mal serrée. Attendez l'arrêt total de la rotation avant de poser la machine, et gardez le câble loin de la trajectoire de coupe.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Réglages et problèmes fréquents : les solutions utiles",
+      "intro": "Une coupe imparfaite vient souvent d'un réglage, d'une fraise ou d'un guidage plutôt que de la machine elle-même.",
+      "columns": [
+        "Symptôme",
+        "Cause probable",
+        "Solution pratique"
+      ],
+      "rows": [
+        [
+          "Bords brûlés ou très foncés",
+          "Fraise émoussée, avance trop lente, vitesse excessive",
+          "Nettoyer ou remplacer la fraise, avancer régulièrement, réduire le régime avec une grosse fraise."
+        ],
+        [
+          "Rainure irrégulière",
+          "Guide qui bouge, pièce mal bridée, semelle mal appuyée",
+          "Renforcer le guide, ajouter des serre-joints, conserver une pression constante sur la semelle."
+        ],
+        [
+          "Éclats en bord de pièce",
+          "Contre-fil, passe trop profonde, sortie sans support",
+          "Réduire les passes, faire une passe légère préalable, placer une cale martyre."
+        ],
+        [
+          "Machine qui force",
+          "Fraise trop grosse ou trop engagée, copeaux mal évacués",
+          "Diminuer profondeur et largeur de passe, aspirer, choisir une fraise adaptée."
+        ],
+        [
+          "Profil décentré ou profondeur erronée",
+          "Repère imprécis, réglage non testé",
+          "Mesurer depuis la bonne face et toujours effectuer un essai sur une chute."
+        ]
+      ],
+      "note": "Avant de mettre en cause votre défonceuse, contrôlez dans cet ordre : serrage de la fraise, état de l'outil, immobilisation de la pièce, référence du guide et profondeur de passe."
+    },
+    {
+      "type": "prose",
+      "heading": "Entretenir la machine et les fraises pour préserver la qualité de coupe",
+      "html": "<p>Après chaque séance, retirez les copeaux autour de la pince, de la semelle et des mécanismes de plongée. La résine et la poussière finissent par nuire à la précision : un nettoyage régulier des fraises avec un produit adapté, en suivant les précautions du fabricant, aide à conserver une coupe nette. Séchez-les soigneusement pour éviter la corrosion.</p><p>Inspectez les fraises avant utilisation. Une fraise qui vibre, dont le tranchant est ébréché ou dont le roulement ne tourne plus librement doit être remplacée ou confiée à un affûteur compétent selon son modèle. Rangez-les séparément, dans une boîte ou un support, afin que les tranchants ne s'entrechoquent pas.</p><p>Enfin, ne confondez pas vitesse et efficacité. La précision naît d'un montage rigoureux, d'une fraise saine, d'un guidage fiable et de passes raisonnables. Avec ces bases, une fraiseuse bois devient l'un des outils les plus créatifs et les plus utiles de l'atelier.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la différence entre une fraiseuse bois et une défonceuse ?",
+      "a_html": "<p>La <strong>fraiseuse bois</strong> est un terme générique qui peut désigner plusieurs machines d'usinage du bois. La défonceuse est le modèle portatif le plus polyvalent : sa fraise descend dans la pièce pour creuser ou profiler. Une affleureuse, une toupie ou une CNC sont aussi des fraiseuses bois au sens large, mais elles répondent à des usages différents.</p>"
+    },
+    {
+      "q": "Peut-on couper une planche avec une fraiseuse bois ?",
+      "a_html": "<p>Oui, une défonceuse peut découper un panneau ou réaliser une ouverture en suivant une règle, un rail ou un gabarit. Elle est particulièrement intéressante pour les découpes de forme, les arrondis et les ouvertures précises.</p><p>Pour débiter rapidement de longues planches ou faire des coupes droites répétitives, une scie circulaire, une scie sur table ou une scie plongeante reste généralement plus adaptée et plus rapide.</p>"
+    },
+    {
+      "q": "Quelle puissance choisir pour une défonceuse bois ?",
+      "a_html": "<p>Pour des chants, petites rainures et travaux occasionnels, une puissance située autour de 700 à 1 000 W peut convenir. Pour le bois massif, les grandes fraises, les panneaux épais ou un usage régulier, une machine d'environ 1 200 à 2 000 W apporte plus de réserve.</p><p>La stabilité, la qualité de la plongée, le variateur et les accessoires de guidage sont tout aussi importants que la puissance affichée.</p>"
+    },
+    {
+      "q": "Quelle fraise utiliser pour faire une rainure dans le bois ?",
+      "a_html": "<p>Utilisez une <strong>fraise droite</strong> du diamètre correspondant à la largeur recherchée. Une fraise à rainurer est également appropriée selon le montage. Si la rainure est plus large que la fraise, réalisez deux passages ou davantage avec un guide, plutôt que de forcer la machine.</p><p>Pour une rainure profonde, procédez par passes successives. Cela réduit l'échauffement, les vibrations et le risque d'éclats.</p>"
+    },
+    {
+      "q": "Est-il possible de faire une mortaise à la défonceuse ?",
+      "a_html": "<p>Oui. Une fraise droite ou une fraise hélicoïdale, associée à un guide parallèle, un gabarit ou un dispositif de mortaisage, permet de creuser des mortaises précises. Les extrémités seront naturellement arrondies par la fraise ; vous pouvez les conserver, arrondir le tenon en conséquence ou les finir au ciseau.</p>"
+    },
+    {
+      "q": "Pourquoi ma défonceuse brûle-t-elle le bois ?",
+      "a_html": "<p>Les brûlures viennent souvent d'une fraise encrassée ou émoussée, d'une avance trop lente, d'une vitesse trop élevée ou d'une passe trop importante. Nettoyez la fraise, réduisez la profondeur, gardez une avance régulière et adaptez le régime au diamètre de l'outil.</p>"
+    },
+    {
+      "q": "Faut-il une table de fraisage pour débuter ?",
+      "a_html": "<p>Non. Une défonceuse utilisée à la main avec une règle, un guide parallèle et des serre-joints suffit pour apprendre la plupart des opérations courantes. La table de fraisage devient intéressante pour profiler de petites pièces, réaliser des séries et gagner en confort sur certains usinages.</p><p>Elle exige toutefois un montage solide, un guide fiable, une aspiration et des poussoirs adaptés. Ne la considérez pas comme un simple accessoire sans précautions.</p>"
+    }
+  ],
+  "conclusion_html": "<p>La fraiseuse bois permet de passer de la simple découpe à un travail d'assemblage et de finition beaucoup plus précis : rainures, feuillures, mortaises, moulures, chants et formes copiées deviennent accessibles. Pour bien débuter, privilégiez une défonceuse stable, quelques fraises de qualité et un guidage soigné.</p><p>Commencez toujours sur des chutes, avancez par passes légères et prenez le temps de brider vos pièces. Vous gagnerez en sécurité, en netteté et en confiance à chaque projet.</p>",
+  "__slug": "fraiseuse-bois-que-permet-cette-machine"
+}

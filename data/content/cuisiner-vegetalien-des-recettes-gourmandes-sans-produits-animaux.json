@@ -1,0 +1,261 @@
+{
+  "title": "Cuisiner végétalien : le guide pour des recettes gourmandes et faciles au quotidien",
+  "meta_description": "Apprenez à cuisiner végétalien sans frustration : substitutions, recettes simples, menus, conseils nutrition et astuces pour des plats gourmands.",
+  "reading_time_min": 10,
+  "hero_intro": "Cuisiner végétalien, c'est composer des plats sans viande, poisson, œufs, lait, beurre, miel ni aucun ingrédient issu des animaux. Loin de se limiter aux salades, cette cuisine permet de préparer des currys onctueux, des gratins savoureux, des desserts moelleux et des repas complets. Avec quelques repères et un placard bien pensé, le végétal devient une source quotidienne de plaisir, de créativité et de simplicité.",
+  "key_takeaways": [
+    "Une cuisine végétalienne réussie repose sur des bases simples : légumineuses, céréales, légumes, sauces, épices et bonnes matières grasses.",
+    "Chaque ingrédient animal a plusieurs alternatives : tofu soyeux, graines de lin, aquafaba, boissons végétales, purées d'oléagineux ou levure maltée.",
+    "Pour un repas rassasiant, associez idéalement une source de protéines, un féculent, des légumes et une sauce ou un assaisonnement généreux.",
+    "Une alimentation végétalienne demande une attention particulière à la vitamine B12, ainsi qu'aux apports en calcium, iode, fer et oméga-3.",
+    "Commencez avec des recettes familières végétalisées : pâtes à la bolognaise de lentilles, chili, curry, burgers, quiches ou gâteaux au chocolat."
+  ],
+  "toc": [
+    "Les bases d'une cuisine végétalienne gourmande",
+    "Cuisine végétalienne, végétarienne ou simplement végétale : quelles différences ?",
+    "Remplacer les ingrédients animaux sans rater ses recettes",
+    "Constituer un placard végétalien pratique et économique",
+    "Protéines végétales, textures et saveurs : les bons réflexes",
+    "Six idées de recettes végétaliennes faciles à décliner",
+    "Équilibrer son alimentation végétalienne au quotidien",
+    "Pâtisserie végétalienne : réussir le moelleux, le liant et la gourmandise"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Les bases d'une cuisine végétalienne gourmande",
+      "html": "<p>La cuisine végétalienne exclut tous les produits d'origine animale. Cela comprend la viande et le poisson, mais aussi les œufs, les produits laitiers, le beurre, la crème, la gélatine et le miel. En pratique, elle met à l'honneur les légumes, les fruits, les légumineuses, les céréales, les noix, les graines, les herbes, les épices et les produits végétaux transformés avec mesure.</p><p>Le secret pour ne pas avoir l'impression de « retirer » des aliments est de raisonner en termes de <strong>textures et de saveurs</strong>. Un plat gourmand combine souvent du fondant, du croquant, de l'acidité, du salé et de l'umami. Par exemple, un bol de riz complet, pois chiches rôtis, légumes au four, sauce au tahini et herbes fraîches est rassasiant parce qu'il réunit ces différents éléments.</p><p>Pour débuter sereinement, ne cherchez pas à reproduire chaque produit animal à l'identique. Certaines alternatives sont très convaincantes, mais les recettes les plus simples sont souvent celles qui assument pleinement les ingrédients végétaux : soupe de lentilles corail, dhal, couscous aux légumes et pois chiches, chili sin carne, wok de tofu ou salade de haricots blancs.</p><p>La régularité compte davantage que la perfection. Vous pouvez commencer par quelques repas végétaliens par semaine, identifier vos recettes préférées, puis enrichir progressivement votre répertoire. C'est une façon concrète de rendre ce changement durable et joyeux.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Cuisine végétalienne, végétarienne ou simplement végétale : quelles différences ?",
+      "intro": "Ces termes se recoupent parfois, mais ils ne désignent pas exactement les mêmes choix alimentaires. Les distinguer aide à adapter une recette ou à recevoir des invités sans erreur.",
+      "left": {
+        "title": "Cuisine végétarienne",
+        "points": [
+          "Exclut la viande et le poisson.",
+          "Peut inclure les œufs, le lait, le fromage, le beurre et parfois le miel.",
+          "Une quiche aux légumes avec œufs et fromage est végétarienne, mais pas végétalienne.",
+          "Les substitutions sont utiles, mais pas obligatoires dans toutes les recettes."
+        ]
+      },
+      "right": {
+        "title": "Cuisine végétalienne",
+        "points": [
+          "Exclut tous les ingrédients d'origine animale.",
+          "Utilise des boissons végétales, huiles, purées d'oléagineux, tofu, légumineuses et alternatives végétales.",
+          "Demande de vérifier les étiquettes de certains produits : bouillons, biscuits, sauces, chocolat ou pâtes fraîches.",
+          "Peut être familiale, festive, économique et gourmande avec de bonnes bases culinaires."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Les meilleurs remplacements des œufs, du lait et du fromage",
+      "intro": "Le bon substitut dépend avant tout du rôle de l'ingrédient dans la recette : lier, apporter du moelleux, faire lever, émulsionner ou donner une saveur crémeuse.",
+      "columns": [
+        "Ingrédient à remplacer",
+        "Alternative végétale",
+        "Dosage ou usage conseillé",
+        "Particulièrement adapté à"
+      ],
+      "rows": [
+        [
+          "1 œuf pour lier",
+          "1 cuillère à soupe de graines de lin ou de chia moulues + 3 cuillères à soupe d'eau",
+          "Laisser gélifier 10 minutes",
+          "Cookies, galettes, boulettes, muffins"
+        ],
+        [
+          "1 œuf pour le moelleux",
+          "Compote de pomme sans sucre ou banane écrasée",
+          "Environ 60 g par œuf",
+          "Gâteaux, pancakes, banana bread"
+        ],
+        [
+          "Blancs d'œufs montés",
+          "Aquafaba, le liquide d'une conserve de pois chiches",
+          "Environ 3 cuillères à soupe pour 1 blanc ; fouetter longtemps",
+          "Mousse au chocolat, meringues, macarons délicats"
+        ],
+        [
+          "Lait de vache",
+          "Boisson de soja, d'avoine, d'amande ou de coco",
+          "Même quantité, choisir une version non sucrée pour le salé",
+          "Béchamel, crêpes, purées, gâteaux"
+        ],
+        [
+          "Crème fraîche",
+          "Crème végétale, tofu soyeux mixé, noix de cajou trempées",
+          "Selon la recette ; ajuster avec un peu d'eau",
+          "Sauces, soupes, gratins, desserts"
+        ],
+        [
+          "Fromage râpé ou goût fromager",
+          "Levure maltée, parmesan végétal aux noix, fromage végétal",
+          "Ajouter progressivement et goûter",
+          "Pâtes, risottos, sauces, gratins"
+        ],
+        [
+          "Beurre",
+          "Huile d'olive douce, margarine végétale, purée d'oléagineux",
+          "Même poids en pâtisserie selon la recette",
+          "Pâte à tarte, gâteaux, cuisson, tartines"
+        ]
+      ],
+      "note": "Choisissez de préférence des boissons végétales non sucrées et, pour un usage quotidien, enrichies en calcium. Vérifiez aussi que la margarine ou le chocolat noir choisis sont bien végétaliens."
+    },
+    {
+      "type": "steps",
+      "heading": "Constituer un placard végétalien pratique et économique",
+      "intro": "Nul besoin d'acheter tous les produits spécialisés. Un placard végétalien efficace s'appuie d'abord sur des ingrédients polyvalents, peu coûteux et qui se conservent bien.",
+      "steps": [
+        {
+          "title": "Choisir trois familles de protéines",
+          "html": "<p>Gardez des lentilles corail pour les soupes et les dahls, des pois chiches ou haricots en bocal pour les repas rapides, et du tofu nature ou fumé pour les poêlées. Le tempeh apporte une texture ferme et une légère note de noisette. Le seitan est riche en protéines, mais il contient du gluten.</p>"
+        },
+        {
+          "title": "Prévoir des féculents variés",
+          "html": "<p>Riz, pâtes sans œufs, semoule, pommes de terre, flocons d'avoine, pain complet et quinoa permettent de composer des repas rassasiants. Alternez-les pour varier les goûts et les textures sans compliquer les courses.</p>"
+        },
+        {
+          "title": "Miser sur les assaisonnements qui changent tout",
+          "html": "<p>Huile d'olive, sauce soja ou tamari, moutarde, concentré de tomate, vinaigre, citron, tahini, beurre de cacahuète, levure maltée et bouillon de légumes transforment une base simple en plat généreux. Ajoutez quelques épices : paprika fumé, cumin, curry, curcuma, ail semoule et herbes séchées.</p>"
+        },
+        {
+          "title": "Préparer une base à l'avance",
+          "html": "<p>Cuisez une céréale, rôtissez une plaque de légumes et préparez une sauce pour deux ou trois jours. Vous pourrez ensuite assembler un bowl, une salade tiède, un wrap ou un plat de pâtes en moins de quinze minutes.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Protéines végétales, textures et saveurs : les bons réflexes",
+      "html": "<p>Les protéines végétales ne se résument pas à un « substitut de viande ». Les lentilles donnent du corps à une sauce tomate, les haricots rouges créent un chili généreux, les pois chiches deviennent croustillants au four et le tofu absorbe les marinades. Pour un repas complet, pensez à associer une légumineuse ou un produit à base de soja avec un féculent et des légumes.</p><p>Le tofu nature peut sembler fade si on le cuisine sans préparation. Pressez-le quelques minutes dans un linge propre, coupez-le en dés, puis faites-le mariner avec sauce soja, citron, ail, gingembre et un peu d'huile. Faites-le ensuite dorer dans une poêle bien chaude ou au four. Le tofu fumé, déjà assaisonné, est une option très pratique pour les salades, quiches et poêlées.</p><p>L'umami, cette sensation savoureuse et profonde, est précieux en cuisine végétalienne. On le trouve notamment dans les champignons dorés, le miso, la sauce soja, les tomates séchées, les olives, le concentré de tomate et la levure maltée. Une touche d'acidité, comme du jus de citron ou un vinaigre doux ajouté en fin de cuisson, réveille aussi instantanément un plat.</p><p>Enfin, ne négligez pas les matières grasses : huile d'olive, tahini, noix, avocat, purée de cacahuète ou crème de cajou donnent de l'onctuosité et favorisent la satiété. Une sauce bien équilibrée fait souvent la différence entre une assiette correcte et un repas dont on a envie de se resservir.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Six idées de recettes végétaliennes faciles à décliner",
+      "points": [
+        "Chili sin carne : faites revenir oignon, poivron, ail et épices ; ajoutez haricots rouges, maïs, tomates concassées et laissez mijoter. Servez avec du riz, de la coriandre et un filet de citron vert.",
+        "Curry de pois chiches : mijotez pois chiches, épinards, tomate, lait de coco et pâte de curry ou mélange d'épices. Accompagnez de riz et de noix de cajou grillées.",
+        "Bolognaise de lentilles : remplacez la viande hachée par des lentilles vertes ou brunes dans une sauce tomate aux carottes, céleri et herbes. Ajoutez une cuillère de levure maltée au moment de servir.",
+        "Buddha bowl : assemblez quinoa ou riz, légumes rôtis, crudités, pois chiches croustillants, graines et sauce tahini-citron. Changez de légumes selon la saison.",
+        "Galettes de haricots blancs : écrasez des haricots avec flocons d'avoine, oignon revenu, herbes et moutarde, formez des palets puis faites-les dorer. Elles remplacent très bien un steak dans un burger.",
+        "Mousse au chocolat : montez de l'aquafaba bien froid, incorporez délicatement du chocolat noir fondu tiède et laissez prendre au réfrigérateur. Vérifiez que le chocolat ne contient pas de lait."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réflexe « assiette complète »",
+      "html": "<p>Lorsque vous improvisez un repas végétalien, partez d'une formule simple : <strong>une protéine + un féculent + des légumes + une sauce ou un bon assaisonnement</strong>. Par exemple : haricots blancs, pommes de terre rôties, brocoli et sauce citron-tahini. Cette structure évite les repas qui manquent de consistance tout en laissant une grande liberté.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Composer des repas végétaliens selon votre temps et votre budget",
+      "intro": "Les produits végétaliens prêts à l'emploi peuvent dépanner, mais les ingrédients bruts restent généralement les plus économiques et les plus polyvalents.",
+      "columns": [
+        "Situation",
+        "Option rapide",
+        "Option économique à préparer",
+        "Astuce gourmande"
+      ],
+      "rows": [
+        [
+          "Petit-déjeuner",
+          "Porridge express avec boisson végétale, banane et purée de cacahuète",
+          "Overnight oats avec flocons d'avoine, fruits et graines",
+          "Ajoutez cannelle, cacao ou pommes poêlées"
+        ],
+        [
+          "Déjeuner à emporter",
+          "Wrap de houmous, crudités et tofu fumé",
+          "Salade de lentilles, carottes râpées et vinaigrette moutardée",
+          "Préparez une sauce à part pour préserver le croquant"
+        ],
+        [
+          "Dîner de semaine",
+          "Pâtes, sauce tomate, haricots blancs et épinards",
+          "Dhal de lentilles corail avec riz",
+          "Terminez avec citron et herbes fraîches"
+        ],
+        [
+          "Repas convivial",
+          "Burgers végétaux du commerce avec garnitures",
+          "Chili de haricots rouges et riz",
+          "Proposez avocat, salsa, oignons rouges et tortillas"
+        ],
+        [
+          "Dessert",
+          "Yaourt végétal et fruits",
+          "Crumble pommes-poires avec flocons d'avoine",
+          "Une pincée de sel relève le chocolat et le caramel végétal"
+        ]
+      ],
+      "note": "Les légumineuses sèches sont souvent les moins chères au kilo, mais les bocaux et conserves font gagner beaucoup de temps. Rincez-les avant utilisation pour réduire l'excès de sel."
+    },
+    {
+      "type": "prose",
+      "heading": "Équilibrer son alimentation végétalienne au quotidien",
+      "html": "<p>Une alimentation végétalienne peut être équilibrée, à condition d'être variée et de ne pas reposer uniquement sur les produits ultra-transformés. Au fil de la semaine, alternez légumineuses, tofu ou tempeh, céréales complètes ou semi-complètes, légumes de toutes les couleurs, fruits, oléagineux et graines. Les aliments enrichis peuvent également être utiles, notamment les boissons végétales enrichies en calcium.</p><p>La <strong>vitamine B12</strong> mérite une attention spécifique : elle n'est pas fournie de façon fiable par les aliments végétaux courants. Une supplémentation adaptée est généralement nécessaire dans le cadre d'une alimentation végétalienne. Pour les modalités et le dosage, demandez conseil à un professionnel de santé, particulièrement en cas de grossesse, d'allaitement, de croissance, de maladie, de traitement ou de régime alimentaire restrictif.</p><p>Pensez aussi au fer, présent entre autres dans les lentilles, haricots, tofu, graines de courge et légumes verts. Associer ces aliments à une source de vitamine C, comme du poivron, du kiwi, des agrumes ou du citron, favorise son absorption. Pour les oméga-3, les noix, les graines de lin ou de chia moulues et l'huile de colza sont de bonnes habitudes à intégrer.</p><p>Enfin, l'iode peut être plus délicat à couvrir si l'on ne consomme pas de produits de la mer. Le sel iodé peut contribuer aux apports, sans encourager pour autant une consommation excessive de sel. En cas de doute sur vos besoins nutritionnels, un bilan individualisé avec un médecin ou un diététicien est préférable aux conseils génériques.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les erreurs fréquentes quand on débute",
+      "html": "<p>Ne remplacez pas simplement la viande par davantage de pain, de pâtes ou de fromage végétal : ajoutez une vraie source de protéines, comme des lentilles, des haricots, du tofu ou du tempeh. Méfiez-vous aussi des boissons végétales très sucrées dans les recettes salées, et vérifiez les étiquettes des bouillons, pâtes fraîches, sauces et desserts : certains contiennent du lait, des œufs ou du miel.</p><p>Un plat végétalien n'est pas automatiquement équilibré, tout comme un plat non végétalien ne l'est pas toujours. La diversité, la supplémentation en B12 et la régularité des repas comptent davantage que la recherche d'une perfection immédiate.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Pâtisserie végétalienne : réussir le moelleux, le liant et la gourmandise",
+      "intro": "Les desserts végétaliens ne sont pas des versions « au rabais ». Il faut simplement adapter les ingrédients au résultat recherché et respecter quelques principes de texture.",
+      "steps": [
+        {
+          "title": "Identifier le rôle des œufs",
+          "html": "<p>Dans un cake, l'œuf peut lier et humidifier : utilisez alors compote, banane ou graines de lin moulues. Dans une mousse, il apporte surtout de l'air : l'aquafaba est plus adaptée. Dans une pâte levée, l'effet aérien dépend davantage de la levure chimique, du bicarbonate et d'une juste proportion de liquide.</p>"
+        },
+        {
+          "title": "Créer un « lait ribot » végétal",
+          "html": "<p>Mélangez une boisson de soja non sucrée avec une petite quantité de vinaigre de cidre ou de jus de citron et laissez reposer quelques minutes. Cette préparation légèrement caillée réagit bien avec le bicarbonate et aide à obtenir des gâteaux plus légers.</p>"
+        },
+        {
+          "title": "Ne pas trop travailler la pâte",
+          "html": "<p>Une fois la farine ajoutée, mélangez juste assez pour ne plus voir de traces sèches. Un mélange excessif peut rendre les muffins, pancakes et cakes plus compacts, y compris sans œufs.</p>"
+        },
+        {
+          "title": "Soigner la finition",
+          "html": "<p>Une pincée de sel, une bonne vanille, des zestes d'agrumes, des fruits mûrs, du chocolat noir ou des noix torréfiées donnent immédiatement plus de relief. Pour un glaçage simple, mélangez sucre glace et jus de citron, ou utilisez une ganache au chocolat noir et crème de coco.</p>"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la différence entre végétalien et vegan ?",
+      "a_html": "<p>Dans l'usage courant, les deux termes renvoient à une alimentation sans produits d'origine animale. Le mot « végétalien » décrit surtout le régime alimentaire. « Vegan » peut aussi désigner un mode de vie plus large qui évite, autant que possible, les produits issus des animaux dans les vêtements, les cosmétiques ou les loisirs.</p>"
+    },
+    {
+      "q": "Comment remplacer les œufs dans un gâteau végétalien ?",
+      "a_html": "<p>Pour un gâteau moelleux, comptez environ 60 g de compote de pomme ou de banane écrasée par œuf. Pour lier une pâte à cookies ou des galettes, utilisez une cuillère à soupe de graines de lin moulues mélangée à trois cuillères à soupe d'eau.</p><p>Le choix dépend du résultat attendu : la banane apporte un goût marqué, la compote reste plus discrète et l'aquafaba convient mieux aux préparations aériennes comme les mousses.</p>"
+    },
+    {
+      "q": "Comment obtenir du goût fromager sans fromage animal ?",
+      "a_html": "<p>La levure maltée est une alliée très simple : elle apporte une note toastée et légèrement fromagée aux pâtes, sauces, purées et gratins. Vous pouvez aussi mixer des noix de cajou avec citron, ail, eau et sel pour réaliser une crème riche.</p><p>Le miso blanc, le tahini, la moutarde et un peu de citron contribuent également à créer des sauces complexes et savoureuses. Goûtez toujours avant de saler, car certains de ces ingrédients sont déjà salés.</p>"
+    },
+    {
+      "q": "Comment cuisiner le tofu pour qu'il ait du goût ?",
+      "a_html": "<p>Le tofu nature gagne à être pressé puis mariné. Mélangez par exemple sauce soja, jus de citron, ail, gingembre, paprika fumé et un peu d'huile, laissez reposer au moins quinze minutes, puis faites dorer à la poêle ou au four.</p><p>Pour une texture plus ferme, congelez le tofu, décongelez-le puis pressez-le avant de le mariner. Le tofu fumé est une alternative rapide, déjà parfumée.</p>"
+    },
+    {
+      "q": "Peut-on manger végétalien avec un petit budget ?",
+      "a_html": "<p>Oui, à condition de faire des légumineuses, céréales, légumes de saison et produits surgelés les bases des repas. Lentilles, pois chiches, haricots secs, flocons d'avoine, riz, pommes de terre et légumes surgelés sont généralement très abordables.</p><p>Les faux fromages, simili-carnés et desserts végétaliens du commerce peuvent être pratiques, mais ils font vite monter l'addition. Gardez-les pour varier ou dépanner plutôt que pour constituer l'essentiel de vos courses.</p>"
+    },
+    {
+      "q": "Faut-il prendre de la vitamine B12 quand on est végétalien ?",
+      "a_html": "<p>Une alimentation végétalienne ne fournit généralement pas assez de vitamine B12 de manière fiable. Une supplémentation est donc habituellement recommandée. Les besoins et les modalités peuvent varier selon l'âge, la situation de santé et les habitudes alimentaires.</p><p>Demandez conseil à un médecin, un pharmacien ou un diététicien qualifié, notamment pour les enfants, les personnes enceintes ou allaitantes et les personnes ayant un problème de santé.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Cuisiner végétalien devient simple dès lors que l'on s'appuie sur quelques piliers : des légumineuses pour la consistance, des céréales et féculents pour l'énergie, des légumes variés, puis des sauces et épices pour la gourmandise. Commencez par végétaliser les plats que vous aimez déjà, sans chercher à tout changer d'un coup.</p><p>Un chili de haricots, un curry de pois chiches ou un cake à la compote sont d'excellentes premières recettes. Faites des essais, notez les associations qui vous plaisent et construisez peu à peu une cuisine végétalienne qui vous ressemble : généreuse, équilibrée et pleine de saveurs.</p>",
+  "__slug": "cuisiner-vegetalien-des-recettes-gourmandes-sans-produits-animaux"
+}

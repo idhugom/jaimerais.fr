@@ -1,0 +1,204 @@
+{
+  "title": "Dons et défiscalisation : comment réduire vos impôts tout en soutenant une cause",
+  "meta_description": "Dons et impôts : organismes éligibles, réduction de 66 % ou 75 %, plafonds, déclaration et conseils pour donner utilement en France.",
+  "reading_time_min": 10,
+  "hero_intro": "Faire un don peut alléger votre impôt sur le revenu, à condition de soutenir un organisme éligible et de respecter les plafonds applicables. Entre la réduction de 66 % et celle de 75 %, les règles peuvent sembler techniques : voici comment donner avec générosité, sans vous tromper dans votre déclaration.",
+  "key_takeaways": [
+    "Un don ouvre droit à une réduction d'impôt, et non à une déduction de votre revenu imposable : le gain vient directement diminuer l'impôt calculé.",
+    "La réduction est généralement de 66 % des sommes versées, dans la limite de 20 % de votre revenu imposable.",
+    "Les dons à certains organismes d'aide aux personnes en difficulté peuvent ouvrir droit à une réduction de 75 %, dans une limite annuelle spécifique.",
+    "Conservez systématiquement le reçu fiscal fourni par l'association : il n'est généralement pas joint à la déclaration, mais peut être demandé en cas de contrôle.",
+    "Donnez d'abord à une cause et à un organisme que vous souhaitez réellement soutenir : l'avantage fiscal réduit le coût du don, il ne doit pas être son unique raison d'être."
+  ],
+  "toc": [
+    "La défiscalisation des dons : ce que vous gagnez réellement",
+    "66 % ou 75 % : comprendre les taux et les plafonds",
+    "Quels organismes et quels dons sont éligibles ?",
+    "Comment déclarer un don étape par étape",
+    "Plafond, report et cas particuliers à connaître",
+    "Bien choisir son association avant de donner"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "La défiscalisation des dons : une réduction d'impôt, pas un remboursement automatique",
+      "html": "<p>En France, les particuliers qui versent de l'argent à certains organismes peuvent bénéficier d'une <strong>réduction d'impôt sur le revenu</strong>. Concrètement, une partie de votre don vient diminuer le montant de l'impôt que vous devez payer. C'est un mécanisme encourageant, mais son fonctionnement mérite d'être bien compris avant de faire vos calculs.</p><p>La nuance essentielle est la suivante : un don ne réduit pas votre revenu imposable. Il réduit directement votre impôt une fois celui-ci calculé. Ainsi, pour un don ouvrant droit au taux habituel de 66 %, 100 € versés peuvent diminuer votre impôt de 66 €. Votre effort financier réel est alors de 34 €, à condition que vous ayez suffisamment d'impôt à réduire et que les plafonds soient respectés.</p><p>Il ne s'agit pas, en règle générale, d'un crédit d'impôt. Si votre impôt sur le revenu est nul ou inférieur au montant de la réduction obtenue, l'excédent ne vous est pas remboursé. En revanche, une partie des dons dépassant le plafond de 20 % du revenu imposable peut, sous conditions, être reportée sur les cinq années suivantes.</p><p>Le principe est donc simple : <strong>vous donnez à une structure éligible, elle vous remet un reçu fiscal, puis vous indiquez le montant versé dans votre déclaration annuelle</strong>. La difficulté consiste surtout à identifier le bon régime de réduction.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Les repères à avoir en tête",
+      "items": [
+        {
+          "value": "66 %",
+          "label": "taux de réduction le plus courant pour les dons aux organismes d'intérêt général éligibles"
+        },
+        {
+          "value": "75 %",
+          "label": "taux applicable aux dons à certains organismes venant en aide aux personnes en difficulté"
+        },
+        {
+          "value": "20 %",
+          "label": "part maximale du revenu imposable retenue en principe pour les dons au taux de 66 %"
+        },
+        {
+          "value": "5 ans",
+          "label": "durée possible de report de la fraction des dons qui dépasse le plafond annuel"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quel avantage fiscal selon le type de don ?",
+      "intro": "Les taux dépendent de la mission de l'organisme, et non simplement du mot « association » figurant dans son nom.",
+      "columns": [
+        "Situation",
+        "Réduction d'impôt",
+        "Plafond et exemple de coût réel"
+      ],
+      "rows": [
+        [
+          "Don à une association ou fondation d'intérêt général éligible",
+          "66 % du montant donné",
+          "En principe, dans la limite de 20 % du revenu imposable. Un don de 100 € revient souvent à 34 € après impôt."
+        ],
+        [
+          "Don à un organisme qui fournit gratuitement repas, soins ou hébergement à des personnes en difficulté",
+          "75 % dans la limite annuelle spécifique en vigueur",
+          "Le plafond renforcé est fixé par la loi et peut évoluer ; au-delà, la fraction excédentaire peut relever du taux de 66 %. Un don de 100 € revient souvent à 25 € après impôt."
+        ],
+        [
+          "Don supérieur au plafond de 20 % du revenu imposable",
+          "Réduction possible ultérieurement",
+          "La fraction non retenue peut généralement être reportée sur les cinq années suivantes."
+        ],
+        [
+          "Don à un parti ou groupement politique",
+          "66 % sous règles propres",
+          "Plafond spécifique, distinct des dons aux associations ; les cotisations et dons politiques obéissent à un régime particulier."
+        ]
+      ],
+      "note": "Les règles et plafonds évoluent parfois d'une année fiscale à l'autre. Vérifiez les montants affichés lors de votre déclaration ou dans la documentation fiscale correspondant à l'année de votre don."
+    },
+    {
+      "type": "comparison",
+      "heading": "Réduction de 66 % ou de 75 % : quelle différence ?",
+      "intro": "Le taux de 75 % est plus avantageux, mais il est réservé à des missions sociales précises. Il ne s'applique pas automatiquement à toutes les associations caritatives.",
+      "left": {
+        "title": "Le régime à 66 % : le cas général",
+        "points": [
+          "Concerne de nombreux organismes d'intérêt général : culture, recherche, environnement, éducation, solidarité, patrimoine ou protection animale.",
+          "S'applique en principe dans la limite globale de 20 % de votre revenu imposable.",
+          "Un versement de 300 € procure généralement une réduction de 198 €, soit un coût net de 102 €.",
+          "Peut aussi concerner les montants versés au-delà du plafond spécifique du régime à 75 %, si les conditions sont réunies."
+        ]
+      },
+      "right": {
+        "title": "Le régime à 75 % : l'aide aux personnes en difficulté",
+        "points": [
+          "Vise les organismes qui fournissent gratuitement repas, soins ou hébergement à des personnes en difficulté.",
+          "S'applique seulement jusqu'à une limite annuelle fixée par la loi, souvent appelée plafond des « dons Coluche ».",
+          "Un versement de 300 € dans cette limite procure généralement une réduction de 225 €, soit un coût net de 75 €.",
+          "Au-delà de la limite spécifique, la réduction peut basculer à 66 % plutôt que disparaître, selon la situation de l'organisme."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Quels organismes et quels versements donnent droit à un avantage fiscal ?",
+      "html": "<p>Pour être éligible, le bénéficiaire doit notamment être un organisme d'<strong>intérêt général</strong> ou d'utilité publique, sans but lucratif et ne fonctionnant pas au profit d'un cercle restreint de personnes. Peuvent être concernés, selon leur objet et leur fonctionnement, des associations, fondations, fonds de dotation, établissements d'enseignement supérieur ou organismes de recherche.</p><p>Ne supposez jamais qu'une structure est éligible parce qu'elle est connue, locale ou déclarée en préfecture. Une association peut exister légalement sans pouvoir délivrer de reçu fiscal. Le moyen le plus sûr est de consulter sa page de dons, de vérifier qu'elle annonce clairement la délivrance d'un <strong>reçu fiscal</strong> et, en cas de doute, de la contacter avant de verser une somme importante.</p><p>Les dons peuvent prendre plusieurs formes : paiement par carte bancaire sur le site de l'organisme, prélèvement, virement, chèque, espèces dans certaines conditions, ou encore don en nature. Les dons en nature et les abandons de frais de bénévoles demandent une vigilance accrue : leur valorisation, leur justificatif et la renonciation expresse au remboursement doivent respecter des règles précises.</p><p>Un achat comportant une contrepartie importante n'est pas un don pur. Par exemple, l'achat d'un billet de spectacle, d'un repas de gala ou d'un objet peut n'ouvrir droit qu'à une réduction calculée sur la part excédant la valeur de l'avantage reçu. L'organisme doit normalement vous l'indiquer sur le reçu.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention : le taux de 75 % n'est pas un taux universel",
+      "html": "<p>La réduction majorée concerne des organismes qui apportent gratuitement une aide matérielle aux personnes en difficulté, notamment sous forme de repas, de soins ou d'hébergement. Une association solidaire, humanitaire ou de santé ne relève pas nécessairement de cette catégorie. Fiez-vous au reçu fiscal et aux informations communiquées par l'organisme, pas à une estimation personnelle.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Comment déclarer vos dons sans erreur",
+      "intro": "La déclaration se fait l'année suivant le paiement. Un don versé en décembre compte donc pour cette année-là, même si vous recevez votre reçu fiscal quelques semaines plus tard.",
+      "steps": [
+        {
+          "title": "1. Vérifiez l'éligibilité avant de payer",
+          "html": "<p>Consultez les informations fiscales de l'organisme et assurez-vous qu'il peut émettre un reçu fiscal pour les particuliers. Pour un don conséquent, demandez une confirmation écrite si la situation n'est pas claire.</p>"
+        },
+        {
+          "title": "2. Payez par un moyen traçable",
+          "html": "<p>Le paiement en ligne, le chèque, le prélèvement ou le virement facilitent la preuve du versement. Notez la date, le montant et le bénéficiaire, surtout si vous effectuez plusieurs dons dans l'année.</p>"
+        },
+        {
+          "title": "3. Récupérez et classez le reçu fiscal",
+          "html": "<p>Le reçu précise généralement l'identité de l'organisme, votre identité, la date, le montant et la nature du don. Conservez-le avec vos documents fiscaux, même lorsqu'il n'est pas demandé au moment de valider la déclaration.</p>"
+        },
+        {
+          "title": "4. Reportez le montant dans la bonne rubrique",
+          "html": "<p>Lors de la déclaration de revenus en ligne ou sur papier, indiquez les sommes versées dans les cases dédiées aux dons. Les libellés et numéros de cases peuvent changer : suivez les intitulés correspondant aux dons à des organismes d'intérêt général et, le cas échéant, aux organismes d'aide aux personnes en difficulté.</p>"
+        },
+        {
+          "title": "5. Contrôlez votre avis d'impôt",
+          "html": "<p>Après traitement de la déclaration, vérifiez que la réduction apparaît bien sur votre avis. Si vous avez donné à plusieurs organismes, conservez un récapitulatif annuel : il permet de retrouver rapidement l'origine d'un montant en cas de question.</p>"
+        }
+      ]
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs qui font perdre tout ou partie de l'avantage",
+      "points": [
+        "Confondre réduction d'impôt et crédit d'impôt, puis s'attendre à un remboursement lorsque l'impôt dû est nul.",
+        "Déclarer un montant incluant la valeur d'une contrepartie reçue, comme un repas, un produit ou une place de spectacle.",
+        "Additionner sans distinction des dons relevant du taux de 75 % et ceux relevant du taux de 66 %.",
+        "Oublier qu'un reçu fiscal doit être conservé : une copie de relevé bancaire ne remplace pas toujours le justificatif de l'organisme.",
+        "Donner à la hâte via une collecte ambiguë, sans vérifier l'identité de l'organisme bénéficiaire et l'usage prévu des fonds."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Plafonds, report et situations particulières : ce qu'il faut anticiper",
+      "html": "<p>Pour les dons ouvrant droit au taux habituel de 66 %, la limite est en principe fixée à <strong>20 % de votre revenu imposable</strong>. Ce plafond paraît élevé dans la plupart des situations, mais il peut être atteint si vous effectuez un don exceptionnel. La bonne nouvelle est que la fraction excédentaire ne se perd pas forcément : elle peut généralement être reportée et ouvrir droit à une réduction au cours des cinq années suivantes, dans les limites applicables à chacune de ces années.</p><p>Le plafond du régime à 75 % est différent et évolue au gré des lois de finances. Il a été temporairement relevé ces dernières années : ne reprenez donc pas automatiquement un montant lu dans un ancien article ou sur un reçu datant de plusieurs années. Au-delà de ce plafond, les sommes versées peuvent souvent être traitées au taux de 66 % lorsqu'elles répondent aux conditions du régime général.</p><p>Les dons effectués par une entreprise, les dons politiques, les cotisations syndicales et les versements liés à l'impôt sur la fortune immobilière (IFI) obéissent à des règles distinctes. Par exemple, l'IFI prévoit un mécanisme de réduction propre, réservé à certains organismes et plafonné. Il ne faut pas mélanger ces dispositifs avec la déclaration ordinaire des dons des particuliers.</p><p>Enfin, si vous êtes imposé à la source, cela ne change pas votre droit à réduction. Vos dons sont déclarés au printemps, puis pris en compte dans le calcul de votre impôt. Un acompte de réduction peut être versé en début d'année aux foyers ayant déjà déclaré des dons, avant régularisation après la déclaration annuelle.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un réflexe simple pour piloter votre budget de dons",
+      "html": "<p>Définissez un montant annuel que vous êtes heureux de consacrer à une ou deux causes. Si vous savez qu'un don de 100 € au taux de 66 % vous coûte environ 34 € après impôt, vous pouvez raisonner en budget net sans transformer la générosité en simple calcul fiscal. Programmez ensuite un prélèvement mensuel ou effectuez un versement ponctuel avant la fin de l'année civile.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Bien choisir son association avant de donner",
+      "html": "<p>La fiscalité ne dit rien, à elle seule, de la qualité d'une organisation. Avant de faire un don, prenez quelques minutes pour examiner la mission, les actions concrètes, les comptes publiés lorsqu'ils sont disponibles et la manière dont l'organisme explique l'emploi des fonds. Une communication claire sur les projets, la gouvernance et les frais de fonctionnement est généralement un bon signal.</p><p>Posez-vous aussi une question personnelle : <em>quelle cause ai-je réellement envie de faire avancer ?</em> Aide alimentaire, recherche médicale, protection de l'enfance, culture, environnement, défense des droits, patrimoine ou protection animale : la meilleure stratégie consiste souvent à concentrer vos dons sur les sujets qui vous importent, plutôt que de multiplier de petits versements peu suivis.</p><p>Pour les collectes en ligne, vérifiez l'identité exacte du porteur de projet, l'adresse du site et la destination des fonds. Méfiez-vous des sollicitations urgentes reçues par message, surtout lorsqu'elles demandent un paiement inhabituel. Un don utile est un don réfléchi, traçable et réalisé auprès d'un acteur que vous avez choisi en confiance.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "Un avantage fiscal peut rendre un don plus accessible ; son premier effet reste de donner à une cause les moyens d'agir.",
+      "author": ""
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel est le montant maximum déductible pour un don à une association ?",
+      "a_html": "<p>Pour les dons des particuliers, on parle plus exactement de <strong>réduction d'impôt</strong>. Le régime général à 66 % s'applique en principe dans la limite de 20 % de votre revenu imposable. Si vos dons dépassent ce seuil, la fraction excédentaire peut généralement être reportée sur les cinq années suivantes.</p><p>Les dons ouvrant droit au taux de 75 % relèvent d'un plafond annuel spécifique, susceptible d'évoluer. Vérifiez le montant applicable à l'année de votre versement sur votre espace déclaratif ou auprès de l'organisme bénéficiaire.</p>"
+    },
+    {
+      "q": "Peut-on obtenir une réduction d'impôt sans reçu fiscal ?",
+      "a_html": "<p>Il est vivement déconseillé de déclarer un don sans reçu fiscal. L'administration peut vous demander de justifier le versement et son éligibilité. Le reçu émis par l'organisme est le document de référence : conservez-le, avec la preuve de paiement, pendant le délai de conservation des pièces fiscales.</p>"
+    },
+    {
+      "q": "Si je ne paie pas d'impôt sur le revenu, mon don est-il remboursé ?",
+      "a_html": "<p>Non, dans le régime habituel des dons, la réduction d'impôt ne donne pas lieu à remboursement si votre impôt est nul. Elle peut seulement réduire un impôt effectivement dû. Cela ne retire pas son utilité au don, mais il faut intégrer ce point dans votre budget.</p>"
+    },
+    {
+      "q": "Les dons mensuels sont-ils défiscalisables ?",
+      "a_html": "<p>Oui, un prélèvement mensuel à un organisme éligible est traité comme une série de dons. Le total des sommes effectivement prélevées entre le 1er janvier et le 31 décembre est repris sur le reçu fiscal annuel, puis déclaré l'année suivante.</p>"
+    },
+    {
+      "q": "Un don en espèces peut-il être déclaré aux impôts ?",
+      "a_html": "<p>Il peut être éligible si l'organisme accepte ce mode de versement et délivre un reçu fiscal conforme. En pratique, un moyen de paiement traçable est plus simple et plus sécurisant. N'inscrivez jamais un montant en espèces que vous ne pouvez pas justifier par un reçu de l'organisme.</p>"
+    },
+    {
+      "q": "Puis-je déduire le don d'un achat solidaire ou d'une tombola ?",
+      "a_html": "<p>Pas nécessairement. Lorsqu'un paiement donne droit à une contrepartie significative, seule la fraction qui dépasse la valeur de cette contrepartie peut éventuellement être considérée comme un don. L'organisme doit préciser la part ouvrant droit à réduction sur le justificatif remis.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Faire un don défiscalisé permet d'associer un geste utile à un avantage concret : <strong>66 % dans le cas général, 75 % pour certaines structures d'aide aux personnes en difficulté</strong>. Pour en profiter sereinement, vérifiez l'éligibilité de l'organisme, gardez votre reçu fiscal et déclarez le bon montant dans la rubrique adaptée.</p><p>Mais le meilleur repère reste votre intention : choisissez une cause qui compte pour vous, fixez un budget réaliste et donnez à une organisation transparente. Votre contribution aura alors du sens, bien au-delà de votre avis d'impôt.</p>",
+  "__slug": "les-dons-parfaits-pour-defiscaliser"
+}

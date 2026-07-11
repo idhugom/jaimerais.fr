@@ -1,0 +1,244 @@
+{
+  "title": "Semaines de grossesse : calculer vos SA et SG sans vous tromper",
+  "meta_description": "Calculez vos semaines de grossesse en SA et SG, estimez votre date de terme et repérez les rendez-vous clés, simplement et sereinement au quotidien.",
+  "reading_time_min": 10,
+  "hero_intro": "Entre les semaines d'aménorrhée, les semaines de grossesse, la date des dernières règles et le terme, il est facile de se sentir perdue. Pourtant, ces repères ne demandent pas de calcul compliqué : une fois la bonne convention comprise, vous pouvez situer votre grossesse, préparer les échéances importantes et mieux échanger avec votre sage-femme ou votre médecin.",
+  "key_takeaways": [
+    "Les professionnels suivent le plus souvent la grossesse en semaines d'aménorrhée (SA), comptées depuis le premier jour des dernières règles.",
+    "Les semaines de grossesse (SG) partent de la conception présumée : en cycle régulier, il y a environ 2 semaines d'écart avec les SA.",
+    "Une grossesse dure en moyenne environ 40 SA depuis les dernières règles, mais la date de terme reste une estimation et les conventions peuvent varier selon les dossiers.",
+    "L'échographie du premier trimestre est souvent le repère le plus fiable pour dater une grossesse si les cycles sont irréguliers ou si la date des règles est incertaine.",
+    "Les calculs servent à organiser le suivi ; ils ne remplacent jamais l'avis d'un professionnel en cas de douleur, saignement ou inquiétude."
+  ],
+  "toc": [
+    "SA et SG : comprendre les deux façons de compter",
+    "Calculer son avancement de grossesse pas à pas",
+    "Estimer la date de terme sans la prendre pour une échéance fixe",
+    "Utiliser les semaines pour suivre les rendez-vous importants",
+    "Cas particuliers : cycles irréguliers, FIV et date incertaine",
+    "Éviter les erreurs de calcul les plus fréquentes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "SA et SG : deux compteurs pour une même grossesse",
+      "html": "<p>La première source de confusion vient du vocabulaire. Une grossesse peut être exprimée en <strong>semaines d'aménorrhée (SA)</strong> ou en <strong>semaines de grossesse (SG)</strong>. Elles désignent le même parcours, mais leur point de départ n'est pas le même.</p><p>Les SA commencent le <strong>premier jour des dernières règles</strong>, même si vous n'étiez pas encore enceinte ce jour-là. C'est la convention médicalement la plus courante, car cette date est souvent plus facile à identifier que le jour exact de l'ovulation. Les SG commencent, elles, au moment présumé de la fécondation, généralement proche de l'ovulation.</p><p>Avec un cycle régulier d'environ 28 jours, l'ovulation survient souvent autour du 14e jour : on retient alors un écart d'environ <strong>2 semaines</strong> entre SA et SG. Ainsi, 10 SA correspondent approximativement à 8 SG. Le mot important est « approximativement » : l'ovulation ne tombe pas systématiquement au 14e jour.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Les repères à garder en tête",
+      "items": [
+        {
+          "value": "1 semaine",
+          "label": "= 7 jours, quelle que soit la façon de compter"
+        },
+        {
+          "value": "SA − 2",
+          "label": "= estimation des SG pour un cycle de 28 jours"
+        },
+        {
+          "value": "≈ 40 SA",
+          "label": "durée moyenne calculée depuis les dernières règles"
+        },
+        {
+          "value": "≈ 38 SG",
+          "label": "durée moyenne estimée depuis la conception"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Tableau de conversion entre SA et SG",
+      "intro": "Ce tableau donne des équivalences pratiques lorsque l'ovulation a eu lieu autour du 14e jour du cycle. Il s'agit d'un repère, non d'une mesure personnalisée.",
+      "columns": [
+        "Semaines d'aménorrhée (SA)",
+        "Semaines de grossesse (SG) estimées",
+        "Ce que cela signifie"
+      ],
+      "rows": [
+        [
+          "4 SA",
+          "Environ 2 SG",
+          "La conception peut être toute récente ; un test peut devenir positif."
+        ],
+        [
+          "6 SA",
+          "Environ 4 SG",
+          "Les premiers signes peuvent apparaître, mais leur absence est fréquente."
+        ],
+        [
+          "12 SA",
+          "Environ 10 SG",
+          "La première échographie de dépistage approche ou a lieu selon le calendrier retenu."
+        ],
+        [
+          "22 SA",
+          "Environ 20 SG",
+          "C'est un repère fréquent pour l'échographie morphologique."
+        ],
+        [
+          "32 SA",
+          "Environ 30 SG",
+          "Le suivi du troisième trimestre s'intensifie progressivement."
+        ],
+        [
+          "40 SA",
+          "Environ 38 SG",
+          "On se situe autour du terme estimé dans la convention la plus répandue."
+        ]
+      ],
+      "note": "Si votre professionnel vous a communiqué un terme ou un âge gestationnel de référence, utilisez prioritairement celui-ci pour vos rendez-vous et vos démarches."
+    },
+    {
+      "type": "steps",
+      "heading": "Calculer vos semaines de grossesse : la méthode simple",
+      "intro": "Vous pouvez situer votre grossesse à partir de la date des dernières règles (DDR). Cette méthode est utile pour se repérer en attendant la datation confirmée lors du suivi médical.",
+      "steps": [
+        {
+          "title": "Notez le premier jour de vos dernières règles",
+          "html": "<p>Il ne s'agit pas du dernier jour des saignements, mais du <strong>premier jour</strong> du dernier cycle menstruel habituel avant la grossesse. Inscrivez la date dans votre agenda ou votre application de suivi.</p>"
+        },
+        {
+          "title": "Comptez les jours écoulés jusqu'à la date du jour",
+          "html": "<p>Divisez ce nombre par 7. Le nombre entier correspond aux semaines d'aménorrhée révolues ; les jours restants complètent le résultat. Par exemple, 9 semaines et 3 jours après la DDR s'écrivent <strong>9 SA + 3 jours</strong>.</p>"
+        },
+        {
+          "title": "Estimez les semaines de grossesse si cela vous aide",
+          "html": "<p>Pour un cycle de 28 jours, retirez environ 2 semaines au résultat en SA. À 9 SA + 3 jours, vous êtes donc autour de 7 SG + 3 jours. Ne forcez pas ce calcul si vos cycles étaient longs, courts ou irréguliers.</p>"
+        },
+        {
+          "title": "Faites confirmer le repère médical",
+          "html": "<p>L'échographie de début de grossesse, associée à vos informations de cycle, permet au professionnel de retenir une datation. C'est cette référence qui prévaut ensuite sur les calculs faits à la maison.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Date des dernières règles ou échographie : quel repère privilégier ?",
+      "intro": "Les deux informations sont utiles, mais elles n'ont pas la même fiabilité dans toutes les situations.",
+      "left": {
+        "title": "Calcul à partir des dernières règles",
+        "points": [
+          "Très pratique dès le test de grossesse positif.",
+          "Assez fiable si les cycles sont réguliers et si la DDR est certaine.",
+          "Peut décaler l'estimation si l'ovulation a été plus tôt ou plus tard que prévu.",
+          "Donne un bon point de départ, pas une certitude absolue."
+        ]
+      },
+      "right": {
+        "title": "Datation par échographie précoce",
+        "points": [
+          "S'appuie sur des mesures du développement embryonnaire ou fœtal.",
+          "Particulièrement utile si les règles sont irrégulières, absentes ou mal connues.",
+          "Permet au soignant de fixer un âge gestationnel de référence.",
+          "Ne doit pas être interprétée seule : le compte rendu et le contexte médical comptent."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Date de terme : une estimation utile, pas une date butoir",
+      "html": "<p>La <strong>date prévue d'accouchement</strong> est calculée à partir de la DDR, de la date présumée de conception ou de l'échographie. Dans la convention internationale courante, on ajoute environ 280 jours, soit 40 SA, au premier jour des dernières règles pour un cycle de 28 jours. Une règle mnémotechnique souvent citée consiste à ajouter 7 jours à la DDR et à retirer 3 mois, mais elle reste théorique.</p><p>Selon le pays, le logiciel médical et la convention utilisée, vous pouvez voir une date de terme exprimée autour de 40 ou de 41 SA. Cela ne signifie pas que votre grossesse a soudainement gagné une semaine : les méthodes de référence ne sont pas toujours formulées de la même façon. Retenez surtout la date inscrite par l'équipe qui vous suit.</p><p>Très peu de bébés naissent exactement le jour prévu. Le terme sert principalement à organiser la surveillance et à apprécier si une naissance est prématurée, à terme ou au-delà du terme. Votre professionnel adapte les décisions à votre situation, à votre santé et à celle du bébé, et non à un simple calcul de calendrier.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Ne confondez pas DPA et DPO",
+      "html": "<p>La <strong>DPA</strong> est la date prévue d'accouchement. Le sigle <strong>DPO</strong>, fréquent dans les échanges sur la fertilité, signifie généralement « jours post-ovulation ». Il ne désigne pas une date d'accouchement. Ces deux abréviations renvoient donc à des repères très différents.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "À quoi servent concrètement les semaines de grossesse ?",
+      "html": "<p>Connaître votre nombre de SA permet d'abord de placer les examens au bon moment. Certains dépistages n'ont de sens que dans une fenêtre précise, car le développement du bébé évolue rapidement. Les semaines servent aussi à interpréter les symptômes, la croissance observée à l'échographie et les éventuelles recommandations de l'équipe médicale.</p><p>En France, le calendrier comprend généralement une première consultation prénatale au début de la grossesse, puis des rendez-vous réguliers. Les trois échographies dites de référence sont souvent proposées autour du premier trimestre, vers 22 SA et vers 32 SA, avec des fenêtres précises qui peuvent varier selon votre dossier. Les examens supplémentaires ne sont pas systématiques : ils répondent à une indication médicale.</p><p>Pour vous, ce repère facilite également les démarches : déclaration de grossesse, inscription à la maternité, préparation du congé, organisation de l'aide à domicile ou de la garde des aînés. Gardez une seule référence dans votre agenda, idéalement celle communiquée lors du suivi, afin d'éviter les décalages entre applications.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Repères de suivi : que regarder selon l'avancement ?",
+      "intro": "Les périodes ci-dessous sont indicatives. Votre maternité, votre pays et votre situation médicale peuvent modifier le calendrier.",
+      "columns": [
+        "Période approximative",
+        "Repères possibles",
+        "Votre bon réflexe"
+      ],
+      "rows": [
+        [
+          "Début de grossesse",
+          "Confirmation de grossesse, première consultation, bilan et déclaration selon le calendrier applicable.",
+          "Communiquez la DDR, la durée habituelle de vos cycles et tout antécédent important."
+        ],
+        [
+          "Autour de 11 à 14 SA",
+          "Échographie du premier trimestre et dépistages proposés dans une période encadrée.",
+          "Vérifiez la date retenue par le praticien plutôt que celle d'une application."
+        ],
+        [
+          "Autour de 22 SA",
+          "Échographie morphologique souvent programmée à cette période.",
+          "Notez vos questions à l'avance et apportez vos comptes rendus précédents."
+        ],
+        [
+          "Troisième trimestre, souvent autour de 32 SA",
+          "Échographie de croissance ou de bien-être selon le suivi, préparation à la naissance.",
+          "Anticipez les rendez-vous et renseignez-vous sur les signes qui justifient d'appeler la maternité."
+        ],
+        [
+          "Autour du terme",
+          "Surveillance adaptée si la grossesse se prolonge.",
+          "Suivez les consignes personnalisées de la maternité, sans attendre en cas de doute."
+        ]
+      ],
+      "note": "Les dates exactes et les examens proposés relèvent de votre professionnel de santé. Ne reportez jamais un examen programmé en vous basant uniquement sur un calcul personnel."
+    },
+    {
+      "type": "prose",
+      "heading": "Cycles irréguliers, FIV, arrêt de contraception : les cas où le calcul change",
+      "html": "<p>Si vos cycles étaient irréguliers, si vous avez arrêté une contraception hormonale récemment ou si vous ne connaissez pas votre DDR, le calcul « SA moins 2 » peut être très imprécis. Une ovulation tardive est fréquente et ne traduit pas nécessairement un problème. Dans ce cas, évitez de comparer votre situation à celle d'une amie ou à une application fondée sur un cycle de 28 jours.</p><p>Après une <strong>FIV</strong>, l'équipe de fertilité dispose de la date de ponction, de fécondation ou de transfert et de l'âge de l'embryon. Elle convertit ces données dans le format de suivi obstétrical utilisé par votre dossier. Ne tentez pas d'appliquer seule une règle de calcul générale : demandez la date de référence et le nombre de SA à retenir.</p><p>Une grossesse survenant pendant l'allaitement ou sans retour de règles se date aussi autrement. Le dosage hormonal peut confirmer la grossesse, mais ne date pas précisément à lui seul ; l'échographie précoce joue alors un rôle déterminant. L'essentiel est d'obtenir rapidement un rendez-vous de suivi, sans culpabiliser de ne pas pouvoir fournir une date exacte.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs les plus fréquentes à éviter",
+      "points": [
+        "Compter depuis le rapport sexuel : la fécondation peut avoir lieu plusieurs jours après, car les spermatozoïdes peuvent survivre dans les voies génitales.",
+        "Utiliser le dernier jour des règles au lieu du premier jour pour calculer les SA.",
+        "Supposer que l'ovulation a forcément eu lieu au 14e jour, même avec des cycles de 32, 40 ou 24 jours.",
+        "Comparer deux applications qui n'emploient pas la même convention de terme.",
+        "Modifier la date de référence après une échographie sans en parler à la sage-femme ou au médecin.",
+        "Attendre le prochain rendez-vous en cas de symptôme inquiétant sous prétexte que « ce n'est pas encore la bonne semaine »."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les semaines ne remplacent pas une évaluation médicale",
+      "html": "<p>Des saignements, une douleur abdominale importante ou inhabituelle, de la fièvre, une perte de liquide, des contractions régulières avant terme ou une diminution des mouvements du bébé plus tard dans la grossesse justifient de contacter sans tarder votre maternité, votre sage-femme, votre médecin ou les urgences. Ne vous fiez pas à un calcul en ligne pour décider d'attendre.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment savoir de combien de semaines je suis enceinte ?",
+      "a_html": "<p>Partez du premier jour de vos dernières règles : le temps écoulé correspond à votre nombre de semaines d'aménorrhée, ou SA. Si vos cycles étaient réguliers autour de 28 jours, retirez approximativement 2 semaines pour obtenir les semaines de grossesse, ou SG.</p><p>Pour une réponse fiable, retenez ensuite la datation validée lors du suivi médical, notamment par l'échographie de début de grossesse.</p>"
+    },
+    {
+      "q": "Pourquoi mon application indique-t-elle 8 semaines alors que le médecin parle de 10 SA ?",
+      "a_html": "<p>Votre application compte probablement en semaines de grossesse depuis la conception, tandis que le médecin parle en semaines d'aménorrhée depuis les dernières règles. Avec une ovulation autour du 14e jour, il existe environ 2 semaines d'écart entre les deux compteurs.</p><p>Regardez dans les réglages de l'application si elle affiche les SA ou les SG, puis alignez-la sur la référence de votre dossier médical.</p>"
+    },
+    {
+      "q": "Une grossesse dure-t-elle 40 ou 41 semaines d'aménorrhée ?",
+      "a_html": "<p>On cite souvent 40 SA, soit environ 280 jours depuis les dernières règles, comme durée moyenne de référence. Certains suivis français peuvent toutefois afficher un terme autour de 41 SA selon la convention de calcul utilisée et la date de conception retenue.</p><p>Cette différence de présentation ne permet pas, à elle seule, de conclure qu'une grossesse est prolongée. Suivez la date et les consignes de la maternité qui vous accompagne.</p>"
+    },
+    {
+      "q": "L'échographie peut-elle changer ma date de terme ?",
+      "a_html": "<p>Oui. Si la date des dernières règles est incertaine, si les cycles sont irréguliers ou si les mesures précoces montrent un décalage cohérent, le professionnel peut retenir une autre date de référence. L'échographie du premier trimestre est particulièrement utile pour cette datation.</p><p>Une fois la date fixée, elle sert généralement de base aux examens et au suivi. Ne la modifiez pas vous-même dans vos démarches administratives.</p>"
+    },
+    {
+      "q": "Comment calculer mes semaines de grossesse après une FIV ?",
+      "a_html": "<p>Après une FIV, la date de transfert et l'âge de l'embryon permettent une datation précise. Toutefois, les professionnels convertissent ensuite ce résultat en SA afin d'utiliser le même calendrier obstétrical que pour les autres grossesses.</p><p>Demandez à votre centre ou à votre sage-femme le nombre de SA et la date de terme officiels à reporter dans votre agenda. C'est plus sûr que de convertir seule les jours après transfert.</p>"
+    },
+    {
+      "q": "Est-ce grave si la taille du bébé ne correspond pas à la semaine calculée ?",
+      "a_html": "<p>Une mesure isolée ne suffit pas à tirer une conclusion. L'âge gestationnel, la qualité de la datation initiale, la marge normale de variation des mesures et l'évolution entre plusieurs examens sont pris en compte par le professionnel.</p><p>Si un compte rendu vous inquiète, demandez une explication au praticien qui connaît votre dossier plutôt que de comparer des valeurs trouvées en ligne.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Comprendre les semaines de grossesse, c'est avant tout adopter le bon langage : les <strong>SA</strong> pour le suivi médical, les <strong>SG</strong> pour situer approximativement le temps depuis la conception. Commencez avec votre date de dernières règles, mais faites confiance à la datation retenue par votre sage-femme ou votre médecin, surtout si vos cycles sont atypiques.</p><p>Notez ce repère unique dans votre agenda, préparez vos rendez-vous au fil des trimestres et laissez la date de terme jouer son vrai rôle : vous guider, sans vous mettre la pression. Votre suivi est là pour personnaliser ces calculs à votre histoire et à votre grossesse.</p>",
+  "__slug": "comprendre-les-calculs-de-semaines-de-grossesse"
+}

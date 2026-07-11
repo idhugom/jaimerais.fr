@@ -1,0 +1,237 @@
+{
+  "title": "Comment remplir sa déclaration d'impôts : le guide pas à pas",
+  "meta_description": "Déclaration de revenus : préparez vos justificatifs, vérifiez le prérempli et déclarez sans erreur, en ligne ou sur papier, en toute sérénité.",
+  "reading_time_min": 10,
+  "hero_intro": "Remplir sa déclaration de revenus n'est pas réservé aux experts-comptables. Avec les bons documents, une lecture attentive des montants préremplis et quelques choix fiscaux bien compris, cette démarche annuelle devient beaucoup plus simple. Voici une méthode concrète pour déclarer vos revenus en France sans oublier ce qui compte.",
+  "key_takeaways": [
+    "La déclaration déposée au printemps porte sur les revenus et dépenses de l'année précédente : commencez par réunir vos justificatifs.",
+    "Les données préremplies sont pratiques, mais elles ne vous dispensent jamais de les contrôler ni de compléter les revenus ou charges absents.",
+    "Comparez les frais réels avec l'abattement forfaitaire de 10 % avant de modifier votre déclaration : le choix n'est utile que s'il vous avantage.",
+    "Déductions, réductions et crédits d'impôt n'ont pas le même effet sur votre impôt : vérifiez les conditions, plafonds et justificatifs.",
+    "Validez uniquement après une dernière relecture de votre foyer, de vos coordonnées bancaires et des formulaires annexes éventuels."
+  ],
+  "toc": [
+    "Préparer sa déclaration de revenus",
+    "Déclaration en ligne ou papier : quelle solution ?",
+    "Remplir la déclaration étape par étape",
+    "Choisir les déductions, réductions et crédits d'impôt",
+    "Déclarer les revenus moins courants et les annexes",
+    "Vérifier, signer, corriger et respecter les délais",
+    "Questions fréquentes sur la déclaration d'impôts"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Préparer sa déclaration de revenus avant d'ouvrir le formulaire",
+      "html": "<p>La campagne déclarative se déroule chaque printemps et concerne, en règle générale, les revenus encaissés l'année civile précédente. Avant toute saisie, identifiez votre <strong>foyer fiscal</strong> : situation familiale au 31 décembre de l'année déclarée, personnes à charge, changement d'adresse, naissance, mariage, Pacs, divorce ou séparation. Ces éléments peuvent modifier le nombre de parts et les rubriques à compléter.</p><p>Connectez-vous à votre espace particulier sur <a href=\"https://www.impots.gouv.fr/\">impots.gouv.fr</a> avec votre numéro fiscal. Si vous déclarez pour la première fois, les modalités d'accès ou d'envoi peuvent être différentes : ne vous y prenez pas à la dernière minute. Le parcours en ligne affiche les rubriques correspondant à votre profil, mais il est utile de savoir ce que vous cherchez avant de commencer.</p><p>Créez un dossier, papier ou numérique, intitulé avec l'année des revenus. Vous éviterez ainsi de confondre une facture payée cette année avec une dépense ouvrant droit à un avantage fiscal au titre de l'année précédente. Gardez les documents : ils ne sont généralement pas joints à la déclaration, mais l'administration peut vous les demander ultérieurement.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les documents à réunir",
+      "points": [
+        "Vos derniers avis d'impôt et votre relevé d'identité bancaire, surtout si votre situation ou votre compte a changé.",
+        "Bulletins de salaire de décembre, attestations France Travail, relevés de retraite et justificatifs d'indemnités imposables.",
+        "Relevés fiscaux de votre banque ou courtier, documents liés à une activité indépendante, à une location ou à une vente de titres.",
+        "Attestations annuelles de garde d'enfants, emploi à domicile, cotisations retraite, pensions alimentaires, dons et frais de scolarité le cas échéant.",
+        "Factures et preuves de paiement des dépenses que vous déclarez : elles doivent être datées de l'année concernée et respecter les conditions du dispositif."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Votre checklist selon votre situation",
+      "intro": "Voici les pièces les plus fréquentes et le point à contrôler avant de valider.",
+      "columns": [
+        "Votre situation",
+        "Document utile",
+        "Ce qu'il faut vérifier"
+      ],
+      "rows": [
+        [
+          "Salarié ou retraité",
+          "Bulletin de salaire de décembre, relevé de pension",
+          "Le montant prérempli et le nombre de déclarants concernés."
+        ],
+        [
+          "Épargnant ou investisseur",
+          "Imprimé fiscal unique (IFU), relevé de courtier",
+          "Les revenus de capitaux, les plus-values et les éventuels comptes à l'étranger."
+        ],
+        [
+          "Propriétaire bailleur",
+          "Relevé de loyers, charges, intérêts d'emprunt",
+          "Le régime applicable et la cohérence entre loyers encaissés et charges déduites."
+        ],
+        [
+          "Parent",
+          "Attestation de garde, certificat de scolarité si nécessaire",
+          "L'âge de l'enfant, la résidence alternée éventuelle et les montants réellement payés."
+        ],
+        [
+          "Employeur à domicile ou donateur",
+          "Attestation de l'organisme, factures ou reçus fiscaux",
+          "Le bénéficiaire éligible, le paiement effectif et les plafonds applicables."
+        ]
+      ],
+      "note": "Ne transmettez des justificatifs que s'ils sont demandés. En revanche, conservez-les de façon organisée."
+    },
+    {
+      "type": "comparison",
+      "heading": "Déclaration en ligne ou déclaration papier : que choisir ?",
+      "intro": "La télédéclaration est la norme pour les personnes disposant d'un accès à internet et capables d'utiliser le service. Le papier reste possible dans certaines situations, notamment en cas d'impossibilité d'utiliser internet ou lors de démarches particulières.",
+      "left": {
+        "title": "Déclarer en ligne",
+        "points": [
+          "Montants souvent préremplis à contrôler.",
+          "Calcul indicatif de l'impôt avant la signature.",
+          "Aide contextuelle, sauvegarde et accusé de réception immédiat.",
+          "Ajout plus simple des déclarations annexes et des rubriques adaptées à votre profil."
+        ]
+      },
+      "right": {
+        "title": "Déclarer sur papier",
+        "points": [
+          "Peut convenir en cas d'absence d'accès ou de maîtrise du numérique.",
+          "Demande davantage de vigilance sur les calculs et les formulaires à joindre.",
+          "Doit respecter la date limite propre au format papier.",
+          "Envoi recommandé ou preuve de dépôt utile en cas de doute."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Remplir sa déclaration d'impôts en ligne : la méthode pas à pas",
+      "intro": "Comptez environ trente minutes pour une situation simple, davantage si vous avez des revenus fonciers, indépendants ou étrangers. Vous pouvez enregistrer et reprendre votre déclaration tant qu'elle n'est pas signée.",
+      "steps": [
+        {
+          "title": "1. Vérifiez votre état civil et votre foyer fiscal",
+          "html": "<p>Contrôlez adresse, situation familiale, enfants à charge, garde alternée et coordonnées bancaires. Signalez les événements intervenus durant l'année concernée. Une case mal renseignée à cette étape peut avoir des conséquences plus importantes qu'un simple montant oublié.</p>"
+        },
+        {
+          "title": "2. Relisez chaque revenu prérempli",
+          "html": "<p>Salaires, pensions, allocations imposables et revenus financiers français peuvent déjà apparaître. Comparez-les avec vos documents. Le préremplissage repose sur des informations transmises par des tiers : il facilite la démarche, mais <strong>la responsabilité de la déclaration reste celle du contribuable</strong>.</p>"
+        },
+        {
+          "title": "3. Ajoutez les revenus absents",
+          "html": "<p>Déclarez les revenus qui ne figurent pas automatiquement : location, activité indépendante, certains revenus étrangers, cessions de valeurs mobilières ou revenus perçus via des plateformes, selon leur nature. Activez les rubriques ou annexes proposées par le parcours si nécessaire.</p>"
+        },
+        {
+          "title": "4. Renseignez charges et avantages fiscaux",
+          "html": "<p>Indiquez uniquement les dépenses réellement supportées, éligibles et justifiables. Prenez le temps de comparer les options, notamment pour les frais professionnels. Les écrans d'aide du site précisent généralement les conditions et plafonds de chaque ligne.</p>"
+        },
+        {
+          "title": "5. Lisez le récapitulatif et l'estimation",
+          "html": "<p>Avant la signature, le service affiche une synthèse et souvent une estimation. Ce montant est indicatif : l'avis d'impôt définitif sera établi après traitement de votre déclaration. Relisez le détail, pas seulement le total annoncé.</p>"
+        },
+        {
+          "title": "6. Signez et archivez le reçu",
+          "html": "<p>Validez la déclaration puis téléchargez ou conservez l'accusé de réception. Archivez également le récapitulatif et les justificatifs dans votre dossier fiscal : vous y gagnerez du temps l'année suivante.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Prérempli ne veut pas dire exact ni complet",
+      "html": "<p>Ne modifiez pas un montant prérempli sans raison, mais ne le validez pas machinalement non plus. Une prime, un changement d'employeur, une retraite commencée en cours d'année, un compte-titres ou un revenu étranger peuvent nécessiter une vérification attentive. En cas d'écart, appuyez-vous d'abord sur le justificatif émis par l'organisme payeur.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Déductions, réductions, crédits d'impôt : faire les bons choix",
+      "html": "<p>Ces trois mécanismes ne se confondent pas. Une <strong>déduction</strong> diminue le revenu imposable avant le calcul de l'impôt. Une <strong>réduction d'impôt</strong> diminue l'impôt calculé, dans les limites prévues, sans forcément donner lieu à remboursement si elle dépasse l'impôt dû. Un <strong>crédit d'impôt</strong> s'impute lui aussi sur l'impôt et peut, selon son régime, entraîner une restitution lorsqu'il excède l'impôt à payer.</p><p>Pour les salariés, l'administration applique en principe une déduction forfaitaire de 10 % au titre des frais professionnels. Vous pouvez opter pour les frais réels seulement s'ils sont plus élevés et si vous pouvez les détailler et les prouver : trajets domicile-travail, repas dans certaines conditions, matériel professionnel non remboursé ou frais de double résidence peuvent être concernés. Cette option mérite un calcul, pas une intuition.</p><p>Les versements sur un plan d'épargne retraite, certaines pensions alimentaires, les dons, l'emploi d'un salarié à domicile ou les frais de garde de jeunes enfants figurent parmi les sujets fréquemment recherchés. Mais les règles varient selon votre situation, les plafonds et l'année. Consultez toujours la notice de la rubrique avant de reporter un montant.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Comprendre l'effet des principaux avantages fiscaux",
+      "intro": "Ce tableau donne des repères : il ne remplace pas les conditions détaillées de chaque dispositif.",
+      "columns": [
+        "Dispositif courant",
+        "Nature de l'avantage",
+        "Réflexe à adopter"
+      ],
+      "rows": [
+        [
+          "Frais professionnels réels",
+          "Déduction du revenu imposable",
+          "Comparez le total justifiable avec l'abattement forfaitaire de 10 %."
+        ],
+        [
+          "Versements sur un PER",
+          "Déduction, dans la limite de votre plafond disponible",
+          "Vérifiez le plafond indiqué sur votre avis d'impôt ou vos informations fiscales."
+        ],
+        [
+          "Pension alimentaire éligible",
+          "Déduction sous conditions",
+          "Conservez les preuves de versement et vérifiez la situation du bénéficiaire."
+        ],
+        [
+          "Dons à des organismes éligibles",
+          "Réduction d'impôt",
+          "Gardez le reçu fiscal et contrôlez le taux et le plafond applicables."
+        ],
+        [
+          "Emploi à domicile et garde d'enfants éligible",
+          "Crédit d'impôt sous conditions",
+          "Utilisez l'attestation annuelle et ne déclarez que votre reste à charge."
+        ]
+      ],
+      "note": "Les taux, plafonds et dépenses éligibles évoluent. La notice de la déclaration de l'année concernée fait foi."
+    },
+    {
+      "type": "prose",
+      "heading": "Revenus fonciers, indépendants, financiers ou étrangers : ne passez pas à côté des annexes",
+      "html": "<p>Une déclaration devient plus technique dès que les revenus sortent du cadre classique des salaires et pensions. Les revenus issus d'une activité indépendante sont déclarés dans une rubrique professionnelle dédiée. Les revenus locatifs peuvent relever d'un régime simplifié ou d'un régime réel, qui permet notamment de déduire certaines charges selon des règles précises. Le choix dépend de la nature des locations et des montants concernés.</p><p>Pour les placements, l'établissement financier français transmet souvent un imprimé fiscal utile au préremplissage. Vérifiez néanmoins les dividendes, intérêts, cessions et moins-values reportables. En présence d'un compte bancaire, d'un contrat d'assurance-vie ou d'un portefeuille détenu à l'étranger, une déclaration spécifique peut être obligatoire, même si le compte n'a produit aucun revenu imposable en France.</p><p>Les revenus étrangers, les plus-values complexes et les locations meublées demandent une attention particulière. N'improvisez pas une case : utilisez les notices disponibles dans votre espace fiscal ou demandez conseil à un professionnel si les enjeux sont importants. Une heure de vérification peut éviter une correction longue et anxiogène.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs les plus fréquentes à éviter",
+      "points": [
+        "Oublier de déclarer un changement familial, une naissance, une séparation ou un enfant en résidence alternée.",
+        "Confondre le montant payé avec le montant fiscalement éligible, notamment après aides, remboursements ou part employeur.",
+        "Choisir les frais réels sans comparer avec l'abattement de 10 % ou sans conserver les justificatifs.",
+        "Déduire une dépense déjà remboursée par l'employeur, une aide ou un organisme tiers.",
+        "Omettre un revenu encaissé à l'étranger, une location ou un compte détenu hors de France.",
+        "Valider sans contrôler l'IBAN destiné à un remboursement éventuel."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Après l'envoi : avis d'impôt, paiement, correction et dates limites",
+      "html": "<p>Après validation, votre déclaration est enregistrée, mais l'avis d'impôt définitif n'arrive que plus tard. Il précise votre revenu fiscal de référence, votre taux de prélèvement à la source, un éventuel solde à payer ou un remboursement. Un solde peut être prélevé selon un calendrier communiqué par l'administration ; un remboursement est généralement versé sur le compte bancaire connu de celle-ci.</p><p>Les dates limites changent chaque année et, pour la déclaration en ligne, elles peuvent dépendre de votre département de résidence. Consultez le calendrier officiel dès son ouverture plutôt que de vous fier à une ancienne date. En cas de retard prévisible, déclarez au plus vite et échangez avec l'administration via votre messagerie sécurisée : ignorer l'échéance n'améliore jamais la situation.</p><p>Vous avez repéré une erreur après avoir signé ? Pendant la période de déclaration, vous pouvez généralement corriger en ligne et soumettre une nouvelle version. Après la fermeture du service, des possibilités de correction ou de réclamation existent selon la nature de l'erreur et la période ; passez par votre espace particulier ou votre service des impôts. Conservez la trace de chaque demande.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "La bonne habitude pour l'an prochain",
+      "html": "<p>À chaque dépense potentiellement déclarable, enregistrez tout de suite la facture, l'attestation et la preuve de paiement dans un dossier numérique. Ajoutez une note avec l'année fiscale. Au printemps, vous ne chercherez plus vos documents dans l'urgence : vous n'aurez plus qu'à vérifier votre éligibilité.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Est-ce obligatoire de faire sa déclaration d'impôts en ligne ?",
+      "a_html": "<p>La déclaration en ligne est en principe attendue lorsque votre résidence principale dispose d'un accès à internet et que vous êtes en mesure d'utiliser le service. Certaines personnes peuvent utiliser le formulaire papier, notamment en cas d'impossibilité d'effectuer la démarche en ligne. Vérifiez votre situation sur le site officiel ou auprès de votre service des impôts.</p>"
+    },
+    {
+      "q": "Dois-je déclarer les montants déjà préremplis ?",
+      "a_html": "<p>Oui : vous devez les vérifier. Vous n'avez pas à les ressaisir s'ils sont exacts, mais vous devez corriger une erreur et compléter les revenus, charges ou situations qui ne figurent pas dans le parcours prérempli. Le préremplissage n'est pas une validation automatique.</p>"
+    },
+    {
+      "q": "Comment savoir s'il vaut mieux choisir les frais réels ou les 10 % ?",
+      "a_html": "<p>Additionnez vos frais professionnels réellement supportés et admis en déduction, puis comparez-les à l'abattement forfaitaire de 10 % appliqué à vos salaires. Optez pour les frais réels uniquement si leur total est supérieur et si vous détenez les justificatifs. Tenez compte des remboursements de votre employeur, qui ne peuvent pas être déduits une seconde fois.</p>"
+    },
+    {
+      "q": "Quels justificatifs faut-il envoyer avec la déclaration ?",
+      "a_html": "<p>En général, vous ne joignez pas spontanément vos factures, reçus ou attestations à la déclaration en ligne. En revanche, vous devez les conserver et pouvoir les présenter à la demande de l'administration. Pour chaque montant déclaré, gardez le document qui prouve la dépense, le paiement et, lorsque c'est nécessaire, l'éligibilité du bénéficiaire.</p>"
+    },
+    {
+      "q": "Que faire si j'ai oublié un revenu après avoir validé ma déclaration ?",
+      "a_html": "<p>Corrigez votre déclaration dès que possible. Si le service de déclaration est encore ouvert, vous pouvez habituellement déposer une déclaration rectificative en ligne. Une fois la campagne terminée, utilisez votre messagerie sécurisée ou les procédures de correction disponibles dans votre espace particulier. Mieux vaut signaler rapidement l'oubli que d'attendre un contrôle.</p>"
+    },
+    {
+      "q": "Faut-il déclarer les aides et allocations reçues ?",
+      "a_html": "<p>Cela dépend de leur nature. Certaines prestations sont exonérées, tandis que d'autres allocations ou indemnités sont imposables et souvent déjà préremplies. Consultez l'attestation annuelle de l'organisme payeur et la rubrique d'aide correspondante avant de modifier un montant.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Bien remplir sa déclaration d'impôts repose moins sur la maîtrise de toutes les règles fiscales que sur une méthode fiable : <strong>préparer, vérifier, comparer, justifier et relire</strong>. Commencez tôt, ne supposez jamais qu'un montant prérempli est complet et gardez vos preuves. En procédant rubrique par rubrique, vous pourrez déclarer avec davantage de sérénité et profiter des avantages auxquels vous avez réellement droit.</p>",
+  "__slug": "comment-remplir-la-declaration-dimpots"
+}

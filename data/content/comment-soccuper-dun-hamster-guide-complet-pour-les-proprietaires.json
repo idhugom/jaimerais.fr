@@ -1,0 +1,272 @@
+{
+  "title": "Comment s'occuper d'un hamster : le guide complet pour bien débuter",
+  "meta_description": "Habitat, alimentation, apprivoisement, hygiène et budget : apprenez à bien vous occuper d'un hamster et à éviter les erreurs courantes.",
+  "reading_time_min": 12,
+  "hero_intro": "Petit, attachant et relativement discret, le hamster n'est pourtant pas un animal « facile » que l'on installe dans une petite cage. Son bien-être repose sur un habitat vaste et enrichi, une alimentation adaptée à son espèce et le respect de son rythme principalement nocturne. Voici tout ce qu'il faut prévoir pour lui offrir une vie saine, active et rassurante au quotidien.",
+  "key_takeaways": [
+    "Un hamster vit généralement seul : la cohabitation, même entre frères et sœurs, peut provoquer des bagarres graves.",
+    "Privilégiez un habitat au sol spacieux, avec une litière profonde pour creuser, plutôt qu'une petite cage haute remplie de gadgets.",
+    "Une roue pleine, stable et assez grande est indispensable ; son dos ne doit jamais être courbé lorsqu'il court.",
+    "Basez son alimentation sur un aliment complet pour hamster, complété avec modération par des végétaux frais et des protéines adaptées.",
+    "Un hamster s'apprivoise avec lenteur, surtout en soirée : ne le réveillez pas et ne forcez jamais le contact."
+  ],
+  "toc": [
+    "Choisir son hamster et comprendre ses besoins",
+    "Préparer un habitat vraiment adapté",
+    "Nourrir un hamster sans déséquilibrer son régime",
+    "Organiser l'entretien et surveiller sa santé",
+    "Apprivoiser son hamster et le faire bouger en sécurité",
+    "Prévoir le budget et s'engager durablement"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Avant l'adoption : un petit animal aux besoins bien réels",
+      "html": "<p>Un hamster peut être un merveilleux compagnon d'observation, mais il ne convient pas à toutes les familles. Il dort une grande partie de la journée et devient surtout actif en fin de journée, la nuit et parfois à l'aube. Le solliciter à 14 heures pour le montrer aux enfants ou le prendre dans les mains risque donc de le stresser, voire de provoquer une morsure défensive.</p><p>Son espérance de vie est courte, souvent autour de <strong>deux à trois ans</strong>, mais son engagement est concret : nettoyage, alimentation, surveillance et frais vétérinaires font partie du quotidien. Avant de l'accueillir, assurez-vous de pouvoir placer son habitat dans une pièce calme, tempérée, sans soleil direct, loin des courants d'air, de la fumée et des autres animaux qui pourraient l'effrayer.</p><p>Enfin, un hamster n'est pas un animal social au sens humain du terme. Il apprécie la routine, les cachettes et les interactions patientes avec une personne calme, mais il a avant tout besoin de contrôler son espace. L'objectif n'est pas de le rendre câlin à tout prix : c'est de gagner sa confiance.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Hamster doré ou hamster nain : lequel choisir ?",
+      "intro": "Les besoins fondamentaux se ressemblent, mais la taille, la vivacité et le matériel à prévoir varient selon l'espèce.",
+      "left": {
+        "title": "Hamster doré (syrien)",
+        "points": [
+          "Plus grand, souvent plus simple à manipuler pour un adulte ou un enfant bien encadré.",
+          "Vit impérativement seul : aucune cohabitation, même temporaire.",
+          "Demande une roue d'environ 28 à 30 cm de diamètre et de grandes cachettes.",
+          "Consomme un peu plus et nécessite un habitat particulièrement spacieux."
+        ]
+      },
+      "right": {
+        "title": "Hamster nain (russe, Campbell, Roborovski...)",
+        "points": [
+          "Plus petit, rapide et parfois plus difficile à observer ou à manipuler.",
+          "Doit lui aussi vivre seul : les conflits entre hamsters peuvent être soudains et violents.",
+          "A besoin d'une roue généralement de 20 à 25 cm, selon son gabarit.",
+          "Le Roborovski est très vif et souvent davantage fait pour l'observation que pour les manipulations."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "L'habitat idéal : les équipements à ne pas négliger",
+      "intro": "La surface au sol et la possibilité de creuser comptent bien davantage que le nombre d'étages. Voici une base de départ raisonnable à adapter à l'espèce et à l'individu.",
+      "columns": [
+        "Élément",
+        "Repère conseillé",
+        "Pourquoi c'est important"
+      ],
+      "rows": [
+        [
+          "Habitat",
+          "Visez au moins 100 × 50 cm de surface au sol ; plus grand reste préférable",
+          "Un vaste territoire réduit le stress et permet de créer plusieurs zones de vie."
+        ],
+        [
+          "Litière",
+          "Environ 20 cm de profondeur dans une large partie de l'habitat",
+          "Le hamster peut creuser des galeries, un comportement naturel essentiel."
+        ],
+        [
+          "Roue pleine",
+          "28 à 30 cm pour un doré ; 20 à 25 cm pour beaucoup de hamsters nains",
+          "Elle permet de courir sans se coincer les pattes ni cambrer le dos."
+        ],
+        [
+          "Cachettes",
+          "Au moins une maison opaque à plusieurs chambres, plus des abris secondaires",
+          "Le hamster doit pouvoir dormir et stocker sa nourriture sans être exposé."
+        ],
+        [
+          "Bain de sable",
+          "Un bac stable avec sable fin non poussiéreux adapté aux rongeurs",
+          "Il aide au soin du pelage ; ce n'est pas un bain à eau."
+        ],
+        [
+          "Abreuvoir",
+          "Biberon fiable ou petite coupelle lourde, avec eau renouvelée chaque jour",
+          "Une hydratation constante est indispensable ; vérifiez le bon fonctionnement du biberon."
+        ]
+      ],
+      "note": "Les dimensions constituent des repères pratiques : si vous avez la place, choisissez toujours le plus grand habitat sécurisé possible."
+    },
+    {
+      "type": "prose",
+      "heading": "Installer une maison stimulante, pas une cage décorative",
+      "html": "<p>Une grande cage à barreaux, une vitrine aménagée ou un terrarium correctement ventilé peuvent convenir, à condition que l'habitat soit sécurisé et facile à nettoyer. Évitez les modèles très petits, les cages-tubes difficiles à aérer et les habitats dominés par la hauteur : une chute peut blesser un hamster, qui n'a pas la même agilité qu'un animal arboricole.</p><p>Recouvrez le fond d'une litière absorbante et peu poussiéreuse, par exemple en papier, en chanvre ou en fibres végétales adaptées. Ajoutez du foin non traité ou du papier toilette blanc non parfumé déchiré pour le nid. Les matériaux ouates dits « coton pour hamster » sont à éviter : ils peuvent s'enrouler autour d'une patte ou être ingérés.</p><p>Aménagez plusieurs zones : un coin nid calme, une cachette, une roue, un bac à sable, des tunnels et des objets sûrs à ronger. Des branches adaptées aux petits rongeurs, du carton non imprimé et des cachettes en liège peuvent renouveler son environnement. Changez ou déplacez un élément à la fois : un bouleversement complet et fréquent de son territoire peut l'inquiéter.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les erreurs qui mettent un hamster en difficulté",
+      "html": "<p>Ne placez jamais deux hamsters ensemble « pour qu'ils se tiennent compagnie ». Ne donnez pas de bain d'eau, n'utilisez pas de roue à barreaux, et évitez les boules d'exercice fermées : elles limitent l'orientation, la ventilation et la possibilité de se cacher. Un hamster doit pouvoir sortir uniquement dans un espace sécurisé, sous surveillance, ou explorer un parc correctement aménagé.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "La routine de soins : quoi faire chaque jour et chaque semaine ?",
+      "intro": "Une routine stable rassure le hamster et permet de détecter rapidement un changement de comportement ou de santé.",
+      "steps": [
+        {
+          "title": "Chaque soir : observer avant d'intervenir",
+          "html": "<p>Quand votre hamster se réveille, vérifiez qu'il se déplace normalement, qu'il mange, boit et respire sans bruit. Retirez les aliments frais non consommés pour éviter qu'ils ne fermentent dans ses réserves.</p>"
+        },
+        {
+          "title": "Chaque jour : eau et contrôle des zones souillées",
+          "html": "<p>Renouvelez l'eau, rincez l'abreuvoir si nécessaire et vérifiez que la bille du biberon ne se bloque pas. Retirez les portions de litière franchement humides, notamment dans le coin toilettes.</p>"
+        },
+        {
+          "title": "Une à deux fois par semaine : entretien ciblé",
+          "html": "<p>Nettoyez la roue, le bac à sable et les accessoires sales. Si votre hamster utilise un bac à litière, videz-le régulièrement. Conservez une partie de la litière propre et de son nid lorsque cela est possible, afin de préserver ses repères olfactifs.</p>"
+        },
+        {
+          "title": "Toutes les quelques semaines : nettoyage plus complet",
+          "html": "<p>Nettoyez le fond et les accessoires avec de l'eau chaude et un produit doux soigneusement rincé, puis séchez tout. N'effectuez pas un grand décapage trop fréquent : adaptez la cadence aux odeurs, à la taille de l'habitat et aux zones réellement sales.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Bien nourrir son hamster : équilibre, quantités et aliments à éviter",
+      "html": "<p>La base la plus simple est un <strong>aliment complet spécifiquement formulé pour hamster</strong>, sous forme de granulés homogènes ou de mélange de qualité. Les granulés limitent le tri alimentaire ; avec un mélange de graines, surveillez que l'animal ne sélectionne pas seulement les éléments les plus gras. La quantité dépend de l'espèce, de son poids et de la composition du produit : suivez d'abord l'indication du fabricant, puis ajustez avec prudence selon l'état corporel et les conseils d'un vétérinaire.</p><p>Vous pouvez compléter avec de toutes petites portions de légumes frais bien lavés : courgette, concombre, brocoli, poivron ou herbes adaptées, par exemple. Introduisez un seul nouvel aliment à la fois et retirez les restes le lendemain. Les fruits sont sucrés : ils doivent rester exceptionnels, et sont particulièrement à limiter chez les hamsters nains, plus sensibles aux problèmes liés au sucre.</p><p>Les hamsters ont aussi besoin de protéines en petite quantité, selon l'aliment principal choisi : insectes séchés adaptés, petit morceau d'œuf dur nature ou autre complément validé pour petits rongeurs. Évitez de multiplier les friandises commerciales. Une alimentation trop riche favorise l'embonpoint, même chez un hamster qui court beaucoup.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Aliments : ce qui convient et ce qu'il vaut mieux exclure",
+      "intro": "Les portions fraîches doivent rester petites et ponctuelles. En cas de doute sur un aliment, abstenez-vous et demandez conseil à un vétérinaire connaissant les petits mammifères.",
+      "columns": [
+        "À proposer avec modération",
+        "À donner rarement",
+        "À ne jamais donner"
+      ],
+      "rows": [
+        [
+          "Concombre, courgette, poivron, brocoli, endive",
+          "Fraise, pomme sans pépins, myrtille : très petites quantités",
+          "Chocolat, café, alcool, aliments salés ou sucrés"
+        ],
+        [
+          "Herbes fraîches adaptées et bien lavées",
+          "Graine de tournesol ou de courge : comme récompense, pas à volonté",
+          "Oignon, ail, poireau, avocat"
+        ],
+        [
+          "Protéines adaptées selon le régime complet choisi",
+          "Petit morceau d'œuf dur nature, occasionnellement",
+          "Agrumes, aliments épicés, restes de table"
+        ],
+        [
+          "Aliment complet pour hamster et eau fraîche à volonté",
+          "Friandises du commerce, après lecture de la composition",
+          "Pépins et noyaux de fruits, aliments moisis ou fermentés"
+        ]
+      ],
+      "note": "Le foin peut servir de matériau de nidification ou d'enrichissement, mais il ne remplace pas l'alimentation complète d'un hamster."
+    },
+    {
+      "type": "comparison",
+      "heading": "Exercice : enrichir son quotidien ou le mettre en danger ?",
+      "intro": "Le hamster a besoin de bouger chaque nuit. Le meilleur exercice commence dans un habitat bien pensé, plutôt que dans un accessoire contraignant.",
+      "left": {
+        "title": "À privilégier",
+        "points": [
+          "Une roue pleine, silencieuse, stable et adaptée à sa taille.",
+          "Des tunnels, cachettes, matériaux à déchiqueter et objets à ronger sûrs.",
+          "Un parc au sol fermé, sans câble, trou, plante toxique ni accès aux meubles, sous surveillance.",
+          "Des explorations courtes à son rythme, le soir, avec des cachettes à disposition."
+        ]
+      },
+      "right": {
+        "title": "À éviter",
+        "points": [
+          "Les boules d'exercice fermées : stress, chocs, mauvaise ventilation et absence de contrôle.",
+          "Les roues à barreaux ou trop petites, qui blessent les pattes ou courbent le dos.",
+          "Les promenades libres dans une pièce non sécurisée : fugue, chute ou écrasement sont vite arrivés.",
+          "Les bains d'eau et les manipulations répétées pour « le fatiguer »."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Santé et hygiène : les signaux à prendre au sérieux",
+      "html": "<p>Un hamster en forme est curieux à ses heures d'éveil, mange normalement, garde un pelage propre et sec et se déplace sans difficulté. Pesez-le occasionnellement sur une balance de cuisine dédiée, dans un petit récipient sécurisé : une variation progressive et inexpliquée de poids mérite attention, surtout si elle s'accompagne d'un changement d'appétit.</p><p>Consultez rapidement un vétérinaire habitué aux petits mammifères si vous observez une diarrhée, un arrière-train souillé, une respiration bruyante, des yeux collés, une blessure, une masse, une perte d'équilibre, une apathie inhabituelle, l'arrêt de l'alimentation ou des dents visiblement trop longues. Chez un si petit animal, l'état général peut se dégrader vite : mieux vaut ne pas attendre plusieurs jours.</p><p>Ne donnez jamais de médicament humain ni de traitement trouvé en ligne sans avis vétérinaire. Préparez dès l'adoption les coordonnées d'un praticien compétent et une petite caisse de transport ventilée. Cette anticipation évite de chercher dans l'urgence lorsque votre hamster a besoin de soins.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Apprivoiser son hamster sans brûler les étapes",
+      "intro": "Certains hamsters deviennent volontiers familiers, d'autres préfèrent une relation d'observation. Dans les deux cas, la patience est la meilleure méthode.",
+      "steps": [
+        {
+          "title": "Laissez-lui un temps d'installation",
+          "html": "<p>Les premiers jours, limitez-vous au changement d'eau, à la nourriture et à une présence calme près de l'habitat. Ne cherchez pas à le prendre ni à fouiller son nid.</p>"
+        },
+        {
+          "title": "Faites connaître votre présence",
+          "html": "<p>Parlez doucement lorsque votre hamster est réveillé. Posez votre main immobile dans l'habitat, sans le poursuivre, afin qu'il puisse vous sentir et s'éloigner s'il le souhaite.</p>"
+        },
+        {
+          "title": "Associez votre main à une expérience positive",
+          "html": "<p>Proposez une minuscule friandise adaptée au bout des doigts ou dans la paume. Répétez brièvement plusieurs soirs, sans insister s'il se cache ou montre des signes de peur.</p>"
+        },
+        {
+          "title": "Laissez-le monter de lui-même",
+          "html": "<p>Lorsqu'il vient volontiers sur votre main, soulevez-le seulement à quelques centimètres au-dessus d'une surface sûre. Pour le déplacer, utilisez au besoin un petit récipient ou une cachette plutôt que de l'attraper par-dessus.</p>"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Les repères à mémoriser",
+      "items": [
+        {
+          "value": "100 × 50 cm",
+          "label": "surface au sol à viser au minimum pour un habitat confortable, et davantage si possible"
+        },
+        {
+          "value": "Environ 20 cm",
+          "label": "profondeur de litière utile pour permettre le creusement de galeries"
+        },
+        {
+          "value": "20 à 30 cm",
+          "label": "diamètre indicatif d'une roue pleine, à adapter à la taille de l'espèce"
+        },
+        {
+          "value": "2 à 3 ans",
+          "label": "espérance de vie fréquemment observée, avec des variations selon l'espèce et la santé"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Budget et engagement : ce qu'il faut prévoir avant de craquer",
+      "html": "<p>Le prix d'achat ou d'adoption du hamster n'est qu'une petite part du budget. Le poste principal au départ est l'installation : un habitat suffisamment vaste, une roue de qualité, des cachettes, un bac à sable, de la litière et une caisse de transport. Selon les choix de matériel, comptez souvent <strong>environ 150 à 350 € ou davantage</strong> pour un équipement complet et durable.</p><p>Ensuite, prévoyez les dépenses récurrentes : litière, alimentation complète, sable, enrichissement et remplacement de certains accessoires. Elles restent souvent modérées, mais s'ajoutent sur toute la durée de vie de l'animal. Gardez surtout une réserve pour une consultation vétérinaire, qui peut coûter bien plus que l'animal lui-même, notamment en cas d'urgence.</p><p>Adopter un hamster, c'est accepter un compagnon discret, actif quand vous dormez parfois, et qui a besoin d'espace malgré sa petite taille. Si vous pouvez respecter son rythme et aménager un vrai territoire, vous profiterez de ses comportements fascinants : construction de nid, creusement, toilette au sable et explorations nocturnes.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle taille de cage faut-il pour un hamster ?",
+      "a_html": "<p>Visez au minimum une grande surface au sol, autour de <strong>100 × 50 cm</strong>, plutôt qu'une petite cage à étages. Plus l'habitat est vaste, plus il est facile d'ajouter une litière profonde, une grande roue, des cachettes et des zones distinctes pour dormir, manger et se toiletter.</p><p>Le choix dépend aussi de l'espèce : un hamster doré requiert généralement encore plus d'espace et des accessoires plus grands qu'un hamster nain.</p>"
+    },
+    {
+      "q": "Peut-on mettre deux hamsters dans la même cage ?",
+      "a_html": "<p>Il est plus sûr de faire vivre <strong>un seul hamster par habitat</strong>. Même des animaux du même sexe, issus de la même portée ou habitués jeunes peuvent se battre soudainement, parfois avec de graves blessures.</p><p>Prévoir deux habitats séparés est la solution responsable si vous souhaitez adopter deux hamsters.</p>"
+    },
+    {
+      "q": "Que mange un hamster chaque jour ?",
+      "a_html": "<p>Son alimentation quotidienne doit reposer sur un aliment complet conçu pour hamster, distribué selon les recommandations du produit et adapté à son espèce. L'eau fraîche doit rester accessible en permanence.</p><p>Vous pouvez proposer de petites portions de légumes adaptés plusieurs fois par semaine, en retirant les restes. Les fruits et les graines grasses sont des friandises occasionnelles, pas la base du menu.</p>"
+    },
+    {
+      "q": "Faut-il laver un hamster ?",
+      "a_html": "<p>Non. Un hamster ne doit pas être lavé à l'eau : cela peut le refroidir, le stresser et altérer son pelage. Il fait lui-même sa toilette et apprécie généralement un bain de sable fin, non poussiéreux, adapté aux petits rongeurs.</p><p>Si son pelage est souillé ou s'il dégage une odeur inhabituelle, cherchez la cause et demandez un avis vétérinaire plutôt que de le baigner.</p>"
+    },
+    {
+      "q": "Comment savoir si mon hamster est heureux ?",
+      "a_html": "<p>Un hamster bien installé présente souvent des comportements naturels : il explore à son réveil, court dans une roue adaptée, creuse, construit son nid, fait sa toilette et mange normalement. Il doit pouvoir se cacher lorsqu'il le souhaite.</p><p>À l'inverse, des comportements répétitifs, une agitation constante contre les parois, une apathie ou une agressivité nouvelle peuvent signaler un habitat inadapté, du stress ou un problème de santé.</p>"
+    },
+    {
+      "q": "Pourquoi mon hamster mord-il ?",
+      "a_html": "<p>La morsure est généralement une réaction de peur, de surprise ou de défense. Votre main peut aussi porter une odeur de nourriture. Lavez-vous les mains, intervenez seulement lorsqu'il est réveillé, approchez lentement et laissez-le choisir de venir vers vous.</p><p>Ne le punissez pas : cela détériorerait la confiance. Reprenez l'apprivoisement par étapes et consultez un vétérinaire si ce comportement soudain s'accompagne d'autres signes inhabituels.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Bien s'occuper d'un hamster, ce n'est pas multiplier les accessoires : c'est lui offrir <strong>de l'espace, de la profondeur de litière, une roue adaptée, une alimentation équilibrée et du calme</strong>. En respectant son rythme nocturne et son besoin de vivre seul, vous posez les bases d'une relation sereine.</p><p>Préparez l'habitat avant son arrivée, observez-le avec attention et faites évoluer son environnement progressivement. Votre hamster ne vous demandera pas grand-chose, mais il vous montrera beaucoup lorsque ses besoins seront réellement respectés.</p>",
+  "__slug": "comment-soccuper-dun-hamster-guide-complet-pour-les-proprietaires"
+}

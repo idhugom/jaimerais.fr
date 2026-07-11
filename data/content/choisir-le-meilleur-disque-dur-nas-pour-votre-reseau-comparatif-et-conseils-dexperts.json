@@ -1,0 +1,253 @@
+{
+  "title": "Comment choisir un disque dur NAS : capacité, fiabilité, RAID et modèles à privilégier",
+  "meta_description": "Choisissez un disque dur NAS fiable : capacité, CMR, RAID, compatibilité et budget. Nos conseils pour protéger vos données au quotidien.",
+  "reading_time_min": 12,
+  "hero_intro": "Vous aimeriez centraliser vos photos, travailler à plusieurs sur vos fichiers ou diffuser vos films depuis un NAS ? Le choix des disques installés dans votre boîtier est déterminant : ils doivent supporter un usage continu, fonctionner ensemble et correspondre à votre vrai volume de données. Voici comment choisir sans vous laisser guider uniquement par le prix au téraoctet.",
+  "key_takeaways": [
+    "Préférez un disque explicitement conçu pour NAS, idéalement en enregistrement CMR, plutôt qu'un disque de bureau standard ou une référence SMR non précisée.",
+    "Calculez la capacité utile après RAID : deux disques de 8 To en miroir ne donnent pas 16 To, mais environ 8 To exploitables.",
+    "Vérifiez toujours la liste de compatibilité du fabricant de votre NAS, le format 3,5 pouces SATA et la capacité maximale acceptée par votre modèle.",
+    "Le RAID améliore la continuité de service, mais ne remplace jamais une sauvegarde indépendante de vos données importantes.",
+    "Sur un réseau Gigabit, la connexion réseau limite souvent les débits avant les performances du disque : inutile de surpayer la vitesse si votre usage est simple."
+  ],
+  "toc": [
+    "Commencer par définir votre usage et votre capacité utile",
+    "Choisir la bonne capacité sans sous-estimer la croissance",
+    "Privilégier un disque NAS fiable : CMR, endurance et vibrations",
+    "CMR ou SMR : une différence essentielle pour un NAS",
+    "Comparer les gammes de disques NAS et leur budget",
+    "Configurer le RAID et une vraie stratégie de sauvegarde",
+    "Éviter les erreurs de compatibilité et optimiser les performances",
+    "Installer et contrôler vos disques pas à pas"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Un disque NAS n'est pas un simple disque dur externe",
+      "html": "<p>Un NAS, pour <em>Network Attached Storage</em>, est un boîtier relié à votre réseau qui héberge un ou plusieurs disques. Il sert à partager des fichiers entre plusieurs appareils, sauvegarder des ordinateurs, stocker une médiathèque, synchroniser des dossiers ou accéder à ses données à distance. Les disques y restent souvent allumés longtemps et travaillent parfois simultanément avec d'autres disques : c'est un contexte plus exigeant qu'un disque USB branché ponctuellement.</p><p>Un <strong>disque dur spécial NAS</strong> est pensé pour ce fonctionnement en continu, les configurations RAID et les vibrations d'un boîtier à plusieurs baies. Cela ne signifie pas qu'il est infaillible, ni que tous les foyers doivent acheter le modèle professionnel le plus coûteux. L'objectif est de trouver un équilibre entre la capacité, le nombre de baies, le niveau d'activité, le bruit et le budget, sans sacrifier la sécurité de vos fichiers.</p><p>Avant de comparer les références, vérifiez ce que vous achetez réellement : la plupart des NAS domestiques accueillent des disques <strong>3,5 pouces SATA</strong>, parfois aussi des 2,5 pouces ou des SSD. Un disque destiné à un ordinateur portable, un disque de vidéosurveillance ou un disque d'entreprise peut fonctionner physiquement, mais son firmware, son endurance ou son comportement en cas d'erreur ne sont pas forcément adaptés à votre installation.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les critères à regarder avant la marque",
+      "points": [
+        "La capacité utile après protection RAID, avec une marge de croissance d'au moins 20 à 30 % si vos données augmentent régulièrement.",
+        "La technologie d'enregistrement : le CMR est le choix rassurant pour les écritures fréquentes et les reconstructions RAID.",
+        "La compatibilité validée par le constructeur du NAS, surtout sur les modèles récents, les grandes capacités et les boîtiers à plusieurs baies.",
+        "La charge de travail annoncée, la garantie, la gestion des vibrations et le niveau sonore plutôt que la seule taille de la mémoire cache.",
+        "Votre réseau : en Gigabit, un bon disque NAS suffit généralement pour un usage domestique ; le 2,5 ou 10 GbE change la donne pour plusieurs utilisateurs."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Définir votre besoin de stockage avant d'acheter",
+      "intro": "La meilleure capacité n'est pas celle qui semble énorme aujourd'hui, mais celle qui reste confortable après la mise en place du RAID et dans quelques années.",
+      "steps": [
+        {
+          "title": "Faites l'inventaire de vos données",
+          "html": "<p>Relevez l'espace réellement occupé par vos photos, vidéos, documents, sauvegardes d'ordinateurs et projets. N'oubliez pas les doublons, les téléphones du foyer et les fichiers qui arrivent chaque mois. Une bibliothèque de photos peut rester modeste longtemps, tandis que des vidéos 4K ou des rushes de montage font grimper le volume très vite.</p>"
+        },
+        {
+          "title": "Ajoutez une marge de croissance réaliste",
+          "html": "<p>Prévoyez au moins 20 à 30 % de capacité libre. Un volume presque plein devient moins pratique à administrer et vous oblige à acheter dans l'urgence. Si vous archivez des vidéos, travaillez avec de gros fichiers ou comptez activer les sauvegardes de plusieurs PC, une marge plus généreuse est préférable.</p>"
+        },
+        {
+          "title": "Raisonnez en capacité utilisable, pas en capacité affichée",
+          "html": "<p>En miroir RAID 1, deux disques de même taille conservent une copie identique : deux disques de 8 To apportent donc environ 8 To utiles, et non 16 To. Avec trois disques ou plus, certaines configurations offrent plus d'espace, mais le niveau de protection choisi consomme toujours une partie de la capacité brute.</p>"
+        },
+        {
+          "title": "Pensez à l'évolution du boîtier",
+          "html": "<p>Un NAS à deux baies plein dès le premier jour laisse peu de solutions : remplacer progressivement les disques par de plus grands modèles, ou changer de boîtier. Si vous prévoyez une forte hausse des besoins, un NAS à quatre baies peut être plus souple à long terme, même s'il coûte davantage au départ.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quelle capacité choisir selon votre usage ?",
+      "intro": "Ces repères portent sur la capacité utile visée. Avec un NAS à deux baies en RAID 1, il faut acheter deux disques de la capacité indiquée.",
+      "columns": [
+        "Usage principal",
+        "Capacité utile conseillée",
+        "Exemple de configuration",
+        "Budget indicatif des disques"
+      ],
+      "rows": [
+        [
+          "Documents, photos et sauvegarde d'un ou deux PC",
+          "4 à 8 To",
+          "2 × 4 To ou 2 × 8 To en RAID 1",
+          "Souvent autour de 200 à 440 € pour la paire"
+        ],
+        [
+          "Photos familiales, films, plusieurs ordinateurs",
+          "8 à 16 To",
+          "2 × 8 To ou 2 × 16 To en RAID 1",
+          "Environ 320 à 800 € pour la paire"
+        ],
+        [
+          "Vidéos 4K, création, petite équipe",
+          "16 à 32 To et plus",
+          "4 × 8 To ou 4 × 12 To avec protection sur un disque",
+          "Généralement 640 à 1 320 € pour les disques"
+        ],
+        [
+          "Archives importantes ou usage professionnel soutenu",
+          "À calculer selon le flux annuel",
+          "NAS à 4 baies ou plus, disques de gamme NAS avancée",
+          "Budget variable selon capacité, garantie et niveau de redondance"
+        ]
+      ],
+      "note": "Les prix sont des ordres de grandeur très variables selon la capacité, les promotions et la gamme. Ils excluent le boîtier NAS et la sauvegarde externe."
+    },
+    {
+      "type": "prose",
+      "heading": "Fiabilité : les caractéristiques qui comptent vraiment",
+      "html": "<p>Pour un NAS, recherchez d'abord un modèle vendu pour cet usage et vérifiez sa fiche technique. Les fabricants indiquent généralement une charge de travail annuelle, une durée de garantie, un nombre de baies recommandé et parfois des capteurs ou systèmes de compensation des vibrations. Dans un NAS à quatre, six ou huit disques, ces éléments ont plus d'importance que dans un petit boîtier à deux baies installé dans un salon.</p><p>La vitesse de rotation joue aussi un rôle. Les disques autour de 5 400 tr/min sont souvent plus sobres, plus frais et moins sonores ; ils conviennent très bien à la sauvegarde, aux photos et au streaming sur un réseau Gigabit. Les modèles à 7 200 tr/min peuvent être intéressants pour des fichiers lourds, plusieurs accès simultanés ou un réseau rapide, mais ils génèrent généralement davantage de chaleur et de bruit. Un NAS bien ventilé et posé sur une surface stable reste indispensable.</p><p>Ne surinterprétez pas la mémoire cache, le MTBF ou une valeur de débit maximal isolée. Ces chiffres sont utiles pour comparer des produits de même catégorie, mais ils ne prédisent pas la durée de vie de votre exemplaire. La fiabilité se construit surtout avec des disques adaptés, un boîtier ventilé, des alertes activées, un contrôle régulier de l'état SMART et, surtout, une sauvegarde hors du NAS.</p><p>Enfin, choisissez de préférence <strong>deux disques de capacité et de modèle identiques</strong> pour un miroir simple. Ils fonctionneront plus harmonieusement et rendront le remplacement plus facile. Pour réduire le risque de deux défaillances liées à un même lot, certains utilisateurs achètent toutefois leurs disques à des moments ou auprès de vendeurs différents : c'est une précaution possible, mais elle ne dispense pas d'une sauvegarde.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "CMR ou SMR : quel enregistrement pour un disque NAS ?",
+      "intro": "La méthode d'enregistrement magnétique influence fortement les écritures longues et le comportement du disque dans un volume RAID.",
+      "left": {
+        "title": "CMR : le choix à privilégier",
+        "points": [
+          "Écriture plus régulière lors de gros transferts et de sauvegardes répétées.",
+          "Comportement plus prévisible pendant une reconstruction RAID après le remplacement d'un disque.",
+          "Adapté aux NAS, aux usages multi-utilisateurs et aux systèmes qui écrivent souvent.",
+          "Généralement indiqué dans les fiches techniques des gammes NAS reconnues."
+        ]
+      },
+      "right": {
+        "title": "SMR : à éviter pour un volume NAS actif",
+        "points": [
+          "Peut offrir un prix attractif ou une forte densité de stockage.",
+          "Les écritures soutenues peuvent ralentir nettement lorsque le disque doit réorganiser ses données.",
+          "Risque d'opérations très longues ou moins prévisibles dans certaines configurations RAID.",
+          "Peut convenir à une archive peu sollicitée, mais seulement après vérification attentive de l'usage prévu."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Quelles gammes de disques NAS comparer ?",
+      "html": "<p>Plutôt que de chercher un unique « meilleur disque dur NAS », comparez les gammes correspondant à votre profil. Les familles couramment envisagées incluent notamment <strong>WD Red Plus et WD Red Pro</strong>, <strong>Seagate IronWolf et IronWolf Pro</strong>, ainsi que <strong>Toshiba N300</strong>. Elles sont conçues pour les NAS et existent dans de nombreuses capacités. Les séries « Pro » ou équivalentes visent en général une charge plus élevée, davantage de baies et une garantie plus longue, avec un prix, un bruit et une consommation potentiellement supérieurs.</p><p>Les constructeurs de NAS peuvent aussi proposer leurs propres disques ou recommander des références précises. C'est particulièrement vrai pour certains appareils récents ou pour les très grandes capacités. Avant de commander, consultez la liste de compatibilité du fabricant de votre NAS : vous y trouverez les références validées, les éventuelles versions de firmware requises et des limites propres au modèle. Un disque non listé n'est pas automatiquement inutilisable, mais vous pouvez perdre des fonctions de suivi, recevoir un avertissement ou ne pas bénéficier du même niveau d'assistance.</p><p>Attention aux noms commerciaux proches. Une gamme peut évoluer au fil des années et la technologie utilisée peut différer selon la référence exacte ou la capacité. Contrôlez le <strong>numéro de modèle complet</strong>, la mention CMR sur la documentation technique, le format, l'interface SATA et la garantie. Ne vous fiez pas uniquement à la photo d'une fiche marchand ou à un avis portant sur une ancienne version.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Comparer les disques NAS selon votre profil",
+      "intro": "Voici une grille de décision plus utile qu'un classement figé : les références et tarifs changent, mais les besoins restent comparables.",
+      "columns": [
+        "Profil",
+        "Disque à privilégier",
+        "Points de contrôle",
+        "À éviter"
+      ],
+      "rows": [
+        [
+          "NAS familial à 2 baies",
+          "Gamme NAS CMR standard, 4 à 12 To selon le volume",
+          "Silence, température, compatibilité, garantie de 3 ans ou plus",
+          "Disque de bureau très bon marché sans indication CMR"
+        ],
+        [
+          "Médiathèque et plusieurs sauvegardes",
+          "Gamme NAS CMR avec capacité confortable",
+          "Débit réseau, marge de stockage, bruit lors des accès",
+          "Acheter juste assez de capacité dès le départ"
+        ],
+        [
+          "Création, plusieurs utilisateurs, NAS 4 baies ou plus",
+          "Gamme NAS avancée ou Pro selon l'intensité",
+          "Charge de travail, vibrations, garantie, réseau 2,5 ou 10 GbE",
+          "Sous-dimensionner la ventilation ou le réseau"
+        ],
+        [
+          "Archives peu sollicitées",
+          "Disque CMR si le volume reste en RAID ; autre option seulement après vérification",
+          "Fréquence d'écriture, stratégie de copie externe",
+          "Confondre archive et absence de sauvegarde"
+        ]
+      ],
+      "note": "La compatibilité exacte avec le boîtier reste le critère final : consultez la documentation de Synology, QNAP, Asustor ou du fabricant de votre NAS avant achat."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "RAID ne veut pas dire sauvegarde",
+      "html": "<p>Un RAID 1, RAID 5, RAID 6 ou SHR protège surtout contre la panne d'un ou plusieurs disques, selon le niveau choisi. Il ne vous protège pas d'une suppression accidentelle, d'un ransomware, d'un incendie, d'un vol ou d'une erreur de configuration : ces problèmes peuvent toucher toutes les copies présentes dans le NAS.</p><p>Pour les fichiers irremplaçables, appliquez une logique <strong>3-2-1</strong> : au moins trois copies de vos données, sur deux types de supports, dont une copie conservée hors de chez vous ou dans un service cloud fiable. Testez ponctuellement la restauration ; une sauvegarde non vérifiée est une promesse, pas une protection.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Trois repères techniques à connaître",
+      "items": [
+        {
+          "value": "≈ 110 Mo/s",
+          "label": "débit pratique maximal d'un réseau Ethernet Gigabit pour un transfert séquentiel : le réseau limite souvent avant le disque."
+        },
+        {
+          "value": "2 disques",
+          "label": "minimum pour un miroir RAID 1, qui conserve la capacité d'un seul disque tout en tolérant la panne de l'autre."
+        },
+        {
+          "value": "20 à 30 %",
+          "label": "marge de capacité libre recommandée pour éviter de remplir trop vite le volume et prévoir la croissance de vos données."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "RAID, réseau et performances : ne dépensez pas au mauvais endroit",
+      "html": "<p>Dans un NAS à deux baies, le RAID 1 est le choix le plus simple : chaque fichier est écrit sur les deux disques et la panne de l'un d'eux ne rend pas le volume indisponible. Dans un NAS à partir de trois ou quatre baies, les modes RAID 5, RAID 6 ou les variantes souples proposées par le fabricant permettent de mieux utiliser l'espace tout en conservant une tolérance de panne. Plus la configuration est complexe, plus il faut comprendre sa capacité utile et prévoir une sauvegarde indépendante.</p><p>Les performances perçues dépendent autant du réseau que des disques. Avec un seul ordinateur relié en Gigabit, sauvegarder ou lire un film ne mettra généralement pas à genoux un bon disque NAS à 5 400 tr/min. En revanche, plusieurs postes, du montage vidéo sur le réseau ou des machines virtuelles peuvent justifier un NAS plus puissant, plusieurs disques, une liaison 2,5 GbE ou 10 GbE et parfois des SSD. Les SSD ne remplacent pas forcément les disques durs de grande capacité : ils constituent surtout un complément pertinent pour des accès très rapides ou une mémoire cache lorsqu'elle est réellement utile.</p><p>Activez les notifications du NAS, programmez des tests SMART réguliers et surveillez les températures. Si un disque signale des secteurs instables, des erreurs répétées ou un comportement anormal, sauvegardez immédiatement les données importantes et suivez la procédure de remplacement du fabricant. Ne retirez pas un disque au hasard pour « vérifier » : identifiez toujours précisément la baie concernée dans l'interface du NAS.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Installer vos disques NAS sans mauvaise surprise",
+      "intro": "Une mise en service méthodique vous évite de partir sur une configuration difficile à corriger ensuite.",
+      "steps": [
+        {
+          "title": "Validez la référence complète",
+          "html": "<p>Avant ouverture, comparez le numéro de modèle inscrit sur l'emballage avec la liste de compatibilité de votre NAS. Vérifiez la capacité, le format 3,5 pouces, l'interface SATA et, si cela compte pour votre usage, la technologie CMR et la durée de garantie.</p>"
+        },
+        {
+          "title": "Montez les disques NAS éteint",
+          "html": "<p>Éteignez le boîtier, installez les disques dans les tiroirs prévus, puis fixez-les conformément à la notice. Évitez les chocs, les surfaces instables et les emplacements confinés. Laissez une circulation d'air suffisante autour du NAS.</p>"
+        },
+        {
+          "title": "Créez le volume avec le bon niveau de protection",
+          "html": "<p>Lors de l'assistant de configuration, choisissez le mode adapté à votre nombre de baies et à votre besoin de continuité. Pour deux disques de données importantes, le miroir est souvent le plus lisible. Lisez la capacité réellement disponible avant de valider : le formatage efface les données présentes.</p>"
+        },
+        {
+          "title": "Configurez immédiatement les sauvegardes et alertes",
+          "html": "<p>Créez les comptes utilisateurs, limitez les droits d'accès, activez les mises à jour de sécurité et paramétrez une sauvegarde vers un disque USB, un second NAS ou une destination distante. Ajoutez des alertes par e-mail ou notification pour les problèmes de disque et la fin des tâches de sauvegarde.</p>"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on installer un disque dur classique dans un NAS ?",
+      "a_html": "<p>Oui, il peut être reconnu et fonctionner, surtout dans un NAS peu sollicité. Toutefois, un disque de bureau n'est pas forcément conçu pour tourner longtemps, gérer les vibrations de plusieurs disques ni se comporter de façon optimale dans une reconstruction RAID.</p><p>Pour des données importantes ou un NAS utilisé régulièrement, mieux vaut choisir un disque explicitement prévu pour NAS et vérifier sa compatibilité avec le boîtier. L'économie réalisée sur un modèle standard est rarement intéressante si elle se fait au détriment de la prévisibilité et de la tranquillité d'esprit.</p>"
+    },
+    {
+      "q": "Quelle est la meilleure capacité de disque pour un NAS à deux baies ?",
+      "a_html": "<p>Il n'existe pas de capacité universelle. Pour des documents, photos et quelques sauvegardes, deux disques de 4 ou 8 To en RAID 1 offrent souvent un bon point de départ. Pour une grande médiathèque ou des vidéos, deux disques de 12, 16 To ou davantage peuvent être plus cohérents.</p><p>Le point essentiel est que, en RAID 1, vous ne conservez que la capacité d'un seul disque. Calculez donc votre besoin futur en capacité utile, puis choisissez deux disques identiques avec une marge confortable.</p>"
+    },
+    {
+      "q": "Faut-il absolument choisir des disques identiques dans un RAID ?",
+      "a_html": "<p>Ce n'est pas toujours obligatoire, mais c'est fortement conseillé, en particulier pour un premier NAS. Deux disques identiques simplifient la configuration et évitent que la capacité du plus petit disque limite inutilement l'ensemble.</p><p>Si vous mélangez des capacités, un RAID classique n'utilisera généralement que l'espace commun aux disques. Certains systèmes de gestion souple proposent des combinaisons plus flexibles, mais il faut lire leurs règles de capacité avant achat.</p>"
+    },
+    {
+      "q": "CMR ou SMR : pourquoi est-ce important dans un NAS ?",
+      "a_html": "<p>Les disques SMR peuvent être satisfaisants pour certains usages d'archivage, mais leurs écritures deviennent parfois moins régulières lors de longues opérations. Dans un NAS, les sauvegardes automatiques, les transferts importants et les reconstructions RAID peuvent justement déclencher ce type de charge.</p><p>Le CMR est donc le choix le plus prudent pour un volume NAS actif. Vérifiez la documentation de la référence exacte : le nom de la gamme ne suffit pas toujours à déterminer la technologie d'enregistrement.</p>"
+    },
+    {
+      "q": "Un RAID 1 protège-t-il mes fichiers contre toutes les pertes ?",
+      "a_html": "<p>Non. Un RAID 1 protège principalement contre la panne matérielle d'un disque : l'autre disque contient la même donnée. Mais une suppression, un fichier chiffré par un logiciel malveillant ou une catastrophe affectant le NAS se répercute aussi sur le miroir.</p><p>Gardez au moins une sauvegarde séparée, idéalement hors du domicile. Les versions de fichiers et les sauvegardes planifiées sont très utiles pour revenir en arrière après une erreur humaine.</p>"
+    },
+    {
+      "q": "Un disque à 7 200 tr/min est-il nécessaire pour un NAS domestique ?",
+      "a_html": "<p>Pas forcément. Pour la sauvegarde, les photos, les documents et la lecture de contenus multimédias, un modèle à rotation plus modérée est généralement suffisant, surtout avec un réseau Gigabit. Il sera souvent plus discret et moins chaud.</p><p>Un disque à 7 200 tr/min devient plus pertinent pour des accès nombreux, de gros fichiers manipulés fréquemment ou un réseau supérieur au Gigabit. Dans tous les cas, le processeur du NAS, la mémoire et le réseau influencent aussi fortement le résultat.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Choisir un disque dur NAS revient à dimensionner un système complet, pas seulement à comparer des téraoctets. Partez de votre capacité utile après RAID, privilégiez un disque NAS CMR compatible avec votre boîtier, puis adaptez la gamme à l'intensité réelle de votre usage. Enfin, complétez la redondance par des sauvegardes testées : c'est ce qui transforme votre NAS en espace de stockage réellement fiable.</p>",
+  "__slug": "choisir-le-meilleur-disque-dur-nas-pour-votre-reseau-comparatif-et-conseils-dexperts"
+}

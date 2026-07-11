@@ -1,0 +1,257 @@
+{
+  "title": "Comment configurer une station météo sans fil, étape par étape",
+  "meta_description": "Configurez votre station météo sans fil pas à pas : appairage, emplacement des capteurs, Wi-Fi, réglages, calibration et dépannage utile.",
+  "reading_time_min": 10,
+  "hero_intro": "Vous aimeriez connaître la température réelle de votre jardin, surveiller l'humidité d'une pièce ou anticiper une gelée matinale ? Une station météo sans fil peut devenir un excellent repère au quotidien, à condition d'être correctement installée. De l'appairage du capteur au bon emplacement extérieur, voici une méthode simple pour obtenir des relevés fiables dès le premier jour.",
+  "key_takeaways": [
+    "Commencez toujours par installer les piles du capteur extérieur avant de mettre en route la console intérieure : c'est souvent la clé d'un appairage réussi.",
+    "La qualité des mesures dépend surtout du positionnement : un capteur en plein soleil ou collé à un mur donnera une température faussée.",
+    "Une connexion « sans fil » entre capteur et écran n'implique pas forcément une connexion Wi-Fi : vérifiez ce point avant de chercher à relier la station à une application.",
+    "Laissez les instruments se stabiliser pendant quelques heures, puis ajustez seulement les écarts persistants et cohérents.",
+    "En cas de perte de signal, vérifiez d'abord les piles, la distance, les obstacles métalliques et l'ordre de redémarrage des appareils."
+  ],
+  "toc": [
+    "Ce que signifie réellement « station météo sans fil »",
+    "Préparer l'installation : matériel, piles et emplacement",
+    "Configurer et appairer la station météo pas à pas",
+    "Bien placer les capteurs pour des données crédibles",
+    "Régler l'heure, les unités, les alertes et le Wi-Fi",
+    "Calibrer la station sans fausser les mesures",
+    "Résoudre les problèmes de connexion les plus fréquents",
+    "Entretenir sa station météo au fil des saisons"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Ce que signifie réellement « station météo sans fil »",
+      "html": "<p>Une station météo sans fil se compose généralement d'une <strong>console intérieure</strong>, avec écran, et d'un ou plusieurs <strong>capteurs extérieurs</strong>. Ces éléments communiquent par ondes radio sur une courte ou moyenne distance. La console affiche alors, selon le modèle, la température, l'humidité, la pression atmosphérique, les prévisions par pictogrammes ou encore les données de vent et de pluie.</p><p>Le mot « sans fil » peut prêter à confusion. Sur un modèle simple, le capteur envoie uniquement ses données à l'écran : aucune box internet n'est nécessaire. Sur une station connectée, la console ou une passerelle transmet aussi les relevés au réseau domestique afin de les consulter sur smartphone, de recevoir des alertes ou de conserver un historique.</p><p>Avant de commencer, prenez quelques minutes pour identifier les éléments fournis : sonde thermo-hygrométrique, pluviomètre, anémomètre, bloc d'alimentation, support mural, visserie et éventuel adaptateur secteur. La notice de votre modèle reste prioritaire pour les séquences de touches et les limites de distance, car elles varient d'une marque à l'autre.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Transmission radio ou station connectée : ne confondez pas les deux",
+      "intro": "La première installation est plus fluide lorsque l'on sait quel type de liaison l'appareil utilise.",
+      "left": {
+        "title": "Station radio avec écran",
+        "points": [
+          "Le capteur communique directement avec la console, sans internet.",
+          "Les relevés restent accessibles même lors d'une coupure de Wi-Fi.",
+          "La portée annoncée est souvent mesurée en terrain dégagé ; murs et dalles la réduisent.",
+          "Les données sont surtout consultées sur l'écran de la station."
+        ]
+      },
+      "right": {
+        "title": "Station météo Wi-Fi ou connectée",
+        "points": [
+          "Elle ajoute la consultation à distance via une application ou un service web.",
+          "Elle demande le plus souvent un réseau Wi-Fi domestique en 2,4 GHz lors de la configuration.",
+          "Elle peut synchroniser l'heure, l'historique et certaines alertes.",
+          "Elle reste dépendante du réseau et parfois d'un compte utilisateur pour les fonctions en ligne."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Préparer l'installation sans mauvaise surprise",
+      "intro": "Rassemblez ces éléments avant d'allumer la station. Vous éviterez les réinitialisations inutiles pendant l'appairage.",
+      "columns": [
+        "Élément à vérifier",
+        "Pourquoi c'est important",
+        "Bon réflexe"
+      ],
+      "rows": [
+        [
+          "Notice et référence exacte du modèle",
+          "Les menus, canaux et méthodes de réinitialisation ne sont pas universels.",
+          "Téléchargez la notice si elle n'est plus dans la boîte."
+        ],
+        [
+          "Piles neuves adaptées",
+          "Une tension trop faible provoque des pertes de signal ou des mesures instables.",
+          "Utilisez des piles de même marque et de même niveau de charge dans un même appareil."
+        ],
+        [
+          "Piles compatibles avec le froid",
+          "Le froid réduit l'autonomie de nombreuses piles alcalines.",
+          "Pour un capteur très exposé au froid, vérifiez si le fabricant recommande des piles au lithium."
+        ],
+        [
+          "Emplacement temporaire proche",
+          "L'appairage doit se faire à faible distance avant la pose définitive.",
+          "Placez capteur et console à un ou deux mètres l'un de l'autre au départ."
+        ],
+        [
+          "Wi-Fi 2,4 GHz si nécessaire",
+          "Beaucoup de stations connectées ne rejoignent pas les réseaux 5 GHz seuls.",
+          "Préparez le nom et le mot de passe du réseau avant de lancer l'application."
+        ]
+      ],
+      "note": "Les types de piles, les ports d'alimentation et la portée réelle dépendent du modèle : suivez toujours les préconisations du fabricant."
+    },
+    {
+      "type": "steps",
+      "heading": "Configurer et appairer la station météo pas à pas",
+      "intro": "Cette procédure convient à la grande majorité des stations sans fil. Si votre notice indique un ordre différent, appliquez celui du constructeur.",
+      "steps": [
+        {
+          "title": "Installez d'abord les piles dans le capteur extérieur",
+          "html": "<p>Ouvrez le compartiment et insérez les piles en respectant scrupuleusement les polarités. Le capteur émet souvent un signal d'association dès sa mise sous tension. Notez le canal sélectionné si un petit commutateur propose CH1, CH2 ou CH3.</p>"
+        },
+        {
+          "title": "Patientez quelques instants puis allumez la console",
+          "html": "<p>Placez la console près du capteur et branchez-la au secteur si un adaptateur est fourni. Insérez les piles de secours, si le modèle en accepte. L'écran recherche alors normalement le signal radio et affiche une icône d'antenne clignotante.</p>"
+        },
+        {
+          "title": "Vérifiez l'affichage des premières données",
+          "html": "<p>La température et l'humidité extérieures peuvent apparaître au bout de quelques minutes. Ne jugez pas encore leur exactitude : le capteur vient de quitter l'intérieur et doit s'acclimater à son environnement final.</p>"
+        },
+        {
+          "title": "Choisissez le bon canal et ajoutez les sondes supplémentaires",
+          "html": "<p>Si vous possédez plusieurs capteurs, attribuez un canal distinct à chacun avant de les associer. Lancez ensuite la recherche depuis la console, généralement via une touche marquée « Channel », « Scan » ou un symbole radio.</p>"
+        },
+        {
+          "title": "Installez les appareils à leur emplacement définitif",
+          "html": "<p>Une fois la liaison validée, déplacez le capteur dehors et la console dans la pièce souhaitée. Contrôlez de nouveau le signal après dix à quinze minutes, puis après une journée complète.</p>"
+        },
+        {
+          "title": "Configurez l'application, uniquement si votre modèle est connecté",
+          "html": "<p>Installez l'application officielle, créez un compte seulement si elle le demande et suivez l'assistant de connexion. Gardez le téléphone près de la console. Si le réseau 5 GHz n'est pas détecté, choisissez le réseau 2,4 GHz ou activez temporairement la compatibilité 2,4 GHz sur votre box selon ses réglages.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L'erreur la plus fréquente : inverser l'ordre d'allumage",
+      "html": "<p>Sur beaucoup de modèles, la console ne détecte le capteur que pendant une courte fenêtre au démarrage. Si l'écran affiche des tirets, retirez les piles de la console et du capteur, attendez une minute, puis recommencez en mettant <strong>le capteur sous tension avant la console</strong>. Évitez aussi de mélanger piles neuves et piles usagées.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Bien placer les capteurs pour des données crédibles",
+      "html": "<p>Une station parfaitement appairée peut pourtant fournir des résultats décevants si ses capteurs sont mal situés. Pour la température et l'humidité extérieures, cherchez un endroit <strong>ombragé, ventilé et protégé de la pluie directe</strong>. Un mur orienté au sud, un rebord de fenêtre ou une terrasse en plein soleil emmagasinent la chaleur : la température affichée sera souvent supérieure à celle de l'air ambiant.</p><p>L'idéal est d'installer la sonde à environ 1,25 à 2 mètres du sol, au-dessus d'une surface naturelle comme de l'herbe ou de la terre. En milieu urbain, faites au mieux : un support sous l'avancée d'un toit, exposé au nord et loin d'une bouche d'aération, est souvent plus pertinent qu'une façade ensoleillée. Veillez toutefois à ne pas enfermer le capteur dans un espace sans circulation d'air.</p><p>Le pluviomètre doit être posé à niveau, dans un espace dégagé. Les branches, une toiture ou une gouttière peuvent canaliser l'eau et gonfler artificiellement le cumul. L'anémomètre, lui, a besoin du point le plus ouvert et le plus haut possible. Sur un toit, la sécurité et la solidité de la fixation priment : si l'accès est risqué, mieux vaut renoncer à une mesure de vent parfaite que prendre un risque.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Repères de placement selon le capteur",
+      "points": [
+        "Sonde température/humidité : à l'ombre, ventilée, idéalement entre 1,25 et 2 mètres de hauteur.",
+        "Console intérieure : loin d'un radiateur, d'une baie vitrée très ensoleillée, d'une cuisine ou d'une source d'humidité ponctuelle.",
+        "Pluviomètre : parfaitement horizontal, dégagé au-dessus et nettoyé régulièrement.",
+        "Capteur de vent : en zone ouverte, solidement fixé et suffisamment éloigné des obstacles qui créent des turbulences.",
+        "Tous les capteurs : évitez les masses métalliques, coffrets électriques et murs épais susceptibles d'affaiblir la liaison radio."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Régler l'heure, les unités, les alertes et le Wi-Fi",
+      "html": "<p>Après l'installation physique, passez en revue les réglages de base. Choisissez les unités qui vous sont naturelles : degrés Celsius, hectopascals pour la pression, millimètres pour la pluie et kilomètres par heure pour le vent. Certaines stations proposent aussi l'affichage du point de rosée, de l'indice de chaleur ou de la température ressentie ; ces valeurs sont utiles, mais elles ne remplacent pas la température mesurée.</p><p>Réglez la date, le fuseau horaire et le changement d'heure automatique. Une station connectée peut les synchroniser sur internet ; une station radio peut recevoir un signal horaire selon votre région et votre modèle. Si l'heure reste incorrecte, vérifiez le fuseau choisi avant de conclure à une panne.</p><p>Les alertes méritent d'être personnalisées avec sobriété. Une alerte gel proche de 0 °C peut être pratique pour protéger des plantes sensibles, tandis qu'un seuil d'humidité élevé dans une cave peut aider à repérer un risque de condensation. Évitez des seuils trop serrés : des notifications incessantes finissent par être ignorées. Si votre station offre un historique, laissez-le s'accumuler plusieurs semaines avant d'en tirer des conclusions sur votre logement ou votre jardin.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Calibrer avec méthode, sans corriger au hasard",
+      "intro": "Le calibrage consiste à appliquer un petit décalage à une mesure. Il est utile seulement lorsqu'un écart se répète dans des conditions comparables.",
+      "columns": [
+        "Mesure",
+        "Quand envisager un réglage",
+        "Méthode prudente",
+        "À éviter"
+      ],
+      "rows": [
+        [
+          "Température",
+          "Écart stable observé par rapport à un thermomètre fiable placé juste à côté.",
+          "Comparez après 20 à 30 minutes dans un endroit ombragé et ventilé, puis appliquez un faible offset si nécessaire.",
+          "Comparer une sonde dehors à une référence restée dans la maison."
+        ],
+        [
+          "Humidité",
+          "Différence durable avec une référence de qualité dans le même espace.",
+          "Laissez les deux appareils se stabiliser plusieurs heures.",
+          "Modifier le réglage après une simple variation ponctuelle."
+        ],
+        [
+          "Pression atmosphérique",
+          "La station affiche une pression relative incohérente malgré une altitude correctement renseignée.",
+          "Entrez l'altitude locale ou utilisez la procédure de réglage de pression relative du fabricant.",
+          "Confondre pression absolue mesurée et pression ramenée au niveau de la mer."
+        ],
+        [
+          "Pluie",
+          "Écart répétitif après plusieurs épisodes, avec un pluviomètre installé à niveau.",
+          "Vérifiez d'abord l'horizontalité, la propreté et l'absence d'obstacle.",
+          "Ajuster le cumul après une averse isolée ou pendant un épisode venteux."
+        ]
+      ],
+      "note": "Une légère différence entre deux appareils grand public n'indique pas automatiquement un défaut. Le positionnement explique très souvent l'écart."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Avant toute calibration, laissez la station vivre 24 heures",
+      "html": "<p>Un capteur sorti de son emballage, déplacé du salon vers l'extérieur ou exposé à un changement brusque de météo a besoin de temps pour se stabiliser. Consultez plusieurs relevés à différents moments de la journée. Une correction ne doit servir qu'à compenser un biais durable, pas à poursuivre chaque variation normale du temps.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Perte de signal, tirets à l'écran : le diagnostic en six vérifications",
+      "intro": "La plupart des coupures de communication se résolvent sans remplacer la station.",
+      "steps": [
+        {
+          "title": "Contrôlez les piles en premier",
+          "html": "<p>Remplacez-les si elles sont anciennes, si les températures ont fortement baissé ou si l'icône de batterie s'affiche. Les piles peuvent encore faire fonctionner l'écran tout en étant trop faibles pour une transmission radio fiable.</p>"
+        },
+        {
+          "title": "Rapprochez provisoirement capteur et console",
+          "html": "<p>Si le signal revient à quelques mètres, le problème vient probablement de la portée ou d'un obstacle, non du capteur. Réinstallez ensuite les éléments en cherchant un chemin radio plus dégagé.</p>"
+        },
+        {
+          "title": "Éloignez les sources de perturbation",
+          "html": "<p>Testez un autre emplacement pour la console, surtout si elle est près d'une télévision, d'un routeur, d'un ordinateur, d'une grande surface métallique ou d'un tableau électrique. Il n'existe pas de distance universelle, mais quelques dizaines de centimètres peuvent parfois suffire.</p>"
+        },
+        {
+          "title": "Relancez l'appairage dans le bon ordre",
+          "html": "<p>Retirez l'alimentation et les piles, attendez environ une minute, insérez d'abord les piles du capteur, puis redémarrez la console. Consultez la notice pour une éventuelle touche de réinitialisation.</p>"
+        },
+        {
+          "title": "Vérifiez le canal et les capteurs voisins",
+          "html": "<p>Si plusieurs sondes sont présentes, assurez-vous qu'elles n'utilisent pas le même canal lorsque le fabricant demande des canaux séparés. Un voisin équipé d'un appareil similaire ne pose généralement pas problème, mais modifier le canal peut aider sur certains modèles.</p>"
+        },
+        {
+          "title": "Traitez séparément le problème Wi-Fi",
+          "html": "<p>Si les données apparaissent sur la console mais pas sur l'application, la liaison radio fonctionne. Vérifiez alors le mot de passe, la disponibilité du réseau 2,4 GHz, les autorisations de l'application et la proximité de la console avec le routeur lors de la configuration.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Entretenir sa station météo au fil des saisons",
+      "html": "<p>Une station météo demande peu d'entretien, mais quelques gestes réguliers préservent sa fiabilité. Tous les deux ou trois mois, inspectez les capteurs : retirez poussières, feuilles, insectes et toiles d'araignée. Le pluviomètre est particulièrement sensible aux débris, qui peuvent empêcher le mécanisme de bascule de fonctionner correctement.</p><p>Après un coup de vent ou une période de gel, vérifiez la fixation du capteur extérieur et l'état du support. Ne noyez pas les sondes électroniques sous un jet d'eau. Un chiffon doux légèrement humide suffit généralement pour la console ; pour les parties extérieures, suivez les recommandations de nettoyage de la notice.</p><p>Enfin, notez la date de changement des piles, par exemple au début de l'automne. Anticiper leur remplacement limite les coupures pendant l'hiver, période où le suivi de la température est souvent le plus utile. Une station bien installée n'a pas besoin d'être surveillée sans cesse : elle devient un outil simple pour observer votre microclimat et prendre de meilleures décisions au jardin comme à la maison.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi ma station météo sans fil affiche-t-elle des tirets pour la température extérieure ?",
+      "a_html": "<p>Les tirets signalent généralement l'absence de communication avec le capteur extérieur. Commencez par remplacer les piles, rapprochez le capteur de la console et relancez l'appairage en insérant d'abord les piles dans le capteur.</p><p>Si le signal revient à courte distance mais disparaît après l'installation, réduisez les obstacles entre les deux appareils ou changez l'emplacement de la console.</p>"
+    },
+    {
+      "q": "À quelle distance puis-je placer le capteur extérieur de la console ?",
+      "a_html": "<p>La portée indiquée sur l'emballage est souvent une portée maximale en terrain dégagé. À l'intérieur d'une maison, les murs porteurs, le béton armé, les vitrages métallisés et les appareils électriques peuvent la réduire nettement.</p><p>Fiez-vous donc à un test réel : installez le capteur à l'endroit envisagé, observez le signal pendant au moins une journée, puis rapprochez ou déplacez la console si les coupures se répètent.</p>"
+    },
+    {
+      "q": "Faut-il obligatoirement du Wi-Fi pour utiliser une station météo sans fil ?",
+      "a_html": "<p>Non. Une station météo sans fil classique transmet les données du capteur à son écran par radio et fonctionne sans internet. Le Wi-Fi est nécessaire seulement pour les fonctions connectées, comme la consultation sur smartphone, les alertes à distance ou l'enregistrement sur un service en ligne.</p>"
+    },
+    {
+      "q": "Où installer une sonde de température extérieure pour avoir une mesure fiable ?",
+      "a_html": "<p>Installez-la à l'ombre, dans un endroit ventilé, à distance d'un mur chauffé par le soleil, d'une fenêtre, d'une climatisation et d'une surface très minérale. Une hauteur comprise entre environ 1,25 et 2 mètres au-dessus d'un sol naturel est un bon repère.</p><p>Un capteur sous un abri ventilé, sur une façade nord, donne souvent de meilleurs résultats qu'un capteur posé sur une terrasse ou un balcon en plein soleil.</p>"
+    },
+    {
+      "q": "Comment régler la pression atmosphérique de ma station météo ?",
+      "a_html": "<p>Vérifiez d'abord si la station affiche une pression absolue ou une pression relative. La pression absolue dépend de votre altitude ; la pression relative est recalculée pour être comparable aux valeurs météo courantes au niveau de la mer.</p><p>Renseignez l'altitude de votre lieu si le menu le demande, puis laissez la station se stabiliser. Ne modifiez pas le réglage pour suivre chaque évolution météorologique : la pression doit justement varier avec le temps.</p>"
+    },
+    {
+      "q": "Pourquoi la température de ma station est-elle différente de celle annoncée par une application météo ?",
+      "a_html": "<p>Votre station mesure le microclimat précis de votre domicile, tandis qu'une application s'appuie souvent sur une station de référence située parfois à plusieurs kilomètres. L'altitude, l'urbanisation, l'exposition au vent et l'ensoleillement local expliquent des écarts parfaitement normaux.</p><p>Un écart important et constant doit toutefois vous inciter à revoir l'emplacement du capteur avant de tenter une calibration.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Configurer une station météo sans fil ne se limite pas à insérer des piles et attendre une icône de signal. L'appairage initial, le choix d'un emplacement protégé mais ventilé, puis quelques réglages bien pensés font toute la différence entre une simple curiosité et un outil vraiment utile.</p><p>Commencez simplement : associez les appareils à proximité, installez le capteur avec soin, laissez les mesures se stabiliser et corrigez seulement ce qui présente un écart durable. Vous pourrez alors suivre la météo de votre environnement réel et agir au bon moment, qu'il s'agisse d'aérer, d'arroser, de protéger ou de prévoir.</p>",
+  "__slug": "station-meteo-sans-fil-comment-configurer-la-station-meteo"
+}

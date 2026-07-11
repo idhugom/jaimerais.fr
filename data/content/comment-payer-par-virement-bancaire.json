@@ -1,0 +1,188 @@
+{
+  "title": "Comment payer par virement bancaire : étapes, délais et précautions",
+  "meta_description": "Payez par virement bancaire en toute sécurité : RIB, étapes, délais SEPA, frais, virement instantané et précautions avant validation du paiement.",
+  "reading_time_min": 10,
+  "hero_intro": "Vous devez régler une facture, rembourser un proche ou acheter un bien auprès d'un professionnel ? Le virement bancaire est une solution simple, directe et très répandue. Encore faut-il disposer des bonnes coordonnées, choisir le bon type de virement et vérifier chaque information avant de valider : une erreur ou une fraude peut être difficile à rattraper.",
+  "key_takeaways": [
+    "Un virement bancaire consiste à donner l'ordre à votre banque d'envoyer une somme depuis votre compte vers celui d'un bénéficiaire identifié par son IBAN.",
+    "Pour un paiement en euros dans l'espace SEPA, le délai est généralement d'un jour ouvrable ; un virement instantané arrive habituellement en quelques secondes si les deux banques l'acceptent.",
+    "Vérifiez toujours le RIB par un canal indépendant, surtout après un changement de coordonnées annoncé par e-mail ou message.",
+    "Un virement validé est difficile à annuler. En cas d'erreur ou d'escroquerie, contactez immédiatement votre banque, sans garantie de récupération.",
+    "Pour une facture, indiquez une référence explicite et conservez l'avis d'exécution : il prouve l'ordre de virement, mais pas nécessairement la réception définitive des fonds."
+  ],
+  "toc": [
+    "Comprendre le paiement par virement bancaire",
+    "Les étapes pour effectuer un virement",
+    "Virement classique ou instantané : lequel choisir ?",
+    "Délais, coordonnées et frais selon votre situation",
+    "Payer un particulier ou un professionnel en sécurité",
+    "Virement international : anticiper les frais et le change",
+    "Que faire après une erreur, un refus ou une fraude ?"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre le paiement par virement bancaire",
+      "html": "<p>Faire un paiement par virement bancaire revient à demander à votre banque de transférer une somme d'argent depuis votre compte vers le compte d'un bénéficiaire. L'opération se réalise le plus souvent depuis l'application bancaire ou l'espace client en ligne, mais peut aussi être demandée au guichet selon votre établissement.</p><p>En France et dans la zone SEPA, vous aurez principalement besoin de l'<strong>IBAN</strong> du destinataire, communiqué sur son relevé d'identité bancaire, ou RIB. Pour un virement hors zone SEPA, le code <strong>BIC/SWIFT</strong>, le nom de la banque et parfois des coordonnées locales supplémentaires peuvent être requis.</p><p>Le virement ne doit pas être confondu avec le prélèvement. Avec un virement, <strong>c'est vous qui déclenchez le paiement</strong> et en choisissez le montant. Avec un prélèvement, vous donnez au créancier une autorisation de prélever les échéances prévues sur votre compte. Cette différence compte notamment pour les abonnements, le loyer ou les factures récurrentes.</p><p>Ce moyen de paiement est adapté à un remboursement entre proches, au règlement d'une facture, au versement d'un acompte ou à l'achat d'un bien auprès d'un interlocuteur fiable. En revanche, il offre peu de protection lorsque vous achetez à distance auprès d'un inconnu : une fois les fonds reçus, le vendeur n'est pas automatiquement tenu par une plateforme de paiement de livrer le produit.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les informations à réunir avant de payer",
+      "points": [
+        "Le montant exact et la devise du paiement.",
+        "Le nom du titulaire du compte ou de l'entreprise bénéficiaire.",
+        "Un RIB lisible contenant l'IBAN ; le BIC/SWIFT est surtout utile pour certains virements internationaux.",
+        "Une référence de facture, de commande ou de dossier à recopier dans le motif.",
+        "Un moyen de validation forte actif : notification bancaire, code à usage unique ou validation dans l'application.",
+        "Le plafond de virement de votre compte, particulièrement important pour un achat conséquent."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Les 6 étapes pour effectuer un virement bancaire",
+      "intro": "Les libellés varient légèrement d'une banque à l'autre, mais le parcours reste très proche. Prenez quelques minutes pour le réaliser sans vous laisser presser.",
+      "steps": [
+        {
+          "title": "1. Contrôlez la demande de paiement",
+          "html": "<p>Comparez le montant, l'échéance et les coordonnées figurant sur la facture ou le contrat. Si une entreprise annonce un nouveau RIB, vérifiez l'information en appelant le numéro officiel trouvé sur son site ou un document antérieur, jamais celui indiqué dans un e-mail suspect.</p>"
+        },
+        {
+          "title": "2. Ajoutez le bénéficiaire",
+          "html": "<p>Dans votre application, ouvrez la rubrique « Virements » puis « Ajouter un bénéficiaire ». Saisissez ou scannez l'IBAN avec soin. Certaines banques imposent un délai de sécurité avant le premier transfert vers un nouveau bénéficiaire.</p>"
+        },
+        {
+          "title": "3. Choisissez le compte à débiter",
+          "html": "<p>Sélectionnez le compte depuis lequel l'argent doit partir. Vérifiez son solde disponible et votre plafond quotidien ou hebdomadaire. Un plafond insuffisant peut bloquer la validation, même si votre compte est approvisionné.</p>"
+        },
+        {
+          "title": "4. Indiquez le montant et le type de virement",
+          "html": "<p>Renseignez le montant, puis choisissez un virement SEPA classique ou, si l'option est proposée et pertinente, un virement instantané. Vérifiez aussi la date d'exécution : un ordre programmé n'est pas débité immédiatement.</p>"
+        },
+        {
+          "title": "5. Soignez le motif et relisez l'écran récapitulatif",
+          "html": "<p>Ajoutez une référence claire, par exemple « Facture F-2025-184 » ou « Acompte travaux Martin ». Relisez chiffre par chiffre l'IBAN, le montant et la date. Ne validez que lorsque toutes les informations correspondent à votre accord avec le bénéficiaire.</p>"
+        },
+        {
+          "title": "6. Authentifiez-vous et conservez la preuve",
+          "html": "<p>Confirmez l'opération avec la procédure de sécurité de votre banque. Téléchargez ensuite l'avis d'exécution ou faites une capture de l'écran de confirmation. Pour une vente, le bénéficiaire doit toutefois attendre que le crédit apparaisse réellement sur son compte avant de remettre le bien.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Virement SEPA classique ou virement instantané ?",
+      "intro": "Le choix dépend surtout de l'urgence, du plafond autorisé par votre banque et de l'éligibilité du compte bénéficiaire.",
+      "left": {
+        "title": "Virement SEPA classique",
+        "points": [
+          "Crédit généralement au plus tard le jour ouvrable suivant la réception de l'ordre par la banque.",
+          "Convient aux factures, remboursements et paiements anticipés non urgents.",
+          "Peut être programmé à une date précise.",
+          "Souvent inclus dans les forfaits bancaires en ligne, sous réserve des conditions de votre banque."
+        ]
+      },
+      "right": {
+        "title": "Virement instantané",
+        "points": [
+          "Crédit habituellement en moins de dix secondes, y compris le soir et le week-end, lorsque le service est disponible.",
+          "Utile pour une urgence réelle ou un paiement à remettre immédiatement.",
+          "Soumis à des plafonds spécifiques et à l'acceptation des banques émettrice et destinataire.",
+          "À traiter avec prudence : sa rapidité laisse très peu de temps pour réagir à une erreur."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Délais, coordonnées et frais : ce qu'il faut prévoir",
+      "intro": "Ces repères sont indicatifs : les heures limites de traitement, les plafonds et la tarification dépendent de votre banque et de votre contrat.",
+      "columns": [
+        "Situation",
+        "Coordonnées généralement demandées",
+        "Délai habituel",
+        "Coût à anticiper"
+      ],
+      "rows": [
+        [
+          "Virement en France, en euros",
+          "IBAN du bénéficiaire",
+          "Souvent un jour ouvrable après réception de l'ordre",
+          "Souvent gratuit en ligne ou quelques euros selon l'offre"
+        ],
+        [
+          "Virement SEPA vers un autre pays",
+          "IBAN ; BIC parfois demandé",
+          "En principe au plus tard un jour ouvrable pour un ordre électronique en euros",
+          "Souvent gratuit ou inclus, à vérifier dans la grille tarifaire"
+        ],
+        [
+          "Virement SEPA instantané",
+          "IBAN et bénéficiaire éligible au service",
+          "Habituellement moins de dix secondes",
+          "Selon la banque ; les règles européennes encadrent le prix des virements instantanés en euros"
+        ],
+        [
+          "Virement hors zone SEPA ou en devise",
+          "IBAN ou numéro local, BIC/SWIFT, parfois adresse de banque",
+          "Souvent 2 à 5 jours ouvrables, parfois davantage",
+          "Souvent entre 10 et 50 € de frais bancaires, plus un éventuel coût de change"
+        ]
+      ],
+      "note": "Un ordre donné après l'heure limite de votre banque, un week-end ou un jour férié peut être pris en compte le jour ouvrable suivant. Les frais internationaux peuvent aussi être partagés entre les parties ou supportés par l'émetteur selon l'option choisie."
+    },
+    {
+      "type": "prose",
+      "heading": "Payer un particulier ou un professionnel en sécurité",
+      "html": "<p>Pour rembourser un proche, demandez-lui son RIB directement ou via un canal que vous connaissez déjà. L'IBAN est conçu pour être communiqué afin de recevoir des paiements, mais cela ne dispense pas de vérifier l'identité de la personne. Un prénom affiché dans une messagerie ne constitue pas une vérification suffisante pour une somme importante.</p><p>Pour régler un professionnel, appuyez-vous sur une facture détaillée : raison sociale, numéro de facture, montant, échéance et coordonnées bancaires doivent être cohérents. Inscrivez le numéro de facture dans le motif. Cela facilite le rapprochement comptable et évite une relance pour impayé alors que le virement a bien été émis.</p><p>Lors d'un achat entre particuliers, évitez de verser un acompte à un vendeur introuvable, qui refuse tout échange téléphonique ou exige un paiement immédiat sous prétexte qu'un autre acheteur attend. Pour un objet coûteux, privilégiez une remise en main propre, une plateforme offrant un paiement sécurisé ou un professionnel identifiable. Un virement n'offre pas de mécanisme de contestation comparable à celui d'un paiement par carte pour un achat non livré.</p><p>Si vous êtes vendeur, ne vous fiez pas à une capture d'écran envoyée par l'acheteur. Une fausse confirmation de virement se fabrique facilement. Attendez la constatation effective du crédit sur votre propre compte avant d'expédier un colis ou de remettre les clés, le véhicule ou l'objet vendu.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux faux changements de RIB",
+      "html": "<p>La fraude au faux RIB cible particulièrement les factures et les acomptes. Un pirate peut se faire passer pour un artisan, un fournisseur, un notaire ou un proche afin de vous communiquer de nouvelles coordonnées bancaires. <strong>Ne modifiez jamais un bénéficiaire sur la seule foi d'un e-mail.</strong> Confirmez le changement par téléphone, en utilisant un numéro fiable et déjà connu.</p><p>Votre banque ne vous demandera jamais votre code secret, vos codes de validation ou la validation d'un virement que vous n'avez pas initié. Une demande de ce type doit être considérée comme suspecte.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Virement international : ne regardez pas uniquement les frais affichés",
+      "html": "<p>Un paiement hors zone SEPA nécessite souvent un virement international via le réseau SWIFT. Avant de l'envoyer, demandez au bénéficiaire ses coordonnées complètes et vérifiez la devise attendue. Un mauvais numéro de compte, un code banque incomplet ou un nom non conforme peut entraîner un rejet, un retard ou des frais de retour.</p><p>Le prix ne se limite pas toujours aux frais de départ. Il peut inclure des frais de banques intermédiaires et une marge sur le taux de change. Les options de répartition des frais sont fréquemment désignées par <strong>SHA</strong> (frais partagés), <strong>OUR</strong> (frais pris en charge par l'émetteur) ou <strong>BEN</strong> (frais déduits du montant reçu). Demandez au destinataire quelle option est attendue, notamment pour une facture dont il doit recevoir un montant net précis.</p><p>Pour comparer deux solutions, calculez le coût total : frais fixes, taux de change appliqué, montant réellement reçu et délai. Un service affichant peu de frais peut être moins avantageux si son taux de conversion est défavorable. Pour une somme importante, un devis ou un récapitulatif avant validation est indispensable.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "La vérification express avant de cliquer sur « Valider »",
+      "html": "<ul><li>Le bénéficiaire est-il bien celui avec qui vous avez conclu l'achat ou le contrat ?</li><li>L'IBAN provient-il d'une source vérifiée indépendamment ?</li><li>Le montant, la devise et la date d'exécution sont-ils exacts ?</li><li>Le motif permettra-t-il d'identifier facilement la facture ou la commande ?</li><li>Le caractère urgent de la demande est-il justifié, ou sert-il à vous empêcher de contrôler ?</li></ul><p>Pour un premier règlement élevé, vous pouvez envisager un petit virement de test <strong>après</strong> avoir vérifié les coordonnées. Cela confirme seulement que le compte reçoit les fonds ; ce n'est pas une protection contre une arnaque.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Erreur, refus ou fraude : agir sans attendre",
+      "html": "<p>Un virement peut être refusé avant son exécution pour plusieurs raisons : plafond dépassé, solde insuffisant, authentification non finalisée, bénéficiaire en attente d'activation ou contrôle de sécurité de la banque. Consultez le message affiché dans votre espace client plutôt que de multiplier les tentatives. Votre banque peut vous demander une confirmation supplémentaire pour protéger votre compte.</p><p>Si vous avez saisi un mauvais montant, une mauvaise date ou un mauvais IBAN, contactez votre banque <strong>immédiatement</strong>. Tant que l'ordre n'a pas été reçu pour exécution ou traité, une annulation peut parfois être possible. Une fois le virement exécuté, notamment s'il est instantané, votre banque peut demander un rappel de fonds au bénéficiaire, mais elle ne peut pas garantir son succès.</p><p>En cas d'escroquerie, appelez sans délai le service fraude ou l'assistance de votre banque, puis signalez les faits et conservez les e-mails, messages, factures et justificatifs. Expliquez précisément ce qui s'est passé. Il faut distinguer une opération réellement non autorisée d'un virement que vous avez validé sous la manipulation d'un fraudeur : les démarches et l'analyse de la banque ne sont pas les mêmes.</p><p>Enfin, ne communiquez jamais vos identifiants bancaires ou vos codes de validation à une personne qui prétend vous aider à recevoir un paiement. Pour recevoir un virement, votre RIB suffit généralement ; personne n'a besoin de se connecter à votre espace bancaire à votre place.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on faire un virement avec seulement un IBAN ?",
+      "a_html": "<p>Pour un virement SEPA, l'IBAN est l'information centrale. Votre banque peut aussi vous demander le nom du bénéficiaire et, dans certains cas, un BIC. Demandez toujours le RIB complet au destinataire et vérifiez-le via un canal fiable.</p><p>Un IBAN correct ne prouve pas à lui seul que le compte appartient réellement à la personne ou à l'entreprise attendue. Pour une somme importante, contrôlez l'identité du bénéficiaire avant de payer.</p>"
+    },
+    {
+      "q": "Combien de temps prend un virement bancaire ?",
+      "a_html": "<p>Un virement SEPA classique en euros est généralement crédité au plus tard le jour ouvrable suivant la réception de l'ordre par la banque. Une demande faite après l'heure limite, un vendredi soir ou pendant un jour férié peut donc prendre plus de temps en pratique.</p><p>Un virement instantané, lorsque les deux banques le permettent, est habituellement reçu en quelques secondes. Un virement international hors zone SEPA demande souvent plusieurs jours ouvrables.</p>"
+    },
+    {
+      "q": "Puis-je annuler un virement bancaire déjà envoyé ?",
+      "a_html": "<p>Vous pouvez parfois annuler un ordre programmé ou non encore traité depuis votre espace bancaire. Après son exécution, le virement devient en principe difficile à annuler. Contactez immédiatement votre banque : elle pourra éventuellement lancer une demande de rappel, sans pouvoir en garantir l'issue.</p><p>Ne tardez pas, surtout pour un virement instantané : l'argent est transféré presque immédiatement.</p>"
+    },
+    {
+      "q": "Le virement bancaire est-il un moyen de paiement sûr ?",
+      "a_html": "<p>La procédure bancaire est sécurisée par l'authentification forte et le virement est très fiable lorsque vous connaissez le bénéficiaire. Le risque principal vient plutôt d'une erreur de coordonnées ou d'une escroquerie : faux RIB, faux vendeur, piratage d'e-mail ou demande urgente.</p><p>Vérifiez donc le RIB indépendamment et évitez le virement pour un achat à distance auprès d'un inconnu sans garantie de livraison.</p>"
+    },
+    {
+      "q": "Quelle différence entre virement et prélèvement bancaire ?",
+      "a_html": "<p>Le virement est déclenché par vous, ponctuellement ou à une date programmée. Vous décidez du bénéficiaire et du montant à chaque ordre, sauf si vous mettez en place un virement permanent.</p><p>Le prélèvement est initié par un créancier après la mise en place d'un mandat. Il est pratique pour les paiements récurrents, comme l'électricité, une assurance ou un abonnement.</p>"
+    },
+    {
+      "q": "Pourquoi mon virement est-il en attente ou refusé ?",
+      "a_html": "<p>Les causes fréquentes sont un plafond de virement atteint, un solde insuffisant, un nouveau bénéficiaire soumis à un délai de sécurité, une validation forte incomplète ou un contrôle antifraude. Vérifiez aussi la date choisie et l'heure limite de traitement de votre banque.</p><p>Si le blocage persiste ou si la demande vous semble inhabituelle, contactez votre banque avant de tenter une autre opération ou de modifier les coordonnées du bénéficiaire.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Payer par virement bancaire est simple dès lors que vous préparez les bonnes informations et que vous prenez le temps de relire l'ordre. Pour un paiement courant, un virement SEPA classique suffit souvent ; pour une urgence légitime, le virement instantané peut rendre service. Dans tous les cas, la règle la plus utile reste la même : vérifiez le bénéficiaire et son RIB avant validation, car la rapidité d'un virement ne laisse que peu de place à la correction.</p>",
+  "__slug": "comment-payer-par-virement-bancaire"
+}

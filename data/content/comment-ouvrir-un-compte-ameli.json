@@ -1,0 +1,251 @@
+{
+  "title": "Comment ouvrir un compte ameli : étapes, conditions et solutions en cas de blocage",
+  "meta_description": "Découvrez comment créer votre compte ameli, les informations à préparer, les solutions en cas de blocage et les démarches accessibles en ligne.",
+  "reading_time_min": 9,
+  "hero_intro": "Consulter ses remboursements, télécharger une attestation de droits ou signaler un changement d'adresse : le compte ameli simplifie de nombreuses démarches de santé. Sa création est gratuite et se fait généralement en quelques minutes, à condition que votre dossier soit bien rattaché à l'Assurance Maladie. Voici quoi préparer, comment procéder et que faire si l'inscription ne fonctionne pas du premier coup.",
+  "key_takeaways": [
+    "Le compte ameli est gratuit et réservé aux personnes déjà affiliées à l'Assurance Maladie, avec un numéro de sécurité sociale exploitable.",
+    "Préparez votre numéro de sécurité sociale, votre date de naissance, un e-mail personnel et, selon votre situation, vos coordonnées bancaires.",
+    "La création se fait sur le site ou l'application officielle ; la validation peut être immédiate ou nécessiter une étape de sécurité complémentaire.",
+    "Une carte Vitale ne suffit pas toujours à créer un compte, et une pièce d'identité n'est pas systématiquement demandée en ligne.",
+    "En cas d'échec, vérifiez d'abord les informations de votre dossier, puis contactez votre caisse ou utilisez le canal adapté à votre régime d'assurance maladie."
+  ],
+  "toc": [
+    "À quoi sert un compte ameli et qui peut en créer un ?",
+    "Les informations à préparer avant l'inscription",
+    "Créer son compte ameli pas à pas",
+    "Valider et sécuriser son accès",
+    "Que faire si la création du compte est impossible ?",
+    "Les démarches utiles à effectuer une fois connecté",
+    "Protéger son compte ameli contre les arnaques"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "À quoi sert un compte ameli et qui peut en créer un ?",
+      "html": "<p>Le compte ameli est l'espace personnel en ligne de l'Assurance Maladie. Il permet de suivre les paiements liés aux soins, de récupérer des documents administratifs et d'effectuer certaines démarches sans se déplacer. Il ne remplace ni votre carte Vitale ni votre complémentaire santé : il vous aide à gérer votre dossier auprès de l'Assurance Maladie.</p><p>Vous pouvez en principe créer un compte si vous êtes déjà rattaché à une caisse primaire d'assurance maladie (CPAM) et si votre numéro de sécurité sociale est reconnu dans son système. La démarche concerne notamment les salariés, étudiants, demandeurs d'emploi, retraités et personnes protégées au titre de la protection universelle maladie. L'ouverture du compte est <strong>entièrement gratuite</strong>.</p><p>La situation peut être différente si vous dépendez d'un autre organisme, par exemple la Mutualité sociale agricole (MSA), certains régimes spéciaux ou un organisme qui gère encore directement votre protection sociale. Les mineurs, les personnes récemment arrivées en France ou celles qui disposent d'un numéro provisoire peuvent aussi rencontrer des règles d'accès particulières. Dans ces cas, il faut suivre les indications de l'organisme qui gère effectivement vos droits.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Ce que vous pouvez faire depuis votre espace personnel",
+      "points": [
+        "Consulter le détail de vos remboursements et télécharger des relevés.",
+        "Obtenir une attestation de droits, souvent demandée par une mutuelle, un employeur ou un professionnel de santé.",
+        "Télécharger une attestation de paiement d'indemnités journalières lorsque votre situation le permet.",
+        "Commander une carte européenne d'assurance maladie (CEAM) avant un séjour en Europe.",
+        "Déclarer ou mettre à jour certaines informations, contacter votre caisse et suivre vos démarches.",
+        "Accéder à des services de prévention, à votre messagerie et aux informations utiles de votre dossier."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les éléments à réunir avant de créer votre compte",
+      "intro": "Le formulaire peut adapter les informations demandées à votre situation. Préparez ces éléments pour éviter d'interrompre l'inscription.",
+      "columns": [
+        "Élément",
+        "Pourquoi il est utile",
+        "Où le trouver",
+        "À savoir"
+      ],
+      "rows": [
+        [
+          "Numéro de sécurité sociale",
+          "Identifier votre dossier d'assuré",
+          "Carte Vitale, attestation de droits ou courrier de l'Assurance Maladie",
+          "Saisissez-le exactement, sans confondre un chiffre et une lettre."
+        ],
+        [
+          "État civil et date de naissance",
+          "Vérifier votre identité dans le dossier",
+          "Acte d'état civil, carte d'identité, attestation de droits",
+          "Utilisez l'orthographe enregistrée par votre caisse, y compris les éventuels noms d'usage."
+        ],
+        [
+          "Adresse e-mail personnelle",
+          "Recevoir des informations de sécurité et récupérer l'accès",
+          "Votre boîte mail",
+          "Choisissez une adresse que vous consultez réellement et qui n'est pas partagée."
+        ],
+        [
+          "Coordonnées bancaires à jour",
+          "Contrôler ou compléter certaines informations de dossier",
+          "RIB de votre compte bancaire",
+          "Un RIB peut être demandé selon le parcours ; il est préférable qu'il soit déjà connu de votre caisse."
+        ],
+        [
+          "Code postal et téléphone",
+          "Faciliter la vérification et les contacts",
+          "Vos coordonnées actuelles",
+          "Mettez d'abord vos coordonnées à jour si vous avez récemment déménagé."
+        ]
+      ],
+      "note": "La carte Vitale est utile pour retrouver votre numéro, mais elle n'est pas toujours la seule pièce nécessaire. Ne transmettez jamais vos informations à un site qui vous réclame des frais pour créer le compte."
+    },
+    {
+      "type": "steps",
+      "heading": "Créer son compte ameli pas à pas",
+      "intro": "Comptez généralement une dizaine de minutes dans un environnement calme, avec vos informations personnelles à portée de main.",
+      "steps": [
+        {
+          "title": "Accédez uniquement au site ou à l'application officielle",
+          "html": "<p>Rendez-vous sur <a href=\"https://www.ameli.fr/\">ameli.fr</a>, puis choisissez l'accès au compte ameli et l'option de création de compte. Vous pouvez également passer par l'application officielle lorsqu'elle est disponible sur votre appareil. Évitez les liens reçus par message ou trouvés dans une publicité : saisissez vous-même l'adresse du site.</p>"
+        },
+        {
+          "title": "Renseignez les données demandées",
+          "html": "<p>Indiquez votre numéro de sécurité sociale, votre nom, votre date de naissance et les autres éléments demandés à l'écran. Prenez le temps de vérifier chaque caractère. Une différence entre votre saisie et les données connues par la caisse peut suffire à bloquer la création.</p>"
+        },
+        {
+          "title": "Confirmez votre e-mail et choisissez vos identifiants",
+          "html": "<p>Utilisez un e-mail personnel et pérenne. Créez un mot de passe long, unique et difficile à deviner, sans reprendre celui de votre messagerie ou de votre banque. Conservez-le dans un gestionnaire de mots de passe ou un endroit sûr, mais ne l'envoyez jamais par e-mail ou par SMS.</p>"
+        },
+        {
+          "title": "Suivez la procédure de validation affichée",
+          "html": "<p>Selon votre dossier et les contrôles de sécurité, le parcours peut permettre une activation rapide ou vous demander une vérification complémentaire. Suivez exactement les instructions reçues par le canal officiel : un code peut notamment être nécessaire pour finaliser ou sécuriser l'accès. Ne communiquez ce code à personne.</p>"
+        },
+        {
+          "title": "Connectez-vous et contrôlez vos informations",
+          "html": "<p>Une fois le compte activé, connectez-vous depuis le site ou l'application. Vérifiez votre adresse, votre RIB s'il apparaît dans vos démarches, votre médecin traitant et les informations de contact. Corriger une erreur tôt évite des courriers perdus ou des remboursements ralentis.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Créer un compte ameli ou utiliser FranceConnect : ne pas confondre",
+      "intro": "Ces deux moyens peuvent faciliter l'accès à des services publics, mais ils n'ont pas le même rôle.",
+      "left": {
+        "title": "Le compte ameli",
+        "points": [
+          "C'est votre espace dédié à l'Assurance Maladie.",
+          "Il donne accès aux remboursements, attestations, messages et démarches santé.",
+          "Il nécessite des identifiants propres et un dossier reconnu par votre caisse.",
+          "C'est le compte à privilégier pour gérer régulièrement votre assurance maladie."
+        ]
+      },
+      "right": {
+        "title": "FranceConnect",
+        "points": [
+          "C'est un dispositif de connexion à plusieurs services publics avec un compte déjà existant.",
+          "Il peut être proposé comme mode d'identification sur certains parcours.",
+          "Il ne remplace pas le contenu ni la gestion de votre dossier Assurance Maladie.",
+          "Sa disponibilité dépend du service et de la situation de l'utilisateur."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un détail qui évite beaucoup de blocages",
+      "html": "<p>Si vous avez changé de nom, d'adresse, de banque ou de régime récemment, vos informations peuvent ne pas être encore synchronisées. Avant de multiplier les tentatives, vérifiez que votre dossier administratif est à jour. Attendez la prise en compte d'une modification si elle vient d'être effectuée, puis recommencez avec les informations exactes figurant sur vos documents officiels.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Que faire si vous ne parvenez pas à ouvrir votre compte ?",
+      "html": "<p>Un message d'erreur ne signifie pas nécessairement que vous n'avez pas droit à l'Assurance Maladie. Le problème vient souvent d'une donnée qui ne correspond pas au dossier : nom de naissance et nom d'usage inversés, date de naissance erronée, ancienne adresse, RIB non enregistré ou numéro de sécurité sociale encore provisoire. Relisez les informations sans essayer de variantes au hasard.</p><p>Si le site indique qu'il ne peut pas créer votre compte, identifiez d'abord votre organisme de rattachement. Une personne relevant de la MSA, par exemple, doit se tourner vers l'espace en ligne de la MSA plutôt que vers ameli. Pour une première affiliation, l'arrivée récente en France, un dossier en cours de mise à jour ou une situation familiale particulière, la création peut devoir attendre la stabilisation des droits.</p><p>Lorsque vos données semblent correctes, contactez votre caisse depuis les moyens de contact indiqués sur le site officiel, prenez rendez-vous si nécessaire ou demandez de l'aide à un accueil. Préparez votre numéro de sécurité sociale et expliquez le message affiché. Un conseiller pourra vérifier la cause du blocage sans que vous ayez à transmettre vos identifiants.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les blocages fréquents et la bonne réaction",
+      "intro": "Avant de recommencer plusieurs fois, associez le problème à la solution la plus probable.",
+      "columns": [
+        "Situation rencontrée",
+        "Cause possible",
+        "Action recommandée"
+      ],
+      "rows": [
+        [
+          "Le formulaire refuse vos informations",
+          "Écart entre la saisie et le dossier administratif",
+          "Vérifiez nom de naissance, date de naissance, numéro et code postal ; utilisez les données de votre attestation de droits."
+        ],
+        [
+          "Votre numéro est récent ou provisoire",
+          "Dossier d'affiliation en cours de traitement",
+          "Contactez votre organisme gestionnaire et demandez à quel moment l'accès en ligne sera possible."
+        ],
+        [
+          "Vous relevez de la MSA ou d'un régime particulier",
+          "Le compte ameli ne gère pas votre régime",
+          "Connectez-vous au portail de votre organisme de protection sociale."
+        ],
+        [
+          "Vous ne recevez pas de message de validation",
+          "Adresse e-mail mal saisie, message filtré ou délai de traitement",
+          "Contrôlez les courriers indésirables, l'adresse saisie et reprenez le parcours officiel si nécessaire."
+        ],
+        [
+          "Vous avez oublié vos accès",
+          "Compte déjà créé ou identifiants perdus",
+          "Utilisez la fonction officielle de récupération ; ne créez pas de comptes successifs."
+        ],
+        [
+          "Vous avez reçu un message inquiétant",
+          "Tentative d'hameçonnage",
+          "Ne cliquez pas, ne répondez pas et reconnectez-vous directement sur ameli.fr."
+        ]
+      ],
+      "note": "Les modalités d'accès peuvent évoluer. Les instructions affichées dans votre espace officiel et celles données par votre caisse priment toujours."
+    },
+    {
+      "type": "prose",
+      "heading": "Les premières démarches utiles après l'activation",
+      "html": "<p>Une fois connecté, commencez par télécharger votre <strong>attestation de droits</strong>. Ce document mentionne votre couverture actuelle et peut vous être demandé par une mutuelle, un professionnel de santé ou lors d'une inscription à certains services. Il est plus récent et plus complet qu'une simple photocopie de carte Vitale.</p><p>Consultez ensuite la rubrique des paiements. Vous pourrez vérifier les remboursements versés, repérer un éventuel retard et comprendre la différence entre la part de l'Assurance Maladie et celle qui relève de votre complémentaire santé. Un remboursement absent n'est pas forcément un incident : il peut dépendre de la transmission de la feuille de soins ou du délai de traitement.</p><p>Enfin, vérifiez vos coordonnées de contact et vos informations bancaires. Si vous partez prochainement dans l'Union européenne, l'Espace économique européen, au Royaume-Uni ou en Suisse, renseignez-vous à l'avance sur la commande d'une carte européenne d'assurance maladie. Elle ne remplace pas une assurance voyage, mais elle peut faciliter la prise en charge des soins nécessaires selon les règles du pays visité.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Sécuriser durablement votre espace ameli",
+      "intro": "Votre compte contient des données de santé et des informations personnelles. Quelques réflexes simples réduisent fortement les risques.",
+      "steps": [
+        {
+          "title": "Créez un mot de passe réellement unique",
+          "html": "<p>Choisissez une phrase longue ou une combinaison de plusieurs mots, chiffres et caractères, sans information évidente comme votre date de naissance. Un gestionnaire de mots de passe peut vous aider à le conserver sans le réutiliser ailleurs.</p>"
+        },
+        {
+          "title": "Ne partagez ni code ni identifiant",
+          "html": "<p>Un conseiller, une banque ou l'Assurance Maladie ne doit pas vous demander votre mot de passe. Les codes de validation reçus par e-mail ou SMS sont personnels : les communiquer revient souvent à donner l'accès à votre compte.</p>"
+        },
+        {
+          "title": "Méfiez-vous des messages urgents",
+          "html": "<p>Les faux e-mails et SMS peuvent annoncer un remboursement exceptionnel, une carte Vitale à renouveler ou un document à signer. Ne cliquez pas sous la pression. Ouvrez vous-même votre navigateur, rendez-vous sur ameli.fr et vérifiez si une information apparaît dans votre espace.</p>"
+        },
+        {
+          "title": "Déconnectez-vous sur un appareil partagé",
+          "html": "<p>Dans une bibliothèque, chez un proche ou sur un ordinateur professionnel, ne mémorisez pas vos identifiants et déconnectez-vous après chaque utilisation. Gardez aussi votre adresse e-mail associée au compte bien protégée.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Aucun paiement n'est nécessaire",
+      "html": "<p>La création, l'activation et la gestion d'un compte ameli sont gratuites. Un site, un appel ou un message qui réclame des frais pour « renouveler » une carte Vitale, débloquer un remboursement ou activer votre compte doit vous alerter. Passez toujours par le site officiel et les coordonnées publiées par votre caisse.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on créer un compte ameli sans carte Vitale ?",
+      "a_html": "<p>Oui, la carte Vitale n'est pas forcément indispensable à elle seule pour créer le compte. Elle est pratique pour retrouver votre numéro de sécurité sociale, mais le parcours repose surtout sur les données déjà enregistrées dans votre dossier : état civil, date de naissance, coordonnées et, selon les cas, autres éléments de vérification.</p><p>Si vous n'avez ni carte Vitale ni attestation de droits, contactez votre caisse pour connaître la démarche adaptée à votre situation.</p>"
+    },
+    {
+      "q": "Pourquoi le site ameli refuse-t-il mon numéro de sécurité sociale ?",
+      "a_html": "<p>Vérifiez d'abord que vous avez saisi tous les chiffres correctement et que votre nom et votre date de naissance correspondent à votre dossier. Le refus peut aussi s'expliquer par un changement récent de situation, un numéro provisoire, une première affiliation en cours ou un rattachement à un autre régime.</p><p>Ne tentez pas de créer plusieurs comptes. Si le blocage persiste, contactez l'organisme qui gère vos droits avec le message d'erreur affiché.</p>"
+    },
+    {
+      "q": "Combien de temps faut-il pour ouvrir un compte ameli ?",
+      "a_html": "<p>Lorsque le dossier est à jour et que les vérifications aboutissent, la création peut être très rapide. Toutefois, selon la situation de l'assuré et les contrôles nécessaires, une étape de validation supplémentaire ou l'intervention de la caisse peut allonger le délai.</p><p>Il est donc préférable de créer votre espace avant d'avoir besoin d'une attestation urgente ou d'effectuer un voyage.</p>"
+    },
+    {
+      "q": "Est-ce que le compte ameli est obligatoire ?",
+      "a_html": "<p>Non, le compte ameli n'est pas obligatoire pour être couvert par l'Assurance Maladie. Vous pouvez continuer à recevoir des courriers et à effectuer certaines démarches par d'autres moyens.</p><p>Il reste très utile pour accéder rapidement aux attestations, suivre les remboursements et échanger avec votre caisse sans vous déplacer.</p>"
+    },
+    {
+      "q": "Puis-je ouvrir un compte ameli pour mon enfant ?",
+      "a_html": "<p>Les modalités d'accès des mineurs dépendent de leur âge, de leur propre situation d'assuré et des règles applicables au moment de la demande. Les parents peuvent gérer les démarches de l'enfant rattaché à leur dossier, mais un espace personnel n'est pas automatiquement ouvert pour chaque mineur.</p><p>Consultez les indications officielles correspondant à l'âge et au rattachement de votre enfant, ou demandez conseil à votre caisse si la situation est particulière.</p>"
+    },
+    {
+      "q": "Que faire si j'ai oublié mon mot de passe ameli ?",
+      "a_html": "<p>Utilisez exclusivement la fonction « mot de passe oublié » ou de récupération proposée sur la page de connexion officielle. Elle vous guidera pour vérifier votre identité et choisir un nouvel accès.</p><p>Ne communiquez jamais votre ancien mot de passe, un code reçu ou une copie de document à une personne qui vous contacte spontanément par téléphone, SMS ou e-mail.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Ouvrir un compte ameli est une démarche simple dès lors que votre dossier d'Assurance Maladie est à jour : préparez vos informations, utilisez uniquement le site officiel et prenez le temps de vérifier chaque saisie. En cas de blocage, inutile de s'inquiéter ou de multiplier les essais : identifiez votre organisme de rattachement et sollicitez votre caisse avec les bons éléments. Une fois votre espace activé, vous aurez les principales démarches de santé à portée de main, de façon plus rapide et plus sûre.</p>",
+  "__slug": "comment-ouvrir-un-compte-ameli"
+}

@@ -1,0 +1,220 @@
+{
+  "title": "Arrosage automatique du jardin : choisir, filtrer et régler pour économiser l'eau",
+  "meta_description": "Arrosage automatique au jardin : choisissez goutte-à-goutte, programmateur et filtre, puis réglez-les pour économiser l'eau durablement.",
+  "reading_time_min": 11,
+  "hero_intro": "J'aimerais arroser mon jardin sans y passer mes soirées, tout en évitant le gaspillage d'eau. Un arrosage automatique bien pensé peut réellement simplifier l'entretien des plantations, à condition d'adapter chaque zone, de programmer avec mesure et de protéger le réseau par une filtration adaptée. Voici comment concevoir une installation fiable, du petit potager au jardin plus vaste.",
+  "key_takeaways": [
+    "Le goutte-à-goutte est généralement le choix le plus économe pour les massifs, haies, potagers et plantes en pots ; les asperseurs conviennent mieux aux pelouses.",
+    "Un programmateur ne doit pas arroser partout de la même façon : créez des zones selon les besoins en eau, l'exposition et le type de végétaux.",
+    "Le filtre protège surtout les goutteurs, électrovannes et buses des particules ; sa finesse doit être compatible avec le matériel installé.",
+    "Arrosez plutôt tôt le matin, ajustez les durées après observation du sol et suspendez l'arrosage en cas de pluie significative.",
+    "Une installation simple en surface peut démarrer autour de quelques dizaines d'euros ; un réseau enterré multizone demande un budget nettement plus élevé."
+  ],
+  "toc": [
+    "Partir des besoins réels de votre jardin",
+    "Goutte-à-goutte ou asperseurs : quelle méthode choisir ?",
+    "Composer un système automatique adapté",
+    "Choisir le bon filtre d'arrosage",
+    "Installer le réseau étape par étape",
+    "Programmer sans surarroser",
+    "Entretenir l'installation et éviter les erreurs courantes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Avant d'acheter : observer le jardin plutôt que copier un réglage",
+      "html": "<p>Un système automatique ne rend pas l'arrosage pertinent par magie : il reproduit exactement ce que vous lui demandez. Commencez donc par repérer les zones qui n'ont pas les mêmes besoins. Une pelouse en plein soleil, un potager productif, une haie récemment plantée, des vivaces installées depuis plusieurs années et des pots sous un auvent ne doivent pas partager le même programme.</p><p>Observez aussi votre sol. Un sol sableux laisse l'eau pénétrer vite, mais se dessèche rapidement ; un sol argileux absorbe plus lentement et peut ruisseler si l'on arrose trop longtemps d'un coup. Creusez légèrement après un arrosage : l'humidité doit atteindre la profondeur des racines sans former une zone détrempée en surface. Ce test simple est plus fiable qu'une durée standard affichée sur un emballage.</p><p>Enfin, tenez compte de la météo, du vent et de l'ombre. Une plante bien implantée supporte souvent mieux un arrosage plus espacé et plus profond qu'un apport quotidien superficiel. À l'inverse, les semis, jeunes plantations et cultures en bac exigent une surveillance rapprochée. L'objectif n'est pas d'arroser souvent, mais d'apporter la juste quantité au bon endroit.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Goutte-à-goutte ou arrosage par aspersion ?",
+      "intro": "Les deux techniques peuvent coexister dans un même jardin, mais elles ne répondent pas aux mêmes usages.",
+      "left": {
+        "title": "Le goutte-à-goutte",
+        "points": [
+          "Idéal pour potager, haies, massifs, arbustes et jardinières.",
+          "Distribue l'eau au pied des plantes, avec peu de pertes liées au vent et à l'évaporation.",
+          "Permet de créer des apports lents et localisés, particulièrement utiles en sol paillé.",
+          "Demande une filtration sérieuse : les petits passages des goutteurs se bouchent plus facilement.",
+          "Moins adapté à une grande pelouse uniforme, sauf installation très spécifique."
+        ]
+      },
+      "right": {
+        "title": "Les asperseurs et micro-asperseurs",
+        "points": [
+          "Adaptés aux pelouses, couvre-sols ou grandes zones homogènes.",
+          "Couvrent une surface plus large, mais l'eau est plus exposée au vent et à l'évaporation.",
+          "Les buses doivent être réglées pour ne pas arroser terrasse, façade ou allée.",
+          "Les micro-asperseurs peuvent convenir à certains massifs ou vergers, avec un débit maîtrisé.",
+          "Nécessitent une pression et un débit suffisants pour une couverture régulière."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Quel système automatique pour quelle zone ?",
+      "intro": "Ce tableau donne des repères pratiques. Vérifiez toujours les débits et pressions recommandés par le fabricant de vos équipements.",
+      "columns": [
+        "Zone à arroser",
+        "Solution conseillée",
+        "Points de vigilance",
+        "Budget matériel indicatif"
+      ],
+      "rows": [
+        [
+          "Pots, balcon ou petite terrasse",
+          "Kit goutte-à-goutte avec programmateur au robinet",
+          "Prévoir un réducteur de pression si le kit l'exige ; contrôler les goutteurs régulièrement.",
+          "Environ 40 à 120 €"
+        ],
+        [
+          "Potager de taille moyenne",
+          "Tuyau principal et goutteurs ou ligne poreuse",
+          "Découper les longues lignes ; filtrer l'eau, surtout avec une cuve de récupération.",
+          "Environ 80 à 250 €"
+        ],
+        [
+          "Haie et massifs",
+          "Goutteurs intégrés ou goutteurs ponctuels au pied",
+          "Espacer selon les végétaux et l'âge des plantations, pas selon une règle unique.",
+          "Environ 100 à 350 €"
+        ],
+        [
+          "Pelouse",
+          "Turbines, tuyères ou asperseurs escamotables",
+          "Calculer la portée, le débit disponible et les zones pour éviter les manques de recouvrement.",
+          "Environ 150 à 500 € en surface ; davantage en enterré"
+        ],
+        [
+          "Grand jardin multizone",
+          "Électrovannes, programmateur multivoie et réseau enterré",
+          "Prévoir la conception hydraulique, les purges et l'hivernage ; l'aide d'un professionnel peut être utile.",
+          "De plusieurs centaines à plusieurs milliers d'euros"
+        ]
+      ],
+      "note": "Ordres de grandeur pour le matériel hors main-d'œuvre, très variables selon la surface, la marque, la source d'eau et le nombre de zones."
+    },
+    {
+      "type": "key_points",
+      "heading": "Les composants à prévoir pour une installation cohérente",
+      "points": [
+        "Un point d'eau compatible avec le débit nécessaire : robinet, réseau domestique, cuve avec pompe adaptée ou forage réglementé.",
+        "Un programmateur à une ou plusieurs voies ; les électrovannes permettent de piloter séparément plusieurs zones.",
+        "Un filtre placé en amont des éléments sensibles, et souvent un réducteur de pression pour le goutte-à-goutte.",
+        "Un tuyau principal de diamètre adapté, des dérivations, raccords, bouchons de fin de ligne et piquets.",
+        "Des goutteurs, tuyaux poreux, micro-asperseurs ou asperseurs choisis selon la zone.",
+        "En option : sonde d'humidité, capteur de pluie ou programmateur connecté, utiles seulement s'ils sont correctement réglés."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Dimensionner le réseau : débit, pression et zones d'arrosage",
+      "html": "<p>Le point souvent négligé est le dimensionnement. Chaque goutteur ou asperseur consomme un débit ; si vous en ouvrez trop simultanément, les derniers éléments de la ligne reçoivent moins d'eau. À l'inverse, une pression trop forte peut faire sauter des raccords ou créer une brumisation inefficace. Consultez les débits annoncés et, en cas de doute, mesurez le temps nécessaire pour remplir un seau au robinet afin d'obtenir un premier ordre de grandeur.</p><p>La réponse la plus simple est de fractionner le jardin en <strong>zones indépendantes</strong>. Une zone de goutte-à-goutte pour le potager, une autre pour les haies et une troisième pour la pelouse peuvent s'ouvrir l'une après l'autre. Cette organisation améliore l'uniformité de l'arrosage et permet des durées différentes. Elle est particulièrement importante avec un réseau domestique modeste ou une pompe de cuve.</p><p>Pour une petite installation, un programmateur directement vissé sur le robinet peut suffire. Pour plusieurs secteurs, un programmateur multivoie ou un contrôleur associé à des électrovannes apporte davantage de souplesse. Les modèles connectés sont confortables pour modifier un cycle à distance, mais ne remplacent ni l'observation du jardin ni une installation hydraulique correctement conçue.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Filtre d'arrosage : comment choisir sans suréquiper",
+      "intro": "Le filtre ne se choisit pas uniquement selon le prix. Il doit accepter le débit de votre réseau et retenir des particules assez fines pour protéger les émetteurs.",
+      "columns": [
+        "Type de filtre",
+        "Usage pertinent",
+        "Atouts et limites",
+        "Entretien"
+      ],
+      "rows": [
+        [
+          "Filtre à tamis",
+          "Eau de réseau peu chargée, petites installations et goutte-à-goutte",
+          "Simple, compact et souvent économique ; efficace contre les particules solides, mais peut s'encrasser vite avec une eau chargée.",
+          "Retirer et rincer le tamis régulièrement."
+        ],
+        [
+          "Filtre à disques",
+          "Goutte-à-goutte, eau contenant des particules fines ou matières organiques modérées",
+          "Grande surface filtrante et bonne capacité de rétention ; coût souvent supérieur à un simple tamis.",
+          "Démonter et nettoyer les disques selon l'encrassement."
+        ],
+        [
+          "Filtre à sable ou à média",
+          "Eau de bassin, canal ou source très chargée, installation plus conséquente",
+          "Très efficace pour certaines eaux chargées, mais encombrant et plus technique à installer.",
+          "Prévoir les cycles de rinçage et l'entretien du média."
+        ],
+        [
+          "Préfiltre ou crépine de cuve",
+          "Eau de pluie stockée et aspiration par pompe",
+          "Retient les gros débris en amont ; ne remplace pas forcément le filtre fin nécessaire au goutte-à-goutte.",
+          "Nettoyer les feuilles, sédiments et dépôts."
+        ]
+      ],
+      "note": "La finesse de filtration s'exprime souvent en microns ou en mesh. Pour des goutteurs, les fabricants demandent fréquemment une filtration fine ; suivez prioritairement leur préconisation."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Un filtre ne désinfecte pas l'eau",
+      "html": "<p>Un filtre d'arrosage retient avant tout des particules : sable, rouille, boues, fragments végétaux ou sédiments. Il protège le réseau contre l'obstruction, mais il ne garantit pas l'élimination des bactéries, algues ou autres micro-organismes. Pour arroser le jardin, l'enjeu principal est la propreté hydraulique de l'eau ; ne considérez jamais une eau filtrée comme potable.</p><p>Avec une cuve de récupération, limitez les feuilles et la lumière, prélevez l'eau loin du fond chargé en dépôts et nettoyez périodiquement crépine, filtre et cuve. Cela réduira les pannes et l'encrassement des goutteurs.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Installer un arrosage automatique simple en 6 étapes",
+      "intro": "Une installation en surface est accessible à un bricoleur soigneux. Travaillez progressivement et testez chaque zone avant de recouvrir ou de fixer définitivement les tuyaux.",
+      "steps": [
+        {
+          "title": "Dessinez un plan très simple",
+          "html": "<p>Indiquez le robinet ou la pompe, les zones à arroser, les végétaux prioritaires et les longueurs approximatives. Placez les lignes principales là où elles resteront accessibles et protégées des passages fréquents.</p>"
+        },
+        {
+          "title": "Calculez les zones et choisissez les émetteurs",
+          "html": "<p>Regroupez les plantes aux besoins proches. Prévoyez une ligne de goutte-à-goutte ou des goutteurs au pied des végétaux, et réservez les asperseurs aux surfaces qui nécessitent réellement une couverture aérienne.</p>"
+        },
+        {
+          "title": "Installez la tête de réseau",
+          "html": "<p>Après le point d'eau, montez selon les besoins le programmateur, le filtre et le réducteur de pression. Respectez le sens de circulation indiqué sur le filtre. Une cuve impose généralement une pompe adaptée et une crépine d'aspiration.</p>"
+        },
+        {
+          "title": "Déployez les tuyaux et raccords",
+          "html": "<p>Posez le tuyau principal sans le tendre excessivement, puis raccordez les dérivations. Fermez provisoirement les extrémités et maintenez les tuyaux avec des piquets. En plein soleil, le tuyau assoupli est plus facile à manipuler.</p>"
+        },
+        {
+          "title": "Rincez avant de poser les goutteurs les plus fins",
+          "html": "<p>Ouvrez l'eau quelques instants avec les fins de lignes ouvertes pour chasser les copeaux et poussières introduits au montage. C'est un geste simple qui évite de boucher les émetteurs dès la première utilisation.</p>"
+        },
+        {
+          "title": "Testez, réglez et étiquetez",
+          "html": "<p>Faites fonctionner chaque zone, vérifiez les fuites et observez la régularité des débits. Notez le programme retenu et identifiez les vannes : vous gagnerez du temps lors des réglages saisonniers ou du dépannage.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Programmer intelligemment : moins souvent, mais au bon moment",
+      "html": "<p>Programmez de préférence tôt le matin. Le feuillage a le temps de sécher, le vent est souvent moins présent et une plus grande part de l'eau atteint le sol. L'arrosage tard le soir peut être une solution ponctuelle en période chaude, mais il laisse parfois longtemps l'humidité sur les feuilles. En pleine journée, les pertes par évaporation et dérive sont généralement plus importantes.</p><p>Il n'existe pas de durée universelle. Démarrez avec des cycles prudents, puis contrôlez l'humidité dans les heures qui suivent. Si l'eau ruisselle, réduisez la durée ou fractionnez un long cycle en deux passages espacés. Si le sol est sec sous la surface au niveau des racines, augmentez progressivement. Les plantes en pot, dont le volume de terre est limité, doivent être vérifiées plus souvent que les végétaux en pleine terre.</p><p>Un capteur de pluie peut éviter un cycle inutile ; une sonde d'humidité peut affiner la décision dans certaines zones sensibles. Ce sont des aides, pas des pilotes infaillibles : placez-les dans une zone représentative, à l'abri de tout arrosage direct par asperseur. Après une pluie, ne vous fiez pas seulement à la surface : une averse brève peut humidifier les premiers centimètres sans recharger le sol en profondeur.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Quelques repères utiles pour piloter votre arrosage",
+      "items": [
+        {
+          "value": "1 à 3 zones",
+          "label": "suffisent souvent pour distinguer pots, plantations en pleine terre et pelouse dans un jardin familial."
+        },
+        {
+          "value": "Tôt le matin",
+          "label": "est généralement le créneau le plus favorable pour limiter l'évaporation et les effets du vent."
+        },
+        {
+          "value": "À chaque saison",
+          "label": "réévaluez les durées : le besoin change avec la température, la pluie, le paillage et la croissance des plantes."
+        },
+        {
+          "value": "Quelques minutes",
+          "label": "de contrôle hebdomadaire permettent souvent de repérer une fuite, un goutteur bouché ou un asperseur mal orienté.}]},{"
+        }
+      ]
+    }
+  ],
+  "faq": [],
+  "conclusion_html": "",
+  "__slug": "optimisez-larrosage-de-votre-jardin-avec-un-systeme-automatique-et-un-filtre-efficace"
+}

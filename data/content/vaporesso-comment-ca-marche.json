@@ -1,0 +1,256 @@
+{
+  "title": "Vaporesso : comment fonctionne une cigarette électronique ?",
+  "meta_description": "Comprendre le fonctionnement d'une cigarette électronique Vaporesso : pod, résistance, e-liquide, réglages, entretien et règles de sécurité simples.",
+  "reading_time_min": 11,
+  "hero_intro": "Vaporesso n'est pas un e-liquide, mais une marque de cigarettes électroniques et d'accessoires de vapotage. Que vous utilisiez un pod compact ou un modèle plus puissant, le principe reste simple : une batterie chauffe une résistance imbibée d'e-liquide pour produire un aérosol. Voici comment comprendre votre matériel, l'utiliser avec prudence et choisir des consommables réellement compatibles.",
+  "key_takeaways": [
+    "Vaporesso est une marque de matériel de vapotage : pod, cigarette électronique, cartouche, résistance et chargeur ; elle ne désigne pas un type d'e-liquide.",
+    "La résistance chauffe l'e-liquide grâce à l'énergie de la batterie. Son type détermine le tirage, la puissance et le ratio PG/VG adapté.",
+    "Un premier remplissage exige un temps d'imprégnation : vapoter une résistance sèche provoque rapidement un goût de brûlé.",
+    "Le vapotage n'est pas sans risque et la nicotine crée une dépendance. Il concerne les fumeurs adultes cherchant une alternative au tabac, pas les non-fumeurs.",
+    "La compatibilité entre cartouche, résistance, puissance et e-liquide compte davantage que la marque ou l'arôme choisi."
+  ],
+  "toc": [
+    "Vaporesso : une marque, plusieurs types de cigarettes électroniques",
+    "Les pièces qui font fonctionner une Vaporesso",
+    "Pod ou kit à réservoir : quel format choisir ?",
+    "Choisir une résistance et un e-liquide compatibles",
+    "Première utilisation : les étapes à suivre",
+    "Puissance, tirage et airflows : comprendre les réglages",
+    "Les repères réglementaires à connaître",
+    "Vapoter avec prudence : ce qu'il faut garder en tête",
+    "Entretenir sa cigarette électronique Vaporesso",
+    "Quel budget prévoir et quand remplacer les consommables",
+    "Les erreurs qui abîment le plus vite le matériel"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Vaporesso : une marque, plusieurs types de cigarettes électroniques",
+      "html": "<p>Il est utile de commencer par lever une confusion fréquente : <strong>Vaporesso est une marque de cigarettes électroniques</strong>, et non le nom d'un liquide ou d'une substance à vapoter. Son catalogue comprend notamment des pods compacts, des kits avec réservoir, des cartouches, des résistances et des accessoires. Le fonctionnement exact dépend donc du modèle que vous possédez.</p><p>Une cigarette électronique ne brûle pas de tabac. Elle transforme un e-liquide en <strong>aérosol</strong> grâce à une résistance chauffante. L'e-liquide contient généralement du propylène glycol, de la glycérine végétale, des arômes et, selon le produit choisi, de la nicotine. Sans combustion, l'usage est différent de celui d'une cigarette classique, mais cela ne signifie pas que le vapotage est anodin ou destiné à tout le monde.</p><p>Les modèles les plus simples s'activent à l'inhalation et utilisent une cartouche, aussi appelée pod. Les appareils plus évolués possèdent un bouton, un écran, une puissance réglable et un réservoir séparé. Avant toute manipulation, la notice de votre référence précise les cartouches, résistances et plages de puissance autorisées.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les pièces qui font fonctionner une Vaporesso",
+      "points": [
+        "La batterie fournit l'énergie ; elle peut être intégrée et rechargeable par USB, ou amovible sur certains appareils plus grands.",
+        "La cartouche ou le réservoir contient l'e-liquide et conduit le liquide vers la résistance.",
+        "La résistance associe un élément chauffant et une mèche de coton : le coton doit toujours rester suffisamment imbibé.",
+        "Le système d'airflow règle l'arrivée d'air et influence la sensation de tirage, de serrée à aérienne.",
+        "Le chipset électronique, lorsqu'il est présent, gère l'activation, la puissance et certaines protections de sécurité."
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Pod ou kit à réservoir : deux expériences de vapotage",
+      "intro": "Le bon format dépend surtout de votre recherche de simplicité, de discrétion et de réglages. Il ne s'agit pas d'un choix de qualité, mais d'un choix d'usage.",
+      "left": {
+        "title": "Le pod compact",
+        "points": [
+          "Format léger, souvent activé par l'aspiration ou un seul bouton.",
+          "Cartouche à remplir ou à remplacer ; entretien limité.",
+          "Tirage généralement serré, proche d'une inhalation en deux temps.",
+          "Puissance modérée et autonomie adaptée à un usage courant.",
+          "Particulièrement simple pour découvrir le fonctionnement d'une e-cigarette."
+        ]
+      },
+      "right": {
+        "title": "Le kit à réservoir ou box",
+        "points": [
+          "Réservoir et résistance souvent séparés, avec davantage de pièces remplaçables.",
+          "Réglage de puissance et d'airflow plus précis selon les modèles.",
+          "Peut produire un aérosol plus abondant et offrir un tirage plus aérien.",
+          "Encombrement, consommation d'e-liquide et entretien généralement plus importants.",
+          "Demande de mieux connaître la compatibilité entre résistance, puissance et liquide."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Choisir une résistance et un e-liquide compatibles",
+      "intro": "Les indications ci-dessous sont des repères généraux. La plage de puissance gravée sur la résistance ou indiquée dans la notice de votre Vaporesso reste toujours prioritaire.",
+      "columns": [
+        "Usage recherché",
+        "Matériel et tirage",
+        "Liquide souvent adapté",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Simplicité et tirage serré",
+          "Pod ou résistance autour de 0,8 à 1,2 Ω",
+          "Base équilibrée, par exemple proche de 50/50 PG/VG",
+          "Un liquide trop épais peut alimenter difficilement une petite cartouche."
+        ],
+        [
+          "Sensation plus aérienne",
+          "Résistance basse et puissance plus élevée",
+          "Liquide plus riche en glycérine végétale, si le fabricant l'autorise",
+          "La consommation de liquide et de batterie augmente sensiblement."
+        ],
+        [
+          "Cartouche à résistance non remplaçable",
+          "Pod avec résistance intégrée",
+          "Suivre strictement la recommandation du fabricant",
+          "Lorsque la résistance est usée, il faut remplacer toute la cartouche."
+        ],
+        [
+          "Arôme très sucré ou très frais",
+          "Tous formats compatibles",
+          "Choisir selon la résistance et le réservoir",
+          "Les liquides très sucrés peuvent encrasser le coton plus rapidement."
+        ]
+      ],
+      "note": "PG signifie propylène glycol et VG glycérine végétale. Plus il y a de VG, plus le liquide est visqueux ; la compatibilité avec la résistance est donc essentielle."
+    },
+    {
+      "type": "steps",
+      "heading": "Première utilisation : les étapes à suivre",
+      "intro": "Une mise en route soigneuse évite la plupart des fuites, projections et goûts de brûlé rencontrés au début.",
+      "steps": [
+        {
+          "title": "Identifier le consommable compatible",
+          "html": "<p>Repérez la référence de votre appareil et vérifiez s'il utilise une <strong>cartouche complète</strong> ou une <strong>résistance amovible</strong>. N'essayez pas d'installer une pièce ressemblante mais non prévue pour votre modèle.</p>"
+        },
+        {
+          "title": "Charger et inspecter l'appareil",
+          "html": "<p>Utilisez un câble en bon état et, si possible, l'alimentation recommandée par le fabricant. Vérifiez que la cartouche, les joints et les contacts sont propres, secs et correctement positionnés.</p>"
+        },
+        {
+          "title": "Remplir sans verser dans le conduit d'air",
+          "html": "<p>Ouvrez l'orifice de remplissage indiqué sur la cartouche ou le réservoir. Versez doucement le liquide dans la zone prévue, sans remplir à ras bord et sans envoyer de liquide dans le tube central d'arrivée d'air.</p>"
+        },
+        {
+          "title": "Laisser le coton s'imbiber",
+          "html": "<p>Après un premier remplissage ou le changement d'une résistance, attendez généralement <strong>5 à 10 minutes</strong>. Cette pause laisse au coton le temps d'absorber le liquide et limite le risque de chauffe à sec.</p>"
+        },
+        {
+          "title": "Commencer doucement",
+          "html": "<p>Si votre modèle propose un réglage, démarrez en bas de la plage conseillée pour la résistance. Prenez quelques bouffées courtes, puis ajustez progressivement l'airflow ou la puissance seulement si le rendu reste confortable.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Puissance, tirage et airflow : comprendre les réglages",
+      "html": "<p>La <strong>puissance</strong>, exprimée en watts, détermine l'intensité à laquelle la résistance chauffe. Une puissance trop basse peut donner peu de goût ou une sensation faible ; une puissance trop élevée peut surchauffer le liquide, réduire la durée de vie de la résistance et créer un goût âcre. Il ne faut jamais dépasser la plage recommandée par le fabricant de la résistance.</p><p>L'<strong>airflow</strong> correspond à l'ouverture qui laisse entrer l'air. Fermé, il produit un tirage plus serré, souvent appelé MTL, pour « mouth to lung » : l'aérosol est d'abord gardé en bouche avant d'être inhalé. Ouvert, il produit un tirage plus aérien, souvent appelé DL ou RDL selon son ouverture. Aucun réglage n'est universellement meilleur : recherchez une inhalation naturelle, sans toux, surchauffe ni effort.</p><p>Sur certains appareils Vaporesso, un mode intelligent peut reconnaître une cartouche ou limiter la puissance disponible. C'est une aide intéressante, mais elle ne remplace pas la vérification de la notice. Si le goût change brutalement, si l'appareil chauffe anormalement ou affiche une erreur, arrêtez de l'utiliser avant de chercher la cause.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Trois repères réglementaires en France et dans l'Union européenne",
+      "items": [
+        {
+          "value": "20 mg/ml",
+          "label": "concentration maximale de nicotine autorisée dans les e-liquides commercialisés dans le cadre de la réglementation européenne"
+        },
+        {
+          "value": "10 ml",
+          "label": "contenance maximale habituelle d'un flacon de recharge contenant de la nicotine vendu au détail"
+        },
+        {
+          "value": "2 ml",
+          "label": "capacité maximale généralement appliquée aux réservoirs et cartouches commercialisés dans ce cadre réglementaire"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Vapoter n'est pas « sans danger »",
+      "html": "<p>La cigarette électronique ne doit pas être présentée comme inoffensive. La nicotine est addictive et l'aérosol peut contenir des substances irritantes. Le vapotage est destiné aux <strong>fumeurs adultes</strong> qui cherchent à s'éloigner du tabac, non aux mineurs, aux non-fumeurs ni aux femmes enceintes. En cas de grossesse, de maladie respiratoire ou cardiovasculaire, ou de traitement en cours, demandez conseil à un professionnel de santé.</p><p>Pour une personne qui fume, remplacer entièrement les cigarettes combustibles est généralement un objectif plus cohérent que d'ajouter durablement le vapotage au tabac. Un accompagnement par un professionnel peut aider à choisir une stratégie d'arrêt adaptée.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Entretien : les gestes qui prolongent la durée de vie du matériel",
+      "intro": "Un entretien léger mais régulier protège la qualité du goût et limite les petits dysfonctionnements.",
+      "columns": [
+        "Geste",
+        "Fréquence indicative",
+        "Pourquoi",
+        "À éviter"
+      ],
+      "rows": [
+        [
+          "Essuyer la base de la cartouche et les contacts",
+          "À chaque remplissage ou en cas de condensation",
+          "Prévenir les faux contacts et les fuites vers la batterie",
+          "Verser de l'eau dans l'électronique."
+        ],
+        [
+          "Contrôler le niveau de liquide",
+          "Avant de longues utilisations",
+          "Éviter qu'une résistance chauffe avec trop peu de liquide",
+          "Attendre que le réservoir soit complètement vide pour remplir."
+        ],
+        [
+          "Changer résistance ou cartouche",
+          "Dès que le goût se dégrade durablement",
+          "Retrouver un goût net et une absorption correcte",
+          "Continuer à vapoter malgré un goût de brûlé."
+        ],
+        [
+          "Nettoyer l'embout et l'extérieur",
+          "Régulièrement",
+          "Conserver une utilisation plus hygiénique",
+          "Employer des produits agressifs ou immerger l'appareil."
+        ],
+        [
+          "Recharger la batterie",
+          "Lorsque nécessaire, sous surveillance",
+          "Préserver un usage fiable au quotidien",
+          "Charger sous un oreiller, près d'une source de chaleur ou avec un câble endommagé."
+        ]
+      ],
+      "note": "La durée d'une résistance dépend fortement du liquide, de la puissance, de la fréquence d'utilisation et de l'entretien. Il n'existe pas de durée identique pour tous les utilisateurs."
+    },
+    {
+      "type": "prose",
+      "heading": "Quel budget prévoir et quand remplacer les consommables ?",
+      "html": "<p>Le coût d'une cigarette électronique Vaporesso varie selon son format. Un pod rechargeable d'entrée ou de milieu de gamme se situe souvent entre <strong>15 et 35 €</strong>, tandis qu'un kit plus complet peut se placer autour de <strong>30 à 70 €</strong>. Les prix évoluent selon la batterie, les fonctions, le contenu du coffret et le point de vente.</p><p>Dans le budget courant, il faut ajouter les consommables : une cartouche ou un lot de résistances, ainsi que l'e-liquide. Un flacon de 10 ml est souvent proposé dans une fourchette d'environ <strong>4 à 8 €</strong>, mais le coût mensuel dépend surtout de la puissance utilisée et de votre consommation. Un appareil plus aérien consomme généralement davantage de liquide qu'un petit pod à tirage serré.</p><p>Remplacez la résistance ou la cartouche quand le goût devient durablement fade, métallique, trop chaud ou brûlé, lorsque l'appareil gargouille malgré un nettoyage correct, ou si les fuites persistent après vérification des joints. Changer le consommable à temps coûte moins cher que de forcer sur une pièce usée et rend l'utilisation plus agréable.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs qui abîment le plus vite le matériel",
+      "points": [
+        "Vapoter juste après le remplissage, sans laisser le coton s'imprégner.",
+        "Utiliser un liquide trop visqueux pour une petite cartouche ou une faible résistance de pod.",
+        "Augmenter la puissance au-delà de la valeur prévue pour tenter d'obtenir plus de goût.",
+        "Laisser le niveau de liquide trop bas, surtout sur les cartouches compactes.",
+        "Mélanger des accessoires non compatibles ou utiliser un chargeur, une batterie ou un câble endommagé.",
+        "Ignorer une fuite répétée, une surchauffe, une odeur inhabituelle ou une batterie visiblement abîmée."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Vaporesso fabrique-t-il des e-liquides ?",
+      "a_html": "<p>Vaporesso est surtout connu comme fabricant de matériel : cigarettes électroniques, pods, cartouches, résistances et accessoires. Un e-liquide se choisit séparément, sauf lorsqu'il est éventuellement inclus dans une offre commerciale.</p><p>Le point important est la compatibilité : vérifiez que le ratio PG/VG du liquide correspond au type de cartouche ou de résistance utilisé par votre appareil.</p>"
+    },
+    {
+      "q": "Quelle est la différence entre une cartouche et une résistance Vaporesso ?",
+      "a_html": "<p>La <strong>cartouche</strong> est le réservoir amovible qui contient l'e-liquide. La <strong>résistance</strong> est la pièce chauffante, avec son coton, qui se trouve dans la cartouche ou se fixe à l'intérieur selon le modèle.</p><p>Sur certains pods, la résistance est intégrée à la cartouche : on remplace alors l'ensemble. Sur d'autres modèles, seule la résistance est changée, ce qui peut réduire le coût des consommables.</p>"
+    },
+    {
+      "q": "Pourquoi ma Vaporesso a-t-elle un goût de brûlé ?",
+      "a_html": "<p>Un goût de brûlé signale le plus souvent que le coton de la résistance a chauffé sans être assez imbibé, ou que la résistance est arrivée en fin de vie. Vérifiez le niveau de liquide, la puissance réglée et le ratio PG/VG conseillé.</p><p>Si le goût persiste après avoir laissé le liquide imprégner le coton, remplacez la résistance ou la cartouche. Continuer à utiliser une résistance brûlée ne la réparera pas.</p>"
+    },
+    {
+      "q": "Comment choisir le dosage de nicotine de son e-liquide ?",
+      "a_html": "<p>Le dosage dépend notamment de la consommation de tabac antérieure, du type de matériel et de la sensation de manque ressentie. Il ne faut pas le choisir au hasard ni considérer qu'un dosage élevé est systématiquement préférable.</p><p>Pour un fumeur adulte qui souhaite arrêter le tabac, un professionnel de santé ou un spécialiste du sevrage peut aider à trouver une approche adaptée. En cas de nausée, maux de tête, palpitations ou malaise après vapotage, cessez l'utilisation et demandez un avis médical si les symptômes persistent ou sont importants.</p>"
+    },
+    {
+      "q": "Peut-on utiliser une Vaporesso pendant la recharge ?",
+      "a_html": "<p>Certains modèles peuvent techniquement fonctionner lorsqu'ils sont branchés, mais il est plus prudent de consulter la notice et d'éviter cet usage si le fabricant ne l'autorise pas clairement. La recharge doit se faire sur une surface stable, loin de matières inflammables et sous surveillance.</p><p>N'utilisez jamais une batterie ou un câble endommagé. Si l'appareil chauffe fortement, gonfle, fuit au niveau de la batterie ou présente un comportement inhabituel, débranchez-le et cessez de l'utiliser.</p>"
+    },
+    {
+      "q": "La cigarette électronique est-elle moins dangereuse que le tabac ?",
+      "a_html": "<p>Une cigarette électronique ne produit pas la fumée issue de la combustion du tabac, ce qui change fortement les substances auxquelles l'utilisateur est exposé. Pour un fumeur adulte, elle peut s'inscrire dans une démarche de sortie du tabac, mais elle n'est pas dénuée de risques et les effets à long terme du vapotage continu restent à considérer avec prudence.</p><p>Elle ne convient ni aux non-fumeurs ni aux mineurs. Si votre objectif est l'arrêt du tabac et de la nicotine, un accompagnement médical ou tabacologique reste une ressource utile.</p>"
+    },
+    {
+      "q": "Comment jeter une cigarette électronique ou une cartouche usagée ?",
+      "a_html": "<p>Une cigarette électronique contient une batterie et des composants électroniques : elle ne doit pas être jetée avec les ordures ménagères. Rapportez-la dans un point de collecte pour déchets électriques et électroniques ou dans un magasin qui propose cette reprise.</p><p>Les flacons d'e-liquide doivent être tenus hors de portée des enfants et des animaux. Respectez les consignes locales de tri et évitez de vider les restes de liquide dans l'évier ou dans la nature.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Comprendre comment fonctionne une Vaporesso revient à maîtriser une chaîne simple : <strong>batterie, cartouche, résistance, e-liquide et réglages compatibles</strong>. En prenant le temps d'amorcer la résistance, de respecter la puissance indiquée et d'entretenir les contacts, vous évitez l'essentiel des problèmes courants.</p><p>Gardez enfin le bon repère : le vapotage n'est ni un simple gadget ni un produit anodin. Pour un fumeur adulte, il peut s'intégrer à une démarche réfléchie de réduction ou d'arrêt du tabac ; pour tous les autres, le meilleur choix reste de ne pas commencer.</p>",
+  "__slug": "vaporesso-comment-ca-marche"
+}

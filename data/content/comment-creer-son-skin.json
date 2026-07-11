@@ -1,0 +1,209 @@
+{
+  "title": "Comment créer son skin Minecraft : le guide simple pour un personnage unique",
+  "meta_description": "Créez votre skin Minecraft étape par étape : format PNG, outils, modèle classique ou slim, importation sur Java et Bedrock, conseils design.",
+  "reading_time_min": 9,
+  "hero_intro": "Vous aimeriez que votre personnage Minecraft ne ressemble à aucun autre ? Créer son skin est accessible, même sans savoir dessiner : il suffit de partir d'un gabarit, de choisir les bonnes couleurs et d'importer un fichier PNG compatible. Voici une méthode claire pour concevoir, modifier et installer un skin qui vous ressemble, sur Minecraft Java comme sur Bedrock.",
+  "key_takeaways": [
+    "Un skin Minecraft est un fichier PNG quadrillé qui habille les différentes faces du personnage : tête, torse, bras et jambes.",
+    "Avant de dessiner, choisissez le bon modèle de bras : « classique » (4 pixels de large) ou « slim » (3 pixels).",
+    "Un éditeur de skin en 3D est la solution la plus simple pour débuter ; la retouche manuelle convient mieux aux détails précis.",
+    "Pour éviter les défauts à l'importation, exportez en PNG, respectez le gabarit et vérifiez la transparence de la seconde couche.",
+    "Testez toujours votre création en jeu : certains détails très fins ou très sombres se voient mal à distance."
+  ],
+  "toc": [
+    "Comprendre ce qu'est un skin Minecraft",
+    "Créer un skin de zéro ou modifier un modèle existant ?",
+    "Choisir le bon format et le bon modèle",
+    "Créer son skin pas à pas avec un éditeur",
+    "Réussir les couleurs, les ombres et les détails",
+    "Importer son skin dans Minecraft Java ou Bedrock",
+    "Erreurs fréquentes et bonnes pratiques",
+    "Personnaliser un skin sans copier le travail d'un autre",
+    "FAQ : créer et utiliser un skin Minecraft"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre ce qu'est un skin Minecraft",
+      "html": "<p>Un <strong>skin Minecraft</strong> est l'apparence visuelle de votre avatar. Il ne modifie ni vos capacités dans le jeu, ni votre inventaire, ni les règles d'un serveur : il personnalise uniquement la façon dont votre personnage est vu par les autres joueurs.</p><p>Techniquement, il s'agit d'une image au format PNG découpée en petites zones. Chaque zone correspond à une face du corps : le devant de la tête, le côté d'un bras, le dessus d'une jambe, etc. Minecraft replie ensuite cette image autour d'un modèle 3D. C'est pourquoi un dessin parfaitement réussi à plat peut sembler étrange si les emplacements du gabarit ne sont pas respectés.</p><p>La plupart des skins actuels utilisent une <strong>base de 64 × 64 pixels</strong>. Une partie de cette image sert à la couche principale du corps ; une autre permet d'ajouter une couche extérieure, utile pour créer une veste, une capuche, des lunettes, des cheveux plus volumineux ou des accessoires. Cette seconde couche apporte du relief sans changer la forme réelle de votre personnage.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Créer de zéro ou modifier un skin existant ?",
+      "intro": "Les deux approches sont valables. Le meilleur choix dépend surtout de votre aisance avec le dessin pixel par pixel et du niveau de personnalisation recherché.",
+      "left": {
+        "title": "Partir d'un skin vierge",
+        "points": [
+          "Liberté totale sur la tenue, le visage et les couleurs.",
+          "Idéal pour créer un personnage vraiment personnel ou représenter un univers précis.",
+          "Demande un peu plus de temps pour comprendre les zones du gabarit.",
+          "Risque plus élevé d'oublier un côté du corps ou de mal placer un détail."
+        ]
+      },
+      "right": {
+        "title": "Personnaliser un modèle de départ",
+        "points": [
+          "Plus rapide : la silhouette, les proportions et les ombres sont déjà en place.",
+          "Pratique pour changer une coupe de cheveux, une couleur de pull ou ajouter un accessoire.",
+          "Permet d'apprendre en observant comment un skin est construit.",
+          "Nécessite de vérifier les conditions d'utilisation si le modèle vient d'un créateur tiers."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Formats, modèles et outils : les repères à connaître",
+      "intro": "Avant de commencer, vérifiez ces éléments. Ils évitent la majorité des skins déformés, invisibles ou refusés à l'importation.",
+      "columns": [
+        "Élément",
+        "À choisir ou vérifier",
+        "Pourquoi c'est important"
+      ],
+      "rows": [
+        [
+          "Format du fichier",
+          "PNG uniquement, sans conversion JPEG",
+          "Le PNG préserve les pixels nets et, si besoin, la transparence."
+        ],
+        [
+          "Taille du gabarit",
+          "Généralement 64 × 64 pixels",
+          "C'est le format de référence des skins modernes, notamment sur Java Edition."
+        ],
+        [
+          "Type de bras",
+          "Classique ou slim",
+          "Un mauvais choix donne des bras visuellement décalés ou trop larges."
+        ],
+        [
+          "Couche extérieure",
+          "Utiliser avec modération",
+          "Elle ajoute du relief pour les vêtements et accessoires, mais peut rendre le skin chargé."
+        ],
+        [
+          "Outil de création",
+          "Éditeur de skin 3D ou logiciel d'image",
+          "L'éditeur 3D facilite la prise en main ; un logiciel d'image est plus précis pour les retouches."
+        ],
+        [
+          "Plateforme de jeu",
+          "Java Edition ou Bedrock Edition",
+          "La procédure d'importation et certaines options changent selon votre version et votre appareil."
+        ]
+      ],
+      "note": "Les interfaces et intitulés peuvent légèrement varier selon la version de Minecraft, le lanceur et la plateforme utilisée."
+    },
+    {
+      "type": "steps",
+      "heading": "Créer son skin Minecraft pas à pas",
+      "intro": "Un éditeur de skin affichant le personnage en 3D est particulièrement confortable pour une première création. Vous voyez immédiatement le résultat de chaque pixel placé.",
+      "steps": [
+        {
+          "title": "Définissez une idée simple avant de dessiner",
+          "html": "<p>Choisissez un fil conducteur : explorateur, mage, sportif, personnage médiéval, tenue de votre couleur préférée ou version pixelisée de vous-même. Notez trois éléments maximum à intégrer, par exemple une veste verte, des cheveux bruns et un sac à dos. Une idée claire donne un skin plus lisible qu'une accumulation d'accessoires.</p>"
+        },
+        {
+          "title": "Sélectionnez la morphologie classique ou slim",
+          "html": "<p>Le modèle <strong>classique</strong> possède des bras de 4 pixels de large. Le modèle <strong>slim</strong>, parfois appelé Alex, a des bras de 3 pixels de large. Si vous reprenez ou retouchez un fichier, identifiez son modèle d'origine avant toute modification.</p>"
+        },
+        {
+          "title": "Commencez par les grandes zones de couleur",
+          "html": "<p>Posez d'abord les aplats : teint du visage, cheveux, haut, pantalon et chaussures. Travaillez une zone après l'autre, en tournant régulièrement le modèle 3D. Ne cherchez pas les micro-détails tant que les couleurs principales ne fonctionnent pas ensemble.</p>"
+        },
+        {
+          "title": "Ajoutez les volumes avec quelques nuances",
+          "html": "<p>Pour chaque matière, prévoyez une couleur principale, une teinte légèrement plus sombre et éventuellement une teinte plus claire. Placez les ombres sous les cheveux, au creux des manches, sur les côtés du pantalon ou sous une veste. Même deux nuances supplémentaires peuvent donner beaucoup de relief.</p>"
+        },
+        {
+          "title": "Utilisez la seconde couche pour les accessoires",
+          "html": "<p>Ajoutez-y une frange, une capuche, un col, des manchettes, une écharpe ou des lunettes. Gardez cette couche pour les éléments qui dépassent visuellement du vêtement ou du visage. Cela rend le skin plus vivant tout en préservant une silhouette cohérente.</p>"
+        },
+        {
+          "title": "Prévisualisez, enregistrez et exportez",
+          "html": "<p>Tournez le personnage sous tous les angles, puis vérifiez les jointures entre le torse, les bras et les jambes. Téléchargez enfin le fichier en PNG sous un nom explicite, comme <em>skin-aventurier-v1.png</em>. Conservez une copie modifiable : vous pourrez facilement créer une version hiver, fête ou armure plus tard.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réflexe qui améliore immédiatement un skin",
+      "html": "<p>Affichez votre personnage sur un fond clair <strong>et</strong> sur un fond sombre avant l'exportation. Une coiffure noire, des chaussures foncées ou des contours très discrets peuvent disparaître dans les grottes, la nuit ou sur certains serveurs. Un contraste léger suffit souvent à les rendre plus lisibles.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Réussir les couleurs, les ombres et les détails",
+      "html": "<p>Un bon skin ne dépend pas d'un grand nombre de couleurs. Au contraire, une palette courte est généralement plus harmonieuse. Partez d'une couleur dominante pour la tenue, d'une couleur secondaire et d'une couleur d'accent, par exemple pour une ceinture, un écusson ou des lacets. Évitez les blancs et noirs purs partout : un gris très foncé ou un blanc légèrement teinté produit souvent un résultat moins plat.</p><p>Pour donner du volume, imaginez une source lumineuse placée au-dessus et légèrement devant le personnage. Éclaircissez alors les zones exposées, comme le haut des cheveux ou les épaules, et assombrissez les zones en retrait. Inutile de créer des dégradés complexes : Minecraft se lit à distance et chaque pixel compte.</p><p>Les détails doivent rester proportionnés. Des yeux de taille raisonnable, un motif simple sur le torse et des contours discrets sont plus efficaces qu'un visage surchargé. Si vous créez un skin inspiré de votre tenue réelle, retenez ce qui la rend reconnaissable : une couleur, une coupe, un accessoire ou un symbole original.</p><p>Enfin, tournez sans cesse le modèle. Le devant est facile à soigner, mais les autres joueurs voient souvent votre dos lorsque vous explorez ou construisez. Pensez aux côtés de la tête, à l'arrière des jambes, au dos du pull et au dessous des bras.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Importer et vérifier son skin dans Minecraft",
+      "intro": "Une fois le PNG enregistré, l'importation prend généralement quelques minutes. Gardez le fichier accessible sur l'appareil où vous jouez.",
+      "steps": [
+        {
+          "title": "Sur Minecraft Java Edition",
+          "html": "<p>Ouvrez le lanceur Minecraft ou votre page de profil Minecraft, puis cherchez la rubrique consacrée aux skins. Importez votre fichier PNG, choisissez le modèle <strong>classique</strong> ou <strong>slim</strong> correspondant, puis enregistrez. Lancez le jeu et vérifiez votre personnage dans le menu ou en partie.</p>"
+        },
+        {
+          "title": "Sur Minecraft Bedrock Edition",
+          "html": "<p>Depuis l'écran de personnalisation du personnage, ouvrez le vestiaire ou la section des skins classiques, puis choisissez l'option d'importation d'un nouveau skin. Sélectionnez votre PNG dans les fichiers de l'appareil et confirmez le type de bras demandé. Sur mobile et ordinateur, l'importation est habituellement directe ; sur certaines consoles, les possibilités peuvent dépendre de la plateforme et de ses restrictions.</p>"
+        },
+        {
+          "title": "Testez le skin en conditions réelles",
+          "html": "<p>Observez votre avatar à la lumière du jour, la nuit et sous plusieurs angles. Contrôlez surtout les bras, les côtés de la tête et la couche extérieure. Si un motif est coupé ou inversé, revenez au fichier source, corrigez la zone concernée, exportez à nouveau puis réimportez le PNG.</p>"
+        }
+      ]
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs fréquentes à éviter",
+      "points": [
+        "Importer une image JPEG, une capture d'écran ou un fichier redimensionné : seul un PNG au bon gabarit est fiable.",
+        "Choisir « slim » pour un skin à bras classiques, ou l'inverse : les bras paraîtront mal alignés.",
+        "Dessiner uniquement le devant du corps et laisser les côtés ou le dos inachevés.",
+        "Utiliser trop de noir, de détails minuscules ou de couleurs très proches : le skin devient illisible en jeu.",
+        "Oublier de sauvegarder le fichier de travail avant de fusionner les calques ou d'exporter.",
+        "Télécharger un fichier d'origine inconnue ou un prétendu « générateur de skins » demandant vos identifiants Minecraft."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Respecter les créations et protéger son compte",
+      "html": "<p>Vous pouvez vous inspirer d'une ambiance, d'une palette ou d'un style, mais évitez de republier le skin d'un autre créateur comme si c'était le vôtre. Si vous partez d'un modèle partagé, lisez ses conditions et créditez son auteur lorsque cela est demandé. Surtout, un site de création de skins n'a pas besoin de votre mot de passe Microsoft ou Minecraft pour vous laisser dessiner un PNG : ne communiquez jamais vos identifiants.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Aller plus loin : créer une petite collection de skins",
+      "html": "<p>Une fois votre premier modèle terminé, vous n'avez pas besoin de repartir de zéro à chaque fois. Conservez une version de base avec le visage, la coiffure et les traits qui définissent votre personnage. Dupliquez-la ensuite pour changer uniquement la tenue : version aventure, construction, hiver, fête ou uniforme de votre serveur.</p><p>Cette méthode rend votre avatar reconnaissable tout en vous laissant varier les styles. Elle est aussi pratique si vous jouez sur plusieurs mondes ou créez du contenu : votre identité visuelle reste cohérente. Classez vos fichiers dans un dossier avec des noms datés et indiquez le modèle choisi, par exemple <em>skin-base-slim</em> ou <em>skin-hiver-classique</em>.</p><p>Pour progresser, observez les skins que vous appréciez non pour les reproduire, mais pour comprendre leurs choix : où les ombres sont-elles placées ? Comment les couleurs sont-elles séparées ? Quels éléments restent visibles de loin ? Cette analyse vous aidera à développer votre propre style pixel art.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel logiciel utiliser pour créer un skin Minecraft ?",
+      "a_html": "<p>Un éditeur de skins en ligne avec prévisualisation 3D est souvent le plus simple pour débuter : il propose un pinceau, une palette, une gomme et une vue du personnage sous tous les angles. Pour une retouche très précise, vous pouvez aussi utiliser un logiciel de dessin capable d'ouvrir et d'exporter des PNG.</p><p>Quel que soit l'outil, vérifiez que vous pouvez choisir un gabarit Minecraft 64 × 64 et le modèle classique ou slim.</p>"
+    },
+    {
+      "q": "Comment savoir si mon skin est classique ou slim ?",
+      "a_html": "<p>La différence se situe au niveau des bras. Un skin classique utilise des bras de 4 pixels de large ; un skin slim utilise des bras de 3 pixels de large. Dans la plupart des éditeurs, le choix est indiqué avant ou pendant la création.</p><p>Si vous avez déjà le fichier PNG, importez-le dans un éditeur de skin et essayez les deux affichages. Le bon modèle est celui dont les manches, les mains et les contours ne présentent pas de décalage.</p>"
+    },
+    {
+      "q": "Pourquoi mon skin Minecraft ne s'affiche-t-il pas ?",
+      "a_html": "<p>Les causes les plus courantes sont un mauvais format de fichier, une taille d'image non compatible, un modèle de bras mal sélectionné ou un problème de synchronisation du compte. Vérifiez que le fichier est bien en PNG et réimportez-le en choisissant le bon type de bras.</p><p>Si le skin ne change pas immédiatement, fermez puis relancez le jeu. Sur un serveur, l'affichage peut aussi prendre un court moment à se mettre à jour pour les autres joueurs.</p>"
+    },
+    {
+      "q": "Peut-on créer un skin Minecraft sur téléphone ?",
+      "a_html": "<p>Oui. Un éditeur de skins utilisable dans le navigateur ou une application dédiée permet de dessiner directement sur mobile ou tablette. L'écran plus petit rend les pixels fins moins confortables à manipuler, mais c'est très pratique pour modifier les couleurs, ajouter un accessoire ou importer immédiatement le résultat dans Bedrock Edition.</p><p>Pour un travail très détaillé, un ordinateur avec une souris reste généralement plus précis.</p>"
+    },
+    {
+      "q": "Un skin Minecraft est-il gratuit ?",
+      "a_html": "<p>Créer vous-même un skin PNG et l'importer sur les versions qui acceptent les skins personnalisés ne demande généralement pas d'achat supplémentaire. En revanche, certaines plateformes proposent aussi des packs cosmétiques, des personnages ou des éléments de personnalisation payants dans leur boutique.</p><p>Ne confondez pas ces contenus officiels avec votre fichier de skin personnel : vérifiez toujours les options disponibles dans votre édition de Minecraft et sur votre appareil.</p>"
+    },
+    {
+      "q": "Puis-je utiliser le skin d'un personnage connu ?",
+      "a_html": "<p>Pour votre usage privé, un skin inspiré d'un personnage peut être une façon amusante de jouer. En revanche, pour le publier, le partager largement ou l'utiliser dans un projet commercial, il faut tenir compte des droits liés à la licence, à la marque et au travail du créateur du skin d'origine.</p><p>Le plus sûr est de créer une version personnelle inspirée d'une ambiance, avec vos propres couleurs, vêtements et détails, plutôt qu'une copie exacte.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Créer son skin Minecraft, c'est transformer quelques pixels en véritable identité de jeu. Commencez par un modèle simple, choisissez correctement entre bras classiques et slim, puis soignez les grandes couleurs avant les petits détails. Avec un fichier PNG bien exporté et un test en jeu, votre avatar sera prêt à explorer, construire et jouer avec un style qui n'appartient qu'à vous.</p>",
+  "__slug": "comment-creer-son-skin"
+}

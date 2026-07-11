@@ -1,0 +1,236 @@
+{
+  "title": "Comment nettoyer une piscine efficacement : méthodes, produits et routine",
+  "meta_description": "Apprenez à nettoyer votre piscine : filtration, robot, produits, réglages de l'eau et routine simple pour une baignade claire, saine et durable.",
+  "reading_time_min": 11,
+  "hero_intro": "J'aimerais profiter d'une piscine limpide sans y consacrer tous mes week-ends. La bonne nouvelle : une eau propre ne dépend pas d'un seul produit miracle, mais d'une routine cohérente qui associe filtration, nettoyage physique et équilibre de l'eau. Voici comment choisir les bonnes méthodes, agir au bon rythme et éviter les erreurs qui transforment vite un bassin en casse-tête.",
+  "key_takeaways": [
+    "La filtration est le premier outil de nettoyage : elle doit fonctionner assez longtemps chaque jour et son filtre doit être entretenu.",
+    "Épuisette, brosse et aspirateur retirent les saletés que les produits ne peuvent pas éliminer, notamment sur les parois et au fond.",
+    "Testez l'eau au moins une à deux fois par semaine en saison : pH, désinfectant et, si besoin, alcalinité et stabilisant.",
+    "Un robot de piscine fait gagner du temps, mais ne remplace ni le contrôle de l'eau ni le nettoyage du filtre.",
+    "N'ajoutez jamais plusieurs produits chimiques ensemble et respectez toujours la dose indiquée par leur fabricant."
+  ],
+  "toc": [
+    "Les trois piliers d'une piscine vraiment propre",
+    "La routine d'entretien à adopter en saison",
+    "Filtration : le moteur invisible de la propreté",
+    "Robot, aspirateur ou balai manuel : que choisir ?",
+    "Équilibrer et désinfecter l'eau sans se tromper",
+    "La routine complète en 7 étapes",
+    "Eau trouble ou verte : diagnostiquer avant de traiter",
+    "Quel matériel prévoir selon votre bassin"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Les trois piliers d'une piscine vraiment propre",
+      "html": "<p>Nettoyer une piscine ne consiste pas seulement à retirer les feuilles qui flottent à la surface. Une eau agréable repose sur trois actions complémentaires : <strong>capter les impuretés</strong> grâce à la filtration, <strong>décoller et aspirer les dépôts</strong> sur les parois et le fond, puis <strong>désinfecter une eau correctement équilibrée</strong>. Si l'un de ces maillons manque, les deux autres travaillent moins bien.</p><p>La filtration retient les poussières, insectes, résidus végétaux et une partie des particules en suspension. Le nettoyage manuel ou automatique empêche les débris de se décomposer dans le bassin et limite l'apparition de taches ou d'algues. Enfin, le traitement de l'eau neutralise les micro-organismes invisibles. Cette approche globale évite les traitements de rattrapage coûteux et permet de conserver l'eau plus longtemps.</p><p>La fréquence dépend de la météo, du nombre de baigneurs, de la proximité d'arbres et de la température de l'eau. Après un orage, une période de forte chaleur ou une baignade très fréquentée, il est normal de renforcer ponctuellement le nettoyage et les contrôles.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel à retenir avant de commencer",
+      "points": [
+        "Retirez les débris visibles avant de modifier les paramètres de l'eau.",
+        "Faites fonctionner la filtration tous les jours pendant la période de baignade, davantage quand l'eau est chaude.",
+        "Brossez les zones peu brassées : escaliers, ligne d'eau, angles, dessous des margelles.",
+        "Analysez l'eau avant d'ajouter un correcteur de pH ou un désinfectant.",
+        "Traitez une eau verte ou trouble après avoir identifié la cause : un produit mal choisi peut retarder le retour à la normale."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "La fréquence idéale des gestes d'entretien",
+      "intro": "Cette base de routine convient à la majorité des piscines privées en période d'utilisation. Adaptez-la à votre installation et à l'état réel de l'eau.",
+      "columns": [
+        "Action",
+        "Fréquence conseillée",
+        "Pourquoi c'est utile",
+        "Repère pratique"
+      ],
+      "rows": [
+        [
+          "Épuiser la surface et vider les paniers",
+          "Tous les jours ou tous les 2 jours",
+          "Évite que les débris coulent et se décomposent",
+          "5 à 10 minutes"
+        ],
+        [
+          "Tester l'eau",
+          "1 à 2 fois par semaine, davantage par forte chaleur",
+          "Permet d'ajuster le pH et le désinfectant avant que l'eau ne se dégrade",
+          "Bandelettes ou testeur fiable"
+        ],
+        [
+          "Brosser parois, fond et ligne d'eau",
+          "1 fois par semaine",
+          "Décolle le biofilm, les saletés et les algues naissantes",
+          "Insister sur les angles et les marches"
+        ],
+        [
+          "Aspirer le fond ou lancer le robot",
+          "1 fois par semaine, voire 2 si le bassin est très utilisé",
+          "Retire les dépôts que le filtre ne capte pas seul",
+          "Après le brossage, de préférence"
+        ],
+        [
+          "Nettoyer le filtre",
+          "Selon l'encrassement et les préconisations",
+          "Maintient le débit et la finesse de filtration",
+          "Pour un filtre à sable, surveiller la pression"
+        ],
+        [
+          "Contrôler la filtration",
+          "Chaque jour en saison",
+          "Assure le brassage et la désinfection homogène",
+          "Augmenter le temps de filtration quand l'eau se réchauffe"
+        ]
+      ],
+      "note": "La règle souvent utilisée « température de l'eau divisée par deux » donne un ordre de grandeur du nombre d'heures de filtration quotidiennes. Elle doit être ajustée selon votre bassin, votre pompe et les recommandations du fabricant."
+    },
+    {
+      "type": "prose",
+      "heading": "Filtration : le moteur invisible de la propreté",
+      "html": "<p>Une eau peut sembler propre tout en étant insuffisamment filtrée. Or, c'est le circuit de filtration qui fait passer l'eau par le filtre et répartit les produits de traitement. En été, faites fonctionner la pompe au quotidien, idéalement pendant les heures où l'eau est la plus chaude et où la piscine est utilisée. Une eau à 28 °C demandera généralement davantage de filtration qu'une eau à 20 °C.</p><p>Sur un filtre à sable ou à verre, surveillez le manomètre : une hausse de pression d'environ <strong>0,2 à 0,3 bar</strong> par rapport à la pression habituelle signale souvent qu'un contre-lavage est nécessaire. N'en faites pas trop souvent non plus, car un filtre légèrement chargé peut filtrer plus finement. Avec un filtre à cartouche, rincez la cartouche lorsque le débit diminue et remplacez-la lorsqu'elle reste tachée, déformée ou peu efficace malgré le nettoyage.</p><p>Profitez de cette vérification pour vider les paniers de skimmer et de préfiltre de pompe. Un panier obstrué réduit le débit, fatigue la pompe et laisse plus de particules dans le bassin. C'est un geste simple, mais l'un des plus rentables de tout l'entretien.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Robot, aspirateur manuel ou balai : quelle méthode choisir ?",
+      "intro": "Le meilleur équipement est celui qui correspond à la forme du bassin, à votre budget et au temps que vous souhaitez consacrer à l'entretien.",
+      "left": {
+        "title": "Nettoyage manuel ou aspirateur sur prise balai",
+        "points": [
+          "Budget d'équipement souvent modéré : environ 30 à 150 € pour un kit complet selon la qualité.",
+          "Très efficace pour insister sur une zone précise, notamment après un dépôt important.",
+          "Demande du temps et un peu de technique pour ne pas remettre les saletés en suspension.",
+          "Convient bien aux petits bassins, aux usages occasionnels et aux nettoyages de rattrapage."
+        ]
+      },
+      "right": {
+        "title": "Robot hydraulique, à surpression ou électrique",
+        "points": [
+          "Un robot hydraulique coûte souvent entre 150 et 400 €, tandis qu'un modèle électrique se situe fréquemment entre 500 et plus de 1 500 €.",
+          "Il réduit fortement le temps de nettoyage courant et peut brosser fond, parois et ligne d'eau selon le modèle.",
+          "Il faut nettoyer son filtre ou son sac après les cycles et vérifier sa compatibilité avec le bassin.",
+          "C'est un confort appréciable pour les grands bassins, les formes complexes ou les piscines très utilisées."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Équilibrer et désinfecter l'eau sans se tromper",
+      "html": "<p>Les produits de piscine sont efficaces uniquement si l'eau est équilibrée. Commencez par mesurer le <strong>pH</strong>, généralement recherché autour de 7,2 à 7,6 selon le traitement utilisé et les recommandations de votre fabricant. Trop bas, il peut irriter les yeux et favoriser la corrosion ; trop haut, il réduit l'efficacité du désinfectant et encourage les dépôts calcaires. Ajustez-le progressivement, jamais à l'aveugle.</p><p>Vérifiez ensuite le désinfectant. Le chlore reste le choix le plus courant et le plus économique ; il exige toutefois un suivi régulier, notamment lorsque l'eau est chaude ou très fréquentée. Le brome est apprécié pour sa stabilité en eau chaude et son odeur généralement moins marquée, mais son coût est souvent plus élevé. L'électrolyse au sel produit du chlore à partir du sel dissous : elle apporte du confort, sans dispenser de contrôler le pH, la cellule et le niveau de sel. L'oxygène actif peut convenir à certains usages, mais son suivi doit être rigoureux et il n'est pas toujours adapté à une eau très sollicitée.</p><p>Pour aller plus loin, contrôlez aussi l'alcalinité, souvent appelée TAC, qui stabilise le pH, ainsi que le stabilisant pour les piscines traitées au chlore stabilisé. Un excès de stabilisant peut rendre le chlore beaucoup moins actif : ajouter encore des galets ne résout alors pas le problème. En cas de doute, une analyse en magasin spécialisé ou avec un test plus précis aide à éviter les traitements inutiles.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "La routine complète en 7 étapes, une fois par semaine",
+      "intro": "Prévoyez environ 30 à 60 minutes, hors temps de filtration ou cycle du robot. Après un épisode de vent, de pollen ou de baignade intense, répétez les gestes nécessaires sans attendre le jour prévu.",
+      "steps": [
+        {
+          "title": "1. Observer l'eau et les équipements",
+          "html": "<p>Regardez la couleur de l'eau, la présence de dépôts, le débit aux buses de refoulement et le niveau d'eau. Une anomalie visible permet souvent d'agir avant qu'elle ne s'aggrave.</p>"
+        },
+        {
+          "title": "2. Retirer les déchets flottants",
+          "html": "<p>Passez l'épuisette, videz les paniers de skimmer et le préfiltre de pompe après avoir arrêté la filtration. Les feuilles et insectes consomment du désinfectant en se dégradant.</p>"
+        },
+        {
+          "title": "3. Brosser les surfaces",
+          "html": "<p>Brossez le fond, les parois, les marches et la ligne d'eau avec une brosse adaptée au revêtement. Le brossage est particulièrement important dans les recoins peu brassés.</p>"
+        },
+        {
+          "title": "4. Aspirer ou lancer le robot",
+          "html": "<p>Aspirez les dépôts décollés ou lancez un cycle de robot. Si le fond est très sale, aspirez lentement afin de ne pas troubler l'eau.</p>"
+        },
+        {
+          "title": "5. Nettoyer le filtre si nécessaire",
+          "html": "<p>Contrôlez le manomètre, le débit et l'état du média filtrant ou de la cartouche. Nettoyez uniquement lorsque les indicateurs montrent un encrassement réel.</p>"
+        },
+        {
+          "title": "6. Tester l'eau dans le bon ordre",
+          "html": "<p>Mesurez d'abord le pH, puis le désinfectant. Si le pH est déséquilibré, corrigez-le et laissez l'eau circuler avant de réévaluer le traitement.</p>"
+        },
+        {
+          "title": "7. Ajouter le traitement adapté",
+          "html": "<p>Ajoutez les produits à dose mesurée, filtration en marche, en suivant strictement l'étiquette. Laissez le bassin filtrer suffisamment longtemps avant la prochaine baignade.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Eau verte, trouble ou irritante : le bon diagnostic avant le traitement",
+      "intro": "Un aspect anormal ne se corrige pas systématiquement avec un traitement choc. Identifiez d'abord la cause la plus probable.",
+      "columns": [
+        "Symptôme",
+        "Causes fréquentes",
+        "Actions prioritaires"
+      ],
+      "rows": [
+        [
+          "Eau verte ou parois glissantes",
+          "Algues, désinfectant insuffisant, pH mal réglé, filtration trop courte",
+          "Brosser soigneusement, retirer les débris, analyser l'eau, corriger le pH puis appliquer un traitement adapté et filtrer en continu selon les consignes."
+        ],
+        [
+          "Eau laiteuse ou trouble",
+          "Filtration insuffisante, particules fines, déséquilibre de l'eau, forte fréquentation",
+          "Vérifier le filtre et le débit, analyser le pH et le désinfectant. Un clarifiant ou floculant peut aider uniquement s'il est compatible avec votre filtre."
+        ],
+        [
+          "Odeur forte de chlore et yeux irrités",
+          "Souvent présence de chloramines plutôt qu'un excès de chlore actif",
+          "Tester l'eau, améliorer la filtration et appliquer le protocole de traitement recommandé par le fabricant plutôt que d'ajouter des produits au hasard."
+        ],
+        [
+          "Dépôts blancs ou eau qui pique",
+          "pH trop élevé, eau calcaire, alcalinité déséquilibrée",
+          "Mesurer pH et alcalinité, corriger progressivement et nettoyer les dépôts avec un produit compatible avec le revêtement."
+        ],
+        [
+          "Saletés qui reviennent au fond",
+          "Mauvaise circulation, filtration inefficace ou brossage insuffisant",
+          "Orienter les refoulements, contrôler le filtre, brosser puis aspirer lentement les zones concernées."
+        ]
+      ],
+      "note": "Si l'eau reste anormale malgré plusieurs jours de filtration et des mesures correctes, faites vérifier les paramètres complets de l'eau avant de multiplier les produits."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Sécurité : les produits ne se mélangent jamais",
+      "html": "<p>Stockez les produits de piscine au sec, hors de portée des enfants, dans leur emballage d'origine. <strong>Ne mélangez jamais chlore, acide, correcteurs de pH ou autres traitements dans un seau</strong>, et ne versez pas un produit dans le contenant d'un autre. Portez des protections adaptées, respectez les dosages et attendez le délai de baignade indiqué sur l'emballage, en particulier après un traitement choc.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Quel matériel prévoir selon votre bassin",
+      "html": "<p>Pour une routine fiable, prévoyez au minimum une épuisette de surface, une brosse compatible avec votre liner, carrelage ou coque, un manche télescopique, un moyen d'aspiration et un kit d'analyse d'eau. Un équipement manuel de base revient souvent entre <strong>50 et 150 €</strong>, hors produits. Un robot représente un investissement plus important, mais peut être pertinent si le bassin est grand, entouré d'arbres ou utilisé très régulièrement.</p><p>Ne négligez pas la couverture : une bâche à bulles, une couverture de sécurité ou un abri limite l'arrivée de feuilles et de poussières, ralentit l'évaporation et aide à conserver la température. En complément, une douche avant la baignade réduit les apports de crème solaire, de sueur et de cosmétiques. Ces petits gestes diminuent la consommation de désinfectant et facilitent réellement le nettoyage.</p><p>Enfin, n'essayez pas de vider et renouveler entièrement l'eau au moindre problème. Une eau bien diagnostiquée et correctement traitée se récupère souvent. Le renouvellement partiel devient surtout utile lorsque certains paramètres, comme le stabilisant, sont durablement trop élevés ou lorsque les préconisations locales et techniques l'imposent.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien de temps faut-il filtrer une piscine chaque jour ?",
+      "a_html": "<p>Il n'existe pas une durée universelle, car elle dépend de la température de l'eau, du volume du bassin, de la puissance de la pompe et de la fréquentation. En saison, une règle pratique consiste souvent à viser un nombre d'heures proche de la moitié de la température de l'eau : environ 13 à 14 heures pour une eau à 26-28 °C.</p><p>Considérez ce calcul comme un point de départ. Augmentez la filtration après un orage, une canicule, un traitement ou une forte baignade, et vérifiez surtout que l'eau reste limpide et bien équilibrée.</p>"
+    },
+    {
+      "q": "Peut-on nettoyer une piscine sans chlore ?",
+      "a_html": "<p>Oui, mais pas sans désinfection. Le brome, l'électrolyse au sel, l'oxygène actif ou certains systèmes UV peuvent participer au traitement de l'eau. Chacun exige néanmoins un contrôle des paramètres et, selon la solution, l'ajout d'un désinfectant complémentaire.</p><p>L'électrolyse au sel, par exemple, produit du chlore dans le bassin : elle ne supprime donc pas le besoin de surveiller le pH et la qualité de l'eau. Choisissez une méthode compatible avec votre équipement, votre budget et vos habitudes d'entretien.</p>"
+    },
+    {
+      "q": "Comment nettoyer le fond d'une piscine très sale ?",
+      "a_html": "<p>Retirez d'abord les gros débris à l'épuisette, puis brossez délicatement le fond et les parois. Laissez les particules se déposer si l'eau est trouble, avant de les aspirer lentement avec un balai manuel ou un robot adapté.</p><p>Si le dépôt est important, l'aspiration vers l'égout peut être recommandée sur certaines installations afin de ne pas encrasser le filtre. Vérifiez le mode d'emploi de votre vanne et surveillez le niveau d'eau : cette opération peut nécessiter un appoint.</p>"
+    },
+    {
+      "q": "Pourquoi l'eau de ma piscine reste-t-elle trouble malgré le chlore ?",
+      "a_html": "<p>Le chlore seul ne suffit pas si le pH est mal réglé, si le filtre est encrassé ou si le temps de filtration est trop court. Une eau trouble peut aussi contenir des particules très fines que votre filtration retient mal.</p><p>Testez d'abord le pH et le désinfectant, vérifiez le débit de la pompe et l'état du filtre. Utilisez un clarifiant ou un floculant uniquement après avoir confirmé sa compatibilité avec votre type de filtre, notamment avec les filtres à cartouche.</p>"
+    },
+    {
+      "q": "À quelle fréquence faut-il brosser les parois de la piscine ?",
+      "a_html": "<p>Un brossage hebdomadaire est une bonne base en saison. Passez plus souvent sur la ligne d'eau, les escaliers et les angles si la piscine est très fréquentée, exposée aux arbres ou si les températures sont élevées.</p><p>Le brossage prévient la formation d'un film invisible auquel les algues peuvent s'accrocher. Il complète le robot : même un bon robot ne traite pas toujours parfaitement les zones difficiles d'accès.</p>"
+    },
+    {
+      "q": "Peut-on se baigner pendant que le robot nettoie la piscine ?",
+      "a_html": "<p>Il est généralement préférable de ne pas se baigner pendant le fonctionnement d'un robot, surtout s'il est électrique ou relié au circuit de filtration. Consultez la notice de votre modèle : elle précise les conditions d'utilisation et les règles de sécurité.</p><p>Retirez également le robot avant une baignade si le fabricant le recommande. Cela protège l'appareil, évite les câbles dans l'eau et rend le bassin plus confortable pour tous.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Une piscine propre se gagne par la régularité, pas par l'accumulation de produits. Retenez la bonne séquence : retirer les déchets, faire circuler et filtrer l'eau, brosser et aspirer les surfaces, puis analyser avant de traiter.</p><p>En adoptant cette routine et en réagissant vite au moindre changement de couleur, de débit ou d'odeur, vous préserverez votre équipement tout en profitant d'une eau claire, saine et accueillante tout l'été.</p>",
+  "__slug": "quelles-sont-les-meilleures-methodes-pour-nettoyer-une-piscine"
+}

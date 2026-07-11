@@ -1,0 +1,203 @@
+{
+  "title": "Comment supprimer les pubs sur Chrome : bloquer les publicités, pop-ups et notifications",
+  "meta_description": "Découvrez comment bloquer les publicités, pop-ups et notifications sur Chrome, choisir une extension fiable et nettoyer un navigateur envahi.",
+  "reading_time_min": 10,
+  "hero_intro": "Les publicités ordinaires font partie du Web, mais les pop-ups, redirections, fausses alertes et notifications insistantes n'ont rien d'inévitable. Sur Chrome, la bonne solution dépend de ce que vous voyez réellement : une extension de blocage peut suffire, tandis qu'un navigateur qui ouvre des onglets seul mérite un nettoyage plus approfondi. Voici une méthode claire pour retrouver une navigation calme, sans fragiliser votre sécurité.",
+  "key_takeaways": [
+    "Les réglages de Chrome bloquent les pop-ups, les redirections abusives et les notifications non désirées, mais pas toutes les bannières publicitaires classiques.",
+    "Une seule extension de blocage reconnue, installée depuis le Chrome Web Store, est généralement plus efficace et plus sûre que plusieurs bloqueurs cumulés.",
+    "Des pubs qui apparaissent sur tous les sites, un moteur de recherche modifié ou des onglets qui s'ouvrent seuls peuvent signaler une extension indésirable ou un logiciel publicitaire.",
+    "Sur mobile, Chrome n'offre pas les mêmes possibilités d'extensions que sur ordinateur : il faut surtout gérer les autorisations de sites et les notifications.",
+    "La réinitialisation de Chrome aide à corriger des réglages détournés, mais ne remplace pas la désinstallation d'un logiciel indésirable sur l'ordinateur."
+  ],
+  "toc": [
+    "Identifier le type de publicité à supprimer",
+    "Choisir la solution adaptée",
+    "Régler Chrome contre les pop-ups et notifications",
+    "Bloqueur de publicités ou réglages natifs ?",
+    "Installer une extension de blocage fiable",
+    "Nettoyer Chrome si les pubs semblent anormales",
+    "Supprimer les pubs sur Android, iPhone et YouTube",
+    "Prévenir le retour des publicités intrusives"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Avant de bloquer : identifier ce qui vous dérange vraiment",
+      "html": "<p>Quand on cherche à supprimer les pubs sur Chrome, on pense souvent aux bannières affichées dans les pages. Pourtant, plusieurs phénomènes très différents sont regroupés sous le mot « pub » : annonces classiques, fenêtres surgissantes, demandes de notification, redirections vers des sites douteux ou messages qui imitent une alerte antivirus.</p><p>Cette distinction compte, car Chrome peut déjà empêcher une partie des comportements intrusifs. En revanche, il ne supprime pas par défaut toutes les annonces d'un site : celles-ci financent fréquemment son contenu. Pour filtrer les encarts, vidéos promotionnelles et éléments de suivi les plus courants, une extension dédiée est souvent nécessaire sur ordinateur.</p><p>Si des publicités s'affichent <strong>même lorsque vous ne consultez qu'un nombre limité de sites</strong>, si votre page d'accueil a changé ou si Chrome lance des onglets tout seul, ne vous contentez pas d'installer un bloqueur. Il peut s'agir d'une extension abusive ou d'un logiciel publicitaire : commencez alors par le nettoyage décrit plus bas.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quelle solution pour quel type de pub ?",
+      "intro": "Le bon réflexe dépend de l'origine de l'affichage gênant. Ce tableau vous aide à éviter les manipulations inutiles.",
+      "columns": [
+        "Ce que vous observez",
+        "Solution la plus adaptée",
+        "Limites et budget habituel"
+      ],
+      "rows": [
+        [
+          "Bannières, encarts et vidéos publicitaires sur les sites",
+          "Installer un bloqueur de contenu réputé sur Chrome pour ordinateur",
+          "Souvent gratuit ; certains sites peuvent demander de le désactiver ou fonctionner moins bien"
+        ],
+        [
+          "Fenêtres pop-up et redirections automatiques",
+          "Bloquer les pop-ups et redirections dans les paramètres de sites de Chrome",
+          "N'enlève pas toutes les annonces intégrées dans une page"
+        ],
+        [
+          "Notifications promotionnelles qui s'affichent sur le bureau ou le téléphone",
+          "Retirer l'autorisation de notification accordée au site",
+          "Les bannières du site resteront visibles lors de la navigation"
+        ],
+        [
+          "Publicités sur tous les sites, moteur de recherche ou page d'accueil modifiés",
+          "Supprimer les extensions inconnues, vérifier les réglages et analyser l'appareil",
+          "Un antivirus ou un outil de sécurité payant peut coûter environ 20 à 60 € par an, sans être indispensable dans tous les cas"
+        ],
+        [
+          "Pubs sur tout l'appareil ou le réseau",
+          "Envisager un filtrage DNS ou une solution de sécurité adaptée",
+          "Gratuit ou souvent entre 2 et 10 € par mois ; ne bloque pas forcément chaque format publicitaire"
+        ]
+      ],
+      "note": "Les tarifs sont des ordres de grandeur. Un abonnement ou un VPN ne garantit pas, à lui seul, la suppression de toutes les publicités."
+    },
+    {
+      "type": "steps",
+      "heading": "Régler Chrome pour bloquer les pop-ups, redirections et notifications",
+      "intro": "Ces réglages sont utiles avant même d'ajouter une extension. Les intitulés peuvent légèrement varier selon la version de Chrome, mais le chemin reste proche sur ordinateur.",
+      "steps": [
+        {
+          "title": "Ouvrez les paramètres de confidentialité",
+          "html": "<p>Dans Chrome, cliquez sur le menu à trois points, puis sur <strong>Paramètres</strong>. Ouvrez ensuite la rubrique <strong>Confidentialité et sécurité</strong>, puis <strong>Paramètres des sites</strong>. C'est ici que Chrome gère les autorisations accordées à chaque site.</p>"
+        },
+        {
+          "title": "Bloquez les pop-ups et les redirections",
+          "html": "<p>Entrez dans <strong>Pop-ups et redirections</strong> et choisissez l'option qui empêche les sites d'en ouvrir. Si un site fiable a besoin d'une fenêtre pour un paiement, un téléchargement ou une connexion, vous pourrez l'autoriser ponctuellement plutôt que de désactiver la protection partout.</p>"
+        },
+        {
+          "title": "Révoquez les notifications indésirables",
+          "html": "<p>Dans <strong>Notifications</strong>, choisissez le blocage par défaut ou examinez la liste des sites autorisés. Supprimez les autorisations accordées à des sites inconnus, à des jeux, à des pages de téléchargement ou à des sites d'actualité qui envoient trop d'alertes. Vous pouvez aussi cliquer sur l'icône à gauche de l'adresse d'un site, puis modifier son autorisation de notifications.</p>"
+        },
+        {
+          "title": "Activez le filtrage des annonces intrusives",
+          "html": "<p>Selon votre version de Chrome, une rubrique <strong>Annonces</strong> permet de bloquer les publicités particulièrement intrusives ou trompeuses sur les sites concernés. C'est une protection complémentaire : elle ne remplace pas une extension de filtrage si votre objectif est de réduire largement les bannières.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Réglages de Chrome ou extension : faut-il choisir ?",
+      "intro": "Dans la plupart des cas, les deux approches se complètent. Les réglages contrôlent les autorisations ; l'extension filtre le contenu chargé dans les pages.",
+      "left": {
+        "title": "Les réglages intégrés de Chrome",
+        "points": [
+          "Sans installation supplémentaire ni nouvelle autorisation à donner.",
+          "Très efficaces contre les pop-ups, les redirections et les notifications abusives.",
+          "À privilégier sur mobile, où les extensions Chrome sont limitées ou absentes.",
+          "Ne suppriment pas la majorité des bannières et encarts publicitaires classiques."
+        ]
+      },
+      "right": {
+        "title": "Une extension de blocage de contenu",
+        "points": [
+          "Réduit les bannières, pistes de suivi et nombreux formats vidéo sur ordinateur.",
+          "Permet souvent de mettre un site en liste blanche en un clic.",
+          "Demande de choisir un éditeur fiable, car l'extension peut voir les pages consultées.",
+          "Peut perturber un lecteur vidéo, un formulaire ou l'accès à certains contenus."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Installer un bloqueur de publicités fiable sur Chrome",
+      "html": "<p>Sur un ordinateur, recherchez une extension connue directement dans le <strong>Chrome Web Store</strong>. Des outils de filtrage maintenus et transparents, comme les versions officielles d'uBlock Origin ou d'uBlock Origin Lite selon la compatibilité proposée, Adblock Plus ou AdGuard, sont des pistes courantes. L'important n'est pas d'accumuler les noms, mais de choisir un outil officiel, activement mis à jour et bien identifié.</p><p>Avant d'installer, vérifiez le nom de l'éditeur, le nombre d'utilisateurs, les avis récents et les autorisations demandées. Un bloqueur doit analyser le contenu des pages pour agir : certaines autorisations étendues peuvent donc être cohérentes. En revanche, méfiez-vous d'une extension au nom très proche d'un service connu, qui promet de « gagner de l'argent en regardant des pubs » ou qui exige des informations personnelles sans raison claire.</p><p>Après l'installation, gardez les réglages par défaut quelques jours. Si une page utile ne fonctionne plus, désactivez le bloqueur <strong>uniquement sur ce site</strong> ou ajoutez-le à la liste des sites autorisés. Évitez de désactiver la protection pour tout le Web : vous conserverez ainsi le confort de navigation sans sacrifier vos sites de confiance.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "N'installez pas plusieurs bloqueurs à la fois",
+      "html": "<p>Deux ou trois extensions de blocage actives ne filtrent pas forcément mieux. Elles peuvent ralentir Chrome, casser davantage de pages et rendre difficile l'identification du problème. Gardez <strong>un seul bloqueur principal</strong>, puis testez-le avant d'en ajouter un autre.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Pubs persistantes : nettoyer Chrome et rechercher une extension indésirable",
+      "intro": "Des annonces agressives qui survivent aux réglages peuvent provenir d'un programme ou d'une extension installée sans attention. Procédez dans cet ordre, sans cliquer sur les fausses alertes qui prétendent détecter un virus.",
+      "steps": [
+        {
+          "title": "Examinez les extensions installées",
+          "html": "<p>Saisissez <strong>chrome://extensions</strong> dans la barre d'adresse. Désactivez d'abord, puis supprimez les extensions que vous ne reconnaissez pas, que vous n'utilisez plus ou qui ont été ajoutées au moment où le problème a commencé. Portez une attention particulière aux faux outils de coupons, convertisseurs de fichiers, fonds d'écran, VPN inconnus et assistants de recherche.</p>"
+        },
+        {
+          "title": "Vérifiez le moteur de recherche, la page d'accueil et le démarrage",
+          "html": "<p>Dans les paramètres de Chrome, contrôlez le moteur de recherche, la page d'accueil et la rubrique de démarrage. Retirez toute adresse inconnue. Si Chrome indique que certains réglages sont « gérés par votre organisation » alors qu'il s'agit d'un ordinateur personnel, cherchez l'aide d'un professionnel ou vérifiez la présence d'un logiciel indésirable.</p>"
+        },
+        {
+          "title": "Réinitialisez les paramètres de Chrome si nécessaire",
+          "html": "<p>La fonction de réinitialisation de Chrome restaure les principaux réglages, désactive les extensions et rétablit notamment certains choix de moteur de recherche et de page de démarrage. Elle ne supprime normalement pas vos favoris, votre historique ni vos mots de passe enregistrés, mais vérifiez les conséquences affichées à l'écran avant de confirmer.</p>"
+        },
+        {
+          "title": "Contrôlez l'ordinateur, pas seulement le navigateur",
+          "html": "<p>Désinstallez les logiciels récents et suspects depuis les réglages de votre système, puis lancez une analyse avec l'outil de sécurité déjà présent sur votre appareil ou une solution reconnue. Mettez aussi Chrome et le système à jour. Si vous avez saisi des mots de passe sur une page douteuse, changez-les depuis un appareil sain et activez la validation en deux étapes lorsque c'est possible.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Et sur Android, iPhone ou YouTube ?",
+      "html": "<p>Sur Android et sur iPhone, Chrome ne propose pas le même usage des extensions que Chrome sur ordinateur. Commencez donc par ouvrir les paramètres de Chrome, puis les <strong>Paramètres des sites</strong> ou les réglages de notifications pour bloquer les pop-ups, retirer les autorisations abusives et désactiver les alertes d'un site précis. Pensez aussi aux notifications de l'application Chrome dans les réglages généraux du téléphone.</p><p>Si la publicité provient d'une application et non d'un site, un réglage de Chrome ne suffira pas. Repérez les applications récemment installées, surtout si des annonces s'affichent sur l'écran d'accueil, et désinstallez celles qui semblent douteuses. Ne téléchargez pas de fichier APK ou de « bloqueur miracle » depuis une publicité : c'est une porte d'entrée fréquente pour les logiciels indésirables.</p><p>Pour les annonces dans les vidéos, notamment sur YouTube, la situation évolue régulièrement selon la plateforme et l'appareil. Les extensions peuvent avoir un effet variable sur ordinateur et ne sont pas une solution garantie sur mobile. Une formule sans publicité proposée officiellement par le service reste l'option la plus stable si vous souhaitez supprimer les annonces sur cette plateforme, mais elle est payante.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les bons réflexes pour garder un Chrome plus calme",
+      "points": [
+        "Refusez les notifications lorsqu'un site les demande sans raison utile.",
+        "Installez les extensions uniquement depuis une source officielle et relisez leurs autorisations.",
+        "Mettez Chrome à jour : les protections contre les sites dangereux et les comportements abusifs évoluent régulièrement.",
+        "Créez des exceptions site par site plutôt que de désactiver votre bloqueur en permanence.",
+        "Soutenez, lorsque vous le pouvez, les sites que vous consultez vraiment : liste blanche, abonnement ou contribution peuvent remplacer la publicité bloquée."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Une publicité n'est pas forcément un virus",
+      "html": "<p>Une bannière visible sur un site fiable est généralement une publicité normale. En revanche, un message qui vous intime d'appeler un numéro, de télécharger un « nettoyeur » ou de cliquer immédiatement pour sauver votre appareil est suspect. Fermez l'onglet sans interagir, puis vérifiez vos extensions et vos notifications.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Prévenir le retour des publicités intrusives",
+      "html": "<p>Le meilleur bloqueur ne compense pas des habitudes d'installation risquées. Téléchargez les logiciels depuis leurs sites officiels, choisissez l'installation personnalisée quand elle est proposée et décochez les offres annexes. Les barres d'outils, pseudo-accélérateurs de téléchargement et extensions de coupons sont souvent ajoutés à cette étape.</p><p>Faites un petit tri tous les deux ou trois mois dans <strong>chrome://extensions</strong> et dans les autorisations de notifications. Une extension utile il y a un an peut avoir changé de propriétaire, devenir inutilisée ou demander de nouvelles autorisations. Moins vous avez d'extensions, plus il est simple de garder un navigateur rapide et maîtrisé.</p><p>Enfin, gardez une approche équilibrée : filtrez ce qui est intrusif, protégez vos données et autorisez au besoin les sites dont vous appréciez réellement le travail. Vous obtiendrez une navigation plus agréable sans multiplier les outils ni perdre l'accès aux services qui vous sont utiles.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment bloquer toutes les publicités sur Google Chrome ?",
+      "a_html": "<p>Il n'existe pas de bouton Chrome qui supprime absolument toutes les publicités. Les paramètres intégrés bloquent surtout les pop-ups, redirections et annonces jugées intrusives. Sur ordinateur, un bloqueur de contenu fiable permet de réduire beaucoup plus largement les bannières et éléments publicitaires.</p><p>Gardez toutefois à l'esprit que certains formats peuvent rester visibles, que certains sites détectent les bloqueurs et que les annonces intégrées à certaines applications ou plateformes obéissent à d'autres règles.</p>"
+    },
+    {
+      "q": "Pourquoi Chrome affiche-t-il des pubs alors que je n'ai rien installé ?",
+      "a_html": "<p>Il peut s'agir de publicités normales affichées par les sites visités. Mais des alertes répétées peuvent aussi venir d'une autorisation de notifications accordée par erreur : vérifiez la rubrique <strong>Paramètres des sites</strong>, puis <strong>Notifications</strong>, et retirez les sites suspects.</p><p>Si les pubs ouvrent de nouveaux onglets, changent votre moteur de recherche ou s'affichent sur toutes les pages, vérifiez également les extensions et les logiciels installés récemment.</p>"
+    },
+    {
+      "q": "Comment supprimer les notifications publicitaires de Chrome ?",
+      "a_html": "<p>Dans Chrome, ouvrez <strong>Paramètres</strong>, puis <strong>Confidentialité et sécurité</strong>, <strong>Paramètres des sites</strong> et <strong>Notifications</strong>. Vous pouvez bloquer les nouvelles demandes ou supprimer les sites déjà autorisés.</p><p>Sur téléphone, vérifiez aussi les réglages de notifications de l'application Chrome dans les paramètres du système. Cela est utile si les alertes continuent à apparaître en dehors de votre navigation.</p>"
+    },
+    {
+      "q": "Quel est le meilleur bloqueur de pubs gratuit pour Chrome ?",
+      "a_html": "<p>Le meilleur choix est surtout une extension officielle, connue, maintenue et installée depuis le Chrome Web Store. Comparez l'éditeur, les avis récents, les mises à jour et les autorisations demandées. Des solutions de filtrage comme uBlock Origin Lite, Adblock Plus ou AdGuard sont souvent citées, mais leur compatibilité et leurs fonctions peuvent évoluer.</p><p>N'installez pas plusieurs bloqueurs simultanément. Commencez avec un seul outil, puis utilisez sa liste blanche pour les sites qui posent problème.</p>"
+    },
+    {
+      "q": "Pourquoi les pubs s'ouvrent-elles toutes seules dans Chrome ?",
+      "a_html": "<p>Ce comportement peut provenir d'un site malveillant, d'une autorisation de notifications, d'une extension indésirable ou d'un logiciel publicitaire présent sur l'ordinateur. Bloquez les pop-ups, supprimez les extensions inconnues, contrôlez la page de démarrage et lancez une analyse de sécurité de l'appareil.</p><p>Évitez de cliquer sur les fenêtres qui vous proposent un téléchargement ou un numéro d'assistance : elles cherchent souvent à aggraver le problème.</p>"
+    },
+    {
+      "q": "Peut-on supprimer les pubs YouTube avec Chrome ?",
+      "a_html": "<p>Sur ordinateur, certaines extensions peuvent filtrer une partie des annonces, mais leur fonctionnement varie dans le temps et peut être limité par les changements de la plateforme. Sur mobile, Chrome ne fournit pas la même prise en charge des extensions de navigateur.</p><p>Si vous recherchez une expérience sans publicité durable sur YouTube, l'offre payante officielle de la plateforme est généralement l'option la plus prévisible. Vérifiez son tarif et ses conditions dans votre pays avant de vous abonner.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour supprimer les pubs sur Chrome efficacement, commencez par les réglages de sites : pop-ups, redirections et notifications. Ajoutez ensuite <strong>une seule extension de blocage sérieuse</strong> sur ordinateur si les bannières vous gênent encore. Et si Chrome change de comportement ou affiche des annonces partout, traitez-le comme un signal de nettoyage : extensions, réglages, logiciels récents et sécurité de l'appareil.</p><p>En quelques vérifications ciblées, vous pouvez retrouver un navigateur plus rapide, plus discret et surtout plus sûr.</p>",
+  "__slug": "comment-supprimer-les-pubs-sur-chrome"
+}

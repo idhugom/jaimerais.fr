@@ -1,0 +1,246 @@
+{
+  "title": "Qui est éligible aux aides au logement en France ? Conditions, APL, ALS et ALF",
+  "meta_description": "APL, ALS, ALF : vérifiez votre éligibilité aux aides au logement, les ressources prises en compte et les démarches à suivre en France.",
+  "reading_time_min": 9,
+  "hero_intro": "Vous louez un appartement, vivez en résidence étudiante ou envisagez un déménagement ? Les aides au logement peuvent alléger une partie de votre loyer, mais leur attribution dépend à la fois de votre situation, de vos revenus et des caractéristiques du logement. Voici comment savoir si vous pouvez en bénéficier et déposer une demande sans passer à côté d'une condition importante.",
+  "key_takeaways": [
+    "Les aides au logement concernent surtout les locataires, colocataires et certains sous-locataires ou accédants, lorsque le logement est leur résidence principale.",
+    "L'APL, l'ALF et l'ALS ne se cumulent pas : la CAF ou la MSA détermine automatiquement l'aide applicable à votre dossier.",
+    "Les revenus récents du foyer, la composition familiale, le loyer, la commune et le patrimoine peuvent influencer le montant ou l'ouverture du droit.",
+    "Un logement décent, occupé au moins huit mois par an en principe, ainsi qu'un bail ou justificatif d'occupation sont indispensables.",
+    "Le simulateur de la CAF ou de la MSA donne une estimation utile, mais seule l'étude complète du dossier confirme vos droits."
+  ],
+  "toc": [
+    "Les trois aides au logement : APL, ALF et ALS",
+    "Les conditions communes pour être éligible",
+    "Ressources, loyer et composition du foyer : ce qui change le montant",
+    "Qui peut demander une aide selon sa situation ?",
+    "Les exclusions et erreurs qui entraînent un refus",
+    "Comment faire une demande d'aide au logement",
+    "Questions fréquentes sur l'éligibilité aux aides au logement"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Les trois aides au logement : APL, ALF et ALS",
+      "html": "<p>En France, les aides au logement sont versées principalement par la CAF, ou par la MSA pour les personnes rattachées au régime agricole. Elles ont le même objectif : réduire la charge liée au logement. Vous ne choisissez pas librement entre les dispositifs : selon votre logement et votre situation familiale, l'organisme calcule l'aide à laquelle vous pouvez prétendre.</p><p>Les trois aides ne sont <strong>pas cumulables</strong>. L'aide personnalisée au logement (APL) s'applique notamment aux logements conventionnés. L'allocation de logement familiale (ALF) vise certaines situations familiales. L'allocation de logement sociale (ALS) couvre les personnes qui ne relèvent ni de l'APL ni de l'ALF, ce qui concerne fréquemment les étudiants, les jeunes actifs ou les personnes seules aux revenus modestes.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "APL, ALF, ALS : quelle aide selon votre profil ?",
+      "intro": "Cette répartition donne les grandes lignes. La CAF ou la MSA vérifie toujours la situation réelle au moment de la demande.",
+      "columns": [
+        "Aide",
+        "À qui s'adresse-t-elle en priorité ?",
+        "Point déterminant"
+      ],
+      "rows": [
+        [
+          "APL",
+          "Locataires d'un logement conventionné, résidents de certains foyers, et dans quelques cas particuliers accédants à la propriété.",
+          "Le logement doit ouvrir droit à l'APL, notamment via une convention conclue avec l'État."
+        ],
+        [
+          "ALF",
+          "Personnes ayant certaines charges ou situations familiales : enfant à charge, jeune enfant, personne à charge, notamment.",
+          "Elle est examinée si l'APL ne peut pas être attribuée."
+        ],
+        [
+          "ALS",
+          "Personnes qui ne peuvent bénéficier ni de l'APL ni de l'ALF : étudiants, salariés, demandeurs d'emploi, retraités, etc.",
+          "C'est l'aide la plus fréquemment envisagée pour un logement non conventionné."
+        ],
+        [
+          "Aide en foyer ou résidence",
+          "Résidents d'un foyer, d'une résidence sociale, étudiante, autonomie ou établissement assimilé.",
+          "L'établissement et le mode d'hébergement doivent être compatibles avec les règles de l'aide."
+        ],
+        [
+          "Accession à la propriété",
+          "Certains emprunteurs, dans des conditions devenues limitées.",
+          "Les règles dépendent notamment de la date et de la nature du prêt : vérifiez votre cas directement auprès de l'organisme compétent."
+        ]
+      ],
+      "note": "Le nom de l'aide importe moins que l'éligibilité globale : une seule aide au logement peut être versée pour un même logement et une même période."
+    },
+    {
+      "type": "key_points",
+      "heading": "Les repères à connaître avant de faire la simulation",
+      "points": [
+        "Vous pouvez demander une aide même si vous êtes étudiant, apprenti, en CDD, au chômage ou indépendant : le statut professionnel n'exclut pas à lui seul.",
+        "Une personne seule, un couple, une famille monoparentale ou des colocataires peuvent être éligibles, sous réserve des autres conditions.",
+        "L'aide est liée à votre résidence principale, pas à une résidence secondaire, à un logement de vacances ou à un pied-à-terre.",
+        "Un faible loyer ne garantit pas une aide, et un loyer élevé n'entraîne pas forcément une aide plus importante : des plafonds sont appliqués.",
+        "En cas de changement de situation, vos droits peuvent évoluer rapidement : il faut le déclarer sans attendre."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Les conditions communes pour être éligible",
+      "html": "<p>La première condition est d'occuper le logement comme <strong>résidence principale</strong>. En règle générale, vous devez l'habiter au moins huit mois dans l'année, sauf situation particulière liée par exemple à la santé, aux études ou à une obligation professionnelle. Le logement doit se situer en France et être votre lieu de vie effectif : une simple adresse administrative ne suffit pas.</p><p>Vous devez aussi disposer d'un titre d'occupation valable : bail de location, convention de résidence, contrat de sous-location autorisée ou, selon les cas, justificatif d'hébergement en foyer. Pour les personnes de nationalité étrangère hors Union européenne, la régularité du séjour est contrôlée. Les ressortissants européens doivent également remplir les conditions de séjour applicables à leur situation.</p><p>Enfin, le logement doit répondre aux critères de <strong>décence</strong>. Il doit notamment présenter une surface et un volume habitables suffisants, être sécurisé, disposer des équipements essentiels et ne pas exposer l'occupant à des risques manifestes pour sa santé ou sa sécurité. À titre de repère, une pièce principale destinée à une personne doit généralement offrir au moins 9 m² avec une hauteur sous plafond suffisante, ou un volume habitable minimal de 20 m³.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Être locataire ne suffit pas toujours : les situations à distinguer",
+      "intro": "La qualité d'occupant et le lien avec le propriétaire comptent autant que le montant du loyer.",
+      "left": {
+        "title": "Situations souvent recevables",
+        "points": [
+          "Locataire titulaire d'un bail pour sa résidence principale.",
+          "Colocataire nommé sur le bail, avec sa propre quote-part de loyer déclarée.",
+          "Sous-locataire ayant l'accord du propriétaire, notamment lorsqu'il a moins de 30 ans ou vit dans certaines structures d'accueil.",
+          "Résident d'une résidence étudiante, d'un foyer ou d'une résidence sociale ouvrant droit à l'aide.",
+          "Couple occupant un logement loué, avec une demande établie au nom du foyer."
+        ]
+      },
+      "right": {
+        "title": "Situations à vérifier ou généralement exclues",
+        "points": [
+          "Logement occupé comme résidence secondaire ou seulement quelques week-ends.",
+          "Location consentie par un parent, un grand-parent, un enfant ou un petit-enfant, ou par certains proches du conjoint : l'aide est en principe exclue.",
+          "Sous-location non déclarée ou sans autorisation du bailleur.",
+          "Chambre ou logement ne répondant pas aux critères de décence.",
+          "Personne hébergée gratuitement chez un proche : il n'y a pas de loyer ouvrant droit à une aide au logement classique."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention au bail familial",
+      "html": "<p>Il est courant de penser qu'un bail et des virements mensuels suffisent. Or, vous ne pouvez généralement pas percevoir d'aide au logement si le bailleur est votre parent, grand-parent, enfant ou petit-enfant, ou celui de votre conjoint, partenaire de Pacs ou concubin. Déclarez toujours le lien réel avec le propriétaire : une erreur peut conduire à un trop-perçu à rembourser.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Ressources, loyer et composition du foyer : ce qui change le montant",
+      "html": "<p>Les aides au logement sont attribuées sous condition de ressources. La CAF et la MSA tiennent compte des revenus de l'ensemble du foyer : vous-même, votre conjoint, partenaire de Pacs ou concubin, et selon les cas les personnes à charge. Depuis la réforme des aides au logement « en temps réel », le calcul s'appuie généralement sur les ressources des <strong>douze derniers mois</strong> et il est actualisé périodiquement, souvent tous les trois mois.</p><p>Salaires, allocations de chômage, pensions, revenus d'activité indépendante, revenus fonciers ou autres ressources peuvent entrer dans le calcul selon leur nature. Un patrimoine important peut aussi être pris en compte au-delà de certains seuils. À l'inverse, une baisse récente de revenus, une séparation ou une entrée dans la vie active peut modifier favorablement l'estimation : il est donc essentiel de déclarer chaque changement.</p><p>Le montant n'est pas égal à une proportion fixe de votre loyer. L'organisme applique des barèmes qui prennent notamment en compte la zone géographique, le loyer retenu dans la limite d'un plafond, le nombre de personnes au foyer et une part minimale de dépense restant à votre charge. Deux personnes ayant le même loyer peuvent donc recevoir des montants très différents.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les principaux éléments examinés dans votre dossier",
+      "intro": "Voici ce que la CAF ou la MSA croise pour apprécier votre droit et calculer une aide éventuelle.",
+      "columns": [
+        "Élément",
+        "Impact sur l'éligibilité ou le montant",
+        "Bon réflexe"
+      ],
+      "rows": [
+        [
+          "Revenus récents du foyer",
+          "Des ressources plus élevées réduisent en général l'aide, voire la suppriment.",
+          "Déclarez une reprise d'emploi, une baisse d'activité, une séparation ou un changement de revenus."
+        ],
+        [
+          "Composition familiale",
+          "Enfants ou personnes à charge, vie en couple et garde alternée peuvent modifier le calcul.",
+          "Mettez à jour immédiatement toute naissance, séparation, union ou changement de garde."
+        ],
+        [
+          "Montant du loyer et charges",
+          "Le loyer est retenu dans certaines limites ; la part au-delà d'un plafond n'augmente pas forcément l'aide.",
+          "Indiquez le loyer hors charges demandé sur le bail et les charges récupérables lorsqu'elles sont demandées."
+        ],
+        [
+          "Commune et type de logement",
+          "La zone de résidence et le conventionnement du logement influencent le barème et le type d'aide.",
+          "Demandez au bailleur si le logement est conventionné avant de signer, sans en faire une condition unique."
+        ],
+        [
+          "Patrimoine et situation d'occupation",
+          "Certains biens, capitaux ou une situation de sous-location peuvent être examinés.",
+          "Répondez précisément aux questions du formulaire, même si un élément vous paraît secondaire."
+        ]
+      ],
+      "note": "Les plafonds et barèmes évoluent. Une estimation en ligne est plus fiable qu'un montant trouvé dans un ancien article ou communiqué par un proche."
+    },
+    {
+      "type": "stats",
+      "heading": "Trois chiffres utiles pour se situer",
+      "items": [
+        {
+          "value": "3",
+          "label": "aides principales : APL, ALF et ALS, non cumulables"
+        },
+        {
+          "value": "12 mois",
+          "label": "de ressources récentes généralement observées pour le calcul"
+        },
+        {
+          "value": "8 mois/an",
+          "label": "d'occupation de la résidence principale en principe"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Étudiants, colocataires, jeunes actifs, retraités : qui peut demander ?",
+      "html": "<p>Un étudiant peut percevoir une aide au logement pour une chambre en résidence universitaire, un studio privé ou une colocation, s'il paie un loyer et remplit les conditions du dispositif. Le fait d'être rattaché au foyer fiscal de ses parents n'interdit pas automatiquement la demande. En revanche, l'ouverture d'une aide à son nom peut avoir des conséquences sur certaines prestations familiales versées aux parents : il est prudent d'évaluer l'ensemble de la situation familiale.</p><p>En colocation, chacun dépose en principe sa propre demande en déclarant sa part de loyer et les autres occupants. Ne déclarez pas le loyer total si vous n'en supportez qu'une fraction. Pour un couple, à l'inverse, les ressources et la situation des deux membres sont examinées, y compris lorsque le bail est établi au nom d'une seule personne.</p><p>Les salariés à temps partiel, apprentis, alternants, travailleurs indépendants, demandeurs d'emploi, retraités et personnes en situation de handicap peuvent aussi être éligibles. Il n'existe pas de profil unique de bénéficiaire : le niveau de ressources, le logement et le foyer sont décisifs. Les personnes en difficulté durable peuvent également se renseigner sur le Fonds de solidarité pour le logement (FSL), une aide distincte gérée localement, utile par exemple pour un dépôt de garantie, une dette de loyer ou une facture d'énergie.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Faites la simulation avant et après un déménagement",
+      "html": "<p>Le montant dépend fortement de l'adresse, du loyer, de la colocation éventuelle et de la composition du foyer. Réalisez une estimation sur le site de la CAF ou de la MSA dès que vous connaissez le logement visé, puis déposez votre demande après la signature du bail. Préparez le montant du loyer hors charges, les coordonnées du bailleur, votre RIB et les informations sur vos revenus.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Comment demander une aide au logement sans perdre de temps",
+      "intro": "La demande se fait en ligne auprès de la CAF ou de la MSA. N'attendez pas plusieurs mois après votre emménagement : l'aide n'est en principe pas rétroactive pour les périodes antérieures à la demande.",
+      "steps": [
+        {
+          "title": "Vérifiez les informations du logement",
+          "html": "<p>Demandez au propriétaire ou au gestionnaire le montant exact du loyer hors charges, la date d'entrée dans les lieux, l'adresse complète et, si possible, le caractère conventionné du logement. Assurez-vous que votre nom figure sur le bail ou sur le document d'occupation.</p>"
+        },
+        {
+          "title": "Faites une simulation",
+          "html": "<p>Utilisez le simulateur de l'organisme dont vous dépendez. Il ne crée pas de droit définitif, mais il permet de vérifier rapidement si une demande semble pertinente et de budgéter votre installation avec prudence.</p>"
+        },
+        {
+          "title": "Déposez votre dossier en ligne",
+          "html": "<p>Renseignez votre situation familiale, professionnelle et bancaire avec exactitude. L'organisme peut récupérer certaines données ou demander des pièces complémentaires. Conservez votre bail, vos quittances et les justificatifs transmis.</p>"
+        },
+        {
+          "title": "Suivez le traitement et informez votre bailleur",
+          "html": "<p>Le premier versement intervient après étude du dossier, selon les règles de date applicables. L'aide peut être versée sur votre compte ou, dans certaines situations, directement au bailleur avec déduction sur votre loyer. Dans tous les cas, vous restez responsable du paiement du solde du loyer.</p>"
+        },
+        {
+          "title": "Déclarez chaque changement",
+          "html": "<p>Un déménagement, une mise en couple, une séparation, une naissance, un nouveau colocataire ou une évolution de revenus doit être signalé rapidement. Cela limite le risque de suspension de droit ou de remboursement d'un trop-perçu.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Les raisons fréquentes d'un refus ou d'une baisse d'aide",
+      "html": "<p>Un refus ne signifie pas toujours que vous avez commis une erreur. Vos ressources peuvent simplement dépasser le plafond applicable à votre foyer, ou le montant calculé peut être inférieur au seuil de versement. Un logement non décent, une résidence secondaire, l'absence de bail valable ou une location auprès d'un proche exclu par les règles sont également des motifs fréquents.</p><p>Une aide peut aussi baisser après une reprise d'emploi, l'arrivée d'un revenu supplémentaire dans le foyer ou un déménagement vers une zone où le barème est moins favorable. À l'inverse, une erreur de déclaration, un loyer mal saisi ou une information manquante peut bloquer le dossier. Consultez le motif de décision dans votre espace personnel et demandez des explications ou une révision si vous estimez que votre situation a été mal appréciée.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel revenu ne faut-il pas dépasser pour toucher l'APL ?",
+      "a_html": "<p>Il n'existe pas un plafond de revenus unique valable pour tous. La limite dépend notamment du nombre de personnes dans le foyer, de la commune, du montant du loyer retenu et du type de logement. La CAF ou la MSA examine généralement les ressources récentes des douze derniers mois.</p><p>Le plus fiable est donc de réaliser une simulation avec vos revenus actuels. Une personne ayant un salaire peut parfaitement conserver une aide, mais son montant sera souvent réduit à mesure que les ressources augmentent.</p>"
+    },
+    {
+      "q": "Un étudiant étranger peut-il bénéficier d'une aide au logement ?",
+      "a_html": "<p>Oui, un étudiant étranger peut demander une aide au logement s'il occupe un logement éligible comme résidence principale, paie un loyer et respecte les conditions de séjour applicables. Les personnes hors Union européenne doivent généralement présenter un titre de séjour en cours de validité adapté à leur situation.</p><p>La nationalité ne remplace pas les autres critères : le bail, les ressources, la décence du logement et l'occupation effective restent vérifiés.</p>"
+    },
+    {
+      "q": "Peut-on toucher une aide au logement en vivant en colocation ?",
+      "a_html": "<p>Oui. Chaque colocataire peut faire sa demande à titre individuel, à condition d'être déclaré comme occupant et de payer sa part du loyer. Il faut indiquer sa quote-part réelle, et non l'intégralité du loyer du logement.</p><p>Si vous vivez en couple, ce n'est pas une colocation au sens du calcul : les revenus des deux partenaires sont pris en compte pour une demande commune liée au foyer.</p>"
+    },
+    {
+      "q": "Puis-je percevoir l'APL si je loue un logement à mes parents ?",
+      "a_html": "<p>En principe, non. Les aides au logement ne sont généralement pas versées lorsque le propriétaire est votre parent, grand-parent, enfant ou petit-enfant, ni l'un de ces proches de votre conjoint, partenaire de Pacs ou concubin. Cette règle s'applique même si un bail est signé et que le loyer est réellement payé.</p>"
+    },
+    {
+      "q": "L'aide au logement est-elle versée dès le premier mois de location ?",
+      "a_html": "<p>La demande doit être déposée dès l'entrée dans les lieux, mais le versement n'est généralement pas immédiat. Les règles de prise d'effet et de paiement peuvent créer un décalage entre le début de la location et le premier versement. Prévoyez donc le premier loyer et le dépôt de garantie sans compter sur une aide instantanée.</p><p>La date de dépôt reste importante, car les aides ne sont en principe pas versées rétroactivement pour les mois antérieurs à votre demande.</p>"
+    },
+    {
+      "q": "Que faire si mon logement est insalubre ou trop petit ?",
+      "a_html": "<p>Un logement qui ne respecte pas les critères de décence peut compromettre le droit à l'aide ou déclencher une procédure particulière. Commencez par signaler les désordres par écrit au bailleur, en conservant les preuves. Selon la situation, vous pouvez solliciter les services compétents de votre commune, un travailleur social ou une association d'information sur le logement.</p><p>Ne cessez pas de payer votre loyer de votre propre initiative sans conseil adapté : les démarches liées à l'insalubrité et aux litiges locatifs doivent être encadrées.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Être éligible aux aides au logement dépend d'un ensemble de critères : votre résidence principale, la régularité de votre occupation, les caractéristiques du logement, les ressources de votre foyer et votre situation familiale. L'APL, l'ALF ou l'ALS n'est jamais automatique, mais une demande vaut la peine dès lors que vous payez un loyer dans un logement conforme.</p><p>Avant de signer ou juste après votre emménagement, faites une simulation, réunissez vos informations exactes et déclarez rapidement tout changement. C'est la meilleure façon de connaître vos droits réels et d'éviter les mauvaises surprises dans votre budget logement.</p>",
+  "__slug": "qui-est-eligible-aux-aides-au-logement-en-france"
+}

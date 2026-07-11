@@ -1,0 +1,211 @@
+{
+  "title": "Comment prouver que deux droites sont parallèles : méthodes, exemples et rédaction",
+  "meta_description": "Découvrez comment démontrer que deux droites sont parallèles : angles, coordonnées, vecteurs et rédaction, avec exemples et pièges à éviter.",
+  "reading_time_min": 10,
+  "hero_intro": "J'aimerais reconnaître et démontrer le parallélisme de deux droites sans me perdre dans les figures. En géométrie, on ne se contente pas de constater qu'elles « semblent » ne jamais se croiser : on s'appuie sur une propriété précise. Angles, coordonnées, vecteurs ou théorème des milieux : voici comment choisir la bonne méthode et rédiger une démonstration solide.",
+  "key_takeaways": [
+    "Deux droites parallèles sont deux droites distinctes d'un même plan qui ne se coupent pas, même si on les prolonge.",
+    "Pour démontrer le parallélisme, partez d'une information fiable : égalité d'angles, proportionnalité de vecteurs, même coefficient directeur ou théorème connu.",
+    "Une figure ou l'impression visuelle ne constitue jamais une preuve mathématique.",
+    "En coordonnées, des coefficients directeurs égaux indiquent des droites parallèles, à condition de vérifier qu'il ne s'agit pas de la même droite.",
+    "La meilleure démonstration est courte : on cite la propriété observée, puis le théorème qui permet de conclure."
+  ],
+  "toc": [
+    "Comprendre ce que signifie « droites parallèles »",
+    "Quelle méthode choisir pour prouver le parallélisme ?",
+    "Utiliser les angles formés par une sécante",
+    "Démontrer avec des coordonnées ou des vecteurs",
+    "Exemples de démonstrations rédigées",
+    "Les théorèmes utiles dans un triangle",
+    "Éviter les erreurs classiques",
+    "FAQ : prouver que deux droites sont parallèles"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre ce que signifie « droites parallèles »",
+      "html": "<p>Dans un plan, deux droites sont <strong>parallèles</strong> lorsqu'elles sont distinctes et n'ont aucun point commun, même si on les prolonge indéfiniment. On note souvent ce parallélisme avec le symbole <strong>//</strong> : écrire « (d) // (d') » signifie que les droites (d) et (d') sont parallèles.</p><p>Attention à une nuance importante : sur une feuille, deux segments peuvent sembler parallèles alors que leurs droites supports finiraient par se rencontrer si on les prolongeait. La règle « elles ne se croisent pas sur le dessin » n'est donc pas une démonstration. Une figure sert à comprendre la situation et à repérer une piste, pas à prouver un résultat.</p><p>Deux droites qui se confondent ne sont pas considérées comme deux droites parallèles distinctes dans la définition scolaire habituelle : elles ont au contraire une infinité de points communs. Cette précision est particulièrement utile lorsque vous travaillez avec des équations de droites.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Le réflexe à adopter avant de commencer",
+      "points": [
+        "Repérez les données disponibles : angles codés, longueurs, coordonnées, vecteurs ou milieu d'un segment.",
+        "Cherchez une propriété de parallélisme adaptée aux informations de l'énoncé, plutôt que d'essayer toutes les méthodes.",
+        "N'utilisez une réciproque que si toutes ses conditions sont vérifiées.",
+        "Rédigez toujours la conclusion avec le nom exact des deux droites concernées.",
+        "Si la figure est imprécise ou non à l'échelle, fiez-vous uniquement aux données écrites et aux codages."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quelle méthode choisir pour montrer que deux droites sont parallèles ?",
+      "intro": "Le bon outil dépend de ce que l'exercice vous donne. Ce tableau aide à identifier rapidement une piste de démonstration.",
+      "columns": [
+        "Situation de départ",
+        "Propriété à utiliser",
+        "Ce qu'il faut vérifier",
+        "Conclusion possible"
+      ],
+      "rows": [
+        [
+          "Deux droites coupées par une sécante",
+          "Réciproque des angles alternes-internes",
+          "Deux angles alternes-internes ont la même mesure",
+          "Les deux droites sont parallèles"
+        ],
+        [
+          "Deux droites coupées par une sécante",
+          "Réciproque des angles correspondants",
+          "Deux angles correspondants ont la même mesure",
+          "Les deux droites sont parallèles"
+        ],
+        [
+          "Un angle intérieur de chaque côté de la sécante",
+          "Réciproque des angles intérieurs du même côté",
+          "La somme des deux angles vaut 180°",
+          "Les deux droites sont parallèles"
+        ],
+        [
+          "Deux droites en repère",
+          "Coefficients directeurs",
+          "Les coefficients directeurs sont égaux et les droites sont distinctes",
+          "Les deux droites sont parallèles"
+        ],
+        [
+          "Deux vecteurs directeurs connus",
+          "Colinéarité des vecteurs",
+          "Un vecteur est un multiple non nul de l'autre",
+          "Les directions sont parallèles"
+        ],
+        [
+          "Dans un triangle avec deux milieux",
+          "Théorème des milieux",
+          "Les deux points sont bien les milieux de deux côtés",
+          "Le segment des milieux est parallèle au troisième côté"
+        ]
+      ],
+      "note": "Un même exercice peut parfois se résoudre de plusieurs façons. Privilégiez celle qui utilise directement les informations fournies."
+    },
+    {
+      "type": "prose",
+      "heading": "Utiliser les angles formés par une sécante",
+      "html": "<p>Une <strong>sécante</strong> est une droite qui coupe deux autres droites. Elle crée huit angles : c'est l'une des configurations les plus fréquentes au collège. Les propriétés à connaître sont des réciproques : elles permettent de passer d'une relation entre les angles à la conclusion « les droites sont parallèles ».</p><p>Les <strong>angles alternes-internes</strong> sont situés entre les deux droites et de part et d'autre de la sécante. S'ils sont égaux, alors les deux droites sont parallèles. Les <strong>angles correspondants</strong> occupent la même position autour des deux points d'intersection ; leur égalité permet la même conclusion.</p><p>Enfin, les <strong>angles intérieurs du même côté de la sécante</strong> se trouvent entre les deux droites, du même côté de la sécante. S'ils sont supplémentaires, c'est-à-dire si leur somme vaut 180°, les droites sont parallèles. Dans tous les cas, nommez précisément les angles comparés : cela évite de confondre leur position sur la figure.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Angles alternes-internes ou angles correspondants ?",
+      "intro": "Ces deux méthodes sont proches, mais les angles ne se repèrent pas au même endroit. Les distinguer rend la démonstration beaucoup plus sûre.",
+      "left": {
+        "title": "Angles alternes-internes",
+        "points": [
+          "Ils sont placés à l'intérieur de la bande formée par les deux droites.",
+          "Ils sont de part et d'autre de la sécante.",
+          "Pour conclure au parallélisme, ils doivent être égaux.",
+          "Repère visuel : une forme de « Z » lorsque la figure est bien orientée."
+        ]
+      },
+      "right": {
+        "title": "Angles correspondants",
+        "points": [
+          "Ils sont dans la même position relative aux deux intersections.",
+          "Ils peuvent être l'un intérieur et l'autre extérieur.",
+          "Pour conclure au parallélisme, ils doivent être égaux.",
+          "Repère visuel : une forme de « F » lorsque la figure est bien orientée."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Rédiger une démonstration avec des angles",
+      "intro": "Une démonstration convaincante tient souvent en trois lignes. Voici la structure à reprendre et à adapter avec les lettres de votre figure.",
+      "steps": [
+        {
+          "title": "Identifier la sécante et les deux angles",
+          "html": "<p>Indiquez quelles droites sont coupées par la même sécante. Puis nommez les deux angles dont les mesures sont connues. Ne dites pas seulement « les angles sont égaux » : précisez leur relation géométrique.</p>"
+        },
+        {
+          "title": "Énoncer l'égalité ou la somme des mesures",
+          "html": "<p>Écrivez par exemple : « Les angles ABC et BCD mesurent tous les deux 65°. » Ou : « La somme de ces deux angles intérieurs du même côté de la sécante vaut 180°. »</p>"
+        },
+        {
+          "title": "Citer la propriété et conclure",
+          "html": "<p>Terminez par une phrase explicite : « Ces angles sont alternes-internes et égaux. D'après la réciproque de la propriété des angles alternes-internes, les droites (AB) et (CD) sont parallèles. »</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Démontrer le parallélisme avec des coordonnées ou des vecteurs",
+      "html": "<p>Dans un repère, une droite non verticale peut s'écrire sous la forme <strong>y = mx + p</strong>. Le nombre <strong>m</strong> est son coefficient directeur : il traduit son inclinaison. Deux droites distinctes ayant le même coefficient directeur sont parallèles. Par exemple, y = 2x + 1 et y = 2x - 4 sont parallèles, car leur coefficient directeur est 2 dans les deux cas.</p><p>Si vous connaissez deux points A(xA ; yA) et B(xB ; yB) d'une droite non verticale, son coefficient directeur se calcule par la formule <strong>(yB - yA) / (xB - xA)</strong>. Pour une droite verticale, cette division serait impossible car xB - xA vaut 0. Deux droites verticales, d'équations x = a et x = b avec a différent de b, sont parallèles entre elles.</p><p>Avec les vecteurs, la méthode est encore plus générale. Les droites (AB) et (CD) sont parallèles si les vecteurs AB et CD sont <strong>colinéaires</strong>. Concrètement, leurs coordonnées doivent être proportionnelles : par exemple, (2 ; -3) et (-4 ; 6) sont colinéaires, car le second vecteur est égal à -2 fois le premier. Les droites ont donc des directions parallèles.</p><p>En géométrie analytique, vérifiez aussi que les droites ne sont pas confondues. Deux équations proportionnelles peuvent représenter exactement la même droite ; elles ont alors le même coefficient directeur, mais aussi les mêmes points.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Exemple express en coordonnées",
+      "html": "<p>Soient A(1 ; 2), B(3 ; 6), C(-2 ; 1) et D(0 ; 5). Le coefficient directeur de (AB) vaut (6 - 2) / (3 - 1), soit 2. Celui de (CD) vaut (5 - 1) / (0 - (-2)), soit également 2. Les droites (AB) et (CD) ont le même coefficient directeur. Comme elles n'ont pas la même ordonnée à l'origine, elles sont distinctes : <strong>(AB) // (CD)</strong>.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les théorèmes utiles dans un triangle",
+      "html": "<p>Dans un triangle, le <strong>théorème des milieux</strong> fournit une démonstration très directe. Si M est le milieu de [AB] et N le milieu de [AC], alors la droite (MN) est parallèle à la droite (BC). Il faut avoir établi que M et N sont bien des milieux : AM = MB et AN = NC.</p><p>La réciproque est tout aussi précieuse. Dans le triangle ABC, si M appartient à [AB], N appartient à [AC] et si (MN) est parallèle à (BC), alors les longueurs sont proportionnelles : AM/AB = AN/AC = MN/BC. Selon les données de l'exercice, on peut aussi utiliser la réciproque du théorème de Thalès pour prouver un parallélisme à partir de rapports de longueurs égaux.</p><p>La rigueur compte : pour appliquer Thalès ou sa réciproque, il faut notamment vérifier l'alignement des points sur les côtés du triangle. Des rapports numériquement égaux ne suffisent pas si les points ne sont pas placés dans la bonne configuration.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Une méthode de résolution valable dans presque tous les exercices",
+      "intro": "Lorsque vous bloquez, procédez dans cet ordre plutôt que de chercher la réponse sur le dessin.",
+      "steps": [
+        {
+          "title": "Faire l'inventaire des informations",
+          "html": "<p>Listez les angles égaux ou supplémentaires, les longueurs, les milieux, les coordonnées et les vecteurs fournis. Repérez aussi les points alignés et les droites qui se coupent.</p>"
+        },
+        {
+          "title": "Associer chaque donnée à un théorème",
+          "html": "<p>Des angles suggèrent une réciproque liée aux sécantes. Des coordonnées suggèrent un coefficient directeur ou des vecteurs. Des fractions de longueurs dans un triangle suggèrent Thalès. Deux milieux suggèrent le théorème des milieux.</p>"
+        },
+        {
+          "title": "Vérifier toutes les hypothèses",
+          "html": "<p>Avant de conclure, contrôlez les conditions : même sécante, angles de la bonne famille, points alignés, vecteurs non nuls ou droites distinctes. Cette étape évite la majorité des erreurs.</p>"
+        },
+        {
+          "title": "Rédiger du fait vers la conclusion",
+          "html": "<p>Présentez d'abord l'observation calculée, puis le nom de la propriété utilisée, et enfin le parallélisme. Une preuve ne doit pas dépendre de ce que « montre » le dessin.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les erreurs qui font perdre des points",
+      "html": "<p><strong>Ne confondez pas propriété et réciproque.</strong> Si deux droites sont parallèles, leurs angles alternes-internes sont égaux ; pour démontrer le parallélisme, vous devez utiliser la réciproque de cette affirmation.</p><p><strong>Ne concluez pas à partir d'un seul dessin.</strong> Une figure peut être schématique, mal imprimée ou volontairement trompeuse. De même, l'absence apparente de point d'intersection ne prouve rien.</p><p><strong>Ne comparez pas n'importe quels angles.</strong> Ils doivent être identifiés comme alternes-internes, correspondants, ou intérieurs du même côté de la même sécante. Enfin, en repère, « même pente » doit s'accompagner d'un contrôle des droites confondues.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment savoir si deux droites sont parallèles sur une figure ?",
+      "a_html": "<p>La figure permet de formuler une hypothèse, mais elle ne permet pas à elle seule de conclure. Cherchez une information mesurable ou codée : deux angles égaux, deux angles dont la somme vaut 180°, des coefficients directeurs identiques, des vecteurs colinéaires ou une configuration de triangle connue.</p>"
+    },
+    {
+      "q": "Deux droites qui ne se coupent pas sont-elles forcément parallèles ?",
+      "a_html": "<p>Dans le plan, deux droites distinctes qui n'ont aucun point commun sont parallèles. Mais dans un exercice, vous ne pouvez généralement pas établir l'absence de point commun en regardant simplement le dessin : il faut la démontrer à l'aide d'une propriété ou d'un calcul.</p><p>Dans l'espace, il existe aussi des droites non coplanaires, dites gauches, qui ne se coupent pas sans être parallèles. La définition usuelle au collège et au lycée concerne les droites d'un même plan.</p>"
+    },
+    {
+      "q": "Même coefficient directeur signifie-t-il toujours droites parallèles ?",
+      "a_html": "<p>Deux droites distinctes ayant le même coefficient directeur sont parallèles. Si leurs équations sont en réalité deux écritures de la même droite, elles sont confondues et non parallèles au sens de deux droites distinctes.</p><p>Par exemple, y = 3x + 2 et y = 3x - 1 sont parallèles. En revanche, 2y = 4x + 6 et y = 2x + 3 désignent la même droite.</p>"
+    },
+    {
+      "q": "Comment démontrer que deux droites sont parallèles avec les vecteurs ?",
+      "a_html": "<p>Calculez un vecteur directeur pour chaque droite, par exemple AB pour (AB) et CD pour (CD). Si les coordonnées de l'un sont proportionnelles aux coordonnées de l'autre, les vecteurs sont colinéaires ; les deux droites sont alors parallèles.</p><p>Il suffit de trouver un nombre k tel que CD = k × AB. Par exemple, si AB = (3 ; 2) et CD = (-6 ; -4), alors CD = -2 × AB.</p>"
+    },
+    {
+      "q": "Quelle est la différence entre des angles alternes-internes et correspondants ?",
+      "a_html": "<p>Les angles alternes-internes sont situés entre les deux droites et de part et d'autre de la sécante. Les angles correspondants occupent la même position relative autour des deux intersections. Dans les deux cas, leur égalité permet, par réciproque, de démontrer que les droites sont parallèles.</p>"
+    },
+    {
+      "q": "Peut-on prouver le parallélisme avec le théorème de Thalès ?",
+      "a_html": "<p>Oui, par la réciproque du théorème de Thalès. Dans une configuration triangulaire, si des points sont correctement alignés sur deux côtés et que les rapports de longueurs correspondants sont égaux, vous pouvez conclure que la droite passant par ces points est parallèle au troisième côté.</p><p>Vérifiez toujours les alignements avant d'appliquer cette réciproque : ils font partie des hypothèses indispensables.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Prouver que deux droites sont parallèles revient à relier les données de l'exercice au bon théorème. Avec des angles, cherchez une configuration liée à une sécante ; avec un repère, comparez les coefficients directeurs ; avec des vecteurs, testez la colinéarité ; dans un triangle, pensez aux milieux et à Thalès.</p><p>Le plus important est de ne pas faire confiance au dessin seul. Une preuve courte, précise et bien rédigée — observation, propriété, conclusion — suffit souvent à transformer une figure intimidante en exercice maîtrisé.</p>",
+  "__slug": "parallelisme-mathematique-comment-prouver-que-deux-droites-sont-paralleles-simplement"
+}

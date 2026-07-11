@@ -1,0 +1,226 @@
+{
+  "title": "Comment faire cuire une truite : temps, températures et méthodes faciles",
+  "meta_description": "Découvrez comment cuire une truite à la poêle, au four, en papillote ou au barbecue : temps, températures, préparation et astuces anti-dessèchement.",
+  "reading_time_min": 9,
+  "hero_intro": "Fine, savoureuse et rapide à préparer, la truite mérite mieux qu'une cuisson approximative qui dessèche sa chair. Entière, en filet, à la poêle ou au four : quelques repères simples suffisent pour obtenir un poisson fondant, parfumé et juste cuit. Voici comment choisir, préparer et cuire votre truite sans stress.",
+  "key_takeaways": [
+    "Demandez idéalement une truite vidée et écaillée au poissonnier : vous gagnerez du temps et éviterez les manipulations inutiles.",
+    "Pour des filets à la poêle, commencez côté peau et laissez cuire environ 70 à 80 % du temps de ce côté.",
+    "Au four à 180 °C, comptez souvent 18 à 25 minutes pour une truite entière de taille moyenne, et 8 à 12 minutes pour des filets.",
+    "La chair doit devenir opaque et se détacher facilement, tout en restant nacrée et humide au cœur.",
+    "Le citron, les herbes et une matière grasse ajoutés avec mesure révèlent la truite sans masquer son goût délicat."
+  ],
+  "toc": [
+    "Bien choisir et préparer une truite",
+    "Quelle cuisson choisir selon la forme de votre truite ?",
+    "Les gestes qui évitent une truite sèche",
+    "Cuire des filets de truite à la poêle",
+    "Truite au four ou en papillote : quelle méthode privilégier ?",
+    "Réussir la truite entière au four et au barbecue",
+    "Temps de cuisson de la truite : le tableau repère",
+    "Accompagnements, sauces et conservation"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Bien choisir et préparer une truite",
+      "html": "<p>Une bonne cuisson commence au moment de l'achat. Une truite entière fraîche a une odeur discrète, légèrement iodée, jamais forte ou ammoniacale. Ses yeux sont brillants et bombés, sa peau est humide et luisante, tandis que ses branchies restent rouges ou rosées. Pour un repas simple de deux personnes, une truite entière de 250 à 350 g par personne est généralement une portion confortable.</p><p>Le plus pratique est de demander une truite <strong>vidée et écaillée</strong>. Les truites d'élevage vendues en poissonnerie ou en grande surface le sont souvent déjà, mais vérifiez l'étiquette ou demandez confirmation. Une truite entière se trouve fréquemment autour de 12 à 20 € le kilo selon l'origine et le circuit de vente ; les filets, plus faciles à cuisiner, coûtent souvent davantage, parfois entre 20 et 35 € le kilo.</p><p>À la maison, ne rincez pas le poisson sous l'eau : cela peut projeter des bactéries sur le plan de travail. Retirez plutôt les éventuels résidus avec du papier absorbant, puis séchez soigneusement la peau et la cavité. Cette étape est particulièrement importante pour une cuisson à la poêle, car une peau sèche dore mieux et accroche moins.</p><p>Pour un filet, passez doucement le doigt sur la chair afin de repérer les petites arêtes centrales. Retirez-les avec une pince à désarêter propre, en tirant dans le sens où elles sont implantées. Salez et poivrez juste avant la cuisson. Si votre truite est surgelée, faites-la décongeler lentement au réfrigérateur, dans un plat couvert, plutôt qu'à température ambiante.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quelle cuisson choisir selon la forme de votre truite ?",
+      "intro": "Chaque méthode donne un résultat différent : choisissez-la selon votre temps disponible, le matériel et la texture recherchée.",
+      "columns": [
+        "Méthode",
+        "Idéale pour",
+        "Résultat",
+        "Point d'attention"
+      ],
+      "rows": [
+        [
+          "Poêle",
+          "Filets, petites truites ouvertes",
+          "Peau croustillante, chair moelleuse",
+          "Ne pas retourner trop tôt"
+        ],
+        [
+          "Four",
+          "Truites entières ou filets",
+          "Cuisson régulière et facile à gérer",
+          "Surveiller les dernières minutes"
+        ],
+        [
+          "Papillote",
+          "Filets ou petites truites",
+          "Chair très tendre et parfumée",
+          "Pas de peau croustillante"
+        ],
+        [
+          "Barbecue",
+          "Truites entières",
+          "Goût fumé et peau grillée",
+          "Utiliser une grille ou un panier à poisson"
+        ],
+        [
+          "Court-bouillon",
+          "Truite entière ou pavés",
+          "Texture douce, sans matière grasse ajoutée",
+          "Cuisson plus délicate à contrôler"
+        ]
+      ],
+      "note": "Les temps varient selon l'épaisseur du poisson, la puissance réelle de l'appareil et la température de départ de la truite."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le bon repère de cuisson",
+      "html": "<p>La truite est cuite lorsque sa chair devient <strong>opaque</strong> et se détache en grosses lamelles sous une légère pression de fourchette. Elle doit rester brillante et juteuse au centre, pas sèche ni friable. Avec un thermomètre alimentaire, visez environ <strong>63 °C à cœur</strong> dans la partie la plus épaisse.</p><p>Retirez le poisson du feu dès qu'il atteint ce stade : il continue légèrement à cuire pendant une à deux minutes hors de la source de chaleur.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Cuire des filets de truite à la poêle",
+      "intro": "C'est la méthode la plus rapide pour un dîner de semaine. Elle convient particulièrement aux filets avec peau, dont la peau protège naturellement la chair.",
+      "steps": [
+        {
+          "title": "Séchez, assaisonnez et préparez la poêle",
+          "html": "<p>Épongez les filets avec soin. Salez côté chair, poivrez selon votre goût, puis chauffez une poêle assez large sur feu moyen à moyen-vif avec un filet d'huile neutre ou d'huile d'olive. Ajoutez une petite noix de beurre seulement lorsque l'huile est chaude : il parfumera le poisson sans brûler trop vite.</p>"
+        },
+        {
+          "title": "Déposez le filet côté peau",
+          "html": "<p>Posez le filet dans la poêle, peau contre le fond, en l'éloignant de vous pour éviter les projections. Appuyez très légèrement quelques secondes avec une spatule si le filet se recroqueville. Laissez-le ensuite tranquille : la peau doit saisir sans être déplacée sans cesse.</p>"
+        },
+        {
+          "title": "Cuisez principalement côté peau",
+          "html": "<p>Pour un filet de 1,5 à 2 cm d'épaisseur, comptez souvent 3 à 5 minutes côté peau. La cuisson remonte progressivement dans la chair : lorsque la zone opaque atteint presque le dessus du filet, retournez-le délicatement.</p>"
+        },
+        {
+          "title": "Terminez très brièvement et servez",
+          "html": "<p>Cuisez l'autre face 30 secondes à 1 minute, selon l'épaisseur. Vous pouvez ajouter une noisette de beurre, des amandes effilées ou quelques brins de thym en fin de cuisson. Un trait de citron au moment de servir suffit : versé trop tôt en grande quantité, il peut masquer la finesse du poisson.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Truite au four ou en papillote : quelle méthode privilégier ?",
+      "intro": "Ces deux options sont très accessibles, mais elles ne répondent pas tout à fait au même envie de repas.",
+      "left": {
+        "title": "La cuisson au four, pour une peau dorée",
+        "points": [
+          "Convient parfaitement à une truite entière garnie d'herbes et de rondelles de citron.",
+          "Permet une peau légèrement grillée et des légumes rôtis dans le même plat.",
+          "Demande peu de surveillance une fois le plat enfourné.",
+          "Choisissez un plat assez grand et huilez légèrement la peau pour éviter qu'elle n'attache."
+        ]
+      },
+      "right": {
+        "title": "La papillote, pour une chair ultra-moelleuse",
+        "points": [
+          "Idéale pour les filets, les portions individuelles et les cuisiniers débutants.",
+          "La vapeur créée dans la papillote protège la chair du dessèchement.",
+          "Permet d'ajouter fenouil émincé, courgette, herbes, gingembre ou un peu de vin blanc.",
+          "Donne une peau souple : ce n'est pas la bonne méthode si vous recherchez du croustillant."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Réussir la truite entière au four et au barbecue",
+      "html": "<p>Pour une <strong>truite entière au four</strong>, préchauffez à 180 °C. Glissez dans la cavité quelques brins d'aneth, de persil ou de thym, une ou deux fines rondelles de citron et éventuellement une petite gousse d'ail écrasée. Badigeonnez l'extérieur d'un peu d'huile, salez, poivrez, puis déposez le poisson dans un plat. Une truite de 300 à 400 g demande en général 18 à 22 minutes ; une pièce plus grosse de 500 à 600 g nécessite plutôt 22 à 30 minutes.</p><p>Ne surchargez pas la cavité avec une farce compacte : l'air chaud doit pouvoir circuler et la truite doit cuire régulièrement. Si vous cuisinez des pommes de terre ou des légumes dans le même plat, commencez leur cuisson avant d'ajouter le poisson, car ils ont besoin de davantage de temps. Des quartiers de fenouil, des tomates cerises ou de fines rondelles de courgette sont particulièrement adaptés.</p><p>En <strong>papillote</strong>, placez un filet ou une petite truite sur une feuille de papier cuisson. Ajoutez quelques légumes émincés très finement, des herbes, une cuillère de crème légère ou d'huile d'olive et un filet de citron. Fermez sans trop serrer pour créer une poche d'air, puis enfournez à 180 °C pendant environ 12 à 15 minutes pour un filet, 18 à 22 minutes pour une petite truite entière.</p><p>Au <strong>barbecue</strong>, privilégiez une truite entière, peau intacte, légèrement huilée. Utilisez une grille bien propre ou, mieux, un panier à poisson. Cuisez à chaleur moyenne, en évitant les flammes directes trop vives, environ 6 à 9 minutes par face selon la taille. La peau peut noircir un peu : elle protège la chair et s'enlève facilement après cuisson si vous ne souhaitez pas la manger.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Temps de cuisson de la truite : le tableau repère",
+      "intro": "Ces durées sont données pour un poisson sortant du réfrigérateur depuis quelques minutes. Fiez-vous toujours aussi à l'épaisseur et à l'aspect de la chair.",
+      "columns": [
+        "Préparation",
+        "Mode et température",
+        "Temps indicatif",
+        "Conseil de finition"
+      ],
+      "rows": [
+        [
+          "Filet de 120 à 180 g avec peau",
+          "Poêle, feu moyen à moyen-vif",
+          "4 à 7 minutes au total",
+          "3 à 5 min côté peau, puis 30 sec à 1 min côté chair"
+        ],
+        [
+          "Filet de 120 à 180 g",
+          "Four à 180 °C",
+          "8 à 12 minutes",
+          "Ajoutez un filet d'huile ou cuisez en papillote"
+        ],
+        [
+          "Filet en papillote",
+          "Four à 180 °C",
+          "12 à 15 minutes",
+          "Ouvrez avec précaution : la vapeur est brûlante"
+        ],
+        [
+          "Truite entière de 250 à 350 g",
+          "Four à 180 °C",
+          "18 à 22 minutes",
+          "Laissez reposer 2 minutes avant de lever les filets"
+        ],
+        [
+          "Truite entière de 500 à 600 g",
+          "Four à 180 °C",
+          "22 à 30 minutes",
+          "Vérifiez près de l'arête, la zone la plus lente à cuire"
+        ],
+        [
+          "Petite truite entière",
+          "Barbecue à chaleur moyenne",
+          "12 à 18 minutes",
+          "Retournez une seule fois avec une spatule large ou un panier"
+        ]
+      ],
+      "note": "Si la truite est très épaisse ou encore très froide, ajoutez quelques minutes. À l'inverse, commencez à vérifier plus tôt pour éviter une chair sèche."
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs qui dessèchent le plus souvent la truite",
+      "points": [
+        "Cuire trop fort à la poêle : le beurre brûle et la chair se contracte avant d'être cuite à cœur.",
+        "Retourner le filet plusieurs fois : la peau risque de se déchirer et la cuisson devient moins régulière.",
+        "Laisser la truite longtemps dans un four très chaud sans protection : elle perd vite son moelleux.",
+        "Noyer le poisson sous une marinade très acide : quelques gouttes de citron suffisent, surtout avant cuisson.",
+        "Oublier de sécher la peau : elle vapeurise au lieu de dorer.",
+        "Se fier uniquement au minuteur : l'épaisseur du poisson reste le critère le plus important."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Accompagnements, sauces et conservation",
+      "html": "<p>La truite apprécie les accompagnements frais et peu envahissants. Servez-la avec des pommes de terre vapeur ou rôties, du riz complet, une purée de céleri, des haricots verts, des épinards tombés ou un fenouil rôti. Pour une assiette plus légère, une salade de jeunes pousses avec des quartiers de pomme verte et quelques noix fonctionne très bien.</p><p>Côté sauce, restez dans la simplicité : un beurre citronné aux câpres, un yaourt grec à l'aneth, une sauce au fromage blanc et aux herbes ou une vinaigrette douce à la moutarde accompagnent la chair sans l'écraser. Les amandes effilées grillées, les noisettes concassées et les herbes fraîches apportent aussi du contraste sans nécessiter de sauce.</p><p>Une truite entière cuite est facile à servir. Incisez délicatement la peau le long du dos, soulevez le premier filet, retirez l'arête centrale d'un geste régulier, puis récupérez le second filet. Les petites arêtes restent généralement sur l'arête principale, mais vérifiez tout de même avant de servir, notamment aux enfants.</p><p>Conservez les restes au réfrigérateur dans une boîte hermétique, idéalement dans les deux heures suivant le repas, et consommez-les sous un à deux jours. La truite froide est excellente émiettée dans une salade de pommes de terre, des pâtes, une omelette ou des rillettes express avec du fromage frais et de la ciboulette.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il enlever la peau de la truite avant de la cuire ?",
+      "a_html": "<p>Non, surtout pour les filets à la poêle. La peau aide la chair fragile à tenir pendant la cuisson et devient agréablement croustillante si elle a été bien séchée. Si vous ne souhaitez pas la manger, retirez-la facilement après cuisson en glissant une spatule entre la peau et la chair.</p><p>Pour une truite entière, la peau peut également être laissée pendant la cuisson. Assurez-vous simplement que le poisson a été écaillé si vous prévoyez de la consommer.</p>"
+    },
+    {
+      "q": "Faut-il écailler une truite avant cuisson ?",
+      "a_html": "<p>Si vous comptez manger la peau, oui : les écailles sont désagréables en bouche. Demandez à votre poissonnier de le faire, c'est la solution la plus rapide et la moins salissante.</p><p>Pour une truite entière cuite au four ou au barbecue dont vous retirerez la peau au service, les écailles peuvent aussi former une protection. Dans le doute, faites tout de même écailler le poisson à l'achat.</p>"
+    },
+    {
+      "q": "Combien de temps cuire une truite entière de 300 g au four ?",
+      "a_html": "<p>À 180 °C, comptez généralement entre 18 et 22 minutes pour une truite entière de 300 g, déjà vidée. Commencez à vérifier vers 18 minutes : la chair près de l'arête doit être opaque et se détacher sans résistance excessive.</p><p>La durée peut varier selon le plat, la puissance du four et la température du poisson au départ. Un thermomètre indiquant environ 63 °C au cœur donne un repère fiable.</p>"
+    },
+    {
+      "q": "Comment savoir si une truite est trop cuite ?",
+      "a_html": "<p>Une truite trop cuite devient mate, sèche et s'effrite en très petits morceaux. Sa chair se détache certes facilement, mais elle manque de brillance et de souplesse. À la poêle, une peau très sombre associée à une chair blanche et sèche est aussi un signe d'excès de cuisson.</p><p>Pour l'éviter, retirez le poisson du feu dès que le centre devient à peine opaque : la chaleur résiduelle terminera la cuisson.</p>"
+    },
+    {
+      "q": "Peut-on cuire une truite encore surgelée ?",
+      "a_html": "<p>C'est possible pour certains produits si l'emballage le prévoit, mais une décongélation lente au réfrigérateur donne habituellement une texture plus régulière et permet de mieux assaisonner le poisson. Prévoyez plusieurs heures, voire une nuit, selon l'épaisseur.</p><p>Si vous cuisez une truite surgelée au four, ajoutez souvent environ un tiers à la moitié du temps de cuisson habituel et vérifiez impérativement la cuisson à cœur. Évitez la poêle pour un filet encore gelé : il rendrait beaucoup d'eau et dorerait mal.</p>"
+    },
+    {
+      "q": "Quelle truite choisir pour une cuisson à la poêle ?",
+      "a_html": "<p>Les filets de truite arc-en-ciel avec peau sont les plus simples à réussir à la poêle. Leur format régulier permet une cuisson rapide, et la peau devient croustillante. La truite saumonée convient tout aussi bien : sa couleur plus rosée vient généralement de son alimentation, pas d'une espèce différente.</p><p>Choisissez des filets d'épaisseur similaire si vous en cuisez plusieurs. Cela facilite un service homogène et limite le risque d'avoir un filet sec et un autre encore insuffisamment cuit.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour bien cuire une truite, retenez surtout ceci : une préparation simple, une chaleur maîtrisée et une surveillance attentive des dernières minutes font toute la différence. La poêle est idéale pour des filets croustillants, le four rassure pour une truite entière et la papillote garantit un résultat très moelleux.</p><p>Commencez avec la méthode qui vous semble la plus accessible, des herbes fraîches et un bon accompagnement de saison. Une fois les bons repères de cuisson acquis, la truite devient l'un des poissons les plus faciles et les plus gratifiants à cuisiner.</p>",
+  "__slug": "comment-faire-cuire-une-truite"
+}

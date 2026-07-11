@@ -1,0 +1,176 @@
+{
+  "title": "SASU et cotisations sociales : y a-t-il un prélèvement sans salaire ?",
+  "meta_description": "Président de SASU sans salaire : cotisations, dividendes, coûts et démarches. Découvrez ce qui est prélevé et choisissez votre rémunération.",
+  "reading_time_min": 10,
+  "hero_intro": "Vous créez une SASU ou vous envisagez de ne pas vous verser de salaire au démarrage ? La règle est simple : le président ne génère pas de cotisations sociales au titre de son mandat tant qu'il ne perçoit aucune rémunération. Mais ce choix a des conséquences sur sa protection sociale, et il ne dispense pas la société de toutes ses autres dépenses et obligations.",
+  "key_takeaways": [
+    "Sans rémunération ni avantage en nature, le président de SASU ne paie pas de cotisations sociales uniquement parce qu'il exerce son mandat.",
+    "Lorsqu'il est rémunéré, le président est assimilé salarié : la SASU retient les cotisations salariales et verse aussi des cotisations patronales.",
+    "Les dividendes ne supportent pas les cotisations sociales de paie en SASU, mais ils restent soumis à l'impôt et aux prélèvements sociaux.",
+    "Ne pas se rémunérer réduit les charges au lancement, mais n'ouvre pas ou peu de droits à la retraite, aux indemnités journalières et à la prévoyance via la SASU.",
+    "Le bon équilibre entre salaire et dividendes dépend du bénéfice, de vos besoins personnels, de votre couverture sociale et de la trésorerie disponible."
+  ],
+  "toc": [
+    "La règle : pas de salaire, pas de cotisations sur le mandat",
+    "Quels prélèvements selon les sommes versées ?",
+    "Salaire ou dividendes : deux logiques très différentes",
+    "Protection sociale du président de SASU",
+    "Mettre en place sa rémunération sans erreur",
+    "Quel coût prévoir pour un salaire en SASU ?",
+    "Les atouts et limites de la SASU",
+    "Créer une SASU : les formalités essentielles"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "La règle : pas de salaire, pas de cotisations sur le mandat",
+      "html": "<p>En SASU, le dirigeant est le <strong>président</strong>. Lorsqu'il est rémunéré au titre de ses fonctions, il relève du régime général de la Sécurité sociale en tant qu'<strong>assimilé salarié</strong>. Sa situation sociale est donc proche de celle d'un salarié, même s'il ne possède pas automatiquement un contrat de travail.</p><p>La conséquence pratique est importante : <strong>en l'absence totale de rémunération, aucune cotisation sociale n'est due sur le mandat de président</strong>. Il n'existe pas de forfait minimal de cotisations comparable à celui que peuvent connaître certains dirigeants relevant du régime des travailleurs indépendants. Une SASU qui ne verse ni salaire ni avantage en nature à son président n'a donc pas de charges sociales de paie à régler pour lui.</p><p>Attention au vocabulaire : cela ne signifie pas que la société n'a plus aucun prélèvement ni aucune dépense. Elle peut notamment devoir payer ses fournisseurs, son assurance, sa banque, son expert-comptable, des impôts ou, selon sa situation, la cotisation foncière des entreprises. Le principe concerne uniquement les <strong>cotisations sociales liées à la rémunération du président</strong>.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel à vérifier avant de choisir le zéro salaire",
+      "points": [
+        "Le président peut être rémunéré ponctuellement, mensuellement ou ne pas l'être : les statuts et les décisions de l'associé encadrent ce choix.",
+        "Un remboursement de frais professionnels réels et justifiés n'est pas un salaire ; il ne doit pas devenir une indemnité déguisée.",
+        "Un avantage en nature, comme un véhicule utilisé à titre personnel ou un logement, peut en revanche être intégré à la rémunération et déclencher des cotisations.",
+        "L'absence de salaire réduit le coût immédiat, mais elle ne procure pas les droits sociaux normalement attachés à une rémunération.",
+        "La situation est différente si le président perçoit par ailleurs un salaire dans une autre entreprise, des allocations ou des revenus professionnels sous un autre statut."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Ce qui est prélevé en SASU selon la somme versée",
+      "intro": "Voici les principaux cas de figure pour un président associé unique, résident fiscal français et personne physique. Les règles exactes peuvent varier selon la situation de la société et du dirigeant.",
+      "columns": [
+        "Situation",
+        "Cotisations sociales de paie",
+        "À retenir"
+      ],
+      "rows": [
+        [
+          "Aucune rémunération du président",
+          "Non",
+          "Aucune cotisation n'est due du seul fait d'occuper la présidence. La protection sociale via la SASU est alors très limitée ou inexistante."
+        ],
+        [
+          "Rémunération de mandat",
+          "Oui",
+          "La SASU calcule les cotisations salariales et patronales, puis effectue les déclarations sociales nécessaires."
+        ],
+        [
+          "Avantage en nature",
+          "Oui, en principe",
+          "La valeur de l'avantage est généralement intégrée dans l'assiette des cotisations."
+        ],
+        [
+          "Remboursement de frais réels justifiés",
+          "Non, en principe",
+          "Conservez factures, notes de frais et preuve du lien avec l'activité professionnelle."
+        ],
+        [
+          "Dividendes distribués à l'associé personne physique",
+          "Pas de cotisations de paie",
+          "Ils supportent généralement le prélèvement forfaitaire unique, incluant 17,2 % de prélèvements sociaux, sauf option fiscale adaptée."
+        ],
+        [
+          "Salaire versé à un salarié de la SASU",
+          "Oui",
+          "Les cotisations s'appliquent normalement sur la paie du salarié, indépendamment de la rémunération ou non du président."
+        ]
+      ],
+      "note": "Les dividendes et le salaire n'obéissent pas au même régime : l'absence de cotisations de paie sur un dividende ne veut pas dire absence de prélèvements."
+    },
+    {
+      "type": "comparison",
+      "heading": "Salaire ou dividendes : deux sources de revenus à ne pas confondre",
+      "intro": "Ces deux options peuvent se compléter, mais elles ne répondent ni au même calendrier ni au même besoin.",
+      "left": {
+        "title": "Se verser une rémunération",
+        "points": [
+          "Possible même si la SASU ne réalise pas encore de bénéfice, à condition d'avoir la trésorerie nécessaire.",
+          "Réduit en principe le résultat imposable de la société lorsqu'elle est soumise à l'impôt sur les sociétés.",
+          "Déclenche des cotisations et ouvre des droits sociaux selon les conditions applicables.",
+          "Peut être régulière, ce qui sécurise le budget personnel et facilite certains projets de crédit.",
+          "Ne donne pas, par le seul mandat de président, droit à l'assurance chômage."
+        ]
+      },
+      "right": {
+        "title": "Percevoir des dividendes",
+        "points": [
+          "Suppose un bénéfice distribuable, l'approbation des comptes et une décision de distribution.",
+          "Ne constitue pas un salaire et ne finance pas directement les droits sociaux du président.",
+          "N'est pas déductible du bénéfice imposable de la société.",
+          "Est généralement imposé au prélèvement forfaitaire unique de 30 %, sous réserve d'options ou de situations particulières.",
+          "Ne peut pas servir de revenu mensuel anticipé : il dépend des résultats et du cadre juridique de la distribution."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Pourquoi l'absence de salaire n'est pas toujours le meilleur choix",
+      "html": "<p>Ne pas se verser de rémunération est souvent pertinent au démarrage : cela préserve la trésorerie lorsque l'activité doit encore financer du stock, un site internet, de la publicité, un outil de production ou une prospection commerciale. C'est aussi une solution fréquente lorsque le fondateur conserve temporairement un emploi salarié ou dispose d'une autre source de revenus.</p><p>En contrepartie, une rémunération nulle ne permet pas de construire des droits à la retraite grâce à la SASU et ne génère pas d'indemnités journalières liées à cette activité. La couverture maladie de base peut être assurée par une autre situation personnelle, mais cela ne remplace pas les droits attachés à une paie. Il est donc utile de regarder aussi la mutuelle, la prévoyance et votre protection en cas d'arrêt de travail.</p><p>Le président de SASU est assimilé salarié, <strong>mais il n'est pas couvert par l'assurance chômage du seul fait de son mandat social</strong>. Un contrat de travail distinct est parfois envisageable, mais seulement si des fonctions techniques réelles, un lien de subordination et toutes les conditions légales sont réunis. Dans une SASU détenue et dirigée par la même personne, cette configuration est rarement évidente.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "À retenir : zéro cotisation ne veut pas dire zéro protection",
+      "html": "<p>Le statut de président assimilé salarié devient réellement protecteur lorsqu'une rémunération est versée. Si vous choisissez de ne pas vous payer, prévoyez votre budget personnel et vérifiez votre couverture santé, prévoyance et retraite par d'autres moyens si nécessaire.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Mettre en place la rémunération du président : les étapes utiles",
+      "intro": "Une rémunération bien cadrée évite les confusions entre compte personnel et compte de la société, ainsi que les régularisations coûteuses.",
+      "steps": [
+        {
+          "title": "Évaluer le besoin réel de revenu",
+          "html": "<p>Déterminez le montant dont vous avez besoin pour vivre, puis vérifiez que la SASU peut le supporter sans fragiliser sa trésorerie. Raisonnez toujours en coût total pour l'entreprise, et pas uniquement en net reçu sur votre compte.</p>"
+        },
+        {
+          "title": "Vérifier les statuts de la SASU",
+          "html": "<p>Les statuts peuvent prévoir les modalités de fixation de la rémunération du président. À défaut, l'associé unique prend une décision formalisée selon les règles applicables à la société.</p>"
+        },
+        {
+          "title": "Consigner la décision de l'associé unique",
+          "html": "<p>Lorsque vous êtes à la fois associé unique et président, formalisez tout de même la décision fixant le montant, la périodicité et, si besoin, les avantages en nature. Cette traçabilité est précieuse en comptabilité et en cas de contrôle.</p>"
+        },
+        {
+          "title": "Organiser la paie et les déclarations",
+          "html": "<p>La rémunération doit être traitée avec les cotisations correspondantes et les déclarations sociales requises, notamment via la déclaration sociale nominative lorsque celle-ci s'applique. Un expert-comptable ou un prestataire de paie sécurise volontiers cette étape.</p>"
+        },
+        {
+          "title": "Réviser le choix au fil de l'activité",
+          "html": "<p>Vous pouvez ajuster ou suspendre la rémunération si la trésorerie évolue, sous réserve de respecter le formalisme prévu. Faites aussi le point après la clôture des comptes pour envisager, ou non, une distribution de dividendes.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Quel coût prévoir pour un salaire en SASU ?",
+      "html": "<p>Le président rémunéré supporte des cotisations salariales prélevées sur son brut, tandis que la SASU paie des cotisations patronales en complément. À titre d'ordre de grandeur, un salaire brut de 2 000 € peut aboutir à un net avant prélèvement à la source souvent situé autour de 1 500 à 1 600 €, tandis que le coût global pour la société peut se situer approximativement entre 2 500 et 2 900 €. Ces montants ne sont pas universels.</p><p>Le niveau des cotisations varie notamment selon la rémunération, les taux de mutuelle ou de prévoyance, les exonérations éventuellement accessibles, la localisation et les paramètres de paie. La rémunération du président n'ouvre généralement pas droit à l'assurance chômage, ce qui distingue aussi son bulletin de certaines paies de salariés. Une simulation actualisée est indispensable avant de fixer un montant.</p><p>Pour raisonner correctement, partez du <strong>coût entreprise</strong>, puis estimez le net avant impôt sur le revenu et, enfin, le net réellement disponible après prélèvement à la source. Cette méthode évite de promettre à votre budget personnel un montant que la trésorerie de la SASU ne peut pas financer durablement.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne versez pas de faux dividendes chaque mois",
+      "html": "<p>Les dividendes ne peuvent être distribués que dans le respect des règles comptables et juridiques, après constatation d'un bénéfice distribuable et décision de l'associé. Les utiliser comme un « salaire mensuel » sans bénéfice ni formalisme expose à des difficultés. Un prélèvement personnel non justifié sur le compte de la SASU n'est jamais une bonne solution.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les avantages et limites de la SASU pour un entrepreneur seul",
+      "html": "<p>La SASU séduit par sa <strong>souplesse de fonctionnement</strong>. Les statuts permettent d'organiser largement les pouvoirs du président et les règles de décision. Elle est aussi facile à faire évoluer : l'entrée de nouveaux associés transforme simplement la SASU en SAS, sans changer nécessairement de forme juridique. Cette caractéristique plaît aux projets qui envisagent une levée de fonds ou l'arrivée de partenaires.</p><p>Sur le plan social, l'absence de cotisations minimales sans rémunération est un avantage concret lors de la phase de lancement. À l'inverse, dès que le président souhaite se payer régulièrement, le coût de la protection assimilée salariée peut être plus élevé que sous certains statuts de travailleur indépendant. Il n'existe donc pas de forme juridique idéale dans l'absolu : le niveau de bénéfice, la stratégie de rémunération et le besoin de couverture sociale sont déterminants.</p><p>La SASU est en principe soumise à l'impôt sur les sociétés, ce qui sépare la fiscalité de l'entreprise de celle de son associé. Sous conditions, une option temporaire pour l'impôt sur le revenu peut être possible. Ce choix fiscal, comme l'arbitrage entre rémunération et dividendes, mérite d'être examiné avant la création ou avec un professionnel, car il modifie directement le revenu disponible.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Créer une SASU : les formalités essentielles avant de se rémunérer",
+      "html": "<p>La création commence par la rédaction de statuts adaptés à votre projet : objet social, siège, capital, pouvoir du président et règles de décision doivent être cohérents. Le capital social est librement fixé, mais choisir un montant crédible au regard de l'activité est souvent plus utile que de se limiter au minimum légal symbolique.</p><p>Il faut ensuite déposer les apports en numéraire, publier un avis de constitution dans un support d'annonces légales et déposer le dossier d'immatriculation via le guichet unique des formalités. Une fois la société immatriculée, elle dispose de son identité légale et peut ouvrir pleinement son fonctionnement bancaire, commercial et comptable.</p><p>Dès le début, séparez strictement les dépenses de la société et vos dépenses privées. Ouvrez un compte dédié, conservez les justificatifs de frais, tenez une comptabilité suivie et formalisez vos décisions importantes. Ces bonnes habitudes rendent beaucoup plus simple la gestion d'une première rémunération, d'une déclaration de paie ou d'une future distribution de dividendes.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Le président de SASU paie-t-il des cotisations s'il ne fait aucun chiffre d'affaires ?",
+      "a_html": "<p>Si la SASU ne verse aucune rémunération et aucun avantage en nature au président, il n'y a en principe pas de cotisations sociales dues au titre de son mandat, même si la société ne réalise pas de chiffre d'affaires. En revanche, la société peut avoir d'autres charges : frais bancaires, comptabilité, assurances, taxes ou cotisation foncière des entreprises selon sa situation.</p>"
+    }
+  ],
+  "conclusion_html": "<p>En SASU, la réponse est donc claire : <strong>pas de rémunération du président, pas de cotisations sociales de paie sur son mandat</strong>. C'est un vrai levier pour préserver la trésorerie au lancement, à condition de ne pas oublier le revers de la médaille : une protection sociale faible ou absente par l'intermédiaire de la société.</p><p>Avant de choisir entre absence de salaire, rémunération régulière et dividendes, établissez une projection simple de votre trésorerie, de vos besoins de revenu et de vos droits sociaux. Une décision formalisée et une simulation de coût vous permettront d'avancer sereinement, sans confondre argent de l'entreprise et revenu personnel.</p>",
+  "__slug": "avantages-sasu-y-a-t-il-un-prelevement-sur-les-cotisations"
+}

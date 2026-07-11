@@ -1,0 +1,242 @@
+{
+  "title": "État des lieux d'entrée et de sortie : comment le réaliser sans rien oublier ?",
+  "meta_description": "État des lieux d'entrée et de sortie : méthode, mentions obligatoires, coûts, erreurs à éviter et recours pour louer sereinement en France.",
+  "reading_time_min": 11,
+  "hero_intro": "J'aimerais louer mon logement ou emménager l'esprit tranquille : tout commence par un état des lieux précis. Ce document, établi à l'entrée puis à la sortie du locataire, évite bien des désaccords sur les dégradations, l'usure normale et la restitution du dépôt de garantie. Voici une méthode claire, une grille de contrôle et les règles à connaître pour le réaliser correctement.",
+  "key_takeaways": [
+    "L'état des lieux d'entrée sert de référence à celui de sortie : il doit être détaillé, daté, contradictoire et remis à chaque partie.",
+    "Ne vous contentez jamais de mentions comme « bon état » : décrivez les défauts, leur localisation, leur taille et leur fonctionnement.",
+    "Le locataire dispose en principe de 10 jours après l'entrée pour demander un complément, et d'un délai spécifique pour les éléments de chauffage.",
+    "À la sortie, seules les différences imputables au locataire peuvent justifier une retenue : la vétusté et l'usure normale ne sont pas des dégradations.",
+    "Un état des lieux fait directement entre propriétaire et locataire est gratuit ; les frais d'un professionnel sont encadrés, et ceux de sortie ne peuvent pas être facturés au locataire."
+  ],
+  "toc": [
+    "À quoi sert l'état des lieux et dans quels cas est-il obligatoire ?",
+    "La grille pièce par pièce à utiliser",
+    "Préparer le rendez-vous avant la remise des clés",
+    "Réaliser un état des lieux d'entrée fiable",
+    "Faire l'état des lieux de sortie et distinguer l'usure des dégradations",
+    "Coûts, délais et dépôt de garantie",
+    "Que faire en cas de désaccord ou de refus de signature ?"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "À quoi sert l'état des lieux et dans quels cas est-il obligatoire ?",
+      "html": "<p>L'état des lieux est la photographie écrite de l'état d'un logement à un moment donné. Il décrit les sols, murs, plafonds, équipements, compteurs, clés et, pour une location meublée, le mobilier. Son intérêt est simple : comparer objectivement l'état du bien lors de l'arrivée et du départ du locataire.</p><p>Pour les locations de résidence principale soumises à la loi du 6 juillet 1989, qu'elles soient vides ou meublées, un état des lieux est établi <strong>à l'entrée et à la sortie</strong>. Il doit être réalisé contradictoirement, c'est-à-dire en présence du bailleur et du locataire, ou de leurs représentants, afin que chacun puisse formuler des observations. Chaque partie doit en recevoir un exemplaire, sur papier ou sous forme électronique si elle l'accepte.</p><p>Un document signé n'est pas une simple formalité. Si l'état des lieux d'entrée ne mentionne pas une rayure, une tache ou un appareil défectueux, il sera difficile de prouver que ce défaut existait déjà. À l'inverse, un propriétaire ne peut pas faire payer au locataire ce qui relève de la <strong>vétusté</strong>, c'est-à-dire l'usure normale du temps et d'un usage soigneux.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les principes qui sécurisent les deux parties",
+      "points": [
+        "Faites l'état des lieux en pleine journée, avec l'électricité et l'eau disponibles.",
+        "Décrivez chaque élément de manière localisée : « mur gauche du séjour, trace de 10 cm » est bien plus utile que « mur abîmé ».",
+        "Testez ce qui peut l'être : robinets, chasses d'eau, volets, plaques, four, VMC, interphone et détecteur de fumée.",
+        "Ajoutez des réserves immédiatement plutôt que de promettre de les noter plus tard.",
+        "Signez uniquement après relecture et conservez l'exemplaire avec le bail, les photos et les relevés de compteurs."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "La grille pièce par pièce à utiliser",
+      "intro": "Un modèle d'état des lieux peut être créé sur papier, dans un tableur ou via un outil numérique. L'essentiel est de disposer d'une même grille, exploitable à l'entrée comme à la sortie.",
+      "columns": [
+        "Élément à vérifier",
+        "Ce qu'il faut décrire",
+        "Exemple de formulation utile",
+        "Point d'attention"
+      ],
+      "rows": [
+        [
+          "Informations générales",
+          "Date, adresse, identité des parties, type d'état des lieux, relevés de compteurs, nombre de clés et badges",
+          "« Compteur électrique : 12 458 kWh ; 3 clés d'entrée ; 1 badge portail »",
+          "Indiquez la destination des clés et télécommandes."
+        ],
+        [
+          "Sols, murs et plafonds",
+          "Matériau, propreté, taches, trous, fissures, rayures, traces d'humidité",
+          "« Parquet chambre : 2 rayures près de la fenêtre, environ 15 cm »",
+          "Distinguez une petite marque d'une dégradation étendue."
+        ],
+        [
+          "Ouvertures",
+          "Fenêtres, portes, poignées, vitrages, stores, volets, serrures",
+          "« Volet roulant cuisine fonctionnel, manivelle légèrement dure »",
+          "Ouvrez et fermez chaque élément si possible."
+        ],
+        [
+          "Cuisine et salle d'eau",
+          "Évier, robinetterie, évacuations, joints, WC, douche, chauffe-eau, ventilation",
+          "« Joint de douche noirci côté droit ; évacuation lavabo lente »",
+          "Faites couler l'eau et vérifiez les fuites visibles."
+        ],
+        [
+          "Équipements fixes",
+          "Radiateurs, chaudière, hotte, plaques, four, VMC, interphone, détecteur de fumée",
+          "« Plaque induction : 4 foyers testés, fonctionnement constaté »",
+          "Notez aussi les notices et commandes remises."
+        ],
+        [
+          "Location meublée",
+          "Lit, tables, chaises, électroménager, vaisselle, linge si fourni",
+          "« 4 chaises présentes, une rayée sur l'assise »",
+          "Joignez un inventaire détaillé du mobilier au bail."
+        ]
+      ],
+      "note": "Les photographies datées peuvent compléter le document si elles sont clairement rattachées à l'état des lieux. Elles ne remplacent pas une description écrite précise."
+    },
+    {
+      "type": "prose",
+      "heading": "Préparer le rendez-vous avant la remise des clés",
+      "html": "<p>La qualité de l'état des lieux se joue souvent avant le rendez-vous. Prévoyez suffisamment de temps : comptez couramment une à deux heures pour un appartement, davantage pour une grande maison ou un logement meublé. Évitez un passage expédié entre deux rendez-vous, dans la pénombre ou alors que l'eau et l'électricité sont coupées.</p><p>Le propriétaire rassemble le bail, les relevés précédents si besoin, les notices des équipements, les télécommandes, les badges et un exemplaire de la grille. Le locataire peut venir avec un mètre, un téléphone chargé pour les photos, une lampe et le contrat de location. Les deux parties ont intérêt à inspecter calmement les zones moins visibles : dessous d'évier, cave, balcon, placards, garage, hotte et aérations.</p><p>Un état des lieux d'entrée comporte notamment la date, l'adresse du logement, l'identité des parties, le relevé des compteurs, le nombre de clés et moyens d'accès, une description des pièces et équipements, ainsi que les signatures. À la sortie, on ajoute notamment la nouvelle adresse du locataire et l'on s'appuie sur le document d'entrée pour comparer des éléments équivalents.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Réaliser un état des lieux d'entrée fiable en 6 étapes",
+      "intro": "Suivez le même ordre de visite dans chaque pièce. Cette méthode réduit les oublis et rend la comparaison de sortie beaucoup plus simple.",
+      "steps": [
+        {
+          "title": "Commencer par les informations vérifiables",
+          "html": "<p>Notez la date, l'heure si elle est utile, l'adresse, les personnes présentes, puis relevez ensemble les compteurs d'eau, de gaz et d'électricité. Comptez les clés, badges, bips de parking, télécommandes et boîtes aux lettres.</p>"
+        },
+        {
+          "title": "Observer une pièce dans un ordre constant",
+          "html": "<p>Par exemple : plafond, murs, sol, porte, fenêtres, rangements, prises, éclairage, puis équipements. La constance est plus importante que le format du document.</p>"
+        },
+        {
+          "title": "Décrire au lieu de juger",
+          "html": "<p>Remplacez « état moyen » par des faits : couleur, emplacement, dimension approximative, nombre de marques et fonctionnement observé. La mention « bon état » peut compléter, mais ne doit pas masquer un défaut existant.</p>"
+        },
+        {
+          "title": "Tester les équipements accessibles",
+          "html": "<p>Allumez les radiateurs si la saison le permet, actionnez les volets, tirez la chasse d'eau, ouvrez les robinets, vérifiez les feux de cuisson et les appareils fournis. Signalez ce qui ne peut pas être testé le jour même.</p>"
+        },
+        {
+          "title": "Annexer les éléments utiles",
+          "html": "<p>Ajoutez, avec l'accord des deux parties, des photos lisibles, un inventaire du mobilier, des relevés et toute réserve utile. Numérotez les pages et les annexes pour éviter qu'elles soient dissociées du document.</p>"
+        },
+        {
+          "title": "Relire, compléter et signer",
+          "html": "<p>Chaque partie relit l'ensemble avant de signer et repart avec son exemplaire. Une signature électronique est possible si le document est conservé dans des conditions fiables et remis à chacun.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe : noter une réserve plutôt que minimiser un doute",
+      "html": "<p>Une fuite intermittente, un radiateur non testable ou une trace dont l'origine est incertaine ? Inscrivez-le. Une réserve factuelle protège autant le locataire que le bailleur et permet d'organiser une vérification ultérieure.</p><p>Après l'entrée dans les lieux, le locataire peut demander à compléter l'état des lieux dans les <strong>10 jours</strong>. Pour les éléments de chauffage, il peut le faire durant le premier mois de la période de chauffe. Il est donc utile de signaler rapidement tout défaut découvert après l'installation.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "État des lieux d'entrée et de sortie : ce qui change",
+      "intro": "Les deux documents se ressemblent dans leur forme, mais leur objectif n'est pas le même.",
+      "left": {
+        "title": "À l'entrée : établir une référence",
+        "points": [
+          "Décrire l'état initial du logement et des équipements.",
+          "Relever précisément compteurs, clés, badges et mobilier.",
+          "Faire apparaître tous les défauts déjà présents.",
+          "Formuler des réserves et compléter dans les délais si nécessaire."
+        ]
+      },
+      "right": {
+        "title": "À la sortie : comparer avec équité",
+        "points": [
+          "Reprendre la même grille et le document d'entrée.",
+          "Constater les différences réellement observables.",
+          "Tenir compte de la vétusté et de la durée d'occupation.",
+          "Préciser les clés rendues, les relevés finaux et la nouvelle adresse du locataire."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Faire l'état des lieux de sortie et distinguer l'usure des dégradations",
+      "html": "<p>L'état des lieux de sortie doit idéalement être réalisé lorsque le logement est vidé, nettoyé et que tous les équipements restent accessibles. Il ne s'agit pas de rechercher la perfection : il s'agit de comparer avec l'état d'entrée. Une moquette ternie par le temps, une peinture qui a pâli ou un joint naturellement vieilli ne constituent pas automatiquement une dette du locataire.</p><p>En revanche, un trou important non signalé, une vitre cassée, un équipement détérioré par un usage inadapté ou une absence de nettoyage manifeste peuvent être imputables au locataire. Pour apprécier cette différence, la durée d'occupation compte. Une <strong>grille de vétusté</strong>, annexée au bail ou choisie d'un commun accord, peut être très utile : elle prévoit une durée de vie théorique des éléments et une part de vétusté à déduire.</p><p>Le propriétaire ne peut retenir sur le dépôt de garantie que des sommes justifiées et liées à des écarts entre les deux états des lieux, à des loyers ou charges impayés, ou à certaines régularisations. Des devis ou factures permettent d'étayer la retenue. Le montant réclamé doit rester cohérent avec le préjudice subi et ne peut pas faire financer une rénovation complète à la charge du locataire.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Coûts, délais et règles pratiques à connaître",
+      "intro": "Ces repères concernent les locations d'habitation principales en France. Ils aident à anticiper le rendez-vous et la restitution du dépôt de garantie.",
+      "columns": [
+        "Situation",
+        "Règle générale",
+        "Coût ou délai à retenir"
+      ],
+      "rows": [
+        [
+          "État des lieux réalisé directement entre bailleur et locataire",
+          "Les parties le font ensemble, sans intermédiaire.",
+          "Gratuit pour le locataire comme pour le propriétaire."
+        ],
+        [
+          "Professionnel mandaté à l'entrée",
+          "Les frais éventuellement facturés au locataire ne peuvent pas dépasser ceux facturés au bailleur ni le plafond légal applicable.",
+          "Souvent plafonné à 3 € TTC par m² pour la part du locataire, dans la limite des frais réellement dus."
+        ],
+        [
+          "Professionnel mandaté à la sortie",
+          "Le bailleur ne peut pas facturer au locataire les frais de l'état des lieux de sortie.",
+          "À la charge du bailleur, sauf cas spécifique de commissaire de justice."
+        ],
+        [
+          "Désaccord ou absence d'une partie",
+          "Un commissaire de justice peut établir un constat après convocation régulière des parties.",
+          "Frais généralement partagés ; prévoyez souvent un montant total de l'ordre de 150 à 350 € ou plus selon le logement et les déplacements."
+        ],
+        [
+          "Restitution du dépôt de garantie",
+          "Le délai court à compter de la remise des clés.",
+          "1 mois si les états des lieux sont conformes ; 2 mois si des différences justifient des retenues."
+        ],
+        [
+          "Charges en copropriété",
+          "Une retenue provisoire peut être nécessaire en attendant l'arrêté annuel des comptes.",
+          "Le bailleur peut conserver au plus 20 % du dépôt de garantie dans les conditions prévues."
+        ]
+      ],
+      "note": "Les tarifs réglementés et plafonds peuvent évoluer. En cas d'intervention d'un professionnel ou d'un commissaire de justice, demandez toujours le détail des frais avant le rendez-vous."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les erreurs qui créent le plus de litiges",
+      "html": "<ul><li><strong>Signer un document incomplet</strong> : les cases vides et les mentions globales sont sources d'ambiguïté.</li><li><strong>Écrire seulement « bon état »</strong> : ajoutez les défauts, même légers, et leur emplacement exact.</li><li><strong>Confondre nettoyage et vétusté</strong> : une usure normale ne se facture pas comme une détérioration.</li><li><strong>Oublier les annexes</strong> : inventaire du meublé, photos, clés et compteurs doivent pouvoir être reliés au document signé.</li><li><strong>Faire pression pour signer</strong> : si un désaccord persiste, mieux vaut le consigner ou recourir à une procédure adaptée que signer sous contrainte.</li></ul>"
+    },
+    {
+      "type": "prose",
+      "heading": "Que faire en cas de désaccord ou de refus de signature ?",
+      "html": "<p>Un désaccord ne doit pas conduire à supprimer l'état des lieux. Commencez par inscrire les observations de chacun de façon factuelle : une divergence sur la propreté, le fonctionnement d'un volet ou l'origine d'une tache peut être mentionnée. Gardez les échanges écrits, les photographies et les documents annexés au bail.</p><p>Si l'état des lieux amiable est impossible parce qu'une partie refuse de venir, de participer ou de signer, il est possible de faire appel à un <strong>commissaire de justice</strong>. Celui-ci convoque les parties selon les formes requises et établit un état des lieux ayant une forte valeur probante. Cette solution a un coût, mais elle évite que l'absence de document ne pénalise injustement l'un ou l'autre.</p><p>Pour un conflit sur le dépôt de garantie, commencez par une demande écrite précise : dates, comparaison des documents, sommes contestées et pièces justificatives. En l'absence d'accord, la commission départementale de conciliation peut être saisie gratuitement pour de nombreux litiges locatifs. Si nécessaire, le juge des contentieux de la protection peut ensuite trancher. Agir méthodiquement, documents à l'appui, est bien plus efficace qu'un échange de reproches.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "L'état des lieux est-il obligatoire pour une location ?",
+      "a_html": "<p>Pour une location vide ou meublée constituant la résidence principale du locataire, un état des lieux d'entrée et de sortie est prévu par la réglementation. Il est essentiel pour comparer l'état du logement et encadrer une éventuelle retenue sur le dépôt de garantie.</p><p>D'autres types de location, comme la location saisonnière ou certains baux particuliers, obéissent à des règles différentes. Même lorsqu'il n'est pas imposé dans les mêmes termes, un document détaillé reste vivement recommandé.</p>"
+    },
+    {
+      "q": "Qui doit payer l'état des lieux ?",
+      "a_html": "<p>Lorsque propriétaire et locataire réalisent ensemble l'état des lieux, il est gratuit. Si un professionnel intervient à l'entrée, la participation du locataire est plafonnée : elle ne peut pas être supérieure à celle du bailleur ni dépasser le plafond légal par mètre carré.</p><p>Les frais d'état des lieux de sortie ne peuvent pas être facturés au locataire par le bailleur. En cas de recours à un commissaire de justice faute d'accord amiable, les frais sont en principe partagés selon les règles applicables.</p>"
+    },
+    {
+      "q": "Peut-on faire un état des lieux avec des photos seulement ?",
+      "a_html": "<p>Non. Les photos sont un excellent complément, mais elles ne remplacent pas le document descriptif signé. Elles doivent être datées, nettes, idéalement numérotées et annexées de manière identifiable à l'état des lieux.</p><p>Une photo ne montre pas toujours le fonctionnement d'un équipement, l'emplacement exact d'une marque ou l'état d'un élément hors champ. La description écrite reste donc indispensable.</p>"
+    },
+    {
+      "q": "Le locataire peut-il modifier l'état des lieux après l'avoir signé ?",
+      "a_html": "<p>Il peut demander au bailleur de compléter l'état des lieux d'entrée dans les 10 jours suivant son établissement. Pour les éléments de chauffage, la demande peut être faite durant le premier mois de la période de chauffe.</p><p>Il est préférable d'adresser cette demande par écrit et de conserver une preuve d'envoi. Le complément doit décrire les faits de manière précise et, si possible, être appuyé par des photos.</p>"
+    },
+    {
+      "q": "Qu'est-ce que la vétusté dans un état des lieux ?",
+      "a_html": "<p>La vétusté désigne l'usure normale liée au temps, à l'ancienneté et à un usage raisonnable du logement ou de ses équipements. Elle n'est pas à la charge du locataire. Par exemple, une peinture qui se ternit progressivement ou un revêtement de sol usé après plusieurs années ne justifie pas, à lui seul, une retenue.</p><p>Une grille de vétusté facilite l'évaluation en tenant compte de la durée de vie théorique des matériaux et appareils. Elle est particulièrement utile pour les locations de longue durée.</p>"
+    },
+    {
+      "q": "Le propriétaire peut-il retenir tout le dépôt de garantie après l'état des lieux ?",
+      "a_html": "<p>Non, pas sans motif et justificatifs. Les retenues doivent correspondre à des sommes dues ou à des dégradations imputables au locataire, établies par comparaison entre les états des lieux et étayées, par exemple, par un devis ou une facture.</p><p>Le bailleur doit restituer le solde dans le délai applicable après la remise des clés : généralement un mois si les documents sont conformes, deux mois lorsqu'il existe des différences justifiant une retenue.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Un bon état des lieux n'est ni un formulaire rempli à la hâte ni une épreuve de force entre bailleur et locataire. C'est un constat précis, réalisé dans de bonnes conditions, qui protège les deux parties. Préparez votre grille, inspectez chaque pièce avec méthode, notez les réserves et conservez tous les justificatifs : vous aurez alors une base claire pour une location sereine, de la remise des clés jusqu'au départ.</p>",
+  "__slug": "etat-des-lieux-comment-la-realiser"
+}

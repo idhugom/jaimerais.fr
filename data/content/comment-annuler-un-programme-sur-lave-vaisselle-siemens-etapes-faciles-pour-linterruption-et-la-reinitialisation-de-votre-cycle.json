@@ -1,0 +1,207 @@
+{
+  "title": "Comment annuler ou réinitialiser un programme sur un lave-vaisselle Siemens",
+  "meta_description": "Apprenez à arrêter, annuler ou réinitialiser un cycle de lave-vaisselle Siemens sans risque, puis à relancer le bon programme facilement.",
+  "reading_time_min": 9,
+  "hero_intro": "Vous avez lancé le mauvais cycle, oublié un verre ou besoin d'arrêter votre lave-vaisselle Siemens ? Dans la plupart des cas, quelques gestes suffisent pour mettre le programme en pause ou l'annuler proprement. La commande exacte varie selon les générations d'appareils : retenez surtout qu'une annulation complète passe généralement par un appui prolongé sur la touche Start, et non par un simple arrêt électrique.",
+  "key_takeaways": [
+    "Pour ajouter un objet, ouvrez prudemment la porte : le cycle se met généralement en pause et reprend après fermeture.",
+    "Pour annuler un cycle Siemens, maintenez souvent la touche Start environ 3 secondes : l'appareil évacue alors l'eau résiduelle.",
+    "Ne coupez pas l'alimentation pour changer de programme : attendez d'abord la fin de la vidange et l'affichage de fin ou de réinitialisation.",
+    "En cas de code erreur, de fuite ou d'eau qui reste dans la cuve, ne forcez pas les manipulations : cherchez la cause avant de relancer.",
+    "La notice correspondant au numéro E-Nr de votre appareil reste la référence, car les touches et affichages diffèrent selon les modèles."
+  ],
+  "toc": [
+    "Interrompre un lavage sans annuler le programme",
+    "Annuler un cycle : la méthode la plus fréquente sur Siemens",
+    "Pause, annulation ou réinitialisation : quelle action choisir ?",
+    "Les étapes sûres pour changer de programme",
+    "Que faire si le lave-vaisselle ne réagit pas ?",
+    "Comprendre les voyants, le temps restant et les codes erreur",
+    "Éviter les annulations inutiles au quotidien",
+    "FAQ : annulation et réinitialisation d'un lave-vaisselle Siemens"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Interrompre un lavage sans annuler le programme",
+      "html": "<p>Vous souhaitez simplement ajouter une assiette, retirer un objet fragile ou vérifier un bruit ? Il n'est pas forcément nécessaire d'annuler le cycle. Sur de nombreux lave-vaisselle Siemens, <strong>l'ouverture de la porte suspend automatiquement le lavage</strong>. Refermez-la correctement et le programme reprend, parfois après un nouvel appui bref sur Start selon le modèle.</p><p>Ouvrez toutefois la porte avec précaution, surtout après le début du lavage ou pendant le séchage : de l'eau chaude et de la vapeur peuvent s'échapper. Entrebâillez-la quelques secondes, gardez le visage à distance et évitez de retirer un objet très chaud à mains nues.</p><p>Cette pause est idéale pour un oubli léger. En revanche, si vous voulez modifier la température, la durée ou le type de programme, il faut habituellement <strong>annuler le cycle en cours</strong> avant de pouvoir faire une nouvelle sélection.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "N'ajoutez pas n'importe quoi en cours de cycle",
+      "html": "<p>Évitez d'ajouter du bois, de l'aluminium non compatible, une poêle encore brûlante ou un objet couvert de résidus alimentaires importants. Placez la pièce sans bloquer les bras d'aspersion et vérifiez qu'elle ne gêne pas la fermeture de la porte.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Annuler un programme Siemens : la procédure la plus courante",
+      "intro": "Sur beaucoup de lave-vaisselle Siemens récents, l'annulation est indiquée par « Reset 3 sec. » ou s'effectue avec la touche Start. Le principe est le même, même si le libellé du bandeau de commande varie.",
+      "steps": [
+        {
+          "title": "Laissez la porte fermée et repérez la touche Start",
+          "html": "<p>Ne commencez pas par éteindre l'appareil. Regardez la commande Start : elle peut porter la mention <strong>Reset</strong>, « Reset 3 sec. » ou une indication équivalente. Sur un modèle tout intégrable, les boutons se trouvent sur le chant supérieur de la porte.</p>"
+        },
+        {
+          "title": "Maintenez Start enfoncée environ 3 secondes",
+          "html": "<p>Faites un appui continu, pas plusieurs pressions rapides. Un signal sonore, un changement d'affichage ou un voyant peut confirmer la prise en compte de la commande. Si rien ne se passe, consultez la notice de votre référence : certains bandeaux ont une touche dédiée à l'annulation.</p>"
+        },
+        {
+          "title": "Laissez l'appareil terminer la vidange",
+          "html": "<p>Le lave-vaisselle évacue l'eau présente dans la cuve. Il peut rester actif pendant une à quelques minutes : c'est normal. N'ouvrez pas la porte et ne coupez pas son alimentation pendant cette phase.</p>"
+        },
+        {
+          "title": "Attendez l'état de fin de programme",
+          "html": "<p>Lorsque l'affichage revient à un état neutre, indique la fin du cycle ou que les voyants se stabilisent, le programme précédent est annulé. Vous pouvez alors ouvrir la porte, corriger le chargement et sélectionner un nouveau cycle.</p>"
+        },
+        {
+          "title": "Choisissez puis lancez le programme adapté",
+          "html": "<p>Ajoutez du détergent si nécessaire, refermez la porte et appuyez brièvement sur Start. Après une annulation, l'appareil ne reprend pas automatiquement le programme que vous venez de supprimer.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Pause, annulation, réinitialisation : quelle action choisir ?",
+      "intro": "Ces expressions sont souvent confondues. Pourtant, elles ne répondent pas au même besoin et n'ont pas les mêmes conséquences.",
+      "columns": [
+        "Votre situation",
+        "Action recommandée",
+        "Conséquence"
+      ],
+      "rows": [
+        [
+          "Vous avez oublié un verre ou une petite assiette",
+          "Ouvrir doucement la porte, ajouter l'objet, puis refermer",
+          "Le cycle est généralement mis en pause et reprend ensuite"
+        ],
+        [
+          "Le programme choisi n'est pas le bon",
+          "Maintenir Start environ 3 secondes, puis attendre la vidange",
+          "Le cycle est annulé ; vous pourrez en sélectionner un autre"
+        ],
+        [
+          "Vous voulez arrêter l'appareil avant de partir",
+          "Annuler le cycle et laisser la vidange finir",
+          "L'eau sale est évacuée et la machine revient à un état prêt"
+        ],
+        [
+          "L'écran est figé ou les commandes ne répondent plus",
+          "Essayer d'abord l'annulation ; si la notice le prévoit, couper l'alimentation brièvement",
+          "Une coupure peut relancer l'électronique, sans réparer une panne"
+        ],
+        [
+          "Un code erreur ou une fuite apparaît",
+          "Arrêter l'utilisation et identifier le problème",
+          "Une simple réinitialisation peut masquer temporairement un défaut sans le résoudre"
+        ]
+      ],
+      "note": "Les indications exactes dépendent du modèle et de son année de fabrication. La notice associée à l'E-Nr de l'appareil prévaut toujours."
+    },
+    {
+      "type": "comparison",
+      "heading": "Changer de programme ou redémarrer après une anomalie",
+      "intro": "Annuler un cycle pour corriger un mauvais choix est courant. Réinitialiser un appareil qui signale une anomalie demande davantage de prudence.",
+      "left": {
+        "title": "Vous changez simplement de programme",
+        "points": [
+          "Utilisez l'annulation par appui prolongé sur Start.",
+          "Attendez impérativement la fin de l'évacuation d'eau.",
+          "Vérifiez le chargement, le produit de lavage et le programme choisi.",
+          "Relancez immédiatement si l'appareil fonctionne normalement."
+        ]
+      },
+      "right": {
+        "title": "Vous êtes face à un dysfonctionnement",
+        "points": [
+          "Notez le code affiché avant toute manipulation.",
+          "Contrôlez le filtre, l'arrivée d'eau et la bonne fermeture de la porte.",
+          "Ne relancez pas en présence d'eau au sol, d'odeur de brûlé ou de bruit inhabituel fort.",
+          "Faites appel au support ou à un réparateur si le défaut revient."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Peut-on réinitialiser un lave-vaisselle Siemens en le débranchant ?",
+      "html": "<p>Couper le courant peut parfois débloquer un affichage figé, mais ce n'est <strong>pas la méthode normale pour annuler un lavage</strong>. Un débranchement brutal pendant que la pompe fonctionne ou que l'eau est dans la cuve n'est pas idéal : à la remise sous tension, le lave-vaisselle peut devoir terminer la vidange ou conserver une information d'erreur.</p><p>Utilisez d'abord la procédure d'annulation par la commande Start. Si le bandeau reste totalement inactif, vous pouvez éteindre l'appareil avec son bouton Marche/Arrêt, puis, si votre notice l'autorise et que la prise est accessible sans risque, couper l'alimentation quelques minutes. Rebranchez ensuite et observez le comportement de l'appareil.</p><p>Cette manipulation ne supprime pas une cause physique : filtre obstrué, arrivée d'eau fermée, pompe bloquée, problème de porte ou détection d'eau dans le socle. Si le même message revient, évitez d'enchaîner les redémarrages.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Avant de relancer : les contrôles qui évitent un second échec",
+      "points": [
+        "La porte doit se fermer sans résistance et aucun couvert ne doit dépasser du panier.",
+        "Le robinet d'arrivée d'eau doit être ouvert et le tuyau non pincé.",
+        "Le filtre au fond de la cuve doit être correctement remis en place et exempt de gros débris.",
+        "Les bras d'aspersion doivent tourner librement, sans être bloqués par une grande assiette ou une casserole.",
+        "Le détergent doit être placé dans le compartiment prévu, avec un programme cohérent avec le degré de salissure."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Si le programme ne s'annule pas ou que l'eau reste dans la cuve",
+      "html": "<p>Si l'appui prolongé sur Start ne produit aucun effet, vérifiez d'abord que vous maintenez bien la touche assez longtemps et que la porte est dans la position attendue par votre modèle. Sur certains appareils, la commande n'est accessible que porte ouverte ; sur d'autres, la porte doit être fermée pour lancer la vidange. La notice liée à votre appareil vous donnera la séquence exacte.</p><p>Une cuve contenant de l'eau après la tentative d'annulation peut révéler un souci d'évacuation. Retirez la vaisselle avec prudence, épongez si nécessaire, puis contrôlez le filtre et la zone de pompe conformément à la notice. Des morceaux de verre, étiquettes, noyaux ou résidus peuvent empêcher la vidange. Ne mettez jamais les doigts dans une zone de pompe sans avoir coupé l'alimentation électrique.</p><p>Si l'appareil affiche un code erreur, prenez-le en photo ou notez-le. Les codes peuvent différer selon les séries. Un défaut lié à l'arrivée ou à l'évacuation d'eau mérite un contrôle des éléments accessibles ; une alerte répétée, une fuite, un disjoncteur qui saute ou une odeur anormale justifie l'arrêt de l'appareil et l'intervention d'un professionnel.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Où trouver la bonne notice Siemens ?",
+      "html": "<p>Relevez le <strong>numéro E-Nr</strong> sur la plaque signalétique, souvent située sur le bord intérieur de la porte. Avec cette référence, vous accéderez à la documentation correspondant vraiment à votre modèle sur le site Siemens Home. C'est particulièrement utile si votre panneau ne comporte ni écran ni mention « Reset 3 sec. ».</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Les trois réflexes utiles en quelques secondes",
+      "items": [
+        {
+          "value": "3 s",
+          "label": "Durée d'appui souvent nécessaire sur Start pour demander l'annulation"
+        },
+        {
+          "value": "1 à quelques min",
+          "label": "Temps habituel à laisser à la machine pour évacuer l'eau après annulation"
+        },
+        {
+          "value": "E-Nr",
+          "label": "Référence à relever pour retrouver les instructions exactes de votre appareil"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Éviter d'annuler un cycle : bien choisir dès le départ",
+      "html": "<p>Le programme automatique constitue souvent un bon choix au quotidien : il adapte généralement la consommation et la durée à la charge détectée. Réservez le mode intensif aux casseroles très sales et le programme rapide à une vaisselle peu souillée, en gardant à l'esprit qu'un cycle court peut être moins performant sur les résidus séchés.</p><p>Avant de démarrer, vérifiez la présence de plastique léger susceptible de se retourner, l'orientation des assiettes et le passage libre des bras d'aspersion. Un bon chargement limite les besoins d'interruption, les bruits et les lavages à refaire. Inutile de prélaver systématiquement : retirez plutôt les restes solides, ce qui protège le filtre sans gaspiller d'eau.</p><p>Enfin, entretenez l'appareil régulièrement. Nettoyer le filtre, vérifier les bras d'aspersion et lancer périodiquement un cycle d'entretien selon les préconisations du fabricant contribuent à une vidange fiable et à une vaisselle propre. Si vous devez annuler souvent parce que le résultat n'est pas satisfaisant, le problème est peut-être le chargement, le produit utilisé ou l'entretien, plutôt que le programme lui-même.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "La bonne règle : mettez le cycle en pause pour un simple oubli ; annulez-le avec la commande prévue par l'appareil seulement si vous devez réellement repartir sur un autre programme.",
+      "author": ""
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment arrêter immédiatement un lave-vaisselle Siemens ?",
+      "a_html": "<p>Pour arrêter un cycle proprement, maintenez généralement la touche <strong>Start</strong> environ 3 secondes, puis laissez l'appareil effectuer sa vidange. Évitez de débrancher immédiatement le lave-vaisselle : l'annulation depuis le bandeau est plus adaptée et permet d'évacuer l'eau résiduelle.</p><p>Si vous souhaitez seulement accéder à la cuve, ouvrez doucement la porte. Cela met habituellement le cycle en pause, sans l'annuler.</p>"
+    },
+    {
+      "q": "Pourquoi faut-il attendre après avoir maintenu le bouton Start ?",
+      "a_html": "<p>Après la commande d'annulation, le lave-vaisselle doit souvent vider l'eau de la cuve. La pompe peut donc continuer à fonctionner pendant une à quelques minutes. Attendez la fin de cette phase avant d'ouvrir largement la porte ou de choisir un nouveau programme.</p>"
+    },
+    {
+      "q": "Comment changer de programme sur un lave-vaisselle Siemens déjà démarré ?",
+      "a_html": "<p>Sur la plupart des modèles, on ne change pas directement de programme pendant un cycle. Annulez d'abord le programme en maintenant Start environ 3 secondes, attendez la vidange et le retour à l'état de fin, puis sélectionnez le nouveau cycle et redémarrez l'appareil.</p><p>Si le cycle vient tout juste de commencer, consultez tout de même la notice : certaines interfaces peuvent présenter une logique particulière.</p>"
+    },
+    {
+      "q": "Mon lave-vaisselle Siemens bippe et affiche un code erreur : dois-je le réinitialiser ?",
+      "a_html": "<p>Notez d'abord le code. Une réinitialisation peut faire disparaître l'affichage, mais elle ne corrige pas nécessairement la cause. Vérifiez uniquement les éléments accessibles et sans risque, comme la porte, le filtre ou l'arrivée d'eau.</p><p>En cas de fuite, d'eau sous l'appareil, d'odeur de brûlé, de bruit mécanique prononcé ou de code qui revient, arrêtez l'utilisation et contactez le service après-vente ou un réparateur qualifié.</p>"
+    },
+    {
+      "q": "Est-ce grave d'ouvrir la porte pendant le lavage ?",
+      "a_html": "<p>Non, si vous l'ouvrez lentement et avec prudence. Le lave-vaisselle est conçu pour interrompre le fonctionnement à l'ouverture de la porte. Le principal risque est la vapeur chaude ou quelques projections, notamment au cours d'un cycle à haute température.</p><p>Refermez bien la porte après avoir ajouté ou retiré un objet : le cycle peut nécessiter un appui sur Start pour reprendre selon le modèle.</p>"
+    },
+    {
+      "q": "Où se trouve le bouton Reset sur un lave-vaisselle Siemens ?",
+      "a_html": "<p>Il n'existe pas toujours de bouton Reset séparé. Sur de nombreux appareils Siemens, la fonction est associée à la touche <strong>Start</strong>, avec la mention « Reset 3 sec. ». Sur les appareils encastrables, cherchez cette touche sur la tranche supérieure de la porte.</p><p>En l'absence de ce libellé, identifiez le numéro E-Nr sur la porte et reportez-vous à la notice correspondante.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Annuler un programme sur un lave-vaisselle Siemens est généralement simple : maintenez la touche Start environ 3 secondes, puis laissez la machine vidanger complètement avant de relancer un cycle. Pour un simple oubli, l'ouverture prudente de la porte suffit le plus souvent à suspendre le lavage.</p><p>Retenez surtout qu'un redémarrage électrique ne doit pas être votre premier réflexe, et qu'un code erreur persistant mérite d'être compris plutôt qu'effacé. Avec le bon geste et la notice adaptée à votre E-Nr, vous reprendrez facilement la main sur votre cycle de lavage.</p>",
+  "__slug": "comment-annuler-un-programme-sur-lave-vaisselle-siemens-etapes-faciles-pour-linterruption-et-la-reinitialisation-de-votre-cycle"
+}

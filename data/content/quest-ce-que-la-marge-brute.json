@@ -1,0 +1,235 @@
+{
+  "title": "Qu'est-ce que la marge brute ? Calcul, taux et interprétation",
+  "meta_description": "Comprenez la marge brute, son calcul HT, le taux de marge et le taux de marque, avec exemples, interprétation et leviers pour l'améliorer.",
+  "reading_time_min": 11,
+  "hero_intro": "Vous vendez un produit ou une prestation, mais combien vous reste-t-il réellement une fois les coûts directement liés à cette vente payés ? La marge brute apporte une première réponse, essentielle pour fixer ses prix, suivre sa rentabilité et décider où agir. Voici comment la calculer sans confondre les indicateurs, puis l'interpréter avec discernement.",
+  "key_takeaways": [
+    "La marge brute correspond au chiffre d'affaires hors taxes diminué des coûts directs des biens ou prestations effectivement vendus.",
+    "Elle ne mesure pas le bénéfice final : les salaires non directement liés à la production, le loyer, le marketing, les impôts et les intérêts restent notamment à payer.",
+    "Le pourcentage rapporté au chiffre d'affaires est souvent appelé taux de marge brute ; en commerce français, le « taux de marge » peut aussi être calculé sur le coût d'achat. Il faut donc toujours vérifier la formule.",
+    "Une bonne marge brute s'analyse dans le temps, par produit ou service, et par rapport aux pratiques de votre secteur.",
+    "Prix de vente, coût fournisseur, mix de produits, remises, pertes et productivité sont les principaux leviers pour l'améliorer durablement."
+  ],
+  "toc": [
+    "Marge brute : définition et rôle",
+    "Quels coûts inclure dans le calcul ?",
+    "Formule et exemple de marge brute",
+    "Taux de marge brute, taux de marge et taux de marque",
+    "Calculer sa marge brute en 5 étapes",
+    "Interpréter une marge brute sans se tromper",
+    "Améliorer sa marge brute durablement"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Marge brute : définition et rôle",
+      "html": "<p>La <strong>marge brute</strong> est le montant qui reste à une entreprise après déduction des coûts directement nécessaires pour vendre les produits ou réaliser les prestations facturées. Dans sa forme la plus courante, elle correspond donc au chiffre d'affaires diminué du coût des ventes, parfois désigné par l'expression anglaise « cost of goods sold ».</p><p>Elle indique la capacité de l'activité à générer des ressources avant les dépenses de structure. Concrètement, si vous encaissez 100 € hors taxes et que le produit vendu vous a coûté 60 € à acheter ou à fabriquer, votre marge brute est de 40 €. Ces 40 € doivent ensuite contribuer au paiement du loyer, des outils, de l'administration, de la communication, des taxes et, idéalement, du résultat de l'entreprise.</p><p>Le terme n'est toutefois pas un agrégat parfaitement uniforme dans tous les comptes. Un commerçant parlera volontiers de <strong>marge commerciale</strong>, tandis qu'une entreprise de services déduira plutôt les coûts directement imputables à une mission. L'important est de définir précisément les coûts retenus et de conserver la même méthode d'une période à l'autre.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel à retenir",
+      "points": [
+        "Raisonnez en hors taxes : la TVA collectée ne constitue pas un revenu pour l'entreprise.",
+        "La marge brute s'exprime en euros, mais son pourcentage permet les comparaisons dans le temps et entre offres.",
+        "Une hausse du chiffre d'affaires ne garantit pas une hausse de la marge si les remises, achats ou coûts directs progressent plus vite.",
+        "Comparez des périmètres identiques : deux entreprises peuvent employer le même mot avec des coûts directs différents.",
+        "Suivez aussi la marge par référence, catégorie, client ou prestation pour repérer les ventes réellement contributives."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quels coûts entrent dans la marge brute ?",
+      "intro": "Le classement dépend de votre activité et de vos règles de gestion. Voici une grille pratique pour distinguer les coûts généralement directs des charges de structure.",
+      "columns": [
+        "Poste de coût",
+        "À déduire de la marge brute ?",
+        "Pourquoi"
+      ],
+      "rows": [
+        [
+          "Marchandises, matières premières et emballages affectés à une vente",
+          "Oui, généralement",
+          "Ils sont nécessaires pour fournir le produit vendu."
+        ],
+        [
+          "Frais d'achat directement liés, comme certains transports d'approvisionnement ou droits de douane",
+          "Souvent",
+          "Ils participent au coût réel d'acquisition, selon votre méthode de calcul."
+        ],
+        [
+          "Sous-traitance dédiée à une prestation client",
+          "Oui, généralement",
+          "Sans cette intervention, la mission ne pourrait pas être délivrée."
+        ],
+        [
+          "Main-d'œuvre de production ou de réalisation directement traçable",
+          "Selon le secteur et le reporting",
+          "Elle peut être intégrée au coût direct, notamment en industrie ou dans les services."
+        ],
+        [
+          "Loyer des bureaux, direction, comptabilité, logiciel généraliste, publicité institutionnelle",
+          "Non, en principe",
+          "Ce sont des frais indirects ou fixes à couvrir après le calcul de la marge brute."
+        ],
+        [
+          "TVA, remboursements clients, remises et avoirs",
+          "À traiter correctement",
+          "Le chiffre d'affaires et les coûts doivent être calculés hors taxes et nets des corrections commerciales."
+        ]
+      ],
+      "note": "Pour comparer plusieurs périodes, documentez votre règle de classement et évitez de la modifier sans retraiter les données historiques."
+    },
+    {
+      "type": "prose",
+      "heading": "La formule de la marge brute",
+      "html": "<p>La formule de base est simple : <strong>marge brute = chiffre d'affaires HT - coût des ventes</strong>. Le chiffre d'affaires à utiliser est le chiffre d'affaires réellement acquis, après les remises, rabais, retours et avoirs éventuels. Il s'agit bien d'un montant hors taxes.</p><p>Dans une activité de négoce, le coût des ventes ne se limite pas toujours aux achats du mois. Il faut tenir compte des stocks. Une approche fréquente consiste à calculer : <strong>coût d'achat des marchandises vendues = stock initial + achats nets de la période - stock final</strong>. Vous ne déduisez ainsi que le coût des produits effectivement vendus, pas celui de tout ce qui est encore en rayon ou en entrepôt.</p><p>Pour une entreprise de services, le raisonnement est identique, avec un autre contenu : chiffre d'affaires de la mission moins sous-traitance, licences consommées pour le client, frais techniques spécifiques et, selon votre convention interne, temps de production directement affecté. Une agence peut par exemple suivre une marge avant ou après coûts de personnel de production ; les deux lectures sont utiles, à condition de ne pas les mélanger.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Exemple chiffré : une activité de vente de produits",
+      "intro": "Une boutique vend des marchandises pendant un trimestre. Elle utilise le suivi de stock pour déterminer ce que les ventes lui ont réellement coûté.",
+      "columns": [
+        "Élément",
+        "Calcul",
+        "Montant HT"
+      ],
+      "rows": [
+        [
+          "Chiffre d'affaires net",
+          "Ventes après remises et retours",
+          "120 000 €"
+        ],
+        [
+          "Stock initial",
+          "Valeur des marchandises au début du trimestre",
+          "18 000 €"
+        ],
+        [
+          "Achats nets",
+          "Achats de marchandises et frais d'acquisition retenus",
+          "72 000 €"
+        ],
+        [
+          "Stock final",
+          "Valeur des marchandises encore en stock",
+          "15 000 €"
+        ],
+        [
+          "Coût des marchandises vendues",
+          "18 000 € + 72 000 € - 15 000 €",
+          "75 000 €"
+        ],
+        [
+          "Marge brute",
+          "120 000 € - 75 000 €",
+          "45 000 €"
+        ],
+        [
+          "Marge brute rapportée au chiffre d'affaires",
+          "45 000 € / 120 000 €",
+          "37,5 %"
+        ]
+      ],
+      "note": "Dans cet exemple, chaque tranche de 100 € de ventes HT laisse en moyenne 37,50 € pour payer les charges indirectes et dégager un résultat."
+    },
+    {
+      "type": "comparison",
+      "heading": "Taux de marge brute, taux de marge et taux de marque : ne les confondez pas",
+      "intro": "Les expressions se ressemblent, mais leur dénominateur n'est pas le même. Cette distinction est décisive lorsqu'on fixe un prix ou compare des chiffres commerciaux.",
+      "left": {
+        "title": "Marge rapportée au coût d'achat",
+        "points": [
+          "Formule courante en commerce : marge commerciale / coût d'achat des marchandises vendues × 100.",
+          "Dans l'exemple : 45 000 € / 75 000 € = 60 %.",
+          "Elle répond à la question : « Quel supplément ai-je ajouté par rapport à mon coût ? »",
+          "On l'appelle souvent « taux de marge », mais le vocabulaire varie selon les entreprises."
+        ]
+      },
+      "right": {
+        "title": "Marge rapportée au prix de vente",
+        "points": [
+          "Formule : marge brute / chiffre d'affaires HT × 100.",
+          "Dans l'exemple : 45 000 € / 120 000 € = 37,5 %.",
+          "Elle répond à la question : « Quelle part de mes ventes me reste-t-il après les coûts directs ? »",
+          "Elle est fréquemment appelée « taux de marque » en distribution ou « taux de marge brute » en analyse financière."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Calculer votre marge brute en 5 étapes",
+      "intro": "Un calcul fiable commence par des données propres et un périmètre cohérent. Reprenez cette méthode à chaque clôture mensuelle ou trimestrielle.",
+      "steps": [
+        {
+          "title": "Choisissez la période et le périmètre",
+          "html": "<p>Déterminez si vous analysez l'ensemble de l'entreprise, une famille de produits, une prestation ou un client. Comparez ensuite des périodes de même durée et des périmètres identiques.</p>"
+        },
+        {
+          "title": "Relevez le chiffre d'affaires net HT",
+          "html": "<p>Partez des ventes facturées hors taxes et retirez les avoirs, retours et réductions accordées. Ne confondez pas encaissements et chiffre d'affaires : une facture peut être comptabilisée avant son règlement.</p>"
+        },
+        {
+          "title": "Calculez le coût des ventes réellement réalisées",
+          "html": "<p>En commerce, ajustez les achats avec la variation de stock. En services, rassemblez les dépenses directement attribuables aux missions réalisées, comme la sous-traitance ou les ressources techniques consommées.</p>"
+        },
+        {
+          "title": "Soustrayez et calculez les taux utiles",
+          "html": "<p>Déduisez le coût des ventes du chiffre d'affaires pour obtenir le montant de marge brute. Divisez ensuite par le chiffre d'affaires pour obtenir le ratio de marge brute ; si vous pilotez les prix d'achat, calculez aussi le ratio rapporté au coût.</p>"
+        },
+        {
+          "title": "Ventilez et comparez",
+          "html": "<p>Regardez l'évolution par rapport au mois précédent, à la même période de l'année et au budget. Une ventilation par produit, canal de vente ou client fait souvent apparaître les écarts les plus actionnables.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Interpréter une marge brute sans se tromper",
+      "html": "<p>Une marge brute élevée est souvent favorable, car elle donne davantage de capacité pour absorber les frais de structure. Elle n'est pourtant pas bonne ou mauvaise dans l'absolu. Une épicerie, un fabricant, un consultant indépendant et un éditeur de logiciel supportent des coûts directs très différents : leurs niveaux de marge comparables ne le seront donc pas forcément.</p><p>Le premier signal à surveiller est la <strong>tendance</strong>. Si le taux baisse alors que les ventes progressent, les promotions, la hausse des achats, un changement de mix produit, des pertes de stock ou une sous-estimation des coûts peuvent l'expliquer. À l'inverse, une amélioration peut venir d'une hausse de prix, d'une négociation fournisseur, de gains de productivité ou de ventes plus nombreuses sur des offres rentables.</p><p>Analysez également le montant de marge, pas seulement son pourcentage. Une offre à 70 % de marge qui se vend très peu ne finance pas nécessairement mieux l'entreprise qu'une offre à 35 % de marge générant un volume important. L'enjeu est la contribution totale aux charges fixes, en tenant compte des capacités de production et du besoin de trésorerie.</p><p>Enfin, la marge brute n'est ni le résultat net ni la trésorerie disponible. Une entreprise peut avoir une belle marge brute et rester déficitaire si ses coûts de structure sont trop élevés. Elle peut aussi subir une tension de trésorerie si ses stocks sont importants ou si ses clients paient tardivement.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L'erreur classique : appliquer une marge sur le mauvais montant",
+      "html": "<p>Ajouter 30 % à un coût d'achat ne revient pas à conserver 30 % du prix de vente. Avec un coût de 100 €, un prix de 130 € correspond à un taux de marge sur coût de 30 %, mais à un taux de marque d'environ 23 %. Avant de valider un tarif, notez explicitement la formule, le prix HT et les remises possibles.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Améliorer sa marge brute durablement",
+      "html": "<p>Le levier le plus visible est le prix, mais il ne se résume pas à une hausse uniforme. Vous pouvez revoir les tarifs des références sous-valorisées, facturer les options qui ont un coût réel, fixer un minimum de commande ou limiter les remises systématiques. Toute évolution de prix mérite toutefois d'être testée au regard de la valeur perçue, de la concurrence et de l'élasticité de la demande.</p><p>Le second levier concerne les coûts directs. Négocier les conditions fournisseurs, réduire les pertes et retours, rationaliser les emballages, acheter au bon volume ou mieux planifier la production peut améliorer la marge sans dégrader l'expérience client. Attention à ne pas rechercher le coût le plus bas au détriment de la qualité, des délais ou de la fiabilité.</p><p>Travaillez aussi votre <strong>mix de ventes</strong>. Mettez en avant les produits complémentaires, les prestations à forte valeur ajoutée et les clients dont le coût de service reste maîtrisé. À l'inverse, identifiez les références qui mobilisent beaucoup de temps, génèrent des retours ou imposent des remises excessives : elles peuvent nécessiter une hausse de prix, un nouveau processus ou un arrêt.</p><p>Un tableau de bord mensuel simple suffit souvent pour commencer : chiffre d'affaires HT, coût des ventes, marge en euros, ratio de marge, remises et marge par grande catégorie. Si vos règles d'affectation ou votre situation comptable sont complexes, un expert-comptable peut vous aider à construire des indicateurs adaptés à votre modèle économique.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "La marge brute n'est pas seulement un résultat comptable : c'est un outil de décision pour savoir quelles ventes méritent d'être développées, corrigées ou abandonnées.",
+      "author": ""
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la différence entre marge brute et bénéfice net ?",
+      "a_html": "<p>La marge brute est calculée après les seuls coûts directement liés aux ventes. Le bénéfice net est obtenu bien plus loin dans le compte de résultat, après déduction des charges de structure, des amortissements, des intérêts, des impôts et des autres éléments applicables.</p><p>Une marge brute positive est indispensable dans la plupart des activités, mais elle ne garantit pas à elle seule que l'entreprise est bénéficiaire.</p>"
+    },
+    {
+      "q": "Faut-il calculer la marge brute avec ou sans TVA ?",
+      "a_html": "<p>Le calcul se fait généralement <strong>hors taxes</strong>. La TVA facturée au client est collectée pour le compte de l'État et la TVA payée sur les achats peut être récupérable selon la situation de l'entreprise : elle ne reflète donc pas la rentabilité économique de la vente.</p><p>Utiliser tantôt des montants TTC, tantôt des montants HT fausse immédiatement les ratios. Gardez une règle unique dans votre suivi.</p>"
+    },
+    {
+      "q": "Comment calculer la marge brute d'une entreprise de services ?",
+      "a_html": "<p>Partez du chiffre d'affaires HT de la prestation et déduisez les coûts directement engagés pour la réaliser : sous-traitance dédiée, déplacements refacturés ou non selon votre règle, outils consommés pour le client, et éventuellement temps de production directement attribué.</p><p>Définissez clairement si les salaires de production entrent dans votre indicateur. Cette décision dépend du niveau d'analyse souhaité ; l'essentiel est de l'appliquer de façon constante.</p>"
+    },
+    {
+      "q": "Quel est un bon taux de marge brute ?",
+      "a_html": "<p>Il n'existe pas de seuil universel. Les commerces à fort volume peuvent fonctionner avec des ratios plus faibles que les activités de conseil, les logiciels ou certains services spécialisés. Le bon niveau est celui qui permet de couvrir durablement vos charges indirectes, d'investir et de rémunérer le risque de l'entreprise.</p><p>Comparez-vous en priorité à votre historique, à vos objectifs et à des acteurs ayant le même modèle économique, le même positionnement et une définition comparable des coûts directs.</p>"
+    },
+    {
+      "q": "Quelle différence entre taux de marge et taux de marque ?",
+      "a_html": "<p>Le taux de marge rapporte la marge au coût d'achat ou au coût de revient. Le taux de marque rapporte la marge au prix de vente HT ou au chiffre d'affaires. Pour un même produit, le taux de marge est donc généralement plus élevé que le taux de marque.</p><p>Dans les échanges commerciaux, les appellations peuvent varier. Demandez toujours si le pourcentage est calculé sur le coût ou sur le prix de vente avant de comparer deux chiffres.</p>"
+    },
+    {
+      "q": "Comment augmenter sa marge brute sans augmenter ses prix ?",
+      "a_html": "<p>Vous pouvez agir sur le coût fournisseur, les frais directement liés aux achats, le gaspillage, les erreurs de préparation, les retours, la productivité de réalisation et les remises accordées. Optimiser le mix de ventes en proposant davantage d'offres rentables est également efficace.</p><p>Mesurez l'impact réel de chaque action : une économie d'achat peut être annulée par davantage de retours ou une baisse de qualité. Une marge saine se construit sans fragiliser la satisfaction client.</p>"
+    }
+  ],
+  "conclusion_html": "<p>La marge brute révèle ce que vos ventes apportent réellement avant les frais de structure. Pour l'utiliser utilement, calculez-la hors taxes, intégrez uniquement les coûts directs selon une règle stable et suivez à la fois son montant et son taux.</p><p>Ne vous arrêtez pas à un pourcentage isolé : comparez les périodes, les produits et les clients, puis agissez sur les prix, les achats, les remises ou le mix de ventes. C'est cette lecture régulière qui transforme un simple indicateur en véritable outil de pilotage.</p>",
+  "__slug": "quest-ce-que-la-marge-brute"
+}

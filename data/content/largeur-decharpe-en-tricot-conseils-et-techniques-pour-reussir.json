@@ -1,0 +1,228 @@
+{
+  "title": "Quelle largeur choisir pour une écharpe en tricot ? Guide, calculs et finitions",
+  "meta_description": "Quelle largeur choisir pour tricoter une écharpe ? Repères en cm, calcul des mailles, points, fil et finitions pour un résultat confortable.",
+  "reading_time_min": 9,
+  "hero_intro": "Une écharpe réussie ne dépend pas seulement d'un joli point ou d'une belle laine : sa largeur décide de son confort, de son tombé et de son style. Trop fine, elle protège peu du froid ; trop large, elle peut devenir lourde ou encombrante. Voici comment choisir les bonnes dimensions, calculer vos mailles et obtenir une finition nette, quel que soit votre niveau.",
+  "key_takeaways": [
+    "Pour une écharpe adulte classique, une largeur de 18 à 25 cm est souvent polyvalente ; 25 à 35 cm convient à un modèle très enveloppant.",
+    "La largeur finale se calcule avec un échantillon lavé et séché : le numéro d'aiguilles seul ne permet pas de prévoir le bon nombre de mailles.",
+    "Les côtes et les torsades se resserrent, tandis que certains points ajourés ou un blocage énergique peuvent élargir l'ouvrage.",
+    "Le jersey roule naturellement : prévoyez une bordure stable ou choisissez un point réversible comme le point mousse ou le point de riz.",
+    "Avant de vous lancer, posez votre échantillon sur vous ou sur la personne à qui l'écharpe est destinée : c'est le test le plus parlant."
+  ],
+  "toc": [
+    "Les bonnes largeurs d'écharpe selon le style et la personne",
+    "Choisir la largeur en fonction de l'usage",
+    "Calculer le nombre de mailles à monter avec un échantillon",
+    "Méthode simple pour définir vos dimensions avant de tricoter",
+    "Quel point choisir : volume, souplesse et largeur réelle",
+    "Empêcher les bords de s'enrouler",
+    "Fil, longueur et budget : prévoir la bonne quantité",
+    "Ajuster et finir une écharpe aux belles proportions"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "La largeur d'une écharpe : une question de confort avant tout",
+      "html": "<p>Il n'existe pas une largeur universelle pour une écharpe en tricot. Le bon choix dépend de la personne qui la portera, de la saison, du volume du fil et de la façon dont l'écharpe sera nouée. Une écharpe fine se glisse facilement sous un manteau, tandis qu'un modèle large peut remplacer une petite étole et réchauffer les épaules.</p><p>Pour un adulte, <strong>18 à 25 cm</strong> constituent un excellent repère pour une écharpe classique : elle se porte facilement en un ou deux tours et convient à la plupart des silhouettes. Entre <strong>25 et 35 cm</strong>, vous obtenez une écharpe généreuse, plus chaude et plus spectaculaire. Au-delà de 35 cm, on s'approche d'une maxi-écharpe ou d'une étole ; le résultat peut être superbe, mais demande plus de fil et supporte moins bien les laines très épaisses.</p><p>Ne confondez pas largeur et chaleur. Une écharpe de 20 cm tricotée dans une laine chaude, dense et souple peut être plus protectrice qu'un large rectangle en fil fin très ajouré. L'objectif est de trouver un équilibre entre <strong>isolation, souplesse et facilité à porter</strong>.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Repères de largeur pour une écharpe en tricot",
+      "intro": "Ces dimensions sont des fourchettes pratiques pour démarrer. Adaptez-les au point, au fil et aux habitudes de la personne qui recevra l'écharpe.",
+      "columns": [
+        "Projet",
+        "Largeur finie conseillée",
+        "Longueur courante",
+        "Fil à prévoir, ordre de grandeur"
+      ],
+      "rows": [
+        [
+          "Enfant",
+          "12 à 16 cm",
+          "100 à 130 cm",
+          "Environ 100 à 200 g selon l'âge et l'épaisseur"
+        ],
+        [
+          "Adulte, modèle fin et discret",
+          "15 à 20 cm",
+          "140 à 170 cm",
+          "Environ 150 à 250 g"
+        ],
+        [
+          "Adulte, écharpe classique",
+          "18 à 25 cm",
+          "160 à 190 cm",
+          "Environ 200 à 350 g"
+        ],
+        [
+          "Écharpe très enveloppante",
+          "25 à 35 cm",
+          "170 à 210 cm",
+          "Environ 350 à 600 g"
+        ],
+        [
+          "Maxi-écharpe ou petite étole",
+          "35 à 50 cm",
+          "180 à 220 cm",
+          "Souvent 500 g ou davantage"
+        ]
+      ],
+      "note": "Les métrages varient fortement selon la grosseur du fil, le point utilisé et la longueur voulue. Vérifiez toujours le métrage indiqué sur la pelote plutôt que son poids seul."
+    },
+    {
+      "type": "key_points",
+      "heading": "Les critères à vérifier avant de choisir",
+      "points": [
+        "Une personne petite, un enfant ou un manteau déjà volumineux seront souvent mieux servis par une écharpe de largeur modérée.",
+        "Un fil bulky, une laine soufflée ou un point très texturé prennent beaucoup de place : réduisez volontiers la largeur visée de quelques centimètres.",
+        "Pour une écharpe portée comme une étole sur les épaules, privilégiez 30 cm ou plus et une matière suffisamment souple.",
+        "Un point très ajouré donne de l'ampleur visuelle mais laisse davantage passer l'air : compensez par une largeur un peu plus généreuse si la chaleur est prioritaire.",
+        "Si vous hésitez, visez 20 à 22 cm pour un adulte : c'est une dimension polyvalente et facile à porter."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Pourquoi l'échantillon est indispensable pour calculer vos mailles",
+      "html": "<p>La largeur indiquée dans un modèle n'est utile que si votre tension est identique à celle de la créatrice ou du créateur. Or, deux personnes utilisant le même fil et les mêmes aiguilles peuvent obtenir plusieurs centimètres d'écart sur une écharpe. Pour éviter de découvrir trop tard un ouvrage trop étroit ou disproportionné, réalisez un <strong>échantillon plus grand que 10 × 10 cm</strong>, idéalement sur 15 cm de côté lorsque le point est texturé.</p><p>Tricotez votre point définitif, avec les aiguilles prévues. Lavez ou humidifiez l'échantillon comme vous entretiendrez l'écharpe, laissez-le sécher à plat, puis mesurez la zone centrale sans l'étirer. Les fils naturels, les côtes, les torsades et les points ajourés peuvent changer après ce premier lavage.</p><p>La formule est simple : <strong>largeur souhaitée en cm × nombre de mailles par cm = nombre de mailles à monter</strong>. Si votre échantillon compte 18 mailles pour 10 cm, vous avez 1,8 maille par cm. Pour une largeur de 22 cm, montez donc environ 40 mailles. Ajoutez ensuite les mailles nécessaires à votre motif et à vos bordures, en respectant le multiple demandé par le point.</p><p>Gardez en tête que la mesure la plus utile est la <strong>largeur portée</strong>. Une écharpe en côtes peut sembler étroite au repos et s'élargir quand on l'enroule ; à l'inverse, des torsades tirent le tricot vers le centre. Mesurez sans tension excessive, comme l'ouvrage sera réellement utilisé.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Définir vos dimensions en cinq étapes simples",
+      "intro": "Cette méthode évite les calculs approximatifs et vous aide à décider avant d'avoir tricoté plusieurs dizaines de centimètres.",
+      "steps": [
+        {
+          "title": "Choisissez l'usage principal",
+          "html": "<p>Voulez-vous une écharpe légère pour la mi-saison, un accessoire quotidien ou un modèle protecteur pour l'hiver ? Notez une largeur cible à partir des repères précédents.</p>"
+        },
+        {
+          "title": "Testez la largeur en vrai",
+          "html": "<p>Découpez une bande de papier ou pliez un coupon de tissu à la largeur envisagée. Posez-le autour de votre cou et sous votre manteau : vous saurez vite si 18, 22 ou 30 cm vous conviennent.</p>"
+        },
+        {
+          "title": "Tricotez et lavez l'échantillon",
+          "html": "<p>Utilisez le fil, les aiguilles et le point exacts de votre projet. Mesurez uniquement une fois l'échantillon sec et stabilisé.</p>"
+        },
+        {
+          "title": "Calculez les mailles et vérifiez le motif",
+          "html": "<p>Multipliez la largeur cible par votre densité de mailles au centimètre. Arrondissez au multiple du motif, puis ajoutez les mailles de lisière ou de bordure.</p>"
+        },
+        {
+          "title": "Contrôlez dès les premiers centimètres",
+          "html": "<p>Après 5 à 8 cm de tricot, posez l'ouvrage à plat sans l'étirer. S'il est nettement trop étroit ou trop large, détricoter maintenant vous fera gagner beaucoup de temps.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Point de tricot : quelle influence sur la largeur finale ?",
+      "intro": "Le dessin du point modifie l'aspect, mais aussi le comportement de votre écharpe. Choisissez-le en fonction de l'effet recherché.",
+      "left": {
+        "title": "Points stables et réversibles",
+        "points": [
+          "Point mousse, point de riz, côtes et panier : beaux des deux côtés.",
+          "Bords généralement plus nets et moins sujets à l'enroulement.",
+          "Très adaptés aux débutants et aux écharpes sans doublure.",
+          "Les côtes se contractent : prévoyez un peu plus de mailles pour atteindre la largeur portée souhaitée."
+        ]
+      },
+      "right": {
+        "title": "Points décoratifs ou souples",
+        "points": [
+          "Jersey, torsades, dentelle et points ajourés : grand potentiel de style.",
+          "Le jersey roule sur les bords s'il n'est pas encadré.",
+          "Les torsades resserrent souvent le tricot et consomment davantage de fil.",
+          "Les ajourés peuvent s'ouvrir au blocage : mesurez impérativement l'échantillon après lavage."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention au piège du jersey",
+      "html": "<p>Une écharpe entièrement tricotée en jersey roulotte presque toujours sur les côtés et aux extrémités : ce n'est pas une erreur de votre part, c'est le comportement naturel de ce point. Pour une finition plate, prévoyez une bordure d'au moins 3 à 5 cm en point mousse, point de riz ou côtes, ou choisissez un point réversible sur toute la largeur.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Des bords nets sans alourdir l'écharpe",
+      "html": "<p>Une bordure bien pensée améliore à la fois la tenue et le rendu visuel. Sur une écharpe en jersey, tricoter quelques mailles de chaque côté au point mousse est une solution simple. Vous pouvez aussi encadrer le panneau central par du point de riz : la texture est discrète, stable et très élégante.</p><p>Les <strong>mailles lisières</strong> facilitent également la finition. Par exemple, glisser la première maille de certains rangs peut créer une chaînette régulière sur le bord. Cette technique ne remplace pas une bordure anti-enroulement, mais elle donne des côtés propres et facilite l'ajout éventuel de franges.</p><p>Évitez les bordures trop étroites sur une large zone de jersey : deux mailles seulement ne suffisent souvent pas à contrer la force d'enroulement. À l'inverse, une bordure très large peut raidir l'ouvrage. Une proportion de 3 à 5 cm est un bon point de départ, à ajuster selon l'épaisseur du fil.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Fil, aiguilles et budget : anticiper l'ampleur du projet",
+      "intro": "Plus votre écharpe est large, plus le choix du fil influe sur son poids, son drapé et son coût final.",
+      "columns": [
+        "Choix de fil",
+        "Effet sur une écharpe large",
+        "Aiguilles, en général",
+        "Budget indicatif pour une écharpe adulte"
+      ],
+      "rows": [
+        [
+          "Laine ou mélange laine",
+          "Chaud, élastique, souvent facile à mettre en forme",
+          "Selon l'étiquette, fréquemment 3,5 à 5 mm",
+          "Souvent 20 à 60 €"
+        ],
+        [
+          "Alpaga, mohair ou fil aérien",
+          "Très chaud mais léger ; peut demander un entretien délicat",
+          "Souvent 3,5 à 6 mm selon le montage",
+          "Souvent 30 à 90 € ou plus"
+        ],
+        [
+          "Coton ou lin",
+          "Tombé plus lourd, peu élastique ; agréable en mi-saison",
+          "Souvent 3 à 5 mm",
+          "Souvent 15 à 50 €"
+        ],
+        [
+          "Fil très épais",
+          "Projet rapide, volume important, mais écharpe vite lourde",
+          "Souvent 7 à 12 mm",
+          "Souvent 30 à 80 € selon la quantité"
+        ]
+      ],
+      "note": "Ces budgets sont des ordres de grandeur pour des pelotes neuves. Une maxi-écharpe, une fibre haut de gamme ou un point à torsades peut faire grimper la quantité nécessaire."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe avant d'acheter les pelotes",
+      "html": "<p>Calculez d'abord le métrage total estimé, puis achetez toutes les pelotes du même bain de teinture si possible. Pour une première écharpe, prévoyez une pelote de marge ou choisissez un modèle dont la longueur peut être arrêtée selon le fil restant. Vous éviterez de raccourcir le projet dans l'urgence ou de chercher une teinte légèrement différente.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Longueur, blocage et ajustements : les détails qui font la différence",
+      "html": "<p>La largeur doit dialoguer avec la longueur. Une écharpe de 20 à 25 cm est souvent harmonieuse autour de <strong>160 à 190 cm</strong> pour un adulte, ce qui permet un tour de cou confortable et des pans visibles. Une écharpe très large gagne à être un peu plus longue si vous souhaitez l'enrouler, mais elle peut aussi rester plus courte lorsqu'elle est pensée comme une étole posée sur les épaules.</p><p>Le blocage est l'étape qui révèle vraiment les dimensions finales. Après lavage, étalez l'écharpe sur une serviette, remettez-la délicatement à sa largeur mesurée et laissez-la sécher à plat. N'étirez pas fortement une laine élastique si vous voulez conserver du gonflant. Pour un ajouré, au contraire, un blocage plus marqué peut ouvrir le motif : faites toujours un essai sur votre échantillon.</p><p>Votre écharpe est presque finie mais trop étroite ? Si le point est extensible et que le fil s'y prête, un blocage doux peut parfois gagner un peu de largeur, sans miracle. Si elle est trop large, il est rarement possible de la rétrécir proprement après coup. C'est pourquoi l'échantillon, le contrôle des premiers rangs et des mesures régulières restent vos meilleurs alliés.</p><p>Enfin, soignez le rabattage. Un rabattage trop serré resserre l'extrémité et donne une impression de largeur inégale. Utilisez une aiguille légèrement plus grosse ou une méthode de rabattage souple, surtout sur les côtes et les points texturés. Votre écharpe tombera mieux et restera agréable à porter.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle largeur pour une écharpe femme ou homme ?",
+      "a_html": "<p>Il n'y a pas de largeur strictement liée au genre. Pour un adulte, une écharpe de <strong>18 à 25 cm</strong> est un choix très polyvalent. Une personne qui aime les accessoires discrets appréciera souvent 15 à 20 cm, tandis qu'un style enveloppant ou une utilisation par grand froid justifie 25 à 35 cm.</p><p>Le gabarit, le manteau porté et les préférences comptent davantage que l'étiquette « femme » ou « homme ».</p>"
+    },
+    {
+      "q": "Combien de mailles faut-il monter pour une écharpe de 20 cm de large ?",
+      "a_html": "<p>Tout dépend de votre échantillon. Divisez le nombre de mailles de votre carré de 10 cm par 10, puis multipliez par 20. Avec 18 mailles pour 10 cm, vous obtenez 1,8 maille par cm : il faut donc environ 36 mailles pour 20 cm.</p><p>Ajoutez ou retirez quelques mailles pour respecter le multiple de votre point et inclure les éventuelles bordures. Mesurez l'échantillon après lavage pour un calcul fiable.</p>"
+    },
+    {
+      "q": "Quelle largeur d'écharpe pour un enfant ?",
+      "a_html": "<p>Une largeur de <strong>12 à 16 cm</strong> convient généralement bien à un enfant. Elle tient chaud sans créer trop de volume autour du cou. Préférez une longueur adaptée à son âge et évitez les modèles excessivement longs ou les franges très longues, qui peuvent être moins pratiques au quotidien.</p><p>Les points mousse et de riz sont particulièrement intéressants : ils sont souples, réversibles et ne roulent pas.</p>"
+    },
+    {
+      "q": "Pourquoi mon écharpe en tricot est-elle plus étroite que prévu ?",
+      "a_html": "<p>Les causes fréquentes sont une tension de tricot plus serrée que celle attendue, des côtes qui se contractent, des torsades qui resserrent l'ouvrage ou un échantillon mesuré avant lavage. Le fil peut aussi gonfler ou se resserrer après son premier entretien.</p><p>Mesurez votre travail à plat tous les quelques centimètres. Si l'écart est visible au début, mieux vaut défaire et corriger le nombre de mailles ou la taille des aiguilles.</p>"
+    },
+    {
+      "q": "Quelle largeur choisir pour une maxi-écharpe ?",
+      "a_html": "<p>Une maxi-écharpe mesure souvent entre <strong>30 et 50 cm</strong> de large. Vers 30 à 35 cm, elle reste assez facile à enrouler. À partir de 40 cm, elle se rapproche d'une étole et demande un fil léger ou très souple pour ne pas devenir pesante.</p><p>Avant de commencer, vérifiez le métrage nécessaire : doubler la largeur augmente presque d'autant la quantité de fil et le temps de tricot.</p>"
+    },
+    {
+      "q": "Comment empêcher une écharpe en jersey de rouler ?",
+      "a_html": "<p>Ajoutez une bordure de 3 à 5 cm en point mousse, point de riz ou côtes sur les deux côtés et aux extrémités. Vous pouvez aussi abandonner le jersey pour un point réversible sur toute l'écharpe.</p><p>Le blocage peut atténuer temporairement l'enroulement, mais il ne neutralise pas durablement le comportement naturel du jersey sans bordure structurée.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour choisir la largeur d'une écharpe en tricot, partez de l'usage : <strong>18 à 25 cm</strong> offrent une base sûre pour un modèle adulte classique, tandis qu'une largeur de 25 à 35 cm crée un accessoire plus généreux. Ensuite, laissez votre échantillon guider le nombre de mailles, car le fil et le point changent tout.</p><p>Une bordure stable, un rabattage souple et un blocage adapté transformeront votre tricot en accessoire durable et agréable à porter. Prenez quelques minutes pour tester vos dimensions avant de monter les mailles : c'est le geste simple qui rendra votre écharpe vraiment réussie.</p>",
+  "__slug": "largeur-decharpe-en-tricot-conseils-et-techniques-pour-reussir"
+}

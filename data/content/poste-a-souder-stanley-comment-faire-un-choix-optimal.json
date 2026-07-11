@@ -1,0 +1,251 @@
+{
+  "title": "Poste à souder Stanley : bien choisir selon vos travaux et votre budget",
+  "meta_description": "Choisissez un poste à souder Stanley adapté à vos travaux : procédés, puissance, cycle de marche, budget, sécurité et conseils pratiques.",
+  "reading_time_min": 10,
+  "hero_intro": "J'aimerais réparer un portail, fabriquer une étagère métallique ou assembler un châssis sans acheter un poste à souder surdimensionné. Un poste à souder Stanley peut constituer une solution pratique pour les travaux domestiques et les projets de bricolage, à condition de sélectionner le bon procédé et les bonnes caractéristiques. Voici les critères concrets pour faire un choix durable, sûr et réellement adapté à votre niveau.",
+  "key_takeaways": [
+    "Commencez par identifier le métal, son épaisseur et la fréquence de vos travaux : ce sont les critères qui déterminent le procédé de soudage.",
+    "Pour les réparations courantes en acier, un poste inverter MMA de 140 à 160 A est souvent un compromis pertinent pour un particulier équipé en 230 V.",
+    "Ne regardez pas seulement l'ampérage : le cycle de marche, la compatibilité des électrodes, la longueur des câbles et les accessoires comptent tout autant.",
+    "Un poste Stanley doit être choisi sur sa fiche technique, sa garantie et la disponibilité des consommables, car les références proposées peuvent varier selon les distributeurs.",
+    "La sécurité est indissociable du soudage : masque adapté, gants, vêtements couvrants, ventilation et protection contre l'incendie sont indispensables."
+  ],
+  "toc": [
+    "Définir l'usage avant de comparer les postes Stanley",
+    "MMA, MIG/MAG ou TIG : quel procédé choisir ?",
+    "Puissance, cycle de marche et alimentation électrique",
+    "Les critères techniques à vérifier sur la fiche produit",
+    "Choisir son poste à souder Stanley en 5 étapes",
+    "Budget, accessoires et erreurs à éviter",
+    "Réussir ses premières soudures en sécurité"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Définir l'usage avant de comparer les postes Stanley",
+      "html": "<p>Le meilleur poste à souder Stanley n'est pas nécessairement le plus puissant ni le plus complet : c'est celui qui répond à vos travaux réels. Avant d'ouvrir les comparateurs, listez les pièces que vous souhaitez souder : cornières pour une étagère, tubes de portail, platines, supports de remorque, mobilier en acier ou tôles fines. Notez également leur épaisseur approximative et la fréquence à laquelle vous utiliserez la machine.</p><p>Pour des réparations ponctuelles sur de l'acier ordinaire, un poste <strong>inverter MMA</strong>, aussi appelé soudage à l'arc à l'électrode enrobée, est généralement le choix le plus simple. Il est compact, relativement abordable et se transporte facilement. En revanche, il demande un peu de pratique et se montre moins à l'aise sur les tôles très fines.</p><p>Ne choisissez pas uniquement parce que le produit porte la marque Stanley ou Stanley Fatmax. Les gammes, les distributeurs et les conditions de garantie peuvent évoluer. Vérifiez toujours la référence exacte, le manuel, la tension d'alimentation, les accessoires réellement inclus et les possibilités de service après-vente au moment de l'achat.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les trois questions qui évitent un mauvais achat",
+      "points": [
+        "Quel métal allez-vous souder ? L'acier carbone est le plus simple ; l'inox, l'aluminium et la fonte exigent davantage de méthode et de consommables adaptés.",
+        "Quelle épaisseur visez-vous ? Une tôle de 1 mm, un tube de 2 mm et une platine de 8 mm ne demandent ni la même technique ni la même intensité.",
+        "Travaillez-vous occasionnellement ou plusieurs heures d'affilée ? Le cycle de marche devient décisif pour les usages soutenus.",
+        "Votre installation électrique dispose-t-elle d'une prise 230 V correctement protégée et proche de l'espace de travail ?",
+        "Avez-vous besoin de mobilité ? Le poids, la poignée, la longueur des câbles et l'éventuelle compatibilité avec un groupe électrogène peuvent faire la différence."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quel type de poste correspond à votre projet ?",
+      "intro": "Le procédé de soudage doit guider votre sélection avant toute comparaison de puissance ou de prix.",
+      "columns": [
+        "Procédé",
+        "Usages pertinents",
+        "Points forts",
+        "Limites à connaître"
+      ],
+      "rows": [
+        [
+          "MMA / électrode enrobée",
+          "Réparation, portail, serrurerie légère, acier de 2 à 10 mm environ selon le poste et l'expérience",
+          "Robuste, mobile, peu sensible au vent, pas de bouteille de gaz",
+          "Finition avec laitier à retirer ; difficile sur tôle fine ; apprentissage nécessaire"
+        ],
+        [
+          "MIG/MAG avec fil",
+          "Assemblages répétés, tubes, tôles, fabrication de mobilier, travaux en atelier",
+          "Rapide, cordon souvent plus régulier, très pratique sur l'acier fin avec réglages adaptés",
+          "Plus encombrant ; fil et gaz à prévoir selon le mode ; sensible aux courants d'air"
+        ],
+        [
+          "TIG",
+          "Inox, acier fin, travaux visibles et précision élevée",
+          "Très belle finition, contrôle précis de l'apport de chaleur",
+          "Technique plus exigeante, lente et souvent plus coûteuse ; équipements complémentaires nécessaires"
+        ],
+        [
+          "MMA avec fonction TIG Lift",
+          "Bricolage polyvalent avec envie d'évoluer ponctuellement vers le TIG",
+          "Peut ouvrir la porte au TIG sur acier ou inox selon l'équipement",
+          "Ne remplace pas forcément un véritable poste TIG complet ; vérifier la torche et les fonctions incluses"
+        ]
+      ],
+      "note": "Les capacités réelles dépendent du poste, des réglages, de la préparation des pièces et de votre maîtrise. L'aluminium demande habituellement un équipement TIG AC ou MIG spécifique, rarement un simple poste MMA."
+    },
+    {
+      "type": "prose",
+      "heading": "MMA, MIG/MAG ou TIG : le bon compromis pour un particulier",
+      "html": "<p>Dans l'univers des postes compacts attribués à Stanley, les modèles inverter MMA sont souvent les plus pertinents pour débuter. L'arc est créé entre une électrode consommable et la pièce ; l'enrobage de l'électrode protège le bain de fusion. Cette solution convient très bien à un cadre de portail, une équerre, un piètement ou une réparation extérieure, y compris lorsqu'un léger vent rend le gaz de protection difficile à utiliser.</p><p>Le MIG/MAG devient plus confortable si vous fabriquez souvent des meubles métalliques ou assemblez des tubes et des tôles en atelier. Le fil est entraîné en continu, ce qui facilite les cordons longs. Mais la machine, la bobine de fil, la torche et la gestion du gaz ou du fil fourré demandent davantage d'organisation. Il ne faut donc pas acheter un MIG uniquement parce qu'il paraît plus facile : pour quelques réparations par an, le surcoût et l'encombrement ne sont pas toujours justifiés.</p><p>Le TIG s'adresse surtout aux personnes qui recherchent une finition très propre sur acier ou inox et acceptent un apprentissage plus méthodique. Si votre projet est principalement fonctionnel, un bon MMA inverter et quelques heures d'entraînement sur des chutes d'acier offrent un résultat bien plus utile qu'un poste sophistiqué mal maîtrisé.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Poste MMA inverter ou poste MIG/MAG : lequel choisir ?",
+      "intro": "Ces deux approches répondent à des besoins différents. Voici un repère rapide pour éviter de payer des fonctions que vous n'utiliserez pas.",
+      "left": {
+        "title": "Choisissez plutôt un MMA inverter",
+        "points": [
+          "Vous réparez ponctuellement un portail, une remorque, une structure ou des outils en acier.",
+          "Vous travaillez parfois dehors ou dans un lieu peu abrité du vent.",
+          "Vous privilégiez un appareil compact, facile à ranger et à transporter.",
+          "Vous acceptez de nettoyer le laitier et de vous entraîner à amorcer l'arc.",
+          "Votre budget est limité et les finitions parfaitement esthétiques ne sont pas prioritaires."
+        ]
+      },
+      "right": {
+        "title": "Choisissez plutôt un MIG/MAG",
+        "points": [
+          "Vous réalisez souvent des assemblages en atelier.",
+          "Vous soudez fréquemment des tubes ou des tôles d'épaisseur modérée.",
+          "Vous voulez enchaîner des cordons longs avec une vitesse de travail régulière.",
+          "Vous disposez d'un espace ventilé, abrité des courants d'air et suffisamment grand.",
+          "Vous êtes prêt à gérer les consommables : fil, galets, buses, pointes de contact et éventuellement gaz."
+        ]
+      }
+    },
+    {
+      "type": "stats",
+      "heading": "Trois repères techniques à comprendre",
+      "items": [
+        {
+          "value": "230 V",
+          "label": "alimentation domestique de la majorité des postes de bricolage ; vérifiez néanmoins la prise, la protection et la rallonge utilisée."
+        },
+        {
+          "value": "60 %",
+          "label": "un cycle de marche à 60 % signifie généralement 6 minutes de soudage sur 10, dans les conditions de test indiquées par le fabricant."
+        },
+        {
+          "value": "2,5 mm",
+          "label": "diamètre d'électrode polyvalent pour de nombreux travaux courants sur acier, à adapter à l'épaisseur et au poste."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Puissance, cycle de marche et alimentation : lire la fiche technique sans se tromper",
+      "html": "<p>L'intensité maximale, exprimée en ampères, donne une indication utile mais incomplète. Pour de petits travaux, un appareil réglable autour de <strong>100 à 140 A</strong> peut suffire. Pour gagner en confort sur des pièces courantes de 2 à 5 mm et utiliser des électrodes de 2,5 ou 3,2 mm, un poste affichant environ <strong>140 à 160 A</strong> constitue souvent une base équilibrée. Au-delà, l'intérêt dépend de vos épaisseurs, de votre pratique et de votre installation électrique.</p><p>Regardez surtout le <strong>cycle de marche</strong> à une intensité donnée. Un poste annoncé à 160 A mais utilisable seulement très brièvement à cette puissance peut imposer des pauses de refroidissement sur de gros assemblages. Comparez donc des valeurs comparables : par exemple le pourcentage annoncé à 100 A, 140 A ou à l'intensité maximale, ainsi que les conditions de température mentionnées dans la notice.</p><p>La plupart des appareils destinés au particulier se branchent sur une alimentation monophasée 230 V. Évitez les rallonges trop longues, sous-dimensionnées ou enroulées sur leur touret : elles peuvent chauffer et provoquer une chute de tension. Pour un poste puissant, une ligne dédiée et correctement protégée est préférable. En cas de doute sur votre tableau électrique ou votre usage avec un groupe électrogène, suivez impérativement les exigences du fabricant et demandez conseil à un électricien qualifié.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "La check-list technique d'un poste à souder Stanley",
+      "intro": "Au moment de comparer deux références, examinez les caractéristiques ci-dessous plutôt que de vous fier au seul prix affiché.",
+      "columns": [
+        "Critère",
+        "Pourquoi c'est important",
+        "Bon réflexe avant l'achat"
+      ],
+      "rows": [
+        [
+          "Plage d'intensité réglable",
+          "Elle doit couvrir vos électrodes et vos épaisseurs de métal.",
+          "Privilégier un réglage progressif lisible plutôt qu'une simple valeur maximale flatteuse."
+        ],
+        [
+          "Diamètre d'électrodes compatible",
+          "Il conditionne les travaux réalisables en MMA.",
+          "Vérifier au minimum la compatibilité avec des électrodes de 2,5 mm ; 3,2 mm apporte plus de marge pour les pièces épaisses."
+        ],
+        [
+          "Cycle de marche",
+          "Il détermine le temps de soudage avant une pause de refroidissement.",
+          "Comparer le pourcentage à la même intensité, pas seulement la valeur maximale."
+        ],
+        [
+          "Fonctions d'aide à l'arc",
+          "Hot Start, Arc Force et Anti-Stick peuvent faciliter l'amorçage et limiter le collage de l'électrode.",
+          "Lire la notice : les noms et l'efficacité des fonctions varient selon les appareils."
+        ],
+        [
+          "Câbles et pince de masse",
+          "Des câbles courts ou des pinces fragiles réduisent le confort et la qualité du contact.",
+          "Contrôler longueur, section apparente, robustesse des connecteurs et disponibilité de pièces de rechange."
+        ],
+        [
+          "Accessoires inclus",
+          "Un masque tenu à la main ou une petite brosse peuvent dépanner, mais rarement équiper durablement.",
+          "Considérer le contenu du carton comme un bonus, puis budgéter un vrai masque et des gants."
+        ],
+        [
+          "Garantie et SAV",
+          "Un poste à souder est sollicité par la chaleur, la poussière et les chocs.",
+          "Conserver facture et référence ; vérifier le vendeur, les exclusions et les modalités de prise en charge."
+        ]
+      ],
+      "note": "Les caractéristiques exactes diffèrent selon la référence, le pays de commercialisation et le distributeur. La notice du modèle convoité reste le document de référence."
+    },
+    {
+      "type": "steps",
+      "heading": "Choisir votre poste à souder Stanley en 5 étapes",
+      "intro": "Cette méthode permet de passer d'une envie générale à une décision concrète, sans suréquiper votre atelier.",
+      "steps": [
+        {
+          "title": "1. Décrivez votre premier projet réel",
+          "html": "<p>Écrivez le métal, l'épaisseur, la longueur approximative des soudures et le lieu de travail. Par exemple : réparer un portillon en acier avec des tubes de 2 mm, dans un garage ouvert. Cette description oriente naturellement vers un MMA compact plutôt que vers un équipement industriel.</p>"
+        },
+        {
+          "title": "2. Choisissez le procédé avant la marque",
+          "html": "<p>Pour l'acier courant et les réparations, partez sur le MMA. Pour des tôles et tubes assemblés régulièrement en intérieur, étudiez le MIG/MAG. Pour une finition fine sur inox, envisagez le TIG. Ensuite seulement, comparez les postes disponibles dans votre budget.</p>"
+        },
+        {
+          "title": "3. Dimensionnez la puissance avec une marge raisonnable",
+          "html": "<p>Ne prenez pas un appareil juste capable de faire fondre l'électrode envisagée. Un peu de marge améliore le confort, à condition que votre alimentation suive. Pour un usage domestique polyvalent, une plage montant vers 140 ou 160 A est souvent plus sereine qu'un très petit poste limité.</p>"
+        },
+        {
+          "title": "4. Comparez le coût complet",
+          "html": "<p>Ajoutez au prix du poste les électrodes ou le fil, le masque automatique, les gants, les vêtements de protection, les disques de préparation et une éventuelle rallonge adaptée. Une offre bon marché peut perdre son intérêt si les équipements essentiels sont absents.</p>"
+        },
+        {
+          "title": "5. Vérifiez l'achat et préparez votre espace",
+          "html": "<p>Avant de commander, relisez la fiche technique et les avis portant sur le même numéro de référence. À réception, contrôlez les câbles, les connecteurs, la pince de masse, la notice et les conditions de garantie. Préparez ensuite un espace ventilé, dégagé de tout produit inflammable.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne sous-estimez jamais la sécurité",
+      "html": "<p>Le soudage expose à des rayonnements intenses, des projections brûlantes, des fumées métalliques et des risques d'incendie. Portez un masque de soudage adapté, des gants de soudeur, des vêtements couvrants en coton ou en tissu de protection et des chaussures fermées. Éloignez solvants, carburants, bois sec et batteries ; gardez un moyen d'extinction approprié à proximité et ne soudez jamais un récipient ayant contenu un produit inflammable.</p><p>Ventilez le lieu de travail sans créer un courant d'air gênant pour le bain de fusion. Ne regardez jamais l'arc sans protection, même quelques secondes, et protégez les personnes proches avec un écran de soudage si nécessaire.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Quel budget prévoir, et quels accessoires acheter en priorité ?",
+      "html": "<p>Pour un poste MMA inverter destiné au bricolage, les premiers prix se situent souvent autour de <strong>100 à 150 €</strong>. Une machine mieux dotée, avec une puissance plus confortable, une fabrication plus robuste ou un meilleur cycle de marche, se rencontre fréquemment entre <strong>150 et 300 €</strong>. Les postes MIG/MAG et TIG complets demandent généralement un budget plus élevé, auquel s'ajoutent leurs consommables et, selon le procédé, le gaz de protection. Ces montants restent des ordres de grandeur : les promotions, packs et références font varier fortement le prix.</p><p>Ne consacrez pas tout le budget à la machine. Un <strong>masque automatique</strong> correct, réglable et adapté au soudage à l'arc apporte beaucoup de confort par rapport à une cagoule tenue à la main. Ajoutez des gants en cuir, une brosse marteau pour le MMA, une meuleuse ou des disques pour préparer les bords, ainsi que des électrodes adaptées à l'acier travaillé. Une bonne préparation des pièces améliore souvent davantage le résultat qu'une hausse de quelques dizaines d'ampères.</p><p>Pour débuter, prévoyez des chutes d'acier propre de même épaisseur que votre projet. Entraînez-vous à amorcer, maintenir une distance régulière et déposer de petits cordons. Réglez l'intensité progressivement selon l'électrode et observez le résultat : une électrode qui colle peut signaler une intensité trop faible, tandis qu'un métal percé ou très projeté peut révéler un réglage trop fort ou une mauvaise gestuelle.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le conseil qui fait vraiment progresser",
+      "html": "<p>Avant de souder la pièce définitive, réalisez plusieurs essais sur des chutes préparées de la même manière. Nettoyez rouille, peinture, graisse et galvanisation au voisinage du joint. Faites ensuite un test mécanique simple sur votre éprouvette : une soudure visuellement correcte doit aussi tenir à l'effort. Pour une structure porteuse, un élément de sécurité ou une pièce soumise à une réglementation, faites appel à un professionnel qualifié.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel poste à souder Stanley choisir pour un débutant ?",
+      "a_html": "<p>Pour apprendre à réparer ou assembler de l'acier courant, un poste inverter MMA compact est généralement le choix le plus accessible. Cherchez une intensité réglable, la compatibilité avec des électrodes de 2,5 mm, un cycle de marche clairement indiqué et des fonctions facilitant l'amorçage si elles sont proposées.</p><p>Prévoyez surtout un masque automatique et des chutes d'acier pour vous exercer. La qualité de la préparation et la pratique auront plus d'effet sur vos premiers résultats qu'un appareil très puissant.</p>"
+    },
+    {
+      "q": "Quelle puissance faut-il pour souder un portail en acier ?",
+      "a_html": "<p>Un portail comporte souvent des tubes ou profilés de quelques millimètres d'épaisseur. Un poste MMA capable de travailler confortablement autour de 100 à 140 A, voire de monter vers 160 A, convient fréquemment à ce type de tâche avec des électrodes adaptées.</p><p>La puissance exacte dépend de l'épaisseur, du type d'électrode, de la position de soudage et de l'état du métal. Retirez impérativement peinture, rouille et zinc à proximité de la zone à souder, et travaillez dans un espace ventilé.</p>"
+    },
+    {
+      "q": "Peut-on souder de la tôle fine avec un poste à l'arc MMA ?",
+      "a_html": "<p>C'est possible, mais délicat. Sur une tôle fine, la chaleur concentrée du MMA augmente le risque de perçage et de déformation. Il faut employer une électrode fine, réduire l'intensité, faire des points successifs et laisser refroidir entre les points.</p><p>Si vous soudez régulièrement de la carrosserie ou des tôles très minces, un MIG/MAG correctement réglé est souvent plus adapté. Ne choisissez donc pas un MMA pour cet usage unique si la finesse de résultat est essentielle.</p>"
+    },
+    {
+      "q": "Faut-il une prise spéciale pour utiliser un poste à souder Stanley ?",
+      "a_html": "<p>De nombreux postes de bricolage fonctionnent sur une prise monophasée 230 V, mais il ne faut pas en déduire que toute prise ou rallonge convient. Consultez la puissance absorbée, le calibre de protection recommandé dans la notice et l'état de votre installation.</p><p>Utilisez une rallonge de section suffisante, aussi courte que possible et entièrement déroulée. Si l'appareil fait déclencher régulièrement la protection, n'augmentez pas le calibre au hasard : faites vérifier l'installation.</p>"
+    },
+    {
+      "q": "Un poste MMA permet-il de souder l'inox et la fonte ?",
+      "a_html": "<p>Avec des électrodes spécifiques, un poste MMA peut souder certains aciers inoxydables et réaliser des réparations sur fonte. Cependant, le choix du consommable, le préchauffage éventuel, la préparation et le refroidissement sont déterminants.</p><p>Ces matériaux sont plus exigeants que l'acier ordinaire. Pour une pièce coûteuse, esthétique, alimentaire ou soumise à de fortes contraintes, il est prudent de vous entraîner d'abord ou de consulter un soudeur expérimenté.</p>"
+    },
+    {
+      "q": "Les accessoires fournis avec un poste à souder sont-ils suffisants ?",
+      "a_html": "<p>Ils permettent parfois de démarrer, mais constituent rarement un équipement complet sur le long terme. Les masques d'entrée de gamme inclus dans certains packs peuvent dépanner, sans offrir le confort d'un masque automatique de qualité. Les gants, vêtements de protection, consommables et outils de préparation restent à prévoir.</p><p>Examinez précisément le contenu du carton : porte-électrode, pince de masse, câbles, brosse marteau, masque et électrodes. Ne confondez pas un pack prêt à essayer avec un atelier réellement équipé en sécurité.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour bien choisir un poste à souder Stanley, partez de vos pièces à assembler plutôt que d'une promesse de puissance. Un <strong>MMA inverter de puissance raisonnablement confortable</strong>, associé à des électrodes adaptées et à de bons équipements de protection, répond à la plupart des réparations domestiques sur acier.</p><p>Comparez la référence précise, le cycle de marche, la qualité des câbles, le coût des accessoires et les conditions de garantie. Puis prenez le temps de vous entraîner : en soudage, un poste bien choisi est un excellent point de départ, mais la préparation et le geste font la solidité du résultat.</p>",
+  "__slug": "poste-a-souder-stanley-comment-faire-un-choix-optimal"
+}

@@ -1,0 +1,196 @@
+{
+  "title": "Comment faire de l'enduit : préparer et appliquer un mur lisse",
+  "meta_description": "Préparer et appliquer un enduit mural sans traces : choix du produit, dosage, outils, gestes et temps de séchage pour un mur prêt à peindre.",
+  "reading_time_min": 10,
+  "hero_intro": "Un mur marqué, des trous de chevilles ou une peinture irrégulière ne demandent pas forcément de gros travaux. Avec le bon enduit, quelques outils simples et une méthode progressive, vous pouvez retrouver une surface nette avant de peindre ou de tapisser. Le secret n'est pas de mettre beaucoup de matière, mais de choisir le bon produit et de travailler en couches fines.",
+  "key_takeaways": [
+    "Choisissez l'enduit selon le défaut à corriger : rebouchage pour les trous, garnissant pour les irrégularités et lissage pour la finition.",
+    "Pour un enduit en poudre, versez toujours la poudre dans l'eau propre et respectez en priorité le dosage indiqué par le fabricant.",
+    "Appliquez plusieurs couches minces plutôt qu'une couche trop épaisse : le séchage sera plus régulier et le ponçage plus facile.",
+    "N'enduisez jamais un mur humide, poudreux ou mal fixé : la préparation du support conditionne la tenue du résultat.",
+    "Attendez que l'enduit soit entièrement sec avant de poncer, dépoussiérer puis peindre."
+  ],
+  "toc": [
+    "Comprendre le rôle de chaque enduit",
+    "Enduit en poudre ou prêt à l'emploi ?",
+    "Choisir l'enduit adapté à son mur",
+    "Le matériel et le budget à prévoir",
+    "Préparer son support avant l'enduisage",
+    "Faire et appliquer l'enduit pas à pas",
+    "Poncer, contrôler et peindre",
+    "Les cas particuliers et erreurs à éviter"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre le rôle de chaque enduit",
+      "html": "<p>Faire de l'enduit ne consiste pas seulement à mélanger une pâte : il faut d'abord identifier ce que votre mur doit corriger. Un <strong>enduit de rebouchage</strong> comble les trous, éclats, petites saignées et fissures stables. Un <strong>enduit garnissant</strong> rattrape les défauts plus étendus d'un mur irrégulier. Enfin, un <strong>enduit de lissage</strong> s'applique en voile fin pour obtenir une surface uniforme avant une peinture mate, satinée ou un papier peint.</p><p>Sur un mur intérieur courant, l'enduit s'applique sur un support sain : plâtre, plaque de plâtre, ciment, béton ou ancienne peinture bien adhérente. Il ne règle pas un problème d'humidité, une fissure qui évolue, un mur friable ou un revêtement qui se décolle. Dans ces situations, traitez d'abord la cause et stabilisez le support.</p><p>Ne confondez pas l'enduit mural avec le plâtre de moulage ou un mélange improvisé de sable, ciment et eau. Les enduits prêts à l'emploi ou en poudre sont formulés pour adhérer, se lisser et se poncer dans des conditions précises. Pour une petite rénovation intérieure, ils donnent un résultat bien plus prévisible.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel avant de commencer",
+      "points": [
+        "Travaillez à une température modérée, dans une pièce ventilée mais sans courant d'air violent.",
+        "Retirez les parties qui s'effritent et dépoussiérez soigneusement avant toute application.",
+        "Préparez de petites quantités d'enduit en poudre : une fois la prise commencée, il ne se rattrape pas avec de l'eau.",
+        "Gardez un couteau large pour lisser et un couteau étroit pour charger, reboucher et nettoyer les bords.",
+        "Contrôlez le mur à la lumière rasante : elle révèle les creux et les surépaisseurs avant la mise en peinture."
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Enduit en poudre ou prêt à l'emploi ?",
+      "intro": "Les deux formats peuvent offrir une belle finition. Le choix dépend surtout de la surface à traiter, de votre rythme de travail et de votre besoin de simplicité.",
+      "left": {
+        "title": "Enduit en poudre",
+        "points": [
+          "Souvent plus économique au kilo, particulièrement pour une grande surface.",
+          "Se conserve longtemps tant que le sac reste fermé et parfaitement au sec.",
+          "Permet de préparer seulement la quantité nécessaire.",
+          "Demande un dosage soigneux, un seau propre et un malaxage sans grumeaux.",
+          "Doit être utilisé dans le délai de travail prévu après préparation."
+        ]
+      },
+      "right": {
+        "title": "Enduit prêt à l'emploi",
+        "points": [
+          "Pratique pour les retouches, les petites surfaces et une première expérience.",
+          "Aucune préparation à l'eau : il suffit de mélanger légèrement dans le pot si nécessaire.",
+          "La texture est régulière dès l'ouverture, ce qui facilite le lissage.",
+          "Généralement plus coûteux à quantité équivalente.",
+          "Le pot entamé doit être refermé avec soin pour éviter qu'une croûte ne se forme."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Quel enduit choisir selon le défaut du mur ?",
+      "intro": "Les valeurs ci-dessous sont des repères : vérifiez toujours l'épaisseur admise, le support compatible et le délai de recouvrement sur l'emballage du produit choisi.",
+      "columns": [
+        "Type d'enduit",
+        "Usage principal",
+        "Épaisseur habituelle",
+        "Séchage et budget indicatifs"
+      ],
+      "rows": [
+        [
+          "Rebouchage",
+          "Trous de chevilles, petits éclats, fissures stables, reprises localisées",
+          "Quelques millimètres, parfois en plusieurs passes pour un creux profond",
+          "Souvent sec en quelques heures à une journée ; environ 5 à 20 € selon le format"
+        ],
+        [
+          "Garnissant",
+          "Mur irrégulier, rayures nombreuses, petites vagues et défauts étendus",
+          "Environ 1 à 5 mm selon la formulation",
+          "Souvent une journée ou davantage en couche épaisse ; environ 10 à 30 €"
+        ],
+        [
+          "Lissage",
+          "Finition avant peinture, micro-rayures, pores et légères marques d'outil",
+          "Voile fin, généralement inférieur à 2 mm",
+          "Quelques heures à une journée selon l'épaisseur ; environ 10 à 30 €"
+        ],
+        [
+          "Enduit à bandes",
+          "Joints de plaques de plâtre avec bande à joint",
+          "Couches minces successives sur la bande",
+          "Le temps varie selon le produit ; environ 10 à 30 €"
+        ],
+        [
+          "Enduit de façade",
+          "Réparation ou finition d'un mur extérieur compatible",
+          "Selon le système et le support, souvent bien plus épais",
+          "Produit spécifique extérieur ; le coût et la mise en œuvre varient fortement"
+        ]
+      ],
+      "note": "Les prix sont des ordres de grandeur pour des produits de bricolage courants, hors outils et préparation du support."
+    },
+    {
+      "type": "prose",
+      "heading": "Le matériel et le budget à prévoir",
+      "html": "<p>Pour enduire proprement un mur intérieur, prévoyez un <strong>couteau à enduire étroit</strong> pour prendre la matière et reboucher, ainsi qu'un couteau large ou une lame à lisser pour tirer l'enduit. Ajoutez un seau propre, une cale à poncer, des abrasifs adaptés, une brosse ou une éponge pour le dépoussiérage, une bâche de protection et du ruban de masquage.</p><p>Si vous utilisez de l'enduit en poudre, un malaxeur monté sur perceuse facilite la préparation d'un volume important. Pour une petite réparation, une spatule rigide et un mélange manuel suffisent. Un ensemble d'outils simples coûte souvent entre 20 et 50 €, avec des écarts selon la largeur et la qualité des lames. Des lames propres, souples et sans rouille font une vraie différence sur le rendu final.</p><p>Protégez aussi vos mains, vos yeux lors du malaxage et vos voies respiratoires au moment du ponçage avec un masque anti-poussières adapté. Le ponçage produit une poussière fine : isolez la zone de travail, ouvrez les accès vers l'extérieur si possible et évitez de poncer à côté d'objets difficiles à nettoyer.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe pour un enduit en poudre",
+      "html": "<p>Utilisez un seau parfaitement propre et de l'eau propre. Versez d'abord la quantité d'eau prévue, puis ajoutez progressivement la poudre. Laissez le mélange s'imbiber si la notice le recommande, puis malaxez lentement jusqu'à obtenir une pâte homogène, souple et qui tient sur le couteau sans couler. Le dosage inscrit sur le sac prime toujours sur une règle générale.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Faire et appliquer l'enduit pas à pas",
+      "intro": "Procédez sans vous presser, par zones raisonnables. Une petite surface bien préparée vaut mieux qu'un grand mur enduit trop vite et difficile à rattraper.",
+      "steps": [
+        {
+          "title": "1. Inspecter et préparer le mur",
+          "html": "<p>Grattez les cloques de peinture, les anciennes surépaisseurs et tout ce qui ne tient pas. Ouvrez légèrement les fissures stables avec un outil adapté afin d'éliminer les bords fragiles. Lessivez si le mur est gras, puis laissez sécher. Dépoussiérez soigneusement ; sur un fond très poreux ou farinant, appliquez un primaire compatible si le fabricant de l'enduit le préconise.</p>"
+        },
+        {
+          "title": "2. Protéger la pièce",
+          "html": "<p>Bâchez le sol, masquez les plinthes, interrupteurs et encadrements. Retirez les prises uniquement si vous savez intervenir en sécurité sur l'installation électrique ; sinon, masquez leur contour avec précision. Prévoyez un chiffon humide et un seau d'eau pour nettoyer les outils avant que l'enduit ne durcisse.</p>"
+        },
+        {
+          "title": "3. Préparer une quantité maîtrisée",
+          "html": "<p>Pour un enduit en poudre, suivez le rapport eau-poudre de l'emballage. Mélangez sans fouetter trop vite pour limiter les bulles d'air. Préparez une quantité que vous pourrez appliquer pendant le temps d'utilisation annoncé. Avec un produit prêt à l'emploi, remuez simplement la pâte si une légère séparation est visible.</p>"
+        },
+        {
+          "title": "4. Reboucher les défauts profonds",
+          "html": "<p>Chargez le petit couteau, poussez l'enduit dans le trou ou la fissure, puis croisez les passages pour chasser l'air. Retirez l'excédent en gardant la lame presque à plat. Pour un trou profond, réalisez plusieurs passes après séchage plutôt que de chercher à le remplir d'un seul coup.</p>"
+        },
+        {
+          "title": "5. Lisser en couches fines",
+          "html": "<p>Déposez un peu d'enduit sur le couteau large. Posez la lame contre le mur avec un angle faible, puis étirez la matière du bas vers le haut ou en diagonale. Exercez une pression régulière et retirez aussitôt les paquets sur les bords. Travaillez par bandes qui se chevauchent légèrement, sans repasser longtemps sur une zone qui commence à tirer.</p>"
+        },
+        {
+          "title": "6. Laisser sécher puis faire une seconde passe",
+          "html": "<p>Respectez le temps de séchage annoncé, qui s'allonge quand la couche est épaisse, que l'air est humide ou que la pièce est fraîche. Une fois la surface sèche et dure, repérez les creux à la lumière rasante. Une seconde couche très fine est souvent la meilleure façon d'obtenir un mur uniforme, plutôt que de poncer excessivement la première.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Poncer, contrôler et peindre",
+      "html": "<p>Lorsque l'enduit est complètement sec, poncez avec une cale et un abrasif adapté à la finition recherchée. Travaillez sans appuyer fortement, avec des mouvements larges et réguliers. L'objectif est de supprimer les traces de couteau et les petites surépaisseurs, pas de creuser le mur. Commencez avec un grain moyen si les défauts sont visibles, puis terminez avec un grain plus fin si nécessaire.</p><p>Passez ensuite la main sur le mur et éclairez-le latéralement avec une lampe : ce double contrôle révèle ce que l'œil ne voit pas toujours de face. Aspirez les poussières, puis essuyez délicatement avec un chiffon légèrement humide ou une éponge très bien essorée. Le support doit être propre, sec et non poudreux avant la sous-couche ou la peinture.</p><p>Une sous-couche est particulièrement utile sur un mur très enduit ou réparé par endroits : elle uniformise l'absorption et évite que les zones reprises ne restent visibles après la peinture. Attendez le séchage complet de l'enduit et respectez le délai de recouvrement recommandé par le fabricant.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les erreurs qui créent traces et décollements",
+      "html": "<ul><li><strong>Ajouter de l'eau à un enduit qui a commencé à durcir</strong> : il perd en qualité et devient difficile à appliquer.</li><li><strong>Poser une couche trop épaisse</strong> : elle sèche mal, peut fissurer et oblige à poncer davantage.</li><li><strong>Enduire sur un mur humide ou poudreux</strong> : l'adhérence ne sera pas durable.</li><li><strong>Négliger le dépoussiérage avant la peinture</strong> : la finition peut devenir rugueuse ou mal accrocher.</li><li><strong>Vider les restes d'enduit dans l'évier</strong> : ils peuvent durcir dans les canalisations. Laissez-les sécher dans un récipient avant de les évacuer selon les consignes locales.</li></ul>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les cas particuliers et erreurs à éviter",
+      "html": "<p>Sur une ancienne peinture brillante ou satinée, lessivez d'abord le mur puis poncez légèrement afin de casser son aspect lisse. Si la peinture s'écaille, retirez tout ce qui manque d'adhérence avant d'enduire. Sur du papier peint, il est généralement préférable de déposer le revêtement : l'enduit pourrait humidifier la colle et provoquer des décollements.</p><p>Pour une fissure qui revient, une jonction entre deux matériaux ou un joint de plaque de plâtre, un simple enduit de rebouchage peut ne pas suffire. Une bande adaptée, éventuellement noyée dans un enduit à joint, limite le risque de réapparition. Si la fissure est large, traverse le mur, s'accompagne d'humidité ou évolue, demandez un avis professionnel avant de masquer le problème.</p><p>À l'extérieur, utilisez exclusivement un enduit de façade compatible avec la maçonnerie et les contraintes climatiques. Les enduits intérieurs ne sont pas conçus pour résister durablement à la pluie, au gel et aux mouvements du support. Pour une façade importante, les règles de préparation, d'épaisseur et de finition sont plus exigeantes : mieux vaut suivre un système complet ou faire intervenir un artisan.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on fabriquer un enduit mural avec du plâtre, du ciment et du sable ?",
+      "a_html": "<p>Il est possible de réaliser des mortiers ou des enduits traditionnels avec des matériaux de construction, mais ce n'est pas la solution la plus simple pour lisser un mur intérieur. Les proportions, la nature du sable, le support et le temps de prise influencent fortement le résultat.</p><p>Pour reboucher et préparer un mur avant peinture, un enduit formulé pour cet usage est plus sûr : il adhère mieux au support prévu, se travaille plus facilement et se ponce de manière régulière. Réservez les mélanges cimentaires et les enduits traditionnels aux travaux adaptés, notamment sur maçonnerie ou en extérieur.</p>"
+    },
+    {
+      "q": "Quelle quantité d'enduit faut-il pour un mur ?",
+      "a_html": "<p>La consommation dépend surtout de l'épaisseur appliquée et de l'état du mur. Pour un enduit de lissage, comptez souvent autour de 1 kg par mètre carré et par millimètre d'épaisseur, mais cette valeur varie d'un produit à l'autre.</p><p>Mesurez la surface, évaluez le nombre de passes et ajoutez une petite marge pour les pertes. La consommation indiquée sur l'emballage reste le repère le plus fiable. Un mur très irrégulier nécessite souvent d'abord un enduit garnissant ou des rebouchages localisés.</p>"
+    },
+    {
+      "q": "Combien de temps faut-il attendre avant de peindre sur un enduit ?",
+      "a_html": "<p>Attendez que l'enduit soit sec à cœur, dur et de couleur uniforme. Selon le produit, l'épaisseur, la température et l'humidité, cela peut aller de quelques heures à plus d'une journée.</p><p>Ne vous fiez pas uniquement à un séchage en surface : une peinture appliquée trop tôt peut marquer, cloquer ou sécher de façon irrégulière. Respectez le délai de recouvrement inscrit sur le sac ou le pot, puis dépoussiérez le mur avant de peindre.</p>"
+    },
+    {
+      "q": "Peut-on mettre de l'enduit sur une peinture existante ?",
+      "a_html": "<p>Oui, si la peinture est saine, propre et bien adhérente. Lessivez les traces de graisse ou de nicotine, rincez si nécessaire, laissez sécher et poncez légèrement une peinture brillante afin de favoriser l'accroche.</p><p>En revanche, retirez les parties écaillées, cloquées ou friables. Si le mur est très absorbant, farineux ou présente des taches difficiles, un primaire adapté peut être nécessaire avant l'enduit ou avant la peinture de finition.</p>"
+    },
+    {
+      "q": "Faut-il forcément poncer après avoir enduit ?",
+      "a_html": "<p>Un enduit appliqué avec beaucoup de soin peut demander très peu de ponçage, mais une légère finition est souvent nécessaire pour supprimer les traces de lame et obtenir un rendu impeccable sous la peinture. Plus la peinture est mate et la lumière rasante, plus les défauts se voient.</p><p>Vous pouvez réduire le ponçage en appliquant des couches fines, en gardant vos lames propres et en retirant immédiatement les surépaisseurs. Poncez toujours après séchage complet et aspirez les poussières avant la suite des travaux.</p>"
+    },
+    {
+      "q": "Pourquoi mon enduit se fissure-t-il en séchant ?",
+      "a_html": "<p>La cause la plus fréquente est une couche trop épaisse, un séchage trop rapide ou un produit utilisé en dehors de l'épaisseur recommandée. Une préparation trop liquide, un support instable ou une fissure active peuvent aussi expliquer le problème.</p><p>Grattez les zones fragiles, traitez la cause puis recommencez en couches plus fines. Sur les joints et fissures susceptibles de bouger, utilisez la bande ou le système de renfort adapté plutôt que de simplement remettre de l'enduit.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour réussir votre enduit, retenez une méthode simple : <strong>un support propre, le produit adapté, des couches fines et un séchage respecté</strong>. Commencez par reboucher les défauts, lissez progressivement, contrôlez à la lumière rasante puis poncez avec douceur. Avec cette préparation, votre mur sera prêt à recevoir une peinture durable et nettement plus élégante.</p>",
+  "__slug": "comment-faire-de-lenduit"
+}

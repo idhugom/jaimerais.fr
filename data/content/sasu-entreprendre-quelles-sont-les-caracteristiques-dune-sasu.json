@@ -1,0 +1,238 @@
+{
+  "title": "SASU : caractéristiques, avantages et règles pour entreprendre seul",
+  "meta_description": "Découvrez les caractéristiques de la SASU : associé unique, capital, président, fiscalité, protection sociale, coûts et étapes de création en France.",
+  "reading_time_min": 11,
+  "hero_intro": "Vous voulez créer une société seul tout en protégeant votre patrimoine personnel et en gardant la porte ouverte à de futurs associés ? La SASU est une forme juridique souple, très répandue chez les consultants, commerçants, créateurs de start-up et porteurs de projet. Voici ce qu'il faut réellement connaître avant de choisir ce statut et de lancer votre entreprise.",
+  "key_takeaways": [
+    "La SASU est une société à associé unique : elle possède une personnalité juridique distincte de celle de son créateur.",
+    "La responsabilité de l'associé est en principe limitée à ses apports, mais les garanties personnelles et fautes de gestion peuvent créer des exceptions.",
+    "Le président de SASU, s'il est rémunéré, relève du régime général de la Sécurité sociale en tant qu'assimilé salarié, sans assurance chômage automatique.",
+    "La SASU est soumise à l'impôt sur les sociétés par défaut ; une option temporaire pour l'impôt sur le revenu peut être possible sous conditions.",
+    "Sa grande souplesse statutaire est un avantage, mais elle impose de rédiger les statuts avec soin dès le départ."
+  ],
+  "toc": [
+    "Qu'est-ce qu'une SASU ?",
+    "Les principales caractéristiques de la SASU",
+    "Associé unique, président et décisions de la société",
+    "SASU ou micro-entreprise : comment choisir ?",
+    "Fiscalité et protection sociale du dirigeant",
+    "Coût de création et obligations annuelles",
+    "Créer une SASU : les étapes à suivre",
+    "Avantages, limites et évolution en SAS"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Qu'est-ce qu'une SASU ?",
+      "html": "<p>La <strong>SASU</strong>, ou société par actions simplifiée unipersonnelle, est une SAS ne comptant qu'un seul associé. Cet associé peut être une personne physique ou une autre société. Il apporte de l'argent, des biens ou, dans certaines situations, son savoir-faire à la société en échange d'actions.</p><p>La SASU constitue une personne morale à part entière. Elle dispose donc de son propre patrimoine, de son compte bancaire professionnel, de ses contrats et de ses obligations fiscales. Cette séparation est particulièrement intéressante pour exercer une activité commerciale, artisanale, libérale ou de services avec un cadre sociétaire solide.</p><p>Il ne faut pas confondre SASU et entreprise individuelle. En entreprise individuelle, l'entrepreneur et l'activité ne forment pas une société distincte. En SASU, l'activité est portée par une société dont l'associé unique détient les actions. Cette différence a des conséquences sur la gouvernance, la fiscalité, l'arrivée d'investisseurs et la perception de l'entreprise par certains clients ou partenaires.</p><p>La SASU convient notamment à une personne qui prévoit de développer son activité, de contractualiser avec de grandes entreprises, de se verser une rémunération à terme ou d'accueillir plus tard un ou plusieurs associés.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les principales caractéristiques de la SASU",
+      "points": [
+        "Un seul associé détient 100 % des actions lors de la création.",
+        "Un président représente obligatoirement la société vis-à-vis des tiers.",
+        "Le capital social est librement fixé : 1 € est juridiquement possible, mais rarement pertinent dans tous les projets.",
+        "Les statuts déterminent largement les règles d'organisation, de décision et de transmission des actions.",
+        "La SASU devient automatiquement une SAS si l'associé unique cède ou émet des actions au profit d'un ou plusieurs nouveaux associés.",
+        "La société doit tenir une comptabilité, établir des comptes annuels et respecter les formalités propres aux sociétés commerciales."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "SASU : les règles essentielles en un coup d'oeil",
+      "intro": "Ce tableau résume les éléments à examiner avant de choisir cette forme de société.",
+      "columns": [
+        "Élément",
+        "Règle en SASU",
+        "Ce que cela implique concrètement"
+      ],
+      "rows": [
+        [
+          "Nombre d'associés",
+          "Un associé unique à la création",
+          "Vous gardez seul le contrôle des décisions, tout en pouvant ouvrir le capital plus tard."
+        ],
+        [
+          "Capital social",
+          "Libre, à partir de 1 €",
+          "Un capital cohérent rassure davantage les partenaires et aide à absorber les premières dépenses."
+        ],
+        [
+          "Direction",
+          "Président obligatoire",
+          "Il peut être l'associé unique ou une autre personne. Il engage la société auprès des tiers."
+        ],
+        [
+          "Responsabilité",
+          "Limitée en principe aux apports",
+          "La protection n'est pas absolue en cas de caution personnelle, fraude ou faute de gestion."
+        ],
+        [
+          "Fiscalité",
+          "Impôt sur les sociétés par défaut",
+          "Les bénéfices sont imposés au niveau de la société avant une éventuelle rémunération ou distribution."
+        ],
+        [
+          "Régime social du président rémunéré",
+          "Assimilé salarié",
+          "Protection sociale du régime général, mais pas de droit automatique au chômage."
+        ],
+        [
+          "Évolution",
+          "Transformation non nécessaire à l'arrivée d'associés",
+          "La SASU devient une SAS, avec adaptation des statuts et de l'organisation."
+        ]
+      ],
+      "note": "Les règles précises dépendent de l'activité, des statuts, de la situation du dirigeant et des options fiscales retenues."
+    },
+    {
+      "type": "prose",
+      "heading": "Associé unique, président et décisions : qui fait quoi ?",
+      "html": "<p>Dans une SASU, l'associé unique prend seul les décisions qui relèveraient normalement d'une assemblée générale : approbation des comptes, affectation du résultat, changement de président, modification du capital ou des statuts. Ces décisions doivent être <strong>formalisées et conservées dans un registre des décisions</strong>. Être seul ne dispense donc pas de respecter un minimum de formalisme.</p><p>Le président est le représentant légal de la société. Il signe les contrats, ouvre le compte bancaire, embauche si nécessaire et agit au nom de la SASU. L'associé unique est souvent président, mais ce n'est pas obligatoire. Désigner un tiers peut être utile lorsqu'un investisseur détient le capital sans gérer l'activité au quotidien.</p><p>Les statuts offrent une liberté importante : conditions de nomination ou de révocation du président, pouvoirs complémentaires, durée du mandat, modalités de consultation, règles applicables si de nouveaux associés arrivent. Cette liberté est précieuse, mais des statuts standardisés et mal adaptés peuvent devenir contraignants lors d'une levée de fonds, d'une association ou d'une cession.</p><p>La responsabilité financière de l'associé est normalement limitée à ce qu'il a apporté au capital. Toutefois, une banque peut demander au dirigeant une caution personnelle pour un prêt. De même, un dirigeant peut engager sa responsabilité personnelle en cas de faute de gestion grave, d'infraction ou de manquement à ses obligations.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "SASU ou micro-entreprise : comment choisir ?",
+      "intro": "Ces deux solutions permettent d'entreprendre seul, mais elles répondent à des projets très différents.",
+      "left": {
+        "title": "Choisir la SASU si vous cherchez une société évolutive",
+        "points": [
+          "Vous prévoyez d'accueillir des associés, investisseurs ou salariés.",
+          "Votre activité demande des investissements, une marque, des contrats importants ou une image sociétaire.",
+          "Vous voulez arbitrer entre rémunération de président et dividendes, selon les résultats et votre situation.",
+          "Vous acceptez une comptabilité complète, des comptes annuels et un formalisme plus important.",
+          "Votre chiffre d'affaires ou vos charges risquent de dépasser le cadre pratique de la micro-entreprise."
+        ]
+      },
+      "right": {
+        "title": "Choisir la micro-entreprise si vous démarrez simplement",
+        "points": [
+          "Vous testez une activité avec peu de frais fixes et peu d'investissements.",
+          "Vous privilégiez des démarches et une comptabilité très allégées.",
+          "Vous n'avez pas besoin de faire entrer des associés dans l'immédiat.",
+          "Vous souhaitez calculer vos cotisations sur le chiffre d'affaires encaissé selon le régime applicable.",
+          "Vous savez que les plafonds de chiffre d'affaires et le mode de déduction des charges peuvent limiter le modèle."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Fiscalité et protection sociale du dirigeant : les points à anticiper",
+      "html": "<p>La SASU est soumise par défaut à l'<strong>impôt sur les sociétés</strong>. La société paie l'impôt sur ses bénéfices, puis l'associé décide, selon les règles applicables, de conserver les sommes en société, de se verser une rémunération ou de distribuer des dividendes. Le taux normal de l'impôt sur les sociétés est de 25 %, avec un taux réduit sur une première tranche de bénéfices pour les petites sociétés qui remplissent les conditions prévues.</p><p>Une option pour l'impôt sur le revenu peut être envisagée dans certaines sociétés récentes et sous conditions strictes. Elle est temporaire, limitée dans le temps, et peut être intéressante au démarrage lorsqu'un déficit doit être imputé sur les revenus du foyer fiscal. Elle mérite une simulation avec un expert-comptable ou un conseil fiscal, car elle n'est pas avantageuse dans tous les cas.</p><p>Le président rémunéré est <strong>assimilé salarié</strong>. Sa rémunération entraîne des cotisations sociales donnant accès, notamment, à la retraite et à la protection maladie du régime général. En contrepartie, le coût global de la rémunération peut être significatif pour une jeune société. Sans rémunération, le président ne cotise pas au titre de son mandat et ne bénéficie pas, par ce seul mandat, d'une protection sociale.</p><p>Les dividendes ne remplacent pas une rémunération : ils ne sont distribuables que si la société a réalisé un bénéfice distribuable et si les comptes le permettent. Ils sont généralement soumis au prélèvement forfaitaire unique, sauf option globale pour le barème de l'impôt sur le revenu. Ils ne donnent pas de droits sociaux et ne procurent pas une couverture chômage.</p><p>Enfin, la TVA, la cotisation foncière des entreprises et les éventuelles taxes liées à l'activité ne dépendent pas uniquement de la forme SASU. Elles varient notamment selon l'activité exercée, le niveau de chiffre d'affaires, les locaux et les régimes choisis.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention au faux bon plan du capital à 1 €",
+      "html": "<p>Créer une SASU avec 1 € de capital est légal, mais ce montant ne finance ni le lancement ni les premières dépenses. Un capital trop faible peut fragiliser la trésorerie et nuire à la crédibilité auprès d'une banque, d'un bailleur ou d'un fournisseur.</p><p>Déterminez le montant à apporter à partir de votre besoin de démarrage : matériel, assurance, dépôt de garantie, stock, communication, logiciels et besoin de trésorerie. Les apports en compte courant d'associé peuvent compléter le capital, mais ils doivent aussi être réfléchis et tracés.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Budget et obligations : à quoi faut-il s'attendre ?",
+      "intro": "Les montants varient selon votre activité et le niveau d'accompagnement choisi. Voici des repères prudents pour construire votre budget.",
+      "columns": [
+        "Poste",
+        "Ordre de grandeur",
+        "À savoir"
+      ],
+      "rows": [
+        [
+          "Création administrative",
+          "Souvent quelques centaines d'euros",
+          "Elle comprend notamment l'annonce légale et les frais de formalités. Le montant évolue selon la situation et le département."
+        ],
+        [
+          "Rédaction des statuts",
+          "De 0 € avec un modèle simple à plusieurs centaines d'euros ou davantage",
+          "Un accompagnement juridique est particulièrement utile si l'activité est réglementée, si des apports sont complexes ou si l'ouverture du capital est prévue."
+        ],
+        [
+          "Dépôt du capital",
+          "Variable selon l'établissement",
+          "Le capital n'est pas une charge : il appartient à la société après son immatriculation et peut servir à son activité."
+        ],
+        [
+          "Comptabilité annuelle",
+          "Souvent de quelques centaines à plusieurs milliers d'euros",
+          "Le coût dépend du volume de factures, de la TVA, de la paie, du secteur et du recours à un expert-comptable."
+        ],
+        [
+          "Comptes annuels",
+          "Obligation chaque exercice",
+          "La SASU établit un bilan, un compte de résultat et une annexe lorsque celle-ci est requise, puis approuve ses comptes."
+        ],
+        [
+          "Dépôt des comptes",
+          "À effectuer après l'approbation",
+          "Des options de confidentialité existent pour certaines petites entreprises, sous conditions."
+        ]
+      ],
+      "note": "Prévoyez aussi les frais propres à votre métier : assurance professionnelle, logiciel, banque, domiciliation, accompagnement, matériel, marques ou autorisations."
+    },
+    {
+      "type": "steps",
+      "heading": "Créer une SASU : les étapes à suivre",
+      "intro": "La création est accessible, mais chaque étape doit être cohérente avec votre projet, surtout avant de signer vos premiers contrats.",
+      "steps": [
+        {
+          "title": "Définir l'activité et les besoins de départ",
+          "html": "<p>Précisez l'objet social, choisissez un nom disponible, estimez votre budget et vérifiez les autorisations ou qualifications exigées par votre profession. Le siège social peut être fixé à votre domicile sous certaines conditions, dans un local dédié ou auprès d'une société de domiciliation.</p>"
+        },
+        {
+          "title": "Choisir le capital et rédiger des statuts adaptés",
+          "html": "<p>Décidez du montant du capital, de la nature des apports et des règles de fonctionnement. Anticipez l'arrivée éventuelle d'associés, les modalités de cession d'actions et les pouvoirs du président plutôt que de corriger les statuts dans l'urgence.</p>"
+        },
+        {
+          "title": "Déposer les apports en numéraire",
+          "html": "<p>Les sommes versées au capital sont déposées sur un compte bloqué ouvert auprès d'une banque, d'un notaire ou d'un prestataire habilité. Une attestation de dépôt des fonds sera nécessaire au dossier de création.</p>"
+        },
+        {
+          "title": "Nommer le président et publier l'annonce légale",
+          "html": "<p>Le président est désigné dans les statuts ou dans un acte séparé. Il faut ensuite publier un avis de constitution dans un support d'annonces légales du département du siège social.</p>"
+        },
+        {
+          "title": "Déclarer la société via le guichet unique",
+          "html": "<p>Le dossier est transmis en ligne sur le guichet unique des formalités des entreprises, avec les justificatifs demandés : statuts signés, attestation de dépôt des fonds, justificatif de siège, identité du dirigeant et déclaration des bénéficiaires effectifs notamment.</p>"
+        },
+        {
+          "title": "Organiser la gestion après l'immatriculation",
+          "html": "<p>Une fois la société immatriculée, ouvrez ou activez le compte professionnel, mettez en place la facturation, choisissez vos outils comptables, souscrivez les assurances utiles et classez systématiquement contrats, factures et décisions de l'associé unique.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Avantages, limites et évolution en SAS",
+      "html": "<p>Le premier atout de la SASU est sa <strong>flexibilité</strong>. Elle permet de démarrer seul sans fermer la porte à une croissance future. L'arrivée d'un nouvel investisseur ou associé ne nécessite pas de changer de forme sociale : la SASU devient une SAS. Il faut en revanche mettre à jour les règles de gouvernance et, selon l'opération, accomplir les formalités correspondantes.</p><p>La protection sociale du président rémunéré est également recherchée par de nombreux créateurs, tout comme l'absence de cotisations sociales calculées sur les dividendes du seul fait de leur distribution. Mais cet avantage doit être nuancé : les dividendes sont fiscalisés, ne financent pas la protection sociale et supposent que la société dégage un bénéfice distribuable.</p><p>Les limites principales sont le coût de la rémunération du président, la comptabilité plus exigeante que celle d'une micro-entreprise et la nécessité de respecter des règles juridiques même lorsque l'on est seul. Une SASU n'est donc pas automatiquement le meilleur statut : elle est pertinente lorsque le projet justifie un véritable véhicule sociétaire.</p><p>Avant d'immatriculer votre entreprise, comparez la SASU avec l'entreprise individuelle, l'EURL et, si votre projet reste modeste, la micro-entreprise. Le bon choix dépend moins d'un statut prétendument « idéal » que de vos revenus prévus, de vos charges, de votre protection sociale, de votre besoin de financement et de votre ambition de développement.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la différence entre une SASU et une SAS ?",
+      "a_html": "<p>La SASU ne compte qu'un associé, tandis que la SAS en compte au moins deux. Elles reposent sur les mêmes grands principes : capital divisé en actions, président obligatoire, grande liberté statutaire et impôt sur les sociétés par défaut.</p><p>Quand un nouvel associé entre au capital d'une SASU, celle-ci devient une SAS. Il n'est pas nécessaire de créer une nouvelle société, mais les statuts doivent être adaptés à la présence de plusieurs associés.</p>"
+    },
+    {
+      "q": "Peut-on créer une SASU avec 1 € de capital ?",
+      "a_html": "<p>Oui, la loi n'impose pas de capital minimum supérieur à 1 €. Toutefois, un capital symbolique n'est pas toujours adapté à un projet professionnel : il ne couvre pas les besoins de démarrage et peut inquiéter certains partenaires.</p><p>Le montant pertinent dépend de votre activité. Calculez les dépenses à financer avant les premières recettes et envisagez, si besoin, des apports en compte courant d'associé en plus du capital.</p>"
+    },
+    {
+      "q": "Le président de SASU est-il salarié ?",
+      "a_html": "<p>Le président rémunéré est assimilé salarié pour sa protection sociale, mais il n'est pas salarié au sens du droit du travail du seul fait de son mandat. Il ne bénéficie donc pas automatiquement de l'assurance chômage.</p><p>Pour cumuler un contrat de travail avec la présidence, il faut notamment exercer de véritables fonctions techniques distinctes et être placé dans un lien de subordination réel. Dans une SASU détenue et dirigée par la même personne, ce lien est en pratique difficile à démontrer.</p>"
+    },
+    {
+      "q": "La SASU doit-elle obligatoirement avoir un expert-comptable ?",
+      "a_html": "<p>Non, le recours à un expert-comptable n'est pas légalement obligatoire dans toutes les SASU. En revanche, la société doit tenir une comptabilité régulière, établir ses comptes annuels et accomplir ses obligations déclaratives.</p><p>Un dirigeant peut gérer lui-même la comptabilité s'il en a les compétences et les outils. L'accompagnement d'un professionnel reste souvent sécurisant dès qu'il y a de la TVA, de la paie, des investissements, des stocks ou des choix fiscaux à arbitrer.</p>"
+    },
+    {
+      "q": "Une SASU peut-elle ne pas verser de salaire à son président ?",
+      "a_html": "<p>Oui. Le président peut exercer son mandat sans rémunération, une situation fréquente au lancement pour préserver la trésorerie. En l'absence de salaire, il n'y a généralement pas de cotisations sociales au titre du mandat.</p><p>Il faut toutefois anticiper les conséquences personnelles : sans rémunération, le président ne valide pas de droits sociaux grâce à ce mandat et doit disposer d'une autre couverture ou de ressources suffisantes.</p>"
+    },
+    {
+      "q": "Quand faut-il nommer un commissaire aux comptes dans une SASU ?",
+      "a_html": "<p>La nomination d'un commissaire aux comptes n'est pas systématique. Elle peut devenir obligatoire lorsque la société dépasse certains seuils légaux, appartient à un groupe dans certaines configurations ou se trouve dans une situation particulière prévue par la loi.</p><p>Les seuils et cas applicables pouvant évoluer, vérifiez votre situation au moment de la création ou de la clôture de l'exercice avec un professionnel du chiffre ou du droit.</p>"
+    }
+  ],
+  "conclusion_html": "<p>La SASU est un excellent cadre pour entreprendre seul avec une structure crédible, évolutive et protectrice en principe. Son intérêt repose sur un équilibre : elle offre une grande liberté, mais demande de préparer sérieusement ses statuts, sa fiscalité et sa rémunération.</p><p>Avant de vous lancer, posez vos chiffres sur papier : besoins de trésorerie, chiffre d'affaires réaliste, charges, couverture sociale et perspective d'association. Avec ces éléments, vous pourrez décider si la SASU est le bon point de départ pour concrétiser votre projet.</p>",
+  "__slug": "sasu-entreprendre-quelles-sont-les-caracteristiques-dune-sasu"
+}

@@ -1,0 +1,269 @@
+{
+  "title": "Les bases de la mécanique vélo : entretenir et réparer son vélo à domicile",
+  "meta_description": "Entretenez votre vélo chez vous : outils utiles, contrôles de sécurité, réglages faciles et réparations pour rouler longtemps, sereinement.",
+  "reading_time_min": 12,
+  "hero_intro": "J'aimerais pouvoir entretenir mon vélo moi-même, sans transformer mon salon en atelier ni risquer une mauvaise réparation. Bonne nouvelle : une grande partie de l'entretien courant est accessible avec quelques outils, une méthode et un peu de régularité. Du contrôle des pneus au réglage fin des vitesses, voici les bases pour rouler plus sûr, plus longtemps et avec davantage d'autonomie.",
+  "key_takeaways": [
+    "Un contrôle rapide avant de rouler — pneus, freins, roues et fixation des éléments — prévient la plupart des mauvaises surprises.",
+    "Un kit d'outils de base coûte souvent entre 60 et 150 € et suffit pour l'entretien courant d'un vélo.",
+    "Nettoyer délicatement, dégraisser la transmission puis lubrifier la chaîne est plus efficace qu'un lavage au jet puissant.",
+    "Les réglages de freins, de direction, de roues voilées ou de composants carbone demandent de la prudence : en cas de doute, l'atelier reste le bon réflexe.",
+    "Après chaque intervention, testez le vélo à faible vitesse dans un endroit calme avant de reprendre la route."
+  ],
+  "toc": [
+    "Commencer par les contrôles de sécurité",
+    "Choisir les outils indispensables à domicile",
+    "Adopter une routine d'entretien simple",
+    "Nettoyer et lubrifier sans abîmer son vélo",
+    "Diagnostiquer les pannes les plus fréquentes",
+    "Réparer une crevaison pas à pas",
+    "Savoir quand faire appel à un professionnel",
+    "Questions fréquentes sur la mécanique vélo"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Commencer par les contrôles de sécurité",
+      "html": "<p>La mécanique vélo ne commence pas par le démontage : elle commence par l'observation. Avant une sortie, prenez deux minutes pour vérifier que les roues sont correctement fixées, que le guidon et la selle ne bougent pas, et que les freins répondent franchement. Soulevez légèrement le vélo puis laissez-le retomber de quelques centimètres : un cliquetis inhabituel mérite d'être identifié.</p><p>Faites tourner chaque roue. Elle doit tourner librement, sans frottement continu sur un patin ou un disque, sans jeu latéral perceptible. Serrez ensuite les deux leviers de frein : ils ne doivent ni toucher le cintre, ni donner une sensation spongieuse. Sur un frein sur jante, les patins doivent frapper la piste de freinage et non le pneu. Sur un frein à disque, évitez absolument de toucher le disque juste après une descente : il peut être très chaud.</p><p>Enfin, inspectez le cadre, la fourche et les pneus. Une coupure profonde, une hernie sur le flanc d'un pneu, une fissure visible ou une déformation inhabituelle ne se « surveille » pas : on cesse de rouler et on demande conseil à un professionnel. Cette règle est particulièrement importante sur les pièces en carbone, dont les dommages ne sont pas toujours évidents.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Le contrôle express « ABCD » avant de partir",
+      "points": [
+        "A comme Air : pression adaptée, pneus sans coupure ni corps étranger apparent.",
+        "B comme Brakes : freinage net à l'avant et à l'arrière, patins ou plaquettes suffisamment épais.",
+        "C comme Chaîne : transmission propre, lubrifiée et passage des vitesses cohérent.",
+        "D comme Direction et dispositifs de fixation : jeu de direction absent, roues, cintre et selle bien maintenus."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Installer un petit atelier vélo, même dans peu d'espace",
+      "html": "<p>Vous n'avez pas besoin d'un garage équipé pour bien entretenir votre monture. Un coin propre, bien éclairé, un carton sous le vélo et une boîte dédiée aux petites pièces suffisent pour commencer. Travaillez toujours sur une surface stable, gardez les enfants et animaux éloignés lors de l'usage de produits d'entretien, et prenez une photo avant de démonter un élément dont vous ne connaissez pas encore le montage.</p><p>Le pied d'atelier est confortable, mais non indispensable au début. Pour nettoyer la transmission ou régler un dérailleur, il facilite vraiment le travail et évite de poser le vélo sur ses leviers ou son écran de compteur. Comptez généralement entre 80 et 200 € pour un modèle domestique stable ; une solution pliable peut convenir à un appartement si elle respecte le poids de votre vélo.</p><p>Investissez d'abord dans des outils fiables et adaptés aux vis de votre vélo. Une clé Allen usée ou de mauvaise qualité peut arrondir une vis, ce qui transforme une opération de cinq minutes en problème coûteux. Pour les éléments de sécurité, respectez les couples de serrage indiqués sur la pièce ou dans la notice du fabricant, en particulier sur une potence, une tige de selle ou un composant en carbone.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les outils de base pour l'entretien à domicile",
+      "intro": "Constituez votre équipement progressivement : l'objectif est d'être autonome sur les opérations fréquentes, pas d'acheter tout l'outillage d'un atelier dès le premier jour.",
+      "columns": [
+        "Outil",
+        "Utilité principale",
+        "Budget généralement constaté",
+        "Priorité"
+      ],
+      "rows": [
+        [
+          "Pompe à pied avec manomètre",
+          "Régler précisément la pression des pneus",
+          "25 à 60 €",
+          "Indispensable"
+        ],
+        [
+          "Jeu de clés Allen et Torx",
+          "Selle, potence, accessoires, étriers et nombreux réglages",
+          "20 à 50 €",
+          "Indispensable"
+        ],
+        [
+          "Démonte-pneus et rustines ou chambre à air",
+          "Réparer une crevaison",
+          "5 à 20 €",
+          "Indispensable"
+        ],
+        [
+          "Dégraissant, brosses et lubrifiant de chaîne",
+          "Nettoyer et protéger la transmission",
+          "20 à 40 €",
+          "Indispensable"
+        ],
+        [
+          "Clé dynamométrique",
+          "Respecter les faibles couples de serrage sensibles",
+          "40 à 120 €",
+          "Très recommandée"
+        ],
+        [
+          "Outil multifonction à emporter",
+          "Dépannage et petits ajustements pendant une sortie",
+          "15 à 40 €",
+          "Très utile"
+        ],
+        [
+          "Jauge d'usure de chaîne",
+          "Remplacer la chaîne avant d'user prématurément cassette et plateaux",
+          "10 à 20 €",
+          "Utile à moyen terme"
+        ]
+      ],
+      "note": "Les prix varient selon la marque, la qualité et les standards de votre vélo. Vérifiez notamment si vous avez besoin de clés Torx pour des freins à disque ou d'embouts spécifiques."
+    },
+    {
+      "type": "steps",
+      "heading": "Adopter une routine d'entretien qui ne prend pas tout le week-end",
+      "intro": "La fréquence dépend de la météo, du kilométrage, du terrain et du lieu de stockage. Après une sortie boueuse ou pluvieuse, intervenez plus tôt ; un vélo utilisé quotidiennement mérite aussi une attention plus régulière.",
+      "steps": [
+        {
+          "title": "Avant chaque sortie : 2 minutes",
+          "html": "<p>Contrôlez la pression des pneus, le freinage, la fixation des roues et l'absence de jeu anormal. Vérifiez aussi que rien n'est coincé dans la bande de roulement.</p>"
+        },
+        {
+          "title": "Toutes les 2 à 4 semaines : 15 à 30 minutes",
+          "html": "<p>Essuyez la chaîne et les galets du dérailleur, recherchez les vis desserrées, inspectez l'usure des patins ou plaquettes et nettoyez les zones exposées aux projections.</p>"
+        },
+        {
+          "title": "Après la pluie, la boue ou le sel : dès que possible",
+          "html": "<p>Rincez doucement les saletés, séchez le vélo et entretenez la transmission. L'humidité prolongée et le sel accélèrent la corrosion.</p>"
+        },
+        {
+          "title": "Tous les quelques mois : contrôle approfondi",
+          "html": "<p>Examinez pneus, câbles, chaîne, roues, pédales et roulements. Mesurez l'usure de chaîne si vous roulez souvent, et faites corriger un voile de roue ou un jeu de direction sans attendre qu'il s'aggrave.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Nettoyer et lubrifier la transmission sans faire de dégâts",
+      "html": "<p>Un vélo propre s'use moins vite parce que la poussière, le sable et l'humidité forment une pâte abrasive sur la chaîne, les pignons et les plateaux. Commencez par enlever les gros dépôts avec une brosse douce ou un chiffon humide. Utilisez de l'eau tiède et un nettoyant doux sur le cadre, puis un dégraissant dédié sur la transmission. Évitez le nettoyeur haute pression : il peut chasser la graisse des roulements, infiltrer l'eau dans certains composants et contaminer les zones de freinage.</p><p>Après avoir dégraissé la chaîne, rincez avec parcimonie si le produit le nécessite, puis séchez soigneusement. Déposez ensuite <strong>une petite goutte de lubrifiant sur chaque rouleau de chaîne</strong> en faisant tourner les pédales vers l'arrière. Laissez agir quelques minutes et essuyez l'excédent : une chaîne trop huilée attire les saletés, elle n'est pas mieux protégée. Choisissez plutôt un lubrifiant « sec » pour des routes sèches et poussiéreuses, ou « humide » pour des conditions régulièrement mouillées, en essuyant toujours le surplus.</p><p>Gardez toute huile, graisse et dégraissant loin des disques et plaquettes de frein. Une contamination peut provoquer du bruit et une forte perte de puissance de freinage. Sur un vélo à freins sur jante, évitez également de graisser la piste de freinage de la jante. Si vous avez le moindre doute après un entretien, nettoyez les surfaces de freinage avec un produit adapté et testez le vélo prudemment.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Réparer soi-même ou confier son vélo à un atelier ?",
+      "intro": "L'autonomie est précieuse, mais elle ne consiste pas à tout faire seul. La bonne décision dépend du niveau de risque, de l'outillage disponible et de votre capacité à contrôler le résultat.",
+      "left": {
+        "title": "À faire facilement à domicile",
+        "points": [
+          "Gonfler les pneus, nettoyer le vélo et lubrifier une chaîne.",
+          "Remplacer une chambre à air, un pneu ou des poignées, avec la bonne méthode.",
+          "Ajuster la hauteur de selle, remplacer des pédales ou poser des accessoires.",
+          "Affiner l'indexation d'un dérailleur avec de petits ajustements progressifs.",
+          "Changer des patins de frein sur jante en suivant scrupuleusement leur positionnement."
+        ]
+      },
+      "right": {
+        "title": "À confier de préférence à un professionnel",
+        "points": [
+          "Purger un frein hydraulique ou résoudre une fuite de liquide de frein.",
+          "Dévoiler une roue très abîmée, remplacer des rayons ou diagnostiquer un moyeu endommagé.",
+          "Intervenir sur un cadre, une fourche, un pivot de direction ou une pièce en carbone fissurée.",
+          "Traiter un bruit persistant au boîtier de pédalier ou un jeu difficile à localiser.",
+          "Diagnostiquer un moteur, une batterie ou un système électronique de vélo électrique."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Les symptômes courants et le premier diagnostic",
+      "intro": "Un bruit ou un mauvais fonctionnement ne désigne pas toujours la pièce que l'on soupçonne. Procédez du plus simple au plus probable, sans modifier plusieurs réglages à la fois.",
+      "columns": [
+        "Symptôme",
+        "Causes fréquentes à vérifier",
+        "Premier geste raisonnable",
+        "Quand s'arrêter"
+      ],
+      "rows": [
+        [
+          "Vitesses qui hésitent ou sautent",
+          "Chaîne sale, câble détendu, patte de dérailleur tordue, usure de chaîne",
+          "Nettoyer, lubrifier, puis ajuster le barillet par quarts de tour",
+          "Si le dérailleur peut toucher les rayons ou si la patte semble tordue"
+        ],
+        [
+          "Frein qui frotte",
+          "Roue mal repositionnée, disque légèrement voilé, étrier mal centré",
+          "Vérifier la fixation de roue et la position des plaquettes ou patins",
+          "Si le freinage est irrégulier, spongieux ou très faible"
+        ],
+        [
+          "Claquement à chaque tour de pédale",
+          "Pédale desserrée, selle, vis de plateau, chaîne ou boîtier de pédalier",
+          "Nettoyer, repérer le moment exact du bruit, contrôler les fixations accessibles",
+          "Si le jeu vient du pédalier, de la manivelle ou du cadre"
+        ],
+        [
+          "Direction qui bouge au freinage",
+          "Jeu de direction ou potence mal réglée",
+          "Ne pas rouler longtemps ainsi ; faire contrôler le serrage et le jeu",
+          "Si vous ne maîtrisez pas le réglage de direction ou si des pièces sont marquées"
+        ],
+        [
+          "Pneu qui perd de l'air rapidement",
+          "Crevaison, valve abîmée, fond de jante ou montage tubeless défaillant",
+          "Chercher l'objet dans le pneu et contrôler la valve",
+          "Si le flanc est déchiré ou si le pneu présente une hernie"
+        ]
+      ],
+      "note": "Un même symptôme peut avoir plusieurs causes. N'insistez jamais sur une vis de réglage au hasard, surtout autour des freins et du dérailleur arrière."
+    },
+    {
+      "type": "steps",
+      "heading": "Changer une chambre à air après une crevaison",
+      "intro": "Cette compétence vous dépanne à la maison comme en balade. Prévoyez une chambre à air de la bonne dimension, dont le diamètre et la largeur correspondent aux indications inscrites sur le flanc du pneu.",
+      "steps": [
+        {
+          "title": "Retirer la roue et libérer un côté du pneu",
+          "html": "<p>Placez le vélo de façon stable. Ouvrez le frein sur jante si nécessaire, retirez la roue, dégonflez complètement le pneu et utilisez des démonte-pneus en plastique pour sortir un seul talon de la jante. Évitez les objets métalliques qui peuvent blesser la chambre ou la jante.</p>"
+        },
+        {
+          "title": "Trouver la cause de la crevaison",
+          "html": "<p>Sortez la chambre à air, puis passez délicatement vos doigts à l'intérieur du pneu pour rechercher une épine, un morceau de verre ou une pointe. Faites-le avec précaution. Retirez l'intrus avant de monter une nouvelle chambre, sinon la seconde crevaison est presque garantie.</p>"
+        },
+        {
+          "title": "Contrôler la jante et préparer la chambre",
+          "html": "<p>Vérifiez que le fond de jante couvre correctement les têtes de rayons. Gonflez très légèrement la nouvelle chambre pour lui donner sa forme, insérez la valve dans le trou puis placez la chambre dans le pneu sans la vriller.</p>"
+        },
+        {
+          "title": "Remonter sans pincer la chambre",
+          "html": "<p>Replacez le talon du pneu en commençant à l'opposé de la valve. Terminez à la main autant que possible. Avant de gonfler, faites le tour du pneu en repoussant ses bords vers l'intérieur de la jante : cela limite le risque de coincer la chambre entre pneu et jante.</p>"
+        },
+        {
+          "title": "Gonfler, remonter et tester",
+          "html": "<p>Gonflez progressivement en vérifiant que le pneu est uniformément installé. Remontez la roue, assurez-vous qu'elle est bien fixée et testez les freins avant de repartir. Conservez la chambre percée pour la réparer plus tard si la perforation est simple.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les erreurs de mécanique vélo qui coûtent le plus cher",
+      "html": "<p>Ne serrez jamais « au maximum » une vis de potence, de tige de selle ou de collier : le bon serrage se mesure au couple prescrit. Ne pulvérisez pas de lubrifiant sur les freins, ne modifiez pas simultanément les vis de butée et la tension de câble d'un dérailleur, et ne roulez pas pour « voir si ça tient » après avoir détecté un jeu dans la direction ou une fissure. En cas d'incertitude, prenez une photo du montage et faites vérifier le vélo.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Régler les vitesses et savoir reconnaître l'usure",
+      "html": "<p>Un dérailleur bien réglé déplace la chaîne d'un pignon à l'autre avec un clic net du levier. Avant de toucher aux réglages, nettoyez la transmission et assurez-vous que la roue arrière est correctement enfoncée dans ses pattes. Si un changement de vitesse reste hésitant, utilisez le barillet de réglage par très petites touches, généralement un quart de tour à la fois, puis testez sur plusieurs pignons. Sur la plupart des transmissions, augmenter légèrement la tension du câble aide la chaîne à monter vers les grands pignons ; observez néanmoins votre vélo et corrigez progressivement.</p><p>Les deux vis de butée du dérailleur empêchent la chaîne de sortir de la cassette vers les rayons ou le cadre. Ce ne sont pas des vis d'indexation : ne les tournez pas pour corriger un seul passage de vitesse imprécis. Un dérailleur qui semble penché, une patte tordue après une chute ou une chaîne qui risque d'entrer dans les rayons justifient un arrêt et un contrôle en atelier.</p><p>La chaîne s'allonge progressivement par usure interne. Lorsqu'elle dépasse la limite recommandée par son fabricant, elle use plus vite la cassette et les plateaux. Une jauge d'usure est l'outil le plus simple pour la surveiller. À titre indicatif, de nombreuses transmissions modernes demandent un remplacement autour de 0,5 % d'allongement, tandis que certains systèmes plus anciens tolèrent davantage ; référez-vous toujours aux préconisations de la transmission installée sur votre vélo.</p><p>Sur un vélo électrique, débranchez ou éteignez le système avant l'entretien et suivez les consignes de la marque pour la batterie. Évitez toute projection d'eau sur les connecteurs, le moteur ou l'écran. La transmission est davantage sollicitée en raison du couple moteur : une chaîne propre et surveillée est donc particulièrement importante.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "Une bonne réparation ne se juge pas au fait que le vélo roule dans l'atelier, mais au fait qu'il freine, tourne et change de vitesse de manière prévisible une fois dehors.",
+      "author": ""
+    }
+  ],
+  "faq": [
+    {
+      "q": "À quelle fréquence faut-il entretenir son vélo ?",
+      "a_html": "<p>Un contrôle très rapide avant chaque sortie est idéal : pneus, freins, roues et absence de jeu. Pour un vélo utilisé plusieurs fois par semaine, prévoyez un nettoyage léger et une vérification de la transmission toutes les deux à quatre semaines.</p><p>Après la pluie, la boue, des routes salées ou une longue sortie, nettoyez et séchez le vélo plus rapidement. Les conditions d'usage comptent davantage qu'un calendrier fixe.</p>"
+    },
+    {
+      "q": "Quels sont les outils absolument indispensables pour débuter en mécanique vélo ?",
+      "a_html": "<p>Commencez avec une pompe à pied équipée d'un manomètre, des démonte-pneus, un kit de réparation ou une chambre à air de rechange, un jeu de clés Allen de qualité, des chiffons, un dégraissant et un lubrifiant de chaîne. Cet ensemble couvre déjà les besoins les plus courants.</p><p>Ajoutez ensuite une clé dynamométrique si vous intervenez sur la potence, le cintre, une tige de selle ou des composants carbone. L'outil doit correspondre aux couples de serrage indiqués par le fabricant.</p>"
+    },
+    {
+      "q": "Comment choisir la bonne pression pour les pneus de mon vélo ?",
+      "a_html": "<p>La plage de pression autorisée est inscrite sur le flanc du pneu : ne la dépassez pas. À l'intérieur de cette plage, le bon réglage dépend de votre poids, de la largeur du pneu, du terrain, de la charge transportée et de votre recherche de confort ou de rendement.</p><p>Un pneu plus large se roule généralement à une pression plus basse qu'un pneu étroit. Commencez au milieu de la plage recommandée, puis ajustez progressivement. Trop gonflé, le vélo devient inconfortable et peut perdre de l'adhérence ; trop peu gonflé, il augmente les risques de pincement de chambre ou d'endommagement de jante.</p>"
+    },
+    {
+      "q": "Puis-je utiliser un dégrippant multiusage pour lubrifier ma chaîne ?",
+      "a_html": "<p>Un produit multiusage peut aider ponctuellement à décoller l'humidité ou certaines saletés, mais il ne remplace pas durablement un lubrifiant formulé pour chaîne de vélo. Il tient moins bien dans le temps et peut laisser une protection insuffisante selon les conditions.</p><p>Après le nettoyage, appliquez un lubrifiant adapté à la météo sur les rouleaux de la chaîne, puis essuyez l'excédent. Cette dernière étape est essentielle pour éviter que la saleté ne s'accumule.</p>"
+    },
+    {
+      "q": "Pourquoi mon frein à disque fait-il du bruit après le nettoyage ?",
+      "a_html": "<p>Un disque humide, sale ou contaminé par un produit gras peut grincer. Vérifiez d'abord que la roue est bien remise en place et que rien ne frotte anormalement. Nettoyez le disque avec un produit spécifiquement adapté aux freins à disque et un chiffon propre, sans toucher la piste de freinage avec des doigts gras.</p><p>Si le frein manque de puissance, vibre fortement ou reste bruyant après nettoyage, les plaquettes peuvent être contaminées ou usées. Un atelier pourra confirmer le diagnostic et les remplacer si nécessaire.</p>"
+    },
+    {
+      "q": "Est-il possible d'entretenir soi-même un vélo électrique ?",
+      "a_html": "<p>Oui, pour les gestes classiques : pneus, nettoyage doux, chaîne, freins, serrages accessibles et remplacement de certains consommables. Éteignez le vélo et respectez les instructions du fabricant concernant la batterie et son retrait éventuel.</p><p>En revanche, les défauts liés au moteur, à la batterie, aux connecteurs, au logiciel ou à l'affichage doivent être confiés à un réparateur qualifié. N'ouvrez jamais une batterie de vélo électrique : elle présente des risques importants.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Entretenir son vélo à domicile, c'est avant tout instaurer de bonnes habitudes : observer, nettoyer sans excès, lubrifier avec précision et intervenir progressivement. Avec un équipement simple, vous pourrez prévenir l'usure prématurée, réparer les incidents courants et mieux comprendre les réactions de votre vélo.</p><p>Commencez par la routine la plus utile — pression des pneus, freins, chaîne et serrages — puis ajoutez une compétence à la fois, comme le changement d'une chambre à air ou l'ajustement des vitesses. Et gardez ce principe rassurant en tête : <strong>dès qu'une réparation touche à votre sécurité ou vous semble incertaine, demander l'avis d'un professionnel est aussi un geste de bon mécanicien.</strong></p>",
+  "__slug": "les-bases-de-la-mecanique-velo-pour-lentretien-a-domicile"
+}

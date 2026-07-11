@@ -1,0 +1,255 @@
+{
+  "title": "Régime sans gluten : le guide pour manger sainement et équilibré",
+  "meta_description": "Adoptez un régime sans gluten équilibré : aliments sûrs, lecture des étiquettes, prévention des carences et idées de repas au quotidien.",
+  "reading_time_min": 11,
+  "hero_intro": "J'aimerais manger sans gluten sans transformer chaque repas en casse-tête, ni renoncer au plaisir. Que l'éviction soit indispensable pour votre santé ou recommandée après un avis médical, l'objectif est le même : composer une alimentation variée, nourrissante et réellement adaptée. Voici les repères concrets pour démarrer sereinement, éviter les pièges et garder une assiette gourmande.",
+  "key_takeaways": [
+    "Le gluten se trouve dans le blé, le seigle, l'orge et leurs dérivés ; l'avoine n'est sûre que si elle est certifiée sans gluten.",
+    "En cas de suspicion de maladie cœliaque, ne retirez pas le gluten avant les examens médicaux : cela peut fausser le diagnostic.",
+    "Basez vos repas sur les aliments naturellement sans gluten plutôt que sur les produits industriels de substitution.",
+    "Pour la maladie cœliaque, les miettes, ustensiles, huiles de friture et plans de travail peuvent provoquer une contamination croisée.",
+    "Un régime sans gluten équilibré doit aussi couvrir les besoins en fibres, fer, calcium, vitamines B et protéines."
+  ],
+  "toc": [
+    "Comprendre le gluten et savoir quand l'éviter",
+    "Maladie cœliaque, allergie au blé ou sensibilité : ne pas confondre",
+    "Les aliments autorisés, à éviter et à vérifier",
+    "Lire les étiquettes et prévenir les contaminations croisées",
+    "Construire une assiette sans gluten vraiment équilibrée",
+    "Produits naturellement sans gluten ou substituts industriels ?",
+    "S'organiser en cuisine et réussir la transition",
+    "Manger au restaurant, voyager et gérer les imprévus",
+    "Budget, pâtisserie et erreurs fréquentes à éviter"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre le gluten et savoir quand l'éviter",
+      "html": "<p>Le gluten est un ensemble de protéines présent naturellement dans certaines céréales : le <strong>blé</strong> et ses variétés (épeautre, petit épeautre, kamut, blé dur), mais aussi le <strong>seigle</strong>, l'<strong>orge</strong> et le triticale. Il donne notamment son élasticité à la pâte à pain et sa tenue à de nombreux produits transformés.</p><p>Une alimentation sans gluten est le traitement indispensable de la <strong>maladie cœliaque</strong>, une maladie auto-immune. Elle peut aussi être indiquée en cas d'allergie au blé ou, après évaluation médicale, de sensibilité au gluten ou au blé non cœliaque. En revanche, retirer le gluten n'est pas automatiquement synonyme de meilleure santé, de perte de poids ou de meilleure digestion pour tout le monde.</p><p>Le bon réflexe est de partir d'un besoin identifié, puis de privilégier une alimentation diversifiée. Supprimer le pain, les pâtes et les biscuits classiques ne suffit pas : il faut les remplacer intelligemment pour conserver des apports suffisants en fibres, énergie, vitamines et minéraux.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Avant de commencer : faites vérifier les symptômes",
+      "html": "<p>Ballonnements, diarrhées, fatigue, perte de poids involontaire, anémie ou douleurs abdominales méritent un avis médical. Si une maladie cœliaque est envisagée, <strong>continuez à consommer du gluten jusqu'aux examens prescrits</strong>. Une éviction commencée trop tôt peut normaliser certains résultats et compliquer le diagnostic.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Maladie cœliaque et allergie au blé : deux réalités différentes",
+      "intro": "Les consignes alimentaires se ressemblent parfois, mais le mécanisme, le suivi et le niveau de prudence ne sont pas identiques.",
+      "left": {
+        "title": "Maladie cœliaque",
+        "points": [
+          "Réaction auto-immune déclenchée par le gluten chez une personne prédisposée.",
+          "Éviction stricte et durable du gluten, y compris des contaminations croisées.",
+          "Un suivi médical et nutritionnel est utile, notamment au diagnostic et lors de carences.",
+          "Les produits portant la mention « sans gluten » constituent un repère important."
+        ]
+      },
+      "right": {
+        "title": "Allergie au blé",
+        "points": [
+          "Réaction allergique aux protéines du blé, pouvant être immédiate et parfois sévère.",
+          "L'éviction porte d'abord sur le blé ; l'orge ou le seigle ne sont pas nécessairement concernés.",
+          "La conduite à tenir dépend du bilan allergologique et du risque individuel.",
+          "La lecture de la liste d'ingrédients et la prévention d'une exposition accidentelle sont essentielles."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Aliments sans gluten : ce qui est sûr, ce qui demande une vérification",
+      "intro": "Un aliment brut est généralement plus simple à identifier qu'une recette industrielle. Le tableau ci-dessous aide à faire le tri au quotidien.",
+      "columns": [
+        "Catégorie",
+        "Choix naturellement sans gluten",
+        "Vigilance à l'achat ou à la préparation"
+      ],
+      "rows": [
+        [
+          "Féculents et céréales",
+          "Riz, maïs, quinoa, sarrasin, millet, sorgho, manioc, pommes de terre, patate douce",
+          "Vérifier les mélanges, galettes, céréales du petit-déjeuner et farines composées ; l'épeautre contient du gluten."
+        ],
+        [
+          "Légumineuses",
+          "Lentilles, pois chiches, haricots, pois cassés, fèves",
+          "Rincer les conserves ; contrôler les préparations cuisinées et les soupes épaissies."
+        ],
+        [
+          "Fruits, légumes, viandes, poissons, œufs",
+          "Produits frais et non panés, nature ou peu transformés",
+          "Attention aux marinades, charcuteries, préparations hachées, panures et sauces."
+        ],
+        [
+          "Produits laitiers et alternatives",
+          "Lait, yaourts nature, fromages simples, boissons végétales adaptées",
+          "Lire l'étiquette des desserts, yaourts aromatisés, fromages préparés et boissons maltées."
+        ],
+        [
+          "Avoine",
+          "Avoine portant explicitement la mention « sans gluten »",
+          "L'avoine courante est souvent contaminée par d'autres céréales ; certaines personnes cœliaques doivent aussi l'introduire avec prudence."
+        ],
+        [
+          "Boissons et produits divers",
+          "Eau, café, thé, jus purs, vin et cidre en général",
+          "Malt, bière classique, boissons aromatisées, bouillons, sauces, confiseries et certains compléments nécessitent une vérification."
+        ]
+      ],
+      "note": "La composition peut varier d'une marque à l'autre : l'étiquette du produit acheté reste la référence."
+    },
+    {
+      "type": "prose",
+      "heading": "Lire les étiquettes et prévenir les contaminations croisées",
+      "html": "<p>En Europe, les céréales contenant du gluten font partie des allergènes devant être signalés dans la liste d'ingrédients. Repérez les mots <strong>blé, orge, seigle, épeautre, kamut, malt</strong> ou triticale. Une mention « peut contenir » indique un risque possible de traces : pour une personne atteinte de maladie cœliaque, la décision doit être discutée avec l'équipe soignante et les recommandations spécialisées suivies avec rigueur.</p><p>La mention « sans gluten » sur un emballage est particulièrement utile pour les produits à risque ou transformés. Elle répond à une réglementation spécifique et vise une teneur résiduelle très faible en gluten. Ne la confondez pas avec « sans blé », qui ne garantit pas forcément l'absence d'orge ou de seigle.</p><p>À la maison, la contamination croisée vient souvent de détails invisibles : grille-pain partagé, passoire ayant servi aux pâtes de blé, couteau plongé dans un pot de confiture plein de miettes, farine en suspension, huile de friture commune. Si l'éviction doit être stricte, prévoyez des ustensiles dédiés ou parfaitement lavés, des bocaux pressables ou séparés et une zone de rangement claire.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les pièges les plus fréquents",
+      "points": [
+        "Le malt est généralement issu de l'orge : méfiance avec les céréales soufflées, confiseries et boissons maltées.",
+        "Le sarrasin n'est pas du blé et ne contient pas de gluten, mais les préparations de sarrasin peuvent être mélangées à de la farine de blé.",
+        "« Sans blé » ne veut pas toujours dire « sans gluten ».",
+        "Une sauce soja classique contient souvent du blé ; recherchez une version adaptée ou du tamari certifié sans gluten.",
+        "Les médicaments et compléments ne sont pas tous étiquetés de la même façon : demandez conseil à un pharmacien en cas de doute."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Construire une assiette sans gluten vraiment équilibrée",
+      "html": "<p>Un régime sans gluten sain ne consiste pas à multiplier les biscuits, pains et pizzas « sans gluten ». Ces produits peuvent être pratiques, mais ils sont parfois plus riches en sel, sucres ou matières grasses et moins riches en fibres que leurs équivalents complets. La meilleure base reste les aliments simples : légumes, fruits, légumineuses, protéines, oléagineux et féculents naturellement sans gluten.</p><p>À chaque repas principal, cherchez un équilibre facile à mémoriser : environ la moitié de l'assiette en légumes, un quart en source de protéines et un quart en féculent ou céréale sans gluten. Ajoutez une matière grasse de qualité, par exemple de l'huile de colza ou d'olive, et adaptez les quantités à votre faim, à votre activité et à vos besoins.</p><p>Variez les céréales et pseudo-céréales : le quinoa apporte des protéines, le sarrasin a un goût marqué et se prête aux galettes, le riz complet et le millet contribuent aux fibres. Alternez aussi avec les lentilles, haricots et pois chiches. Cette diversité aide à compenser la baisse possible d'apports en fibres, fer, folates et vitamines du groupe B lorsqu'on abandonne les produits céréaliers enrichis ou complets.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Remplacer les habitudes sans créer de carences",
+      "intro": "Voici des substitutions simples pour conserver texture, plaisir et intérêt nutritionnel.",
+      "columns": [
+        "Besoin ou habitude",
+        "Alternative sans gluten utile",
+        "Atout nutritionnel ou pratique"
+      ],
+      "rows": [
+        [
+          "Tartines du petit-déjeuner",
+          "Pain sans gluten riche en graines ou porridge d'avoine certifiée, avec fruit et yaourt",
+          "Privilégier les versions apportant des fibres ; compléter avec une source de protéines."
+        ],
+        [
+          "Pâtes du soir",
+          "Pâtes de lentilles, pois chiches, riz complet ou sarrasin",
+          "Les pâtes de légumineuses sont souvent plus rassasiantes et riches en protéines."
+        ],
+        [
+          "Semoule ou couscous",
+          "Quinoa, millet, riz, sarrasin décortiqué ou chou-fleur râpé",
+          "Permet de varier les textures et d'accompagner facilement légumes et sauces."
+        ],
+        [
+          "Panure",
+          "Polenta fine, chapelure sans gluten, graines mixées ou farine de pois chiche",
+          "Une panure maison permet de maîtriser les ingrédients."
+        ],
+        [
+          "Goûter sucré",
+          "Fruit, carré de chocolat, poignée d'oléagineux, yaourt nature ou gâteau maison",
+          "Évite de dépendre des biscuits industriels de substitution."
+        ]
+      ],
+      "note": "En cas de maladie cœliaque récente, de fatigue persistante, de grossesse ou de régime très restrictif, un bilan avec un professionnel de santé peut être pertinent."
+    },
+    {
+      "type": "comparison",
+      "heading": "Aliments naturellement sans gluten ou produits de substitution ?",
+      "intro": "Les deux ont leur place, mais pas au même rythme dans le panier de courses.",
+      "left": {
+        "title": "La base à privilégier au quotidien",
+        "points": [
+          "Légumes, fruits, œufs, poissons, viandes non transformées et légumineuses.",
+          "Riz, pommes de terre, quinoa, sarrasin, maïs, millet et farines simples.",
+          "Composition courte, coût souvent plus maîtrisé et fibres plus faciles à augmenter.",
+          "Cuisine adaptable pour toute la famille, avec des recettes naturellement sans gluten."
+        ]
+      },
+      "right": {
+        "title": "Les produits sans gluten pratiques",
+        "points": [
+          "Pain, pâtes, biscuits, fonds de pizza et préparations prêtes à l'emploi.",
+          "Utiles pour dépanner, voyager, recevoir ou retrouver un repère gourmand.",
+          "Comparer les étiquettes : fibres, sucre, sel, matières grasses et prix varient fortement.",
+          "À consommer comme une solution pratique, pas comme l'unique fondation du régime."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "S'organiser en cuisine : une transition simple en 6 étapes",
+      "intro": "Changer tout son placard en une journée est rarement nécessaire. Une mise en place progressive limite le gaspillage et les erreurs.",
+      "steps": [
+        {
+          "title": "Faire l'inventaire",
+          "html": "<p>Identifiez les aliments contenant du gluten et ceux dont l'étiquette est ambiguë. Si l'éviction est médicale et stricte, séparez-les clairement ou donnez-les.</p>"
+        },
+        {
+          "title": "Sécuriser les indispensables",
+          "html": "<p>Commencez par le petit-déjeuner, le pain, les féculents, les sauces et les collations : ce sont les produits les plus souvent consommés et les plus susceptibles de contenir du gluten.</p>"
+        },
+        {
+          "title": "Prévoir trois féculents de base",
+          "html": "<p>Gardez par exemple du riz, des pommes de terre et du quinoa ou du sarrasin. Vous aurez toujours une option rapide pour accompagner un repas.</p>"
+        },
+        {
+          "title": "Cuisiner deux préparations polyvalentes",
+          "html": "<p>Préparez une grande plaque de légumes rôtis et une légumineuse cuite. Ils serviront dans une salade, un bol chaud, une soupe ou une garniture de galettes.</p>"
+        },
+        {
+          "title": "Mettre en place les règles anti-miettes",
+          "html": "<p>Réservez un grille-pain, une planche ou des condiments si nécessaire. Nettoyez le plan de travail avant la préparation et cuisinez d'abord la version sans gluten.</p>"
+        },
+        {
+          "title": "Noter ce qui fonctionne",
+          "html": "<p>Conservez vos marques fiables, recettes réussies et bonnes adresses. Cette liste personnelle fait gagner beaucoup de temps lors des prochaines courses.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Une journée sans gluten, simple et complète",
+      "html": "<p><strong>Petit-déjeuner :</strong> yaourt nature, flocons d'avoine certifiés sans gluten, kiwi et noix. <strong>Déjeuner :</strong> salade de quinoa, pois chiches, légumes croquants et feta. <strong>Dîner :</strong> saumon ou tofu, pommes de terre rôties et brocoli. <strong>Collation si besoin :</strong> fruit et poignée d'amandes. Adaptez les portions, les protéines et les produits laitiers ou végétaux à vos habitudes et besoins.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Manger au restaurant, voyager et garder le plaisir",
+      "html": "<p>Au restaurant, annoncez votre besoin dès la réservation puis au moment de commander. Une formulation précise aide : « Je dois manger strictement sans gluten, y compris sans contamination par la farine, la plancha, la friteuse ou les ustensiles. » Demandez comment le plat est préparé, plutôt que de vous fier uniquement à son intitulé.</p><p>Les options les plus faciles à sécuriser sont souvent les plats simples : viande, poisson, œufs ou légumineuses non panés, légumes, riz ou pommes de terre, sauce à part. Les buffets, boulangeries, pizzas, fritures et cuisines très enfarinées exigent davantage de prudence. En voyage, emportez quelques solutions de secours : crackers certifiés, fruits secs, barres dont vous avez vérifié la composition ou portions de céréales adaptées.</p><p>Le budget peut augmenter avec les produits de substitution, notamment le pain et les pâtisseries sans gluten. Réduisez cet écart en cuisinant des plats naturellement compatibles, en achetant riz et légumineuses en formats adaptés à votre consommation, et en réservant les préparations spécialisées aux moments où elles vous simplifient vraiment la vie.</p><p>Enfin, pour la pâtisserie, chaque farine a son caractère : le riz donne une texture légère, le sarrasin un goût plus rustique, la châtaigne une note douce, la farine de pois chiche convient au salé. Les mélanges sans gluten utilisent souvent amidon, gomme ou psyllium pour retrouver du liant. Suivez d'abord une recette conçue pour ces farines : remplacer gramme pour gramme la farine de blé fonctionne rarement.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quels aliments sont interdits dans un régime sans gluten ?",
+      "a_html": "<p>Il faut éviter le blé, le seigle, l'orge, le triticale et les ingrédients qui en dérivent, comme le malt. Cela concerne notamment le pain classique, les pâtes de blé, la semoule, de nombreuses pâtisseries, certaines sauces, panures et bières.</p><p>Lisez aussi les étiquettes des produits transformés : le gluten peut être présent dans des préparations où il n'est pas évident au premier regard.</p>"
+    },
+    {
+      "q": "Peut-on manger de l'avoine quand on est sans gluten ?",
+      "a_html": "<p>Oui, mais choisissez de l'<strong>avoine certifiée sans gluten</strong>. L'avoine ordinaire peut être contaminée lors de la culture, du transport ou de la fabrication avec du blé, de l'orge ou du seigle.</p><p>En cas de maladie cœliaque récemment diagnostiquée ou de symptômes persistants, parlez de son introduction à votre professionnel de santé.</p>"
+    },
+    {
+      "q": "Le régime sans gluten fait-il maigrir ?",
+      "a_html": "<p>Pas en lui-même. Une perte de poids peut survenir si l'on remplace des produits très transformés par des aliments bruts et que l'apport énergétique diminue, mais les produits sans gluten peuvent aussi être caloriques, sucrés ou gras.</p><p>Pour agir durablement sur le poids, privilégiez l'équilibre global des repas, la satiété, l'activité physique adaptée et un accompagnement personnalisé si nécessaire.</p>"
+    },
+    {
+      "q": "Quels sont les signes d'une intolérance au gluten ?",
+      "a_html": "<p>Le terme « intolérance au gluten » est souvent employé pour désigner la maladie cœliaque, mais les symptômes digestifs ne permettent pas de conclure seuls. Douleurs abdominales, diarrhée, constipation, fatigue ou anémie ont de nombreuses causes possibles.</p><p>Consultez un médecin avant toute éviction. Les analyses doivent idéalement être réalisées pendant que le gluten est encore consommé.</p>"
+    },
+    {
+      "q": "Comment éviter la contamination croisée à la maison ?",
+      "a_html": "<p>Nettoyez soigneusement les surfaces et ustensiles, utilisez une passoire propre, évitez le grille-pain commun et protégez les condiments des miettes. Des bocaux séparés ou des contenants à pression sont particulièrement pratiques pour le beurre, la confiture et les sauces.</p><p>Pour une maladie cœliaque, cuisinez le repas sans gluten avant les préparations avec farine et stockez les produits adaptés à l'écart des aliments contenant du gluten.</p>"
+    },
+    {
+      "q": "La bière est-elle sans gluten ?",
+      "a_html": "<p>La bière classique est généralement fabriquée à partir d'orge et contient donc du gluten. Certaines bières sont élaborées avec des céréales naturellement sans gluten ou sont spécifiquement formulées et étiquetées « sans gluten » : vérifiez toujours l'emballage.</p><p>Le vin, le cidre et les spiritueux simples sont souvent compatibles, mais les boissons aromatisées, mélangées ou au malt méritent une lecture attentive de l'étiquette.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Un régime sans gluten réussi repose moins sur l'accumulation de produits spécialisés que sur une cuisine variée, des étiquettes bien lues et une organisation adaptée à votre niveau de contrainte. Si l'éviction est nécessaire, prenez le temps de sécuriser vos habitudes sans vous priver de diversité : riz, sarrasin, légumineuses, légumes, fruits et recettes du monde offrent déjà un formidable terrain de jeu.</p><p>En cas de diagnostic récent, de symptômes, de fatigue ou de doute sur vos apports, faites-vous accompagner par votre médecin ou un diététicien. Vous gagnerez en sécurité, en confort et en plaisir à table.</p>",
+  "__slug": "guide-complet-pour-un-regime-sans-gluten-sain-et-equilibre"
+}

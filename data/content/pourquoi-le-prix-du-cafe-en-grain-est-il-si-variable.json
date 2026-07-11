@@ -1,0 +1,194 @@
+{
+  "title": "Pourquoi le prix du café en grain est-il si variable ? Les vraies raisons",
+  "meta_description": "Comprenez pourquoi le prix du café en grain varie : récoltes, climat, qualité, torréfaction et astuces pour acheter mieux sans payer trop cher.",
+  "reading_time_min": 10,
+  "hero_intro": "D'un paquet à 14 € le kilo à un café de terroir vendu trois fois plus cher, l'écart peut sembler difficile à justifier. Pourtant, le prix du café en grain ne dépend pas seulement de la marque ou du packaging : il raconte une chaîne complète, de la cerise récoltée à votre moulin. Comprendre cette mécanique permet de choisir un café adapté à vos goûts, à votre machine et à votre budget, sans confondre prix élevé et qualité garantie.",
+  "key_takeaways": [
+    "Le cours mondial concerne surtout le café vert : il n'explique qu'une partie du prix payé pour un paquet de café torréfié.",
+    "Le climat, les maladies des caféiers, les coûts de main-d'œuvre, le transport et les devises font varier le coût de la matière première.",
+    "L'origine, la méthode de récolte, le tri, le niveau de traçabilité et la torréfaction créent de vrais écarts de qualité et de prix.",
+    "Un café certifié ou de spécialité peut mieux rémunérer certains maillons de la filière, mais le logo ou le tarif ne suffisent pas à juger la tasse.",
+    "Pour acheter intelligemment, vérifiez surtout la date de torréfaction, les informations d'origine, le profil de torréfaction et le coût par tasse."
+  ],
+  "toc": [
+    "Du caféier au paquet : une filière longue et sensible",
+    "Climat, récoltes et marchés : pourquoi le café vert fluctue",
+    "Ce qui fait monter le prix après l'achat des grains verts",
+    "Café accessible, premium ou de spécialité : que paie-t-on vraiment ?",
+    "Arabica, robusta et blends : une comparaison utile",
+    "Comment évaluer le juste prix d'un café en grain",
+    "Acheter un bon café sans gaspiller son budget",
+    "FAQ : prix et choix du café en grain"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Du caféier au paquet : une filière longue et sensible",
+      "html": "<p>Le café en grain commence par une cerise cultivée dans des zones tropicales ou subtropicales, souvent sur de petites exploitations. Après la récolte, les fruits sont dépulpés ou séchés, fermentés selon le procédé choisi, lavés, séchés, décortiqués et triés. Le café devient alors du <strong>café vert</strong>, exportable mais encore impropre à la dégustation.</p><p>Il faut ensuite l'acheminer vers le pays de torréfaction, le stocker, le torréfier, l'ensacher, le distribuer et le vendre. À chaque étape s'ajoutent des coûts, des pertes, du savoir-faire et des risques. Un grain peu cher à l'achat peut donc arriver en rayon à un prix sensiblement différent selon le circuit choisi par la marque.</p><p>La torréfaction modifie notamment le poids du café : les grains perdent une partie de leur masse en chauffant. Le torréfacteur doit aussi régler précisément les machines, contrôler la qualité, conditionner le café dans un sachet protecteur et gérer les invendus. Ces opérations expliquent pourquoi le prix du café vert et celui du café en grain prêt à moudre ne doivent jamais être confondus.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les facteurs qui font bouger un prix, parfois en quelques semaines",
+      "points": [
+        "Une sécheresse, un gel, des pluies excessives ou une maladie peuvent réduire une récolte et tendre l'offre mondiale.",
+        "Le Brésil, le Vietnam, la Colombie et d'autres grands pays producteurs ont un poids important : un incident local peut avoir des répercussions internationales.",
+        "Les cours de l'arabica et du robusta sont négociés sur des marchés distincts et réagissent aussi aux anticipations des opérateurs.",
+        "Le dollar, les coûts du fret, l'énergie, les assurances et les délais portuaires influencent le coût d'importation en Europe.",
+        "La hausse du prix en rayon peut être décalée : certains torréfacteurs ont acheté leur café plusieurs mois auparavant."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les principales composantes du prix d'un café en grain",
+      "intro": "Le poids de chaque poste varie selon l'origine, le volume acheté et le mode de distribution, mais ce tableau aide à comprendre les écarts observés.",
+      "columns": [
+        "Élément",
+        "Effet sur le prix",
+        "Ce qu'il faut comprendre"
+      ],
+      "rows": [
+        [
+          "Récolte et travail agricole",
+          "Souvent déterminant",
+          "La cueillette sélective à la main et le tri méticuleux coûtent davantage qu'une production très mécanisée ou peu triée."
+        ],
+        [
+          "Climat et rendement",
+          "Très variable",
+          "Une récolte réduite par la sécheresse, le gel ou les pluies peut renchérir le café vert disponible."
+        ],
+        [
+          "Qualité du lot",
+          "De modéré à très fort",
+          "Altitude, variété, maturité des cerises, traitement post-récolte et défauts autorisés différencient les lots."
+        ],
+        [
+          "Transport et monnaie",
+          "Variable",
+          "Le fret, le carburant et l'évolution euro-dollar affectent le café importé, même si le torréfacteur est local."
+        ],
+        [
+          "Torréfaction et emballage",
+          "Modéré à important",
+          "Petites séries, contrôle qualité, sachet avec valve, logistique et distribution pèsent davantage sur de faibles volumes."
+        ],
+        [
+          "Marque et réseau de vente",
+          "Très variable",
+          "Marketing, intermédiaires, marges commerciales et livraison peuvent faire évoluer fortement le prix final."
+        ]
+      ],
+      "note": "Un prix plus élevé peut refléter une meilleure qualité ou une meilleure traçabilité, mais il peut aussi provenir du positionnement commercial : l'étiquette doit être lue dans son ensemble."
+    },
+    {
+      "type": "prose",
+      "heading": "Climat, récoltes et marchés : le café vert ne suit pas une ligne droite",
+      "html": "<p>Le caféier est une plante exigeante. Une période de sécheresse au mauvais moment peut limiter la floraison ou le remplissage des cerises ; des pluies persistantes peuvent compliquer le séchage et dégrader la qualité ; un épisode de froid exceptionnel peut endommager des plantations. Les effets ne s'arrêtent pas toujours à une saison : un arbre fragilisé peut mettre du temps à retrouver un rendement normal.</p><p>Le marché mondial amplifie parfois ces tensions. Les acheteurs, exportateurs et opérateurs suivent les prévisions de récolte, les stocks, les perturbations logistiques et les monnaies. Lorsqu'ils anticipent un manque de café, les cours peuvent progresser avant même que la pénurie soit visible dans les rayons. À l'inverse, une bonne récolte annoncée ou des stocks abondants peuvent détendre les prix.</p><p>Pour un consommateur français, le taux de change compte aussi. Le café vert étant largement échangé en dollars, un euro moins favorable peut alourdir la facture d'un importateur européen. Cela ne veut pas dire que chaque hausse de cours est automatiquement répercutée intégralement, mais cela explique pourquoi le prix d'un même café peut évoluer d'une année à l'autre.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le cours du café n'est pas le prix de votre paquet",
+      "html": "<p>Les cours internationaux reflètent principalement la valeur du café vert standardisé. Votre paquet inclut ensuite la sélection des lots, la torréfaction, l'emballage, la TVA, le transport local, la distribution et la marge du vendeur. Un café de terroir acheté en direct par un torréfacteur suit également une logique différente d'un café négocié comme matière première.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Arabica, robusta et assemblage : des profils et des coûts différents",
+      "intro": "Le nom de l'espèce donne une première indication, mais il ne résume jamais à lui seul la qualité d'un café.",
+      "left": {
+        "title": "Un café 100 % arabica",
+        "points": [
+          "Souvent recherché pour son profil aromatique plus nuancé, avec une acidité parfois plus présente.",
+          "Cultivé dans des conditions très diverses : un arabica d'entrée de gamme peut rester peu coûteux, tandis qu'un lot d'altitude très sélectionné sera plus cher.",
+          "Peut convenir aux amateurs de cafés fruités, floraux, chocolatés ou doux selon l'origine et la torréfaction.",
+          "La mention « 100 % arabica » est informative, mais ne garantit ni fraîcheur, ni traçabilité, ni qualité supérieure."
+        ]
+      },
+      "right": {
+        "title": "Robusta ou blend arabica-robusta",
+        "points": [
+          "Le robusta offre généralement plus de corps, davantage de caféine et une crema généreuse en espresso.",
+          "Il peut être plus compétitif, notamment lorsqu'il entre dans des assemblages destinés aux machines automatiques ou aux goûts intenses.",
+          "Un robusta bien travaillé peut être excellent ; l'associer à l'arabica permet aussi de construire un profil régulier et équilibré.",
+          "Un blend n'est pas un défaut : le point décisif est la transparence du torréfacteur et l'adéquation avec vos préférences."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Café accessible, premium ou de spécialité : que paie-t-on vraiment ?",
+      "html": "<p>Dans la grande distribution, un café en grain vendu à bas prix repose souvent sur de gros volumes, des assemblages et une chaîne logistique très optimisée. Il peut répondre à un usage quotidien, surtout si vous aimez une tasse intense et peu acide. En revanche, les informations sur la récolte, la ferme ou la date de torréfaction sont parfois limitées, ce qui rend la comparaison plus difficile.</p><p>Chez un torréfacteur artisanal, le tarif inclut fréquemment des achats en plus petits volumes, une sélection plus fine, une torréfaction récente et un accompagnement. Un café de spécialité va généralement plus loin dans l'identification du lot : pays, région, producteur ou coopérative, variété, altitude et méthode de traitement peuvent être précisés. Cette transparence a un coût, mais elle permet aussi de savoir ce que l'on achète.</p><p>À titre d'ordre de grandeur, on trouve souvent des cafés en grain courants autour de <strong>12 à 20 € le kilo</strong> en promotion ou en grande surface, des cafés de torréfacteurs autour de <strong>20 à 35 € le kilo</strong>, et des cafés très traçables ou de spécialité fréquemment entre <strong>35 et 55 € le kilo</strong>. Certains microlots rares dépassent largement ce niveau. Ces fourchettes varient avec l'origine, le format et le contexte du marché : elles ne constituent pas un classement absolu de la qualité.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "Le bon café n'est pas forcément le plus cher : c'est celui dont l'origine, la fraîcheur et le profil correspondent à votre palais et à votre méthode d'extraction.",
+      "author": "Repère pratique pour choisir sans se laisser guider uniquement par l'étiquette"
+    },
+    {
+      "type": "steps",
+      "heading": "Comment évaluer le juste prix d'un café en grain",
+      "intro": "Avant de comparer deux paquets, prenez quelques minutes pour regarder des critères concrets. Vous éviterez de payer un supplément uniquement pour un discours séduisant.",
+      "steps": [
+        {
+          "title": "Regardez la date de torréfaction",
+          "html": "<p>Une date précise est plus utile qu'une simple date limite de consommation. Pour la plupart des usages, achetez un café relativement récent et consommez-le progressivement. Un café trop ancien perd de ses arômes, même s'il reste parfaitement consommable.</p>"
+        },
+        {
+          "title": "Cherchez des informations vérifiables",
+          "html": "<p>Origine, région, variété, méthode de traitement, profil aromatique et niveau de torréfaction sont des indices utiles. Plus la fiche est précise, plus vous pouvez relier le prix à un lot réel plutôt qu'à une promesse vague.</p>"
+        },
+        {
+          "title": "Adaptez le café à votre équipement",
+          "html": "<p>Un espresso automatique appréciera souvent un café peu huileux et une torréfaction adaptée ; une cafetière filtre révélera volontiers des profils plus clairs et aromatiques. Un café onéreux mal réglé ou mal moulu donnera une tasse décevante.</p>"
+        },
+        {
+          "title": "Calculez le coût par tasse",
+          "html": "<p>Avec environ 8 à 10 g de grains pour un espresso, un kilo représente approximativement 100 à 125 cafés. Un paquet à 28 € le kilo revient donc autour de 22 à 28 centimes de café par espresso, hors eau, lait et énergie. Cette comparaison rend parfois un bon café plus accessible qu'il n'y paraît.</p>"
+        },
+        {
+          "title": "Testez par petites quantités",
+          "html": "<p>Commencez par 250 g ou 500 g chez un nouveau torréfacteur. Notez ce que vous aimez : corps, amertume, notes chocolatées, fruitées ou grillées. Vous construirez progressivement votre propre repère de qualité-prix.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Acheter mieux sans gaspiller",
+      "html": "<p>Évitez de constituer un stock de plusieurs kilos si vous buvez peu de café. Préférez un contenant hermétique, opaque et placé à température ambiante, loin de la chaleur et de l'humidité. Ne conservez pas le paquet ouvert au réfrigérateur : les odeurs et la condensation risquent d'altérer les grains.</p><p>Si votre budget est serré, choisissez un bon assemblage frais plutôt qu'un café rare mal conservé. Le réglage du moulin, la dose et la qualité de l'eau auront souvent plus d'effet sur la tasse qu'un petit écart de prix entre deux paquets.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Certifications, commerce direct et rémunération : ce que le prix peut aussi soutenir",
+      "html": "<p>Les mentions bio, commerce équitable ou les programmes de durabilité peuvent impliquer des cahiers des charges, des contrôles et des investissements spécifiques. Elles peuvent donc contribuer à un prix plus élevé. Elles répondent à des enjeux importants : pratiques agricoles, conditions de travail, primes collectives ou traçabilité, selon le label et le dispositif concerné.</p><p>Il faut toutefois éviter les raccourcis. Une certification ne garantit pas automatiquement une tasse exceptionnelle, ni une rémunération identique pour tous les producteurs. De même, l'expression « commerce direct » n'a pas toujours la même définition selon les torréfacteurs. Le meilleur réflexe consiste à chercher des explications claires sur les partenaires, les engagements et les lots achetés.</p><p>Un prix durable doit permettre à tous les acteurs de vivre de leur activité, tout en laissant au consommateur la liberté de choisir. Alterner entre un café quotidien abordable et des cafés plus singuliers, achetés ponctuellement chez un torréfacteur transparent, est une approche réaliste et gourmande.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi le prix du café en grain augmente-t-il autant ?",
+      "a_html": "<p>La hausse peut venir du climat dans les pays producteurs, de récoltes plus faibles, de l'augmentation des coûts de transport et d'énergie, de l'évolution du dollar ou des cours du café vert. Elle peut aussi refléter des coûts de torréfaction, d'emballage et de distribution plus élevés.</p><p>Le décalage entre ces événements et le prix en magasin est fréquent, car les acheteurs et torréfacteurs disposent parfois de stocks ou de contrats conclus à l'avance.</p>"
+    },
+    {
+      "q": "Le café en grain est-il moins cher que le café en capsules ?",
+      "a_html": "<p>À quantité de café équivalente, le café en grain est généralement bien moins coûteux que les capsules. Un espresso préparé avec 8 à 10 g de grains revient souvent à quelques dizaines de centimes pour le café, selon le prix du kilo.</p><p>Il faut néanmoins intégrer l'achat et l'entretien de la machine avec broyeur, ainsi que le temps de préparation. Sur la durée, le grain reste souvent avantageux pour une consommation régulière.</p>"
+    },
+    {
+      "q": "Un café en grain cher est-il forcément meilleur ?",
+      "a_html": "<p>Non. Un tarif élevé peut être justifié par un microlot, une récolte manuelle sélective, une origine rare ou une forte traçabilité, mais le résultat dépend aussi de vos goûts, de la fraîcheur et de votre méthode d'extraction.</p><p>Un café très clair et fruité peut être remarquable pour un amateur de filtre, mais décevoir une personne qui recherche un espresso corsé. Commencez par des formats réduits pour trouver votre style.</p>"
+    },
+    {
+      "q": "Quel budget prévoir pour un bon café en grain ?",
+      "a_html": "<p>Pour un café quotidien de bonne facture, une enveloppe d'environ 20 à 35 € le kilo est souvent un bon point de départ chez de nombreux torréfacteurs, selon les promotions et les formats. En grande surface, des options moins chères existent, avec une traçabilité et une fraîcheur parfois plus variables.</p><p>Au-delà, vous entrez fréquemment dans l'univers des cafés de spécialité, des origines très identifiées ou des lots plus rares. Le meilleur budget est celui qui vous permet d'acheter frais et de consommer sans stocker excessivement.</p>"
+    },
+    {
+      "q": "Les cafés bio et équitables coûtent-ils nécessairement plus cher ?",
+      "a_html": "<p>Souvent, mais pas systématiquement. Les contrôles, les démarches de certification et certaines pratiques agricoles peuvent ajouter des coûts. Le prix dépend aussi des volumes, de l'origine, du circuit de vente et de la politique commerciale de la marque.</p><p>Pour choisir en conscience, lisez le label concerné et les informations données par le vendeur. Une mention claire sur l'origine et les engagements est plus utile qu'un argument général sans détail.</p>"
+    },
+    {
+      "q": "Comment conserver le café en grain pour préserver son goût ?",
+      "a_html": "<p>Gardez les grains dans leur emballage bien refermé ou dans une boîte hermétique et opaque, à l'abri de l'air, de la lumière, de la chaleur et de l'humidité. Moulez seulement la quantité nécessaire juste avant l'extraction.</p><p>Acheter de petites quantités, adaptées à votre consommation sur quelques semaines, est souvent la solution la plus simple pour profiter des arômes sans gaspillage.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Le prix du café en grain varie parce qu'il dépend d'une agriculture vulnérable au climat, de marchés mondiaux mouvants et d'une succession de métiers essentiels avant l'arrivée du paquet dans votre cuisine. Il reflète aussi des choix de qualité : récolte, tri, origine, torréfaction, fraîcheur et transparence.</p><p>Pour faire un achat pertinent, ne vous fiez ni au prix seul ni à une promesse marketing isolée. Comparez les informations du paquet, achetez une quantité raisonnable, ajustez votre moulin et testez. Vous trouverez ainsi le café qui vous plaît vraiment, au juste prix pour votre usage.</p>",
+  "__slug": "pourquoi-le-prix-du-cafe-en-grain-est-il-si-variable"
+}

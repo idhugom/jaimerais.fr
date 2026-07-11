@@ -1,0 +1,213 @@
+{
+  "title": "Loi Chatel et assurance bateau : comment résilier votre contrat nautique ?",
+  "meta_description": "Assurance bateau : utilisez la loi Chatel pour résilier au bon moment, connaître vos délais et éviter une reconduction non souhaitée.",
+  "reading_time_min": 10,
+  "hero_intro": "Votre assurance bateau se renouvelle bientôt et vous souhaitez changer d'assureur, vendre votre embarcation ou simplement revoir vos garanties ? La loi Chatel peut vous aider à ne pas subir une reconduction tacite, à condition de bien identifier le type de contrat et le délai qui vous concerne. Voici les règles, les démarches et les cas particuliers pour résilier votre assurance nautique sereinement.",
+  "key_takeaways": [
+    "La loi Chatel concerne les contrats d'assurance à reconduction tacite souscrits par un particulier hors activité professionnelle, ce qui inclut généralement une assurance plaisance individuelle.",
+    "L'assureur doit rappeler la date limite de résiliation sur l'avis d'échéance annuel. S'il prévient trop tard, vous bénéficiez en principe de 20 jours supplémentaires.",
+    "Sans avis d'échéance ou sans rappel de la possibilité de résilier, vous pouvez mettre fin au contrat après sa reconduction, sans pénalité.",
+    "La lettre recommandée avec accusé de réception reste la solution la plus prudente, mais certains assureurs acceptent aussi une résiliation depuis l'espace client ou sur un autre support durable.",
+    "La résiliation à tout moment après un an, souvent associée à la loi Hamon, ne s'applique pas automatiquement aux assurances bateau. Vérifiez les conditions de votre contrat."
+  ],
+  "toc": [
+    "La loi Chatel s'applique-t-elle à l'assurance bateau ?",
+    "Les délais à connaître pour résilier sans erreur",
+    "Lire correctement son avis d'échéance",
+    "Résilier son assurance nautique étape par étape",
+    "Loi Chatel, loi Hamon et autres motifs : quelles différences ?",
+    "Vente du bateau, changement de situation et hausse de cotisation",
+    "Modèle de lettre et informations à fournir",
+    "Les erreurs qui retardent une résiliation",
+    "Que faire avant de naviguer sans l'ancien contrat ?"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "La loi Chatel s'applique-t-elle à l'assurance bateau ?",
+      "html": "<p>La loi Chatel, intégrée au Code des assurances, protège les particuliers face à la <strong>reconduction tacite</strong> de certains contrats. Son principe est simple : lorsqu'un contrat se renouvelle chaque année automatiquement, l'assureur doit vous rappeler clairement que vous pouvez ne pas le reconduire et vous indiquer la date limite pour le faire.</p><p>Une <strong>assurance bateau de plaisance</strong> souscrite à titre personnel entre généralement dans ce cadre, dès lors qu'elle comporte une échéance annuelle et une reconduction automatique. Cela peut concerner une garantie responsabilité civile, une formule tous risques, la couverture d'un voilier, d'un bateau à moteur ou encore d'une embarcation de loisirs. Le contrat doit toutefois avoir été souscrit en dehors de votre activité professionnelle.</p><p>Avant d'agir, ouvrez vos conditions particulières : recherchez les rubriques « durée », « échéance », « reconduction » et « résiliation ». Vous y trouverez la date d'échéance principale, le préavis normalement demandé et les moyens de notification admis par votre assureur. Ces éléments restent utiles, même lorsque la loi Chatel vous accorde un délai supplémentaire.</p><p>Attention : la loi Chatel ne permet pas de résilier n'importe quand pour n'importe quelle raison. Elle encadre surtout l'information que doit vous donner l'assureur à l'approche du renouvellement. D'autres situations, comme la vente de l'embarcation ou une modification du risque assuré, obéissent à des règles distinctes.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le bon réflexe : distinguer date d'échéance et date anniversaire",
+      "html": "<p>La date anniversaire de souscription n'est pas toujours la date à laquelle votre assurance peut être résiliée. Certains contrats prévoient une <strong>échéance commune</strong>, par exemple au 1er janvier ou au 1er avril. Fiez-vous donc d'abord à la date limite inscrite sur votre dernier avis d'échéance et dans vos conditions particulières.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Délais de résiliation : quel droit selon l'avis d'échéance reçu ?",
+      "intro": "Le contenu et la date d'envoi de l'avis d'échéance déterminent votre marge de manoeuvre au titre de la loi Chatel.",
+      "columns": [
+        "Situation",
+        "Votre délai pour résilier",
+        "Effet pratique"
+      ],
+      "rows": [
+        [
+          "L'avis d'échéance rappelle clairement la date limite et vous parvient assez tôt",
+          "Respectez le préavis prévu au contrat, souvent un à deux mois avant l'échéance",
+          "Le contrat s'arrête à la prochaine échéance annuelle"
+        ],
+        [
+          "L'avis arrive moins de 15 jours avant la date limite de résiliation",
+          "20 jours à compter de la date d'envoi figurant sur l'avis",
+          "Vous pouvez résilier malgré le préavis contractuel déjà presque écoulé"
+        ],
+        [
+          "L'avis arrive après la date limite de résiliation",
+          "20 jours à compter de la date d'envoi figurant sur l'avis",
+          "Vous disposez d'une nouvelle fenêtre pour dénoncer la reconduction"
+        ],
+        [
+          "Aucun avis d'échéance n'est envoyé, ou le droit de résilier n'y est pas rappelé",
+          "À tout moment après la reconduction",
+          "Résiliation sans pénalité ; conservez les preuves de l'absence d'information"
+        ]
+      ],
+      "note": "Ces règles visent les contrats à tacite reconduction conclus par des personnes physiques hors cadre professionnel. En cas de doute, demandez à l'assureur de vous communiquer l'avis d'échéance et la clause applicable."
+    },
+    {
+      "type": "prose",
+      "heading": "Lire correctement son avis d'échéance",
+      "html": "<p>L'avis d'échéance annuel n'est pas un simple appel de cotisation. Pour un contrat concerné par la loi Chatel, il doit faire apparaître de manière lisible la <strong>date limite d'exercice de votre droit de résiliation</strong>. Il doit aussi vous permettre de savoir à partir de quand le délai court, notamment grâce à sa date d'envoi.</p><p>Lorsque l'assureur vous informe moins de quinze jours avant l'expiration du préavis, ou une fois ce préavis dépassé, il doit vous indiquer que vous disposez de vingt jours pour résilier. Dans ce cas, gardez l'enveloppe si vous en recevez une : le cachet postal peut aider à établir la date d'envoi. Pour un avis électronique, archivez le message et son horodatage.</p><p>Ne confondez pas l'avis d'échéance avec un simple relevé de prélèvement ou une publicité commerciale. Si vous ne retrouvez aucun document, demandez une copie à votre assureur par écrit. Sans information conforme, vous pouvez invoquer la loi Chatel, mais il est plus simple de constituer un dossier complet avant d'envoyer votre demande.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Résilier son assurance bateau avec la loi Chatel : les 5 étapes",
+      "intro": "Une démarche courte, mais qui mérite d'être documentée pour éviter tout désaccord sur le délai ou la réception de votre demande.",
+      "steps": [
+        {
+          "title": "Vérifiez l'échéance et votre qualité d'assuré",
+          "html": "<p>Contrôlez que le contrat est bien à reconduction tacite, qu'il couvre votre bateau à titre privé et que vous êtes le souscripteur. Relevez le numéro de contrat, l'immatriculation ou le nom de l'embarcation, la date d'échéance et le préavis indiqué.</p>"
+        },
+        {
+          "title": "Identifiez la situation applicable",
+          "html": "<p>Comparez la date d'envoi de l'avis avec la date limite de résiliation. Si l'information est tardive, notez précisément la période de vingt jours. En l'absence d'avis conforme, mentionnez ce manquement dans votre courrier.</p>"
+        },
+        {
+          "title": "Rédigez une demande sans ambiguïté",
+          "html": "<p>Indiquez vos coordonnées, la référence du contrat et votre volonté de résilier. Au titre de la loi Chatel, vous n'avez pas à justifier un changement d'assureur ou une baisse d'utilisation du bateau. Précisez le fondement de votre demande et la date d'effet attendue.</p>"
+        },
+        {
+          "title": "Envoyez par un moyen traçable",
+          "html": "<p>La lettre recommandée avec accusé de réception est la méthode la plus sécurisante. Si votre assureur propose une résiliation depuis votre espace en ligne ou un formulaire dédié, téléchargez immédiatement l'accusé de réception et la confirmation sur support durable.</p>"
+        },
+        {
+          "title": "Contrôlez la confirmation et le remboursement éventuel",
+          "html": "<p>L'assureur doit vous confirmer la prise en compte de la résiliation. Si une cotisation a été prélevée au-delà de la période réellement garantie, demandez le remboursement de la part correspondant à la période non couverte lorsque votre situation y ouvre droit.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Loi Chatel, loi Hamon ou résiliation pour changement de situation ?",
+      "intro": "Ces dispositifs sont souvent confondus. Ils ne produisent ni les mêmes effets ni les mêmes délais pour une assurance nautique.",
+      "left": {
+        "title": "La loi Chatel : un droit lié à l'avis d'échéance",
+        "points": [
+          "S'applique aux contrats à tacite reconduction concernés, souscrits à titre privé.",
+          "Protège contre un avis d'échéance absent, incomplet ou envoyé trop tard.",
+          "Permet de résilier à l'échéance ou dans le délai supplémentaire prévu.",
+          "Ne dispense pas de vérifier les dates et de conserver les preuves."
+        ]
+      },
+      "right": {
+        "title": "Les autres possibilités : selon l'événement",
+        "points": [
+          "La résiliation à tout moment après un an prévue par la loi Hamon ne vise pas automatiquement l'assurance bateau.",
+          "La vente, la perte du bien assuré ou une modification significative du risque peuvent ouvrir des droits spécifiques.",
+          "Une hausse de prime peut parfois justifier une résiliation si le contrat le prévoit.",
+          "Les garanties et délais dépendent alors du Code des assurances et de vos conditions contractuelles."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Vente du bateau, changement de situation et hausse de cotisation : les autres cas",
+      "html": "<p>Vous vendez votre bateau ? Ne vous contentez pas d'arrêter le prélèvement. Informez rapidement l'assureur par écrit et joignez, si possible, un justificatif de cession. La vente a des conséquences particulières sur le contrat d'assurance : la couverture peut être transférée à l'acquéreur dans les conditions prévues par la loi, puis suspendue ou résiliée selon la procédure applicable. Demandez toujours une confirmation écrite de la date de fin de votre engagement.</p><p>Un <strong>changement de situation qui modifie réellement le risque</strong> peut aussi permettre une résiliation : changement durable de port d'attache, modification de l'usage déclaré, changement de propriétaire ou disparition du risque, par exemple. Il faut en informer l'assureur dans le délai prévu et démontrer le lien direct entre l'événement et le risque couvert. Une période d'inactivité temporaire du bateau ne suffit pas nécessairement.</p><p>En cas d'augmentation de cotisation, relisez attentivement le contrat. Beaucoup de contrats prévoient une faculté de résiliation en cas de hausse hors taxes, évolution réglementaire ou variation prévue par une clause d'indexation. Le droit n'est pas automatique : regardez le motif de l'augmentation, le délai de contestation et les exclusions indiquées dans la notice.</p><p>Enfin, évitez de présumer que la loi Hamon vous autorise à quitter votre assureur nautique à tout moment après la première année. Cette faculté concerne principalement certaines assurances obligatoires liées à un véhicule terrestre à moteur et l'assurance habitation. Pour une assurance plaisance, elle n'est applicable que si un texte ou votre contrat le prévoit expressément.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les informations à réunir pour votre lettre de résiliation",
+      "intro": "Un courrier court est suffisant, à condition de permettre à l'assureur d'identifier le contrat et le motif juridique de votre démarche.",
+      "columns": [
+        "Élément à indiquer",
+        "Pourquoi c'est utile",
+        "Exemple de formulation"
+      ],
+      "rows": [
+        [
+          "Vos coordonnées et celles de l'assureur",
+          "Identifier le souscripteur et le destinataire",
+          "Nom, adresse, numéro de téléphone et adresse du service résiliation"
+        ],
+        [
+          "Référence du contrat et du bateau",
+          "Éviter toute confusion entre plusieurs garanties",
+          "Contrat n° 123456 ; bateau immatriculé ou identifié sous la référence indiquée au contrat"
+        ],
+        [
+          "Votre demande explicite",
+          "Lever toute ambiguïté sur votre intention",
+          "Je vous notifie ma décision de résilier le contrat mentionné ci-dessus"
+        ],
+        [
+          "Motif et délai invoqué",
+          "Justifier l'application de la loi Chatel",
+          "Votre avis d'échéance ayant été adressé tardivement, j'exerce mon droit de résiliation dans le délai de vingt jours"
+        ],
+        [
+          "Date et signature",
+          "Donner une valeur complète au courrier",
+          "Fait à …, le … ; signature du souscripteur"
+        ]
+      ],
+      "note": "Vous pouvez demander une confirmation écrite de la date de résiliation et, si nécessaire, le remboursement de toute cotisation perçue pour une période non garantie."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Exemple de formulation à adapter",
+      "html": "<p><strong>Objet : résiliation de mon assurance bateau n° …</strong></p><p>Madame, Monsieur, je vous informe de ma décision de résilier mon contrat d'assurance bateau n° …, concernant l'embarcation … . Votre avis d'échéance m'ayant été adressé le …, j'exerce mon droit de résiliation dans les conditions prévues par l'article L. 113-15-1 du Code des assurances. Je vous remercie de me confirmer par écrit la date effective de fin de contrat et la régularisation éventuelle de ma cotisation.</p><p>Adaptez la phrase centrale si vous résiliez dans le préavis normal, après une vente ou au titre d'une clause de hausse de cotisation. Inutile d'inventer un motif : une demande exacte est plus solide qu'un courrier trop détaillé mais inadapté.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les erreurs qui retardent une résiliation",
+      "html": "<ul><li><strong>Envoyer le courrier le dernier jour</strong> : anticipez de quelques jours, surtout si le contrat impose un mode d'envoi précis.</li><li><strong>Ne pas garder de preuve</strong> : conservez copie de la lettre, avis d'échéance, preuve de dépôt et accusé de réception ou confirmation numérique.</li><li><strong>Confondre résiliation et opposition au prélèvement</strong> : bloquer un paiement ne met pas fin au contrat et peut créer un impayé.</li><li><strong>Utiliser la loi Hamon sans vérification</strong> : elle ne donne pas systématiquement un droit de résiliation à tout moment pour un bateau de plaisance.</li><li><strong>Laisser le bateau sans garantie</strong> : une nouvelle assurance doit idéalement prendre effet avant la fin de l'ancienne si vous continuez à naviguer ou à stationner dans un port exigeant une attestation.</li></ul>"
+    },
+    {
+      "type": "prose",
+      "heading": "Que vérifier avant de naviguer sans l'ancien contrat ?",
+      "html": "<p>En France, l'assurance d'un bateau de plaisance n'est pas systématiquement imposée par une obligation générale identique à celle de l'assurance automobile. Dans la pratique, une <strong>responsabilité civile nautique</strong> est très souvent demandée par un port, un club, une zone de mouillage, une société de location ou l'organisateur d'une régate. Elle reste surtout essentielle pour couvrir les dommages que vous pourriez causer à un tiers.</p><p>Si vous changez d'assureur, organisez la continuité : vérifiez la date de fin de l'ancien contrat et la date d'effet exacte du nouveau. Comparez les montants de franchise, la zone de navigation, l'assistance en mer, le renflouement, le vol, les dommages au moteur, le remorquage et les exclusions liées à l'hivernage ou à la location entre particuliers.</p><p>Une formule moins chère n'est pas toujours équivalente. Pour un petit bateau utilisé ponctuellement, une responsabilité civile étendue peut suffire selon votre situation. Pour un voilier habitable, un bateau à moteur de valeur ou une navigation plus lointaine, les garanties dommages, assistance et frais de sauvetage méritent une lecture attentive. La meilleure résiliation est celle qui s'accompagne d'une couverture adaptée à vos prochains projets de navigation.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel est le délai de résiliation d'une assurance bateau avec la loi Chatel ?",
+      "a_html": "<p>Le délai normal est celui indiqué par votre contrat et rappelé sur l'avis d'échéance, souvent un ou deux mois avant l'échéance annuelle. Si l'assureur vous envoie l'avis moins de quinze jours avant cette date limite, ou après celle-ci, vous disposez en principe de <strong>vingt jours à compter de l'envoi de l'avis</strong> pour résilier.</p><p>Sans avis d'échéance conforme, vous pouvez résilier après la reconduction du contrat, sans pénalité. Gardez tous les éléments prouvant l'absence ou l'irrégularité de l'information.</p>"
+    },
+    {
+      "q": "Puis-je résilier mon assurance bateau à tout moment après un an ?",
+      "a_html": "<p>Pas nécessairement. La résiliation à tout moment après un an, couramment appelée résiliation infra-annuelle ou loi Hamon, ne s'applique pas automatiquement aux contrats d'assurance plaisance. Elle concerne principalement certaines assurances auto et habitation.</p><p>Votre contrat nautique peut toutefois prévoir une souplesse commerciale. Vérifiez ses conditions générales ou interrogez directement l'assureur avant d'envoyer votre demande.</p>"
+    },
+    {
+      "q": "La lettre recommandée est-elle obligatoire pour résilier une assurance nautique ?",
+      "a_html": "<p>La lettre recommandée avec accusé de réception est vivement conseillée, car elle apporte une preuve claire de l'envoi et de la réception. Selon le contrat et les outils proposés par l'assureur, une résiliation par voie électronique, depuis l'espace client ou via un autre support durable peut aussi être admise.</p><p>Quel que soit le canal utilisé, conservez une confirmation datée contenant la référence du contrat et votre demande de résiliation.</p>"
+    },
+    {
+      "q": "Comment résilier l'assurance d'un bateau vendu ?",
+      "a_html": "<p>Prévenez votre assureur sans attendre, par écrit, en indiquant la date de vente et les références de l'embarcation. Joignez une copie de l'acte ou du certificat de cession si vous en possédez un. La vente du bateau entraîne des règles spécifiques concernant le transfert, la suspension et la résiliation du contrat.</p><p>Demandez à l'assureur de vous confirmer formellement la date de fin de garantie et la régularisation de la cotisation. Ne supposez pas que la vente a, à elle seule, stoppé tous les effets administratifs du contrat.</p>"
+    },
+    {
+      "q": "Que faire si l'assureur refuse ma résiliation au titre de la loi Chatel ?",
+      "a_html": "<p>Répondez par écrit en rappelant la référence du contrat, la date de l'avis d'échéance et le fondement de votre demande. Joignez les copies utiles : avis reçu, enveloppe le cas échéant, lettre de résiliation et preuve de dépôt.</p><p>Si le désaccord persiste, contactez le service réclamation de l'assureur. Vous pourrez ensuite saisir gratuitement le médiateur de l'assurance selon la procédure indiquée dans vos conditions contractuelles, après avoir effectué cette réclamation préalable.</p>"
+    },
+    {
+      "q": "Peut-on arrêter les prélèvements pour mettre fin au contrat ?",
+      "a_html": "<p>Non. Faire opposition à un prélèvement ne vaut pas résiliation. Le contrat peut rester en vigueur et l'assureur peut vous réclamer la cotisation due, avec les conséquences prévues en cas de non-paiement.</p><p>Envoyez une demande de résiliation valable, puis surveillez vos prélèvements. Si une somme est prélevée à tort après la date effective de fin de contrat, réclamez sa régularisation avec les justificatifs correspondants.</p>"
+    }
+  ],
+  "conclusion_html": "<p>La loi Chatel vous donne un levier précieux pour ne pas rester lié à une assurance bateau reconduite sans information claire. Repérez l'échéance, contrôlez la date de l'avis, envoyez une demande traçable et gardez toutes vos preuves : ces quatre réflexes suffisent dans la plupart des situations.</p><p>Si votre projet est de changer d'assureur, ne vous arrêtez pas au prix. Assurez-vous que votre future couverture correspond réellement à votre bateau, à son lieu de stationnement et à votre programme de navigation. Vous pourrez alors larguer les amarres avec un contrat choisi, et non subi.</p>",
+  "__slug": "loi-chatel-resilier-assurance"
+}

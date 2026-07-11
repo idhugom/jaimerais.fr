@@ -1,0 +1,244 @@
+{
+  "title": "Comment mettre Google en page d'accueil : Chrome, Edge, Firefox et Safari",
+  "meta_description": "Faire de Google votre page d'accueil sur Chrome, Edge, Firefox ou Safari : étapes simples, réglages utiles et solutions aux problèmes courants.",
+  "reading_time_min": 9,
+  "hero_intro": "Vous voulez retrouver Google dès l'ouverture de votre navigateur, sans passer par une page imposée ou une ancienne session ? Le réglage est simple, à condition de distinguer la page d'accueil, les pages ouvertes au démarrage et le moteur de recherche par défaut. Voici les méthodes fiables pour configurer Google sur ordinateur et mobile, puis vérifier que tout fonctionne comme prévu.",
+  "key_takeaways": [
+    "Pour ouvrir Google automatiquement, réglez les « pages au démarrage » de votre navigateur : ce n'est pas toujours la même chose que la page d'accueil.",
+    "Le bouton Accueil, lorsqu'il est disponible, peut être configuré séparément pour renvoyer vers google.fr ou google.com.",
+    "Définir Google comme moteur de recherche permet d'utiliser Google depuis la barre d'adresse, mais ne change pas forcément la page affichée au lancement.",
+    "Chrome, Edge, Firefox et Safari proposent des chemins de réglages différents ; les intitulés peuvent légèrement varier selon la version.",
+    "Si une page indésirable revient malgré vos réglages, vérifiez les extensions, les logiciels installés et une éventuelle gestion professionnelle du navigateur."
+  ],
+  "toc": [
+    "Comprendre les réglages à modifier",
+    "Mettre Google au démarrage dans Chrome",
+    "Configurer Google dans Edge, Firefox et Safari",
+    "Personnaliser Google sans installer d'extension risquée",
+    "Définir Google sur mobile",
+    "Résoudre les problèmes de page d'accueil"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Page d'accueil, démarrage et moteur de recherche : ne les confondez plus",
+      "html": "<p>Dire « je veux Google en page d'accueil » peut désigner trois choses différentes. Or, chaque navigateur les traite dans un réglage distinct. Identifier votre besoin évite de modifier une option qui ne produira pas l'effet attendu.</p><p><strong>Les pages au démarrage</strong> sont celles qui s'ouvrent lorsque vous lancez le navigateur. C'est le bon réglage si vous souhaitez voir Google immédiatement à chaque ouverture de Chrome, Edge ou Firefox. <strong>La page d'accueil</strong>, elle, correspond généralement à la page affichée après un clic sur l'icône en forme de maison. Enfin, <strong>le moteur de recherche par défaut</strong> détermine le service utilisé quand vous tapez une recherche dans la barre d'adresse.</p><ul><li>Vous voulez que Google apparaisse à l'ouverture du navigateur : configurez les pages au démarrage.</li><li>Vous voulez revenir à Google d'un clic : activez et réglez le bouton Accueil.</li><li>Vous voulez chercher avec Google depuis la barre d'adresse : choisissez Google comme moteur de recherche par défaut.</li><li>Vous voulez une page vierge ou une liste de raccourcis dans un nouvel onglet : regardez le réglage des nouveaux onglets, souvent plus limité.</li></ul><p>Vous pouvez entrer <strong>https://www.google.fr</strong> si vous préférez l'interface française. L'adresse <strong>https://www.google.com</strong> fonctionne aussi, mais Google peut vous rediriger vers une version locale selon votre langue, votre pays ou vos paramètres de compte : ce comportement est normal.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Quel réglage correspond à votre besoin ?",
+      "intro": "Avant de suivre les étapes, choisissez l'action que vous souhaitez réellement automatiser.",
+      "left": {
+        "title": "Je veux voir Google dès l'ouverture",
+        "points": [
+          "Réglez « Au démarrage », « Au lancement » ou « À l'ouverture » selon le navigateur.",
+          "Ajoutez l'adresse https://www.google.fr dans la liste des pages à ouvrir.",
+          "Retirez les pages anciennes qui s'ouvrent en même temps si elles ne vous servent plus.",
+          "Désactivez l'option de restauration de la session si elle reprend systématiquement vos anciens onglets."
+        ]
+      },
+      "right": {
+        "title": "Je veux utiliser Google pour mes recherches",
+        "points": [
+          "Ouvrez les paramètres de recherche de votre navigateur.",
+          "Sélectionnez Google comme moteur de recherche par défaut.",
+          "Ce réglage agit sur les recherches saisies dans la barre d'adresse.",
+          "Il ne remplace pas automatiquement la page affichée au démarrage."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Mettre Google en page de démarrage dans Google Chrome",
+      "intro": "Sur Chrome pour ordinateur, la méthode la plus fiable consiste à définir une ou plusieurs pages qui s'ouvriront au lancement.",
+      "steps": [
+        {
+          "title": "Ouvrez les paramètres de Chrome",
+          "html": "<p>Cliquez sur le menu à trois points, en haut à droite, puis sur <strong>Paramètres</strong>. Vous pouvez aussi saisir <strong>chrome://settings</strong> dans la barre d'adresse.</p>"
+        },
+        {
+          "title": "Accédez à la section « Au démarrage »",
+          "html": "<p>Dans le menu latéral, sélectionnez <strong>Au démarrage</strong>. Choisissez l'option indiquant d'ouvrir une page ou un ensemble de pages spécifiques.</p>"
+        },
+        {
+          "title": "Ajoutez l'adresse de Google",
+          "html": "<p>Cliquez sur <strong>Ajouter une page</strong>, puis saisissez <strong>https://www.google.fr</strong>. Si d'autres adresses sont déjà enregistrées, vous pouvez les conserver ou les supprimer avec le menu associé à chaque ligne.</p>"
+        },
+        {
+          "title": "Configurez aussi le bouton Accueil si nécessaire",
+          "html": "<p>Pour disposer d'un raccourci permanent, ouvrez la rubrique <strong>Apparence</strong>, activez l'affichage du bouton Accueil puis choisissez une adresse Web personnalisée. Indiquez de nouveau l'adresse de Google.</p>"
+        },
+        {
+          "title": "Vérifiez le moteur de recherche",
+          "html": "<p>Dans la rubrique <strong>Moteur de recherche</strong>, choisissez Google si ce n'est pas déjà le cas. Fermez complètement Chrome et relancez-le pour contrôler que la bonne page s'ouvre.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les chemins rapides selon votre navigateur",
+      "intro": "Les noms exacts des menus peuvent varier légèrement selon la version et le système d'exploitation, mais ces parcours restent les plus courants sur ordinateur.",
+      "columns": [
+        "Navigateur",
+        "Pour ouvrir Google au démarrage",
+        "Pour choisir Google pour les recherches",
+        "À savoir"
+      ],
+      "rows": [
+        [
+          "Chrome",
+          "Paramètres > Au démarrage > Ouvrir une page ou un ensemble de pages spécifiques",
+          "Paramètres > Moteur de recherche",
+          "Le bouton Accueil se règle séparément dans Apparence."
+        ],
+        [
+          "Microsoft Edge",
+          "Paramètres > Démarrer, accueil et nouveaux onglets > Au démarrage",
+          "Paramètres > Confidentialité, recherche et services, ou Moteur de recherche",
+          "La page du nouvel onglet n'est pas toujours librement remplaçable sans extension."
+        ],
+        [
+          "Mozilla Firefox",
+          "Paramètres > Accueil > Page d'accueil et nouvelles fenêtres > URL personnalisées",
+          "Paramètres > Recherche > Moteur de recherche par défaut",
+          "Firefox permet de régler séparément l'accueil, les nouvelles fenêtres et les nouveaux onglets."
+        ],
+        [
+          "Safari sur Mac",
+          "Safari > Réglages > Général > Page d'accueil, puis choisir cette page pour les nouvelles fenêtres",
+          "Safari > Réglages > Recherche",
+          "Réglez également « Les nouvelles fenêtres s'ouvrent avec » sur la page d'accueil."
+        ],
+        [
+          "Safari sur iPhone ou iPad",
+          "Pas de page de démarrage personnalisée permanente dans tous les cas",
+          "Réglages iOS > Safari > Moteur de recherche",
+          "L'ajout de Google à l'écran d'accueil est souvent l'alternative la plus pratique."
+        ]
+      ],
+      "note": "Les intitulés peuvent être traduits différemment si votre navigateur est réglé dans une autre langue."
+    },
+    {
+      "type": "prose",
+      "heading": "Configurer Google dans Edge, Firefox et Safari",
+      "html": "<p>Dans <strong>Microsoft Edge</strong>, ouvrez le menu à trois points, puis <strong>Paramètres</strong>. Recherchez la rubrique consacrée au démarrage, à l'accueil et aux nouveaux onglets. Dans la partie « Au démarrage », choisissez l'option permettant d'ouvrir des pages précises et ajoutez Google. Si vous souhaitez utiliser le bouton en forme de maison, activez-le dans les réglages d'apparence et saisissez la même adresse.</p><p>Dans <strong>Mozilla Firefox</strong>, ouvrez le menu à trois barres, puis <strong>Paramètres</strong> et la section <strong>Accueil</strong>. Dans la ligne concernant la page d'accueil et les nouvelles fenêtres, sélectionnez les URL personnalisées, puis collez l'adresse de Google. Vous pouvez choisir indépendamment le comportement des nouveaux onglets : c'est utile si vous voulez conserver les raccourcis de Firefox tout en ouvrant Google dans chaque nouvelle fenêtre.</p><p>Sur <strong>Safari pour Mac</strong>, passez par le menu Safari, puis par <strong>Réglages</strong> et l'onglet <strong>Général</strong>. Saisissez l'adresse de Google dans le champ « Page d'accueil ». Vérifiez ensuite que l'option relative aux nouvelles fenêtres est bien réglée sur cette page d'accueil. Dans l'onglet Recherche, vous pourrez sélectionner Google comme moteur de recherche si besoin.</p><p>Ne cherchez pas ces réglages dans les paramètres de votre compte Google : le navigateur contrôle son ouverture, pas le site Google. De la même façon, modifier votre moteur de recherche ne suffit pas à faire apparaître Google au lancement.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Méfiez-vous des fausses « pages d'accueil Google personnalisées »",
+      "html": "<p>Google permet quelques personnalisations visuelles sur sa page Nouvel onglet dans Chrome, comme un arrière-plan ou des raccourcis. En revanche, une extension inconnue qui promet une page d'accueil spectaculaire peut modifier vos recherches, afficher de la publicité ou demander des autorisations excessives.</p><p>Privilégiez les réglages intégrés au navigateur. Avant d'installer une extension, vérifiez son éditeur, les avis récents, les autorisations demandées et son utilité réelle. Ne communiquez jamais votre mot de passe Google à une page qui ne se trouve pas sur un domaine officiel de Google.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Personnaliser votre accès à Google de façon simple et utile",
+      "html": "<p>Faire de Google votre page d'accueil ne signifie pas forcément afficher une page entièrement différente. Dans Chrome, ouvrez un nouvel onglet et utilisez l'option de personnalisation lorsqu'elle est proposée : vous pourrez généralement modifier le thème, choisir une image de fond et ajuster les raccourcis. L'intérêt est de garder une page rapide, lisible et familière.</p><p>Pour un usage quotidien, limitez-vous à quelques raccourcis vraiment utiles : votre messagerie, votre agenda, vos démarches administratives, votre outil de travail ou votre site d'information. Trop de raccourcis transforment une page censée faire gagner du temps en source de distraction.</p><p>Si vous partagez l'ordinateur, créez plutôt un profil de navigateur pour chaque personne. Chaque profil peut avoir ses propres favoris, sa propre page de démarrage et sa propre connexion Google. C'est plus sûr que de modifier sans cesse les réglages du navigateur commun.</p><p>Enfin, si vous souhaitez ouvrir plusieurs outils chaque matin, vous pouvez ajouter plusieurs pages au démarrage : par exemple Google, votre messagerie et votre calendrier. Gardez toutefois cette liste courte pour ne pas ralentir le lancement ni vous retrouver avec une avalanche d'onglets.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Mettre Google à portée de main sur Android, iPhone et iPad",
+      "intro": "Les navigateurs mobiles privilégient souvent la reprise des onglets plutôt qu'une page d'accueil fixe. Voici les solutions les plus simples selon votre appareil.",
+      "steps": [
+        {
+          "title": "Sur Chrome pour Android, activez la page d'accueil",
+          "html": "<p>Dans Chrome, ouvrez le menu à trois points, touchez <strong>Paramètres</strong>, puis cherchez <strong>Page d'accueil</strong>. Activez-la si l'option est disponible et choisissez une adresse Web personnalisée en indiquant Google. L'icône Accueil apparaîtra alors dans le navigateur.</p>"
+        },
+        {
+          "title": "Sur iPhone et iPad, créez un raccourci fiable",
+          "html": "<p>Les possibilités varient selon le navigateur et sa version. Ouvrez Google dans Safari ou Chrome, puis utilisez le menu de partage d'iOS pour choisir <strong>Sur l'écran d'accueil</strong>. Vous obtiendrez une icône qui ouvre directement Google, sans dépendre de la restauration des derniers onglets.</p>"
+        },
+        {
+          "title": "Choisissez aussi le moteur de recherche du téléphone",
+          "html": "<p>Dans les réglages de Safari sur iPhone et iPad, vous pouvez sélectionner Google comme moteur de recherche. Dans les autres navigateurs, cherchez la rubrique Recherche ou Moteur de recherche dans les paramètres de l'application.</p>"
+        },
+        {
+          "title": "Testez dans les conditions réelles",
+          "html": "<p>Fermez l'application, relancez-la et vérifiez le résultat. Si le navigateur restaure toujours les onglets précédents, utilisez le raccourci ajouté à l'écran d'accueil lorsque vous souhaitez commencer une nouvelle recherche sur Google.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Google ne reste pas en page d'accueil : les causes fréquentes",
+      "intro": "Si une autre page revient après vos réglages, ne répétez pas seulement la manipulation : cherchez ce qui la remplace.",
+      "columns": [
+        "Symptôme",
+        "Cause possible",
+        "Solution à essayer"
+      ],
+      "rows": [
+        [
+          "Plusieurs pages s'ouvrent avec Google",
+          "Une ancienne adresse est encore enregistrée au démarrage",
+          "Retournez dans les pages au démarrage et supprimez les adresses inutiles."
+        ],
+        [
+          "Les anciens onglets reviennent",
+          "Le navigateur restaure la session précédente",
+          "Choisissez l'ouverture de pages spécifiques plutôt que la reprise de la session."
+        ],
+        [
+          "Un moteur de recherche inconnu s'impose",
+          "Extension ou logiciel indésirable",
+          "Désinstallez les extensions récentes ou suspectes, puis vérifiez le moteur de recherche par défaut."
+        ],
+        [
+          "Le réglage est grisé ou revient en arrière",
+          "Navigateur géré par une entreprise, une école ou un logiciel",
+          "Consultez le service informatique ou vérifiez les logiciels de sécurité et de contrôle installés."
+        ],
+        [
+          "Google ouvre une version étrangère",
+          "Redirection liée à la langue, au pays ou au compte",
+          "Utilisez google.fr et vérifiez vos préférences de langue ; la redirection reste parfois normale."
+        ],
+        [
+          "Aucun changement après modification",
+          "Le navigateur n'a pas été complètement relancé",
+          "Fermez toutes les fenêtres du navigateur, puis ouvrez-le à nouveau."
+        ]
+      ],
+      "note": "Avant de réinitialiser un navigateur, sauvegardez vos favoris et vérifiez la synchronisation de vos mots de passe. Une réinitialisation est utile en dernier recours, notamment après la suppression d'une extension indésirable."
+    },
+    {
+      "type": "key_points",
+      "heading": "Les bons réflexes pour une configuration durable",
+      "points": [
+        "Réglez séparément le démarrage, le bouton Accueil et le moteur de recherche selon votre usage.",
+        "Utilisez l'adresse complète https://www.google.fr pour éviter une erreur de saisie.",
+        "Supprimez les pages de démarrage dont vous n'avez plus besoin au lieu de les laisser s'accumuler.",
+        "Évitez les extensions qui modifient la page Nouvel onglet sans nécessité claire.",
+        "Sur mobile, un raccourci Google sur l'écran d'accueil est souvent plus fiable qu'une page de démarrage.",
+        "Si le réglage se réinitialise seul, contrôlez les extensions et une éventuelle politique de gestion de l'appareil."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment faire pour que Google s'ouvre automatiquement quand j'allume mon ordinateur ?",
+      "a_html": "<p>Le réglage se fait dans votre navigateur, et non dans Windows ou macOS. Dans Chrome, Edge ou Firefox, ouvrez les paramètres puis la rubrique « Au démarrage » ou équivalente. Choisissez l'ouverture de pages spécifiques et ajoutez <strong>https://www.google.fr</strong>.</p><p>Si le navigateur se lance automatiquement à l'ouverture de votre session, Google s'affichera alors également au démarrage de l'ordinateur.</p>"
+    },
+    {
+      "q": "Pourquoi Google n'est-il pas ma page d'accueil alors qu'il est mon moteur de recherche ?",
+      "a_html": "<p>Ces deux options sont indépendantes. Le moteur de recherche par défaut sert lorsque vous écrivez une requête dans la barre d'adresse. La page d'accueil ou les pages au démarrage déterminent ce qui apparaît à l'ouverture du navigateur ou après un clic sur l'icône Accueil.</p><p>Pour obtenir les deux comportements, configurez Google dans les deux rubriques.</p>"
+    },
+    {
+      "q": "Comment remettre la page d'accueil Google sur Chrome ?",
+      "a_html": "<p>Dans Chrome sur ordinateur, ouvrez <strong>Paramètres</strong>, puis <strong>Au démarrage</strong>. Sélectionnez l'option permettant d'ouvrir une page ou un ensemble de pages spécifiques, ajoutez Google et supprimez les pages non souhaitées.</p><p>Pour remettre aussi le bouton Accueil, allez dans <strong>Apparence</strong>, activez ce bouton et définissez Google comme adresse personnalisée.</p>"
+    },
+    {
+      "q": "Peut-on mettre Google en page d'accueil sur Safari iPhone ?",
+      "a_html": "<p>Safari sur iPhone ne propose pas toujours une page d'accueil personnalisée qui s'ouvre automatiquement comme sur un ordinateur. Vous pouvez néanmoins choisir Google comme moteur de recherche dans les réglages d'iOS.</p><p>La solution la plus directe consiste à ouvrir Google dans Safari, utiliser le menu de partage et ajouter le site à l'écran d'accueil. L'icône créée ouvrira Google en un toucher.</p>"
+    },
+    {
+      "q": "Pourquoi une page inconnue s'ouvre-t-elle à la place de Google ?",
+      "a_html": "<p>Vérifiez d'abord la liste des pages au démarrage : une ancienne adresse peut y être enregistrée. Si elle revient après suppression, examinez vos extensions et désinstallez celles que vous ne reconnaissez pas, surtout si elles modifient les recherches ou les nouveaux onglets.</p><p>Sur un ordinateur professionnel ou scolaire, le navigateur peut être administré. Dans ce cas, certains réglages sont imposés et seul le service informatique peut les modifier.</p>"
+    },
+    {
+      "q": "Est-il possible de personnaliser la page Google avec une photo ?",
+      "a_html": "<p>Dans Chrome, la page qui s'affiche dans un nouvel onglet peut généralement être personnalisée avec un thème, une couleur ou une image d'arrière-plan, ainsi qu'avec des raccourcis. Cette personnalisation concerne la page Nouvel onglet de Chrome, pas nécessairement le site google.fr ouvert au démarrage.</p><p>Privilégiez les outils de personnalisation intégrés au navigateur plutôt que des extensions peu connues.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour mettre Google en page d'accueil, commencez par choisir le bon objectif : ouverture du navigateur, bouton Accueil ou recherche depuis la barre d'adresse. Configurez ensuite l'option correspondante dans votre navigateur et testez-la après un redémarrage complet.</p><p>Une configuration sobre est souvent la plus efficace : Google au démarrage, quelques raccourcis utiles et aucune extension superflue. Vous gagnerez du temps à chaque ouverture, tout en gardant le contrôle sur votre navigation.</p>",
+  "__slug": "google-page-d-accueilcomment-faire"
+}

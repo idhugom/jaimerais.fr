@@ -1,0 +1,282 @@
+{
+  "title": "Comment faire une bougie parfumée maison : recette, dosage et astuces",
+  "meta_description": "Fabriquez une bougie parfumée maison : cire, mèche, dosage du parfum, températures et astuces pour un résultat beau, sûr et durable.",
+  "reading_time_min": 12,
+  "hero_intro": "J'aimerais créer une bougie qui parfume vraiment ma maison, sans matériel compliqué ni résultat décevant. Bonne nouvelle : avec une cire adaptée, une mèche bien choisie et un parfum compatible, la fabrication est accessible même pour une première fois. Suivez cette méthode fiable pour obtenir une bougie maison agréable à regarder, à allumer et à offrir.",
+  "key_takeaways": [
+    "Choisissez une cire conçue pour les contenants et un parfum spécifiquement prévu pour les bougies, plutôt qu'un parfum ou un arôme alimentaire.",
+    "La taille de la mèche dépend surtout du diamètre du pot : une mèche trop petite creuse la cire, une trop grande produit une flamme excessive et de la suie.",
+    "Respectez le pourcentage maximal de parfum et les températures indiquées par le fabricant de votre cire : ce sont les deux clés d'un bon rendu olfactif.",
+    "Laissez la bougie durcir au moins 24 à 48 heures ; la cire végétale gagne souvent à reposer une à deux semaines avant le premier allumage.",
+    "Lors de chaque utilisation, coupez la mèche à environ 5 mm et ne laissez jamais une bougie allumée sans surveillance."
+  ],
+  "toc": [
+    "Le matériel indispensable pour fabriquer une bougie parfumée",
+    "Quelle cire, quel pot et quelle mèche choisir ?",
+    "Parfum de bougie ou huiles essentielles : faire le bon choix",
+    "Les quantités et températures à connaître",
+    "Recette pas à pas d'une bougie parfumée en pot",
+    "Réussir le refroidissement et la maturation",
+    "Les défauts fréquents et leurs solutions",
+    "Utiliser sa bougie maison en toute sécurité",
+    "Personnaliser et offrir ses créations"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Le matériel indispensable pour fabriquer une bougie parfumée",
+      "html": "<p>Une bougie parfumée réussie ne demande pas un atelier professionnel, mais elle mérite des ingrédients adaptés. Pour débuter, privilégiez une <strong>bougie en pot</strong> : le contenant maintient la cire, simplifie le choix de la mèche et évite de devoir démouler la création. Un verre épais résistant à la chaleur, un petit pot en métal ou un contenant conçu pour les bougies conviennent bien.</p><p>Il vous faut de la cire en pastilles ou en paillettes, une mèche avec son socle métallique, un parfum pour bougie, un récipient de fonte, une casserole pour le bain-marie, une balance de cuisine précise au gramme, une spatule et un thermomètre. Ajoutez un centreur de mèche ou deux baguettes en bois : la mèche doit rester parfaitement verticale pendant la prise.</p><p>Évitez les contenants fêlés, les verres très fins, les tasses décoratives dont la résistance à la chaleur est inconnue, ainsi que les matières inflammables. Réservez aussi vos ustensiles à la fabrication de bougies lorsque vous utilisez des fragrances : leurs odeurs peuvent persister.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Le kit de départ : quoi acheter et à quel budget ?",
+      "intro": "Pour réaliser une à trois bougies en pot, voici les achats les plus utiles et les ordres de grandeur généralement constatés.",
+      "columns": [
+        "Élément",
+        "À choisir selon",
+        "Budget indicatif"
+      ],
+      "rows": [
+        [
+          "Cire végétale pour contenants",
+          "Soja, colza ou mélange végétal ; fiche technique disponible",
+          "Environ 8 à 18 € le kilo"
+        ],
+        [
+          "Cire d'abeille",
+          "Parfum naturellement miellé, teinte dorée ; moins adaptée aux parfums très présents",
+          "Souvent 15 à 30 € le kilo"
+        ],
+        [
+          "Parfum spécial bougie",
+          "Compatibilité cire, dosage maximal et recommandations de sécurité",
+          "Environ 3 à 8 € les 10 à 30 ml"
+        ],
+        [
+          "Mèches pré-cirées avec socle",
+          "Diamètre intérieur et type de cire du contenant",
+          "Environ 3 à 8 € le lot"
+        ],
+        [
+          "Pot adapté à la chaleur",
+          "Diamètre, volume et stabilité",
+          "Environ 1 à 5 € l'unité"
+        ],
+        [
+          "Balance et thermomètre",
+          "Précision des dosages et des températures",
+          "Environ 10 à 25 € si vous n'en avez pas"
+        ]
+      ],
+      "note": "Les prix varient selon les formats, la qualité des matières premières et le nombre de bougies fabriquées. Les fiches techniques des fournisseurs priment toujours sur les recommandations générales."
+    },
+    {
+      "type": "comparison",
+      "heading": "Quelle cire choisir pour votre première bougie ?",
+      "intro": "Le choix de la cire influence l'aspect, la diffusion du parfum, le comportement à la combustion et la facilité de réalisation.",
+      "left": {
+        "title": "Cires végétales pour contenants",
+        "points": [
+          "Cire de soja, de colza ou mélanges végétaux : très répandus pour les bougies en pot.",
+          "Aspect souvent crémeux et bonne adhérence au verre selon la formule.",
+          "Généralement faciles à travailler à domicile, mais sensibles aux variations de température et au refroidissement.",
+          "Demandent souvent un temps de maturation pour que le parfum se développe pleinement.",
+          "Vérifiez le taux de parfum maximal : il diffère d'une référence à l'autre."
+        ]
+      },
+      "right": {
+        "title": "Cire d'abeille et paraffine",
+        "points": [
+          "La cire d'abeille a une odeur naturellement douce et une belle couleur ; elle peut masquer les parfums délicats.",
+          "La paraffine offre habituellement une diffusion olfactive efficace et une finition régulière.",
+          "Ces cires n'ont pas les mêmes températures de travail ni les mêmes besoins de mèche que les cires végétales.",
+          "Choisissez une cire explicitement prévue pour les contenants si vous coulez votre bougie dans un pot.",
+          "Ne mélangez pas plusieurs cires au hasard : chaque formule doit être testée."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Parfum de bougie ou huiles essentielles : faire le bon choix",
+      "html": "<p>Pour une bougie qui sent bon une fois allumée, le choix le plus simple est un <strong>parfum formulé pour la fabrication de bougies</strong>. Il doit indiquer sa compatibilité avec la cire, son dosage recommandé et, idéalement, ses informations de sécurité. Un parfum conçu pour un diffuseur, un savon ou une huile corporelle ne convient pas automatiquement à une flamme.</p><p>Les huiles essentielles peuvent apporter une note végétale, mais leur emploi n'est pas toujours idéal : elles sont volatiles, leur odeur peut beaucoup changer à chaud et leur diffusion dans la cire est variable. Certaines sont également soumises à des précautions d'usage plus strictes. Si vous choisissez cette piste, utilisez uniquement une huile dont le fournisseur confirme l'usage en bougie, respectez son dosage et évitez les mélanges improvisés.</p><p>Ne versez jamais d'extrait pâtissier, d'arôme alimentaire, de parfum d'ambiance ordinaire, d'alcool, ni d'huile végétale dans la cire. « Naturel » ne veut pas dire compatible avec une combustion. Pour un premier essai, une fragrance spéciale bougie reste l'option la plus prévisible.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le dosage du parfum : mieux vaut précis que trop généreux",
+      "html": "<p>Le parfum se pèse, il ne se compte pas en gouttes. Pour une cire acceptant 8 % de parfum, 100 g de cire nécessitent 8 g de fragrance. Commencez plutôt à 6 % si vous découvrez la formule, puis testez votre bougie. Dépasser le maximum annoncé peut provoquer une surface grasse, une combustion instable, une fuite de parfum ou un mauvais rendu olfactif.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Calculer la quantité de cire et de parfum",
+      "intro": "La balance est votre meilleure alliée. Les chiffres ci-dessous constituent des exemples de calcul, à ajuster au volume de votre pot et au taux maximal autorisé par votre cire.",
+      "columns": [
+        "Objectif",
+        "Quantité de cire",
+        "Dosage de parfum",
+        "Quantité de parfum"
+      ],
+      "rows": [
+        [
+          "Petit pot d'environ 120 ml",
+          "Environ 100 g",
+          "6 %",
+          "6 g"
+        ],
+        [
+          "Pot moyen d'environ 180 ml",
+          "Environ 150 g",
+          "7 %",
+          "10,5 g"
+        ],
+        [
+          "Grand pot d'environ 250 ml",
+          "Environ 210 g",
+          "8 % si la cire l'autorise",
+          "16,8 g"
+        ],
+        [
+          "Test prudent avec une nouvelle fragrance",
+          "100 g",
+          "5 %",
+          "5 g"
+        ]
+      ],
+      "note": "Le volume du pot et le poids de cire ne correspondent pas exactement. Faites un premier remplissage à l'eau, pesez-la, puis prévoyez une quantité de cire légèrement adaptée après un essai."
+    },
+    {
+      "type": "steps",
+      "heading": "Recette pas à pas d'une bougie parfumée en pot",
+      "intro": "Cette méthode convient à une bougie en cire végétale pour contenant. Consultez malgré tout la fiche de votre cire : les températures de fonte, d'ajout du parfum et de coulée sont propres à chaque référence.",
+      "steps": [
+        {
+          "title": "1. Préparez le pot et fixez la mèche",
+          "html": "<p>Nettoyez et séchez le contenant. Collez le socle de la mèche au centre du fond avec une pastille adhésive pour bougie ou une petite goutte de colle adaptée à la chaleur. Tendez la mèche entre deux baguettes posées sur le pot. Si elle penche, la bougie brûlera de façon irrégulière.</p>"
+        },
+        {
+          "title": "2. Pesez chaque ingrédient",
+          "html": "<p>Pesez la cire dans un récipient propre, puis pesez le parfum dans un second récipient. Pour déterminer la cire nécessaire, commencez par la capacité de votre pot et prévoyez un test. Il vaut mieux fondre un peu trop de cire que de s'arrêter avant la fin du remplissage.</p>"
+        },
+        {
+          "title": "3. Faites fondre la cire doucement",
+          "html": "<p>Faites chauffer la cire au bain-marie, sans jamais la laisser sans surveillance. Remuez doucement jusqu'à ce qu'elle soit liquide et homogène. Évitez le feu direct et l'eau dans la cire. Ne dépassez pas la température maximale indiquée par le fabricant.</p>"
+        },
+        {
+          "title": "4. Ajoutez le parfum à la bonne température",
+          "html": "<p>Laissez redescendre ou maintenez la cire à la température recommandée pour l'incorporation, souvent située dans une plage intermédiaire selon la formule. Versez le parfum pesé, puis mélangez lentement mais soigneusement pendant environ une à deux minutes afin de bien le répartir sans incorporer d'air.</p>"
+        },
+        {
+          "title": "5. Coulez lentement dans le pot",
+          "html": "<p>Versez la cire à la température de coulée conseillée, en laissant quelques millimètres libres sous le bord. Gardez la mèche centrée. Un versement calme limite les éclaboussures et les bulles. Ne déplacez ensuite plus le pot tant que la cire est liquide.</p>"
+        },
+        {
+          "title": "6. Laissez durcir, puis coupez la mèche",
+          "html": "<p>Laissez refroidir à température ambiante, loin d'un courant d'air, d'un radiateur et d'une fenêtre froide. Après durcissement complet, retirez le centreur et coupez la mèche à environ 5 mm. Attendez avant d'allumer : la patience améliore souvent le résultat.</p>"
+        }
+      ]
+    },
+    {
+      "type": "key_points",
+      "heading": "Les températures : un repère utile, pas une règle universelle",
+      "points": [
+        "Suivez d'abord la fiche technique de votre cire : deux cires végétales peuvent réclamer des températures très différentes.",
+        "La cire est souvent fondue à une température supérieure à celle de l'ajout du parfum et de la coulée, mais les plages exactes varient selon les formules.",
+        "Un thermomètre évite de surchauffer la cire, ce qui peut altérer sa couleur, son odeur ou ses performances.",
+        "Ne chauffez pas la cire dans un récipient fermé et ne la laissez pas sur le feu sans surveillance.",
+        "Travaillez dans une pièce tempérée et stable : un refroidissement trop rapide favorise les défauts de surface."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Réussir le refroidissement et la maturation",
+      "html": "<p>Une fois coulée, votre bougie doit refroidir tranquillement sur une surface plane. Les changements brusques de température sont l'ennemi d'une belle finition : ils peuvent entraîner un creux autour de la mèche, des traces blanchâtres sur certaines cires végétales ou un décollement du verre. Ne la placez ni au réfrigérateur ni près d'une fenêtre ouverte en hiver.</p><p>La bougie paraît solide après quelques heures, mais son parfum n'est pas forcément stabilisé. Attendez au minimum <strong>24 à 48 heures</strong> avant un premier essai. Avec de nombreuses cires végétales, un repos d'une à deux semaines donne un résultat plus fidèle, notamment pour la diffusion du parfum lorsque la bougie est allumée.</p><p>Notez la cire, la taille de mèche, le diamètre du pot, la quantité de parfum, les températures et votre impression au brûlage. Ce carnet de tests vous permettra de progresser beaucoup plus vite qu'en changeant plusieurs paramètres à la fois.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Diagnostiquer les défauts les plus courants",
+      "intro": "Les bougies artisanales demandent parfois un ou deux essais. Voici comment interpréter les résultats sans tout recommencer au hasard.",
+      "columns": [
+        "Symptôme",
+        "Cause possible",
+        "Ajustement à tester"
+      ],
+      "rows": [
+        [
+          "Un tunnel se creuse autour de la mèche",
+          "Mèche trop fine, premier brûlage trop court ou pot trop large",
+          "Choisir une mèche plus adaptée au diamètre et laisser fondre la surface lors du premier essai"
+        ],
+        [
+          "Flamme très haute, fumée ou dépôt noir",
+          "Mèche trop grande ou trop longue, excès de parfum",
+          "Couper à 5 mm ; essayer une taille de mèche inférieure ; vérifier le dosage"
+        ],
+        [
+          "La surface forme un creux près de la mèche",
+          "Retrait naturel de la cire au refroidissement",
+          "Adapter la température de coulée ; effectuer une légère retouche de cire si nécessaire après test"
+        ],
+        [
+          "Des zones blanches ou cristallisées apparaissent",
+          "Phénomène esthétique fréquent avec certaines cires végétales",
+          "Laisser refroidir plus lentement ; ajuster les températures ; accepter ce défaut sans incidence majeure"
+        ],
+        [
+          "La bougie sent peu une fois allumée",
+          "Dosage insuffisant, parfum peu adapté ou mèche inadaptée",
+          "Respecter le maximum de la cire, laisser maturer et tester une autre mèche ou fragrance"
+        ],
+        [
+          "La cire paraît grasse ou suinte",
+          "Trop de parfum ou mauvaise intégration",
+          "Réduire le pourcentage et mélanger correctement à la température recommandée"
+        ]
+      ],
+      "note": "Testez toujours une modification à la fois : par exemple la mèche, puis le dosage, puis la température. Cela rend le diagnostic beaucoup plus fiable."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le test de combustion est indispensable",
+      "html": "<p>Avant d'offrir ou de produire plusieurs exemplaires, réalisez un test complet. Allumez la bougie sous surveillance pendant des sessions raisonnables, observez la flamme, la largeur de la piscine de cire, la suie éventuelle et le parfum diffusé. Une bougie belle à froid n'est pas forcément équilibrée à la combustion.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Utiliser sa bougie maison en toute sécurité",
+      "html": "<p>Une bougie parfumée est un objet décoratif, mais aussi une source de chaleur et une flamme nue. Posez-la sur une surface stable, plane et résistante à la chaleur, loin des rideaux, plantes sèches, papiers, enfants et animaux. N'allumez jamais une bougie endommagée, et ne la laissez jamais brûler sans présence dans la pièce.</p><p>Avant chaque allumage, raccourcissez la mèche à environ 5 mm et retirez les résidus noirs tombés dans la cire. Laissez idéalement la première combustion durer assez longtemps pour que la surface fonde largement, sans dépasser les recommandations du fabricant du contenant ni prolonger abusivement une session. Arrêtez d'utiliser la bougie lorsqu'il reste environ 1 cm de cire au fond : le récipient pourrait trop chauffer.</p><p>Ne déplacez pas un pot chaud et n'éteignez pas la flamme avec de l'eau. Un éteignoir ou le fait d'étouffer doucement la flamme convient mieux. Attendez toujours le refroidissement complet avant de manipuler, couvrir ou ranger la bougie.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Personnaliser sa création sans compromettre sa combustion",
+      "html": "<p>Vous pouvez jouer avec le nom de la bougie, l'étiquette, la couleur et la famille olfactive : fleur d'oranger et musc doux pour une ambiance cocooning, agrumes et thé pour une pièce lumineuse, boisés et épices pour une atmosphère chaleureuse. Pour un cadeau, indiquez sur une petite étiquette le parfum, la date de fabrication et les consignes essentielles d'utilisation.</p><p>Restez prudent avec les décorations dans la cire. Fleurs séchées, herbes, pétales, paillettes, cristaux et éléments inflammables placés près de la mèche peuvent perturber la flamme. Si vous tenez à un rendu décoratif, préférez une étiquette soignée, un couvercle, une ficelle extérieure ou des ornements qui ne se trouvent pas dans la zone de combustion.</p><p>La plus belle personnalisation reste souvent un bon équilibre entre contenant, cire, mèche et parfum. Commencez sobrement, testez, puis affinez votre recette : c'est ainsi qu'une bougie maison devient vraiment votre signature.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle quantité de parfum mettre dans une bougie maison ?",
+      "a_html": "<p>La plupart des cires pour bougies acceptent un pourcentage de parfum défini par leur fabricant, souvent dans une plage d'environ 5 à 10 %. Le bon calcul se fait sur le poids de cire : avec 100 g de cire et un dosage de 6 %, ajoutez 6 g de parfum.</p><p>Ne dépassez pas le maximum annoncé. Une quantité plus importante ne garantit pas une odeur plus forte et peut rendre la combustion moins sûre ou provoquer un suintement de la cire.</p>"
+    },
+    {
+      "q": "Peut-on faire une bougie parfumée avec des huiles essentielles ?",
+      "a_html": "<p>C'est possible uniquement si l'huile essentielle ou le mélange est indiqué comme compatible avec la fabrication de bougies et si son dosage est respecté. Les huiles essentielles ne diffusent pas toutes bien à la combustion et certaines demandent des précautions spécifiques.</p><p>Pour une première bougie parfumée, une fragrance spécialement conçue pour la cire est généralement plus simple à doser et plus prévisible.</p>"
+    },
+    {
+      "q": "Pourquoi ma bougie parfumée ne sent-elle pas quand je l'allume ?",
+      "a_html": "<p>Plusieurs causes sont possibles : fragrance peu performante à chaud, dosage trop bas, bougie insuffisamment maturée, mèche qui crée une piscine de cire trop petite ou cire peu adaptée au parfum choisi. L'odeur dans le pot, appelée diffusion à froid, ne préjuge pas toujours de l'odeur pendant la combustion.</p><p>Laissez reposer la bougie une à deux semaines si votre cire le recommande, puis testez une seule modification à la fois : dosage dans la limite autorisée, taille de mèche ou parfum.</p>"
+    },
+    {
+      "q": "Comment choisir la taille de mèche pour une bougie en pot ?",
+      "a_html": "<p>Le diamètre intérieur du pot est le premier critère, mais le type de cire, le parfum et les colorants influencent aussi le choix. Achetez des mèches dont le fabricant précise les diamètres couverts et la compatibilité avec votre cire.</p><p>Faites un test : une mèche trop petite laisse un tunnel ; une mèche trop grande produit une flamme forte, consomme vite la cire et peut noircir le contenant. Pour les pots très larges, deux mèches peuvent être nécessaires après essais.</p>"
+    },
+    {
+      "q": "Combien de temps faut-il attendre avant d'allumer une bougie faite maison ?",
+      "a_html": "<p>Attendez au moins 24 à 48 heures pour que la cire durcisse complètement. Pour de nombreuses cires végétales parfumées, une maturation d'une à deux semaines améliore nettement l'homogénéité et la diffusion du parfum.</p><p>La durée exacte dépend de la formule. Consultez les recommandations de la cire utilisée et notez le résultat de vos propres tests.</p>"
+    },
+    {
+      "q": "Pourquoi ma bougie se creuse-t-elle au centre ?",
+      "a_html": "<p>Ce phénomène, appelé tunnel, apparaît souvent quand la mèche est trop petite pour le diamètre du contenant ou lorsque la bougie est éteinte trop tôt lors des premières utilisations. La cire ne fond alors qu'autour de la mèche.</p><p>Pour l'éviter, choisissez une mèche adaptée et laissez la première session de combustion former une large piscine de cire, toujours sous surveillance. Une bougie déjà creusée peut parfois être améliorée avec une feuille d'aluminium placée autour du haut du pot pendant un court moment de brûlage surveillé, mais cette méthode doit rester prudente.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Fabriquer une bougie parfumée maison, c'est associer créativité et précision. En choisissant une cire pour contenants, une mèche adaptée au diamètre du pot et un parfum conçu pour la combustion, vous posez les bases d'un résultat réussi.</p><p>Commencez par une petite série de tests, pesez tout et laissez votre bougie maturer avant de la juger. Votre première création n'a pas besoin d'être parfaite : chaque essai vous rapproche d'une bougie qui embaume votre intérieur et vous ressemble vraiment.</p>",
+  "__slug": "comment-faire-une-bougie-parfumee"
+}

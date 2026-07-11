@@ -1,0 +1,233 @@
+{
+  "title": "Créer ses recettes de slime : méthode, textures et sécurité",
+  "meta_description": "Fabriquez du slime maison : recette fiable, textures créatives, conseils de sécurité, dépannage et conservation pour réussir facilement vos essais.",
+  "reading_time_min": 11,
+  "hero_intro": "Créer son slime, c'est autant une petite expérience de matière qu'une activité créative. Avec une base fiable, un activateur adapté et quelques ajustements précis, vous pouvez obtenir une texture souple, gonflante, transparente ou croustillante sans multiplier les essais ratés. Voici une méthode concrète pour fabriquer, personnaliser et conserver vos slimes en toute prudence.",
+  "key_takeaways": [
+    "Un slime classique repose sur une colle vinylique PVA et un activateur contenant des borates, ajouté très progressivement.",
+    "Pour débuter, évitez les produits ménagers imprévisibles : une solution pour lentilles adaptée ou un activateur prêt à l'emploi est plus simple à doser.",
+    "La texture se corrige : trop collant signifie généralement qu'il manque un peu d'activateur ; trop ferme indique un excès d'activateur.",
+    "Personnalisez une base à la fois : couleur, perles, mousse à raser ou pâte autodurcissante, mais pas tout simultanément.",
+    "Le slime à la colle ne se mange jamais, se manipule sous surveillance et ne doit pas être jeté dans l'évier."
+  ],
+  "toc": [
+    "Comprendre ce qui fait prendre un slime",
+    "Choisir les ingrédients et prévoir son budget",
+    "La recette de slime maison la plus fiable",
+    "Slime à la colle ou pâte sensorielle : quelle option choisir ?",
+    "Personnaliser les textures sans rater sa base",
+    "Réparer un slime collant, dur ou plein de bulles",
+    "Conserver ses créations et progresser comme un passionné"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre ce qui fait prendre un slime",
+      "html": "<p>Un slime classique n'est pas une simple pâte collante : sa texture élastique apparaît lorsqu'une <strong>colle vinylique à base de PVA</strong> rencontre un activateur compatible. Les molécules de la colle se lient alors entre elles de façon souple, ce qui transforme le liquide en une matière que l'on peut étirer, presser et malaxer.</p><p>Le point décisif est l'activateur. Une solution pour lentilles peut fonctionner si son étiquette mentionne notamment de l'<strong>acide borique</strong> ou un <strong>borate</strong>, comme le borate de sodium. Le bicarbonate de soude aide souvent la réaction, mais il ne remplace pas l'activateur. Une solution pour lentilles dépourvue de ces composants laissera la colle liquide, même si vous mélangez longtemps.</p><p>Chaque marque de colle et chaque solution réagissent un peu différemment. La bonne approche consiste donc à préparer une petite quantité, puis à ajouter l'activateur par mini-doses. Ne cherchez pas une quantité magique : observez la matière, car c'est elle qui vous indique quand vous arrêter.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Sécurité : les règles à ne pas négocier",
+      "html": "<p>Le slime à base de colle est un <strong>objet sensoriel, pas un aliment</strong>. Il ne convient pas aux jeunes enfants qui portent encore les objets à la bouche et sa préparation demande la présence d'un adulte. Lavez les mains avant et après l'activité, protégez la table, évitez le contact avec les yeux et cessez la manipulation en cas d'irritation.</p><p>N'utilisez ni déboucheur, ni lessive, ni produit ménager non prévu pour cet usage comme activateur. Évitez aussi les parfums concentrés et les huiles essentielles, qui peuvent irriter la peau. Les petites perles, breloques et paillettes sont à réserver à un public assez grand pour ne pas risquer de les avaler.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les ingrédients utiles pour un premier pot de slime",
+      "intro": "Pour un pot d'essai d'environ 150 à 200 g, comptez généralement entre 2 et 6 € selon les produits déjà disponibles à la maison et les décorations choisies.",
+      "columns": [
+        "Élément",
+        "Ce qu'il faut vérifier",
+        "Quantité de départ",
+        "Rôle et budget indicatif"
+      ],
+      "rows": [
+        [
+          "Colle blanche ou transparente PVA",
+          "La mention PVA ou colle vinylique ; évitez les formules très épaisses ou déjà durcissantes",
+          "120 ml",
+          "La base du slime ; souvent 1 à 3 € pour cette quantité"
+        ],
+        [
+          "Bicarbonate de soude",
+          "Produit alimentaire simple, sec et non parfumé",
+          "1/2 cuillère à café",
+          "Aide à stabiliser la base ; quelques centimes"
+        ],
+        [
+          "Solution pour lentilles compatible",
+          "Présence d'acide borique ou d'un borate sur l'étiquette ; jamais de système au peroxyde",
+          "5 à 15 ml, ajoutés peu à peu",
+          "L'activateur ; environ 0,30 à 1 € par pot selon le flacon"
+        ],
+        [
+          "Colorant liquide",
+          "Pigment concentré, utilisé en très petite dose",
+          "1 à 2 gouttes",
+          "Personnalise la couleur ; attention aux taches"
+        ],
+        [
+          "Décorations facultatives",
+          "Perles de mousse, paillettes de loisirs créatifs ou petite quantité de pâte autodurcissante",
+          "1 à 2 cuillères à soupe maximum",
+          "Modifie l'aspect ou le toucher ; 0 à 3 € selon l'option"
+        ]
+      ],
+      "note": "Les prix sont des ordres de grandeur. Conservez les emballages pour vérifier la composition et respecter les consignes du fabricant."
+    },
+    {
+      "type": "steps",
+      "heading": "La recette de slime maison la plus fiable",
+      "intro": "Cette recette donne un slime souple et coloré, facile à faire évoluer ensuite. Préparez un bol, une spatule, une cuillère-doseuse, un récipient hermétique et un plan de travail lavable.",
+      "steps": [
+        {
+          "title": "Préparez une petite base test",
+          "html": "<p>Versez <strong>120 ml de colle PVA</strong> dans un bol. Ajoutez une ou deux gouttes de colorant, puis mélangez jusqu'à ce que la couleur soit uniforme. Incorporez ensuite 1/2 cuillère à café de bicarbonate de soude.</p>"
+        },
+        {
+          "title": "Activez lentement",
+          "html": "<p>Ajoutez une cuillère à café de solution pour lentilles compatible et remuez pendant une trentaine de secondes. Lorsque la colle commence à se détacher des parois, poursuivez avec de très petites doses, quelques gouttes à la fois. Pour cette quantité de colle, la dose totale est souvent comprise entre 5 et 15 ml, mais la texture compte davantage que le chiffre.</p>"
+        },
+        {
+          "title": "Pétrissez et observez",
+          "html": "<p>Quand la masse forme une boule encore légèrement collante, prenez-la avec des mains propres et pétrissez-la deux à trois minutes. Elle doit devenir lisse, extensible et se décoller des doigts sans être sèche. Un slime semble parfois trop collant au premier instant : pétrissez avant d'ajouter davantage d'activateur.</p>"
+        },
+        {
+          "title": "Ajoutez les textures après la prise",
+          "html": "<p>Incorporez les perles de mousse, quelques paillettes ou un peu de pâte autodurcissante seulement lorsque la base est stable. Mélangez doucement et arrêtez dès que l'ajout est réparti : surcharger un slime le rend cassant ou difficile à étirer.</p>"
+        },
+        {
+          "title": "Laissez reposer et rangez",
+          "html": "<p>Laissez le slime fermé dans son pot pendant environ dix minutes avant une longue séance de jeu. Ce court repos homogénéise la texture. Refermez-le immédiatement après utilisation pour limiter le dessèchement.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Slime à la colle ou pâte sensorielle : quelle option choisir ?",
+      "intro": "Ces deux activités offrent une expérience tactile, mais elles ne répondent pas au même besoin. Ne présentez pas une pâte faite avec des ingrédients alimentaires comme une friandise : elle peut être souillée après manipulation.",
+      "left": {
+        "title": "Slime à la colle PVA",
+        "points": [
+          "Texture élastique, étirable et durable si la recette est équilibrée.",
+          "Permet des versions transparentes, fluffy, crunchy ou « butter ».",
+          "Demande un activateur compatible, une surveillance et un rangement hermétique.",
+          "Ne se mange jamais et ne doit pas être laissé à portée des tout-petits."
+        ]
+      },
+      "right": {
+        "title": "Pâte sensorielle amidon et eau",
+        "points": [
+          "Réalisée avec fécule de maïs et eau, sans colle ni activateur chimique.",
+          "Texture étonnante : ferme sous la pression, liquide au repos.",
+          "Convient à une activité courte et très encadrée, mais se conserve mal.",
+          "N'est pas un slime élastique et ne doit pas être consommée après avoir été manipulée."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Personnaliser les textures sans rater sa base",
+      "html": "<p>La meilleure règle de création est simple : <strong>une seule modification à la fois</strong>. Préparez d'abord un slime classique qui vous satisfait, prélevez-en une petite portion, puis testez votre idée. Vous saurez ainsi quel ajout a réellement changé la texture et vous éviterez de gaspiller toute votre préparation.</p><p>Pour un slime <strong>fluffy</strong>, incorporez progressivement de la mousse à raser à la colle avant l'activation. La masse devient plus aérienne, mais elle peut perdre du volume avec le temps. Pour un slime dit <strong>butter</strong>, pétrissez une petite quantité de pâte autodurcissante souple dans un slime déjà formé : il devient mat, dense et très doux. Pour une version <strong>crunchy</strong>, mélangez des perles de mousse après l'activation, sans en mettre trop.</p><p>Un slime transparent demande surtout de la patience : utilisez une colle PVA transparente, évitez de fouetter la préparation et laissez-la reposer fermée 24 à 48 heures afin que les bulles remontent. Les paillettes peuvent être jolies, mais préférez une petite quantité de paillettes de loisirs créatifs et protégez soigneusement le plan de travail. Les colorants très foncés sont les plus susceptibles de tacher les doigts et les textiles.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Dépannage : corriger les problèmes les plus fréquents",
+      "intro": "Avant de modifier une recette, malaxez toujours le slime une minute avec des mains propres. Une correction minime est presque toujours plus efficace qu'un ajout important.",
+      "columns": [
+        "Problème constaté",
+        "Cause probable",
+        "Correction progressive"
+      ],
+      "rows": [
+        [
+          "Il colle beaucoup aux doigts",
+          "Pas assez d'activateur ou pétrissage insuffisant",
+          "Pétrissez d'abord. Ajoutez ensuite quelques gouttes d'activateur, mélangez et recommencez si nécessaire."
+        ],
+        [
+          "Il est raide ou se déchire",
+          "Trop d'activateur ou trop de décorations",
+          "Incorporez une petite cuillère de colle PVA, pétrissez longuement, puis réactivez seulement s'il devient trop liquide."
+        ],
+        [
+          "Il fait beaucoup de bulles",
+          "Mélange trop énergique ou slime transparent récent",
+          "Placez-le dans une boîte fermée et laissez-le reposer 24 à 48 heures sans le manipuler."
+        ],
+        [
+          "Les perles tombent ou le slime s'effrite",
+          "Ajouts trop nombreux ou ajoutés trop tôt",
+          "Retirez l'excédent si possible ; pour le prochain essai, ajoutez les décorations à une base déjà prise et en plus petite quantité."
+        ],
+        [
+          "Il est devenu très liquide après plusieurs jours",
+          "Vieillissement, chaleur ou contamination",
+          "Malaxez-le brièvement. S'il présente une odeur inhabituelle, des moisissures ou une texture suspecte, jetez-le dans les ordures ménagères."
+        ]
+      ],
+      "note": "Ne versez jamais le slime ou des restes d'activateur dans l'évier : ils peuvent contribuer à obstruer les canalisations."
+    },
+    {
+      "type": "stats",
+      "heading": "Les repères qui évitent la plupart des ratés",
+      "items": [
+        {
+          "value": "120 ml",
+          "label": "de colle PVA pour un premier pot facile à maîtriser"
+        },
+        {
+          "value": "5 à 15 ml",
+          "label": "d'activateur souvent nécessaires, à verser uniquement par petites doses"
+        },
+        {
+          "value": "24 à 48 h",
+          "label": "de repos utile pour clarifier un slime transparent plein de bulles"
+        },
+        {
+          "value": "1 à 3 semaines",
+          "label": "de conservation habituelle dans une boîte propre et bien fermée, selon l'usage"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Conserver ses créations et progresser comme un passionné",
+      "html": "<p>Rangez chaque slime dans un pot propre, étanche et étiqueté avec sa date de fabrication. Gardez-le à température ambiante, loin d'une source de chaleur et du soleil direct. Après chaque manipulation, vérifiez qu'il n'a pas ramassé de poussière, de cheveux ou de petits objets ; plus il reste propre, plus il durera.</p><p>Un slime qui sèche légèrement peut parfois retrouver de la souplesse avec un pétrissage patient. À l'inverse, une odeur aigre, des taches, de la moisissure ou une irritation au contact sont des signaux de fin de vie : ne cherchez pas à le récupérer. Fermez-le dans un sachet ou son pot, puis jetez-le avec les déchets ménagers selon les consignes locales.</p><p>Pour créer vos propres recettes, tenez un mini carnet d'essais. Notez le type de colle, les quantités, le temps de pétrissage, les ajouts et le résultat après vingt-quatre heures. Pesez les ingrédients si vous souhaitez reproduire exactement une texture réussie. Cette méthode transforme les essais aléatoires en véritables recettes personnelles.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réflexe des créateurs : testez sur une mini-portion",
+      "html": "<p>Vous rêvez d'un slime violet pailleté et croustillant ? Prélevez d'abord deux cuillères à soupe de votre base terminée. Ajoutez-y un seul colorant ou une seule décoration, observez le résultat, puis ajustez. Cette habitude permet de comparer les textures, de limiter le gaspillage et de conserver une base de secours si une idée ne fonctionne pas.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on faire du slime sans borax ?",
+      "a_html": "<p>Oui, si par « sans borax » vous entendez sans poudre de borax à manipuler. Une solution pour lentilles compatible contient souvent des borates ou de l'acide borique et permet d'activer une colle PVA plus facilement. Vérifiez impérativement l'étiquette : toutes les solutions ne fonctionnent pas.</p><p>En revanche, un slime élastique à base de colle a besoin d'un mécanisme d'activation. Si vous souhaitez éviter totalement les borates, choisissez plutôt une pâte sensorielle à l'amidon et à l'eau, en acceptant une texture et une durée de vie différentes.</p>"
+    },
+    {
+      "q": "Quelle colle choisir pour fabriquer du slime ?",
+      "a_html": "<p>Choisissez une colle blanche liquide ou une colle transparente indiquant une base vinylique ou PVA. La colle blanche donne un slime opaque et souvent plus facile à colorer ; la colle transparente convient aux créations cristal, mais les bulles y sont plus visibles.</p><p>Évitez de mélanger plusieurs colles lors d'un premier essai. Testez une petite quantité, car la réactivité dépend de la formule de la colle et de l'activateur utilisé.</p>"
+    },
+    {
+      "q": "Comment rendre un slime moins collant ?",
+      "a_html": "<p>Commencez par le pétrir deux à trois minutes : la chaleur des mains et le malaxage suffisent parfois. S'il colle toujours beaucoup, ajoutez quelques gouttes de solution activatrice, mélangez, puis réévaluez la texture.</p><p>Ne versez jamais une grande quantité d'activateur d'un coup. Un slime trop activé devient rapidement dur, cassant et plus difficile à réparer qu'un slime un peu collant.</p>"
+    },
+    {
+      "q": "Le slime est-il adapté aux enfants ?",
+      "a_html": "<p>Le slime à la colle doit être préparé et utilisé sous la surveillance d'un adulte. Il n'est pas approprié pour les enfants qui risquent de le mettre à la bouche, ni pour une manipulation sans surveillance avec de petites décorations.</p><p>Installez l'activité sur une surface protégée, prévoyez un lavage des mains et rappelez clairement qu'il ne faut ni manger ni approcher le slime des yeux ou du visage.</p>"
+    },
+    {
+      "q": "Combien de temps peut-on conserver un slime maison ?",
+      "a_html": "<p>Un slime propre et bien fermé reste souvent agréable une à trois semaines, parfois davantage selon sa formule et la fréquence de manipulation. La chaleur, les mains sales et les ajouts alimentaires raccourcissent fortement sa durée de conservation.</p><p>Jetez-le dès qu'il change d'odeur, présente des traces de moisissure, devient très sale ou provoque une gêne sur la peau. Ne le versez pas dans les canalisations.</p>"
+    },
+    {
+      "q": "Peut-on colorer ou parfumer son slime ?",
+      "a_html": "<p>Oui pour la couleur : une à deux gouttes de colorant suffisent généralement. Ajoutez-le dans la colle avant l'activation et protégez les vêtements, surtout avec les pigments rouges, bleus ou noirs.</p><p>Pour le parfum, la prudence est préférable. Les huiles essentielles et les fragrances concentrées peuvent sensibiliser la peau ; mieux vaut s'en passer, ou choisir un additif spécifiquement destiné à cet usage et respecter sa notice. Un slime parfumé ne devient jamais comestible.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Une bonne recette de slime ne dépend pas d'une multitude d'ingrédients, mais d'une base PVA fiable, d'un activateur dosé avec patience et d'observations précises. Commencez par une petite quantité, corrigez par mini-ajouts et notez ce qui fonctionne : vous obtiendrez vite une texture qui vous ressemble.</p><p>Gardez enfin le plaisir créatif compatible avec de bonnes habitudes : mains propres, surveillance, pot hermétique et aucune évacuation dans l'évier. À partir de cette base, vos essais de couleurs, de perles ou de textures deviendront beaucoup plus simples et réussis.</p>",
+  "__slug": "comment-creer-des-recettes-de-slime-pour-les-passionnes"
+}

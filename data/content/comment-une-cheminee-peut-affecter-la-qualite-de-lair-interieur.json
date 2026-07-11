@@ -1,0 +1,190 @@
+{
+  "title": "Cheminée et qualité de l'air intérieur : risques, gestes et solutions",
+  "meta_description": "Cheminée et air intérieur : identifiez les polluants, limitez fumées et monoxyde de carbone, choisissez le bon bois et entretenez l'installation.",
+  "reading_time_min": 10,
+  "hero_intro": "Un feu de cheminée crée une ambiance incomparable, mais sa fumée ne disparaît pas toujours intégralement dans le conduit. Particules fines, gaz de combustion et odeurs peuvent dégrader l'air du logement, parfois sans signe évident. Avec un appareil adapté, du bois de qualité et quelques réflexes simples, il est possible de profiter du chauffage au bois en limitant nettement les risques.",
+  "key_takeaways": [
+    "Une cheminée, surtout à foyer ouvert, peut libérer dans le logement des particules fines, du monoxyde de carbone et des composés irritants.",
+    "La fumée visible, une odeur persistante, des traces noires ou des maux de tête pendant les flambées sont des signaux à prendre au sérieux.",
+    "Le bois très sec, non traité et adapté au foyer favorise une combustion plus complète et moins polluante.",
+    "Un foyer fermé récent et correctement posé est généralement plus efficace et mieux maîtrisé qu'une cheminée ouverte.",
+    "Un détecteur de monoxyde de carbone complète la prévention, mais ne remplace ni le ramonage, ni l'entretien, ni une ventilation fonctionnelle."
+  ],
+  "toc": [
+    "Quels polluants une cheminée peut-elle émettre ?",
+    "Pourquoi la fumée revient parfois dans la pièce",
+    "Cheminée ouverte ou foyer fermé : quelles différences ?",
+    "Les effets possibles sur la santé et les signaux d'alerte",
+    "Les bons gestes pour limiter la pollution intérieure",
+    "Ventilation, entretien et équipements de sécurité",
+    "Quand rénover ou remplacer son installation ?"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Quels polluants une cheminée peut-elle émettre ?",
+      "html": "<p>Brûler du bois ne produit pas seulement de la chaleur. Lorsque la combustion est incomplète, notamment avec un bois humide, un feu étouffé ou un conduit mal adapté, elle génère davantage de <strong>particules fines</strong>, de suie et de composés organiques irritants. Ces éléments peuvent rester un temps dans l'air intérieur, se déposer sur les meubles et imprégner les textiles.</p><p>Le risque le plus grave est lié au <strong>monoxyde de carbone</strong> (CO), un gaz inodore et invisible produit par une combustion insuffisamment oxygénée. Il ne faut pas le confondre avec l'odeur de fumée : l'absence d'odeur ne signifie pas que l'air est sain. Une mauvaise évacuation des fumées peut aussi accroître la présence de dioxyde d'azote, de composés organiques volatils et d'hydrocarbures aromatiques polycycliques.</p><p>La quantité réellement présente dans la maison varie beaucoup selon l'appareil, le tirage du conduit, la qualité du combustible, l'allumage, l'entretien et les conditions extérieures. Un feu occasionnel dans un appareil performant n'a pas le même impact qu'un foyer ouvert utilisé quotidiennement. L'objectif n'est donc pas de renoncer systématiquement à la cheminée, mais d'éviter les situations qui favorisent les rejets dans la pièce.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les situations qui aggravent la pollution",
+      "points": [
+        "Bois humide, fraîchement coupé, peint, verni, traité ou récupération de palettes non identifiées.",
+        "Conduit encrassé, mal dimensionné, fissuré ou dont le tirage est insuffisant.",
+        "Feu couvé volontairement, arrivée d'air trop vite réduite ou surcharge du foyer.",
+        "VMC, hotte de cuisine ou extracteur créant une dépression et refoulant les fumées.",
+        "Aérations bouchées pour « garder la chaleur » ou logement insuffisamment renouvelé.",
+        "Appareil ancien, porte ou joints défectueux, installation non adaptée au volume à chauffer."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "D'où vient le problème et comment agir ?",
+      "intro": "Les symptômes observés donnent souvent de premières pistes, sans remplacer le diagnostic d'un professionnel lorsque le problème se répète.",
+      "columns": [
+        "Situation observée",
+        "Cause fréquente",
+        "Action prioritaire"
+      ],
+      "rows": [
+        [
+          "Fumée qui entre dans le salon à l'allumage",
+          "Conduit froid, tirage faible, maison en dépression ou bois humide",
+          "Ouvrir l'arrivée d'air, allumer progressivement, éviter d'utiliser une hotte et faire vérifier le tirage si cela persiste."
+        ],
+        [
+          "Vitres très noircies ou suie abondante",
+          "Combustion trop lente, bûches humides ou arrivée d'air insuffisante",
+          "Utiliser du bois sec, ne pas étouffer le feu et contrôler les réglages de l'appareil."
+        ],
+        [
+          "Odeur de fumée durable après le feu",
+          "Fuites au niveau des joints, tirage perturbé ou résidus dans le conduit",
+          "Vérifier portes et joints, aérer raisonnablement et programmer un entretien si l'odeur revient."
+        ],
+        [
+          "Maux de tête, nausées, vertiges pendant une flambée",
+          "Exposition possible au monoxyde de carbone ou aux fumées",
+          "Arrêter l'utilisation, aérer si cela peut être fait sans danger, sortir du logement et demander de l'aide si des symptômes sont présents."
+        ],
+        [
+          "Traces noires près du foyer ou des bouches d'air",
+          "Dépôts de particules et circulation d'air chargée",
+          "Rechercher une fuite ou un refoulement ; ne pas se contenter de nettoyer les traces."
+        ]
+      ],
+      "note": "Un détecteur de CO est indispensable en complément dans un logement équipé d'un appareil à combustion, mais il ne mesure pas les particules fines."
+    },
+    {
+      "type": "comparison",
+      "heading": "Cheminée ouverte ou foyer fermé : ce qui change vraiment",
+      "intro": "Le type d'appareil influence à la fois le confort de chauffe, la consommation de bois et le risque de rejets dans la pièce.",
+      "left": {
+        "title": "Cheminée à foyer ouvert",
+        "points": [
+          "Vision directe des flammes et usage souvent décoratif.",
+          "Rendement thermique généralement faible : une partie importante de la chaleur s'échappe dans le conduit.",
+          "Tirage plus sensible au vent, à l'air froid et aux variations de pression dans la maison.",
+          "Davantage de fumées et de particules peuvent rejoindre l'intérieur, surtout à l'allumage ou au rechargement.",
+          "À réserver à un usage prudent et ponctuel lorsque l'installation est en bon état."
+        ]
+      },
+      "right": {
+        "title": "Insert, foyer fermé ou poêle récent",
+        "points": [
+          "Combustion mieux contrôlée grâce à une chambre fermée et à des arrivées d'air réglables.",
+          "Rendement généralement bien supérieur, donc moins de bois nécessaire pour une même chaleur utile.",
+          "Émissions souvent plus faibles à condition de choisir un appareil performant, bien dimensionné et correctement utilisé.",
+          "Porte fermée, joints étanches et conduit adapté limitent les fuites de fumée dans la pièce.",
+          "Investissement plus important, avec pose à confier à un professionnel qualifié."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Effets sur la santé : qui doit être particulièrement vigilant ?",
+      "html": "<p>Les particules issues du bois peuvent irriter les yeux, le nez et les voies respiratoires. Chez certaines personnes, elles sont susceptibles d'accentuer une toux, une gêne respiratoire ou des symptômes d'asthme. Les enfants, les personnes âgées, les femmes enceintes et les personnes souffrant d'une maladie cardiaque ou respiratoire sont plus sensibles à une mauvaise qualité de l'air.</p><p>Le monoxyde de carbone constitue une urgence potentielle parce qu'il empêche le sang de transporter correctement l'oxygène. Les signes possibles comprennent maux de tête inhabituels, fatigue brutale, nausées, vertiges, confusion ou somnolence, surtout lorsqu'ils apparaissent pendant que l'appareil fonctionne et s'améliorent à l'extérieur. Ces symptômes peuvent aussi avoir d'autres causes : il ne faut donc jamais les banaliser.</p><p>Si plusieurs occupants ressentent ces signes ou si le détecteur de CO se déclenche, <strong>n'essayez pas de trouver l'origine seul</strong>. Quittez le logement si possible, appelez les secours compétents ou le service d'urgence adapté à votre situation, puis faites contrôler l'installation avant toute nouvelle utilisation. Ne rallumez pas la cheminée pour « vérifier » si le problème revient.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "À ne jamais brûler dans une cheminée",
+      "html": "<p>Ne brûlez ni déchets ménagers, ni bois peint, verni ou traité, ni panneaux agglomérés, ni cartons imprimés, ni plastiques. Ces matériaux peuvent dégager des fumées très toxiques, encrasser rapidement le conduit et endommager l'appareil. Utilisez uniquement du bois de chauffage propre, non traité et prévu pour cet usage.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Les 6 gestes qui réduisent les fumées à la source",
+      "intro": "La prévention commence avant même d'allumer le premier feu. Voici une routine simple, applicable à la plupart des installations au bois.",
+      "steps": [
+        {
+          "title": "Choisir un bois réellement sec",
+          "html": "<p>Privilégiez des bûches fendues et correctement séchées, idéalement avec un taux d'humidité inférieur à 20 %. Un humidimètre à bois, souvent vendu entre 15 et 40 €, permet de lever le doute. Stockez les bûches à l'abri de la pluie, dans un espace ventilé, sans les enfermer dans un local humide.</p>"
+        },
+        {
+          "title": "Utiliser une essence et une taille adaptées",
+          "html": "<p>Les feuillus durs, comme le chêne, le hêtre ou le charme, sont souvent appréciés pour une chaleur régulière lorsqu'ils sont bien secs. Respectez surtout les dimensions de bûches recommandées par le fabricant : des bûches trop grosses ou un foyer surchargé compliquent une combustion propre.</p>"
+        },
+        {
+          "title": "Allumer sans étouffer le feu",
+          "html": "<p>Un allumage par le haut, avec de petites bûches sèches et des allume-feux adaptés, aide souvent le conduit à monter progressivement en température. Laissez les arrivées d'air ouvertes au démarrage, puis réglez-les conformément à la notice une fois le feu établi. Un feu vif et maîtrisé pollue généralement moins qu'un feu qui couve longtemps.</p>"
+        },
+        {
+          "title": "Ne pas boucher les entrées d'air",
+          "html": "<p>Les grilles et amenées d'air ne sont pas des défauts d'isolation : elles participent à la sécurité de la combustion. Les condamner peut perturber le tirage et favoriser le refoulement. Dans une maison très étanche, une arrivée d'air dédiée peut être nécessaire selon l'appareil et sa configuration.</p>"
+        },
+        {
+          "title": "Recharger au bon moment",
+          "html": "<p>Ajoutez une quantité raisonnable de bois sur un lit de braises, plutôt que d'ouvrir fréquemment la porte ou de remplir le foyer au maximum. Ouvrez la porte lentement pour éviter un appel d'air et limitez les manipulations qui libèrent des fumées dans la pièce.</p>"
+        },
+        {
+          "title": "Observer et corriger",
+          "html": "<p>Une flamme paresseuse, une vitre qui noircit très vite, une odeur anormale ou de la fumée dans la maison ne sont pas des détails. Cessez d'utiliser l'appareil si nécessaire et faites rechercher la cause : combustible, réglage, étanchéité, conduit ou ventilation.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Ventilation, ramonage et détecteurs : les indispensables",
+      "html": "<p>Une maison doit être ventilée, y compris en hiver. La ventilation évacue une partie des polluants et apporte l'oxygène utile à une combustion correcte. Ne bouchez jamais les entrées d'air, les bouches de ventilation ou les grilles prévues pour l'appareil. Si votre logement est équipé d'une VMC, évitez de la modifier sans l'avis d'un professionnel : son équilibre avec la cheminée doit être étudié.</p><p>Le ramonage et l'entretien servent à retirer les dépôts, à vérifier l'état du conduit et à repérer certaines anomalies. La fréquence applicable dépend de la réglementation locale, de la commune, du règlement sanitaire et parfois de votre contrat d'assurance. Au-delà de l'obligation, un contrôle régulier est une mesure de sécurité particulièrement importante lorsque l'appareil est très utilisé ou ancien.</p><p>Installez un <strong>détecteur de monoxyde de carbone</strong> certifié, selon les instructions du fabricant, et testez-le régulièrement. Il doit être choisi pour détecter le CO ; un détecteur de fumée ne remplit pas ce rôle. Un purificateur équipé d'un filtre HEPA peut aider à réduire une partie des particules en suspension, mais il ne supprime pas le CO et ne corrige ni un conduit défectueux ni un refoulement de fumée.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Une dépense utile avant l'hiver",
+      "html": "<p>Pour une cheminée existante, prévoyez généralement le budget d'un ramonage professionnel, souvent de l'ordre de quelques dizaines à un peu plus d'une centaine d'euros selon la région, le conduit et l'intervention. Pour un projet de remplacement, le coût d'un foyer fermé ou d'un poêle avec pose peut aller de plusieurs milliers d'euros : demandez plusieurs devis incluant tubage, arrivée d'air, protections et mise en service. Comparer uniquement le prix de l'appareil est rarement suffisant.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Quand faut-il rénover ou remplacer une cheminée ?",
+      "html": "<p>Une cheminée ouverte ancienne peut rester un élément d'agrément, mais elle est rarement le choix le plus efficace pour chauffer régulièrement une maison. Si vous constatez des refoulements répétés, une forte consommation de bois, des dépôts fréquents ou une difficulté à chauffer la pièce, une expertise de l'installation est préférable à une succession de petits ajustements.</p><p>La pose d'un insert, d'un foyer fermé ou d'un poêle peut améliorer le rendement et mieux contenir la combustion. Le bon choix dépend de la surface à chauffer, de l'isolation, du conduit existant, de l'arrivée d'air et de votre usage réel. Un appareil surdimensionné conduit souvent à le faire fonctionner au ralenti, ce qui favorise l'encrassement et les émissions.</p><p>Faites examiner le conduit, le tirage et la compatibilité de l'appareil par un professionnel compétent. Il pourra proposer un tubage, une rénovation du conduit, une arrivée d'air extérieure ou, si l'installation est trop dégradée, une solution de chauffage différente. Cette approche est plus sûre qu'un achat guidé uniquement par l'esthétique ou la puissance annoncée.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Est-ce qu'une cheminée à foyer ouvert pollue l'air de la maison ?",
+      "a_html": "<p>Oui, elle peut le faire, notamment lors de l'allumage, du rechargement ou si le tirage est insuffisant. Les foyers ouverts offrent peu de maîtrise de la combustion et laissent plus facilement passer fumées et particules dans la pièce qu'un appareil fermé en bon état.</p><p>Le niveau de pollution dépend toutefois du bois utilisé, de l'état du conduit, de la ventilation et de la manière d'allumer le feu. Une fumée qui revient dans la pièce n'est jamais normale.</p>"
+    },
+    {
+      "q": "Comment savoir si ma cheminée refoule ?",
+      "a_html": "<p>Les signes les plus courants sont une fumée visible dans la pièce, une forte odeur de brûlé, des traces de suie autour du foyer, une vitre qui noircit rapidement ou des yeux qui piquent à chaque flambée. Un refoulement peut aussi être discret et intermittent, par exemple lorsqu'une hotte ou une VMC modifie la pression de l'air.</p><p>Arrêtez l'utilisation si le phénomène se répète et faites vérifier le conduit, le tirage et les arrivées d'air.</p>"
+    },
+    {
+      "q": "Quel bois choisir pour moins polluer avec sa cheminée ?",
+      "a_html": "<p>Choisissez du bois de chauffage non traité, propre et surtout très sec. Un taux d'humidité inférieur à 20 % est un bon repère. Les bûches humides consomment une partie de l'énergie pour évaporer l'eau, brûlent moins bien et produisent plus de fumée et de dépôts.</p><p>Évitez absolument les bois peints, vernis, traités, les palettes non certifiées et les panneaux reconstitués.</p>"
+    },
+    {
+      "q": "Faut-il aérer quand on utilise une cheminée ?",
+      "a_html": "<p>Le logement doit conserver une ventilation fonctionnelle et les entrées d'air ne doivent pas être obstruées. Il n'est pas nécessaire de laisser une fenêtre grande ouverte pendant toute la flambée si l'installation dispose d'une arrivée d'air adaptée, mais l'air doit pouvoir se renouveler.</p><p>Si la cheminée fume à cause d'une dépression, ouvrir temporairement une fenêtre près du foyer peut aider à identifier le problème. Cela ne remplace pas un contrôle professionnel, surtout si la situation est fréquente.</p>"
+    },
+    {
+      "q": "Un purificateur d'air suffit-il pour rendre l'usage d'une cheminée sûr ?",
+      "a_html": "<p>Non. Un purificateur doté d'un filtre HEPA peut retenir une partie des particules fines, selon son débit et la taille de la pièce, mais il ne supprime pas le monoxyde de carbone. Il ne répare pas non plus un conduit bouché, un mauvais tirage ou une fuite de fumées.</p><p>Considérez-le comme un complément éventuel, jamais comme une solution à un défaut de combustion ou d'installation.</p>"
+    },
+    {
+      "q": "Où placer un détecteur de monoxyde de carbone ?",
+      "a_html": "<p>Suivez en priorité la notice du modèle choisi, car les recommandations de distance et de hauteur peuvent varier. Installez-le dans une zone où l'alarme sera entendue, sans le placer juste au-dessus de l'appareil ni dans un endroit très humide ou soumis à des courants d'air importants.</p><p>Testez régulièrement l'alarme, remplacez les piles si nécessaire et respectez la durée de vie indiquée par le fabricant. Un détecteur est un filet de sécurité, pas un outil de diagnostic du conduit.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Une cheminée ne doit pas être synonyme d'air vicié : les principaux leviers sont concrets. Utilisez un bois sec et non traité, maintenez les arrivées d'air ouvertes, évitez les feux qui couvent, faites entretenir le conduit et équipez-vous d'un détecteur de monoxyde de carbone.</p><p>Si la fumée entre dans la pièce, si une odeur persiste ou si des symptômes apparaissent pendant les flambées, ne prenez pas le problème à la légère. Une vérification de l'installation vous permettra de retrouver le plaisir du feu tout en protégeant durablement la santé des occupants.</p>",
+  "__slug": "comment-une-cheminee-peut-affecter-la-qualite-de-lair-interieur"
+}

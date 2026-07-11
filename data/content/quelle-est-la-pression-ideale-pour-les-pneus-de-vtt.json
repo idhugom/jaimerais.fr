@@ -1,0 +1,239 @@
+{
+  "title": "Quelle pression pour les pneus de VTT ? Le guide pour trouver le bon réglage",
+  "meta_description": "Pression des pneus VTT : repères en bar et psi, réglages selon votre poids, terrain et montage tubeless pour rouler avec adhérence et sérénité.",
+  "reading_time_min": 10,
+  "hero_intro": "La bonne pression de pneus en VTT ne se résume pas à un chiffre gravé sur le flanc du pneu. Elle dépend de votre poids, du volume de vos pneus, de votre montage et du terrain emprunté. Avec quelques repères fiables et une méthode d'essai simple, vous gagnerez en grip, en confort et en contrôle, sans multiplier les crevaisons.",
+  "key_takeaways": [
+    "Il n'existe pas une pression idéale universelle : partez d'une base, puis ajustez selon votre vélo, votre masse totale et votre terrain.",
+    "À configuration égale, le pneu arrière demande généralement 0,1 à 0,3 bar de plus que l'avant car il supporte davantage de charge.",
+    "Le tubeless permet souvent de rouler un peu moins gonflé qu'une chambre à air, mais une pression trop basse expose au talonnage, au déjantage et aux dommages de jante.",
+    "Réglez toujours vos pneus à froid avec un manomètre fiable, avant la sortie, puis ne modifiez qu'un paramètre à la fois.",
+    "Le chiffre maximal inscrit sur le pneu est une limite de sécurité, pas une pression de roulage recommandée pour le VTT. Pour le minimum, respectez les consignes du fabricant du pneu et de la jante."
+  ],
+  "toc": [
+    "Pourquoi la pression des pneus change tout en VTT",
+    "Les facteurs qui déterminent votre pression idéale",
+    "Pressions VTT : des repères de départ en bar et en psi",
+    "Chambre à air ou tubeless : quel réglage adopter ?",
+    "Comment trouver votre pression idéale en quelques sorties",
+    "Adapter la pression au terrain et à la météo",
+    "Reconnaître une pression trop haute ou trop basse",
+    "Le matériel et les erreurs qui faussent le réglage",
+    "FAQ : pression des pneus de VTT"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi la pression des pneus change tout en VTT",
+      "html": "<p>Les pneus sont votre seul contact avec le sol. Leur pression détermine la manière dont leur carcasse se déforme sur les racines, les pierres, les appuis en virage et les freinages. Un pneu suffisamment souple épouse mieux le terrain : la surface de contact augmente, l'adhérence progresse et les vibrations sont mieux filtrées.</p><p>Pour autant, chercher la pression la plus basse possible n'est pas la bonne stratégie. Quand le pneu s'écrase excessivement, il devient imprécis dans les appuis, peut talonner sur la jante et risque de pincer une chambre à air. À l'inverse, un pneu surgonflé rebondit sur les obstacles : il paraît roulant sur un chemin très lisse, mais perd du grip et de la vitesse réelle dès que le sol devient irrégulier.</p><p>Le bon réglage est donc un compromis entre <strong>adhérence, soutien de la carcasse, résistance aux crevaisons, confort et rendement</strong>. Il doit aussi différencier l'avant et l'arrière : la roue arrière encaisse habituellement plus de poids et davantage de chocs en montée, au pédalage et à la réception.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Ce que vous gagnez avec une pression bien réglée",
+      "points": [
+        "Plus de traction dans les montées techniques et les relances.",
+        "Un meilleur freinage et plus de confiance sur l'angle en virage.",
+        "Moins de fatigue dans les mains, les bras et le dos sur terrain cassant.",
+        "Un vélo plus stable, sans sensation de rebond incontrôlé.",
+        "Moins de risques de pincement, de talonnage et de crevaison liés à une pression inadaptée."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Les facteurs qui déterminent votre pression idéale",
+      "html": "<p>Le premier critère est votre <strong>masse totale en ordre de marche</strong> : votre poids équipé, plus le vélo, l'eau, le sac et le matériel embarqué. Deux vététistes utilisant le même pneu ne pourront pas employer la même pression si leur masse totale diffère fortement. En pratique, plus la charge est élevée, plus il faut ajouter de l'air pour garder un bon maintien.</p><p>Le volume du pneu compte tout autant. Un pneu de 2,6 pouces contient plus d'air et offre davantage de soutien à pression égale qu'un pneu de 2,25 pouces. La largeur interne de la jante influence aussi le volume et la forme du pneu. Il est donc peu pertinent de copier exactement la pression d'un ami qui n'a ni les mêmes pneus, ni les mêmes roues.</p><p>Ajoutez à cela la carcasse du pneu, le diamètre de roue, le montage avec chambre à air ou tubeless, l'usage du vélo et votre style de pilotage. Une carcasse renforcée ou un insert de pneu apporte plus de soutien et de protection ; un pilote qui saute, freine fort ou roule vite dans les pierres sollicitera davantage ses pneus qu'un pratiquant de randonnée sur sentiers souples.</p><p>Enfin, observez le terrain dominant de votre sortie. Un chemin compact et peu accidenté tolère une pression un peu plus élevée. Un sentier humide, racineux ou rocheux demande souvent davantage de déformation et donc quelques dixièmes de bar en moins, à condition que la jante reste protégée.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Pression VTT : repères de départ en bar et en psi",
+      "intro": "Ces fourchettes constituent une base prudente pour des pneus VTT de 2,3 à 2,5 pouces, en bon état, sur jantes adaptées. Elles concernent une pratique cross-country à trail modéré, avec une masse totale pilote + équipement + vélo comprise approximativement entre 75 et 95 kg.",
+      "columns": [
+        "Montage et usage",
+        "Pneu avant",
+        "Pneu arrière",
+        "À ajuster en priorité"
+      ],
+      "rows": [
+        [
+          "Tubeless, sentiers mixtes",
+          "1,25 à 1,45 bar (18 à 21 psi)",
+          "1,45 à 1,70 bar (21 à 25 psi)",
+          "Poids total, agressivité du terrain et solidité de la carcasse"
+        ],
+        [
+          "Chambre à air, sentiers mixtes",
+          "1,45 à 1,70 bar (21 à 25 psi)",
+          "1,70 à 2,00 bar (25 à 29 psi)",
+          "Risque de pincement sur pierres et racines"
+        ],
+        [
+          "Pneus larges 2,6 à 2,8 pouces, tubeless",
+          "1,05 à 1,30 bar (15 à 19 psi)",
+          "1,20 à 1,50 bar (17 à 22 psi)",
+          "Soutien en virage et compatibilité pneu/jante"
+        ],
+        [
+          "Terrain roulant et peu cassant",
+          "Ajoutez souvent 0,05 à 0,15 bar",
+          "Ajoutez souvent 0,05 à 0,15 bar",
+          "Conserver suffisamment de grip et de confort"
+        ],
+        [
+          "Terrain très rocailleux ou humide",
+          "Retirez souvent 0,05 à 0,15 bar",
+          "Retirez souvent 0,05 à 0,15 bar",
+          "Ne pas descendre sous le seuil de maintien et de protection"
+        ]
+      ],
+      "note": "Ces valeurs ne remplacent pas les limites de pression indiquées par les fabricants de pneus et de jantes. Avec une masse totale supérieure à 95 kg, des pneus étroits, une chambre à air ou une pratique engagée, commencez plutôt dans le haut des fourchettes."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le repère le plus utile : l'écart avant/arrière",
+      "html": "<p>Commencez généralement avec <strong>0,15 à 0,25 bar de plus à l'arrière</strong>. La roue arrière reçoit plus de charge et encaisse souvent les impacts les plus francs. Si vous talonnez uniquement derrière, n'augmentez pas l'avant par réflexe : ajoutez d'abord 0,1 bar à l'arrière.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Chambre à air ou tubeless : quel réglage adopter ?",
+      "intro": "Le montage influe sur le risque de crevaison et sur la marge de baisse de pression, mais il ne dispense jamais d'un réglage cohérent.",
+      "left": {
+        "title": "Avec chambre à air",
+        "points": [
+          "Prévoir souvent 0,15 à 0,30 bar de plus qu'en tubeless à pneus comparables.",
+          "Le risque principal à basse pression est la crevaison par pincement de la chambre contre la jante.",
+          "Solution simple et économique, mais moins tolérante sur les sentiers pierreux ou les appuis soutenus.",
+          "Une pression un peu plus élevée protège mieux, au prix d'un confort et d'un grip parfois moindres."
+        ]
+      },
+      "right": {
+        "title": "En tubeless",
+        "points": [
+          "Permet souvent de réduire légèrement la pression sans risque de pincement de chambre.",
+          "Le liquide préventif peut colmater de petites perforations, mais pas un pneu entaillé ou une jante abîmée.",
+          "Attention au talonnage, aux pertes d'air et au manque de soutien de la carcasse si la pression est trop faible.",
+          "Un montage étanche, une jante compatible et un préventif entretenu sont indispensables."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Comment trouver votre pression idéale en quelques sorties",
+      "intro": "Plutôt que de chercher une formule magique, procédez méthodiquement. Votre objectif est de trouver la pression la plus basse qui reste stable, précise et protectrice sur vos sentiers habituels.",
+      "steps": [
+        {
+          "title": "1. Relevez votre configuration réelle",
+          "html": "<p>Notez la section des pneus, le montage avec chambre ou tubeless, la présence éventuelle d'inserts, ainsi que votre masse totale approximative. Vérifiez aussi l'état des pneus, la largeur de jante et les pressions minimales ou maximales recommandées par les fabricants.</p>"
+        },
+        {
+          "title": "2. Choisissez une base prudente",
+          "html": "<p>Utilisez le tableau comme point de départ et mettez un peu plus d'air à l'arrière. En cas de doute, commencez légèrement trop haut plutôt que trop bas, surtout avec des chambres à air ou sur un parcours rocheux.</p>"
+        },
+        {
+          "title": "3. Roulez sur un parcours représentatif",
+          "html": "<p>Testez la pression sur des virages, des freinages, une montée technique et quelques obstacles. Cherchez les sensations de perte d'adhérence, de rebond, de flou dans les appuis ou de chocs secs dans les jantes.</p>"
+        },
+        {
+          "title": "4. Ajustez par petites touches",
+          "html": "<p>Modifiez un seul pneu à la fois, par paliers de <strong>0,05 à 0,1 bar</strong>. Un changement minime est perceptible en VTT. Recommencez sur un terrain comparable, sans changer simultanément vos suspensions ou vos pneus.</p>"
+        },
+        {
+          "title": "5. Gardez votre réglage de référence",
+          "html": "<p>Une fois le bon compromis trouvé, notez vos pressions avant et arrière, votre montage et les conditions. Vous disposerez d'une base fiable à adapter pour une sortie boueuse, une randonnée roulante ou un bike park.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Adapter la pression au terrain et à la météo",
+      "html": "<p>Sur sol sec, lisse et compact, ajouter environ 0,05 à 0,15 bar peut donner un peu plus de précision et limiter la sensation de pneu qui se dérobe dans les appuis. Ne cherchez toutefois pas à rendre le pneu très dur : sur les petites irrégularités, un pneu capable de se déformer conserve souvent mieux sa vitesse qu'un pneu qui saute de relief en relief.</p><p>Dans la boue, sur les racines humides ou les pierres glissantes, enlever légèrement de la pression augmente l'empreinte au sol. La baisse doit rester modérée. Si le pneu roule sur ses flancs dans les dévers ou semble se tordre en virage, remontez la pression : la perte de précision peut devenir plus pénalisante que le gain de grip.</p><p>En descente engagée, sur piste de bike park ou dans une longue zone rocheuse, la priorité devient le soutien et la protection contre les chocs. Une carcasse renforcée, un insert et quelques dixièmes de bar supplémentaires peuvent être plus judicieux qu'un pneu trop souple. Le choix de la carcasse est parfois plus efficace que de surgonfler un pneu léger.</p><p>La température a aussi un effet : l'air se contracte lorsqu'il fait froid et se dilate quand il fait chaud. L'écart pendant une sortie est généralement modéré, mais il justifie de contrôler les pressions <strong>à froid</strong>, particulièrement lors des changements de saison. En altitude ou après un long trajet en voiture, un contrôle reste une bonne habitude.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un réglage différent pour une sortie différente",
+      "html": "<p>Ne considérez pas votre pression de référence comme immuable. Pour une balade familiale sur voies forestières, une randonnée alpine avec pierres ou une journée de descente, emportez une pompe et adaptez votre réglage. Quelques minutes avant de partir peuvent transformer le comportement du vélo.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les signes d'une pression mal adaptée et la correction à faire",
+      "intro": "Vos sensations en roulant sont plus parlantes qu'un chiffre isolé. Voici les symptômes les plus fréquents.",
+      "columns": [
+        "Ce que vous ressentez ou observez",
+        "Cause probable",
+        "Correction à essayer"
+      ],
+      "rows": [
+        [
+          "Le vélo rebondit sur les racines, manque de grip au freinage",
+          "Pression trop élevée",
+          "Retirer 0,05 à 0,1 bar, puis tester à nouveau"
+        ],
+        [
+          "Le pneu se tord ou flotte dans les virages appuyés",
+          "Pression trop basse ou carcasse trop souple",
+          "Ajouter 0,05 à 0,15 bar ; envisager une carcasse plus robuste"
+        ],
+        [
+          "Choc métallique ou marque sur la jante après une pierre",
+          "Talonnage, pression insuffisante",
+          "Ajouter 0,1 à 0,2 bar et inspecter pneu, jante et montage"
+        ],
+        [
+          "Crevaison par pincement avec chambre à air",
+          "Pression trop basse pour le terrain ou la charge",
+          "Augmenter la pression ; envisager le tubeless si la pratique le justifie"
+        ],
+        [
+          "Le pneu perd de l'air après un impact en tubeless",
+          "Burp ou déformation excessive du pneu",
+          "Ajouter un peu de pression, vérifier l'état du talon et du préventif"
+        ],
+        [
+          "Traction arrière insuffisante en montée sans choc de jante",
+          "Pression possiblement trop élevée",
+          "Retirer 0,05 bar à l'arrière, si le pneu reste bien soutenu"
+        ]
+      ],
+      "note": "Après un choc important, ne vous contentez pas de regonfler : vérifiez que le pneu n'est pas coupé, que la jante n'est pas fendue et que le talon est correctement en place."
+    },
+    {
+      "type": "prose",
+      "heading": "Le matériel et les erreurs qui faussent le réglage",
+      "html": "<p>Une pompe à pied ou une mini-pompe avec manomètre est un investissement utile. Les petits manomètres dédiés aux basses pressions sont souvent plus lisibles entre 1 et 2 bars qu'un indicateur généraliste. Gardez le même instrument autant que possible : deux manomètres peuvent afficher un léger écart, même s'ils sont tous deux utilisables.</p><p>Avant chaque sortie, pressez le pneu à la main pour détecter une perte évidente, puis contrôlez la valeur au manomètre. Le test au pouce seul ne suffit pas : une différence de 0,1 bar est difficile à sentir à l'arrêt alors qu'elle peut changer le comportement du vélo. En tubeless, contrôlez également le niveau de liquide préventif à intervalles réguliers, car il sèche avec le temps.</p><p>L'erreur classique consiste à gonfler selon le maximum imprimé sur le flanc. Cette valeur est une <strong>limite à ne pas dépasser</strong>, souvent prévue pour des usages et des normes variés ; elle n'indique pas le meilleur réglage pour rouler sur un single. L'erreur inverse est de copier la pression très basse d'un pilote expert équipé de pneus renforcés, d'inserts et de roues différentes.</p><p>Enfin, ne compensez pas tout avec la pression. Si vous roulez régulièrement dans les cailloux avec un pneu XC léger, un passage à une carcasse plus solide ou à un pneu légèrement plus volumineux apportera parfois plus de sécurité qu'une hausse importante de pression. Le bon montage et la bonne pression fonctionnent ensemble.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "La meilleure pression n'est pas la plus basse : c'est celle qui donne de l'adhérence sans laisser le pneu s'écraser, se déformer ou frapper la jante.",
+      "author": "Principe de réglage VTT à retenir"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle pression mettre dans un pneu VTT 29 pouces ?",
+      "a_html": "<p>Le diamètre de 29 pouces ne suffit pas à déterminer la pression. Pour un pneu courant de 29 x 2,35 à 2,50 pouces en tubeless, une base fréquente se situe autour de 1,25 à 1,45 bar à l'avant et 1,45 à 1,70 bar à l'arrière pour une masse totale moyenne.</p><p>Augmentez ces valeurs si vous êtes plus lourd, roulez avec chambre à air, avez des pneus étroits ou affrontez un terrain très cassant. Diminuez-les très progressivement si vos pneus sont volumineux, montés en tubeless, et que vous recherchez davantage de grip sur sol meuble.</p>"
+    },
+    {
+      "q": "Faut-il mettre la même pression à l'avant et à l'arrière en VTT ?",
+      "a_html": "<p>Généralement non. La roue arrière supporte davantage de charge et subit plus de contraintes au pédalage et sur les chocs. Il est courant de mettre entre 0,1 et 0,3 bar de plus à l'arrière qu'à l'avant.</p><p>Ce n'est pas une règle absolue : votre position, la géométrie du vélo, la taille des pneus et le terrain comptent aussi. Mais c'est un excellent point de départ pour éviter les talonnages à l'arrière tout en gardant du grip à l'avant.</p>"
+    },
+    {
+      "q": "Quelle pression pour un VTT avec chambre à air ?",
+      "a_html": "<p>Avec une chambre à air, il faut en général rouler un peu plus gonflé qu'en tubeless, souvent de 0,15 à 0,30 bar supplémentaires à pneus et terrain comparables. Cette marge réduit le risque de crevaison par pincement lorsque la chambre est comprimée entre le pneu et la jante.</p><p>Sur des sentiers rocheux, ne baissez pas la pression sans précaution. Si vous crevez régulièrement par pincement malgré une pression raisonnable, vérifiez votre technique, votre section de pneu et l'intérêt éventuel d'un passage au tubeless.</p>"
+    },
+    {
+      "q": "Comment savoir si la pression de mon pneu VTT est trop basse ?",
+      "a_html": "<p>Un pneu trop peu gonflé peut se déformer fortement dans les virages, donner une direction floue, talonner sur les pierres ou perdre un peu d'air après un impact en tubeless. Avec une chambre à air, il augmente le risque de pincement.</p><p>Ajoutez 0,05 à 0,1 bar et refaites un essai sur le même type de terrain. Si les chocs de jante disparaissent et que le vélo reste confortable et accrocheur, vous vous rapprochez du bon réglage.</p>"
+    },
+    {
+      "q": "Quelle pression pour rouler dans la boue en VTT ?",
+      "a_html": "<p>Sur terrain boueux, une légère baisse de 0,05 à 0,15 bar par rapport à votre réglage habituel peut améliorer la déformation du pneu et la traction. Le gain dépend beaucoup du dessin de crampons : un pneu adapté à la boue peut être plus déterminant qu'une forte baisse de pression.</p><p>Gardez assez de pression pour conserver le soutien dans les dévers et protéger la jante sur les racines ou pierres cachées sous la boue. Testez d'abord l'avant, car son adhérence conditionne le contrôle du vélo.</p>"
+    },
+    {
+      "q": "Les inserts permettent-ils de rouler avec beaucoup moins de pression ?",
+      "a_html": "<p>Les inserts peuvent protéger la jante, soutenir le pneu et limiter certains talonnages. Ils autorisent parfois une petite baisse de pression, mais ce n'est ni automatique ni une invitation à rouler très sous-gonflé.</p><p>Le résultat dépend du modèle d'insert, de la carcasse, de la largeur de jante et de votre pratique. Après installation, repartez d'une pression prudente et baissez très progressivement en surveillant la stabilité du pneu dans les appuis.</p>"
+    }
+  ],
+  "conclusion_html": "<p>La pression idéale des pneus de VTT est celle qui correspond à <strong>votre masse totale, vos pneus, votre montage et vos sentiers</strong>. Commencez avec des valeurs prudentes, gardez un peu plus de pression à l'arrière, puis affinez par paliers de 0,05 à 0,1 bar.</p><p>Un manomètre fiable, quelques notes après vos sorties et une vraie attention aux sensations suffisent pour trouver un réglage efficace. Vous roulerez alors avec plus de grip, plus de confort et une meilleure protection de vos pneus comme de vos jantes.</p>",
+  "__slug": "quelle-est-la-pression-ideale-pour-les-pneus-de-vtt"
+}

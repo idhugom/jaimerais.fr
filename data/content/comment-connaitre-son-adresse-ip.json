@@ -1,0 +1,201 @@
+{
+  "title": "Comment connaître son adresse IP publique ou locale ?",
+  "meta_description": "Découvrez comment trouver votre adresse IP publique ou locale sur Windows, Mac, iPhone et Android, et comprendre à quoi elle sert vraiment au quotidien.",
+  "reading_time_min": 10,
+  "hero_intro": "Vous devez configurer une imprimante Wi-Fi, dépanner une connexion ou simplement vérifier ce que votre réseau affiche sur Internet ? Trouver son adresse IP ne prend généralement que quelques secondes, à condition de chercher la bonne. Car votre appareil possède souvent une adresse IP locale et votre connexion une adresse IP publique : elles n'ont ni le même rôle, ni le même niveau de confidentialité.",
+  "key_takeaways": [
+    "L'adresse IP publique identifie votre connexion vers Internet ; l'adresse IP locale identifie votre appareil à l'intérieur de votre réseau domestique ou professionnel.",
+    "Pour connaître votre IP publique, une recherche « quelle est mon adresse IP » dans un navigateur suffit généralement.",
+    "Sur Windows, macOS, Android et iPhone, l'adresse IP locale se consulte dans les détails de la connexion Wi-Fi ou Ethernet active.",
+    "Une IP publique n'est pas une adresse postale précise : elle donne surtout une zone géographique approximative et le nom de votre fournisseur d'accès.",
+    "Le mode navigation privée ne masque pas votre IP ; un VPN remplace l'IP publique visible par celle de son serveur, avec certaines limites."
+  ],
+  "toc": [
+    "Adresse IP : comprendre la différence entre IP publique et IP locale",
+    "Trouver son adresse IP selon le besoin",
+    "Où consulter son adresse IP sur chaque appareil",
+    "IPv4, IPv6, IP fixe et IP dynamique : comment s'y retrouver",
+    "Vérifier et protéger son adresse IP sans fausse promesse",
+    "Que faire avec une adresse IP locale ?"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Adresse IP : de quelle adresse parle-t-on exactement ?",
+      "html": "<p>Une adresse IP est un identifiant utilisé pour faire circuler les données sur un réseau. Lorsqu'un appareil ouvre une page web, regarde une vidéo ou envoie un fichier, son adresse IP permet aux équipements du réseau de savoir où acheminer la réponse. On peut la comparer à une adresse de livraison, mais cette image a ses limites : elle désigne une connexion ou un appareil, pas nécessairement une personne.</p><p>Dans la plupart des foyers, vous rencontrerez <strong>deux niveaux d'adresse IP</strong>. Votre ordinateur, smartphone ou console reçoit une adresse locale de votre box ou de votre routeur. Toute la maison partage ensuite une adresse publique pour communiquer avec les sites et services en ligne. C'est cette dernière qu'un site web voit en premier.</p><p>Avant de commencer, posez-vous donc la bonne question : cherchez-vous l'adresse visible depuis Internet, par exemple pour un diagnostic, ou l'adresse de votre appareil sur le Wi-Fi, par exemple pour installer une imprimante ? La méthode ne sera pas la même.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "IP publique ou IP locale : laquelle vous faut-il ?",
+      "intro": "Ces deux adresses peuvent apparaître simultanément sur le même appareil. Elles répondent à des usages très différents.",
+      "left": {
+        "title": "Adresse IP publique",
+        "points": [
+          "Elle est attribuée à votre connexion par votre fournisseur d'accès ou votre opérateur mobile.",
+          "Elle est visible par les services auxquels vous vous connectez sur Internet.",
+          "Elle est souvent commune à tous les appareils reliés à la même box.",
+          "Elle peut changer après un délai, un redémarrage de la box ou selon l'offre souscrite."
+        ]
+      },
+      "right": {
+        "title": "Adresse IP locale (ou privée)",
+        "points": [
+          "Elle est attribuée au sein de votre réseau, généralement par la box ou le routeur.",
+          "Elle sert à repérer un appareil précis : ordinateur, TV, imprimante, caméra ou smartphone.",
+          "Elle commence souvent par 192.168.x.x, 10.x.x.x ou, dans certains réseaux, 172.16.x.x à 172.31.x.x.",
+          "Elle n'est pas directement accessible depuis Internet sans réglage particulier du routeur."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Trouver rapidement votre adresse IP publique",
+      "intro": "C'est la méthode la plus simple lorsque vous voulez savoir quelle IP votre connexion présente aux sites web.",
+      "steps": [
+        {
+          "title": "Ouvrez un navigateur connecté à Internet",
+          "html": "<p>Utilisez de préférence l'appareil et le réseau concernés. Si votre téléphone est en données mobiles au lieu du Wi-Fi, son adresse publique pourra être différente de celle de votre box.</p>"
+        },
+        {
+          "title": "Lancez une recherche explicite",
+          "html": "<p>Tapez « quelle est mon adresse IP » ou « mon IP » dans un moteur de recherche. Le résultat affiché en tête de page est généralement votre adresse IP publique actuelle.</p>"
+        },
+        {
+          "title": "Contrôlez le contexte de connexion",
+          "html": "<p>Si un VPN, un proxy ou un réseau d'entreprise est actif, l'adresse affichée sera celle de ce service ou de ce réseau, et non celle normalement fournie par votre domicile.</p>"
+        },
+        {
+          "title": "Notez-la seulement si nécessaire",
+          "html": "<p>Une adresse publique dynamique peut évoluer. Pour transmettre une information à une assistance technique, relevez-la au moment du problème et précisez la date, l'heure et le réseau utilisé.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Où trouver l'adresse IP locale de votre appareil ?",
+      "intro": "Les intitulés peuvent varier légèrement selon la version du système, mais le cheminement reste proche.",
+      "columns": [
+        "Appareil",
+        "Chemin le plus simple",
+        "Information à repérer"
+      ],
+      "rows": [
+        [
+          "PC sous Windows 10 ou 11",
+          "Ouvrez Paramètres, puis Réseau et Internet. Sélectionnez Wi-Fi ou Ethernet, puis les propriétés de la connexion active.",
+          "La ligne « Adresse IPv4 ». Vous pouvez aussi saisir ipconfig dans l'Invite de commandes."
+        ],
+        [
+          "Mac",
+          "Ouvrez Réglages Système, Réseau, puis choisissez la connexion Wi-Fi ou Ethernet active et consultez les détails TCP/IP.",
+          "L'adresse IP associée à l'interface active, souvent une IPv4 locale."
+        ],
+        [
+          "iPhone ou iPad",
+          "Ouvrez Réglages, Wi-Fi, puis touchez le bouton d'information du réseau auquel vous êtes connecté.",
+          "La ligne « Adresse IP » dans la section IPv4."
+        ],
+        [
+          "Téléphone ou tablette Android",
+          "Ouvrez Paramètres, Réseau et Internet ou Connexions, puis Wi-Fi. Touchez le réseau actif ou son icône de réglages.",
+          "La rubrique « Adresse IP ». Son emplacement varie selon la marque."
+        ],
+        [
+          "Box Internet ou routeur",
+          "Connectez-vous à l'interface d'administration de la box, puis consultez l'état de la connexion Internet.",
+          "L'IP WAN ou l'adresse IP Internet : il s'agit généralement de l'IP publique."
+        ]
+      ],
+      "note": "Sur un réseau d'entreprise, certains réglages peuvent être gérés par l'administrateur et ne pas être modifiables depuis l'appareil."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réflexe à adopter avant un dépannage",
+      "html": "<p>Si l'on vous demande votre adresse IP pour connecter une imprimante, un boîtier multimédia ou un serveur local, donnez <strong>l'adresse IP locale</strong> de l'appareil concerné. Si un service d'assistance vous demande de vérifier votre accès Internet, il recherche le plus souvent <strong>l'adresse IP publique</strong> de votre connexion.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Lire une adresse IP : IPv4 et IPv6 sans jargon inutile",
+      "html": "<p>La forme la plus familière est l'<strong>IPv4</strong>, composée de quatre nombres séparés par des points, par exemple 192.168.1.25. Chaque groupe va de 0 à 255. Les adresses qui commencent par 192.168, 10 ou une partie de la plage 172.16 à 172.31 sont réservées aux réseaux privés : elles sont normales sur une box domestique et ne permettent pas, seules, de vous joindre depuis l'extérieur.</p><p>Vous pouvez aussi voir une <strong>adresse IPv6</strong>, beaucoup plus longue et formée de chiffres et de lettres séparés par des deux-points, par exemple 2001:db8:abcd::12. IPv6 a été conçu notamment pour répondre au manque d'adresses IPv4 disponibles. Aujourd'hui, les deux protocoles cohabitent très souvent : cela ne signale ni une erreur ni une double connexion.</p><p>Ne confondez pas l'adresse IP avec l'adresse MAC. L'adresse MAC identifie une interface réseau sur le réseau local ; l'adresse IP peut changer. De même, le « masque de sous-réseau », la passerelle et les serveurs DNS sont des paramètres techniques voisins, utiles pour configurer un réseau, mais ce ne sont pas votre adresse IP.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Reconnaître une adresse qui mérite vérification",
+      "points": [
+        "Une IPv4 locale de type 169.254.x.x peut apparaître lorsqu'un appareil n'obtient pas correctement d'adresse de la box : reconnectez le Wi-Fi ou redémarrez l'équipement.",
+        "L'adresse 127.0.0.1 désigne votre propre appareil ; elle est utilisée pour des tests locaux et ne correspond pas à votre connexion Internet.",
+        "Si deux appareils ont la même IP locale, un conflit peut perturber le réseau. Laisser la box attribuer les adresses automatiquement résout souvent le problème.",
+        "Une IP publique différente entre deux appareils est normale si l'un utilise le Wi-Fi et l'autre les données mobiles, ou si un VPN n'est activé que sur l'un d'eux.",
+        "Voir plusieurs adresses dans les paramètres est fréquent : Wi-Fi, Ethernet, Bluetooth, VPN et IPv6 utilisent des interfaces distinctes."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "IP dynamique, IP fixe et adresse réservée : quelles différences ?",
+      "html": "<p>Une <strong>IP publique dynamique</strong> est la situation la plus courante pour une connexion résidentielle. Le fournisseur d'accès l'attribue automatiquement et peut la modifier. Ce fonctionnement convient parfaitement à la navigation, au streaming, aux jeux en ligne et au télétravail classique. Chercher à la changer n'améliore pas, à lui seul, le débit ni la sécurité de votre réseau.</p><p>Une <strong>IP publique fixe</strong> reste stable dans le temps. Elle est utile si vous devez accéder à un service hébergé chez vous ou dans votre entreprise, mettre en place certains accès professionnels ou appliquer des règles d'autorisation par IP. Elle est plus fréquente dans les offres professionnelles ; lorsqu'elle est proposée en option, son coût varie selon le fournisseur et se situe souvent entre quelques euros et une dizaine d'euros mensuels, parfois davantage avec des services associés.</p><p>Il existe aussi la <strong>réservation d'adresse locale</strong>. Dans l'interface de votre box, vous pouvez demander que l'imprimante ou le NAS reçoive toujours la même IP locale. Cette option est généralement préférable à une configuration manuelle sur l'appareil : elle évite plus facilement les doublons et simplifie les réglages à long terme.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Une adresse IP ne révèle pas votre domicile exact",
+      "html": "<p>Les outils de géolocalisation d'IP indiquent habituellement un fournisseur d'accès et une zone approximative, parfois une grande ville. Ils peuvent se tromper, surtout avec un réseau mobile, un VPN ou une adresse mutualisée. Une IP seule ne donne pas publiquement votre nom, votre rue ou votre numéro de téléphone. En revanche, votre fournisseur peut relier une IP à un abonnement dans un cadre légal.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Protéger son IP et résoudre les problèmes courants",
+      "intro": "Votre IP publique n'est pas secrète au sens strict, mais quelques habitudes réduisent les risques et évitent les mauvaises manipulations.",
+      "steps": [
+        {
+          "title": "Mettez à jour votre box et vos appareils",
+          "html": "<p>Installez les mises à jour proposées par le fabricant de votre routeur et par vos systèmes. Elles corrigent notamment des failles qui pourraient exposer un équipement depuis Internet.</p>"
+        },
+        {
+          "title": "Sécurisez l'accès au réseau Wi-Fi et à la box",
+          "html": "<p>Utilisez un mot de passe Wi-Fi robuste, un chiffrement récent proposé par la box et un mot de passe d'administration différent de celui d'origine. Désactivez l'administration à distance si vous n'en avez pas l'utilité.</p>"
+        },
+        {
+          "title": "Évitez d'ouvrir des ports sans nécessité",
+          "html": "<p>Une redirection de port peut rendre un service local accessible depuis Internet. Ne la créez que si vous comprenez le service concerné, limitez-la autant que possible et supprimez-la lorsqu'elle ne sert plus.</p>"
+        },
+        {
+          "title": "Utilisez un VPN pour un besoin précis",
+          "html": "<p>Un VPN peut masquer votre IP publique aux sites visités en leur montrant celle du serveur VPN. Il ne vous rend pas invisible : le fournisseur de VPN, votre appareil et les sites où vous vous identifiez restent des éléments importants de votre confidentialité.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Que pouvez-vous faire avec une adresse IP locale ?",
+      "html": "<p>Connaître l'IP locale d'un appareil est particulièrement utile pour ouvrir la page de configuration d'une imprimante réseau, d'un NAS, d'une caméra connectée ou d'une box domotique. Saisissez simplement cette adresse dans la barre d'adresse d'un navigateur, uniquement lorsque vous êtes connecté au même réseau local. L'appareil doit bien sûr proposer une interface web.</p><p>Elle aide aussi lors d'un diagnostic. Par exemple, si un ordinateur a une IP locale mais n'accède pas au web, vérifiez d'abord que la passerelle et le DNS sont fournis automatiquement par la box. Si l'appareil n'a pas d'IP correcte, oubliez le réseau Wi-Fi puis reconnectez-vous, ou redémarrez la box avant de modifier des paramètres avancés.</p><p>Enfin, ne publiez pas inutilement une capture d'écran contenant votre IP publique, le nom de votre Wi-Fi, un QR code d'accès ou les identifiants de votre routeur. Une capture apparemment anodine peut révéler beaucoup plus d'informations qu'une simple suite de chiffres.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment connaître mon adresse IP sans installer d'application ?",
+      "a_html": "<p>Pour votre adresse IP publique, ouvrez un navigateur et recherchez « quelle est mon adresse IP ». Pour l'adresse IP locale, consultez les détails de la connexion Wi-Fi ou Ethernet dans les réglages de votre appareil. Aucune application n'est nécessaire dans la grande majorité des cas.</p>"
+    },
+    {
+      "q": "Pourquoi mon adresse IP est-elle différente sur mon téléphone et mon ordinateur ?",
+      "a_html": "<p>Si les deux appareils sont connectés au même Wi-Fi, ils ont normalement des adresses <strong>locales</strong> différentes, car chacun doit être identifiable sur le réseau. Leur adresse <strong>publique</strong> est souvent la même, puisqu'ils passent par la même box.</p><p>Elle peut toutefois différer si le téléphone utilise les données mobiles, si un VPN est actif ou si l'un des appareils est connecté à un autre réseau.</p>"
+    },
+    {
+      "q": "Comment trouver l'adresse IP de ma box Internet ?",
+      "a_html": "<p>Il faut distinguer deux informations. L'adresse locale de la box, souvent appelée passerelle, se trouve dans les détails réseau de votre ordinateur ou téléphone ; elle ressemble fréquemment à 192.168.1.1 ou 192.168.0.1. L'adresse publique de la box se consulte dans son interface d'administration ou via une recherche web depuis un appareil connecté à cette box.</p>"
+    },
+    {
+      "q": "Est-ce dangereux de donner son adresse IP ?",
+      "a_html": "<p>Communiquer ponctuellement votre IP publique à un support technique de confiance n'est pas, en soi, dangereux. Évitez néanmoins de la publier avec des informations personnelles, des identifiants ou une capture de la configuration de votre box. Ne transmettez jamais le mot de passe d'administration de votre routeur.</p>"
+    },
+    {
+      "q": "Le mode navigation privée cache-t-il mon adresse IP ?",
+      "a_html": "<p>Non. La navigation privée limite surtout les traces enregistrées sur votre appareil, comme l'historique local ou certains cookies à la fermeture de la session. Les sites consultés, votre fournisseur d'accès et le réseau utilisé peuvent toujours voir ou traiter l'adresse IP de votre connexion.</p>"
+    },
+    {
+      "q": "Pourquoi mon adresse IP publique change-t-elle ?",
+      "a_html": "<p>La plupart des abonnements Internet utilisent une IP publique dynamique. Le fournisseur d'accès peut la modifier automatiquement, notamment après une reconnexion ou selon la gestion de son réseau. Ce changement est habituel et ne traduit pas forcément un problème de connexion.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour connaître votre adresse IP, commencez par distinguer <strong>l'IP publique</strong>, visible sur Internet, de <strong>l'IP locale</strong>, utilisée à la maison ou au bureau. Une recherche web suffit pour la première ; les réglages réseau de l'appareil donnent la seconde.</p><p>Gardez ce repère simple : une IP locale sert à faire communiquer vos équipements entre eux, tandis qu'une IP publique représente votre connexion vers l'extérieur. Avec cette distinction, vous pourrez répondre aux demandes d'assistance, installer vos appareils connectés et protéger votre réseau avec beaucoup plus de sérénité.</p>",
+  "__slug": "comment-connaitre-son-adresse-ip"
+}

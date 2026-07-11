@@ -1,0 +1,200 @@
+{
+  "title": "Compétitions de stand-up paddle : règles, calendrier et préparation pour se lancer",
+  "meta_description": "Compétitions de stand-up paddle : formats, règles, calendrier et conseils concrets pour préparer votre première course sur l'eau en toute sérénité.",
+  "reading_time_min": 12,
+  "hero_intro": "Vous aimeriez participer à une compétition de stand-up paddle, mais les formats de course, les règles et le matériel vous semblent encore flous ? Une épreuve de SUP n'est pas réservée aux athlètes professionnels : de nombreux événements accueillent des catégories loisirs et des débutants bien préparés. Voici comment choisir votre première course, comprendre ce qui vous attend et pagayer avec confiance le jour J.",
+  "key_takeaways": [
+    "Choisissez une épreuve adaptée à votre niveau : une course technique courte ou une distance loisir est souvent plus pertinente qu'un long parcours pour débuter.",
+    "Le règlement de l'organisateur prime toujours : catégorie de planche, équipement de sécurité, départ, assistance et pénalités changent d'une course à l'autre.",
+    "Le calendrier se construit en surveillant les clubs, les fédérations, les organisateurs et les plateformes d'inscription plusieurs mois à l'avance.",
+    "Une préparation utile combine endurance, intervalles, technique de pagaie, virages de bouée et familiarisation avec le vent ou le clapot.",
+    "Le meilleur matériel est celui qui est autorisé, maîtrisé et adapté aux conditions ; une planche très rapide ne compense pas un manque de sécurité ou de technique."
+  ],
+  "toc": [
+    "Les compétitions de SUP : bien choisir son format",
+    "Les règles à connaître avant de prendre le départ",
+    "Planche gonflable ou rigide : quel matériel pour courir ?",
+    "Calendrier, inscription et budget d'une compétition",
+    "Préparer sa première course de paddleboard",
+    "Le jour J : stratégie, hydratation et sécurité",
+    "Progresser de course en course"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Les compétitions de SUP : bien choisir son format",
+      "html": "<p>Dans le langage courant, « paddleboard » désigne souvent le <strong>stand-up paddle</strong> (SUP), pratiqué debout avec une pagaie. Certaines compétitions concernent toutefois le paddleboard à bras, pratiqué allongé ou à genoux : vérifiez donc toujours la discipline annoncée avant de vous inscrire. Cet article se concentre sur les épreuves de stand-up paddle.</p><p>Une compétition de SUP peut être aussi conviviale qu'exigeante. Les événements locaux proposent fréquemment des formats ouverts, avec des départs séparés ou des classements par âge, genre, niveau et type de planche. Les grands rendez-vous nationaux ou internationaux sont, eux, plus réglementés et réunissent des concurrents expérimentés.</p><p>Pour une première expérience, visez un parcours que vous pourriez finir confortablement à l'entraînement, même si les conditions se dégradent légèrement. Une course de 3 à 6 km, ou une catégorie loisir sur un plan d'eau abrité, permet d'apprendre la procédure de départ, les virages et la gestion de l'effort sans transformer la journée en épreuve de survie.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les principaux formats de compétition en stand-up paddle",
+      "intro": "Chaque format sollicite des qualités différentes. Les distances, les règles de matériel et le niveau de difficulté varient selon l'organisateur.",
+      "columns": [
+        "Format",
+        "Déroulé habituel",
+        "Ce qui fait la différence",
+        "Bon choix pour…"
+      ],
+      "rows": [
+        [
+          "Sprint",
+          "Très courte distance, parfois avec plusieurs manches et des départs explosifs.",
+          "Puissance, équilibre, accélération et technique de départ.",
+          "Les pagayeurs rapides à l'aise dans les efforts brefs."
+        ],
+        [
+          "Course technique",
+          "Circuit avec bouées, relances, virages serrés et parfois passage de vagues.",
+          "Lecture du plan d'eau, trajectoires, virages de bouée et sang-froid dans le peloton.",
+          "Une première course si la distance reste raisonnable."
+        ],
+        [
+          "Longue distance",
+          "Parcours continu, souvent de plusieurs kilomètres, sur lac, rivière ou mer.",
+          "Endurance, régularité, alimentation, hydratation et gestion du vent.",
+          "Les pratiquants ayant déjà une base d'endurance."
+        ],
+        [
+          "Downwind",
+          "Parcours dans le sens du vent et de la houle, d'un point à un autre.",
+          "Lecture des trains de vagues, équilibre dynamique et logistique de navette.",
+          "Les SUPeurs déjà très à l'aise en mer agitée."
+        ],
+        [
+          "SUP surf",
+          "Série de vagues jugée selon les manœuvres, la qualité des trajectoires et l'utilisation de la vague.",
+          "Placement, choix des vagues, maîtrise de la planche et style.",
+          "Les pratiquants ayant une expérience réelle du surf ou du SUP surf."
+        ]
+      ],
+      "note": "Ne vous fiez pas uniquement au nombre de kilomètres : 5 km dans le vent, le courant ou les vagues peuvent être bien plus difficiles qu'une distance supérieure sur eau calme."
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel à vérifier dans l'avis de course",
+      "points": [
+        "La date limite d'inscription, les horaires de retrait des dossards et l'heure obligatoire du briefing.",
+        "La catégorie exacte : loisir, open, âge, niveau, planche gonflable, planche rigide ou classe de longueur définie.",
+        "Le parcours, le temps limite éventuel, les points de ravitaillement et la solution de repli en cas de météo défavorable.",
+        "L'équipement imposé : leash, aide à la flottabilité, téléphone étanche, sifflet, combinaison, casque ou réserve d'eau selon le lieu.",
+        "Les conditions d'annulation, de remboursement, d'assurance et les documents éventuellement demandés."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Les règles à connaître avant de prendre le départ",
+      "html": "<p>Il n'existe pas un règlement identique pour toutes les compétitions de SUP. La règle la plus importante est donc simple : <strong>lisez l'avis de course et écoutez le briefing</strong>. L'organisateur y précise le parcours, les bouées à contourner, le sens de rotation, les zones interdites, les signaux de départ et les consignes météo. Une modification de dernière minute est possible si le vent, l'orage ou l'état de la mer l'exigent.</p><p>Au départ, restez dans la zone indiquée et évitez de couper la trajectoire d'un autre concurrent. Dans un peloton, les contacts involontaires peuvent arriver, mais pousser une planche, gêner volontairement un pagayeur ou créer une situation dangereuse peut entraîner une pénalité ou une disqualification. Aux bouées, anticipez votre freinage, regardez où vous allez et laissez de l'espace : vouloir gagner une place dans un virage ne vaut jamais une chute collective.</p><p>Le <strong>drafting</strong>, c'est-à-dire le fait de se placer dans le sillage d'un autre concurrent pour économiser de l'énergie, est admis dans de nombreuses courses de distance. Il peut néanmoins être encadré, limité à certaines catégories ou interdit dans des formats particuliers. Ne supposez rien : le briefing fait foi.</p><p>La sécurité passe avant le classement. Selon le site et les conditions, le leash, une aide à la flottabilité, une tenue thermique ou un moyen d'alerte peuvent être obligatoires. Attachez votre leash au bon endroit, testez votre matériel avant le départ et signalez immédiatement toute difficulté sérieuse à un bénévole ou à la sécurité nautique. Abandonner lorsque les conditions dépassent votre niveau est une décision responsable, pas un échec.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Planche gonflable ou rigide : quel matériel pour une course ?",
+      "intro": "Les deux options peuvent convenir, à condition d'être autorisées par l'épreuve. Ne choisissez jamais une planche uniquement parce qu'elle semble plus performante sur le papier.",
+      "left": {
+        "title": "Planche gonflable",
+        "points": [
+          "Pratique à transporter, à stocker et souvent plus accessible financièrement.",
+          "Peut être admise dans une catégorie dédiée ou en format loisir ; contrôlez la longueur et le règlement.",
+          "Une planche très rigide, bien gonflée et équipée d'un aileron adapté offre de bons résultats sur des parcours accessibles.",
+          "Moins de glisse et de précision qu'une planche de course rigide dans le vent, les relances ou le clapot.",
+          "Un modèle performant neuf se situe souvent autour de 900 à 1 800 €, avec de fortes variations selon l'équipement."
+        ]
+      },
+      "right": {
+        "title": "Planche rigide de course",
+        "points": [
+          "Plus efficace pour la glisse, les accélérations et le maintien de vitesse sur longue distance.",
+          "Plus légère et plus précise, mais sensible aux chocs et contraignante à transporter.",
+          "Souvent privilégiée en course, sans être indispensable pour découvrir une catégorie open ou loisir.",
+          "Demande un bon réglage : volume, largeur, position de l'aileron et longueur de pagaie doivent correspondre au gabarit et au niveau.",
+          "Une planche de course neuve coûte fréquemment entre 1 800 et 3 500 € ou davantage ; l'occasion, le prêt et la location peuvent être de bonnes portes d'entrée."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Calendrier, inscription et budget d'une compétition",
+      "html": "<p>Le calendrier des compétitions dépend fortement des régions et des conditions de navigation. Les courses sur lac, rivière, littoral ou mer ne suivent pas toutes la même saison. En France, les clubs locaux, les comités et les organisateurs publient souvent leurs dates au fil de l'année, tandis que les grands circuits annoncent leur programme plus en amont. Pour ne rien manquer, commencez votre veille à l'automne ou en hiver pour la saison suivante, puis consultez régulièrement les canaux des clubs proches de chez vous.</p><p>Ne choisissez pas un événement uniquement pour son prestige. Regardez le lieu de mise à l'eau, la difficulté réelle du parcours, la possibilité de louer ou d'emprunter du matériel, la présence d'une catégorie adaptée et les solutions d'hébergement. Une course locale bien encadrée vous apprendra généralement davantage qu'un déplacement coûteux sur une épreuve trop ambitieuse.</p><p>Prévoyez un budget global, pas seulement le dossard. Une inscription à une course locale coûte souvent entre <strong>15 et 60 €</strong>, tandis qu'un événement majeur peut demander davantage. Une assurance ou une licence à la journée, le transport de la planche, le carburant, l'hébergement, les repas et une éventuelle location peuvent s'ajouter. Côté équipement, comptez aussi la pagaie, le leash, l'aide à la flottabilité et, selon la météo, une tenue néoprène adaptée. Avant de payer, vérifiez ce que l'inscription inclut réellement.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Préparer sa première course de paddleboard en 6 étapes",
+      "intro": "L'idéal est de vous laisser plusieurs semaines pour progresser sans brusquer votre corps. Adaptez le volume d'entraînement à votre niveau et demandez conseil à un professionnel de santé si vous reprenez une activité ou avez une condition particulière.",
+      "steps": [
+        {
+          "title": "Choisissez un objectif réaliste",
+          "html": "<p>Décidez si votre priorité est de finir, de tenir une allure donnée ou de découvrir le départ en groupe. Pour une première course, viser une navigation fluide et sûre est plus constructif qu'un classement précis.</p>"
+        },
+        {
+          "title": "Repérez le parcours et les conditions",
+          "html": "<p>Étudiez la distance, les bouées, le courant, le vent dominant et les zones exposées. Si possible, pagayez sur le site avant l'épreuve ou entraînez-vous dans un environnement qui s'en rapproche.</p>"
+        },
+        {
+          "title": "Construisez une base d'endurance",
+          "html": "<p>Intégrez une sortie facile et continue chaque semaine, à une durée compatible avec votre objectif. Cherchez une cadence régulière, une posture détendue et une bonne technique plutôt que de forcer sur chaque coup de pagaie.</p>"
+        },
+        {
+          "title": "Ajoutez des séances spécifiques",
+          "html": "<p>Travaillez les accélérations courtes, les départs, les relances après une bouée et les changements de côté. Quelques intervalles contrôlés et des virages répétés vous seront plus utiles qu'une seule très longue sortie épuisante.</p>"
+        },
+        {
+          "title": "Testez votre matériel en conditions réelles",
+          "html": "<p>Réglez la longueur de pagaie, vérifiez l'aileron, le leash, la valve de votre gonflable et l'hydratation embarquée. Le jour de la course ne doit pas être le premier essai d'une nouvelle pagaie, d'une nouvelle tenue ou d'une nouvelle collation.</p>"
+        },
+        {
+          "title": "Allégez avant l'épreuve",
+          "html": "<p>Dans les derniers jours, gardez un peu de mobilité et de technique, mais évitez de vous épuiser. Dormez suffisamment, préparez votre sac à l'avance et arrivez avec de la marge pour ne pas débuter la course sous stress.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L'erreur classique : sous-estimer le vent et le retour au point de départ",
+      "html": "<p>Une distance courte peut devenir difficile avec un vent de face, du clapot ou un courant défavorable. En downwind, l'arrivée se situe parfois loin du parking : renseignez-vous sur la navette, le transport de votre planche et la procédure en cas d'abandon. Si vous ne pouvez pas naviguer en sécurité dans les conditions annoncées, changez de format ou renoncez.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Le jour J : stratégie, hydratation et sécurité",
+      "html": "<p>Arrivez tôt. Vous aurez le temps de récupérer votre dossard, de monter votre planche, de repérer le départ, d'aller aux toilettes, de vous échauffer et d'assister au briefing sans précipitation. Inspectez votre matériel une dernière fois : leash fixé, aileron serré, pagaie en bon état, système d'hydratation accessible et vêtement adapté à la température de l'eau comme à celle de l'air.</p><p>Au départ, évitez de vous placer au milieu du peloton si vous manquez d'expérience. Positionnez-vous légèrement sur un côté ou en retrait, afin de trouver votre rythme sans contact. Les premières minutes sont souvent trop rapides : gardez une intensité que vous pouvez tenir, observez les concurrents qui ont une allure proche de la vôtre et profitez d'un sillage seulement s'il est sûr et autorisé.</p><p>Buvez avant d'avoir soif, surtout sur une épreuve longue ou chaude, et emportez des apports que vous avez déjà testés. Pour une course courte, une bonne hydratation avant et après peut suffire ; au-delà, les besoins dépendent de votre durée d'effort, de la météo et de votre transpiration. Après l'arrivée, ne vous arrêtez pas brutalement : marchez un peu, buvez, mangez si nécessaire et prenez quelques minutes pour noter ce qui a bien fonctionné.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Progresser de course en course",
+      "points": [
+        "Analysez votre expérience avec trois questions : qu'est-ce qui m'a fait gagner du plaisir, qu'est-ce qui m'a coûté de l'énergie, que vais-je modifier à l'entraînement ?",
+        "Travaillez la technique avant de changer tout votre matériel : posture, prise d'eau, sortie de pagaie et trajectoires apportent souvent beaucoup.",
+        "Participez à des entraînements collectifs ou demandez à pagayer avec des concurrents plus expérimentés : apprendre à rouler dans un sillage et à négocier les bouées se fait mieux sur l'eau.",
+        "N'augmentez qu'un paramètre à la fois : distance, difficulté du plan d'eau, ambition de classement ou nouveauté matérielle.",
+        "Conservez le plaisir de naviguer : la régularité et l'expérience des conditions variées construisent une progression durable."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on faire une compétition de stand-up paddle en étant débutant ?",
+      "a_html": "<p>Oui, à condition de choisir une épreuve adaptée. Recherchez une catégorie loisir ou open, une distance courte, un plan d'eau relativement abrité et un encadrement sérieux. Vous devez savoir remonter sur votre planche, pagayer sans assistance et gérer les conditions annoncées.</p><p>Contactez l'organisateur avant de vous inscrire si vous hésitez : il pourra vous orienter vers le bon format et vous confirmer le matériel nécessaire.</p>"
+    },
+    {
+      "q": "Quelle distance choisir pour une première course de SUP ?",
+      "a_html": "<p>Il n'y a pas de distance universelle, car le vent, les vagues, le courant et le tracé changent totalement la difficulté. Une course technique ou loisir de 3 à 6 km constitue souvent un bon premier repère pour une personne déjà à l'aise sur l'eau.</p><p>Choisissez surtout une distance que vous pouvez parcourir à l'entraînement avec une marge d'énergie, sans compter sur une météo parfaite.</p>"
+    },
+    {
+      "q": "Faut-il une licence ou un certificat médical pour participer ?",
+      "a_html": "<p>Cela dépend de l'organisateur, du pays, du niveau de l'épreuve et de son statut. Certaines courses demandent une licence fédérale, proposent une assurance ou une licence à la journée, ou exigent un document médical dans certains cas.</p><p>Consultez les conditions d'inscription avant de réserver votre déplacement : les exigences administratives peuvent évoluer et sont propres à chaque événement.</p>"
+    },
+    {
+      "q": "Une planche gonflable est-elle autorisée en compétition ?",
+      "a_html": "<p>Souvent, oui, notamment dans des catégories loisirs, open ou spécifiquement dédiées aux gonflables. Mais une course peut imposer une longueur de planche, une classe de matériel ou une catégorie distincte : l'autorisation n'est jamais automatique.</p><p>Utilisez une planche en excellent état, suffisamment rigide et compatible avec votre niveau. Gonflez-la à la pression recommandée par le fabricant et vérifiez l'aileron avant le départ.</p>"
+    },
+    {
+      "q": "Comment trouver le calendrier des compétitions de paddleboard ?",
+      "a_html": "<p>Suivez les clubs de SUP et de surf près de chez vous, les pages des organisateurs, les structures fédérales concernées et les plateformes d'inscription aux événements sportifs. Les réseaux sociaux des clubs sont aussi utiles pour repérer les courses conviviales qui ne figurent pas toujours sur les grands calendriers.</p><p>Créez une petite liste de courses accessibles dans votre région et inscrivez-vous tôt si les places, les navettes ou les locations de matériel sont limitées.</p>"
+    },
+    {
+      "q": "Le leash et le gilet sont-ils obligatoires en course de SUP ?",
+      "a_html": "<p>Le leash est très souvent demandé, particulièrement en mer, mais son type et son point d'attache peuvent être précisés par l'organisateur. Une aide à la flottabilité, un casque ou d'autres équipements peuvent aussi être imposés selon le plan d'eau, la météo et le format.</p><p>Ne vous contentez pas des habitudes de votre spot : suivez la liste officielle du matériel obligatoire et les consignes données au briefing.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Participer à une compétition de stand-up paddle, c'est avant tout transformer une sortie sur l'eau en défi personnel et collectif. En choisissant un format adapté, en lisant attentivement le règlement et en préparant les gestes clés — départ, virages, allure et sécurité — vous mettrez toutes les chances de votre côté.</p><p>Commencez modestement, échangez avec les clubs et les autres concurrents, puis faites de chaque course un repère pour progresser. Votre premier dossard n'a pas besoin de viser le podium : il peut simplement marquer le début d'une belle aventure de pagayeur.</p>",
+  "__slug": "tout-connaitre-des-competitions-de-paddleboard-regles-calendrier-et-conseils-pour-concurrents"
+}

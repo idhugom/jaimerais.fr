@@ -1,0 +1,213 @@
+{
+  "title": "Étudiant et taxe d'habitation : quand ne rien payer, et quand vérifier",
+  "meta_description": "Étudiant et taxe d'habitation : découvrez pourquoi votre logement principal n'est plus imposé et quoi faire en cas de résidence secondaire.",
+  "reading_time_min": 9,
+  "hero_intro": "La plupart des étudiants n'ont aujourd'hui aucune taxe d'habitation à payer pour leur studio, leur chambre ou leur résidence universitaire. Depuis la suppression de cet impôt sur les résidences principales, la vraie question n'est plus « comment être exonéré ? », mais « mon logement est-il bien considéré comme ma résidence principale ? ». Voici les règles utiles, les rares situations à surveiller et les démarches à effectuer si vous recevez un avis à tort.",
+  "key_takeaways": [
+    "Depuis 2023, la taxe d'habitation n'est plus due sur une résidence principale, y compris pour un étudiant locataire, boursier ou non.",
+    "Le statut étudiant, le rattachement fiscal aux parents et la bourse CROUS ne créent pas, à eux seuls, un droit à exonération sur une résidence secondaire.",
+    "La situation au 1er janvier est déterminante : un logement meublé conservé comme pied-à-terre peut encore être soumis à la taxe d'habitation sur les résidences secondaires.",
+    "En cas d'avis inattendu, vérifiez d'abord la nature de la taxe et votre situation réelle au 1er janvier, puis réclamez avec des justificatifs concrets.",
+    "En colocation, l'administration peut adresser l'avis à un ou plusieurs occupants : l'organisation entre colocataires ne modifie pas la règle fiscale."
+  ],
+  "toc": [
+    "La règle essentielle : la résidence principale n'est plus imposée",
+    "Résidence principale ou secondaire : la distinction qui change tout",
+    "Les situations étudiantes les plus courantes",
+    "Bourse, revenus des parents et rattachement fiscal : ce qui ne compte pas",
+    "Résidence CROUS, studio meublé et location chez l'habitant",
+    "Que faire si vous recevez un avis de taxe d'habitation ?",
+    "Les rares cas où une taxe peut rester due",
+    "Colocation et étudiants internationaux : les points à connaître",
+    "Les erreurs à éviter pour rester en règle"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "La règle essentielle : la résidence principale n'est plus imposée",
+      "html": "<p>La taxe d'habitation sur les résidences principales a été supprimée pour tous les contribuables depuis 2023. En pratique, si le studio que vous louez pour vos études est votre logement habituel, vous n'avez pas de taxe d'habitation à régler pour ce logement. Cette règle ne dépend ni de votre âge, ni de votre niveau de ressources, ni du fait que vous perceviez une bourse.</p><p>Un étudiant qui vit habituellement dans une chambre en résidence universitaire, un studio, une chambre chez l'habitant ou un appartement en colocation est donc, dans l'immense majorité des cas, concerné par cette suppression. Il ne s'agit pas d'une faveur ni d'un dossier d'exonération à déposer : c'est la règle normale applicable à une résidence principale.</p><p>Il reste toutefois une taxe d'habitation sur les <strong>résidences secondaires</strong>. C'est pourquoi il faut raisonner à partir de l'usage réel du logement et de votre situation au 1er janvier, plutôt que de rechercher une « exonération étudiante » qui n'existe pas de manière générale.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Trois repères à retenir",
+      "items": [
+        {
+          "value": "Depuis 2023",
+          "label": "plus de taxe d'habitation sur la résidence principale"
+        },
+        {
+          "value": "0 €",
+          "label": "de taxe d'habitation pour un logement étudiant qui est bien votre résidence principale"
+        },
+        {
+          "value": "1er janvier",
+          "label": "date à laquelle l'occupation du logement est appréciée"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Résidence principale ou résidence secondaire : ne pas confondre",
+      "intro": "La qualification du logement dépend de la réalité de votre occupation. Elle ne se décide pas uniquement en fonction de l'adresse figurant sur votre carte d'identité ou de votre rattachement fiscal.",
+      "left": {
+        "title": "Votre résidence principale",
+        "points": [
+          "C'est le logement où vous résidez habituellement et effectivement pendant l'année universitaire.",
+          "Un studio loué près de votre campus, une chambre CROUS ou une colocation peuvent parfaitement être votre résidence principale.",
+          "Aucune taxe d'habitation n'est due sur ce logement, quelle que soit votre bourse ou votre revenu fiscal de référence.",
+          "Le fait de rentrer chez vos parents certains week-ends ou pendant les vacances ne transforme pas automatiquement votre logement étudiant en résidence secondaire."
+        ]
+      },
+      "right": {
+        "title": "Une résidence secondaire",
+        "points": [
+          "C'est un logement meublé dont vous disposez, sans qu'il soit votre habitation principale au 1er janvier.",
+          "Un pied-à-terre conservé occasionnellement peut entrer dans cette catégorie, même s'il est peu occupé.",
+          "La taxe d'habitation sur les résidences secondaires peut alors être due par la personne qui en avait la disposition au 1er janvier.",
+          "Dans certaines communes situées en zone tendue, une majoration décidée localement peut augmenter sensiblement le montant."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Les situations étudiantes les plus fréquentes",
+      "intro": "Ce tableau donne les repères utiles. La situation concrète au 1er janvier, le bail et l'usage réel du bien restent déterminants.",
+      "columns": [
+        "Situation au 1er janvier",
+        "Taxe d'habitation à payer ?",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Vous habitez habituellement un studio loué pour vos études",
+          "Non, s'il s'agit de votre résidence principale",
+          "Conservez votre bail et vos justificatifs d'occupation en cas d'erreur."
+        ],
+        [
+          "Vous occupez une chambre ou un studio en résidence CROUS ou en résidence étudiante",
+          "Non, lorsque c'est votre logement principal",
+          "Le loyer et les charges de résidence ne sont pas une taxe d'habitation."
+        ],
+        [
+          "Vous vivez en colocation pendant l'année universitaire",
+          "Non, si l'appartement est votre résidence principale",
+          "L'avis éventuel ne doit pas être réparti sans avoir vérifié sa nature et son bien-fondé."
+        ],
+        [
+          "Vous conservez un logement meublé occasionnel alors que votre domicile principal est ailleurs",
+          "Possiblement oui, au titre d'une résidence secondaire",
+          "Le montant dépend de la valeur locative cadastrale et des taux votés par la commune."
+        ],
+        [
+          "Le logement est inoccupé ou ne vous est plus loué au 1er janvier",
+          "En principe, pas à votre charge comme locataire",
+          "D'autres taxes peuvent éventuellement concerner le propriétaire, pas l'ancien occupant."
+        ],
+        [
+          "Vous logez gratuitement chez vos parents ou chez un proche",
+          "Non, si vous n'avez pas un second logement à votre disposition",
+          "Votre hébergeur reste concerné par sa propre situation, pas par un impôt étudiant spécifique."
+        ]
+      ],
+      "note": "Un logement doit notamment être meublé et habitable pour relever de la taxe d'habitation sur les résidences secondaires. Un logement vacant peut relever d'autres règles, qui concernent généralement son propriétaire."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Boursier, rattaché aux parents : une précision importante",
+      "html": "<p>La bourse sur critères sociaux, un faible revenu fiscal de référence ou le rattachement au foyer fiscal des parents ne sont pas des motifs automatiques d'exonération de taxe d'habitation sur une résidence secondaire.</p><p>Ces éléments peuvent avoir des effets sur d'autres dispositifs fiscaux ou sociaux, mais ils ne changent pas le principe actuel : <strong>résidence principale = pas de taxe d'habitation ; résidence secondaire = taxe potentiellement due</strong>. Méfiez-vous donc des conseils anciens, parfois encore présents en ligne, qui présentent la bourse CROUS comme une exonération systématique.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Résidence CROUS, studio meublé et location chez l'habitant",
+      "html": "<p>Habiter dans une résidence universitaire ne vous donne pas besoin de demander un régime particulier : si cette chambre ou ce studio est votre lieu de vie habituel, il relève de la règle applicable à toute résidence principale. La même logique vaut pour une résidence étudiante privée, un logement loué meublé ou une chambre chez l'habitant.</p><p>Le caractère meublé du logement n'est donc pas, à lui seul, un problème. Un studio meublé peut être votre résidence principale et ne pas être soumis à la taxe d'habitation. En revanche, un logement meublé dont vous gardez les clés pour y séjourner de temps à autre, tout en ayant votre résidence principale ailleurs, peut être qualifié de résidence secondaire.</p><p>La déclaration d'occupation des biens immobiliers relève principalement du propriétaire, via son espace fiscal. Comme locataire, vous n'avez pas à faire une déclaration annuelle de ce type pour « prouver » votre statut. Gardez néanmoins votre bail, vos quittances, une attestation de résidence et, si besoin, votre certificat de scolarité : ces documents sont très utiles si l'administration vous adresse un avis qui ne correspond pas à votre situation.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Que faire si vous recevez un avis de taxe d'habitation ?",
+      "intro": "Ne payez pas ou ne contestez pas dans la précipitation : commencez par identifier exactement ce que l'avis vous réclame. Une erreur d'adresse, d'occupant ou de qualification du logement peut être corrigée.",
+      "steps": [
+        {
+          "title": "Lire l'avis ligne par ligne",
+          "html": "<p>Vérifiez l'intitulé : il doit s'agir d'une taxe d'habitation sur résidence secondaire, et non d'une autre taxe. Contrôlez l'adresse du bien, l'année concernée, votre nom et la date de référence mentionnée.</p>"
+        },
+        {
+          "title": "Reconstituer votre situation au 1er janvier",
+          "html": "<p>Demandez-vous où vous habitiez réellement à cette date. Si le logement visé était votre habitation principale, notez les éléments qui le démontrent : bail, état des lieux, quittances, attestation de résidence, factures ou attestation d'hébergement selon votre situation.</p>"
+        },
+        {
+          "title": "Faire une réclamation argumentée",
+          "html": "<p>Depuis votre messagerie sécurisée sur le site des impôts ou auprès de votre service des finances publiques, expliquez simplement que le logement constituait votre résidence principale au 1er janvier et demandez le dégrèvement de l'avis. Joignez des copies lisibles de vos justificatifs, sans envoyer d'originaux.</p>"
+        },
+        {
+          "title": "Respecter le délai et suivre le dossier",
+          "html": "<p>Pour les impôts locaux, la réclamation est généralement possible jusqu'au 31 décembre de l'année qui suit celle de la mise en recouvrement indiquée sur l'avis. N'attendez pas : un dossier déposé tôt est plus facile à documenter. Une réclamation ne suspend pas automatiquement le paiement ; lisez les consignes de votre avis et demandez au besoin les modalités applicables à votre situation.</p>"
+        },
+        {
+          "title": "Mettre à jour les informations utiles pour l'avenir",
+          "html": "<p>En cas de déménagement, signalez votre nouvelle adresse à l'administration et conservez les preuves de fin de bail. Si l'erreur vient de la déclaration d'occupation du propriétaire, prévenez-le également afin qu'il puisse régulariser ses informations.</p>"
+        }
+      ]
+    },
+    {
+      "type": "key_points",
+      "heading": "Les bons justificatifs à réunir",
+      "points": [
+        "Le bail ou la convention d'occupation couvrant la période concernée.",
+        "Une attestation de résidence CROUS, de résidence étudiante ou d'hébergement, si elle est disponible.",
+        "Des quittances de loyer ou preuves de paiement correspondant au logement.",
+        "Un certificat de scolarité : utile pour contextualiser votre présence, mais insuffisant à lui seul.",
+        "Un état des lieux d'entrée ou de sortie, ou tout document établissant la date réelle de votre arrivée ou départ.",
+        "Une copie de l'avis reçu, avec la référence fiscale et l'adresse concernée."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Les rares cas où une taxe peut rester due",
+      "html": "<p>Une taxe d'habitation peut subsister si vous avez réellement à votre disposition une résidence secondaire au 1er janvier. Le cas typique est celui d'un logement meublé gardé comme pied-à-terre alors que vous vivez principalement dans un autre logement. Il n'existe pas de tarif étudiant national : le montant repose sur la valeur locative cadastrale du bien et les taux locaux. Il peut représenter plusieurs centaines d'euros, voire davantage pour une grande surface ou dans une commune appliquant une majoration.</p><p>Certains contribuables contraints de résider ailleurs que dans leur résidence principale pour des raisons professionnelles peuvent, selon leur situation, demander une exonération de taxe d'habitation sur leur second logement. Cette possibilité est encadrée et n'est pas automatique. Une formation universitaire, à elle seule, ne doit pas être assimilée à une contrainte professionnelle ; un étudiant salarié, alternant ou en mobilité professionnelle devra faire examiner son cas avec ses justificatifs.</p><p>Si vous estimez être dans une situation particulière, sollicitez votre service des impôts des particuliers via votre messagerie sécurisée. Présentez les faits sans chercher à adapter artificiellement votre adresse : l'administration apprécie la réalité de l'occupation, pas seulement les déclarations formelles.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Colocation et étudiants internationaux : les points à connaître",
+      "html": "<p>En colocation, une taxe d'habitation sur résidence secondaire éventuelle concerne le logement dans son ensemble. L'avis peut être adressé à un ou plusieurs occupants selon les informations connues de l'administration. Un accord entre colocataires peut organiser un partage de la somme, mais il ne modifie pas les règles fiscales ni les responsabilités vis-à-vis de l'administration.</p><p>Dans la pratique, si la colocation est le logement principal de chacun, aucune taxe d'habitation sur résidence principale n'est due. Si un avis arrive malgré tout, ne partez pas du principe qu'il faut le diviser immédiatement : vérifiez d'abord pourquoi le logement a été qualifié de résidence secondaire et contactez les impôts avec les pièces utiles.</p><p>La nationalité ne change pas le principe. Un étudiant international occupant habituellement son logement en France comme résidence principale bénéficie lui aussi de la suppression de la taxe d'habitation sur ce logement. Son visa, son pays d'origine ou l'absence de rattachement à un foyer fiscal français ne transforment pas automatiquement son studio en résidence secondaire.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les fausses bonnes idées à éviter",
+      "html": "<p>Ne déclarez pas une adresse fictive chez vos parents pour tenter d'échapper à une taxe : si votre logement étudiant est votre résidence principale, vous n'avez de toute façon pas de taxe d'habitation à payer sur celui-ci. À l'inverse, présenter un véritable pied-à-terre comme une résidence principale peut conduire à une régularisation.</p><p>Ne confondez pas non plus taxe d'habitation, taxe foncière, charges locatives et redevances de résidence. Le locataire étudiant ne paie pas la taxe foncière du propriétaire. Enfin, ne laissez jamais un avis sans réponse : une simple erreur de situation peut souvent être corrigée plus facilement lorsqu'elle est signalée rapidement.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Un étudiant doit-il payer la taxe d'habitation sur son studio ?",
+      "a_html": "<p>Non, si ce studio est sa résidence principale. Depuis 2023, la taxe d'habitation sur les résidences principales est supprimée pour tous, y compris les étudiants locataires.</p><p>La taxe peut en revanche subsister si le studio est réellement une résidence secondaire meublée dont l'étudiant dispose au 1er janvier.</p>"
+    },
+    {
+      "q": "La bourse CROUS permet-elle d'être exonéré de taxe d'habitation ?",
+      "a_html": "<p>La bourse CROUS n'est pas une exonération spécifique de taxe d'habitation. Un logement principal n'est plus soumis à cette taxe, que l'étudiant soit boursier ou non.</p><p>Pour une résidence secondaire, le statut de boursier ne donne pas automatiquement droit à une exonération.</p>"
+    },
+    {
+      "q": "Le rattachement au foyer fiscal des parents change-t-il quelque chose ?",
+      "a_html": "<p>Non, pas pour déterminer si le logement étudiant est soumis à la taxe d'habitation. Le rattachement fiscal joue sur l'impôt sur le revenu du foyer, tandis que la taxe d'habitation dépend ici de la qualification du logement comme résidence principale ou secondaire.</p><p>Vos parents peuvent rester votre foyer fiscal tout en ayant un studio étudiant qui constitue votre résidence principale dans les faits.</p>"
+    },
+    {
+      "q": "Faut-il payer une taxe d'habitation en résidence CROUS ?",
+      "a_html": "<p>Une chambre ou un studio CROUS qui est votre logement principal n'est pas soumis à la taxe d'habitation. Les sommes demandées par la résidence au titre du loyer, des charges ou de services ne correspondent pas à cet impôt.</p><p>Si vous recevez exceptionnellement un avis nominatif, vérifiez l'adresse et contactez l'administration avec votre attestation de résidence.</p>"
+    },
+    {
+      "q": "Qui paie en cas de colocation étudiante ?",
+      "a_html": "<p>Lorsque l'appartement est la résidence principale des colocataires, aucune taxe d'habitation n'est due. Si le logement est qualifié de résidence secondaire, l'administration peut établir un avis pour le logement et l'adresser selon les occupants identifiés.</p><p>Un partage entre colocataires peut être prévu entre vous, mais il est préférable de contrôler d'abord si l'avis est justifié.</p>"
+    },
+    {
+      "q": "Je suis étudiant étranger : puis-je être concerné par la taxe d'habitation ?",
+      "a_html": "<p>Oui, les mêmes règles s'appliquent : votre logement principal en France n'est pas soumis à la taxe d'habitation. Votre nationalité ou votre type de visa n'y changent rien.</p><p>Seule la détention ou la mise à disposition d'un logement qui constitue une résidence secondaire peut entraîner une imposition.</p>"
+    },
+    {
+      "q": "J'ai reçu un avis alors que mon logement était ma résidence principale : quel est le délai pour contester ?",
+      "a_html": "<p>Réagissez sans attendre depuis votre messagerie sécurisée sur le site des impôts ou auprès de votre service des finances publiques. Pour les impôts locaux, une réclamation est généralement admise jusqu'au 31 décembre de l'année suivant celle de la mise en recouvrement indiquée sur l'avis.</p><p>Joignez votre bail, vos quittances et toute preuve d'occupation habituelle au 1er janvier. Consultez aussi les indications de paiement figurant sur l'avis, car la contestation ne suspend pas automatiquement le recouvrement.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour un étudiant, la bonne nouvelle est simple : un logement occupé comme résidence principale ne donne plus lieu à taxe d'habitation. Inutile donc de chercher un montage ou une exonération liée à la bourse, aux revenus des parents ou au statut universitaire.</p><p>La vigilance reste utile si vous disposez de plusieurs logements ou si vous recevez un avis inattendu. Vérifiez votre situation au 1er janvier, rassemblez les preuves de votre occupation réelle et contactez rapidement les impôts en cas d'erreur. Vous protégerez ainsi votre budget sans vous compliquer inutilement la vie.</p>",
+  "__slug": "etudiant-strategies-legales-pour-etre-exonere-de-la-taxe-dhabitation"
+}

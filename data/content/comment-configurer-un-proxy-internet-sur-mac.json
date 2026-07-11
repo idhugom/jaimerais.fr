@@ -1,0 +1,232 @@
+{
+  "title": "Comment configurer un proxy Internet sur Mac : le guide simple et complet",
+  "meta_description": "Configurez un proxy sur Mac pas à pas : adresse, port, authentification, exceptions et dépannage pour naviguer selon vos besoins en sécurité.",
+  "reading_time_min": 10,
+  "hero_intro": "Vous avez reçu une adresse de proxy et un numéro de port de la part de votre entreprise, de votre école ou d'un fournisseur ? Sur Mac, la configuration se fait dans les réglages réseau et s'applique souvent à plusieurs applications, dont Safari. Voici comment choisir le bon type de proxy, l'activer sans vous couper d'Internet et résoudre les erreurs les plus courantes.",
+  "key_takeaways": [
+    "Un proxy redirige une partie de votre trafic Internet via un serveur intermédiaire ; il ne remplace pas automatiquement un VPN.",
+    "Avant toute manipulation, demandez l'adresse ou le nom du serveur, le port, le protocole et, si besoin, vos identifiants.",
+    "Sur les versions récentes de macOS, le chemin est généralement Réglages Système > Réseau > votre connexion > Détails > Proxys.",
+    "Activez uniquement le protocole indiqué par votre fournisseur : proxy web HTTP/HTTPS, SOCKS ou configuration automatique par fichier PAC.",
+    "En cas de perte de connexion, désactivez temporairement le proxy puis vérifiez le serveur, le port, les identifiants et les exceptions."
+  ],
+  "toc": [
+    "Comprendre ce qu'un proxy change sur votre Mac",
+    "Les informations à réunir avant de commencer",
+    "Choisir le bon type de proxy",
+    "Configurer un proxy dans les Réglages Système de macOS",
+    "Ajouter une authentification et des exceptions",
+    "Tester la connexion et vérifier qu'elle fonctionne",
+    "Résoudre les problèmes de proxy les plus fréquents",
+    "Désactiver ou modifier un proxy sur Mac"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre ce qu'un proxy change sur votre Mac",
+      "html": "<p>Un <strong>serveur proxy</strong>, aussi appelé serveur mandataire, est un intermédiaire entre votre Mac et certains services en ligne. Au lieu de contacter directement un site, votre navigateur ou une application compatible envoie sa demande au proxy, qui la transmet ensuite. Cette configuration est fréquente dans les entreprises, les établissements scolaires et certains réseaux privés.</p><p>Son intérêt dépend du contexte : appliquer des règles de sécurité, filtrer des sites, enregistrer des journaux de connexion, accéder à une ressource réservée à un réseau professionnel ou utiliser une adresse IP différente pour un usage précis. En revanche, un proxy n'est pas, par nature, une solution magique pour accélérer Internet ni une garantie d'anonymat complet.</p><p>Il est important de n'activer qu'un serveur de confiance. L'opérateur d'un proxy peut voir des métadonnées de connexion et, selon le protocole ou la configuration, une partie des échanges non chiffrés. Pour les sites en HTTPS, le contenu reste normalement chiffré entre votre navigateur et le site, sauf environnement professionnel explicitement configuré pour inspecter le trafic avec un certificat installé.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Proxy et VPN : deux usages différents",
+      "intro": "Les deux outils font transiter le trafic par un intermédiaire, mais leur fonctionnement et leur périmètre ne sont pas les mêmes.",
+      "left": {
+        "title": "Proxy configuré dans macOS",
+        "points": [
+          "S'applique au trafic des applications qui respectent les réglages proxy du système.",
+          "Peut cibler un protocole précis : web HTTP, web sécurisé HTTPS ou SOCKS.",
+          "Est souvent imposé ou fourni par une entreprise, une école ou un réseau.",
+          "Ne chiffre pas systématiquement l'ensemble du trafic de l'appareil."
+        ]
+      },
+      "right": {
+        "title": "VPN",
+        "points": [
+          "Crée en principe un tunnel chiffré entre le Mac et un serveur VPN.",
+          "Couvre généralement davantage de trafic réseau, selon le client et ses réglages.",
+          "Est adapté aux connexions à distance et à la protection sur un réseau Wi-Fi public.",
+          "Peut ralentir légèrement la connexion selon le serveur et le chiffrement."
+        ]
+      }
+    },
+    {
+      "type": "key_points",
+      "heading": "Les informations à réunir avant de commencer",
+      "points": [
+        "Le type de configuration demandé : proxy web HTTP, proxy web sécurisé HTTPS, SOCKS ou adresse de configuration automatique.",
+        "Le nom de domaine ou l'adresse IP du serveur, par exemple proxy.exemple.fr.",
+        "Le numéro de port, par exemple 8080 ou 3128 : ne le devinez pas, il dépend du serveur.",
+        "Un identifiant et un mot de passe si le proxy exige une authentification.",
+        "La liste éventuelle des domaines à exclure, notamment les ressources internes ou les appareils du réseau local."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quel réglage proxy choisir sur Mac ?",
+      "intro": "Le bon choix est celui communiqué par votre administrateur réseau ou votre fournisseur. N'activez pas plusieurs cases « au hasard ».",
+      "columns": [
+        "Réglage macOS",
+        "À utiliser lorsque",
+        "Informations nécessaires",
+        "Point d'attention"
+      ],
+      "rows": [
+        [
+          "Proxy web (HTTP)",
+          "Le fournisseur indique un proxy HTTP pour la navigation ou les requêtes web.",
+          "Serveur et port ; parfois identifiants.",
+          "Ne cochez pas cette option pour un serveur SOCKS."
+        ],
+        [
+          "Proxy web sécurisé (HTTPS)",
+          "Un proxy est prévu pour les connexions web sécurisées ou le fournisseur demande explicitement HTTPS.",
+          "Serveur et port ; parfois identifiants.",
+          "Il peut être différent du proxy HTTP, ou utiliser le même serveur avec un autre port."
+        ],
+        [
+          "Proxy SOCKS",
+          "Une application ou un fournisseur vous a donné un proxy SOCKS, souvent SOCKS5.",
+          "Serveur et port ; authentification éventuelle.",
+          "Toutes les applications ne prennent pas SOCKS en charge de la même façon."
+        ],
+        [
+          "Configuration automatique de proxy",
+          "Votre organisation fournit une adresse de fichier PAC ou une URL de script.",
+          "L'URL exacte du fichier .pac ou de configuration.",
+          "Le fichier décide lui-même quels sites passent par le proxy."
+        ],
+        [
+          "Découverte automatique de proxy",
+          "Votre réseau d'entreprise indique qu'une détection automatique est disponible.",
+          "Souvent aucune donnée à saisir.",
+          "À utiliser seulement si l'administrateur le recommande ; la détection n'est pas fiable sur tous les réseaux."
+        ]
+      ],
+      "note": "Les intitulés peuvent varier légèrement selon votre version de macOS et la langue du système."
+    },
+    {
+      "type": "steps",
+      "heading": "Configurer un proxy dans les Réglages Système de macOS",
+      "intro": "La procédure ci-dessous correspond aux versions récentes de macOS, telles que Ventura, Sonoma et Sequoia. Gardez les informations du proxy à portée de main avant de les enregistrer.",
+      "steps": [
+        {
+          "title": "Ouvrez les réglages réseau",
+          "html": "<p>Cliquez sur le menu Pomme, puis sur <strong>Réglages Système</strong>. Dans la barre latérale, ouvrez <strong>Réseau</strong>. Sélectionnez la connexion réellement utilisée : <strong>Wi-Fi</strong> si vous êtes sans fil, ou <strong>Ethernet</strong> si votre Mac est relié par câble.</p>"
+        },
+        {
+          "title": "Accédez aux options de proxy",
+          "html": "<p>À côté de la connexion choisie, cliquez sur <strong>Détails</strong>, puis recherchez la rubrique <strong>Proxys</strong>. Sur des versions plus anciennes de macOS, le parcours est généralement <strong>Préférences Système</strong>, <strong>Réseau</strong>, votre connexion, <strong>Avancé</strong>, puis <strong>Proxys</strong>.</p>"
+        },
+        {
+          "title": "Activez uniquement le protocole demandé",
+          "html": "<p>Cochez le type communiqué par votre interlocuteur : <strong>Proxy web (HTTP)</strong>, <strong>Proxy web sécurisé (HTTPS)</strong>, <strong>Proxy SOCKS</strong> ou configuration automatique. Si les mêmes paramètres doivent servir au trafic HTTP et HTTPS, activez les deux lignes uniquement si cette instruction vous a été donnée.</p>"
+        },
+        {
+          "title": "Saisissez le serveur et le port",
+          "html": "<p>Dans le champ du serveur, entrez précisément le nom d'hôte ou l'adresse IP fournie. Ajoutez le numéro dans le champ <strong>Port</strong>. Retirez les espaces accidentels et ne collez pas une adresse complète commençant par « http:// » sauf si votre fournisseur l'exige expressément pour une URL de fichier PAC.</p>"
+        },
+        {
+          "title": "Ajoutez l'identification si elle est requise",
+          "html": "<p>Si l'option d'authentification est disponible et demandée, activez-la puis renseignez votre nom d'utilisateur et votre mot de passe. Utilisez les identifiants attribués au proxy : ce ne sont pas nécessairement ceux de votre session Mac ou de votre messagerie.</p>"
+        },
+        {
+          "title": "Enregistrez et appliquez",
+          "html": "<p>Cliquez sur <strong>OK</strong> ou fermez la fenêtre de détails selon l'interface affichée, puis choisissez <strong>Appliquer</strong> lorsqu'un bouton le propose. La modification prend souvent effet immédiatement. Fermez et rouvrez votre navigateur si une page était déjà bloquée.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Évitez les proxies gratuits inconnus",
+      "html": "<p>Un serveur proxy voit passer vos requêtes et peut dégrader la confidentialité, injecter de la publicité ou simplement disparaître sans prévenir. Préférez le proxy fourni par votre organisation ou un prestataire reconnu. Pour un service payant destiné à un usage individuel, les tarifs vont souvent de quelques euros à plusieurs dizaines d'euros par mois selon les pays, le volume et les fonctions ; comparez surtout les conditions de confidentialité et d'assistance.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Ajouter une authentification et des exceptions utiles",
+      "html": "<p>De nombreux proxies professionnels demandent une authentification afin de contrôler qui peut les utiliser. Si une fenêtre vous redemande sans cesse un mot de passe, commencez par vérifier le nom d'utilisateur demandé : il peut inclure un domaine, un préfixe ou une adresse e-mail. Si vous ne l'avez pas, le service informatique est la source la plus fiable.</p><p>La zone d'exclusion, souvent nommée <strong>Ignorer les réglages de proxy pour ces hôtes et domaines</strong>, permet de laisser certains sites ou appareils hors du proxy. On peut y placer, selon les instructions reçues, un domaine interne, une adresse locale ou le nom d'une imprimante réseau. Les éléments sont habituellement séparés par des virgules.</p><p>Ne mettez pas un site dans les exceptions uniquement pour contourner une politique de votre organisation. Utilisez cette fonction lorsqu'elle résout un besoin technique légitime : une imprimante locale inaccessible, un portail interne qui demande une connexion directe ou un service explicitement exclu par l'administrateur.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Pourquoi Safari n'a pas toujours son propre menu proxy",
+      "html": "<p>Safari utilise généralement les réglages proxy de macOS. Après avoir configuré le réseau dans les Réglages Système, il n'est donc pas nécessaire de chercher un proxy séparé dans Safari. Chrome et d'autres navigateurs peuvent également suivre la configuration système, mais certaines applications disposent de réglages réseau indépendants. Une application qui ignore le proxy macOS devra être configurée dans ses propres préférences, si elle le permet.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Tester la connexion et vérifier qu'elle fonctionne",
+      "html": "<p>Commencez par ouvrir Safari et chargez plusieurs sites connus en HTTPS. Une page qui s'affiche est un premier bon signe, mais elle ne prouve pas toujours que le proxy est utilisé : un fichier PAC, une exception ou une application peuvent choisir une route différente.</p><p>Si votre prestataire met à disposition une page de contrôle, utilisez-la pour vérifier l'adresse IP détectée ou l'état de l'authentification. Vous pouvez aussi comparer l'adresse IP publique affichée par un service de vérification avant et après l'activation du proxy. Une adresse différente est souvent un indice utile, mais elle n'est pas systématique : certains proxies d'entreprise servent surtout à filtrer le trafic sans modifier l'adresse publique visible.</p><p>Testez enfin les usages réellement importants : portail professionnel, visioconférence, messagerie web, téléchargement autorisé et impression réseau si elle est concernée. Le bon réglage est celui qui permet de travailler sans erreurs de connexion ni demandes d'identification répétées.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Dépannage : que signifie l'erreur affichée ?",
+      "intro": "Si Internet cesse de fonctionner après l'activation du proxy, ne multipliez pas les modifications. Revenez méthodiquement aux informations fournies.",
+      "columns": [
+        "Symptôme",
+        "Cause probable",
+        "Action à essayer"
+      ],
+      "rows": [
+        [
+          "Aucun site ne s'ouvre",
+          "Adresse du serveur ou port incorrect ; proxy indisponible.",
+          "Désactivez temporairement la case proxy, puis comparez chaque caractère du serveur et du port avec les informations reçues."
+        ],
+        [
+          "Une fenêtre demande sans cesse un mot de passe",
+          "Identifiants erronés, compte non autorisé ou format de nom d'utilisateur incorrect.",
+          "Retapez les identifiants, vérifiez le domaine éventuel et demandez la syntaxe attendue au support informatique."
+        ],
+        [
+          "Certains sites seulement ne fonctionnent pas",
+          "Site incompatible, exception nécessaire, règle de filtrage ou problème de certificat.",
+          "Essayez sans proxy uniquement pour diagnostiquer, puis vérifiez les exclusions autorisées avec l'administrateur."
+        ],
+        [
+          "Le Wi-Fi fonctionne mais une application ne se connecte pas",
+          "L'application ignore les réglages proxy du système ou exige son propre paramétrage.",
+          "Consultez les préférences réseau de l'application ou sa documentation ; ne supposez pas qu'elle suit Safari."
+        ],
+        [
+          "La connexion est très lente",
+          "Proxy éloigné, saturé, filtrage important ou serveur inadapté.",
+          "Testez une connexion directe si elle est autorisée et signalez l'heure, le réseau et les sites concernés au fournisseur du proxy."
+        ]
+      ],
+      "note": "Après chaque modification, rechargez la page ou relancez l'application concernée afin d'éviter de diagnostiquer une ancienne connexion en cache."
+    },
+    {
+      "type": "prose",
+      "heading": "Désactiver ou modifier un proxy sur Mac",
+      "html": "<p>Pour revenir à une connexion directe, reprenez le chemin <strong>Réglages Système &gt; Réseau &gt; votre connexion &gt; Détails &gt; Proxys</strong>, puis désactivez les cases cochées. Enregistrez la modification. Vous pouvez laisser les adresses et les ports renseignés si vous pensez devoir réactiver ce proxy plus tard, mais désactiver aussi les données inutiles limite les erreurs lors d'un prochain réglage.</p><p>Cette étape est particulièrement utile après avoir quitté un réseau professionnel, une résidence universitaire ou un environnement de test. Un proxy indisponible reste une cause très fréquente de navigateur qui affiche « impossible de se connecter à Internet » alors que le Wi-Fi semble pourtant connecté.</p><p>Si vous alternez souvent entre un réseau personnel et un réseau de travail, envisagez de demander à votre service informatique une méthode adaptée : fichier PAC, profil de configuration géré ou consignes spécifiques. Cela évite d'activer et désactiver manuellement des paramètres sensibles à chaque déplacement.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Où se trouvent les réglages de proxy sur un Mac ?",
+      "a_html": "<p>Sur les versions récentes de macOS, ouvrez <strong>Réglages Système &gt; Réseau</strong>, choisissez votre connexion Wi-Fi ou Ethernet, cliquez sur <strong>Détails</strong>, puis sur <strong>Proxys</strong>. Sur des versions plus anciennes, allez dans <strong>Préférences Système &gt; Réseau &gt; Avancé &gt; Proxys</strong>.</p>"
+    },
+    {
+      "q": "Faut-il configurer le proxy séparément dans Safari ?",
+      "a_html": "<p>En règle générale, non. Safari s'appuie sur les réglages réseau de macOS. Configurez le proxy au niveau du système, puis fermez et rouvrez Safari si nécessaire. Certaines autres applications peuvent toutefois posséder leurs propres réglages et ne pas reprendre ceux du Mac.</p>"
+    },
+    {
+      "q": "Quelle est la différence entre un proxy HTTP, HTTPS et SOCKS ?",
+      "a_html": "<p>Un proxy HTTP gère les requêtes web HTTP, tandis qu'un proxy HTTPS est destiné au trafic web sécurisé et passe généralement par une méthode de tunnel. SOCKS est plus générique et peut être utilisé par différents types d'applications compatibles. Le choix ne dépend pas d'une préférence personnelle : il doit correspondre au serveur qui vous a été fourni.</p>"
+    },
+    {
+      "q": "Pourquoi Internet ne fonctionne-t-il plus après avoir activé le proxy ?",
+      "a_html": "<p>Les causes les plus courantes sont un nom de serveur mal saisi, un mauvais port, une authentification refusée ou un proxy inaccessible depuis le réseau actuel. Désactivez le proxy pour confirmer que la connexion Internet fonctionne directement, puis vérifiez les informations une à une.</p><p>Si le problème concerne uniquement un site ou une application, il peut s'agir d'une règle de filtrage, d'une exception à prévoir ou d'une application qui ne respecte pas la configuration système.</p>"
+    },
+    {
+      "q": "Un proxy rend-il ma navigation anonyme et sécurisée ?",
+      "a_html": "<p>Pas automatiquement. Le proxy masque parfois votre adresse IP auprès des sites, mais son opérateur reste un intermédiaire de confiance. Il ne chiffre pas nécessairement tout le trafic de votre Mac et ne remplace pas les bonnes pratiques : HTTPS, mots de passe uniques, authentification à deux facteurs et mises à jour.</p>"
+    },
+    {
+      "q": "Puis-je utiliser un proxy gratuit sur mon Mac ?",
+      "a_html": "<p>C'est techniquement possible, mais rarement recommandé. La fiabilité, la vitesse, la durée de disponibilité et la confidentialité de ces services sont très variables. Évitez d'y transmettre des informations sensibles, notamment des identifiants, des données bancaires ou des documents professionnels. Préférez un fournisseur identifié ou la solution validée par votre organisation.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Configurer un proxy sur Mac est simple lorsque vous disposez des bonnes informations : <strong>type de proxy, serveur, port et identifiants</strong>. Passez par les réglages réseau de macOS, activez uniquement le protocole demandé et testez aussitôt vos usages essentiels.</p><p>En cas de blocage, le réflexe le plus utile est de désactiver temporairement le proxy pour isoler la cause, puis de vérifier les paramètres avec votre administrateur ou votre prestataire. Vous garderez ainsi le contrôle sur votre connexion, sans sacrifier inutilement votre confort ni votre sécurité.</p>",
+  "__slug": "comment-configurer-un-proxy-internet-sur-mac"
+}

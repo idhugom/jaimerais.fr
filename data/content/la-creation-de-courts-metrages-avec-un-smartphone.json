@@ -1,0 +1,212 @@
+{
+  "title": "Créer un court métrage avec un smartphone : le guide complet de A à Z",
+  "meta_description": "Réalisez un court métrage avec votre smartphone : scénario, matériel, son, lumière, montage et diffusion, avec des conseils concrets pour débuter.",
+  "reading_time_min": 11,
+  "hero_intro": "Vous n'avez pas besoin d'une caméra de cinéma pour raconter une histoire qui marque. Avec un smartphone, une préparation solide et quelques accessoires bien choisis, il est possible de réaliser un court métrage soigné, personnel et convaincant. De l'idée au montage, ce guide vous aide à faire les bons choix sans vous perdre dans la technique.",
+  "key_takeaways": [
+    "Le smartphone est un excellent outil pour débuter, à condition de soigner d'abord le scénario, le son et la lumière.",
+    "Un trépied, un micro externe et une petite source lumineuse apportent souvent plus qu'un téléphone plus récent.",
+    "Tournez avec des réglages cohérents, évitez le zoom numérique et prévoyez davantage de plans que vous ne pensez en avoir besoin.",
+    "Le montage donne son rythme au film : coupez sans hésiter et privilégiez une histoire claire à des effets spectaculaires.",
+    "Avant toute diffusion publique, vérifiez les droits à l'image, les autorisations de lieux et les droits liés à la musique."
+  ],
+  "toc": [
+    "Le smartphone est-il adapté à un court métrage ?",
+    "Choisir entre smartphone et caméra dédiée",
+    "Écrire et préparer son film",
+    "Le matériel utile selon votre budget",
+    "Tourner des images et un son propres",
+    "Monter, exporter et diffuser son court métrage"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Le smartphone est-il vraiment adapté à un court métrage ?",
+      "html": "<p>Oui, à une condition : ne pas confondre outil accessible et tournage improvisé. Les smartphones récents filment avec une définition largement suffisante pour une diffusion sur le web, les réseaux sociaux, un écran d'ordinateur ou même une projection modeste. Leur principal atout est ailleurs : ils sont légers, discrets, rapides à dégainer et permettent de tourner dans des lieux où une grosse caméra attirerait l'attention.</p><p>La qualité perçue d'un film ne dépend pourtant pas uniquement de la netteté de l'image. Un récit compréhensible, des interprètes audibles, une lumière cohérente et un montage rythmé comptent bien davantage. Un court métrage tourné avec un téléphone ancien mais bien préparé sera généralement plus agréable à regarder qu'une belle image accompagnée d'un son saturé et d'une histoire confuse.</p><p>Le smartphone a aussi ses limites : son petit capteur est moins à l'aise dans la pénombre, son zoom numérique dégrade rapidement l'image et ses automatismes peuvent faire varier l'exposition ou la mise au point pendant une prise. Ces contraintes ne sont pas rédhibitoires : elles invitent à filmer plus simplement, à rapprocher la caméra du sujet et à maîtriser les conditions de tournage.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Ce qui fait vraiment la qualité d'un film",
+      "points": [
+        "Une idée qui tient en une phrase et un enjeu clair pour le personnage principal.",
+        "Un son intelligible, enregistré au plus près des voix.",
+        "Des plans stables et une lumière pensée avant d'appuyer sur « enregistrer ».",
+        "Une continuité visuelle : même orientation, même fréquence d'images et réglages cohérents.",
+        "Un montage au service de l'émotion, pas une accumulation de transitions."
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Smartphone ou caméra dédiée : quel choix faire ?",
+      "intro": "Les deux outils peuvent produire de belles images. Le bon choix dépend surtout de votre projet, de votre budget et de votre envie d'apprendre la technique.",
+      "left": {
+        "title": "Tourner au smartphone",
+        "points": [
+          "Budget de départ réduit si vous possédez déjà un téléphone récent.",
+          "Format compact, discret et pratique pour les décors réels ou les tournages légers.",
+          "Stabilisation et traitements automatiques souvent efficaces en bonne lumière.",
+          "Réglages manuels parfois limités selon le modèle et l'application utilisée.",
+          "Moins à l'aise en faible luminosité, avec un arrière-plan très flou ou des focales très variées."
+        ]
+      },
+      "right": {
+        "title": "Tourner avec une caméra dédiée",
+        "points": [
+          "Contrôle plus précis de l'exposition, de la mise au point et du rendu de l'image.",
+          "Objectifs interchangeables et meilleures possibilités en basse lumière selon le matériel.",
+          "Configuration plus encombrante, plus visible et généralement plus coûteuse.",
+          "Temps d'apprentissage, batteries, cartes mémoire et gestion des fichiers plus exigeants.",
+          "Pertinent pour un projet régulier, une équipe équipée ou une ambition technique spécifique."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Commencez par l'histoire, pas par les accessoires",
+      "html": "<p>Avant de choisir une application de tournage ou un stabilisateur, formulez votre idée en une phrase. Par exemple : « Une lycéenne doit rendre un objet qu'elle a trouvé avant que son propriétaire ne parte. » Cette phrase vous oblige à identifier un personnage, un objectif et un obstacle. C'est une base plus utile qu'un thème vague comme « l'amitié » ou « la solitude ».</p><p>Pour un premier essai, visez une histoire courte, avec peu de personnages et un ou deux lieux faciles d'accès. Un film de deux à cinq minutes est déjà un vrai projet : il demande un début qui installe la situation, un élément qui la bouscule et une fin qui apporte une réponse, même ouverte. Écrivez les dialogues à voix haute ; s'ils sonnent artificiels ou trop longs, simplifiez-les.</p><p>Transformez ensuite le scénario en liste de plans. Pour chaque scène, notez ce que le spectateur doit comprendre, les plans indispensables et le son à capter. Un plan large situe le décor, un plan rapproché révèle une émotion, un détail peut mettre en valeur un geste ou un objet. Cette préparation évite de découvrir au montage qu'il manque une information essentielle.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Le matériel utile pour filmer avec un smartphone",
+      "intro": "Inutile d'acheter tout d'un coup. Voici les priorités pour construire un kit cohérent, avec des prix généralement constatés qui varient selon la qualité et les promotions.",
+      "columns": [
+        "Équipement",
+        "À quoi sert-il ?",
+        "Priorité",
+        "Budget indicatif"
+      ],
+      "rows": [
+        [
+          "Votre smartphone et de l'espace de stockage",
+          "Filmer ; prévoyez de la batterie et de la mémoire libre.",
+          "Indispensable",
+          "0 € si vous l'avez déjà"
+        ],
+        [
+          "Trépied avec pince pour téléphone",
+          "Éviter les tremblements et reproduire un cadrage.",
+          "Très utile",
+          "15 à 50 €"
+        ],
+        [
+          "Micro-cravate filaire ou micro compact",
+          "Rapprocher la prise de son des voix.",
+          "Très utile pour les dialogues",
+          "20 à 100 €"
+        ],
+        [
+          "Casque filaire ou sans fil",
+          "Écouter immédiatement si le son est propre.",
+          "Très utile",
+          "10 à 50 €"
+        ],
+        [
+          "Petite lumière LED réglable",
+          "Éclairer un visage ou corriger une scène sombre.",
+          "Utile",
+          "25 à 100 €"
+        ],
+        [
+          "Stabilisateur motorisé",
+          "Fluidifier les mouvements de caméra.",
+          "Optionnel",
+          "80 à 180 €"
+        ],
+        [
+          "Application avec réglages manuels",
+          "Verrouiller exposition, mise au point et cadence si nécessaire.",
+          "Selon le téléphone",
+          "Gratuite à environ 30 €"
+        ]
+      ],
+      "note": "Avant un achat, vérifiez la compatibilité avec votre modèle de téléphone, son connecteur et votre coque. Un bon trépied et un bon micro sont souvent plus rentables qu'un objectif additionnel."
+    },
+    {
+      "type": "steps",
+      "heading": "Une méthode simple pour organiser votre tournage",
+      "intro": "Un tournage efficace repose sur une suite d'étapes modestes et concrètes. Adaptez-les à votre durée, à votre équipe et à votre niveau d'expérience.",
+      "steps": [
+        {
+          "title": "1. Fixez un cadre réaliste",
+          "html": "<p>Choisissez une durée cible, le nombre de scènes, les lieux et les personnes disponibles. Évitez d'écrire une poursuite, une foule ou dix décors si vous tournez seul le week-end. Les contraintes peuvent devenir une force créative.</p>"
+        },
+        {
+          "title": "2. Préparez le découpage et les autorisations",
+          "html": "<p>Listez les plans par scène, imprimez ou enregistrez les dialogues et repérez les lieux à l'heure prévue du tournage. Demandez l'accord des personnes filmées et du responsable du lieu lorsque cela est nécessaire.</p>"
+        },
+        {
+          "title": "3. Réglez le téléphone avant chaque scène",
+          "html": "<p>Nettoyez l'objectif, activez le mode avion pour éviter les interruptions, libérez de l'espace et chargez une batterie externe. Si votre application le permet, verrouillez la mise au point et l'exposition sur le visage ou l'élément important.</p>"
+        },
+        {
+          "title": "4. Filmez d'abord les plans indispensables",
+          "html": "<p>Commencez par les plans qui racontent l'action principale, puis capturez des plans de coupe : mains, décor, regard, objet, entrée ou sortie de champ. Ils seront précieux pour masquer une coupe ou accélérer une séquence au montage.</p>"
+        },
+        {
+          "title": "5. Contrôlez le son après une prise",
+          "html": "<p>Écoutez quelques secondes au casque avant de passer à la suite. Vérifiez les bruits de circulation, le vent, un réfrigérateur, une ventilation ou des vêtements qui frottent contre un micro-cravate. Refaire une prise coûte moins cher que réparer un son inutilisable.</p>"
+        },
+        {
+          "title": "6. Sauvegardez avant de monter",
+          "html": "<p>Copiez les rushes sur un ordinateur, un disque externe ou un espace de stockage fiable dès que possible. Conservez les fichiers originaux et nommez vos dossiers par date ou par scène pour retrouver rapidement chaque plan.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le piège le plus fréquent : négliger le son",
+      "html": "<p>Le public accepte plus facilement une image imparfaite qu'une voix difficile à entendre. Le micro intégré du smartphone est pratique pour une ambiance ou un plan très proche, mais il capte aussi la pièce, le vent et les bruits alentour.</p><ul><li>Placez un micro-cravate près de la bouche, sans le cacher sous un tissu bruyant.</li><li>Tournez les dialogues dans le lieu le plus calme possible.</li><li>Enregistrez 20 à 30 secondes de silence du décor : cette ambiance aide à rendre les coupes sonores moins perceptibles au montage.</li></ul>"
+    },
+    {
+      "type": "prose",
+      "heading": "Filmer plus proprement : cadrage, lumière et réglages",
+      "html": "<p>Pour donner une impression plus cinématographique, tenez d'abord votre caméra immobile. Utilisez un trépied dès qu'un plan ne nécessite pas de mouvement. Si vous filmez à main levée, rapprochez les coudes du corps, déplacez-vous lentement et faites plusieurs essais. Évitez le zoom numérique : avancez physiquement vers le sujet ou choisissez un autre cadre.</p><p>La lumière naturelle est votre meilleure alliée. Placez un personnage face à une fenêtre diffuse plutôt que dos à elle ; un contre-jour non maîtrisé transforme rapidement un visage en silhouette. En intérieur, éteignez ou éloignez les sources de lumière aux couleurs très différentes lorsque vous le pouvez. Une petite LED douce, placée légèrement sur le côté du visage, suffit souvent à améliorer une scène.</p><p>Choisissez une orientation avant le tournage. Le format horizontal convient naturellement à une projection, à YouTube et à une narration classique ; le vertical est adapté aux formats pensés pour les réseaux sociaux mobiles. Ne mélangez pas les deux sans intention. Filmez aussi avec la même fréquence d'images sur l'ensemble du projet, souvent 25 ou 30 images par seconde. Pour une scène très lumineuse, une application permettant des réglages manuels peut aider à conserver une exposition stable.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Une règle de mise en scène facile à appliquer",
+      "html": "<p>Avant chaque plan, posez-vous trois questions : <strong>que doit-on voir ?</strong> <strong>que doit-on entendre ?</strong> <strong>que doit-on ressentir ?</strong> Si la réponse est claire, le cadrage et la durée du plan deviennent beaucoup plus simples à décider.</p><p>Gardez quelques secondes avant et après l'action. Ces marges facilitent les coupes et évitent un montage trop précipité.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Monter, exporter et diffuser votre court métrage",
+      "html": "<p>Vous pouvez monter directement sur téléphone ou transférer vos rushes vers un ordinateur. Dans les deux cas, commencez par une version simple : placez les scènes dans l'ordre, gardez les meilleures prises, puis raccourcissez tout ce qui n'apporte ni information ni émotion. Les transitions fantaisistes sont rarement nécessaires ; une coupe nette est souvent la plus efficace.</p><p>Ajoutez ensuite les éléments qui rendent le film confortable à regarder : ajustement modéré de la luminosité et des couleurs, équilibrage des niveaux sonores, musique autorisée et titres lisibles. La musique ne doit jamais couvrir les dialogues. Si vous utilisez une piste libre de droits, lisez attentivement les conditions de licence et conservez la preuve de l'autorisation ou de l'attribution demandée.</p><p>Exportez une version de bonne qualité adaptée à votre diffusion, puis regardez-la intégralement sur un téléphone et, si possible, sur un écran plus grand avec un casque. Faites-la voir à une ou deux personnes capables de vous dire où elles ont décroché ou ce qu'elles n'ont pas compris. Enfin, gardez une version finale archivée : elle vous servira pour les candidatures, les projections et votre progression sur le film suivant.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Diffuser sans oublier les droits",
+      "html": "<p>Une publication en ligne ou une inscription à un festival demande de pouvoir diffuser le film sereinement. Demandez un accord clair aux personnes reconnaissables, vérifiez que le lieu accepte le tournage et n'utilisez pas de musique, d'image, d'extrait vidéo ou de logo sans autorisation adaptée.</p><p>Pour un projet avec des mineurs, une autorisation écrite des représentants légaux est particulièrement importante. En cas de doute sur un usage commercial, une marque visible ou un lieu privé, renseignez-vous avant la diffusion plutôt qu'après.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel smartphone faut-il pour réaliser un court métrage ?",
+      "a_html": "<p>Un smartphone récent de milieu ou haut de gamme facilite le travail grâce à une meilleure stabilisation, une image plus propre et davantage d'options vidéo. Mais il n'est pas nécessaire d'avoir le modèle le plus cher pour commencer.</p><p>Privilégiez surtout un téléphone fiable, avec une batterie correcte, assez de stockage et une caméra arrière fonctionnelle. Un bon micro externe, de la lumière et une préparation sérieuse auront souvent plus d'impact que quelques mégapixels supplémentaires.</p>"
+    },
+    {
+      "q": "Faut-il filmer un court métrage en 4K ?",
+      "a_html": "<p>La 4K peut être utile si votre téléphone la gère bien et si vous avez suffisamment de stockage, de batterie et de puissance pour monter les fichiers. Elle permet aussi de recadrer légèrement une image au montage sans trop perdre en qualité.</p><p>Pour un premier film, le 1080p est souvent largement suffisant, plus léger à manipuler et plus simple à exporter. Mieux vaut un film en 1080p bien exposé, stable et audible qu'une 4K mal gérée.</p>"
+    },
+    {
+      "q": "Quelles applications utiliser pour filmer et monter ?",
+      "a_html": "<p>L'application vidéo native du téléphone suffit pour de nombreux projets. Si vous souhaitez verrouiller plus finement la mise au point, l'exposition, la balance des blancs ou la fréquence d'images, recherchez une application vidéo reconnue et compatible avec votre système.</p><p>Pour le montage, choisissez un outil dont l'interface vous paraît claire et qui permet au minimum de couper les plans, régler le volume, ajouter des titres et exporter sans filigrane gênant. Faites un essai de quelques minutes avant de monter tout votre film.</p>"
+    },
+    {
+      "q": "Comment éviter les images tremblantes avec un smartphone ?",
+      "a_html": "<p>La solution la plus fiable reste le trépied avec une pince adaptée au téléphone. Pour les mouvements, un stabilisateur peut aider, mais il demande un peu de pratique et ne remplace pas une trajectoire lente et préparée.</p><p>À main levée, tenez le téléphone à deux mains, gardez les bras près du corps et évitez de marcher vite. Vous pouvez aussi poser le téléphone sur un meuble, un sac ou une surface stable pour obtenir un plan fixe sans matériel supplémentaire.</p>"
+    },
+    {
+      "q": "Quelle durée choisir pour un premier court métrage ?",
+      "a_html": "<p>Entre deux et cinq minutes est un format très raisonnable pour débuter. Il vous force à aller à l'essentiel tout en laissant assez de place pour installer une situation, créer une tension et conclure.</p><p>La durée doit servir l'histoire, non l'inverse. Si votre idée fonctionne en 90 secondes, ne l'étirez pas ; si elle exige davantage de développement, simplifiez-la avant de multiplier les scènes.</p>"
+    },
+    {
+      "q": "Peut-on envoyer un film tourné au smartphone à un festival ?",
+      "a_html": "<p>Oui, certains festivals accueillent explicitement les films réalisés au smartphone, tandis que d'autres évaluent avant tout le résultat et les conditions techniques de projection. Consultez toujours le règlement : durée maximale, format de fichier, sous-titres, date de production et éventuels critères de première diffusion.</p><p>Soignez aussi le son, les crédits et le fichier d'export. Un film peut être tourné avec un téléphone et rester parfaitement recevable si sa narration et sa finition sont sérieuses.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Réaliser un court métrage avec un smartphone est une excellente façon d'apprendre à raconter en images sans attendre d'avoir un équipement parfait. Commencez petit, écrivez une histoire faisable, stabilisez vos plans et accordez une attention particulière aux voix.</p><p>Votre premier film ne sera peut-être pas parfait, et c'est normal. L'objectif est de terminer un projet, de le montrer, d'écouter les retours utiles et de réutiliser cette expérience pour le suivant. Votre téléphone est déjà un outil de création : il ne reste qu'à lui donner une histoire à filmer.</p>",
+  "__slug": "la-creation-de-courts-metrages-avec-un-smartphone"
+}

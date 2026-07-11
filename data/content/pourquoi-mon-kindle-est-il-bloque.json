@@ -1,0 +1,219 @@
+{
+  "title": "Pourquoi mon Kindle est-il bloqué ? Les solutions pour le redémarrer",
+  "meta_description": "Votre Kindle ne répond plus ou reste figé ? Identifiez la cause, forcez le redémarrage et sachez quand contacter Amazon.",
+  "reading_time_min": 9,
+  "hero_intro": "Un écran Kindle qui semble figé n'annonce pas forcément une panne définitive. Batterie vide, livre mal chargé, mise à jour inachevée ou simple ralentissement : la plupart des blocages se résolvent avec quelques gestes dans le bon ordre. Voici comment diagnostiquer le problème sans risquer de perdre vos livres ni vos réglages inutilement.",
+  "key_takeaways": [
+    "Un écran e-ink peut continuer d'afficher une image même lorsque la batterie est totalement vide : branchez le Kindle avant de conclure à une panne.",
+    "Le redémarrage forcé consiste généralement à maintenir le bouton d'alimentation enfoncé environ 40 secondes, puis à le relâcher.",
+    "Ne lancez une réinitialisation d'usine qu'en dernier recours : elle efface les contenus et réglages stockés sur l'appareil.",
+    "Des lignes permanentes, une tache sombre, un écran fissuré ou un Kindle qui ne charge jamais orientent plutôt vers un problème matériel.",
+    "Les livres achetés sur Amazon restent en principe associés à votre compte et peuvent être retéléchargés après un redémarrage ou une réinitialisation."
+  ],
+  "toc": [
+    "Reconnaître un vrai blocage de Kindle",
+    "Diagnostiquer le problème selon les symptômes",
+    "Les gestes à essayer, dans le bon ordre",
+    "Blocage logiciel ou panne matérielle : faire la différence",
+    "Mettre à jour, libérer de l'espace et isoler un livre défectueux",
+    "Réinitialiser un Kindle sans mauvaise surprise",
+    "Quand contacter l'assistance Amazon",
+    "Prévenir les blocages à l'avenir"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Reconnaître un vrai blocage de Kindle",
+      "html": "<p>Votre Kindle est probablement bloqué si l'écran ne réagit plus au toucher, si les changements de page sont impossibles, si l'appareil reste indéfiniment sur le logo Amazon ou s'il redémarre en boucle. Un écran qui reste affiché sur la couverture d'un livre n'est toutefois pas, à lui seul, une preuve de panne.</p><p>Les liseuses Kindle utilisent un écran à encre électronique. Contrairement à l'écran d'un téléphone, il conserve la dernière image affichée sans consommer d'énergie. Ainsi, un Kindle totalement déchargé peut donner l'impression d'être allumé mais figé. C'est pourquoi la première vérification consiste toujours à le recharger correctement.</p><p>Ne confondez pas non plus un Kindle avec une tablette Fire ou avec l'application Kindle sur smartphone : les procédures ci-dessous concernent les liseuses Kindle à encre électronique. Les intitulés des menus peuvent légèrement varier selon la génération de votre appareil.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Diagnostiquer le blocage selon le symptôme",
+      "intro": "Observez ce qui se passe avant d'agir : le bon diagnostic évite une réinitialisation inutile.",
+      "columns": [
+        "Ce que vous constatez",
+        "Cause fréquente",
+        "Premier réflexe"
+      ],
+      "rows": [
+        [
+          "L'écran affiche toujours la même page, mais rien ne répond",
+          "Ralentissement ponctuel, batterie très faible ou logiciel figé",
+          "Rechargez puis effectuez un redémarrage forcé"
+        ],
+        [
+          "Le Kindle reste sur le logo Amazon ou redémarre plusieurs fois",
+          "Démarrage incomplet, mise à jour ou fichier système perturbé",
+          "Laissez-le charger, puis forcez le redémarrage"
+        ],
+        [
+          "L'écran semble éteint mais montre encore une image",
+          "Batterie entièrement déchargée",
+          "Branchez-le sur une prise murale pendant au moins 30 minutes"
+        ],
+        [
+          "Un seul livre fait planter la liseuse",
+          "Fichier téléchargé de façon incomplète ou document corrompu",
+          "Supprimez ce téléchargement et récupérez une nouvelle copie"
+        ],
+        [
+          "L'écran présente des traits, zones noires ou une fissure",
+          "Choc ou dommage de la dalle e-ink",
+          "N'insistez pas : demandez un diagnostic au support"
+        ],
+        [
+          "Le Kindle ne réagit jamais et ne semble pas charger",
+          "Câble, chargeur, port ou batterie défaillant",
+          "Testez un autre câble et une autre source d'alimentation"
+        ]
+      ],
+      "note": "L'absence de voyant lumineux n'est pas un diagnostic suffisant : certains modèles n'en ont pas ou l'utilisent différemment."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "À retenir avant toute manipulation",
+      "html": "<p>Un redémarrage forcé ne supprime pas vos livres, annotations ni réglages. À l'inverse, une réinitialisation d'usine efface les données présentes sur le Kindle. Commencez donc toujours par la recharge et le redémarrage.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Les gestes à essayer dans le bon ordre",
+      "intro": "Suivez ces étapes sans passer directement à la solution la plus radicale. Attendez quelques minutes entre deux tentatives : un Kindle lent peut avoir besoin de terminer une opération en arrière-plan.",
+      "steps": [
+        {
+          "title": "1. Rechargez le Kindle sérieusement",
+          "html": "<p>Branchez la liseuse avec un câble en bon état, de préférence sur un adaptateur secteur ou sur un port USB fiable. Laissez-la charger au moins 30 minutes ; si elle était restée longtemps sans être utilisée, une à deux heures peuvent être nécessaires. Vérifiez aussi que le connecteur est bien enfoncé et que le port n'est pas encombré de poussière.</p>"
+        },
+        {
+          "title": "2. Forcez le redémarrage",
+          "html": "<p>Maintenez le bouton d'alimentation enfoncé pendant environ 40 secondes, sans vous fier immédiatement à ce qui apparaît à l'écran. Relâchez ensuite le bouton et attendez que le logo Amazon ou l'écran de démarrage s'affiche. La liseuse peut prendre quelques minutes pour redevenir totalement réactive.</p>"
+        },
+        {
+          "title": "3. Écartez un souci de charge",
+          "html": "<p>Si rien ne change, essayez un autre câble compatible et une autre prise. Un câble qui permet de transférer des données n'est pas forcément en bon état pour la charge, et inversement. Évitez les hubs USB instables pour ce test : une prise murale est plus simple à écarter du diagnostic.</p>"
+        },
+        {
+          "title": "4. Laissez l'appareil finir son travail",
+          "html": "<p>Après le téléchargement de nombreux livres, l'import de documents personnels ou une mise à jour, le Kindle peut rester lent pendant un moment car il indexe les fichiers. Laissez-le branché, connecté au Wi-Fi et au repos pendant une heure avant de conclure à un nouveau blocage.</p>"
+        },
+        {
+          "title": "5. Passez aux réglages uniquement si le Kindle redémarre",
+          "html": "<p>Une fois l'accès aux menus retrouvé, installez les mises à jour disponibles, supprimez les téléchargements inutiles et vérifiez si le problème se reproduit avec un livre précis. Gardez la réinitialisation d'usine pour la dernière étape.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Blocage logiciel ou panne matérielle : comment les distinguer ?",
+      "intro": "Les mêmes symptômes peuvent avoir des origines différentes. Ces indices vous aideront à choisir entre dépannage à domicile et assistance.",
+      "left": {
+        "title": "Le blocage semble logiciel",
+        "points": [
+          "Le Kindle repart après une charge ou un redémarrage forcé.",
+          "L'écran est visuellement intact et affiche normalement les images.",
+          "Le problème survient après un téléchargement, une mise à jour ou l'ouverture d'un document.",
+          "Le tactile ou les boutons fonctionnent à nouveau de manière intermittente.",
+          "Une mise à jour ou la suppression d'un fichier peut suffire à stabiliser l'appareil."
+        ]
+      },
+      "right": {
+        "title": "La panne semble matérielle",
+        "points": [
+          "L'écran est fissuré, encreux, rayé de lignes fixes ou présente une tache noire.",
+          "Le port de charge est desserré, abîmé ou la charge se coupe au moindre mouvement.",
+          "Le Kindle ne réagit pas après une longue charge, un autre câble et un redémarrage forcé.",
+          "Le problème a commencé après une chute, une pression dans un sac ou un contact avec un liquide.",
+          "La liseuse chauffe anormalement, gonfle ou dégage une odeur : cessez immédiatement de l'utiliser."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Mettre à jour, libérer de l'espace et isoler un livre défectueux",
+      "html": "<p>Quand votre Kindle démarre à nouveau, connectez-le à un réseau Wi-Fi stable et consultez les réglages de l'appareil. Une mise à jour logicielle corrige parfois des bugs de stabilité. Selon le modèle, l'option peut se trouver dans les paramètres de l'appareil ou dans un menu avancé. Si aucune mise à jour n'est proposée, c'est généralement que le logiciel est déjà à jour ou qu'aucun fichier n'est prêt à être installé.</p><p>Évitez de télécharger une mise à jour depuis une source non officielle. Si une installation manuelle est nécessaire, utilisez exclusivement les instructions et le fichier correspondant exactement à votre modèle sur le site d'aide Amazon. Un fichier prévu pour un autre Kindle peut empêcher la mise à jour de se lancer.</p><p>Un stockage presque saturé peut aussi ralentir la liseuse, surtout après l'ajout massif de PDF ou de documents personnels. Supprimez les téléchargements locaux dont vous n'avez plus besoin. Pour les ebooks achetés, choisissez si possible l'option qui retire le téléchargement de l'appareil plutôt que celle qui les supprime définitivement de votre bibliothèque.</p><p>Si le blocage apparaît toujours en ouvrant le même fichier, supprimez ce téléchargement depuis le Kindle, puis téléchargez de nouveau le livre. Pour un document personnel, conservez l'original sur votre ordinateur et réimportez-le. Un PDF très lourd, mal converti ou endommagé peut rendre la navigation particulièrement lente.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs qui aggravent souvent le problème",
+      "points": [
+        "Appuyer sans interruption sur plusieurs zones de l'écran au lieu d'attendre la fin d'un redémarrage.",
+        "Débrancher le Kindle pendant une mise à jour ou alors qu'il affiche un écran de démarrage.",
+        "Répéter les réinitialisations d'usine sans avoir essayé un autre câble ni une charge prolongée.",
+        "Installer des fichiers ou des logiciels provenant de sources non vérifiées.",
+        "Forcer un câble dans un port de charge endommagé ou humide."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Réinitialiser un Kindle : la solution de dernier recours",
+      "html": "<p>Si le Kindle fonctionne suffisamment pour ouvrir ses réglages mais se bloque régulièrement malgré la recharge, le redémarrage et les mises à jour, une réinitialisation d'usine peut être utile. Elle remet l'appareil dans son état initial, comme lors de la première mise en service.</p><p>Cette opération supprime les livres téléchargés localement, les documents personnels présents seulement sur l'appareil, les collections locales, les réglages Wi-Fi et les préférences. Les achats Kindle liés à votre compte Amazon restent normalement disponibles dans votre bibliothèque et peuvent être retéléchargés après reconnexion. En revanche, ne présumez pas que vos documents personnels non synchronisés sont sauvegardés : copiez-les d'abord sur un ordinateur si vous le pouvez.</p><p>Sur de nombreux modèles, l'option se trouve dans les paramètres, puis dans les options de l'appareil, sous un intitulé tel que « Réinitialiser ». Lisez attentivement le message de confirmation. Si les menus restent inaccessibles, mieux vaut contacter l'assistance avant de multiplier les manipulations, surtout si un dommage matériel est possible.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Préparer une réinitialisation sans perdre l'essentiel",
+      "intro": "Si vous avez encore accès à l'écran d'accueil, prenez quelques minutes pour sécuriser ce qui compte.",
+      "steps": [
+        {
+          "title": "Vérifiez la synchronisation",
+          "html": "<p>Connectez le Kindle au Wi-Fi et laissez la synchronisation se terminer. Les livres, la progression de lecture et les annotations associés à votre compte ont davantage de chances d'être retrouvés lors de la reconnexion.</p>"
+        },
+        {
+          "title": "Sauvegardez vos documents personnels",
+          "html": "<p>Copiez sur un ordinateur les fichiers ajoutés par câble USB, notamment vos PDF, ebooks personnels et notes qui ne seraient pas synchronisés. Conservez aussi une copie de leur fichier source.</p>"
+        },
+        {
+          "title": "Notez les informations utiles",
+          "html": "<p>Gardez l'adresse du compte Amazon utilisé et, si possible, le numéro de série du Kindle. Ils seront utiles pour réenregistrer la liseuse ou échanger avec le support.</p>"
+        },
+        {
+          "title": "Lancez la réinitialisation et reconnectez-vous",
+          "html": "<p>Confirmez l'opération depuis les réglages, laissez le Kindle redémarrer sans l'interrompre, puis reconnectez-le au Wi-Fi et à votre compte Amazon. Téléchargez vos livres progressivement afin de repérer un éventuel fichier qui poserait problème.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Écran abîmé ou liquide : ne tentez pas de réparation improvisée",
+      "html": "<p>Des bandes noires fixes, une zone qui ne se rafraîchit plus ou une fissure ne se corrigent pas avec un redémarrage. N'ouvrez pas le Kindle et n'utilisez ni air chaud ni produit liquide sur l'écran ou le port de charge. Après un contact avec de l'eau, débranchez l'appareil, ne le rechargez pas et demandez conseil au support.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Quand contacter l'assistance Amazon",
+      "html": "<p>Contactez l'assistance Amazon si le Kindle ne démarre toujours pas après une charge prolongée, un essai avec un autre câble et un redémarrage forcé. Faites de même si la liseuse redémarre en boucle, si la batterie se décharge brutalement ou si l'écran présente des dommages visibles. Préparez le modèle exact, le numéro de série, la date approximative d'achat et la description des tests déjà effectués.</p><p>Si l'achat est récent, vérifiez aussi les conditions de garantie et vos droits auprès du vendeur. Hors garantie, comparez le coût et l'intérêt d'une réparation avec le prix d'une liseuse neuve : les modèles d'entrée de gamme se situent souvent autour de 100 à 200 euros, tandis que les versions avec écran plus grand, éclairage plus évolué ou couleurs peuvent coûter davantage. Un écran e-ink endommagé est rarement une réparation simple à domicile.</p><p>Enfin, si le blocage concerne uniquement votre compte, le téléchargement de titres ou la synchronisation, l'assistance pourra vérifier l'état de votre bibliothèque. Cela ne nécessite pas forcément le remplacement de la liseuse.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Prévenir les blocages à l'avenir",
+      "html": "<p>Gardez un peu d'espace libre, installez les mises à jour proposées et évitez d'interrompre la liseuse pendant une synchronisation importante. Si vous importez beaucoup de fichiers, faites-le par lots plutôt que par centaines d'un coup : vous repérerez plus facilement un document défectueux.</p><p>Protégez aussi votre Kindle dans une housse rigide ou semi-rigide lorsque vous le transportez. Les écrans e-ink sont agréables à lire et peu énergivores, mais ils supportent mal les torsions et les fortes pressions. Une recharge régulière, sans laisser la batterie vide pendant de très longs mois, aide également à éviter les mauvaises surprises.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment redémarrer un Kindle bloqué ?",
+      "a_html": "<p>Maintenez le bouton d'alimentation enfoncé pendant environ 40 secondes, puis relâchez-le. Attendez ensuite quelques minutes : le logo Amazon ou l'écran de démarrage devrait apparaître. Cette manipulation force le redémarrage et n'efface pas votre bibliothèque.</p>"
+    },
+    {
+      "q": "Pourquoi l'écran de mon Kindle reste-t-il affiché alors qu'il est déchargé ?",
+      "a_html": "<p>Un écran à encre électronique conserve la dernière image sans alimentation. Votre Kindle peut donc sembler bloqué alors que sa batterie est vide. Branchez-le pendant au moins 30 minutes avant de tenter un redémarrage forcé.</p>"
+    },
+    {
+      "q": "Est-ce qu'un redémarrage efface les livres Kindle ?",
+      "a_html": "<p>Non. Un redémarrage normal ou forcé ne supprime pas vos contenus. Une <strong>réinitialisation d'usine</strong>, en revanche, efface les téléchargements et les réglages de l'appareil ; les achats liés à votre compte Amazon peuvent généralement être téléchargés à nouveau.</p>"
+    },
+    {
+      "q": "Mon Kindle est bloqué sur le logo Amazon : que faire ?",
+      "a_html": "<p>Commencez par le laisser charger sur une prise fiable, puis maintenez le bouton d'alimentation environ 40 secondes. S'il reste sur le logo après plusieurs minutes ou redémarre sans cesse, ne répétez pas indéfiniment l'opération : contactez l'assistance Amazon, surtout après une mise à jour ou un choc.</p>"
+    },
+    {
+      "q": "Pourquoi mon Kindle ne charge-t-il plus ?",
+      "a_html": "<p>Le problème peut venir du câble, de l'adaptateur, de la prise ou du port de charge. Essayez un autre câble compatible et une autre source d'alimentation, puis laissez la liseuse connectée un bon moment. Si le port est endommagé, si l'appareil chauffe ou s'il ne réagit jamais, demandez un diagnostic.</p>"
+    },
+    {
+      "q": "Peut-on réparer un écran Kindle fissuré ?",
+      "a_html": "<p>Un écran e-ink fissuré ou marqué de lignes fixes relève généralement d'une réparation matérielle. N'essayez pas de corriger le problème avec une réinitialisation ou un démontage maison. Contactez Amazon ou un professionnel et comparez le devis avec le prix d'un appareil de remplacement.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Face à un Kindle bloqué, gardez le réflexe le plus simple : <strong>charger, attendre, puis forcer le redémarrage</strong>. Cette méthode règle une grande partie des blocages sans effacer vos livres. Si l'écran est abîmé, si la charge échoue ou si les redémarrages se répètent, inutile de vous acharner : un diagnostic auprès de l'assistance Amazon vous fera gagner du temps et préservera vos données.</p>",
+  "__slug": "pourquoi-mon-kindle-est-il-bloque"
+}

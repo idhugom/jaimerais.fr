@@ -1,0 +1,263 @@
+{
+  "title": "Rachat de crédit immobilier : calculer votre gain potentiel avant de vous lancer",
+  "meta_description": "Calculez le vrai gain d'un rachat de crédit immobilier : taux, assurance, frais, durée, exemple chiffré et méthode de décision.",
+  "reading_time_min": 12,
+  "hero_intro": "Un taux plus bas ne suffit pas à rendre un rachat de crédit immobilier rentable. Entre l'indemnité de remboursement anticipé, la garantie, l'assurance et la durée restante, le gain réel peut fortement différer de la baisse affichée sur la mensualité. Voici une méthode simple et complète pour comparer votre prêt actuel à une nouvelle offre, sans oublier les frais qui changent tout.",
+  "key_takeaways": [
+    "Le bon calcul compare les dépenses qu'il vous reste réellement à payer, et non le coût total de votre prêt depuis sa signature.",
+    "Additionnez systématiquement le capital restant dû, les intérêts futurs, l'assurance emprunteur et tous les frais de sortie et de mise en place.",
+    "Un écart de taux peut être intéressant si le capital restant dû est encore élevé et si vous êtes plutôt dans la première moitié du remboursement.",
+    "Une mensualité plus faible n'est pas forcément une économie : un allongement de durée peut augmenter le coût global du crédit.",
+    "Comparez le TAEG, l'assurance et la durée à échéance identique, puis calculez le délai nécessaire pour amortir les frais du rachat."
+  ],
+  "toc": [
+    "Rachat ou renégociation : ce que vous comparez vraiment",
+    "Les postes de coût à intégrer au calcul",
+    "La formule pour estimer le gain réel",
+    "Calculer votre rachat de crédit en 5 étapes",
+    "Exemple chiffré : un gain possible, mais pas automatique",
+    "Renégocier ou faire racheter son prêt : quelle solution choisir ?",
+    "Les critères qui rendent un rachat plus ou moins pertinent",
+    "Investissement locatif, assurance et erreurs à éviter"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Rachat ou renégociation : ce que vous comparez vraiment",
+      "html": "<p>Le <strong>rachat de crédit immobilier</strong> consiste à faire rembourser votre prêt actuel par une nouvelle banque, qui vous propose un nouveau financement. Vous repartez alors avec un contrat, un taux, une assurance, une garantie et un échéancier différents. L'opération est aussi appelée « refinancement externe ».</p><p>Il ne faut pas le confondre avec la <strong>renégociation de prêt</strong>. Dans ce cas, vous demandez à votre banque actuelle de revoir le taux ou certaines conditions de votre crédit. La démarche est souvent plus légère, car elle évite en principe l'indemnité de remboursement anticipé et la mise en place d'une nouvelle garantie. En contrepartie, votre banque n'est pas tenue d'accepter ni de s'aligner sur la meilleure offre concurrente.</p><p>Dans les deux cas, l'objectif n'est pas seulement de payer moins chaque mois. Il s'agit de déterminer si le montant total qui sortira encore de votre budget sera inférieur après l'opération. C'est cette différence, une fois tous les frais déduits, qui constitue votre <strong>gain potentiel réel</strong>.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les repères à vérifier avant de demander des offres",
+      "points": [
+        "Relevez sur votre tableau d'amortissement le capital restant dû, le taux nominal, la mensualité, l'assurance et le nombre de mensualités restantes.",
+        "Demandez à votre banque un décompte de remboursement anticipé daté : il précise le montant exact à régler pour solder le prêt.",
+        "Privilégiez une comparaison à durée restante égale. Si vous souhaitez raccourcir ou allonger la durée, analysez séparément l'effet sur votre budget et sur le coût total.",
+        "Faites chiffrer l'assurance emprunteur avec le même niveau de garanties : une offre de prêt bon marché peut être pénalisée par une assurance plus coûteuse.",
+        "Ne décidez pas sur le seul taux nominal : le TAEG, les frais et la durée sont indispensables pour comparer les offres."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les coûts à mettre dans votre calcul de rentabilité",
+      "intro": "Pour éviter une fausse bonne affaire, distinguez les dépenses futures de votre prêt actuel et celles du nouveau financement.",
+      "columns": [
+        "Poste",
+        "Prêt actuel : à relever",
+        "Nouveau prêt : à demander ou estimer",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Capital restant dû",
+          "Montant exact à une date donnée",
+          "Montant repris par la nouvelle banque",
+          "C'est la base du refinancement ; il ne constitue pas à lui seul un « coût » à économiser."
+        ],
+        [
+          "Intérêts à venir",
+          "Somme des intérêts sur les échéances restantes",
+          "Intérêts calculés sur le nouveau capital et la nouvelle durée",
+          "Une baisse de taux est plus utile au début du prêt, lorsque les intérêts pèsent davantage."
+        ],
+        [
+          "Assurance emprunteur",
+          "Cotisations restantes et garanties",
+          "Nouvelle cotisation, mode de calcul et garanties",
+          "Comparez une couverture équivalente : quotité, décès, invalidité, incapacité, exclusions."
+        ],
+        [
+          "Indemnité de remboursement anticipé",
+          "Demandée par la banque actuelle",
+          "À payer lors du solde",
+          "Pour de nombreux prêts immobiliers, elle est plafonnée légalement au plus bas entre 6 mois d'intérêts et 3 % du capital restant dû, avec des cas d'exonération."
+        ],
+        [
+          "Frais de dossier et courtage",
+          "Souvent aucun pour le prêt existant",
+          "Frais de banque et, le cas échéant, de courtier",
+          "Demandez s'ils sont payés comptant ou intégrés au nouveau crédit."
+        ],
+        [
+          "Garantie et frais liés à l'ancienne sûreté",
+          "Éventuelle mainlevée si hypothèque",
+          "Caution, hypothèque ou privilège selon le montage",
+          "Une nouvelle hypothèque peut entraîner des frais plus élevés qu'une caution ; la mainlevée éventuelle doit aussi être chiffrée."
+        ]
+      ],
+      "note": "Les montants dépendent du contrat, de la garantie et de votre situation. Seuls le décompte de remboursement et les offres écrites permettent un calcul définitif."
+    },
+    {
+      "type": "prose",
+      "heading": "La formule pour estimer le gain réel d'un rachat",
+      "html": "<p>La méthode la plus fiable consiste à comparer <strong>tous les flux d'argent futurs</strong>. Les intérêts déjà versés avant aujourd'hui sont un coût passé : ils ne doivent pas influencer votre décision, car ils ne seront récupérés dans aucun scénario.</p><p>Vous pouvez retenir cette formule : <strong>gain net estimé = total restant à payer avec le prêt actuel − total à payer après rachat</strong>. Le premier total comprend les mensualités de crédit restantes et l'assurance restante. Le second comprend les échéances du nouveau prêt, la nouvelle assurance et les frais payés comptant. Si certains frais sont financés dans le nouveau crédit, ne les ajoutez pas une seconde fois : ils sont déjà inclus dans les nouvelles mensualités.</p><p>Une autre lecture utile est le <strong>point mort</strong>, c'est-à-dire le temps nécessaire pour récupérer les frais du rachat. À durée inchangée, une approximation consiste à diviser les frais initiaux par l'économie mensuelle. Cette estimation est pratique, mais reste simplifiée : les mensualités contiennent du capital et des intérêts, et l'écart d'assurance peut évoluer. Pour une décision importante, comparez les deux tableaux d'amortissement mois par mois.</p><p>Enfin, utilisez le <strong>TAEG</strong> comme indicateur global pour départager des propositions de durée identique. Il intègre notamment les intérêts, les frais obligatoires et l'assurance exigée pour obtenir le prêt, selon les conditions de l'offre. Il ne dispense pas de vérifier les montants réels des frais de sortie de votre ancien prêt.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Calculer votre rachat de crédit en 5 étapes",
+      "intro": "Avec votre offre de prêt, votre tableau d'amortissement et un décompte de remboursement anticipé, vous pouvez établir une première estimation solide.",
+      "steps": [
+        {
+          "title": "Récupérez les chiffres de votre prêt actuel",
+          "html": "<p>Notez le <strong>capital restant dû</strong> à la date envisagée, le nombre de mois restants, la mensualité hors assurance, le coût et les garanties de l'assurance. Additionnez les échéances restantes ou utilisez les totaux figurant sur le tableau d'amortissement.</p>"
+        },
+        {
+          "title": "Obtenez le coût exact de sortie",
+          "html": "<p>Demandez à votre banque un décompte écrit. Ajoutez l'indemnité de remboursement anticipé lorsqu'elle est due et les frais éventuels de mainlevée si le prêt est garanti par une hypothèque. Vérifiez aussi si votre situation ouvre droit à une exonération prévue par votre contrat ou par la réglementation.</p>"
+        },
+        {
+          "title": "Mettez les nouvelles offres sur une base comparable",
+          "html": "<p>Pour chaque proposition, relevez le taux, le TAEG, la durée, la mensualité hors assurance, le coût de l'assurance, les frais de dossier, la garantie et les frais de courtage. Commencez par demander une durée identique à celle qui reste sur votre prêt ; vous pourrez ensuite simuler une durée plus courte ou plus longue.</p>"
+        },
+        {
+          "title": "Calculez les deux montants futurs",
+          "html": "<p>Dans le scénario « je garde mon prêt », totalisez les mensualités restantes et l'assurance. Dans le scénario « je rachète », totalisez les nouvelles mensualités, la nouvelle assurance et les frais non financés. Soustrayez le second total au premier.</p>"
+        },
+        {
+          "title": "Testez votre horizon de détention du bien",
+          "html": "<p>Si vous prévoyez de vendre, de déménager ou de rembourser par anticipation avant le point mort, le rachat risque de ne pas avoir le temps de produire son gain. Demandez alors une comparaison des coûts cumulés à 2, 3, 5 ou 7 ans, plutôt qu'à la seule fin théorique du prêt.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Exemple de calcul : comparer les coûts restants, pas seulement le taux",
+      "intro": "Voici une simulation volontairement simplifiée. Les frais du rachat sont supposés payés comptant, et les montants d'assurance sont arrondis. Elle illustre la logique, pas une offre bancaire réelle.",
+      "columns": [
+        "Élément",
+        "Conserver le prêt actuel",
+        "Rachat à durée identique"
+      ],
+      "rows": [
+        [
+          "Capital restant dû",
+          "180 000 €",
+          "180 000 € repris par le nouveau prêt"
+        ],
+        [
+          "Durée restante",
+          "180 mois",
+          "180 mois"
+        ],
+        [
+          "Taux nominal hors assurance",
+          "3,80 %",
+          "2,80 %"
+        ],
+        [
+          "Mensualité de crédit hors assurance",
+          "Environ 1 315 €",
+          "Environ 1 225 €"
+        ],
+        [
+          "Total des échéances de crédit restantes",
+          "Environ 236 700 €",
+          "Environ 220 500 €"
+        ],
+        [
+          "Assurance restante estimée",
+          "Environ 6 300 €",
+          "Environ 5 400 €"
+        ],
+        [
+          "Frais de sortie et de nouveau prêt",
+          "0 € dans le scénario de conservation",
+          "Environ 6 900 €"
+        ],
+        [
+          "Dépense future totale estimée",
+          "Environ 243 000 €",
+          "Environ 232 800 €"
+        ],
+        [
+          "Gain net estimé",
+          "—",
+          "Environ 10 200 €"
+        ]
+      ],
+      "note": "Dans cet exemple, l'économie mensuelle est proche de 95 € assurance comprise. Les frais d'environ 6 900 € sont théoriquement compensés après plusieurs années : il faut donc envisager de conserver le prêt suffisamment longtemps. Si ces frais étaient ajoutés au nouveau crédit, le gain final serait plus faible."
+    },
+    {
+      "type": "comparison",
+      "heading": "Renégocier avec sa banque ou faire racheter son prêt ?",
+      "intro": "La meilleure solution dépend autant des frais et de votre pouvoir de négociation que du taux affiché.",
+      "left": {
+        "title": "Renégociation interne",
+        "points": [
+          "Démarche souvent plus rapide et administrative plus simple.",
+          "Pas de changement de banque ni, en principe, d'indemnité de remboursement anticipé.",
+          "Frais d'avenant parfois facturés, mais généralement plus limités qu'un rachat complet.",
+          "L'assurance et la garantie existantes sont souvent conservées.",
+          "La baisse de taux proposée peut être moins compétitive, car votre banque n'a aucune obligation d'accepter."
+        ]
+      },
+      "right": {
+        "title": "Rachat par une autre banque",
+        "points": [
+          "Peut ouvrir l'accès à un taux, une assurance ou des conditions plus favorables.",
+          "Permet de mettre les banques en concurrence et de revoir l'ensemble du montage.",
+          "Implique des frais de sortie, de dossier et de nouvelle garantie à amortir.",
+          "Nécessite une nouvelle étude de solvabilité et un dossier complet.",
+          "Peut être pertinent si l'écart de coût compense clairement les frais sur votre horizon de détention."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "La mensualité n'est pas le verdict",
+      "html": "<p>Allonger la durée fait presque toujours baisser la mensualité, mais pas nécessairement le coût total. Un rachat sur 20 ans à la place des 15 ans restants peut améliorer votre trésorerie tout en vous faisant payer davantage d'intérêts sur la durée. C'est un choix de budget, pas automatiquement une économie.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les critères qui rendent un rachat plus ou moins pertinent",
+      "html": "<p>Un rachat est <strong>souvent plus facile à rentabiliser</strong> lorsque le capital restant dû demeure important, qu'il reste de nombreuses années de remboursement et que le nouveau coût de financement est sensiblement inférieur. Au début d'un crédit amortissable, une part plus élevée de chaque mensualité correspond aux intérêts : une baisse de taux peut donc avoir davantage d'effet.</p><p>À l'inverse, l'opération devient souvent moins intéressante en fin de prêt. Le capital est alors déjà largement remboursé, les intérêts futurs sont réduits et les frais fixes absorbent vite le bénéfice. Une petite différence de taux ne doit pas faire oublier plusieurs milliers d'euros de frais potentiels.</p><p>Votre profil compte aussi. Une situation professionnelle stable, un endettement maîtrisé et une épargne disponible facilitent l'acceptation d'un nouveau crédit. À l'inverse, si vos revenus ont baissé, si vous avez ajouté des crédits à la consommation ou si votre état de santé rend l'assurance plus chère, un taux immobilier attractif peut ne pas suffire à améliorer l'offre globale.</p><p>Vous pouvez également étudier une <strong>délégation d'assurance</strong> sans racheter le prêt : changer d'assurance emprunteur, lorsque votre contrat et votre situation le permettent, peut réduire le coût restant sans déclencher les frais d'un refinancement complet. C'est une piste distincte à chiffrer avant de signer un rachat.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Cas particulier : résidence locative et fiscalité",
+      "html": "<p>Pour un bien mis en location, les intérêts d'emprunt peuvent, sous conditions, être pris en compte dans le calcul des revenus fonciers. Un rachat modifie la répartition future entre intérêts et capital, ainsi que certains frais. Son intérêt fiscal ne se résume donc pas au gain bancaire.</p><p>Conservez les justificatifs et faites valider le traitement des frais liés à votre situation par un expert-comptable, un conseiller fiscal ou l'administration compétente. Une économie d'intérêts peut aussi réduire une charge déductible : cela ne rend pas l'opération mauvaise, mais doit être intégré à votre calcul après impôt.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs qui faussent le calcul",
+      "points": [
+        "Comparer le nouveau taux au taux d'origine, au lieu de comparer les dépenses qui restent à payer aujourd'hui.",
+        "Oublier l'assurance emprunteur ou comparer des assurances dont les garanties ne sont pas équivalentes.",
+        "Intégrer les frais dans le nouveau prêt puis les ajouter une seconde fois au coût total.",
+        "Accepter une durée plus longue sans calculer le total des intérêts et sans vérifier l'âge de fin de prêt.",
+        "Négliger un projet de vente à court terme, un remboursement anticipé prévisible ou les conditions de transfert du prêt.",
+        "Signer sur la base d'une simulation orale sans relire l'offre, le TAEG, les conditions de l'assurance et le détail de la garantie."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "À partir de quel écart de taux un rachat de crédit immobilier est-il intéressant ?",
+      "a_html": "<p>Il n'existe pas de seuil universel. Un écart de taux qui paraît significatif peut être annulé par l'indemnité de remboursement anticipé, la garantie et l'assurance ; inversement, un écart plus modeste peut devenir intéressant sur un capital important et une longue durée restante.</p><p>Le bon réflexe est de calculer le gain net après tous les frais, à durée restante identique, puis de vérifier que vous conserverez le prêt au-delà du point mort. Ne vous fiez donc pas à une règle fixe exprimée uniquement en points de taux.</p>"
+    },
+    {
+      "q": "Quels sont les frais d'un rachat de prêt immobilier ?",
+      "a_html": "<p>Les frais peuvent comprendre l'indemnité de remboursement anticipé du prêt actuel, les frais de dossier de la nouvelle banque, les honoraires éventuels de courtage, le coût d'une nouvelle garantie et, selon la sûreté initiale, des frais de mainlevée d'hypothèque.</p><p>Certains frais sont payés au départ, d'autres peuvent être inclus dans le nouveau financement. Dans ce dernier cas, ils génèrent aussi des intérêts : demandez toujours le montant total remboursé, pas seulement le montant des frais affichés.</p>"
+    },
+    {
+      "q": "Comment connaître le capital restant dû de mon crédit ?",
+      "a_html": "<p>Votre tableau d'amortissement indique le capital restant dû après chaque échéance. Pour un rachat, demandez toutefois à votre banque un <strong>décompte de remboursement anticipé</strong> daté : il donne le montant précis à régler à une date donnée, avec les éventuelles indemnités et frais associés.</p><p>Ce document est indispensable, car un chiffre ancien ou approximatif peut fausser l'offre de rachat et votre calcul de rentabilité.</p>"
+    },
+    {
+      "q": "Puis-je faire racheter mon crédit immobilier sans changer d'assurance ?",
+      "a_html": "<p>Oui, selon les conditions de l'assureur et de la nouvelle banque, mais il faut vérifier que les garanties répondent aux exigences du nouveau prêteur. Un rachat constitue un nouveau prêt : l'assurance doit donc être acceptée dans ce nouveau cadre.</p><p>Il est souvent pertinent de demander à la fois une proposition d'assurance groupe et une proposition d'assurance individuelle à garanties comparables. Le coût de l'assurance peut modifier sensiblement le gain total.</p>"
+    },
+    {
+      "q": "Est-il possible de racheter un prêt immobilier en fin de crédit ?",
+      "a_html": "<p>C'est possible, mais souvent moins rentable. En fin de remboursement, une grande part des intérêts a déjà été payée et le capital restant dû est plus faible. Les frais fixes du rachat pèsent alors davantage dans le calcul.</p><p>Une renégociation avec la banque actuelle, une optimisation de l'assurance ou le maintien du prêt peuvent être des options plus adaptées. Seule une simulation chiffrée permet de trancher.</p>"
+    },
+    {
+      "q": "Le rachat de crédit immobilier réduit-il toujours les mensualités ?",
+      "a_html": "<p>Non. Si vous conservez exactement la même durée et obtenez un coût de financement plus bas, la mensualité peut diminuer. Mais vous pouvez aussi choisir de garder une mensualité proche pour raccourcir la durée, ce qui vise davantage la réduction du coût total.</p><p>À l'inverse, une mensualité fortement réduite résulte parfois surtout d'un allongement de la durée. Dans ce cas, vérifiez attentivement le montant total que vous rembourserez jusqu'à l'échéance.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Un rachat de crédit immobilier est rentable lorsqu'il réduit <strong>vos dépenses futures totales</strong>, frais et assurance compris, et que vous avez le temps d'amortir son coût avant une éventuelle revente ou un remboursement anticipé.</p><p>Commencez par obtenir un décompte précis de votre banque, demandez plusieurs simulations comparables et placez-les face à votre tableau d'amortissement actuel. Avec cette méthode, vous ne choisirez pas simplement un taux plus bas : vous choisirez l'option réellement la plus avantageuse pour votre projet.</p>",
+  "__slug": "rachat-de-credit-immobilier-comment-calculer-le-gain-potentiel"
+}

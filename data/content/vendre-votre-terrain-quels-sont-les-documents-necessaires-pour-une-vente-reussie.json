@@ -1,0 +1,290 @@
+{
+  "title": "Vendre un terrain : les documents indispensables pour sécuriser la vente",
+  "meta_description": "Vendre un terrain sans oublier aucun document : urbanisme, bornage, diagnostics, fiscalité et étapes clés pour sécuriser votre vente immobilière.",
+  "reading_time_min": 12,
+  "hero_intro": "Vendre un terrain ne consiste pas seulement à trouver un acheteur et à fixer un prix. La constructibilité, les limites exactes de la parcelle, les risques naturels et le régime fiscal peuvent modifier fortement l'intérêt du bien comme le produit net de la vente. En préparant un dossier clair avant la mise sur le marché, vous rassurez les acquéreurs et évitez les retards au moment de signer.",
+  "key_takeaways": [
+    "Le titre de propriété, les informations d'urbanisme, le plan cadastral et les renseignements sur les servitudes constituent le socle du dossier vendeur.",
+    "Le certificat d'urbanisme n'est pas toujours obligatoire, mais il est fortement recommandé : il clarifie les règles applicables et la faisabilité d'un projet.",
+    "Le cadastre ne fixe pas juridiquement les limites d'un terrain : un bornage par géomètre-expert est utile, voire décisif, en cas de doute ou de division.",
+    "Pour un terrain nu, les obligations de diagnostic dépendent de sa situation : l'ERP est très fréquent, tandis que l'étude géotechnique G1 ne s'applique que dans certains secteurs.",
+    "Anticipez la plus-value immobilière, les éventuels droits de préemption et les délais administratifs avant d'accepter une offre."
+  ],
+  "toc": [
+    "Identifier précisément le terrain que vous vendez",
+    "Les documents à réunir avant la mise en vente",
+    "Diagnostics et informations obligatoires : ce qui dépend de votre parcelle",
+    "Cadastre ou bornage : ne pas confondre les deux",
+    "Préparer votre vente étape par étape",
+    "Urbanisme, accès et viabilisation : les points qui font la valeur",
+    "Du compromis à l'acte authentique chez le notaire",
+    "Budget et fiscalité : les coûts à anticiper",
+    "Les cas particuliers qui demandent une vigilance renforcée"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Identifier précisément le terrain que vous vendez",
+      "html": "<p>Avant de demander des documents, commencez par qualifier votre bien. Un <strong>terrain à bâtir</strong>, un terrain agricole, un bois, une parcelle de loisirs ou un terrain déjà issu d'un lotissement ne se vendent pas avec les mêmes arguments ni sous les mêmes contraintes. La mention « constructible » doit toujours être vérifiée à la lumière du plan local d'urbanisme (PLU), de la carte communale ou, à défaut, des règles nationales d'urbanisme applicables dans la commune.</p><p>Relevez aussi la référence cadastrale, la surface annoncée dans votre acte, la présence éventuelle d'un accès à la voie publique, les raccordements existants et les servitudes. Un terrain peut être constructible tout en étant coûteux à aménager : accès étroit, pente, réseaux éloignés, assainissement autonome, zone inondable ou obligation de fondations particulières peuvent peser sur le prix et sur la décision de l'acheteur.</p><p>Cette première analyse vous aide à constituer un dossier cohérent et à rédiger une annonce honnête. Elle évite surtout de présenter comme immédiatement constructible un terrain qui nécessiterait une autorisation, une division préalable ou des travaux de viabilisation importants.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Le dossier vendeur à réunir en priorité",
+      "points": [
+        "Votre titre de propriété et, si possible, les actes antérieurs utiles pour comprendre les servitudes et les limites du bien.",
+        "La référence cadastrale, le plan cadastral et le dernier avis de taxe foncière, utiles pour identifier précisément la parcelle.",
+        "Un certificat d'urbanisme récent, de préférence opérationnel si un projet de construction est envisagé.",
+        "Les documents relatifs à une division, un lotissement, un bornage ou un permis d'aménager lorsqu'ils existent.",
+        "Les informations sur les risques, les études de sol obligatoires selon la zone et tout élément connu sur la pollution ou les contraintes du terrain.",
+        "Vos justificatifs d'identité, de situation matrimoniale et les coordonnées des éventuels indivisaires, indispensables au notaire pour préparer l'acte."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Documents pour vendre un terrain : lesquels sont indispensables ?",
+      "intro": "Tous les documents ne sont pas automatiquement obligatoires dans chaque vente. Ce tableau permet de distinguer les pièces à fournir, les documents vivement conseillés et ceux qui ne s'appliquent qu'à certaines situations.",
+      "columns": [
+        "Document",
+        "Utilité et contenu",
+        "Caractère habituel",
+        "Où l'obtenir"
+      ],
+      "rows": [
+        [
+          "Titre de propriété",
+          "Prouve l'origine de propriété, décrit le bien et peut révéler des servitudes.",
+          "Indispensable au dossier notarial",
+          "Vos archives ou l'étude notariale ayant reçu l'acte"
+        ],
+        [
+          "Plan cadastral et références de parcelle",
+          "Localise la parcelle et indique une contenance cadastrale.",
+          "Très utile, mais ne garantit pas les limites réelles",
+          "Cadastre en ligne ou centre des impôts fonciers"
+        ],
+        [
+          "Certificat d'urbanisme",
+          "Indique les règles d'urbanisme, les servitudes, les taxes et, en version opérationnelle, la faisabilité d'un projet décrit.",
+          "Fortement recommandé",
+          "Mairie, généralement via le service urbanisme"
+        ],
+        [
+          "ERP, état des risques et pollutions",
+          "Informe sur les risques naturels, miniers, technologiques, sismiques, radon et autres données réglementaires selon le bien.",
+          "Souvent obligatoire",
+          "À établir à partir des informations officielles ou via un professionnel"
+        ],
+        [
+          "Étude géotechnique G1",
+          "Informe sur les risques liés aux sols argileux et les principes généraux de construction.",
+          "Obligatoire seulement dans certains secteurs d'aléa argile moyen ou fort pour un terrain à bâtir",
+          "Bureau d'études géotechniques"
+        ],
+        [
+          "Procès-verbal de bornage",
+          "Fixe juridiquement les limites si les propriétaires concernés ont signé le bornage.",
+          "Recommandé en cas de doute ; nécessaire dans certains montages de division",
+          "Géomètre-expert"
+        ],
+        [
+          "Documents de lotissement ou de division",
+          "Règlement, cahier des charges, déclaration préalable, permis d'aménager, plan de division et attestations associées.",
+          "À fournir s'ils concernent le terrain",
+          "Vendeur, géomètre, mairie ou aménageur"
+        ],
+        [
+          "Justificatifs de viabilisation et d'accès",
+          "Éclairent sur l'eau, l'électricité, l'assainissement, les télécoms et les droits de passage.",
+          "Très utiles pour sécuriser la négociation",
+          "Concessionnaires, mairie, notaire et vos archives"
+        ]
+      ],
+      "note": "Le notaire contrôle et complète le dossier juridique. Préparez néanmoins ces éléments le plus tôt possible : certains délais administratifs peuvent repousser la signature."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas « terrain nu » et absence de diagnostics",
+      "html": "<p>Un terrain sans bâtiment n'est pas concerné par un diagnostic de performance énergétique. En revanche, l'<strong>état des risques et pollutions (ERP)</strong> est fréquemment requis et doit être récent lors de la signature. Si le terrain à bâtir se situe dans une zone d'exposition moyenne ou forte au retrait-gonflement des argiles, une <strong>étude géotechnique préalable G1</strong> doit être remise à l'acquéreur.</p><p>Une information spécifique peut également être due lorsque le terrain est situé dans un secteur d'information sur les sols ou lorsqu'une pollution est connue. Ne masquez jamais un remblai, un ancien usage industriel, une décharge, une cavité ou une inondation connue : la transparence protège la vente et limite les litiges ultérieurs.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Plan cadastral ou bornage : deux documents, deux rôles",
+      "intro": "Le plan cadastral est précieux pour identifier un terrain, mais il ne remplace pas une délimitation réalisée sur le terrain. Cette distinction est essentielle lorsque l'acheteur veut construire une clôture, implanter une maison ou vérifier un accès.",
+      "left": {
+        "title": "Le plan cadastral",
+        "points": [
+          "Indique les parcelles, leurs références et une contenance fiscale.",
+          "S'obtient facilement et permet de localiser le bien.",
+          "Ne matérialise pas avec une précision juridique les limites de propriété.",
+          "Peut comporter un tracé approximatif ou ancien, notamment en zone rurale."
+        ]
+      },
+      "right": {
+        "title": "Le bornage par géomètre-expert",
+        "points": [
+          "Détermine les limites entre propriétés voisines après analyse des titres et relevés.",
+          "Devient durable et opposable lorsque les propriétaires concernés l'acceptent.",
+          "Rassure un acheteur et réduit le risque de conflit de voisinage.",
+          "Représente un coût, à prévoir particulièrement en cas de division ou de limite incertaine."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Préparer la vente de votre terrain en 6 étapes",
+      "intro": "Une méthode simple permet de gagner du temps sans promettre à l'acheteur ce que le terrain ne permet pas réellement.",
+      "steps": [
+        {
+          "title": "1. Rassemblez vos pièces de propriété",
+          "html": "<p>Retrouvez l'acte d'acquisition, les éventuels actes de partage ou de succession, les plans, les courriers sur les servitudes et votre dernier avis de taxe foncière. Si le terrain est détenu en indivision, identifiez dès le départ toutes les personnes qui devront consentir à la vente.</p>"
+        },
+        {
+          "title": "2. Vérifiez les règles d'urbanisme",
+          "html": "<p>Consultez le zonage du PLU, le règlement applicable et les éventuelles servitudes d'utilité publique. Demandez un certificat d'urbanisme : sa version opérationnelle est particulièrement utile si vous envisagez de vendre le terrain pour une maison ou un projet précis.</p>"
+        },
+        {
+          "title": "3. Clarifiez les limites, l'accès et les réseaux",
+          "html": "<p>Vérifiez l'existence d'un accès direct ou d'un droit de passage, les bornes éventuellement visibles et la distance des réseaux. Faites intervenir un géomètre-expert si les limites sont incertaines ou si vous créez un nouveau lot.</p>"
+        },
+        {
+          "title": "4. Établissez les informations sur les risques",
+          "html": "<p>Préparez l'ERP et déterminez si une étude géotechnique G1 est requise. Signalez au notaire les contraintes connues : zone inondable, ancien remblai, cavité, proximité d'une installation classée ou pollution possible.</p>"
+        },
+        {
+          "title": "5. Fixez un prix cohérent avec les contraintes",
+          "html": "<p>Comparez avec des terrains réellement vendus, pas uniquement avec des annonces. Déduisez mentalement ce que l'acquéreur devra financer pour l'accès, la viabilisation, l'assainissement, le terrassement et les fondations.</p>"
+        },
+        {
+          "title": "6. Sécurisez l'offre puis l'avant-contrat",
+          "html": "<p>Transmettez le dossier à votre notaire avant la signature d'un compromis ou d'une promesse. Les conditions suspensives doivent couvrir, lorsque cela est pertinent, l'obtention du prêt, du permis de construire, l'absence de recours et les vérifications techniques nécessaires.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Urbanisme, accès et viabilisation : les informations qui font la valeur",
+      "html": "<p>Le <strong>certificat d'urbanisme d'information</strong> renseigne sur le droit applicable à la parcelle : règles du PLU, limitations administratives, servitudes et taxes d'urbanisme. Le <strong>certificat d'urbanisme opérationnel</strong> va plus loin : il répond à la question de savoir si une opération déterminée, par exemple la construction d'une maison, est réalisable. Il n'est pas un permis de construire, mais il apporte une sécurité appréciable dans une négociation.</p><p>Le certificat est en principe valable pendant une durée limitée, généralement de 18 mois, sous réserve des règles de prolongation et de l'évolution de la réglementation. Demandez-le suffisamment tôt, mais vérifiez aussi sa date avant la signature. Un terrain classé constructible aujourd'hui peut être encadré par des règles de surface minimale, de recul, de stationnement, de hauteur, de végétalisation ou de raccordement qui limitent le projet réel.</p><p>La viabilisation mérite la même précision. Distinguez les réseaux <em>présents à proximité</em> des raccordements <em>effectivement réalisés jusqu'à la parcelle</em>. Pour un terrain non raccordé, une attestation de faisabilité ou des devis indicatifs peuvent aider l'acquéreur à évaluer son budget. Si aucun réseau collectif d'assainissement n'est accessible, le projet peut dépendre d'une étude de sol et de l'accord du service public d'assainissement non collectif.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Du compromis à l'acte authentique : le rôle central du notaire",
+      "html": "<p>Une fois l'acquéreur trouvé, la vente passe habituellement par une promesse unilatérale de vente ou un compromis. Cet avant-contrat fixe le prix, la désignation exacte du terrain, la répartition des frais, le calendrier et les conditions suspensives. Pour un terrain à bâtir, une condition liée à l'obtention d'un permis de construire adapté au projet de l'acquéreur est très fréquente.</p><p>Le notaire vérifie le titre de propriété, la situation hypothécaire, les servitudes, l'origine de propriété, l'urbanisme et les droits de préemption. Selon l'emplacement du terrain, la commune, un établissement public ou la SAFER pour certains biens ruraux peuvent disposer d'un droit de préemption. Ces formalités expliquent pourquoi un délai de plusieurs semaines, voire de quelques mois, sépare souvent l'accord de principe de la vente définitive.</p><p>Ne signez pas un document rédigé à la hâte si la parcelle soulève une difficulté : accès par un fonds voisin, surface imprécise, division en cours, terrain occupé, ancienne activité polluante ou vente par plusieurs héritiers. Un avant-contrat bien écrit permet de traiter ces sujets sans créer d'ambiguïté sur ce que l'acheteur acquiert.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quels frais prévoir avant et pendant la vente ?",
+      "intro": "Les montants varient fortement selon la localisation, la taille du terrain et sa complexité. Voici des ordres de grandeur prudents pour établir votre budget vendeur.",
+      "columns": [
+        "Poste",
+        "Ordre de grandeur courant",
+        "À savoir"
+      ],
+      "rows": [
+        [
+          "Certificat d'urbanisme",
+          "Généralement gratuit",
+          "La demande est déposée auprès de la mairie ; le délai de réponse doit être anticipé."
+        ],
+        [
+          "Plan cadastral et informations de base",
+          "Souvent gratuits",
+          "Utiles pour le dossier, mais ils ne remplacent pas le bornage."
+        ],
+        [
+          "ERP",
+          "Gratuit si réalisé à partir des données officielles, ou quelques dizaines d'euros via un prestataire",
+          "Il doit être à jour et correspondre précisément au bien vendu."
+        ],
+        [
+          "Étude géotechnique G1",
+          "Souvent de l'ordre de 1 000 à 2 500 € ou davantage selon le site",
+          "À prévoir seulement lorsqu'elle est légalement requise ou lorsqu'elle est utile pour lever un doute sur le sol."
+        ],
+        [
+          "Bornage par géomètre-expert",
+          "Souvent de l'ordre de 1 000 à 3 000 € ou plus",
+          "Le prix dépend du nombre de limites, des voisins concernés et de la complexité du terrain."
+        ],
+        [
+          "Division parcellaire et formalités associées",
+          "De quelques milliers d'euros à davantage",
+          "Le coût augmente avec les études, le géomètre, les réseaux et un éventuel permis d'aménager."
+        ],
+        [
+          "Commission d'agence",
+          "Souvent exprimée en pourcentage du prix de vente",
+          "Elle est librement négociée ; vérifiez clairement qui en a la charge."
+        ],
+        [
+          "Frais d'acte",
+          "Le plus souvent supportés par l'acquéreur",
+          "La répartition peut être négociée, mais elle doit être écrite dans l'avant-contrat."
+        ]
+      ],
+      "note": "Demandez des devis lorsque le bornage, l'étude de sol ou une division conditionnent la vente. Ces dépenses peuvent aussi devenir des arguments de négociation."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Plus-value, TVA et impôts : anticipez le montant réellement encaissé",
+      "html": "<p>La vente d'un terrain peut générer une <strong>plus-value immobilière</strong> imposable. Le notaire la calcule généralement à partir du prix de cession, du prix et des frais d'acquisition, ainsi que de certains frais ou dépenses admissibles. Des abattements liés à la durée de détention peuvent s'appliquer : l'exonération n'obéit pas exactement aux mêmes délais pour l'impôt sur le revenu et les prélèvements sociaux.</p><p>Ne supposez pas qu'une exonération liée à la résidence principale s'applique automatiquement à un terrain vendu séparément de la maison. La TVA peut aussi intervenir dans des cas particuliers, notamment selon la qualité du vendeur et la nature de l'opération. Avant de fixer votre prix net vendeur, demandez une simulation à votre notaire ou à un professionnel compétent en fiscalité immobilière.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Vendre seul ou passer par un professionnel : quelle approche choisir ?",
+      "intro": "Dans tous les cas, le notaire reste indispensable pour signer l'acte authentique. La question est surtout de savoir qui vous accompagne pour l'estimation, la commercialisation et le filtrage des acquéreurs.",
+      "left": {
+        "title": "Vendre de particulier à particulier",
+        "points": [
+          "Vous gardez la maîtrise de l'annonce, des visites et de la négociation.",
+          "Vous évitez en principe la commission d'intermédiation.",
+          "Vous devez répondre vous-même aux questions techniques sur l'urbanisme, les limites et les réseaux.",
+          "Un dossier très complet est indispensable pour inspirer confiance et éviter les pertes de temps."
+        ]
+      },
+      "right": {
+        "title": "Vendre avec une agence ou un professionnel spécialisé",
+        "points": [
+          "Vous bénéficiez souvent d'une estimation locale et d'une diffusion plus large.",
+          "Le professionnel peut mieux qualifier les projets et la solvabilité des candidats.",
+          "Son expérience est utile pour valoriser les atouts et exposer les contraintes sans les minimiser.",
+          "La rémunération et la personne qui la supporte doivent être clairement prévues dès le mandat."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Cas particuliers et erreurs à éviter avant de mettre le terrain en vente",
+      "html": "<p>Un terrain issu d'une succession, détenu en indivision ou appartenant à une personne protégée demande des vérifications supplémentaires. Tous les vendeurs concernés doivent pouvoir signer, ou être valablement représentés. Pour une parcelle agricole ou forestière, les règles d'occupation, les baux ruraux et les droits de préemption éventuels méritent une attention particulière avant toute promesse.</p><p>Si vous vendez seulement une partie de votre propriété, ne commencez pas par publier une surface approximative. La division peut nécessiter l'intervention d'un géomètre-expert et une autorisation d'urbanisme. Il faut également résoudre l'accès du lot créé, les réseaux, les servitudes à instituer et la cohérence avec les règles de densité du PLU.</p><p>Les erreurs les plus coûteuses sont simples à éviter : confondre le cadastre avec un bornage, annoncer une viabilisation inexistante, omettre un droit de passage, négliger un risque connu ou signer avant d'avoir mesuré l'impact fiscal. Un dossier transparent ne diminue pas forcément la valeur de votre terrain ; il permet surtout de trouver un acheteur informé, capable d'aller au bout de son projet.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Le certificat d'urbanisme est-il obligatoire pour vendre un terrain ?",
+      "a_html": "<p>Il n'est pas systématiquement exigé pour que la vente soit juridiquement valable, mais il est <strong>très fortement recommandé</strong>. Il renseigne l'acquéreur sur les règles applicables et évite les malentendus sur la constructibilité.</p><p>Pour un terrain destiné à un projet de construction, un certificat d'urbanisme opérationnel est particulièrement utile. Il ne remplace toutefois pas un permis de construire.</p>"
+    },
+    {
+      "q": "Peut-on vendre un terrain non constructible ?",
+      "a_html": "<p>Oui. Un terrain agricole, naturel, forestier ou de loisirs peut être vendu. Il faut simplement le présenter avec exactitude et ne pas laisser croire qu'une maison peut y être construite si le document d'urbanisme ne le permet pas.</p><p>Son prix dépendra alors davantage de son usage autorisé, de son accessibilité, de sa surface, de sa qualité agronomique ou de son intérêt de loisir que du marché des terrains à bâtir.</p>"
+    },
+    {
+      "q": "Quels diagnostics faut-il fournir pour la vente d'un terrain nu ?",
+      "a_html": "<p>Il n'existe pas un diagnostic unique applicable à tous les terrains nus. L'ERP est fréquemment requis. Une étude géotechnique G1 doit être fournie pour certains terrains à bâtir situés en zone d'aléa moyen ou fort de retrait-gonflement des argiles.</p><p>Des informations complémentaires peuvent être nécessaires en cas de secteur d'information sur les sols, de pollution connue ou de contraintes particulières. Votre notaire vous indiquera les annexes adaptées à votre parcelle.</p>"
+    },
+    {
+      "q": "Qui paie le bornage d'un terrain avant la vente ?",
+      "a_html": "<p>Il n'existe pas de règle unique : le coût peut être assumé par le vendeur, partagé avec le voisin lors d'un bornage amiable ou négocié avec l'acquéreur. En pratique, le vendeur le finance souvent lorsqu'il veut sécuriser les limites ou lorsqu'il crée un lot par division.</p><p>Le bornage n'est pas obligatoire dans toutes les ventes, mais il est vivement conseillé si une limite est contestée, peu visible ou déterminante pour le projet de construction.</p>"
+    },
+    {
+      "q": "Puis-je vendre un terrain sans bornage ?",
+      "a_html": "<p>Oui, à condition que la vente décrive correctement le bien et que les limites ne fassent pas l'objet d'un litige. Le plan cadastral permet de l'identifier, mais il ne garantit pas la position exacte des frontières sur le terrain.</p><p>Si l'acquéreur envisage de bâtir près d'une limite, de clôturer ou si la surface est un critère déterminant du prix, un bornage préalable apporte une sécurité bien supérieure.</p>"
+    },
+    {
+      "q": "Comment est calculée la plus-value lors de la vente d'un terrain ?",
+      "a_html": "<p>La plus-value correspond, en principe, à la différence entre le prix de vente et le prix d'acquisition, après prise en compte de certains frais et dépenses admis par la réglementation. La durée de détention peut ouvrir droit à des abattements.</p><p>Le calcul exact dépend de votre acte d'achat, de votre situation et du régime fiscal applicable le jour de la vente. Demandez une estimation au notaire avant de vous engager sur un prix net vendeur.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour vendre votre terrain sereinement, préparez votre dossier avant de publier l'annonce : titre de propriété, urbanisme, limites, accès, réseaux, risques et fiscalité sont les vrais piliers d'une vente réussie. Plus les informations sont précises, plus l'acquéreur peut se projeter et moins la signature risque d'être retardée.</p><p>En cas de doute sur la constructibilité, le bornage, une division ou une plus-value, sollicitez votre notaire dès le début du projet. Cet échange en amont peut vous éviter des dépenses inutiles et vous aider à négocier sur des bases solides.</p>",
+  "__slug": "vendre-votre-terrain-quels-sont-les-documents-necessaires-pour-une-vente-reussie"
+}

@@ -1,0 +1,229 @@
+{
+  "title": "Comment créer un NFT : guide pas à pas pour débuter sans mauvaises surprises",
+  "meta_description": "Créer et vendre un NFT pas à pas : œuvre, portefeuille, blockchain, frais, droits d'auteur et conseils pour débuter sans mauvaises surprises.",
+  "reading_time_min": 9,
+  "hero_intro": "Créer un NFT ne consiste pas seulement à téléverser une image sur une plateforme : c'est publier un jeton unique sur une blockchain, avec des choix de droits, de coûts et de sécurité à la clé. Ce guide vous aide à comprendre le processus, à choisir les bons outils et à mettre votre première création en vente de façon réfléchie. L'objectif n'est pas de suivre une mode, mais de créer un projet cohérent et maîtrisé.",
+  "key_takeaways": [
+    "Un NFT est un jeton inscrit sur une blockchain : il peut attester d'une transaction et d'une provenance technique, mais ne transfère pas automatiquement le droit d'auteur sur l'œuvre.",
+    "Avant de créer votre NFT, préparez un fichier de qualité, une description claire, les preuves de votre création et une licence précisant les droits accordés à l'acheteur.",
+    "Le choix de la blockchain influence les frais, le public visé, le portefeuille à utiliser et les fonctionnalités de la marketplace.",
+    "Un mint peut être facturé immédiatement ou différé selon la plateforme : vérifiez toujours les frais affichés avant de signer une transaction.",
+    "Protégez votre phrase de récupération comme la clé de votre coffre-fort : personne de sérieux ne vous la demandera, même pas un support client."
+  ],
+  "toc": [
+    "Comprendre ce qu'est réellement un NFT",
+    "Préparer son œuvre et ses droits avant le mint",
+    "Choisir une blockchain adaptée à son projet",
+    "Fixer un prix ou lancer une enchère",
+    "Créer et publier son premier NFT pas à pas",
+    "Prévoir les frais réels d'une vente",
+    "Mettre son NFT en valeur et gérer l'après-vente"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre ce qu'est réellement un NFT",
+      "html": "<p>Un NFT, pour <em>non-fungible token</em> ou jeton non fongible, est un enregistrement numérique unique inscrit sur une blockchain. À la différence d'une cryptomonnaie, dont chaque unité est interchangeable, un NFT possède un identifiant propre et des métadonnées qui le distinguent. Il peut représenter une illustration, une photographie, une musique, une vidéo, un objet de jeu, un billet ou encore un certificat lié à un objet physique.</p><p>Dans la pratique, le NFT contient souvent un lien vers le fichier et des informations comme le titre, la description, les attributs ou le numéro de l'édition. Il ne faut donc pas confondre le jeton avec l'œuvre elle-même : le fichier peut être hébergé ailleurs, et le fait de posséder un NFT ne donne pas automatiquement le droit de reproduire, modifier ou exploiter commercialement l'œuvre.</p><p>La blockchain rend l'historique des transactions consultable et difficile à modifier. En revanche, elle ne vérifie pas à votre place que vous êtes bien l'auteur, que votre fichier est pérenne ou que votre projet intéressera des collectionneurs. Un NFT n'est ni une garantie de vente ni un raccourci vers des revenus : c'est un outil de propriété numérique et de traçabilité à utiliser avec intention.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel avant de vous lancer",
+      "points": [
+        "Ne mintez que des créations dont vous détenez les droits ou pour lesquelles vous avez une autorisation écrite.",
+        "Conservez le fichier original, ses versions de travail et les éléments prouvant la date de création.",
+        "Lisez les conditions de la marketplace : réseaux pris en charge, commission, frais, politique de royalties et formats acceptés.",
+        "Testez le parcours avec un NFT simple ou une transaction de faible montant avant un projet important.",
+        "Ne dépensez jamais plus que ce que vous êtes prêt à perdre en frais ou en cryptomonnaies volatiles."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Préparer son œuvre et ses droits avant le mint",
+      "html": "<p>Votre première décision est créative, pas technique. Choisissez une œuvre que vous avez réellement envie de défendre : une série d'illustrations, une photographie originale, une animation courte, une piste audio ou un objet utilitaire destiné à une communauté. Une collection cohérente, même modeste, est souvent plus lisible qu'une succession de fichiers sans fil conducteur.</p><p>Préparez un fichier propre dans le format exigé par la marketplace, puis gardez précieusement votre master en haute définition hors ligne ou dans un espace de sauvegarde fiable. Rédigez aussi les métadonnées : un titre mémorable, une description qui raconte l'intention, les caractéristiques utiles et, s'il y a lieu, le nombre d'exemplaires. Évitez les promesses vagues comme « investissement garanti » ou « rareté exceptionnelle » si elles ne reposent sur rien de vérifiable.</p><p>Le point juridique est central. Si vous créez un NFT à partir d'une image trouvée en ligne, d'une musique sous licence restrictive, d'un personnage protégé ou d'une photo d'une personne identifiable, vous vous exposez à des réclamations. Indiquez clairement ce que l'acheteur reçoit : le jeton seul, un droit d'affichage personnel, une licence commerciale limitée ou un avantage associé. En France comme ailleurs, le droit d'auteur naît généralement avec la création de l'œuvre ; sa cession doit être formulée avec précision.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quelle blockchain choisir pour créer un NFT ?",
+      "intro": "Il n'existe pas de meilleure blockchain universelle. Comparez surtout les frais, les habitudes de votre public et la compatibilité avec la marketplace que vous envisagez.",
+      "columns": [
+        "Blockchain ou réseau",
+        "Points forts",
+        "Points de vigilance",
+        "Pertinent pour"
+      ],
+      "rows": [
+        [
+          "Ethereum",
+          "Écosystème NFT très établi, grande visibilité, nombreux outils et collectionneurs.",
+          "Les frais peuvent aller de plusieurs euros à plusieurs dizaines d'euros selon l'activité du réseau ; concurrence importante.",
+          "Projets haut de gamme, collectionneurs déjà présents sur Ethereum."
+        ],
+        [
+          "Polygon",
+          "Frais généralement très faibles, compatible avec certaines grandes marketplaces, expérience accessible.",
+          "L'audience et les usages peuvent différer d'Ethereum ; vérifiez bien le réseau sélectionné avant chaque transaction.",
+          "Premiers essais, éditions accessibles, communautés recherchant des coûts réduits."
+        ],
+        [
+          "Tezos",
+          "Coûts souvent bas et communautés actives autour de l'art numérique.",
+          "Écosystème plus spécifique, plateformes et portefeuille parfois différents de vos habitudes.",
+          "Artistes souhaitant expérimenter avec un budget prudent."
+        ],
+        [
+          "Solana",
+          "Transactions rapides et frais habituellement faibles, écosystème créatif dynamique.",
+          "Nécessite un portefeuille et des outils compatibles ; les habitudes des acheteurs varient selon les plateformes.",
+          "Collections pensées pour l'écosystème Solana ou projets communautaires."
+        ]
+      ],
+      "note": "Les coûts dépendent fortement du moment, de la plateforme et de l'opération réalisée. Consultez toujours l'estimation affichée juste avant de valider."
+    },
+    {
+      "type": "comparison",
+      "heading": "Prix fixe ou enchère : quelle méthode de vente privilégier ?",
+      "intro": "Le bon mode de vente dépend de votre notoriété, du nombre d'exemplaires et de votre capacité à mobiliser une communauté au lancement.",
+      "left": {
+        "title": "Vente à prix fixe",
+        "points": [
+          "Simple à comprendre pour un premier NFT et plus prévisible pour l'acheteur.",
+          "Adaptée aux éditions multiples, aux petits budgets et aux créations dont vous connaissez la valeur de départ.",
+          "Permet de fixer un prix cohérent avec le temps de travail, les frais et les avantages associés.",
+          "Risque principal : un prix trop élevé peut laisser l'œuvre invisible ; un prix trop bas peut dévaloriser votre série."
+        ]
+      },
+      "right": {
+        "title": "Vente aux enchères",
+        "points": [
+          "Peut créer une dynamique si vous avez déjà une audience réellement intéressée.",
+          "Convient mieux à une pièce unique, une œuvre rare ou un lancement avec une histoire forte.",
+          "Exige une durée, un prix de départ et parfois un prix de réserve bien réfléchis.",
+          "Risque principal : sans acheteurs engagés, l'enchère peut se terminer sans offre ou à un montant décevant."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Créer et publier son premier NFT pas à pas",
+      "intro": "Les écrans changent d'une marketplace à l'autre, mais la logique reste très proche. Prenez votre temps à chaque validation : une transaction sur blockchain est rarement annulable.",
+      "steps": [
+        {
+          "title": "1. Définissez le projet et l'édition",
+          "html": "<p>Décidez si vous publiez une pièce unique ou plusieurs exemplaires numérotés. Notez le nom du projet, son univers, les éventuels avantages pour les détenteurs et les droits associés. Cette préparation évite les descriptions imprécises et les changements regrettés après publication.</p>"
+        },
+        {
+          "title": "2. Préparez le fichier et les métadonnées",
+          "html": "<p>Exportez le fichier au bon format et à la taille recommandée par la plateforme. Rédigez un titre, une description, les attributs éventuels et une mention de licence compréhensible. Gardez les fichiers sources, le master et vos preuves de création dans un dossier daté.</p>"
+        },
+        {
+          "title": "3. Choisissez le réseau et la marketplace",
+          "html": "<p>Sélectionnez une marketplace compatible avec la blockchain et le portefeuille que vous comptez utiliser. Vérifiez les formats pris en charge, les conditions de vente, la commission prélevée, la devise d'affichage et les éventuels frais de création ou de transfert.</p>"
+        },
+        {
+          "title": "4. Créez et sécurisez votre portefeuille",
+          "html": "<p>Installez un portefeuille reconnu et créez votre compte. Notez la phrase de récupération hors ligne, idéalement sur papier conservé en lieu sûr. Pour des montants significatifs, un portefeuille matériel peut apporter une protection supplémentaire. N'envoyez jamais cette phrase par message, photo ou e-mail.</p>"
+        },
+        {
+          "title": "5. Téléversez l'œuvre et mintez le NFT",
+          "html": "<p>Connectez votre portefeuille à la marketplace officielle, importez le fichier puis complétez les métadonnées. Le <em>mint</em> correspond à la création ou à l'enregistrement du jeton. Certaines plateformes proposent un mint différé : l'inscription effective sur la blockchain et les frais peuvent alors intervenir au moment de la vente.</p>"
+        },
+        {
+          "title": "6. Paramétrez la vente avec précision",
+          "html": "<p>Choisissez une vente à prix fixe ou aux enchères, la monnaie, la durée et le nombre d'exemplaires. Si la plateforme le permet, indiquez les royalties souhaitées, sans les considérer comme un revenu certain : leur application lors des reventes dépend des règles techniques et commerciales des plateformes utilisées.</p>"
+        },
+        {
+          "title": "7. Relisez, signez et conservez les références",
+          "html": "<p>Contrôlez le réseau, l'adresse de votre portefeuille, le prix, les droits annoncés et les frais avant de signer. Une fois publié, enregistrez l'URL de la fiche, l'identifiant du token et les données de transaction. Ils vous serviront pour le suivi, la communication et votre comptabilité.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention : le NFT ne remplace ni un contrat ni une vérification des droits",
+      "html": "<p>Créer un NFT d'une œuvre qui ne vous appartient pas peut entraîner un retrait de la plateforme, un litige ou une perte de confiance durable. De la même manière, l'achat d'un NFT ne vaut pas automatiquement cession du droit d'auteur. Si votre projet prévoit des droits commerciaux, une utilisation de marque, une contrepartie physique ou un partage de revenus, formalisez les conditions de façon claire et, pour un enjeu important, demandez conseil à un professionnel du droit.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Choisir une marketplace et soigner sa fiche de vente",
+      "html": "<p>Une marketplace est l'interface qui vous permet de créer, présenter et vendre votre NFT. Ne choisissez pas uniquement la plus connue : cherchez celle où votre public est déjà actif, qui prend en charge votre blockchain et dont le fonctionnement vous semble suffisamment clair. Certaines sont généralistes ; d'autres sont orientées art, musique, objets de collection ou jeux.</p><p>Votre fiche de vente doit répondre aux questions qu'un acheteur se pose en quelques secondes : qu'est-ce que cette œuvre, qui l'a créée, pourquoi est-elle singulière, combien d'exemplaires existent et quels droits sont inclus ? Une description précise inspire davantage confiance qu'un texte rempli de termes techniques. Si vous annoncez une édition de dix exemplaires, tenez-vous à cette règle ou expliquez publiquement toute évolution de votre projet.</p><p>Vérifiez également l'hébergement du média. Le token peut pointer vers un fichier hébergé par la marketplace, un service de stockage ou une infrastructure décentralisée. Quel que soit le choix technique, gardez une copie de vos fichiers et de vos métadonnées. La pérennité d'une œuvre dépend aussi de votre capacité à en conserver les éléments source, pas seulement de l'existence du token.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quel budget prévoir pour créer et vendre un NFT ?",
+      "intro": "Un NFT peut sembler gratuit à créer, mais plusieurs coûts peuvent apparaître avant, pendant ou après la vente.",
+      "columns": [
+        "Poste de dépense",
+        "Ordre de grandeur prudent",
+        "À vérifier avant de valider"
+      ],
+      "rows": [
+        [
+          "Création du portefeuille",
+          "Souvent gratuit.",
+          "La sécurité du dispositif ; un portefeuille matériel est un achat séparé et facultatif."
+        ],
+        [
+          "Achat de cryptomonnaie pour les frais",
+          "Variable selon le réseau et l'opération.",
+          "La devise native demandée, le montant nécessaire et les frais éventuels de conversion ou de retrait."
+        ],
+        [
+          "Mint ou inscription sur blockchain",
+          "De quelques centimes à plusieurs dizaines d'euros, parfois davantage sur un réseau encombré.",
+          "S'il s'agit d'un mint immédiat ou différé, et qui paie effectivement les frais."
+        ],
+        [
+          "Commission de marketplace",
+          "Souvent un pourcentage du prix de vente, selon la plateforme.",
+          "Le taux, les frais additionnels et le montant réellement reçu après vente."
+        ],
+        [
+          "Transfert, approbation ou retrait des fonds",
+          "Variable ; chaque opération peut entraîner des frais.",
+          "Le réseau utilisé, l'adresse de destination et le coût total affiché."
+        ]
+      ],
+      "note": "Les estimations affichées au moment de la signature font foi. N'approuvez pas une transaction que vous ne comprenez pas ou dont le coût vous paraît disproportionné."
+    },
+    {
+      "type": "prose",
+      "heading": "Mettre son NFT en valeur et gérer l'après-vente",
+      "html": "<p>La visibilité ne vient pas automatiquement parce qu'un NFT est publié. Partagez le contexte de votre création là où votre audience se trouve déjà : portfolio, réseau social adapté, newsletter, communauté artistique ou événement en ligne. Montrez des extraits du processus, expliquez l'intention et privilégiez une communication régulière plutôt qu'un discours de vente agressif.</p><p>Restez transparent sur ce que vous proposez. N'achetez pas vos propres œuvres pour simuler une demande, ne promettez pas une hausse de valeur et ne présentez pas un NFT comme un placement sûr. La confiance se construit avec une identité créative, une édition claire, des échanges respectueux et des informations vérifiables.</p><p>Après une vente, conservez les confirmations de transaction, les frais payés, les montants reçus et les éventuelles factures. Les conséquences fiscales et sociales dépendent de votre pays, de la régularité de l'activité et de la nature des revenus. Si vous vendez de manière suivie ou pour des montants importants, rapprochez-vous d'un expert-comptable ou d'un conseiller compétent en actifs numériques afin de déclarer votre activité correctement.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "La règle de sécurité qui évite la plupart des pertes",
+      "html": "<p>Votre phrase de récupération et votre clé privée donnent accès à votre portefeuille. Ne les communiquez jamais, même à une personne se présentant comme le support d'une plateforme. Tapez vous-même l'adresse du site, contrôlez l'URL avant de connecter votre portefeuille, lisez les autorisations demandées et méfiez-vous des messages urgents, cadeaux inattendus ou liens envoyés en privé.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on créer un NFT gratuitement ?",
+      "a_html": "<p>Vous pouvez parfois préparer et publier une fiche sans frais immédiats grâce au mint différé. Cela ne signifie pas qu'il n'y aura aucun coût : le mint, la vente, l'approbation ou le transfert peuvent générer des frais plus tard, payés par vous ou intégrés au parcours de l'acheteur selon la plateforme.</p><p>Avant de publier, vérifiez précisément à quel moment le NFT est inscrit sur la blockchain et quel portefeuille devra payer la transaction.</p>"
+    },
+    {
+      "q": "Faut-il avoir des compétences techniques pour créer un NFT ?",
+      "a_html": "<p>Non, les marketplaces actuelles rendent la création accessible sans savoir coder. En revanche, il faut comprendre quelques bases : différence entre réseau et portefeuille, frais de transaction, signature d'une opération et sécurité de la phrase de récupération.</p><p>Le plus prudent est de commencer par une création simple et un petit budget, afin de vous familiariser avec les étapes sans prendre de risque inutile.</p>"
+    },
+    {
+      "q": "Ai-je besoin de cryptomonnaie pour créer ou vendre un NFT ?",
+      "a_html": "<p>Souvent, oui : les frais de réseau se règlent généralement dans la cryptomonnaie native de la blockchain choisie. Certaines plateformes proposent un parcours avec mint différé ou des moyens de paiement plus simples, mais les conditions varient.</p><p>Ne transférez des fonds qu'après avoir contrôlé le réseau, l'adresse du portefeuille et les frais. Une erreur d'adresse ou de réseau peut être irréversible.</p>"
+    },
+    {
+      "q": "Puis-je transformer une photo en NFT ?",
+      "a_html": "<p>Oui, à condition d'être titulaire des droits sur la photo. Si elle représente une personne identifiable, un lieu privé, une œuvre protégée ou une marque, des autorisations complémentaires peuvent être nécessaires selon l'usage prévu et le pays concerné.</p><p>Le mint ne vous donne pas de droits supplémentaires sur une image : il enregistre seulement un token associé à votre publication.</p>"
+    },
+    {
+      "q": "Acheter un NFT donne-t-il le droit d'utiliser l'image librement ?",
+      "a_html": "<p>Non, pas par défaut. L'acheteur obtient le NFT, mais le droit d'auteur reste généralement à l'artiste, sauf cession ou licence explicite. Les droits autorisés doivent apparaître dans la description de la collection ou dans des conditions accessibles et compréhensibles.</p><p>Avant un achat, vérifiez notamment si l'utilisation commerciale, l'impression, la modification ou la création de produits dérivés sont permises.</p>"
+    },
+    {
+      "q": "Un NFT peut-il disparaître si une marketplace ferme ?",
+      "a_html": "<p>Le token inscrit sur la blockchain peut rester traçable tant que la blockchain fonctionne, mais la fiche de vente ou le fichier auquel il renvoie peut devenir moins accessible si son hébergement disparaît. C'est pourquoi les créateurs ont intérêt à archiver leurs fichiers, leurs métadonnées et les identifiants de transaction.</p><p>Pour un projet durable, renseignez-vous sur la manière dont le média est stocké et ne dépendez pas uniquement de l'interface d'une marketplace.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Créer un NFT est accessible, mais mérite autant de soin qu'une publication artistique ou commerciale classique. Commencez par une œuvre dont vous maîtrisez les droits, choisissez un réseau compatible avec votre budget, sécurisez votre portefeuille et décrivez honnêtement ce que l'acheteur reçoit.</p><p>Pour un premier essai, privilégiez la simplicité : une création originale, une édition claire, un prix raisonnable et des frais que vous avez vérifiés. Vous pourrez ensuite affiner votre stratégie, votre univers de collection et votre présence communautaire avec davantage de recul.</p>",
+  "__slug": "comment-creer-des-nfts-guide-complet-pour-debutants"
+}

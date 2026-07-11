@@ -1,0 +1,251 @@
+{
+  "title": "Fumée de voiture : comprendre les couleurs, réagir vite et réparer au bon prix",
+  "meta_description": "Fumée blanche, bleue ou noire à l’échappement : reconnaissez l’urgence, les causes probables et les bons gestes pour réparer votre voiture.",
+  "reading_time_min": 12,
+  "hero_intro": "Un nuage qui sort de l’échappement n’annonce pas toujours une panne grave : en hiver, il peut simplement s’agir de vapeur d’eau. Mais une fumée dense, persistante ou accompagnée d’une surchauffe, d’une odeur inhabituelle ou d’un voyant mérite une réaction rapide. Voici comment distinguer le normal de l’inquiétant, protéger votre moteur et préparer un diagnostic utile.",
+  "key_takeaways": [
+    "Une vapeur blanche fine qui disparaît rapidement à froid est souvent de la condensation ; une fumée blanche persistante avec baisse du liquide de refroidissement est urgente.",
+    "La fumée bleue évoque généralement de l’huile brûlée, tandis que la fumée noire traduit le plus souvent un excès de carburant ou un défaut d’admission d’air.",
+    "La couleur seule ne suffit pas : observez aussi l’odeur, le moment d’apparition, les voyants, la température moteur et les niveaux de fluides.",
+    "En cas de surchauffe, de voyant rouge ou de fumée épaisse sous le capot, immobilisez la voiture dans un endroit sûr et ne poursuivez pas le trajet.",
+    "Un diagnostic électronique aide à orienter la recherche, mais il doit être recoupé avec des contrôles mécaniques avant toute réparation coûteuse."
+  ],
+  "toc": [
+    "Fumée à l’échappement ou sous le capot : la première distinction",
+    "Identifier la fumée selon sa couleur, son odeur et son comportement",
+    "Fumée blanche : vapeur normale ou liquide de refroidissement brûlé ?",
+    "Fumée bleue et fumée noire : deux problèmes de combustion différents",
+    "Que faire immédiatement lorsque votre voiture fume ?",
+    "Les informations à relever pour un diagnostic fiable",
+    "Quel budget prévoir selon la cause ?",
+    "Diagnostic, réparation et erreurs à éviter",
+    "Prévenir le retour de la fumée moteur"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Fumée à l’échappement ou sous le capot : la première distinction",
+      "html": "<p>Avant d’interpréter une couleur, localisez précisément l’origine du phénomène. Une fumée ou une vapeur qui sort du <strong>pot d’échappement</strong> renseigne surtout sur ce qui se passe dans le moteur et dans le système antipollution. Une fumée qui s’échappe <strong>sous le capot</strong>, près d’une roue ou sous la voiture peut au contraire venir d’une fuite externe : huile projetée sur une pièce chaude, liquide de refroidissement qui s’évapore, courroie qui chauffe ou problème électrique.</p><p>Une légère vapeur blanche au démarrage, particulièrement par temps froid ou humide, est souvent normale. Les gaz d’échappement contiennent de l’eau issue de la combustion et de la condensation accumulée dans la ligne. Elle doit toutefois diminuer nettement une fois le moteur chaud. Si le panache reste épais après plusieurs kilomètres, que l’odeur est marquée ou que le moteur fonctionne mal, il faut considérer cela comme un symptôme à diagnostiquer.</p><p>Ne vous fiez pas uniquement à l’apparence vue dans le rétroviseur. Une fumée visible de nuit dans les phares, après une forte accélération, en montée ou au démarrage ne raconte pas la même histoire. Le contexte d’apparition est souvent aussi instructif que la couleur elle-même.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Arrêtez-vous sans attendre dans ces situations",
+      "html": "<p>Garez-vous dès que la sécurité le permet, coupez le moteur et demandez conseil à une assistance ou à un professionnel si vous observez une <strong>fumée épaisse sous le capot</strong>, un voyant rouge de température ou de pression d’huile, une aiguille de température anormalement haute, une odeur de brûlé intense, une perte nette de puissance ou un bruit mécanique inhabituel.</p><p>N’ouvrez jamais le bouchon du vase d’expansion lorsque le moteur est chaud : le circuit de refroidissement est sous pression et le liquide peut provoquer de graves brûlures. Attendez le refroidissement complet avant tout contrôle de niveau.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Couleur de la fumée : les premières pistes à connaître",
+      "intro": "Ce tableau donne des repères pratiques. Il ne remplace pas un diagnostic, car plusieurs défauts peuvent produire des symptômes proches.",
+      "columns": [
+        "Aspect observé",
+        "Cause possible",
+        "Indices qui orientent",
+        "Niveau d’urgence"
+      ],
+      "rows": [
+        [
+          "Vapeur blanche légère, surtout à froid",
+          "Condensation dans l’échappement",
+          "Disparaît en quelques minutes, pas de voyant ni de baisse de niveau",
+          "Surveillance simple"
+        ],
+        [
+          "Blanc dense et persistant",
+          "Liquide de refroidissement admis dans la combustion ou autre défaut du circuit",
+          "Odeur parfois douceâtre, niveau de liquide qui baisse, surchauffe, moteur irrégulier",
+          "Élevé : faites contrôler rapidement"
+        ],
+        [
+          "Bleu ou bleu-gris",
+          "Huile moteur brûlée",
+          "Consommation d’huile, odeur d’huile chaude, fumée après décélération ou accélération",
+          "Élevé à modéré selon l’importance"
+        ],
+        [
+          "Noir ou noir grisâtre",
+          "Mélange trop riche, manque d’air ou défaut d’injection",
+          "Surconsommation, perte de puissance, voyant moteur, suie à l’échappement",
+          "À diagnostiquer rapidement"
+        ],
+        [
+          "Gris avec odeur de brûlé",
+          "Cause variable : huile, carburant, transmission ou fuite externe",
+          "Moment d’apparition et emplacement indispensables",
+          "À faire examiner"
+        ],
+        [
+          "Fumée sous le capot",
+          "Fuite d’huile, de liquide de refroidissement ou problème électrique",
+          "Odeur forte, traces humides, température élevée",
+          "Élevé : immobilisez si elle est importante"
+        ]
+      ],
+      "note": "La teinte peut être difficile à apprécier : observez la fumée en plein jour et notez si elle persiste une fois le moteur à température."
+    },
+    {
+      "type": "prose",
+      "heading": "Fumée blanche : vapeur normale ou liquide de refroidissement brûlé ?",
+      "html": "<p>Le cas le plus fréquent et le moins préoccupant est la vapeur d’eau. Elle ressemble à un voile blanc léger, elle est plus visible par basse température et s’estompe progressivement lorsque la ligne d’échappement chauffe. De petites gouttes d’eau à la sortie du pot peuvent également être normales : elles ne signifient pas, à elles seules, que de l’eau est entrée dans le moteur.</p><p>En revanche, une fumée blanche <strong>épaisse et continue</strong> sur moteur chaud exige de la prudence. Elle peut signaler que du liquide de refroidissement atteint les cylindres et brûle avec le carburant. Un joint de culasse défaillant est une cause connue, mais ce n’est pas la seule : selon le moteur, une culasse fissurée, un échangeur ou un refroidisseur de vanne EGR endommagé peuvent aussi être en cause.</p><p>Contrôlez à froid le niveau du vase d’expansion et recherchez une évolution inhabituelle sur quelques jours, sans jamais dépasser le repère maximum. Un niveau qui baisse sans fuite visible au sol, une surchauffe, un chauffage d’habitacle irrégulier, des durites anormalement dures ou un moteur qui « broute » sont autant d’éléments à signaler au garage. Une pâte beige sous le bouchon d’huile peut apparaître avec de petits trajets et de la condensation ; elle ne suffit donc pas, isolément, à conclure à un joint de culasse.</p><p>Continuer à rouler avec une fuite de liquide de refroidissement interne peut mener à une surchauffe et à des dégâts moteur beaucoup plus coûteux. Mieux vaut faire réaliser sans tarder un contrôle de pression du circuit, une recherche de gaz de combustion dans le liquide de refroidissement et, si nécessaire, des mesures de compression adaptées au véhicule.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Fumée bleue ou noire : ne confondez pas huile et carburant",
+      "intro": "Ces deux fumées concernent la combustion, mais les contrôles et les réparations possibles ne sont pas les mêmes.",
+      "left": {
+        "title": "Fumée bleue ou bleu-gris : de l’huile est brûlée",
+        "points": [
+          "Elle peut apparaître au démarrage, après une longue descente ou lors d’une forte accélération.",
+          "Le niveau d’huile peut diminuer plus vite que prévu entre deux vidanges.",
+          "Les causes possibles incluent le reniflard, des joints de queue de soupape, des segments usés ou, sur un moteur turbo, un problème de turbocompresseur.",
+          "Une baisse très rapide du niveau d’huile ou une fumée soudaine et abondante justifie l’arrêt du véhicule."
+        ]
+      },
+      "right": {
+        "title": "Fumée noire : trop de carburant ou pas assez d’air",
+        "points": [
+          "Elle est souvent plus visible à l’accélération et peut s’accompagner de suie sur la sortie d’échappement.",
+          "Un filtre à air encrassé, un capteur défaillant, une fuite d’admission, un injecteur ou une vanne EGR peuvent être impliqués.",
+          "Sur diesel, le turbo, le débitmètre et le filtre à particules font aussi partie des éléments à examiner.",
+          "Une simple conduite sur autoroute ne « répare » pas un défaut ; elle peut seulement aider une régénération du filtre à particules si les conditions sont réunies."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Fumée bleue et fumée noire : comprendre les causes avant de réparer",
+      "html": "<p>La fumée bleue traduit en général la présence d’huile dans la chambre de combustion. Sur un véhicule kilométré, une légère consommation d’huile peut exister, mais elle ne doit pas être banalisée si elle augmente, si la fumée devient visible ou si le voyant d’huile s’allume. Un système de ventilation du carter encrassé peut parfois être une cause relativement accessible ; des segments de pistons usés ou une réfection du moteur représentent, eux, des interventions lourdes. Sur les moteurs suralimentés, le garage vérifiera aussi le turbo et ses conduits.</p><p>La fumée noire correspond le plus souvent à une combustion incomplète : le moteur reçoit trop de carburant par rapport à l’air disponible. Sur essence, le contrôle peut porter sur le filtre à air, les bougies, les bobines, les injecteurs, la sonde lambda et les capteurs moteur. Sur diesel, l’admission d’air, le débitmètre, la vanne EGR, les injecteurs, le turbo et le système de dépollution sont fréquemment explorés.</p><p>Un diesel moderne peut produire une odeur plus chaude ou des signes inhabituels lors de la régénération de son filtre à particules. Cela ne doit pas se traduire par un épais panache noir durable. Si un voyant moteur, un voyant de filtre à particules ou un mode dégradé apparaît, évitez les tentatives répétées de « décrassage » à haut régime : un diagnostic permettra de déterminer si une régénération forcée, un nettoyage professionnel ou une réparation préalable est nécessaire.</p><p>Dans tous les cas, n’ajoutez pas un produit miracle dans l’huile ou le carburant pour masquer un problème sérieux. Un additif peut parfois compléter un entretien dans le cadre recommandé par un professionnel, mais il ne répare ni une fuite de liquide de refroidissement, ni un turbo endommagé, ni une usure interne du moteur.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Que faire immédiatement lorsque votre voiture fume ?",
+      "intro": "Adoptez une méthode calme : elle limite les risques et évite de donner au mécanicien des informations trop vagues.",
+      "steps": [
+        {
+          "title": "Mettez-vous en sécurité",
+          "html": "<p>Réduisez votre allure, activez les feux de détresse si nécessaire et stationnez dans un lieu autorisé, loin de la circulation. Si la fumée vient du compartiment moteur ou devient très dense, coupez le contact. Ne poursuivez pas votre route pour « voir si cela passe ».</p>"
+        },
+        {
+          "title": "Observez sans démonter",
+          "html": "<p>Notez la couleur, l’épaisseur, l’odeur et la zone d’où sort la fumée. Regardez le tableau de bord : température, voyant moteur, voyant d’huile ou message d’alerte. Une photo ou une courte vidéo prise en sécurité peut aider le garage.</p>"
+        },
+        {
+          "title": "Laissez refroidir avant les vérifications simples",
+          "html": "<p>Une fois le moteur complètement froid, contrôlez les niveaux d’huile et de liquide de refroidissement selon le manuel du véhicule. Cherchez d’éventuelles traces fraîches sous la voiture. Ne vous glissez pas sous un véhicule seulement soutenu par un cric.</p>"
+        },
+        {
+          "title": "Décidez entre roulage prudent et remorquage",
+          "html": "<p>En présence d’un voyant rouge, d’une surchauffe, d’une baisse importante d’huile ou de liquide de refroidissement, d’un bruit anormal ou d’une fumée sous le capot, privilégiez l’assistance. Pour une vapeur légère qui disparaît à chaud sans autre symptôme, une surveillance peut être suffisante.</p>"
+        },
+        {
+          "title": "Prenez rendez-vous avec des éléments précis",
+          "html": "<p>Indiquez le modèle, le carburant, le kilométrage, les travaux récents et les circonstances : moteur froid ou chaud, accélération, démarrage, montée, embouteillage. Cela évite de remplacer des pièces au hasard.</p>"
+        }
+      ]
+    },
+    {
+      "type": "key_points",
+      "heading": "Les détails à communiquer au mécanicien",
+      "points": [
+        "La fumée sort-elle du pot d’échappement, du compartiment moteur ou d’une roue ?",
+        "Apparaît-elle au démarrage, au ralenti, à l’accélération, après une descente ou en permanence ?",
+        "Le niveau d’huile ou de liquide de refroidissement baisse-t-il ?",
+        "Y a-t-il une odeur d’essence, de gazole, d’huile brûlée, de plastique ou une odeur douceâtre ?",
+        "Quels voyants ou messages sont affichés, et la voiture a-t-elle perdu de la puissance ?",
+        "Un entretien, une vidange, un plein de carburant ou une réparation ont-ils précédé le symptôme ?"
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quel budget prévoir pour une réparation liée à la fumée ?",
+      "intro": "Les tarifs varient selon le moteur, l’accessibilité des pièces, la région et l’étendue du défaut. Ces fourchettes donnent un ordre de grandeur, diagnostic et main-d’œuvre compris dans de nombreux cas, mais un devis reste indispensable.",
+      "columns": [
+        "Intervention possible",
+        "Budget souvent constaté",
+        "Ce qu’il faut vérifier avant d’accepter"
+      ],
+      "rows": [
+        [
+          "Lecture des défauts et diagnostic initial",
+          "Environ 50 à 150 €",
+          "Demandez ce que comprend le contrôle : codes défaut, essai, inspection visuelle, mesures éventuelles."
+        ],
+        [
+          "Remplacement du filtre à air",
+          "Souvent 30 à 100 €",
+          "Vérifiez l’état de l’admission et le respect de l’intervalle d’entretien."
+        ],
+        [
+          "Capteur moteur ou sonde lambda",
+          "Souvent 150 à 450 €",
+          "Un code défaut doit être confirmé : le capteur peut être la conséquence d’un autre problème."
+        ],
+        [
+          "Nettoyage ou remplacement d’injecteur",
+          "De quelques centaines d’euros à plus de 1 000 € pour plusieurs injecteurs",
+          "Demandez le résultat des tests d’injection et la solution proposée pièce par pièce."
+        ],
+        [
+          "Intervention sur admission, EGR ou filtre à particules",
+          "Souvent 200 à 2 500 € selon nettoyage, réparation ou remplacement",
+          "Le diagnostic doit identifier la cause de l’encrassement, pas seulement traiter son effet."
+        ],
+        [
+          "Réparation de turbo",
+          "Souvent 800 à 2 500 € ou davantage",
+          "Le circuit d’huile et l’admission doivent être contrôlés pour éviter une récidive."
+        ],
+        [
+          "Joint de culasse ou réparation interne moteur",
+          "Généralement 1 500 à 4 000 € et parfois plus",
+          "Comparez le devis à la valeur du véhicule et exigez une confirmation du diagnostic."
+        ]
+      ],
+      "note": "Ces montants sont indicatifs pour la France et peuvent être nettement supérieurs sur certains véhicules ou lorsque plusieurs organes ont été endommagés."
+    },
+    {
+      "type": "prose",
+      "heading": "Diagnostic, réparation et erreurs à éviter",
+      "html": "<p>La prise OBD permet de lire des codes défaut enregistrés par le calculateur. C’est une aide précieuse, notamment pour l’injection, l’allumage, les capteurs ou la dépollution. Mais un code ne désigne pas toujours la pièce à remplacer : il indique souvent un circuit ou une valeur incohérente. Un professionnel sérieux le complète par un essai routier, des données en temps réel et des contrôles ciblés.</p><p>Pour une fumée blanche suspecte, le garage peut vérifier l’étanchéité du circuit de refroidissement, rechercher la présence de gaz d’échappement dans le liquide ou examiner les bougies et les cylindres. Pour une fumée bleue, il peut contrôler la consommation d’huile, la ventilation du carter, le turbo et l’état interne du moteur. Face à une fumée noire, la mesure d’air, la pression de suralimentation, l’injection et la dépollution sont des pistes habituelles.</p><p>Évitez trois erreurs coûteuses : continuer à rouler malgré une surchauffe, compléter indéfiniment les niveaux sans rechercher la fuite, et autoriser le remplacement successif de pièces sans explication. Demandez un devis écrit, la cause envisagée, les contrôles qui la justifient et les conséquences si la réparation est reportée. Si le montant approche ou dépasse la valeur de l’auto, un second avis peut être judicieux.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Prévenir le retour de la fumée moteur",
+      "html": "<p>Respectez les échéances de vidange avec une huile conforme aux préconisations du constructeur, remplacez les filtres au bon moment et surveillez les niveaux entre deux entretiens. Après un long stationnement, un démarrage bref ou de nombreux petits trajets, laissez occasionnellement le moteur atteindre sa température normale lors d’un trajet adapté, sans le brusquer à froid.</p><p>Pour les diesels équipés d’un filtre à particules, privilégiez régulièrement un trajet suffisamment long à régime stabilisé lorsque votre usage quotidien est très urbain. Si un voyant s’allume, consultez le manuel puis un professionnel plutôt que de multiplier les trajets forcés.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "Une fumée n’est pas un diagnostic, mais c’est un signal utile : plus vous décrivez précisément son apparition, plus la réparation a de chances d’être juste et rapide.",
+      "author": "Conseil pratique jaimerais.fr"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Est-ce normal que ma voiture fume blanc au démarrage ?",
+      "a_html": "<p>Oui, lorsqu’il fait froid ou humide, une fine vapeur blanche qui disparaît après quelques minutes peut être simplement de la condensation dans l’échappement. Elle doit s’atténuer clairement à mesure que le moteur chauffe.</p><p>Faites contrôler la voiture si la fumée reste épaisse à chaud, si le liquide de refroidissement baisse, si le moteur chauffe anormalement ou si un voyant apparaît.</p>"
+    },
+    {
+      "q": "Puis-je rouler avec de la fumée bleue à l’échappement ?",
+      "a_html": "<p>Il est déconseillé de rouler longtemps avec une fumée bleue, car elle indique généralement que le moteur brûle de l’huile. Le risque dépend de son importance et de la vitesse à laquelle le niveau d’huile baisse, mais un manque d’huile peut endommager gravement le moteur.</p><p>Vérifiez le niveau à froid selon le manuel. Si la fumée est abondante, apparaît soudainement ou s’accompagne d’un voyant d’huile, n’utilisez pas le véhicule et contactez une assistance.</p>"
+    },
+    {
+      "q": "Pourquoi ma voiture diesel fait-elle de la fumée noire à l’accélération ?",
+      "a_html": "<p>Une légère trace peut être plus visible lors d’une forte sollicitation sur certains diesels anciens, mais une fumée noire marquée ou répétée n’est pas normale. Elle peut venir d’un manque d’air, d’un défaut d’injection, d’une vanne EGR, d’un turbo, d’un débitmètre ou du système de filtration des particules.</p><p>Un filtre à air encrassé peut être une cause simple, mais évitez de conclure trop vite : une lecture des défauts et un contrôle de l’admission permettent de cibler la réparation.</p>"
+    },
+    {
+      "q": "La fumée grise est-elle grave ?",
+      "a_html": "<p>La fumée grise est moins facile à interpréter que le blanc, le bleu ou le noir. Selon son aspect et son odeur, elle peut évoquer de l’huile, du carburant mal brûlé ou parfois une fuite externe sur une pièce chaude.</p><p>Observez surtout sa provenance et les symptômes associés. Si elle est dense, persistante, odorante ou accompagnée d’une perte de puissance, faites examiner le véhicule rapidement.</p>"
+    },
+    {
+      "q": "Un diagnostic OBD suffit-il pour trouver la cause de la fumée ?",
+      "a_html": "<p>Non. Un lecteur OBD peut relever des codes défaut utiles et des anomalies de fonctionnement, mais il ne prouve pas à lui seul qu’une pièce est défectueuse. Un même code peut être provoqué par un câblage, une fuite, un capteur ou un problème mécanique.</p><p>Le bon diagnostic associe les codes à une inspection, des mesures et, si besoin, des essais spécifiques au moteur concerné.</p>"
+    },
+    {
+      "q": "Ma voiture fume sous le capot : puis-je ouvrir le capot ?",
+      "a_html": "<p>Arrêtez-vous d’abord dans un endroit sûr et coupez le moteur. Si de la fumée importante ou des flammes sont visibles, éloignez-vous du véhicule et appelez les secours. N’ouvrez pas immédiatement le capot : un apport d’air peut attiser un éventuel départ de feu.</p><p>En l’absence de flamme, attendez que le moteur refroidisse. Ne touchez pas aux éléments chauds et n’ouvrez jamais le bouchon du liquide de refroidissement à chaud.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Une voiture qui fume n’exige pas toujours une réparation lourde, mais elle mérite toujours une observation attentive. Une vapeur brève à froid est souvent normale ; une fumée persistante, colorée, odorante ou accompagnée d’un voyant doit en revanche être prise au sérieux.</p><p>Retenez la règle la plus sûre : protégez d’abord le moteur et les occupants, relevez les symptômes sans intervenir à chaud, puis demandez un diagnostic argumenté. Agir tôt peut transformer une panne coûteuse en entretien ciblé.</p>",
+  "__slug": "comprendre-et-reparer-la-fumee-de-votre-voiture-signes-et-solutions"
+}

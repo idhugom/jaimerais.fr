@@ -1,0 +1,212 @@
+{
+  "title": "Combien de kilos de raisin faut-il pour produire 1 litre de vin ?",
+  "meta_description": "Découvrez combien de kilos de raisin il faut pour faire 1 litre de vin, les écarts selon le style et une méthode simple pour calculer vos besoins.",
+  "reading_time_min": 9,
+  "hero_intro": "Pour produire 1 litre de vin fini, comptez le plus souvent entre 1,3 et 1,6 kg de raisins. Ce repère est très utile pour préparer une vinification maison, estimer une récolte ou comprendre ce qui se cache derrière une bouteille. Mais le chiffre exact dépend du raisin, du style de vin recherché, du pressurage et des pertes naturelles au chai.",
+  "key_takeaways": [
+    "Le repère le plus fiable pour un vin tranquille est d'environ 1,3 à 1,6 kg de raisins pour 1 litre de vin fini.",
+    "Pour éviter les mauvaises surprises, une vinification amateur gagne à prévoir 5 à 15 % de raisins supplémentaires.",
+    "Un vin blanc, rouge ou rosé ne se calcule pas de manière identique : le choix des jus, la macération et le pressurage font varier le rendement.",
+    "Le poids de raisin ne suffit pas à juger la qualité : un faible rendement à la vigne peut concentrer les raisins, sans garantir à lui seul un grand vin.",
+    "Pour 20 bouteilles de 75 cl, prévoyez généralement autour de 24 à 28 kg de raisins, selon votre rendement réel."
+  ],
+  "toc": [
+    "La réponse courte : le bon ratio raisin-vin",
+    "Les rendements à prévoir selon le type de vin",
+    "Pourquoi le poids de raisins varie autant",
+    "Vin blanc, rouge ou rosé : ce qui change au chai",
+    "Calculer la quantité de raisins pour votre projet",
+    "Les pertes à ne pas oublier avant la mise en bouteille",
+    "Rendement, qualité et prix : comment interpréter les chiffres",
+    "Les erreurs fréquentes lors d'une première estimation"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "La réponse courte : comptez 1,3 à 1,6 kg de raisins par litre",
+      "html": "<p>Il n'existe pas un chiffre universel, mais une estimation réaliste est simple : pour obtenir <strong>1 litre de vin prêt à boire ou à mettre en bouteille</strong>, il faut généralement <strong>entre 1,3 et 1,6 kg de raisins</strong>. Cela correspond à un rendement net d'environ 0,6 à 0,75 litre de vin par kilogramme de vendange.</p><p>Autrement dit, 100 kg de raisins ne se transforment pas automatiquement en 100 litres de vin. Après le foulage, le pressurage, la fermentation, le débourbage éventuel et les soutirages, une partie de la matière reste dans les rafles, les peaux, les pépins et les lies. Selon la méthode et le niveau d'exigence du vigneron, on récupère souvent <strong>60 à 75 litres de vin fini pour 100 kg de raisins</strong>.</p><p>Pour une bouteille standard de 75 cl, cela représente environ <strong>1 à 1,2 kg de raisins</strong>. En nombre de grappes, cela peut correspondre à cinq à huit grappes moyennes, mais ce repère varie fortement selon le cépage, la taille des baies et le millésime.</p><p>Si vous préparez votre première cuvée, ne visez pas le rendement théorique maximal. Il vaut mieux raisonner avec une hypothèse prudente, par exemple <strong>0,65 litre de vin fini par kilo de raisins</strong>, puis prévoir une petite marge.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel à retenir avant de faire vos calculs",
+      "points": [
+        "Base pratique : 1 litre de vin fini = environ 1,3 à 1,6 kg de raisins.",
+        "Base prudente pour un débutant : 1 kg de raisins = environ 0,65 litre de vin fini.",
+        "Une bouteille de 75 cl demande souvent autour de 1 à 1,2 kg de vendange.",
+        "Les jus écartés, les lies et les pertes de manipulation expliquent l'écart entre jus extrait et vin réellement embouteillé.",
+        "Les raisins très mûrs, passerillés ou botrytisés donnent moins de volume, mais davantage de concentration."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Combien de raisins prévoir selon le vin que vous souhaitez produire ?",
+      "intro": "Ces fourchettes sont des repères de planification pour du vin fini. Elles peuvent évoluer selon le cépage, l'état sanitaire de la vendange, le matériel et le niveau de sélection des jus.",
+      "columns": [
+        "Type de vin",
+        "Raisins à prévoir pour 1 litre",
+        "Pourquoi le rendement varie"
+      ],
+      "rows": [
+        [
+          "Vin blanc sec",
+          "Environ 1,25 à 1,55 kg",
+          "Le pressurage est rapide, mais les bourbes et les fractions de presse écartées réduisent le volume final."
+        ],
+        [
+          "Vin rosé",
+          "Environ 1,3 à 1,6 kg",
+          "Le résultat dépend de la méthode : pressurage direct, courte macération ou saignée."
+        ],
+        [
+          "Vin rouge",
+          "Environ 1,35 à 1,7 kg",
+          "La macération et la séparation du vin de goutte et du vin de presse influencent fortement la récupération."
+        ],
+        [
+          "Vin effervescent de base",
+          "Environ 1,3 à 1,6 kg",
+          "La sélection des jus et un pressurage doux peuvent limiter le volume retenu pour la cuvée."
+        ],
+        [
+          "Vin moelleux ou liquoreux",
+          "Souvent 1,8 kg et davantage",
+          "Les raisins concentrés ou partiellement séchés contiennent moins d'eau par kilogramme."
+        ],
+        [
+          "Vinification maison avec marge de sécurité",
+          "Environ 1,5 à 1,8 kg",
+          "Cette marge absorbe plus confortablement les pertes au pressurage et aux soutirages."
+        ]
+      ],
+      "note": "Il s'agit d'ordres de grandeur, non de normes réglementaires. Une mesure sur votre propre vendange reste toujours la plus fiable."
+    },
+    {
+      "type": "prose",
+      "heading": "Pourquoi un kilo de raisins ne donne-t-il pas toujours la même quantité de vin ?",
+      "html": "<p>Le premier facteur est la <strong>composition du raisin</strong>. Une baie pleine de pulpe et de jus ne réagit pas comme une petite baie à peau épaisse. Les pépins, les pellicules, la proportion de rafles et le niveau de maturité influencent tous la quantité de moût récupérable. Deux cépages récoltés au même poids peuvent donc donner des volumes différents.</p><p>Le <strong>millésime</strong> compte tout autant. Une année sèche peut produire des baies plus petites et plus concentrées, donc moins de jus par kilo. À l'inverse, des pluies proches des vendanges peuvent faire gonfler les baies et augmenter le volume de jus, parfois au détriment de la concentration ou de l'équilibre sanitaire.</p><p>Le rendement dépend aussi des choix du chai. Un pressurage énergique récupère davantage de liquide, mais il peut aussi extraire des composés plus rustiques, notamment dans les peaux et les pépins. Un vigneron qui privilégie la finesse peut volontairement ne conserver que les meilleurs jus. Il produit alors moins de vin, mais selon un cahier des charges qualitatif précis.</p><p>Enfin, il faut distinguer le <strong>jus obtenu juste après le pressurage</strong> du vin réellement disponible à la mise. Les dépôts se forment pendant la fermentation et l'élevage ; les soutirages permettent de les séparer du vin clair, avec une petite perte de volume à chaque étape.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Vin blanc ou vin rouge : faut-il vraiment plus de raisin ?",
+      "intro": "Le style de vin influence le calcul, mais il serait trop simpliste d'affirmer qu'un rouge demande systématiquement plus de raisins qu'un blanc. Tout dépend des jus que le vigneron choisit de conserver.",
+      "left": {
+        "title": "Pour un vin blanc",
+        "points": [
+          "Les raisins sont en général pressés rapidement afin de limiter le contact avec les peaux.",
+          "Le jus est souvent débourbé avant fermentation : une part des bourbes est retirée.",
+          "Un pressurage doux et la sélection des premières fractions peuvent réduire le volume retenu.",
+          "Le rendement peut être bon avec des raisins sains et juteux, mais il baisse si la sélection est exigeante."
+        ]
+      },
+      "right": {
+        "title": "Pour un vin rouge",
+        "points": [
+          "Le moût fermente avec les peaux, ce qui permet d'extraire couleur et tanins.",
+          "Le vin de goutte et le vin de presse peuvent être assemblés ou séparés selon le style voulu.",
+          "Les marcs retiennent une partie du liquide après décuvage, ce qui peut diminuer la récupération nette.",
+          "Une macération longue ou une vinification très sélective peut augmenter les pertes de volume."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "La méthode simple pour calculer votre quantité de raisins",
+      "intro": "Voici un calcul utilisable pour une micro-vinification, une vendange entre amis ou une estimation de récolte.",
+      "steps": [
+        {
+          "title": "Déterminez le volume de vin que vous voulez réellement obtenir",
+          "html": "<p>Multipliez le nombre de bouteilles par leur contenance. Par exemple, 20 bouteilles de 75 cl représentent <strong>15 litres</strong> de vin à mettre en bouteille.</p>"
+        },
+        {
+          "title": "Choisissez un rendement net prudent",
+          "html": "<p>Sans historique de votre matériel ou de votre cépage, retenez <strong>0,65 litre de vin fini par kilo de raisins</strong>. C'est une base raisonnable pour ne pas surestimer votre production.</p>"
+        },
+        {
+          "title": "Appliquez la formule",
+          "html": "<p>La formule est la suivante : <strong>poids de raisins = volume de vin visé ÷ rendement net estimé</strong>. Pour 15 litres avec un rendement de 0,65 litre par kilo : 15 ÷ 0,65 = environ 23 kg de raisins.</p>"
+        },
+        {
+          "title": "Ajoutez une marge adaptée",
+          "html": "<p>Ajoutez ensuite 5 à 15 % pour les pertes, les essais de dégustation, les soutirages ou une vendange moins juteuse que prévu. Dans cet exemple, prévoir <strong>24 à 26 kg</strong> est plus confortable que de s'arrêter à 23 kg.</p>"
+        },
+        {
+          "title": "Notez le résultat réel pour le millésime suivant",
+          "html": "<p>Pesez la vendange, mesurez les litres obtenus après pressurage puis les litres mis en bouteilles. Après une ou deux campagnes, vous disposerez de votre propre ratio, bien plus utile qu'une moyenne générale.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Exemple concret : 20 bouteilles de vin maison",
+      "html": "<p>Pour remplir 20 bouteilles de 75 cl, il vous faut 15 litres de vin fini. Avec une hypothèse prudente de 0,65 litre par kilo, comptez environ 23 kg de raisins. Avec une marge de 10 %, prévoyez <strong>environ 25 kg de vendange</strong>. Si vous visez un vin doux, si les raisins sont très concentrés ou si vous sélectionnez sévèrement les jus, augmentez encore cette réserve.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les pertes à ne pas oublier avant la mise en bouteille",
+      "html": "<p>Le calcul échoue souvent parce qu'il s'arrête au pressoir. Or, un moût fraîchement extrait contient des particules solides. En blanc et en rosé, le débourbage consiste à laisser ces matières se déposer puis à ne conserver que le jus plus clair. Cette étape est utile pour la qualité, mais elle réduit le volume disponible.</p><p>Pendant et après la fermentation, le vin repose sur des <strong>lies</strong>, c'est-à-dire des levures mortes et d'autres dépôts. Les soutirages, qui consistent à transvaser le vin clair en laissant le dépôt au fond, entraînent là encore une perte mesurée mais normale. Le remplissage des contenants, les prélèvements d'analyse et les fonds de cuve s'ajoutent au total.</p><p>Ne confondez pas non plus la quantité à embouteiller avec la quantité nécessaire pour <strong>remplir un fût</strong>. Lors d'un élevage en barrique, il faut régulièrement compléter le contenant pour limiter le contact du vin avec l'air : c'est l'ouillage. Ce besoin supplémentaire peut être significatif sur une petite production.</p><p>La bonne pratique consiste donc à définir votre objectif final dès le départ : souhaitez-vous 10 litres à déguster, 10 litres en bouteilles pleines, ou 10 litres après plusieurs mois d'élevage ? Le poids de raisins nécessaire ne sera pas exactement le même.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Trois repères chiffrés pour visualiser la production",
+      "items": [
+        {
+          "value": "1,3 à 1,6 kg",
+          "label": "de raisins pour obtenir, le plus souvent, 1 litre de vin fini"
+        },
+        {
+          "value": "1 à 1,2 kg",
+          "label": "de raisins environ pour une bouteille standard de 75 cl"
+        },
+        {
+          "value": "24 à 28 kg",
+          "label": "de raisins à prévoir généralement pour 20 bouteilles de 75 cl, marge incluse"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Rendement, qualité et prix : comment interpréter les chiffres",
+      "html": "<p>Dans le vocabulaire viticole, le mot <strong>rendement</strong> peut désigner deux réalités. Le ratio présenté ici relie le poids de raisins au volume de vin obtenu. À la vigne, on parle aussi de rendement en hectolitres par hectare. Ce dernier ne permet pas, à lui seul, de déduire le nombre de kilos de raisins nécessaires : il faudrait aussi connaître le tonnage récolté sur l'hectare.</p><p>Un rendement faible à la vigne est souvent associé à des raisins plus concentrés, car chaque pied porte moins de grappes. C'est un indicateur intéressant, mais pas un label de qualité automatique. La santé des raisins, la date de récolte, la précision du tri et les décisions de vinification comptent tout autant. À l'inverse, produire davantage n'implique pas forcément un mauvais vin si le vignoble est équilibré et bien conduit.</p><p>Sur le plan économique, moins de jus par kilo signifie qu'il faut davantage de matière première pour remplir les mêmes bouteilles. Pour un particulier, des raisins de cuve achetés en petite quantité peuvent coûter <strong>quelques euros par kilo</strong>, avec de très grands écarts selon la région, le cépage, le millésime, la certification et le conditionnement. À titre de budget, 25 kg achetés entre 2 et 5 € le kilo représentent environ 50 à 125 €, hors matériel, bouteilles et consommables.</p><p>Si vous achetez des raisins pour vinifier, privilégiez surtout une vendange fraîche, saine et transportée rapidement. Un raisin abîmé ou échauffé peut dégrader le résultat bien plus sûrement qu'une légère erreur de calcul sur le poids total.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L'erreur à éviter : chercher à extraire chaque dernier litre",
+      "html": "<p>Augmenter la pression pour gagner du volume n'améliore pas toujours le vin. Les dernières fractions de presse peuvent être plus riches en composés végétaux, amers ou astringents. Pour une cuvée soignée, il est souvent préférable de séparer les fractions, de les goûter et de décider ensuite d'un éventuel assemblage plutôt que de tout mélanger par réflexe.</p><p>Si vous envisagez de vendre du vin, renseignez-vous au préalable sur les obligations applicables : traçabilité, hygiène, déclarations, étiquetage et fiscalité. Produire pour sa consommation et commercialiser une boisson alcoolisée ne relèvent pas du même cadre.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les erreurs fréquentes lors d'une première estimation",
+      "html": "<p>La première erreur consiste à calculer uniquement à partir du volume de jus qui sort du pressoir. Ce volume est encourageant, mais il ne représente pas forcément le nombre de bouteilles que vous remplirez plusieurs semaines ou mois plus tard. Pensez toujours en <strong>vin fini</strong>.</p><p>La deuxième est d'utiliser un ratio trouvé en ligne sans l'adapter au projet. Un pressurage artisanal, des grappes très mûres, un tri sévère ou une cuve difficile à vider peuvent modifier sensiblement le résultat. Une fourchette est plus honnête qu'un chiffre annoncé au dixième de kilo près.</p><p>Enfin, ne raisonnez pas uniquement en quantité. Pour faire du bon vin, le moment des vendanges, le tri des grappes, la propreté du matériel, la maîtrise des températures et la protection contre l'oxydation ont souvent davantage d'impact que le fait d'obtenir un litre de plus ou de moins.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Combien de kilos de raisin faut-il pour faire une bouteille de vin de 75 cl ?",
+      "a_html": "<p>Comptez généralement <strong>entre 1 et 1,2 kg de raisins</strong> pour une bouteille de 75 cl de vin fini. Une estimation prudente se situe autour de 1,15 kg, surtout si vous tenez compte des pertes de pressurage, de fermentation et de soutirage.</p><p>Le chiffre peut être plus élevé pour un vin doux issu de raisins concentrés ou pour une cuvée produite avec une sélection stricte des meilleurs jus.</p>"
+    },
+    {
+      "q": "Avec 10 kg de raisins, combien de litres de vin peut-on produire ?",
+      "a_html": "<p>Avec 10 kg de raisins, vous pouvez espérer environ <strong>6 à 7,5 litres de vin fini</strong>, selon le cépage, la maturité, le pressurage et les pertes au chai. Pour une estimation simple et prudente, retenez environ 6,5 litres.</p><p>Cela correspond approximativement à huit ou neuf bouteilles de 75 cl, à condition de limiter les pertes et de disposer d'un matériel adapté aux petits volumes.</p>"
+    },
+    {
+      "q": "Combien de grappes faut-il pour produire une bouteille de vin ?",
+      "a_html": "<p>Il faut souvent compter <strong>cinq à huit grappes moyennes</strong> pour une bouteille de 75 cl. Ce nombre est très variable : certaines grappes pèsent moins de 100 g, tandis que d'autres dépassent largement 250 g.</p><p>Le poids reste donc un indicateur beaucoup plus précis que le nombre de grappes. Pour planifier une production, pesez idéalement quelques grappes représentatives de votre vigne.</p>"
+    },
+    {
+      "q": "Pourquoi les vins doux demandent-ils davantage de raisins par litre ?",
+      "a_html": "<p>Les raisins destinés à certains vins doux peuvent être récoltés très mûrs, passerillés ou affectés par la pourriture noble. Ils sont alors plus riches en sucre et en arômes, mais contiennent moins d'eau par kilogramme.</p><p>Le vigneron obtient donc moins de moût et, au final, moins de vin par kilo de vendange. Cette faible quantité participe souvent au coût plus élevé de ces vins.</p>"
+    },
+    {
+      "q": "Le vin rouge donne-t-il moins de vin que le vin blanc ?",
+      "a_html": "<p>Pas systématiquement. Le vin blanc est pressé rapidement, tandis que le vin rouge fermente avec les peaux puis est décuvé et pressé. Dans les deux cas, la quantité finale dépend surtout de la maturité des raisins, du matériel, de la pression appliquée et de la sélection des fractions de jus.</p><p>Un rouge très extrait ou élaboré avec une sélection exigeante peut donner moins de volume net. Mais un blanc produit avec un pressurage très doux et une forte sélection peut lui aussi avoir un rendement limité.</p>"
+    },
+    {
+      "q": "Peut-on calculer le nombre de bouteilles à partir du rendement en hectolitres par hectare ?",
+      "a_html": "<p>Oui, si vous connaissez le rendement exprimé en hectolitres par hectare : 1 hectolitre équivaut à 100 litres, soit environ 133 bouteilles de 75 cl. Un rendement de 50 hl/ha représente donc théoriquement environ 6 666 bouteilles de 75 cl par hectare.</p><p>En revanche, ce chiffre ne permet pas de connaître directement le poids de raisins requis sans savoir combien de tonnes de raisins ont été récoltées sur la même surface.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour retenir un chiffre simple, prévoyez <strong>1,3 à 1,6 kg de raisins pour 1 litre de vin fini</strong>. Si vous débutez ou si votre objectif est de remplir un nombre précis de bouteilles, partez plutôt sur une base prudente de 1,5 kg par litre, puis ajoutez une marge adaptée à votre méthode.</p><p>Le meilleur calcul reste celui que vous construirez à partir de vos propres vendanges : pesez, mesurez les volumes à chaque étape et notez les pertes. Vous transformerez rapidement une estimation générale en un repère fiable pour votre vigne, votre cépage et votre façon de vinifier.</p>",
+  "__slug": "calcul-precis-combien-de-kilogrammes-de-raisin-sont-necessaires-pour-produire-1-litre-de-vin"
+}

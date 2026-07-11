@@ -1,0 +1,225 @@
+{
+  "title": "Passer à la fibre optique : démarches, installation et choix de votre offre",
+  "meta_description": "Passer à la fibre optique : éligibilité, choix de box, installation, coûts et conseils pour profiter d'une connexion rapide et fiable chez vous.",
+  "reading_time_min": 9,
+  "hero_intro": "Vous aimeriez une connexion plus rapide, plus stable et capable de suivre tous les usages du foyer ? Passer à la fibre optique est souvent simple, à condition de vérifier l'éligibilité de votre adresse et de préparer l'installation. Voici comment choisir votre offre, comprendre le raccordement et éviter les mauvaises surprises, que vous viviez en maison ou en appartement.",
+  "key_takeaways": [
+    "L'éligibilité se vérifie à l'adresse exacte : un voisin raccordé ne signifie pas toujours que votre logement l'est aussi.",
+    "Pour une connexion fixe performante, privilégiez la fibre jusqu'au logement, aussi appelée FTTH, plutôt qu'une technologie intermédiaire.",
+    "Le rendez-vous d'installation est fréquemment inclus, mais des travaux inhabituels sur terrain privé ou dans le logement peuvent engendrer des frais.",
+    "Le débit annoncé par une offre ne suffit pas : la qualité du Wi-Fi, l'emplacement de la box et vos besoins réels comptent tout autant.",
+    "Locataire, vous pouvez demander le raccordement à la fibre ; dans une copropriété, le déploiement de l'immeuble relève généralement de démarches collectives."
+  ],
+  "toc": [
+    "Pourquoi passer à la fibre optique ?",
+    "Vérifier l'éligibilité et comprendre les technologies",
+    "Choisir une offre fibre adaptée à ses usages",
+    "Les étapes pour faire installer la fibre",
+    "Préparer le rendez-vous avec le technicien",
+    "Prix, frais et points à contrôler avant de souscrire",
+    "Après l'installation : profiter réellement du très haut débit"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi passer à la fibre optique ?",
+      "html": "<p>La fibre optique transporte les données grâce à un signal lumineux dans un câble très fin. À la maison, elle remplace progressivement les anciennes connexions utilisant le réseau téléphonique en cuivre. Son principal intérêt est d'offrir un débit élevé, généralement plus régulier lorsque plusieurs personnes utilisent internet en même temps.</p><p>Concrètement, la fibre rend plus confortables le télétravail avec visioconférences, les jeux en ligne, le visionnage de vidéos en haute définition, la sauvegarde de fichiers dans le cloud et les téléchargements volumineux. Elle apporte aussi, selon les offres, un meilleur débit montant : un avantage appréciable pour envoyer des photos, travailler à distance ou partager de gros documents.</p><p>Il ne faut toutefois pas attendre un miracle dans toutes les situations. Une box mal placée, des murs épais, un appareil ancien ou un Wi-Fi saturé peuvent limiter l'expérience. La fibre améliore la liaison entre le réseau et votre box ; elle ne corrige pas à elle seule tous les problèmes de couverture sans fil dans le logement.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Ce que la fibre change au quotidien",
+      "points": [
+        "Des débits qui peuvent atteindre plusieurs gigabits par seconde selon l'offre et l'équipement.",
+        "Une connexion mieux adaptée aux usages simultanés dans un foyer.",
+        "Un envoi de fichiers souvent bien plus rapide qu'avec une ligne ADSL classique.",
+        "Une latence généralement faible, utile pour les appels vidéo et le jeu en ligne.",
+        "Une technologie pérenne, alors que le réseau cuivre est progressivement fermé dans certaines zones."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Fibre, ADSL ou réseau mobile fixe : quelle connexion choisir ?",
+      "intro": "Avant de souscrire, vérifiez la technologie réellement disponible à votre adresse. Les intitulés commerciaux peuvent être proches, mais les performances et la stabilité diffèrent.",
+      "columns": [
+        "Solution",
+        "Comment elle arrive chez vous",
+        "Pour quels usages ?",
+        "Points de vigilance"
+      ],
+      "rows": [
+        [
+          "Fibre FTTH",
+          "La fibre va jusqu'à la prise optique du logement.",
+          "Télétravail intensif, foyer connecté, streaming, jeux, transferts lourds.",
+          "Éligibilité nécessaire et rendez-vous de raccordement à prévoir."
+        ],
+        [
+          "ADSL ou VDSL",
+          "Le dernier trajet utilise le réseau téléphonique en cuivre.",
+          "Usages basiques lorsque la fibre n'est pas encore disponible.",
+          "Débit très dépendant de la longueur et de l'état de la ligne."
+        ],
+        [
+          "Box 4G ou 5G fixe",
+          "La box se connecte au réseau mobile.",
+          "Solution d'attente ou habitat difficile à raccorder.",
+          "Qualité variable selon la couverture, la saturation et les règles de l'offre."
+        ],
+        [
+          "Fibre avec terminaison intermédiaire",
+          "Une partie du trajet final peut utiliser un autre support que la fibre.",
+          "Cas particuliers selon les réseaux locaux.",
+          "Demandez clairement si la fibre arrive bien jusqu'au logement."
+        ]
+      ],
+      "note": "Pour une offre fixe, le terme FTTH signifie que la fibre est déployée jusqu'à votre logement. C'est la solution à rechercher en priorité lorsqu'elle est disponible."
+    },
+    {
+      "type": "comparison",
+      "heading": "FTTH ou connexion cuivre : la différence qui compte",
+      "intro": "Les deux solutions donnent accès à internet, mais elles ne répondent pas aux mêmes contraintes techniques ni aux mêmes usages.",
+      "left": {
+        "title": "La fibre jusqu'au logement, ou FTTH",
+        "points": [
+          "Débit souvent très supérieur, y compris pour l'envoi de données.",
+          "Moins sensible à la distance entre le logement et le réseau.",
+          "Convient mieux à plusieurs écrans, appels et appareils connectés simultanément.",
+          "Nécessite une prise terminale optique et une box compatible."
+        ]
+      },
+      "right": {
+        "title": "ADSL ou VDSL sur cuivre",
+        "points": [
+          "Débit fréquemment plus limité et variable selon la ligne.",
+          "Peut suffire à un usage léger dans certaines situations.",
+          "Dépend fortement de la distance au central et de la qualité du cuivre.",
+          "Appelé à disparaître progressivement au profit d'autres réseaux selon les communes."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Vérifier l'éligibilité : la première démarche indispensable",
+      "html": "<p>Commencez par effectuer un test d'éligibilité sur les sites des fournisseurs d'accès à internet, avec votre adresse complète. Vous pouvez aussi consulter les informations publiques de couverture proposées par les autorités et les collectivités. Saisissez l'étage, le bâtiment ou le numéro de logement lorsqu'ils sont demandés : dans un même immeuble, les situations peuvent différer.</p><p>Le résultat peut indiquer que votre logement est déjà raccordable, qu'il est proche du raccordement ou qu'il faut attendre le déploiement. Si un opérateur vous annonce la fibre, demandez la nature précise de la connexion et les délais indicatifs de mise en service. Une adresse éligible n'implique pas forcément qu'une prise optique existe déjà dans votre appartement ou votre maison.</p><p>En appartement, l'immeuble doit avoir été équipé ou être en cours d'équipement. En maison individuelle, la fibre doit pouvoir rejoindre votre parcelle depuis un point de branchement situé à proximité. Un fourreau bouché, une gaine absente ou un accès difficile peuvent nécessiter une préparation supplémentaire avant le passage du technicien.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le câble fibre optique dans votre logement : ce qu'il faut savoir",
+      "html": "<p>Le technicien tire généralement un câble discret depuis le point de raccordement jusqu'à une <strong>prise terminale optique</strong>, souvent appelée PTO. C'est sur cette prise que sera branchée votre box fibre. Évitez de plier, pincer, tendre ou déplacer vous-même ce câble : il est plus délicat qu'un câble réseau classique et une courbure trop serrée peut dégrader le signal.</p><p>Réfléchissez à l'avance à l'emplacement souhaité de la PTO et de la box : près d'une prise électrique, dans une pièce centrale si possible, et sans l'enfermer dans un meuble métallique ou un placard fermé.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Choisir une offre fibre adaptée à vos besoins réels",
+      "html": "<p>Comparer les offres ne consiste pas seulement à retenir le débit maximal. Regardez le prix après la période promotionnelle, la durée d'engagement, les frais éventuels, le matériel fourni, le débit montant, les options de télévision et les conditions de résiliation. Un foyer qui regarde surtout la télévision et navigue occasionnellement n'a pas nécessairement besoin de l'offre la plus rapide.</p><p>En revanche, une famille avec plusieurs télétravailleurs, des joueurs en ligne ou des créateurs de contenus peut bénéficier d'un débit plus généreux, surtout en envoi. Vérifiez aussi la norme Wi-Fi de la box et la possibilité d'utiliser des répéteurs, un système Wi-Fi maillé ou des prises réseau Ethernet. Un abonnement très rapide reste bridé si vos appareils ne peuvent pas exploiter ce débit.</p><p>Les comparateurs peuvent aider à avoir une vue d'ensemble, mais lisez toujours les conditions de l'opérateur choisi. Portez une attention particulière au prix à partir du deuxième semestre ou de la deuxième année, aux frais de mise en service et à la restitution de la box en cas de départ.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Passer à la fibre optique en 6 étapes",
+      "intro": "Dans la plupart des cas, votre nouvel opérateur coordonne la souscription et le rendez-vous technique. Voici le parcours le plus simple.",
+      "steps": [
+        {
+          "title": "Testez votre adresse",
+          "html": "<p>Vérifiez l'éligibilité auprès de plusieurs fournisseurs. Notez la technologie indiquée, les débits annoncés, la date de disponibilité et l'éventuelle présence d'une prise optique.</p>"
+        },
+        {
+          "title": "Évaluez vos usages",
+          "html": "<p>Listez le nombre de personnes connectées, le télétravail, les jeux, la télévision et vos besoins d'envoi de fichiers. Cela vous aidera à choisir une gamme raisonnable plutôt qu'une offre surdimensionnée.</p>"
+        },
+        {
+          "title": "Comparez le coût total",
+          "html": "<p>Calculez le prix sur douze ou vingt-quatre mois, pas uniquement le tarif d'appel. Ajoutez les frais d'activation éventuels, les options et le coût de résiliation de votre ancien abonnement.</p>"
+        },
+        {
+          "title": "Souscrivez et choisissez le rendez-vous",
+          "html": "<p>Indiquez avec précision votre adresse, vos coordonnées et toute contrainte d'accès. Si vous changez d'opérateur, conservez votre numéro fixe seulement si cette option vous intéresse.</p>"
+        },
+        {
+          "title": "Préparez l'accès au logement",
+          "html": "<p>Assurez-vous qu'un adulte puisse accueillir le technicien. Dégagez les passages utiles, repérez les gaines existantes et prévenez le gardien ou le syndic si un accès aux parties communes est nécessaire.</p>"
+        },
+        {
+          "title": "Testez avant le départ du technicien",
+          "html": "<p>Vérifiez que la box se connecte, que vos services commandés fonctionnent et que la prise optique est installée à l'emplacement convenu. Conservez les documents et le matériel remis.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quel budget prévoir pour une installation et un abonnement fibre ?",
+      "intro": "Les montants varient selon l'opérateur, les promotions et la configuration du logement. Ces repères permettent de lire une offre avec plus de recul.",
+      "columns": [
+        "Poste de dépense",
+        "Ordre de grandeur habituel",
+        "À vérifier avant de valider"
+      ],
+      "rows": [
+        [
+          "Abonnement fibre d'entrée ou de milieu de gamme",
+          "Souvent autour de 25 à 45 € par mois hors promotion.",
+          "Évolution du tarif, engagement, débit et services inclus."
+        ],
+        [
+          "Offre avec options premium ou très haut débit",
+          "Souvent autour de 40 à 60 € par mois, parfois davantage.",
+          "Utilité réelle des services TV, répéteurs et débits proposés."
+        ],
+        [
+          "Mise en service ou activation",
+          "Parfois offerte, parfois facturée de quelques dizaines d'euros.",
+          "Conditions de remboursement, frais différés ou promotionnels."
+        ],
+        [
+          "Raccordement standard",
+          "Très souvent inclus dans l'offre lorsqu'il est techniquement simple.",
+          "Éventuels travaux exceptionnels, longue distance sur terrain privé ou gaine inutilisable."
+        ],
+        [
+          "Résiliation de l'ancien contrat",
+          "Souvent des frais fixes de quelques dizaines d'euros.",
+          "Prise en charge éventuelle par le nouvel opérateur et justificatifs demandés."
+        ]
+      ],
+      "note": "Demandez un récapitulatif contractuel avant de souscrire. Le raccordement final standard est couramment proposé sans surcoût, mais les cas complexes peuvent être traités différemment."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les erreurs qui retardent le raccordement",
+      "html": "<p>Ne choisissez pas au hasard l'emplacement de la prise optique : déplacer une installation après coup peut être plus compliqué. En maison, ne supposez pas qu'un câble pourra être enterré ou accroché sans fourreau accessible. En appartement, ne faites pas intervenir un prestataire dans les parties communes sans connaître les règles de l'immeuble.</p><p>Enfin, ne résiliez pas votre ancienne connexion trop tôt si vous dépendez d'internet pour travailler. Attendez que la fibre soit activée et testée, sauf si votre nouvel opérateur organise explicitement la transition.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Après l'installation : obtenir de bonnes performances dans toute la maison",
+      "html": "<p>Le test de débit effectué juste à côté de la box, avec un ordinateur relié en Ethernet, mesure surtout la qualité de la ligne fibre. Un test en Wi-Fi, depuis une chambre éloignée, mesure aussi les limites du réseau sans fil. Ces deux résultats peuvent donc être très différents sans que la fibre soit en cause.</p><p>Pour les appareils fixes importants, comme un ordinateur de bureau, une console ou un téléviseur, un câble Ethernet reste la solution la plus stable. Pour améliorer le Wi-Fi, placez la box en hauteur et à découvert, éloignée des objets métalliques et des appareils perturbateurs. Dans un grand logement, un kit Wi-Fi maillé ou des répéteurs bien positionnés peut être préférable à un seul répéteur installé dans une zone déjà mal couverte.</p><p>Gardez les identifiants et les équipements reçus, notamment en cas de changement d'opérateur. Si la connexion tombe après l'installation, vérifiez d'abord les voyants de la box et le branchement du cordon optique sans le forcer, puis contactez l'assistance de votre fournisseur. Ne nettoyez pas et ne démontez pas la prise optique vous-même.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment savoir si mon logement est éligible à la fibre optique ?",
+      "a_html": "<p>Faites un test avec votre adresse exacte auprès de plusieurs fournisseurs d'accès. Dans un immeuble, précisez le bâtiment, l'étage ou le numéro d'appartement si le formulaire le demande. Vous pouvez également consulter les cartes de couverture mises à disposition par les organismes publics et les collectivités.</p><p>Le résultat doit idéalement préciser si la fibre est disponible immédiatement, si le raccordement est en attente ou si le déploiement n'est pas encore arrivé à votre adresse.</p>"
+    },
+    {
+      "q": "Le passage à la fibre est-il gratuit ?",
+      "a_html": "<p>Le raccordement standard est souvent inclus par les opérateurs dans le cadre d'une souscription, mais ce n'est pas une règle absolue. Des frais de mise en service peuvent être facturés, puis parfois remboursés selon l'offre.</p><p>Des coûts peuvent aussi apparaître si des travaux particuliers sont nécessaires, par exemple pour remettre en état une gaine privée ou créer un cheminement complexe. Demandez ce qui est compris avant de fixer le rendez-vous.</p>"
+    },
+    {
+      "q": "Je suis locataire : puis-je demander la fibre dans mon appartement ?",
+      "a_html": "<p>Oui. Un locataire peut demander le raccordement de son logement. Dans une copropriété, l'équipement de l'immeuble dépend souvent d'une décision ou d'une convention gérée par le syndic, tandis que le raccordement de l'appartement se fait lors de la souscription.</p><p>Prévenez votre propriétaire par écrit si une démarche ou des travaux sont nécessaires. En pratique, le droit à la fibre limite les possibilités d'opposition, sauf motif légitime et sérieux, mais il est préférable de respecter le cadre de votre bail et de l'immeuble.</p>"
+    },
+    {
+      "q": "Combien de temps faut-il pour être raccordé à la fibre ?",
+      "a_html": "<p>Lorsque votre adresse est éligible et que le cheminement est prêt, l'installation peut être réalisée lors d'un unique rendez-vous. Le délai entre la commande et ce rendez-vous dépend surtout des créneaux disponibles et de l'opérateur.</p><p>Il peut être plus long si l'immeuble n'est pas encore équipé, si une autorisation est nécessaire ou si un problème technique est découvert sur une gaine, un poteau ou un accès privé.</p>"
+    },
+    {
+      "q": "Dois-je résilier mon abonnement ADSL avant de souscrire la fibre ?",
+      "a_html": "<p>Pas nécessairement. En cas de changement d'opérateur, le nouvel opérateur peut souvent proposer de prendre en charge la résiliation de l'ancien contrat et, si vous le souhaitez, la conservation de votre numéro fixe. Vérifiez ce point au moment de la commande.</p><p>Si vous restez chez le même fournisseur, le basculement est généralement plus simple. Dans tous les cas, évitez de couper votre ancien accès avant que la nouvelle connexion fonctionne, surtout si vous télétravaillez.</p>"
+    },
+    {
+      "q": "Pourquoi mon débit Wi-Fi est-il inférieur au débit de mon offre fibre ?",
+      "a_html": "<p>Le débit de l'offre correspond à la capacité de la ligne dans des conditions données, souvent avec une connexion filaire et un équipement compatible. En Wi-Fi, la distance, les murs, les réseaux voisins, la génération Wi-Fi de la box et celle de votre appareil réduisent fréquemment la vitesse mesurée.</p><p>Testez d'abord en Ethernet près de la box. Si la ligne est correcte, améliorez la couverture avec un meilleur emplacement, des bornes Wi-Fi maillées ou une liaison filaire pour les équipements les plus exigeants.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Passer à la fibre optique commence par une vérification précise de votre adresse, puis par le choix d'une offre cohérente avec votre foyer. Anticipez le parcours du câble, l'emplacement de la prise optique et le coût total de l'abonnement : vous éviterez l'essentiel des contretemps.</p><p>Une fois la ligne installée, soignez aussi votre réseau domestique. Une box bien placée, quelques connexions Ethernet et une couverture Wi-Fi adaptée transformeront le très haut débit promis en confort réel au quotidien.</p>",
+  "__slug": "cable-fibre-optique-comment-faire-pour-passer-a-la-fibre-optique"
+}

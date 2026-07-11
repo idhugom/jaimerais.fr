@@ -1,0 +1,177 @@
+{
+  "title": "Appellation du vin : comprendre les règles françaises et européennes",
+  "meta_description": "AOP, AOC, IGP, Vin de France : comprenez les appellations de vin, les règles européennes et les repères utiles pour mieux comprendre une étiquette de vin.",
+  "reading_time_min": 11,
+  "hero_intro": "Derrière les mots « AOP », « AOC » ou « IGP » se cache bien plus qu'un argument de vente : un cadre précis qui relie un vin à un territoire, à des pratiques et à un savoir-faire. Ces sigles peuvent aider à choisir une bouteille, à condition de savoir ce qu'ils garantissent vraiment... et ce qu'ils ne garantissent pas. Voici comment décrypter la législation française et européenne du vin sans vous perdre dans le jargon.",
+  "key_takeaways": [
+    "L'AOC est la reconnaissance française historique ; l'AOP est sa protection à l'échelle européenne pour les vins concernés.",
+    "Une AOP encadre fortement l'origine et les méthodes de production ; une IGP conserve un ancrage géographique avec davantage de liberté.",
+    "« Vin de France » désigne un vin sans indication géographique protégée : ce n'est pas un jugement de qualité.",
+    "Une appellation ne garantit pas qu'un vin vous plaira : elle renseigne d'abord sur son origine, son cahier des charges et son style potentiel.",
+    "Sur une étiquette, distinguez toujours l'origine protégée des labels environnementaux, des marques commerciales et des médailles."
+  ],
+  "toc": [
+    "Appellation, indication géographique : de quoi parle-t-on ?",
+    "AOC, AOP, IGP et Vin de France : la hiérarchie à connaître",
+    "AOP ou IGP : deux logiques, deux libertés",
+    "Comment l'Europe et la France protègent les noms de vins",
+    "Lire une étiquette de vin en cinq étapes",
+    "Labels bio, médailles et marques : ne pas tout confondre",
+    "Producteurs : comment respecter ou faire évoluer un cadre d'appellation",
+    "Bien choisir son vin sans se laisser enfermer par le sigle"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Appellation, indication géographique : de quoi parle-t-on ?",
+      "html": "<p>Dans le langage courant, on parle volontiers d'« appellation » pour désigner l'origine d'un vin. Juridiquement, le mot recouvre une réalité plus précise. Une <strong>appellation d'origine</strong> protège le nom d'un territoire lorsque les caractéristiques du vin sont liées à ce lieu et à des règles de production définies collectivement.</p><p>Le principe est simple : un nom comme Champagne, Chablis ou Côtes-du-Rhône ne peut pas être employé librement. Pour l'utiliser, le vin doit provenir de l'aire géographique autorisée et respecter le <strong>cahier des charges</strong> correspondant. Celui-ci peut fixer les cépages admis, les rendements, les pratiques viticoles, les règles de vinification, les degrés d'alcool ou encore les conditions de dégustation et de contrôle.</p><p>Ce système protège à la fois les consommateurs et les producteurs. Le consommateur dispose d'un repère sur l'origine et le style possible du vin ; les vignerons, eux, évitent qu'un opérateur extérieur profite indûment de la réputation construite par un territoire. Il ne faut toutefois pas y voir un classement absolu de la qualité : un vin conforme à une appellation peut ne pas correspondre à vos goûts, tandis qu'un excellent vin peut être commercialisé hors appellation.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel à retenir avant d'acheter",
+      "points": [
+        "Une appellation est un droit d'usage collectif, pas une marque appartenant à un seul domaine.",
+        "Chaque AOP et chaque IGP possède ses propres règles : il n'existe pas de recette unique du « bon vin d'appellation ».",
+        "Le cépage indiqué sur l'étiquette est utile, mais il ne remplace pas l'information sur l'origine et le producteur.",
+        "Le prix reflète aussi le millésime, la notoriété, le mode de culture, les volumes produits et la distribution, pas seulement le sigle.",
+        "Pour comparer deux bouteilles, regardez le nom du producteur, l'origine, le millésime et le style annoncé avant de vous fier à une médaille."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "AOC, AOP, IGP et Vin de France : la hiérarchie à connaître",
+      "html": "<p>La réglementation européenne organise les vins autour de grandes catégories. En France, la plus connue reste l'<strong>AOC</strong>, pour « Appellation d'Origine Contrôlée ». C'est la reconnaissance française historique, suivie notamment par l'Institut national de l'origine et de la qualité, l'INAO. À l'échelle de l'Union européenne, la protection correspondante est l'<strong>AOP</strong>, « Appellation d'Origine Protégée ».</p><p>Dans la pratique, pour les vins français, AOC et AOP sont donc étroitement liées : l'AOC exprime la reconnaissance nationale et l'AOP assure la protection du nom dans le cadre européen. Vous pourrez rencontrer l'un ou l'autre de ces termes sur les bouteilles, parfois les deux selon les choix d'étiquetage et les usages de la filière.</p><p>L'<strong>IGP</strong>, « Indication Géographique Protégée », constitue un autre niveau de reconnaissance. Elle atteste aussi d'un lien avec un territoire, mais son cahier des charges laisse généralement davantage de marge, notamment sur les assemblages, les cépages ou les techniques. Enfin, les vins sans indication géographique peuvent être vendus en France sous la dénomination <strong>Vin de France</strong>. Cette catégorie autorise des projets très libres, sans revendiquer une origine régionale protégée.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les catégories de vin françaises : ce qu'elles indiquent vraiment",
+      "intro": "Ces repères simplifient la lecture d'une bouteille. Ils ne constituent ni une note de qualité, ni une grille de prix officielle.",
+      "columns": [
+        "Catégorie",
+        "Ce que le nom protège",
+        "Niveau d'encadrement",
+        "Repère de prix en rayon"
+      ],
+      "rows": [
+        [
+          "AOP / AOC",
+          "Une origine précise et un cahier des charges territorial",
+          "Élevé : zone, pratiques et caractéristiques sont fortement définies",
+          "Souvent autour de 8 à 25 € et bien davantage pour des cuvées rares"
+        ],
+        [
+          "IGP",
+          "Un lien géographique reconnu et des règles propres à l'indication",
+          "Intermédiaire : davantage de liberté de cépage et de style selon l'IGP",
+          "Souvent autour de 6 à 15 €, avec de nombreuses exceptions"
+        ],
+        [
+          "Vin de France",
+          "Aucune origine régionale protégée ; la provenance nationale peut être indiquée",
+          "Plus souple : le vigneron peut élaborer une cuvée hors cahier des charges géographique",
+          "Souvent autour de 5 à 12 €, mais certaines cuvées artisanales coûtent bien plus"
+        ]
+      ],
+      "note": "Ces fourchettes sont de simples repères de distribution pour une bouteille de 75 cl. Elles varient fortement selon le domaine, le millésime, le circuit de vente et la rareté ; la catégorie juridique ne fixe aucun prix."
+    },
+    {
+      "type": "comparison",
+      "heading": "AOP ou IGP : deux logiques, deux libertés",
+      "intro": "Aucune de ces catégories n'est « meilleure » par nature. Elles répondent à des projets de vin différents et donnent au consommateur des indications distinctes.",
+      "left": {
+        "title": "Choisir ou comprendre une AOP",
+        "points": [
+          "Vous recherchez une origine très précise et un style souvent ancré dans une tradition locale.",
+          "Le cahier des charges encadre étroitement les cépages, les rendements et les pratiques autorisées.",
+          "Le vin peut refléter une typicité attendue, mais chaque domaine conserve sa signature.",
+          "C'est un repère pertinent pour découvrir une région, comparer des producteurs ou chercher une cuvée classique."
+        ]
+      },
+      "right": {
+        "title": "Choisir ou comprendre une IGP",
+        "points": [
+          "Vous cherchez une origine identifiable, avec une place plus grande accordée à l'innovation.",
+          "Les cépages sont souvent mis en avant, ce qui facilite le choix d'un sauvignon, d'un chardonnay ou d'une syrah.",
+          "Le producteur peut parfois s'affranchir de contraintes qui ne correspondent pas à son projet de cuvée.",
+          "C'est un bon terrain pour les vins de plaisir, les essais de cépages et les rapports qualité-prix variés."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Comment l'Europe et la France protègent les noms de vins",
+      "html": "<p>La protection des appellations et indications géographiques ne se limite pas à l'étiquette. Dans l'Union européenne, un nom enregistré ne doit pas être utilisé, imité ou évoqué de façon trompeuse pour un produit qui ne respecte pas ses conditions. L'objectif est d'empêcher qu'une dénomination reconnue devienne un simple argument commercial sans lien réel avec son territoire.</p><p>En France, l'INAO participe à la reconnaissance et à l'évolution des signes d'origine et de qualité. Les <strong>organismes de défense et de gestion</strong>, souvent appelés ODG, réunissent les acteurs d'une appellation ou d'une indication géographique. Ils contribuent à la rédaction du cahier des charges, à sa mise en œuvre et à la défense du nom. Les contrôles mobilisent ensuite des organismes habilités ainsi que les autorités compétentes en matière de concurrence et de répression des fraudes.</p><p>Pour le consommateur, cela se traduit par une étiquette encadrée. Selon le type de vin et le marché de vente, elle doit notamment mentionner des informations telles que le titre alcoométrique, le volume nominal, l'opérateur responsable ou l'embouteilleur, le numéro de lot et les allergènes, par exemple les sulfites. Les informations nutritionnelles et la liste des ingrédients peuvent aussi être accessibles par voie électronique, dans les conditions prévues par la réglementation. Ces mentions pratiques sont distinctes du nom d'appellation.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Lire une étiquette de vin en cinq étapes",
+      "intro": "Une méthode rapide pour faire un choix plus éclairé, chez un caviste comme en grande surface.",
+      "steps": [
+        {
+          "title": "Repérez la catégorie et le nom géographique",
+          "html": "<p>Cherchez la mention AOP, AOC, IGP ou Vin de France, puis le nom du territoire. Ne confondez pas une grande marque écrite en gros avec une appellation réellement protégée.</p>"
+        },
+        {
+          "title": "Identifiez qui a élaboré ou embouteillé le vin",
+          "html": "<p>Le nom du domaine, du vigneron, du négociant ou de l'embouteilleur donne un indice concret sur l'origine de la cuvée. C'est souvent plus utile qu'un slogan au dos de la bouteille.</p>"
+        },
+        {
+          "title": "Lisez le millésime et les cépages lorsqu'ils sont indiqués",
+          "html": "<p>Le millésime renseigne sur l'année de récolte. Le cépage peut orienter vos attentes, mais un assemblage ou un terroir peut compter tout autant dans le goût final.</p>"
+        },
+        {
+          "title": "Séparez les labels d'origine des labels environnementaux",
+          "html": "<p>Bio, certification environnementale, démarche de domaine ou médaille de concours n'ont pas le même rôle qu'une AOP ou une IGP. Chaque information répond à une question différente.</p>"
+        },
+        {
+          "title": "Reliez l'étiquette à votre occasion de dégustation",
+          "html": "<p>Un repas épicé, un apéritif, une garde en cave ou une bouteille à offrir n'appellent pas le même style. Demandez conseil en précisant votre budget, le plat et vos goûts plutôt qu'une appellation seule.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux confusions fréquentes",
+      "html": "<p><strong>« Mis en bouteille au château », « Vieilles vignes », « Réserve » ou « Cuvée prestige » ne sont pas des appellations.</strong> Certaines de ces mentions peuvent être encadrées ou informatives, mais elles ne confèrent pas automatiquement une origine protégée ni un niveau de qualité déterminé. De même, un logo bio atteste d'un mode de production encadré, pas de l'appartenance à une AOP ou à une IGP.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Producteurs : respecter une appellation ou lancer une cuvée hors cadre",
+      "html": "<p>Pour un vigneron, revendiquer une AOP ou une IGP suppose d'appliquer le cahier des charges du début à la fin : origine des raisins, cépages, conduite de la vigne, rendement, vinification, déclarations, traçabilité et contrôles prévus. Il ne suffit donc pas que les vignes soient situées près de la zone concernée. Chaque étape doit être compatible avec les règles de la dénomination revendiquée.</p><p>Lorsqu'un projet ne correspond pas à ces règles, le producteur peut choisir une autre catégorie autorisée, souvent une IGP plus adaptée ou un Vin de France. Cela peut être le cas d'un assemblage inhabituel, d'un cépage non admis, d'une parcelle située hors zone ou d'une méthode de vinification volontairement différente. Ce choix n'est pas nécessairement un recul : il peut permettre de créer une cuvée singulière, à condition de l'étiqueter loyalement.</p><p>Créer une nouvelle appellation ne se décide pas à l'échelle d'un domaine. Il faut démontrer collectivement l'existence d'une zone cohérente, d'une réputation ou de caractéristiques liées au milieu géographique, construire un cahier des charges et suivre une procédure longue auprès des instances compétentes françaises et européennes. Avant toute commercialisation, un accompagnement par l'ODG concerné, un conseiller spécialisé ou les services compétents reste indispensable : l'étiquetage du vin relève d'obligations précises.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "Une appellation raconte d'abord l'origine d'un vin ; le plaisir de le boire dépend ensuite du producteur, du millésime, du service et de vos propres goûts.",
+      "author": "Repère utile pour choisir sans préjugé"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la différence entre AOC et AOP pour le vin ?",
+      "a_html": "<p>L'<strong>AOC</strong> est la reconnaissance française historique d'une appellation d'origine contrôlée. L'<strong>AOP</strong> est la dénomination européenne, « appellation d'origine protégée », qui protège le nom dans l'Union européenne. Pour les vins français concernés, les deux notions sont liées : l'AOC s'inscrit dans le dispositif français et l'AOP dans le dispositif européen.</p><p>Sur une bouteille, la présence de l'une ou l'autre mention ne permet pas à elle seule de comparer deux vins. Il faut aussi regarder l'appellation précise, le producteur, le millésime et le type de cuvée.</p>"
+    },
+    {
+      "q": "Un vin IGP est-il moins bon qu'un vin AOP ?",
+      "a_html": "<p>Non. Une IGP est simplement soumise à un cadre géographique généralement plus souple qu'une AOP. Elle peut permettre à un producteur de valoriser un cépage, un assemblage ou une technique qui ne serait pas admis dans l'appellation locale.</p><p>Une AOP apporte un repère de typicité et d'origine plus strict ; une IGP peut offrir une grande créativité et d'excellents rapports qualité-prix. Le meilleur choix dépend de vos goûts, du producteur et de l'occasion.</p>"
+    },
+    {
+      "q": "Que signifie « Vin de France » sur une bouteille ?",
+      "a_html": "<p>« <strong>Vin de France</strong> » correspond à un vin français sans indication géographique protégée de type AOP ou IGP. Le vigneron ne revendique pas une origine régionale protégée sur l'étiquette, mais peut élaborer une cuvée avec une liberté plus importante dans le respect de la réglementation applicable.</p><p>Cette catégorie peut convenir à des assemblages originaux, à des cépages hors cahier des charges ou à des vins issus de raisins de plusieurs zones françaises. Elle ne signifie pas automatiquement « vin bas de gamme ».</p>"
+    },
+    {
+      "q": "Qui décide des règles d'une appellation de vin ?",
+      "a_html": "<p>Les règles sont fixées dans un <strong>cahier des charges</strong>, élaboré avec les professionnels de la zone concernée, notamment via l'organisme de défense et de gestion. En France, l'INAO joue un rôle central dans la reconnaissance et l'évolution des appellations et indications géographiques.</p><p>Les appellations d'origine et indications géographiques enregistrées bénéficient ensuite du cadre européen de protection. Les producteurs doivent se soumettre aux contrôles et obligations prévus pour pouvoir utiliser le nom protégé.</p>"
+    },
+    {
+      "q": "Un vin biologique est-il forcément AOP ou IGP ?",
+      "a_html": "<p>Non. La certification biologique concerne les règles de production agricole et de vinification applicables au bio ; elle ne définit pas une origine géographique protégée. Un vin bio peut être AOP, IGP ou Vin de France.</p><p>À l'inverse, un vin AOP ou IGP n'est pas nécessairement biologique. Pour bien comprendre une bouteille, lisez donc séparément la mention d'origine et les éventuels logos ou certifications environnementales.</p>"
+    },
+    {
+      "q": "Peut-on indiquer le cépage et le millésime sur tous les vins ?",
+      "a_html": "<p>Pas toujours dans les mêmes conditions. L'affichage du cépage et du millésime répond à des règles d'étiquetage qui varient selon la catégorie de vin et les mentions revendiquées. Les IGP et les vins sans indication géographique les utilisent fréquemment ; pour les appellations, l'identité du territoire prime souvent, même si certaines informations complémentaires peuvent apparaître.</p><p>Pour le consommateur, le cépage est un indice de style, pas une garantie de goût. Un même cépage peut donner des vins très différents selon le climat, le sol, le rendement et le travail du domaine.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Comprendre les appellations de vin permet de choisir avec plus de confiance, sans transformer chaque achat en examen de droit européen. Retenez surtout qu'une <strong>AOP ou une AOC</strong> met en avant un lien fort entre un vin et son terroir, qu'une <strong>IGP</strong> associe origine et liberté, et que <strong>Vin de France</strong> peut accueillir des cuvées créatives. Servez-vous de ces mentions comme d'une boussole, puis laissez le producteur, le millésime et votre curiosité guider votre verre.</p>",
+  "__slug": "appellation-vin-les-legislations-francaises-et-europeennes-en-matiere-de-vin"
+}

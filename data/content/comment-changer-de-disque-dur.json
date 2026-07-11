@@ -1,0 +1,212 @@
+{
+  "title": "Comment changer un disque dur : remplacer, cloner ou installer un SSD",
+  "meta_description": "Changer un disque dur par un SSD ou un modèle plus grand : compatibilité, sauvegarde, clonage, installation et démarrage, étape par étape.",
+  "reading_time_min": 12,
+  "hero_intro": "Votre ordinateur manque d'espace, démarre lentement ou affiche des signes de fatigue ? Remplacer son disque dur est souvent l'une des améliorations les plus utiles : un SSD peut transformer la réactivité d'un PC, tandis qu'un nouveau disque de grande capacité redonne de l'air à vos fichiers. Voici comment choisir le bon modèle, préserver vos données et réaliser l'opération sans mauvaise surprise.",
+  "key_takeaways": [
+    "Avant tout achat, vérifiez le format, l'interface et l'épaisseur compatibles avec votre ordinateur : 2,5 pouces SATA, 3,5 pouces SATA ou M.2 ne sont pas interchangeables.",
+    "Une sauvegarde indépendante est indispensable, même si vous prévoyez de cloner votre ancien disque.",
+    "Le clonage conserve Windows, vos logiciels et vos réglages ; une installation propre est souvent préférable si le système est instable ou encombré.",
+    "Un SSD SATA ou NVMe accélère nettement le démarrage et l'ouverture des applications par rapport à un disque dur mécanique.",
+    "Ne jetez pas l'ancien disque avant d'avoir démarré plusieurs fois sur le nouveau et vérifié vos fichiers importants."
+  ],
+  "toc": [
+    "Identifier le bon disque de remplacement",
+    "Clonage ou installation propre : quelle méthode choisir ?",
+    "Préparer vos données et le matériel",
+    "Changer un disque dur dans un PC fixe",
+    "Remplacer le stockage d'un ordinateur portable",
+    "Initialiser le nouveau disque et régler le démarrage",
+    "Résoudre les problèmes les plus fréquents",
+    "Recycler ou réutiliser l'ancien disque en sécurité"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Identifier le bon disque de remplacement",
+      "html": "<p>On dit volontiers « changer le disque dur », mais le remplacement consiste très souvent à installer un <strong>SSD</strong>. Contrairement au disque dur mécanique, le SSD ne possède pas de pièces mobiles : il est silencieux, plus résistant aux chocs et surtout bien plus rapide pour démarrer Windows, lancer les logiciels ou ouvrir des fichiers. Un disque dur classique reste toutefois pertinent pour stocker beaucoup de vidéos, de photos ou d'archives à faible coût.</p><p>Le point essentiel n'est pas seulement la capacité : votre nouveau support doit être <strong>physiquement et électroniquement compatible</strong> avec l'ordinateur. Dans un PC de bureau, on rencontre fréquemment des disques SATA de 3,5 pouces et des SSD SATA de 2,5 pouces. Les ordinateurs portables utilisent le plus souvent du 2,5 pouces SATA ou une petite carte M.2. Cette dernière peut fonctionner en SATA ou en PCIe/NVMe : un emplacement M.2 n'accepte pas automatiquement tous les SSD M.2.</p><p>Consultez le manuel du constructeur, la fiche technique précise de votre modèle ou ouvrez prudemment la trappe de maintenance lorsque c'est possible. Relevez la référence du disque actuel, le nombre d'emplacements disponibles et, pour un portable, l'épaisseur maximale acceptée. Si votre appareil est récent et totalement fermé, le stockage peut être soudé à la carte mère : dans ce cas, il ne peut pas être remplacé sans intervention spécialisée.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quel type de disque choisir ?",
+      "intro": "Ce tableau aide à distinguer les formats les plus courants avant de commander votre nouveau stockage.",
+      "columns": [
+        "Type de support",
+        "Où le trouve-t-on ?",
+        "Atouts et limites",
+        "Budget indicatif"
+      ],
+      "rows": [
+        [
+          "Disque dur 3,5 pouces SATA",
+          "PC fixe",
+          "Grande capacité, économique, mais plus lent et sensible aux chocs",
+          "Souvent 45 à 90 € pour 1 à 2 To"
+        ],
+        [
+          "SSD 2,5 pouces SATA",
+          "PC fixe et nombreux portables",
+          "Excellent rapport simplicité/vitesse ; limité par l'interface SATA",
+          "Souvent 55 à 130 € pour 1 à 2 To"
+        ],
+        [
+          "SSD M.2 SATA",
+          "Certains portables et PC fixes",
+          "Format compact ; vitesse proche d'un SSD SATA ; vérifier le protocole accepté",
+          "Souvent 60 à 140 € pour 1 à 2 To"
+        ],
+        [
+          "SSD M.2 NVMe",
+          "PC récents avec emplacement PCIe",
+          "Très rapide et compact ; compatibilité et dissipation thermique à contrôler",
+          "Souvent 65 à 160 € pour 1 à 2 To"
+        ]
+      ],
+      "note": "Les prix varient fortement selon la capacité, la marque, les promotions et l'endurance annoncée. Prévoyez une capacité au moins égale à l'espace réellement occupé si vous clonez votre disque."
+    },
+    {
+      "type": "comparison",
+      "heading": "Cloner l'ancien disque ou repartir de zéro ?",
+      "intro": "Les deux méthodes sont valables. Le bon choix dépend surtout de l'état de votre installation actuelle et du temps que vous souhaitez y consacrer.",
+      "left": {
+        "title": "Clonage du disque",
+        "points": [
+          "Recopie Windows, comptes, programmes, fichiers et réglages.",
+          "Solution pratique pour retrouver rapidement un environnement identique.",
+          "Nécessite que l'espace occupé tienne sur le nouveau disque.",
+          "Peut aussi transférer les lenteurs, erreurs ou logiciels inutiles de l'ancien système."
+        ]
+      },
+      "right": {
+        "title": "Installation propre",
+        "points": [
+          "Installe Windows ou votre système sur le nouveau disque, puis restaure vos documents.",
+          "Permet de repartir sur une base saine et de faire le tri.",
+          "Demande de réinstaller les logiciels et de retrouver certaines licences.",
+          "Souvent recommandée après des pannes, infections ou ralentissements persistants."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas clonage et sauvegarde",
+      "html": "<p>Un clonage copie l'état actuel de votre disque ; il ne protège pas vos fichiers contre une suppression ancienne, un rançongiciel déjà présent ou une erreur pendant la manipulation. Avant d'intervenir, copiez vos documents irremplaçables sur un disque externe, un autre ordinateur ou un service en ligne fiable. Vérifiez que cette copie s'ouvre réellement.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Préparer le changement de disque sans perdre vos données",
+      "intro": "Prenez le temps de préparer l'opération. Ces quelques vérifications évitent l'essentiel des erreurs.",
+      "steps": [
+        {
+          "title": "1. Faites l'inventaire de vos fichiers et de vos accès",
+          "html": "<p>Sauvegardez vos documents, photos, projets, favoris, mots de passe et éventuelles clés de récupération. Notez les logiciels indispensables et vérifiez que vous disposez de leurs identifiants ou licences. Si le disque est chiffré avec BitLocker ou une solution équivalente, conservez la clé de récupération avant toute modification matérielle.</p>"
+        },
+        {
+          "title": "2. Contrôlez l'état du disque actuel",
+          "html": "<p>Des lenteurs, des bruits inhabituels, des fichiers illisibles ou des erreurs de copie peuvent annoncer une défaillance. Dans ce cas, copiez d'abord les données les plus précieuses et évitez les opérations longues inutiles. Si le disque disparaît par moments, un clonage peut échouer : l'aide d'un professionnel devient parfois la solution la plus sûre.</p>"
+        },
+        {
+          "title": "3. Préparez le support de migration ou d'installation",
+          "html": "<p>Pour cloner un disque SATA, il faut généralement connecter le nouveau support en USB à l'aide d'un boîtier ou d'un adaptateur SATA-USB. Pour un SSD M.2, choisissez un boîtier correspondant précisément à son protocole SATA ou NVMe. Pour une installation propre, préparez une clé USB d'installation du système et assurez-vous de pouvoir vous connecter à Internet après le redémarrage.</p>"
+        },
+        {
+          "title": "4. Éteignez complètement l'ordinateur",
+          "html": "<p>Arrêtez le système, ne le laissez pas en veille. Débranchez l'alimentation et les périphériques. Sur un portable compatible, désactivez ou débranchez la batterie interne selon les consignes du fabricant. Travaillez sur une table dégagée, sans moquette si possible, et touchez une partie métallique reliée à la terre avant de manipuler les composants.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Changer un disque dur dans un PC fixe",
+      "html": "<p>Dans une tour, l'opération est généralement accessible. Retirez le panneau latéral du boîtier après avoir débranché le câble secteur. Repérez l'ancien disque : un modèle 3,5 pouces est souvent logé dans une cage à disques, tandis qu'un SSD 2,5 pouces peut être fixé sur un support plat. Prenez une photo des branchements avant de les retirer : elle vous servira de repère.</p><p>Un disque SATA possède deux connecteurs distincts : le <strong>câble de données SATA</strong>, plus étroit, relié à la carte mère, et le <strong>câble d'alimentation SATA</strong>, plus large, issu de l'alimentation. Débranchez-les sans tordre les prises, retirez les vis ou le système de fixation, puis installez le nouveau disque dans son berceau. Un SSD 2,5 pouces installé dans une baie 3,5 pouces peut nécessiter un adaptateur ; certains boîtiers proposent des fixations universelles.</p><p>Pour un SSD M.2, localisez l'emplacement horizontal sur la carte mère, parfois caché sous un dissipateur. Insérez la carte en biais, sans forcer l'encoche, rabattez-la doucement puis fixez-la avec la petite vis prévue. Replacez le dissipateur s'il y en a un. Sur les SSD NVMe rapides, ce dissipateur peut aider à maintenir de bonnes performances lors de longues copies.</p><p>Avant de refermer le boîtier, vérifiez qu'aucun câble ne gêne un ventilateur et que le disque est fermement maintenu. Rebranchez seulement l'écran, le clavier et l'alimentation pour effectuer un premier essai. Gardez l'ancien disque déconnecté au premier démarrage après un clonage : cela limite le risque de démarrer par erreur sur l'ancien système.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les gestes qui protègent votre matériel",
+      "points": [
+        "Utilisez un tournevis de taille adaptée : une vis abîmée complique vite l'intervention.",
+        "Tenez un SSD M.2 par les bords et évitez de toucher inutilement ses contacts dorés.",
+        "Ne forcez jamais un connecteur : l'encoche impose un sens d'insertion.",
+        "Conservez les vis dans un petit récipient et photographiez les étapes de démontage.",
+        "Sur un appareil encore sous garantie, vérifiez les conditions du fabricant avant d'ouvrir le châssis."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Remplacer le stockage d'un ordinateur portable",
+      "html": "<p>Sur un ordinateur portable, le niveau de difficulté varie énormément. Certains modèles disposent d'une trappe dédiée au disque, accessible après quelques vis. D'autres imposent de retirer toute la coque inférieure, voire le clavier, et les ultraportables les plus fins peuvent avoir un stockage non amovible. Cherchez la documentation de maintenance correspondant à la référence exacte de l'appareil, et non à une gamme approchante.</p><p>Après l'arrêt complet et le débranchement du chargeur, ouvrez la coque avec précaution à l'aide d'un outil plastique si nécessaire. Les clips se cassent facilement lorsqu'on les force. Débranchez la batterie interne en premier lorsqu'elle est accessible et que la procédure du fabricant le prévoit. Retirez ensuite l'ancien SSD ou disque de son logement ; certains disques 2,5 pouces sont montés dans un berceau métallique ou reliés par une nappe fragile.</p><p>Installez le nouveau support dans le même sens et avec les mêmes entretoises. Dans un logement M.2, la longueur du module doit aussi correspondre : le format le plus répandu est 2280, soit 22 mm de large et 80 mm de long, mais il en existe d'autres. Refermez sans serrer excessivement les vis, puis lancez un premier démarrage avant de remettre tous les patins ou caches éventuels.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Des repères utiles avant de vous lancer",
+      "items": [
+        {
+          "value": "10 à 30 min",
+          "label": "temps souvent nécessaire pour remplacer un disque accessible dans une tour, hors transfert de données"
+        },
+        {
+          "value": "1 à plusieurs heures",
+          "label": "durée possible d'un clonage, selon le volume copié, l'état de l'ancien disque et la connexion USB"
+        },
+        {
+          "value": "2,5 pouces",
+          "label": "format courant des SSD SATA et des disques de nombreux ordinateurs portables"
+        },
+        {
+          "value": "2280",
+          "label": "format M.2 très répandu : vérifiez toutefois toujours la longueur et le protocole compatibles"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Initialiser le nouveau disque et régler le démarrage",
+      "html": "<p>Si vous avez effectué un clonage, déconnectez l'ancien disque ou placez le nouveau en première position dans l'ordre de démarrage du BIOS ou de l'UEFI. Au premier lancement, le système peut prendre un peu plus de temps à détecter le matériel. Une fois Windows démarré, vérifiez la présence de vos dossiers, ouvrez quelques logiciels et redémarrez au moins une fois avant d'effacer quoi que ce soit sur l'ancien support.</p><p>Avec une installation propre, démarrez sur la clé USB d'installation. Lors du choix du disque, identifiez-le soigneusement grâce à sa capacité. Supprimez uniquement les partitions du <strong>nouveau disque cible</strong> si vous souhaitez repartir de zéro, puis laissez l'installateur créer les partitions nécessaires. Évitez de laisser l'ancien disque connecté pendant cette étape : une erreur d'identification est vite arrivée.</p><p>Si le nouveau disque sert seulement de stockage, il doit être initialisé dans l'outil de gestion des disques du système. Créez un volume, attribuez-lui une lettre et formatez-le, généralement en NTFS sous Windows. Un disque de plus de 2 To doit en principe être initialisé en GPT pour exploiter toute sa capacité. N'oubliez pas d'activer ensuite vos sauvegardes régulières sur ce nouveau volume.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Conservez l'ancien disque quelques semaines",
+      "html": "<p>Ne le formatez pas le jour même. Rangez-le dans un boîtier externe ou une pochette antistatique et gardez-le intact jusqu'à ce que vous ayez confirmé que tout fonctionne : fichiers, messagerie, jeux, imprimante, logiciels professionnels et sauvegardes. Il pourra ensuite devenir un disque externe de secours s'il est en bon état.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Résoudre les problèmes les plus fréquents après le remplacement",
+      "html": "<p>Le PC ne voit pas le nouveau disque ? Vérifiez d'abord son apparition dans le BIOS ou l'UEFI. Pour un disque SATA, contrôlez les deux câbles et essayez un autre port SATA ou un autre câble si vous en avez un. Pour un M.2, confirmez que le port accepte bien le protocole du SSD : un module NVMe et un module M.2 SATA se ressemblent, mais ne dialoguent pas nécessairement avec le même emplacement.</p><p>Le disque est visible mais Windows ne démarre pas ? Contrôlez l'ordre de démarrage et, après clonage, assurez-vous que la partition de démarrage a bien été copiée. Une réparation du démarrage depuis la clé d'installation peut aider. Si le clonage a été réalisé vers un disque plus petit, il faut que les données réellement occupées, partitions comprises, puissent tenir sur la destination ; réduisez la partition avant de recommencer si nécessaire.</p><p>Enfin, une capacité affichée inférieure à celle annoncée n'indique pas forcément une panne. Les fabricants et les systèmes n'emploient pas toujours la même unité de calcul, et des partitions de récupération peuvent occuper une petite part de l'espace. En revanche, des clics répétés sur un disque mécanique, des erreurs de lecture ou des gels fréquents imposent de sauvegarder immédiatement et de cesser les manipulations risquées.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Réutiliser ou recycler l'ancien disque en sécurité",
+      "html": "<p>Un ancien disque encore sain peut devenir un support externe pratique grâce à un boîtier USB adapté à son format. Il peut accueillir des sauvegardes locales, une bibliothèque multimédia ou des fichiers peu sensibles. En revanche, ne lui confiez pas votre unique copie de documents importants, surtout s'il a déjà montré des signes de faiblesse.</p><p>Avant de vendre, donner ou déposer un disque au recyclage, effacez vos données de manière adaptée. Un simple formatage ne garantit pas toujours l'impossibilité de récupération. Pour un disque fonctionnel, utilisez un effacement sécurisé proposé par le fabricant ou le système. Pour un support défaillant contenant des informations sensibles, privilégiez un prestataire de destruction ou de recyclage capable de traiter les équipements informatiques. Ne jetez jamais un disque avec les déchets ménagers.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Puis-je remplacer un disque dur par un SSD sans réinstaller Windows ?",
+      "a_html": "<p>Oui. Le clonage permet de recopier votre système, vos applications et vos fichiers vers le SSD. Le nouveau support doit disposer d'assez d'espace pour les données occupées, et il est prudent de sauvegarder vos fichiers avant de lancer l'opération.</p><p>Après le clonage, démarrez de préférence avec l'ancien disque débranché afin de vérifier que l'ordinateur utilise bien le SSD.</p>"
+    },
+    {
+      "q": "Comment savoir si mon ordinateur accepte un SSD NVMe ?",
+      "a_html": "<p>Vérifiez la documentation technique de votre modèle ou de votre carte mère. Il faut un emplacement M.2 compatible PCIe/NVMe ; un emplacement M.2 compatible uniquement SATA ne suffit pas. La longueur physique du SSD, par exemple 2280, doit aussi être acceptée.</p><p>En cas de doute, un SSD 2,5 pouces SATA est souvent l'option la plus simple sur les machines équipées d'une baie SATA, mais il n'est pas compatible avec tous les ultraportables.</p>"
+    },
+    {
+      "q": "Faut-il changer les câbles quand on remplace un disque SATA ?",
+      "a_html": "<p>Pas obligatoirement : les câbles SATA de données et d'alimentation existants peuvent être réutilisés s'ils sont en bon état et correspondent au nouvel emplacement. Toutefois, un câble de données neuf peut être utile si le disque n'est pas détecté ou si le câble paraît plié, lâche ou endommagé.</p>"
+    },
+    {
+      "q": "Pourquoi le nouveau disque n'apparaît-il pas dans l'Explorateur de fichiers ?",
+      "a_html": "<p>Un disque neuf doit souvent être initialisé, partitionné, formaté et recevoir une lettre de lecteur avant d'apparaître dans l'Explorateur. Consultez l'outil de gestion des disques de votre système. S'il n'y apparaît pas non plus, vérifiez les branchements et sa détection dans le BIOS ou l'UEFI.</p>"
+    },
+    {
+      "q": "Quel budget prévoir pour faire remplacer un disque dur ?",
+      "a_html": "<p>Le support représente souvent l'essentiel du coût : comptez généralement de 55 à 130 € pour un SSD SATA de 1 à 2 To et de 65 à 160 € pour un SSD NVMe de capacité similaire, selon la gamme. Un boîtier ou adaptateur USB pour le clonage ajoute souvent 15 à 35 €.</p><p>Avec une intervention en atelier, la main-d'œuvre, le clonage ou la réinstallation peuvent augmenter la facture. Demandez si la sauvegarde, la migration des données et les tests sont inclus dans le devis.</p>"
+    },
+    {
+      "q": "Est-il possible de mettre un disque plus grand que l'ancien ?",
+      "a_html": "<p>Oui, et c'est même une raison fréquente de remplacement. La limite dépend surtout de l'interface compatible, de la place physique disponible et, sur des matériels très anciens, du BIOS. Une fois le système cloné ou installé, vous devrez étendre ou créer les partitions pour utiliser l'espace supplémentaire.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Changer un disque dur n'est pas seulement une réparation : c'est souvent l'occasion de rendre un ordinateur plus agréable et de mieux organiser ses données. La réussite repose sur trois réflexes simples : <strong>vérifier la compatibilité</strong>, <strong>sauvegarder avant toute manipulation</strong> et <strong>tester le nouveau disque avant d'effacer l'ancien</strong>.</p><p>Pour la plupart des utilisateurs, passer d'un disque dur mécanique à un SSD compatible apporte le gain le plus perceptible au quotidien. Avancez méthodiquement, n'hésitez pas à consulter la documentation de votre modèle, et confiez l'opération à un professionnel si le stockage est soudé, si les données sont critiques ou si l'ancien disque commence à défaillir.</p>",
+  "__slug": "comment-changer-de-disque-dur"
+}

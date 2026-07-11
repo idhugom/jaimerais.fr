@@ -1,0 +1,222 @@
+{
+  "title": "Comment supprimer des messages Facebook et Messenger, sans se tromper",
+  "meta_description": "Supprimer un message ou une conversation Facebook Messenger : étapes sur mobile et ordinateur, limites, archivage, blocage et confidentialité.",
+  "reading_time_min": 9,
+  "hero_intro": "Un message envoyé trop vite, une discussion devenue encombrante ou un échange que vous préférez ne plus voir : Messenger permet de faire le tri. Mais supprimer un message pour soi, le retirer pour tout le monde ou effacer une conversation entière ne produit pas le même résultat. Voici comment choisir la bonne action et protéger votre tranquillité numérique.",
+  "key_takeaways": [
+    "Retirer un message « pour tout le monde » peut le faire disparaître de la conversation des participants, mais ne supprime ni captures d'écran ni copies déjà réalisées.",
+    "Supprimer une conversation entière nettoie uniquement votre boîte de réception : l'autre personne conserve généralement ses propres messages.",
+    "L'archivage masque une discussion sans l'effacer et reste préférable si vous pensez vouloir la retrouver plus tard.",
+    "Sur mobile comme sur ordinateur, les intitulés peuvent varier légèrement : cherchez « Supprimer », « Retirer » ou le menu à trois points.",
+    "Face à des messages insistants, offensants ou frauduleux, bloquez et signalez le compte plutôt que de seulement supprimer l'échange."
+  ],
+  "toc": [
+    "Comprendre les différentes suppressions dans Messenger",
+    "Supprimer un message précis sur téléphone ou ordinateur",
+    "Effacer une conversation Facebook Messenger entière",
+    "Supprimer, archiver, restreindre ou bloquer : quelle option choisir ?",
+    "Les limites à connaître avant d'effacer un message",
+    "Faire le ménage dans Messenger sans perdre l'essentiel",
+    "Que faire en cas de harcèlement, d'arnaque ou de message indésirable",
+    "FAQ : supprimer les messages Facebook"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre les différentes suppressions dans Messenger",
+      "html": "<p>Avant d'appuyer sur « Supprimer », il est utile de distinguer <strong>trois actions très différentes</strong>. Vous pouvez retirer un seul message que vous avez envoyé, effacer une discussion complète de votre liste de conversations, ou encore archiver cette discussion pour la masquer temporairement. Le bon choix dépend de ce que vous souhaitez réellement faire disparaître.</p><p>Dans Messenger, l'option qui concerne un message isolé est souvent formulée comme « Retirer pour vous » et « Retirer pour tout le monde ». La première nettoie seulement votre affichage. La seconde vise à retirer le message du fil partagé. À l'inverse, quand vous supprimez un échange entier depuis votre boîte de réception, vous effacez <strong>votre copie de la conversation</strong>, pas celle du destinataire.</p><p>Les menus évoluent selon la version de Facebook, Messenger, iPhone, Android ou navigateur. Le principe, lui, ne change pas : ouvrez le fil de discussion, faites un appui long sur le message sur mobile ou survolez-le avec la souris sur ordinateur, puis ouvrez les options proposées.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Message, conversation ou archivage : ne confondez pas les effets",
+      "intro": "Voici ce qui se passe concrètement selon l'action choisie dans Facebook Messenger.",
+      "left": {
+        "title": "Ce que vous pouvez faire disparaître de votre vue",
+        "points": [
+          "Un message reçu ou envoyé, avec l'option « Retirer pour vous »",
+          "Une conversation complète dans votre propre liste de discussions",
+          "Une discussion archivée, qui n'apparaît plus dans la boîte de réception principale",
+          "Les notifications d'un fil, en le mettant en sourdine"
+        ]
+      },
+      "right": {
+        "title": "Ce que vous ne contrôlez pas totalement",
+        "points": [
+          "Les messages déjà lus, copiés, transférés ou capturés par le destinataire",
+          "La boîte de réception et l'historique enregistrés chez les autres participants",
+          "Les éventuelles informations incluses dans une sauvegarde ou un téléchargement de données antérieur",
+          "Le comportement d'un compte malveillant : dans ce cas, il faut aussi bloquer ou signaler"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Supprimer un message précis dans Facebook Messenger",
+      "intro": "Ces étapes concernent un message individuel, dans une conversation privée ou de groupe. Agissez dès que vous constatez l'erreur : vous aurez davantage de chances de voir l'option adaptée disponible.",
+      "steps": [
+        {
+          "title": "Ouvrez la bonne conversation",
+          "html": "<p>Lancez l'application <strong>Messenger</strong>, ou ouvrez la messagerie depuis Facebook sur ordinateur. Recherchez le nom du contact ou du groupe, puis ouvrez le fil contenant le message concerné.</p>"
+        },
+        {
+          "title": "Sélectionnez le message à retirer",
+          "html": "<p>Sur iPhone ou Android, maintenez le doigt quelques instants sur le message. Sur ordinateur, placez le curseur dessus : un menu ou une icône à trois points apparaît généralement. Ne confondez pas le menu du message avec celui de toute la conversation.</p>"
+        },
+        {
+          "title": "Choisissez « Supprimer » ou « Retirer »",
+          "html": "<p>Selon votre appareil, l'action peut s'appeler « Supprimer », « Retirer » ou être cachée derrière « Plus ». Messenger vous propose ensuite habituellement de retirer le message <strong>pour vous</strong> ou <strong>pour tout le monde</strong>.</p>"
+        },
+        {
+          "title": "Confirmez l'option adaptée",
+          "html": "<p>Choisissez « pour tout le monde » seulement si vous voulez demander la suppression dans le fil partagé. Choisissez « pour vous » si votre objectif est simplement de ne plus voir ce contenu. Lisez la fenêtre de confirmation : elle précise l'effet exact avant validation.</p>"
+        },
+        {
+          "title": "Vérifiez le résultat sans vous y fier aveuglément",
+          "html": "<p>Un message retiré pour tous est remplacé par une mention indiquant qu'un message a été retiré. Cela ne garantit pas que personne ne l'a vu entre-temps. Si le contenu était sensible, évitez de le renvoyer et prévenez directement la personne si cela est nécessaire.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Retirer n'efface pas une capture d'écran",
+      "html": "<p>La suppression pour tout le monde n'est pas une fonction d'annulation magique. Le destinataire a pu lire le message, recevoir une notification, le copier, le transférer ou faire une capture d'écran. N'envoyez jamais dans Messenger une information que vous ne pourriez pas assumer de voir circuler.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quelle action choisir selon votre situation ?",
+      "intro": "Ce tableau vous aide à éviter l'erreur la plus courante : effacer une conversation alors que vous vouliez seulement retirer un message envoyé.",
+      "columns": [
+        "Votre besoin",
+        "Action à choisir",
+        "Résultat principal",
+        "Limite importante"
+      ],
+      "rows": [
+        [
+          "J'ai envoyé un message par erreur",
+          "Retirer le message pour tout le monde",
+          "Le message est retiré du fil partagé lorsque l'option est disponible",
+          "Les participants peuvent l'avoir vu ou enregistré avant"
+        ],
+        [
+          "Je ne veux plus voir un message dans mon écran",
+          "Retirer le message pour vous",
+          "Le message disparaît de votre affichage",
+          "Il reste visible chez les autres participants"
+        ],
+        [
+          "Je veux vider ma liste de conversations",
+          "Supprimer la conversation",
+          "Le fil disparaît de votre boîte Messenger",
+          "La conversation reste généralement chez le contact"
+        ],
+        [
+          "Je veux la cacher sans la perdre",
+          "Archiver la conversation",
+          "Le fil quitte la boîte principale",
+          "Un nouveau message peut la faire réapparaître"
+        ],
+        [
+          "Une personne m'importune",
+          "Bloquer, restreindre ou signaler",
+          "Vous limitez ou stoppez les contacts futurs",
+          "Cela ne supprime pas les preuves ni les messages déjà reçus"
+        ]
+      ],
+      "note": "Les libellés et l'emplacement des commandes peuvent varier légèrement selon la version de l'application et le type de conversation."
+    },
+    {
+      "type": "prose",
+      "heading": "Effacer une conversation Facebook Messenger entière",
+      "html": "<p>Si vous voulez supprimer tout un échange de votre compte, revenez à la liste des discussions. Sur mobile, faites généralement glisser la conversation vers la gauche ou maintenez votre doigt dessus, puis choisissez « Supprimer ». Sur ordinateur, ouvrez le menu à trois points situé à côté du nom de la conversation et sélectionnez l'option de suppression.</p><p>Confirmez ensuite votre choix. La discussion disparaît de votre boîte de réception Messenger, ce qui peut être utile pour désencombrer votre écran ou ne plus retomber sur un échange pénible. <strong>Cette action ne supprime toutefois pas les messages chez l'autre personne</strong> : elle continue normalement à voir le fil dans sa propre messagerie.</p><p>Réfléchissez avant de valider si la conversation contient une adresse, une preuve de paiement, des photos, un numéro de dossier ou un élément dont vous pourriez avoir besoin. Une fois le fil supprimé de votre côté, le retrouver n'est pas garanti. Si vous souhaitez seulement le rendre moins visible, l'archivage est souvent le choix le plus prudent.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les réflexes utiles avant de supprimer",
+      "points": [
+        "Relisez le nom du contact ou du groupe : les conversations aux intitulés proches sont fréquentes.",
+        "Enregistrez ailleurs les informations importantes, avec l'accord des personnes concernées si elles sont privées.",
+        "Préférez l'archivage lorsque votre seul objectif est de désencombrer Messenger.",
+        "Retirez un message isolé plutôt que toute la discussion si seul ce message pose problème.",
+        "Conservez les échanges utiles comme preuves avant de bloquer ou de signaler un compte."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Supprimer, archiver, restreindre ou bloquer : quelle option choisir ?",
+      "html": "<p><strong>Archiver</strong> est une solution d'organisation. La discussion disparaît de la boîte de réception principale, mais son contenu est conservé et vous pouvez la retrouver dans les conversations archivées. Si la personne vous écrit à nouveau, le fil peut réapparaître dans vos messages actifs. C'est idéal pour les échanges terminés, les conversations de groupe peu actives ou les messages que vous ne souhaitez pas effacer définitivement de votre côté.</p><p><strong>Restreindre</strong> convient davantage à un contact dont vous voulez prendre de la distance sans créer de confrontation directe. Selon les réglages proposés par Meta, ses échanges sont moins mis en avant et vous pouvez gérer la discussion plus discrètement. Vérifiez toujours l'effet présenté dans l'application au moment de l'activer.</p><p><strong>Bloquer</strong> est l'option la plus ferme lorsqu'une personne vous envoie des messages répétitifs, agressifs ou suspects. Vous pouvez choisir de bloquer les messages et appels dans Messenger, et parfois le profil Facebook selon les options affichées. Le blocage évite les nouveaux contacts, mais il ne remplace pas un signalement lorsque le comportement enfreint les règles ou vous met en danger.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Pour retrouver une discussion cachée",
+      "html": "<p>Avant de chercher une conversation « disparue », consultez vos messages archivés et vos demandes de messages. Une discussion peut aussi avoir été déplacée parmi les conversations avec des personnes que vous ne suivez pas. Cela évite de supprimer par erreur un fil que vous pensiez déjà perdu.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Faire le ménage dans Messenger sans perdre l'essentiel",
+      "intro": "Pour une messagerie plus claire, procédez par petites catégories plutôt que de tout effacer d'un coup.",
+      "steps": [
+        {
+          "title": "Repérez les conversations à conserver",
+          "html": "<p>Gardez les fils contenant des informations administratives, professionnelles, familiales ou pratiques. Si nécessaire, notez les références utiles dans un endroit sûr plutôt que de compter uniquement sur l'historique Messenger.</p>"
+        },
+        {
+          "title": "Archivez les discussions simplement inactives",
+          "html": "<p>Les anciens échanges amicaux, groupes d'événements terminés et conversations en pause peuvent être archivés. Votre liste sera plus légère sans vous priver d'un historique potentiellement utile.</p>"
+        },
+        {
+          "title": "Supprimez les fils sans valeur pour vous",
+          "html": "<p>Effacez de votre boîte les conversations dont vous n'avez plus besoin, par exemple des échanges ponctuels clos. Gardez en tête qu'il s'agit d'un nettoyage de votre espace, non d'une suppression chez le correspondant.</p>"
+        },
+        {
+          "title": "Réglez les notifications",
+          "html": "<p>Pour un groupe bruyant mais utile, mettez les alertes en sourdine plutôt que de supprimer le fil. Vous conserverez l'accès aux informations tout en retrouvant de la sérénité au quotidien.</p>"
+        },
+        {
+          "title": "Sécurisez votre compte",
+          "html": "<p>Si des messages inconnus se multiplient, vérifiez vos paramètres de confidentialité, utilisez un mot de passe unique et activez les options de sécurité proposées par Facebook. Un compte bien protégé limite les prises de contact indésirables.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Que faire en cas de harcèlement, d'arnaque ou de message indésirable",
+      "html": "<p>Face à un message insultant, une menace, une tentative d'arnaque ou du harcèlement, ne vous précipitez pas pour tout supprimer. Commencez par <strong>conserver les éléments utiles</strong> : captures d'écran incluant le nom ou le profil, dates, contenu des messages et éventuels liens. Ces éléments peuvent être précieux pour effectuer un signalement ou demander de l'aide.</p><p>Utilisez ensuite le menu de la conversation ou du profil pour signaler le contenu à Meta et bloquer la personne. Évitez de cliquer sur les liens qui vous demandent un code, un paiement, vos identifiants ou une validation urgente : les faux messages de livraison, de loterie, de sécurité de compte et d'investissement sont fréquents.</p><p>En cas de menace crédible, de chantage, d'usurpation d'identité ou de danger immédiat, parlez-en à un proche et contactez les services compétents de votre pays. La suppression d'un fil peut soulager, mais elle ne doit pas vous priver des informations nécessaires pour vous protéger.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "Faire le tri dans ses messages ne consiste pas seulement à effacer : c'est choisir ce que l'on conserve, ce que l'on met à distance et ce que l'on signale.",
+      "author": "Conseil pratique jaimerais.fr"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on supprimer un message Facebook pour les deux personnes ?",
+      "a_html": "<p>Oui, lorsqu'un message que vous avez envoyé propose l'option « Retirer pour tout le monde », vous pouvez demander son retrait du fil partagé. La mention indiquant qu'un message a été retiré peut toutefois rester visible.</p><p>Cette action ne permet pas d'effacer ce que l'autre personne a déjà lu, copié, transféré ou capturé. Vous ne pouvez pas non plus retirer pour tout le monde un message que vous avez reçu.</p>"
+    },
+    {
+      "q": "Quand je supprime une conversation Messenger, est-elle aussi supprimée chez l'autre personne ?",
+      "a_html": "<p>Non, en règle générale. La suppression d'une conversation entière enlève le fil de <strong>votre</strong> boîte de réception Messenger. Chaque participant gère ensuite sa propre copie de la discussion.</p><p>Si votre objectif concerne un message précis que vous avez envoyé, cherchez plutôt l'option de retrait « pour tout le monde » directement sur ce message.</p>"
+    },
+    {
+      "q": "Comment supprimer tous mes messages Messenger d'un coup ?",
+      "a_html": "<p>Messenger ne propose pas toujours une suppression globale, universelle et sans risque de tous les messages. Vous devez généralement supprimer les conversations une par une depuis la liste des discussions, ou retirer les messages individuellement à l'intérieur d'un fil.</p><p>Méfiez-vous des extensions ou applications tierces promettant un effacement massif : elles peuvent demander l'accès à votre compte et compromettre sa sécurité. Préférez les outils officiels de Facebook et Messenger.</p>"
+    },
+    {
+      "q": "Comment retrouver une conversation supprimée sur Facebook ?",
+      "a_html": "<p>Une conversation archivée peut être retrouvée dans les messages archivés, et une discussion filtrée peut se trouver dans les demandes de messages. En revanche, une conversation réellement supprimée de votre boîte n'est pas forcément récupérable.</p><p>Vous pouvez aussi demander au correspondant de vous renvoyer une information importante s'il possède encore le fil. À l'avenir, archivez plutôt que supprimer lorsque vous hésitez.</p>"
+    },
+    {
+      "q": "Pourquoi ne vois-je pas l'option « Retirer pour tout le monde » ?",
+      "a_html": "<p>Cette option n'apparaît que pour les messages que vous avez vous-même envoyés et peut dépendre du type de conversation, de l'état du message ou de la version de l'application. Mettez Messenger à jour, puis faites un appui long sur le message ou ouvrez son menu à trois points.</p><p>Si l'option reste absente, vous pourrez généralement le retirer uniquement de votre affichage. Cela ne modifie pas la messagerie des autres participants.</p>"
+    },
+    {
+      "q": "Supprimer un message Messenger supprime-t-il les notifications ?",
+      "a_html": "<p>Pas nécessairement. Si le destinataire a déjà reçu une notification ou a vu l'aperçu du message, le retrait ultérieur ne fait pas disparaître ce qu'il a déjà consulté. Il peut simplement constater qu'un message a été retiré dans la conversation.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour supprimer des messages Facebook efficacement, retenez une règle simple : <strong>un message retiré, une conversation effacée et une discussion archivée ne répondent pas au même besoin</strong>. Prenez quelques secondes pour choisir l'option qui correspond à votre situation, surtout si l'échange contient des informations importantes ou sensibles.</p><p>Et si le problème n'est pas l'encombrement mais un contact indésirable, allez plus loin que la suppression : conservez les preuves utiles, bloquez le compte et signalez le comportement. Votre messagerie doit rester un espace pratique, pas une source de pression.</p>",
+  "__slug": "comment-supprimer-les-messages-facebook"
+}

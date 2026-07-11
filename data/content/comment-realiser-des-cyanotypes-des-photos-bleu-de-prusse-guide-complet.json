@@ -1,0 +1,250 @@
+{
+  "title": "Comment réaliser des cyanotypes bleu de Prusse : le guide complet pour débuter",
+  "meta_description": "Apprenez à réaliser des cyanotypes bleu de Prusse : matériel, préparation, exposition, rinçage, erreurs et idées créatives pour débuter.",
+  "reading_time_min": 12,
+  "hero_intro": "J'aimerais créer des images bleues intenses avec des feuilles, des objets ou mes propres photos ? Le cyanotype est un procédé photographique ancien, accessible à la maison, qui transforme la lumière UV en un bleu de Prusse emblématique. Avec un peu de méthode, vous pouvez obtenir dès les premiers essais des photogrammes délicats ou de véritables tirages photographiques.",
+  "key_takeaways": [
+    "Le cyanotype s'obtient par contact : un objet ou un négatif bloque plus ou moins les UV sur un papier ou un tissu sensibilisé.",
+    "Pour débuter simplement, le papier cyanotype déjà prêt à l'emploi évite la préparation chimique et réduit les risques d'erreur.",
+    "La durée d'exposition varie beaucoup selon les UV : réalisez une bande test plutôt que de vous fier à un temps universel.",
+    "Un rinçage généreux à l'eau claire révèle les blancs et approfondit progressivement le bleu de Prusse.",
+    "Le contact entre le négatif et le support est aussi important que l'exposition : une vitre et un bon maintien améliorent nettement la netteté."
+  ],
+  "toc": [
+    "Comprendre le cyanotype avant de se lancer",
+    "Le matériel nécessaire et le budget à prévoir",
+    "Papier prêt à l'emploi ou solution à préparer ?",
+    "Réaliser un cyanotype pas à pas",
+    "Choisir ses objets et préparer un négatif photo",
+    "Réussir l'exposition : la méthode de la bande test",
+    "Rinçage, séchage et conservation des tirages",
+    "Erreurs fréquentes et pistes créatives"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Le cyanotype : une photographie par la lumière et le contact",
+      "html": "<p>Inventé au XIXe siècle, le cyanotype est un procédé photographique fondé sur des sels de fer sensibles aux ultraviolets. Après exposition puis lavage à l'eau, les zones ayant reçu la lumière deviennent bleu de Prusse, tandis que les zones protégées restent blanches ou très claires. Le résultat n'est pas une photo en couleurs : c'est une image monochrome, riche en nuances de bleu.</p><p>Vous pouvez l'utiliser de deux façons. Le <strong>photogramme</strong> consiste à poser directement des végétaux, objets translucides, dentelles ou petits outils sur le papier sensibilisé. Le <strong>tirage par négatif</strong>, lui, permet de reproduire un dessin, une typographie ou une photographie imprimée sur un transparent. Dans les deux cas, l'image est créée par contact : plus un élément laisse passer les UV, plus la zone correspondante bleuit.</p><p>Cette technique plaît autant aux enfants accompagnés qu'aux artistes et photographes, car elle accepte une part d'imprévu. Un voile de feuille, une trace de pinceau, la transparence d'un pétale ou un léger décalage peuvent devenir des choix esthétiques. Pour progresser, il faut néanmoins traiter le cyanotype comme une petite expérience : ne modifiez qu'un paramètre à la fois et notez ce que vous faites.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Avant votre premier tirage : les repères utiles",
+      "points": [
+        "Travaillez à l'ombre ou sous une lumière intérieure douce lors de la manipulation du support sensibilisé.",
+        "Utilisez une vitre propre et un support rigide pour plaquer l'objet ou le négatif contre le papier.",
+        "Préparez une bassine d'eau avant l'exposition : le lavage doit suivre sans attendre inutilement.",
+        "Ne jugez pas la couleur finale immédiatement : le bleu s'intensifie pendant le séchage et l'oxydation à l'air.",
+        "Conservez vos essais, même imparfaits : ils constituent votre meilleur carnet de réglages."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Matériel pour faire des cyanotypes et budget indicatif",
+      "intro": "Il est possible de commencer avec très peu d'équipement. Les prix dépendent du format, de la marque et du nombre de feuilles, mais ces ordres de grandeur vous aident à choisir votre formule.",
+      "columns": [
+        "Élément",
+        "À quoi sert-il ?",
+        "Budget généralement constaté",
+        "Conseil de choix"
+      ],
+      "rows": [
+        [
+          "Papier cyanotype pré-sensibilisé",
+          "Réaliser immédiatement des photogrammes ou tirages",
+          "Environ 15 à 30 € le petit pack",
+          "Le moyen le plus simple pour un premier essai."
+        ],
+        [
+          "Kit de chimie cyanotype",
+          "Enduire vous-même papier, carton ou tissu",
+          "Souvent entre 20 et 45 €",
+          "Rentable si vous souhaitez multiplier les formats et supports."
+        ],
+        [
+          "Papier aquarelle 200 à 300 g/m²",
+          "Recevoir l'émulsion préparée maison",
+          "Environ 5 à 15 € pour un bloc d'essai",
+          "Choisissez un papier blanc, assez épais et peu alcalin."
+        ],
+        [
+          "Vitre ou plaque de plexiglas",
+          "Assurer le contact avec le négatif ou les objets",
+          "0 à 15 € selon récupération ou achat",
+          "Une vitre de cadre propre fonctionne très bien."
+        ],
+        [
+          "Négatif transparent pour jet d'encre",
+          "Transférer une photo, un dessin ou un texte",
+          "Quelques euros la feuille",
+          "Privilégiez un noir dense et testez le réglage d'impression."
+        ],
+        [
+          "Bac de rinçage et pinceau synthétique",
+          "Laver ou enduire le support",
+          "Souvent déjà disponibles à la maison",
+          "Réservez-les exclusivement à cette activité créative."
+        ]
+      ],
+      "note": "Les kits commerciaux indiquent leur rendement et leurs précautions propres : suivez toujours en priorité leur notice."
+    },
+    {
+      "type": "comparison",
+      "heading": "Papier cyanotype prêt à l'emploi ou préparation maison ?",
+      "intro": "Les deux approches donnent de beaux résultats. Le bon choix dépend surtout de votre envie d'expérimenter, du temps disponible et des supports que vous souhaitez imprimer.",
+      "left": {
+        "title": "Papier déjà sensibilisé",
+        "points": [
+          "Idéal pour découvrir le procédé sans doser ni mélanger de solutions.",
+          "Pratique pour une activité ponctuelle, un atelier familial ou des cartes au format standard.",
+          "Résultat plus régulier au départ, avec moins de matériel à installer.",
+          "Choix de formats et de textures plus limité ; coût par feuille souvent plus élevé."
+        ]
+      },
+      "right": {
+        "title": "Papier ou tissu enduit maison",
+        "points": [
+          "Permet de choisir le format, le grain du papier, le carton, le bois compatible ou les fibres textiles.",
+          "Offre une grande liberté de pinceau : bord franc, voile irrégulier ou surface entièrement bleue.",
+          "Demande un espace de travail organisé, un temps de séchage à l'abri de la lumière et une manipulation soigneuse.",
+          "Plus économique sur une série, mais moins adapté si vous voulez un résultat immédiat."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Réaliser un cyanotype pas à pas",
+      "intro": "Voici une méthode fiable pour un photogramme ou un premier tirage par négatif. Si vous utilisez un kit, adaptez les proportions et les recommandations de la marque à ce déroulé général.",
+      "steps": [
+        {
+          "title": "1. Préparez votre espace et votre composition",
+          "html": "<p>Installez à l'avance votre vitre, un carton rigide, vos objets ou votre négatif, ainsi qu'un bac rempli d'eau fraîche. Choisissez une zone ombragée pour le montage. Pour un photogramme, cueillez des végétaux secs ou souples mais peu humides : une feuille mouillée peut marquer le papier et altérer la netteté.</p>"
+        },
+        {
+          "title": "2. Sensibilisez le support si nécessaire",
+          "html": "<p>Avec un kit à préparer, mélangez les deux solutions selon la notice, en petite quantité et juste avant usage. Sous une lumière faible, appliquez le mélange au pinceau synthétique sur votre papier aquarelle sec, sans repasser trop longtemps au même endroit. Laissez sécher complètement à plat, dans l'obscurité ou dans une boîte fermée. Le support doit être sec avant l'exposition.</p>"
+        },
+        {
+          "title": "3. Assemblez le « sandwich » de contact",
+          "html": "<p>Posez le papier sensibilisé, face enduite vers le haut, sur un carton. Disposez les objets ou le négatif. Recouvrez d'une vitre puis maintenez l'ensemble avec des pinces ou un cadre. Un contact ferme évite les contours flous. Avec un négatif jet d'encre, placez de préférence la face imprimée contre le papier afin de réduire l'écart entre l'encre et l'émulsion.</p>"
+        },
+        {
+          "title": "4. Exposez aux ultraviolets",
+          "html": "<p>Placez le montage au soleil, sans le déplacer. En plein soleil, un photogramme demande souvent quelques minutes à une vingtaine de minutes ; sous un ciel couvert, l'attente peut être nettement plus longue. Avec une lampe UV, respectez la distance et le temps préconisés par son fabricant. La couleur du papier exposé évolue, mais elle ne suffit pas à garantir un bon réglage : une bande test est plus fiable.</p>"
+        },
+        {
+          "title": "5. Rincez, observez puis laissez sécher",
+          "html": "<p>Retirez immédiatement les objets ou le négatif et plongez le tirage dans l'eau. Rincez doucement plusieurs minutes, en renouvelant l'eau lorsqu'elle devient jaune ou trouble. Les blancs s'éclaircissent et les bleus se développent progressivement. Égouttez, posez à plat sur un support propre et laissez sécher à l'ombre. La teinte gagne souvent en profondeur dans les heures qui suivent.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Objets, végétaux et négatifs : ce qui donne une belle image",
+      "html": "<p>Pour un premier photogramme, privilégiez les objets graphiques et faciles à maintenir : fougères, herbes fines, fleurs pressées, plumes, dentelle, papier découpé, rondelles d'agrumes séchées ou petits objets transparents. Les éléments opaques créent des silhouettes très blanches. Les matières fines ou translucides, comme un pétale, un tissu léger ou une feuille nervurée, révèlent des dégradés plus subtils.</p><p>Pour imprimer une photo, il vous faut un <strong>négatif suffisamment contrasté</strong>. Transformez d'abord l'image en noir et blanc, augmentez modérément le contraste et inversez-la avant impression : les zones noires du fichier doivent en effet bloquer les UV, tandis que les zones claires doivent les laisser passer. Si votre image contient du texte, pensez aussi à l'imprimer en miroir pour qu'il soit lisible sur le tirage final.</p><p>Les imprimantes domestiques ne déposent pas toutes une encre assez opaque sur transparent. Un noir insuffisamment dense donne des ombres bleutées et une image « délavée ». Vous pouvez renforcer la densité dans les réglages d'impression, imprimer deux transparents identiques et les superposer avec précision, ou choisir un motif aux contrastes affirmés. Commencez par des portraits simples, des architectures ou des dessins à traits avant de viser une photo très détaillée.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "La bande test, le geste qui évite de gaspiller du papier",
+      "html": "<p>Découpez une bande du même papier que votre tirage. Posez un objet opaque ou un cache carton sur une partie, exposez 3 à 5 minutes, découvrez une nouvelle zone, puis recommencez plusieurs fois. Après rinçage, vous obtenez une échelle d'exposition adaptée à la lumière du jour, à votre support et à votre négatif. Notez la date, la météo et le temps : ces informations sont précieuses pour reproduire un résultat.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Maîtriser l'exposition : les réglages qui changent tout",
+      "html": "<p>Il n'existe pas de durée d'exposition universelle. L'intensité des UV varie avec la saison, l'heure, la latitude, l'altitude, la couverture nuageuse et le vitrage éventuel. Un soleil d'été en milieu de journée peut être très efficace, alors qu'une journée hivernale grise exigera davantage de patience. Une lampe UV permet une meilleure répétabilité, à condition de garder la même distance, le même temps et le même montage.</p><p>Un tirage trop clair vient souvent d'une <strong>sous-exposition</strong>, d'un négatif trop opaque ou d'un rinçage insuffisant. À l'inverse, un tirage globalement bleu, avec des blancs ternes, peut signaler une surexposition, un négatif trop transparent, une lumière ayant atteint le papier pendant la préparation ou un mauvais placage. Ne modifiez pas tout à la fois : gardez le même négatif et testez d'abord le temps d'exposition.</p><p>La netteté dépend surtout de l'absence d'espace entre le sujet et le papier. Les objets épais produisent naturellement une ombre douce sur leurs bords : c'est un effet esthétique, non un défaut. Si vous recherchez des détails précis avec un négatif, utilisez une vitre épaisse ou un cadre de contact et évitez les transparents gondolés.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Manipuler les solutions de cyanotype avec bon sens",
+      "html": "<p>Les produits de cyanotype ne sont pas des ingrédients alimentaires. Lisez la fiche de sécurité et les consignes du kit, portez des gants si vous préparez ou appliquez les solutions, protégez le plan de travail et lavez-vous les mains après usage. Réservez pinceaux, bacs et contenants à cet usage ; ne les réutilisez jamais pour cuisiner.</p><p>Conservez les flacons étiquetés, fermés et hors de portée des enfants et des animaux. N'essayez pas de chauffer les produits ni de les mélanger à des acides forts ou à des produits ménagers. Pour les restes de solution et les eaux de rinçage, suivez les indications du fabricant ainsi que les règles locales de collecte des déchets chimiques.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Diagnostiquer un cyanotype décevant",
+      "intro": "Les ratés sont normaux au début. Cette grille vous aide à isoler la cause probable avant de recommencer.",
+      "columns": [
+        "Symptôme",
+        "Cause fréquente",
+        "Correction à essayer"
+      ],
+      "rows": [
+        [
+          "Bleu pâle, peu contrasté",
+          "Exposition trop courte ou UV faibles",
+          "Allongez l'exposition par paliers après une bande test."
+        ],
+        [
+          "Blancs bleuâtres ou gris",
+          "Négatif pas assez dense, lumière parasite ou temps trop long",
+          "Augmentez l'opacité du négatif, améliorez le contact et raccourcissez le test suivant."
+        ],
+        [
+          "Contours flous",
+          "Objet ou transparent éloigné du papier",
+          "Utilisez une vitre et des pinces ; choisissez des végétaux plus plats."
+        ],
+        [
+          "Taches ou traces de pinceau",
+          "Enduction irrégulière, support humide ou éclaboussures",
+          "Travaillez sur papier sec, avec peu de passages et une quantité régulière de solution."
+        ],
+        [
+          "Bleu qui semble terne après lavage",
+          "Rinçage incomplet ou séchage encore récent",
+          "Rincez plus longtemps à l'eau claire et attendez le séchage complet avant d'évaluer."
+        ],
+        [
+          "Papier gondolé",
+          "Papier trop fin ou séchage rapide",
+          "Choisissez un papier plus épais et faites sécher à plat, éventuellement sous léger poids une fois presque sec."
+        ]
+      ],
+      "note": "Un seul tirage ne suffit pas toujours à conclure : comparez plusieurs essais réalisés avec un seul réglage modifié."
+    },
+    {
+      "type": "prose",
+      "heading": "Rinçage, séchage et conservation : faire durer le bleu de Prusse",
+      "html": "<p>Le rinçage n'est pas une simple finition : il élimine les composés non transformés et révèle l'image. Utilisez de l'eau fraîche, avec des mouvements doux, jusqu'à ce que l'eau reste relativement claire. Un lavage trop bref peut laisser les blancs jaunes ou verdâtres ; un lavage attentif apporte généralement plus de propreté et de contraste.</p><p>Pour faire sécher un papier, posez-le à plat sur une surface propre, loin du soleil direct. Le papier peut se gondoler en séchant : une fois presque sec, vous pouvez le placer entre deux feuilles propres sous quelques livres. Pour le tissu, faites sécher à l'air libre après rinçage, sans le tordre brutalement.</p><p>Encadrez ou stockez vos cyanotypes avec des matériaux de conservation neutres ou sans acide, à l'abri d'une lumière intense prolongée et de l'humidité. Évitez les nettoyants alcalins, les traitements improvisés et les supports inconnus qui pourraient modifier la couleur. Le cyanotype ne réclame pas de bain fixateur photographique classique : un rinçage soigneux et un séchage complet sont les bases d'une bonne tenue.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Idées pour aller plus loin avec vos cyanotypes",
+      "points": [
+        "Créez un herbier bleu en notant au crayon le nom de chaque plante après séchage complet.",
+        "Imprimez un même négatif sur plusieurs papiers pour comparer grain, contraste et absorption.",
+        "Essayez le cyanotype sur coton ou lin prélavé, sans assouplissant, pour fabriquer une housse, un fanion ou une pochette.",
+        "Jouez avec des caches en papier découpé pour ajouter cadres, motifs géométriques ou typographies.",
+        "Constituez un carnet de tests avec vos temps d'exposition, la météo, le support et le type de négatif."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il obligatoirement du soleil pour faire un cyanotype ?",
+      "a_html": "<p>Non. Le soleil est une source d'UV simple et gratuite, mais une lampe UV adaptée peut également exposer un cyanotype. Elle est particulièrement utile pour travailler par mauvais temps ou obtenir des séries plus régulières. Il faut alors suivre les distances et durées recommandées pour l'appareil, puis créer votre propre bande test.</p>"
+    },
+    {
+      "q": "Quel papier choisir pour un cyanotype fait maison ?",
+      "a_html": "<p>Un papier aquarelle blanc, épais et absorbant est un très bon point de départ. Un grammage d'environ 200 à 300 g/m² limite le gondolement au rinçage. Un papier lisse favorisera les détails fins d'un négatif, tandis qu'un papier à grain donnera une texture plus organique aux aplats bleus.</p><p>Avant d'acheter une grande quantité, testez quelques feuilles : la composition et le traitement de surface du papier influencent le contraste final.</p>"
+    },
+    {
+      "q": "Comment fabriquer un négatif pour cyanotype avec une imprimante maison ?",
+      "a_html": "<p>Préparez votre photo en noir et blanc, augmentez légèrement son contraste puis inversez-la : les noirs du fichier doivent correspondre aux zones qui resteront claires sur le cyanotype. Imprimez le fichier inversé sur un film transparent conçu pour votre type d'imprimante.</p><p>Pour gagner en contraste, choisissez une qualité d'impression élevée et vérifiez que les noirs sont bien opaques. Si besoin, superposez deux transparents identiques, parfaitement alignés, ou simplifiez l'image avant de recommencer.</p>"
+    },
+    {
+      "q": "Pourquoi mon cyanotype ne devient-il pas bleu tout de suite ?",
+      "a_html": "<p>Après le rinçage, le tirage peut sembler clair ou légèrement verdâtre. Le bleu se forme et se renforce au contact de l'oxygène pendant le séchage. Laissez-le sécher entièrement à l'ombre avant de juger le résultat.</p><p>Si le bleu reste très pâle une fois sec, testez une exposition plus longue ou vérifiez la qualité de votre négatif et de votre papier sensibilisé.</p>"
+    },
+    {
+      "q": "Peut-on faire des cyanotypes sur tissu ?",
+      "a_html": "<p>Oui, surtout sur des fibres naturelles comme le coton ou le lin. Lavez le tissu avant de l'enduire afin d'enlever les apprêts et l'assouplissant, puis faites-le sécher. Après exposition et rinçage, le tissu doit être manipulé délicatement ; testez toujours un petit échantillon avant de réaliser un vêtement ou un projet destiné à être lavé.</p>"
+    },
+    {
+      "q": "Les produits de cyanotype sont-ils dangereux ?",
+      "a_html": "<p>Ils doivent être manipulés avec sérieux, comme tout produit créatif chimique, même lorsqu'ils sont vendus en kit pour débutants. Respectez la notice, évitez tout contact avec la nourriture, ne mélangez pas les produits avec d'autres substances ménagères et conservez-les de façon sécurisée.</p><p>Pour un atelier avec de jeunes enfants, le papier pré-sensibilisé est la solution la plus simple : un adulte prépare et surveille l'activité, tandis que les enfants composent les objets et participent au rinçage selon leur âge.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Le cyanotype récompense la curiosité bien plus que la perfection immédiate. Commencez avec quelques feuilles prêtes à l'emploi, des végétaux plats et une bande test : vous comprendrez rapidement l'effet de la lumière, du temps et du contact.</p><p>Une fois ces bases acquises, passez aux négatifs photo, aux papiers texturés ou au tissu. Chaque bleu de Prusse sera un peu différent, et c'est précisément ce qui fait le charme de cette technique : transformer une envie d'image en objet unique, fabriqué avec la lumière.</p>",
+  "__slug": "comment-realiser-des-cyanotypes-des-photos-bleu-de-prusse-guide-complet"
+}

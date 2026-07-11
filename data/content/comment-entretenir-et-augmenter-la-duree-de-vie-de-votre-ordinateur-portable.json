@@ -1,0 +1,241 @@
+{
+  "title": "Comment entretenir son ordinateur portable et prolonger sa durée de vie",
+  "meta_description": "Faites durer votre ordinateur portable : chaleur, batterie, nettoyage, stockage, mises à jour et gestes simples pour éviter les pannes coûteuses.",
+  "reading_time_min": 9,
+  "hero_intro": "Un ordinateur portable bien entretenu peut rester fiable de longues années, sans devenir lent, brûlant ou fragile au moindre déplacement. Les bons réflexes ne demandent ni matériel coûteux ni compétences techniques : ils consistent surtout à limiter la chaleur, les chocs, l'encrassement et les mauvaises habitudes de charge. Voici une méthode claire pour protéger votre machine, vos données et votre budget.",
+  "key_takeaways": [
+    "La chaleur est l'ennemi principal : utilisez toujours le PC sur une surface dure et dégagée, jamais sur un lit, un canapé ou une couverture.",
+    "Nettoyez l'extérieur souvent et les aérations avec prudence ; une poussière accumulée peut provoquer bruit, lenteurs et surchauffe.",
+    "Pour préserver la batterie, évitez surtout les fortes températures, les décharges prolongées à 0 % et le stockage d'un appareil totalement vide.",
+    "Les mises à jour, le tri des logiciels et les sauvegardes régulières améliorent à la fois la sécurité, les performances et la durée d'usage.",
+    "Une housse adaptée, une manipulation calme et une réparation ciblée coûtent généralement bien moins cher qu'un remplacement prématuré."
+  ],
+  "toc": [
+    "Ce qui réduit réellement la durée de vie d'un ordinateur portable",
+    "Limiter la chaleur, la poussière et les chocs",
+    "Prendre soin de la batterie sans idées reçues",
+    "Garder un ordinateur rapide, sain et sécurisé",
+    "Mettre en place une routine d'entretien simple",
+    "Savoir quand réparer, améliorer ou remplacer"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Ce qui réduit réellement la durée de vie d'un ordinateur portable",
+      "html": "<p>Un ordinateur portable ne s'use pas uniquement parce qu'il vieillit. Il souffre surtout de conditions d'utilisation défavorables : chaleur répétée, poussière dans le système de refroidissement, chocs pendant le transport, liquide renversé, batterie exposée à de fortes températures ou logiciels malveillants. Ces facteurs peuvent dégrader les composants progressivement, parfois sans symptôme visible au début.</p><p>La première priorité est donc de préserver l'évacuation de la chaleur. Lorsqu'un processeur, une batterie ou un SSD travaille à une température trop élevée pendant longtemps, l'appareil peut ralentir pour se protéger, les ventilateurs deviennent bruyants et certains composants vieillissent plus vite. Un ordinateur qui chauffe ponctuellement lors d'un jeu, d'un appel vidéo ou d'une exportation est souvent normal ; un châssis constamment très chaud ou un ventilateur toujours à fond mérite en revanche votre attention.</p><p>La durée de vie dépend également de vos besoins. Un modèle bureautique bien entretenu peut souvent assurer plusieurs années de service, tandis qu'une machine sollicitée quotidiennement pour le montage vidéo, les jeux ou la 3D aura davantage besoin d'un entretien thermique et d'éventuelles améliorations. L'objectif n'est pas de rendre un ordinateur éternel, mais de conserver une machine fiable, agréable à utiliser et réparable le plus longtemps possible.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Les repères utiles à garder en tête",
+      "items": [
+        {
+          "value": "40 à 60 %",
+          "label": "d'humidité relative souvent confortable pour le matériel et les occupants d'un logement"
+        },
+        {
+          "value": "20 à 80 %",
+          "label": "plage de charge pratique au quotidien si votre ordinateur propose une limite de charge"
+        },
+        {
+          "value": "5 à 8 ans",
+          "label": "durée d'usage fréquemment atteignable pour un portable bien choisi, entretenu et adapté à ses besoins"
+        },
+        {
+          "value": "1 fois par mois",
+          "label": "rythme simple pour vérifier les sauvegardes, l'espace disque et les mises à jour"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les ennemis du portable et les bons réflexes",
+      "intro": "Ce tableau permet de distinguer les gestes réellement préventifs de ceux qui ne font que masquer un problème.",
+      "columns": [
+        "Risque",
+        "Signes à surveiller",
+        "Action utile",
+        "À éviter"
+      ],
+      "rows": [
+        [
+          "Surchauffe",
+          "Ventilateur très bruyant, ralentissements, châssis anormalement chaud",
+          "Poser le PC sur une table, dégager les grilles, fermer les tâches lourdes inutiles",
+          "L'utiliser sur une couette, un coussin ou au soleil direct"
+        ],
+        [
+          "Poussière",
+          "Aérations visibles encombrées, bruit en hausse, température élevée",
+          "Essuyer l'extérieur et faire nettoyer l'intérieur si nécessaire",
+          "Introduire un objet ou un aspirateur puissant dans les grilles"
+        ],
+        [
+          "Batterie fatiguée",
+          "Autonomie en chute, arrêt imprévu, gonflement du boîtier",
+          "Consulter l'état de santé, limiter la chaleur, prévoir un remplacement compatible",
+          "Continuer à utiliser une batterie gonflée ou endommagée"
+        ],
+        [
+          "Chocs et pression",
+          "Charnière dure, écran marqué, connecteur instable",
+          "Transporter le PC éteint ou en veille adaptée dans une housse ajustée",
+          "Le porter par l'écran ou poser des objets lourds sur son capot"
+        ],
+        [
+          "Manque d'espace ou logiciels indésirables",
+          "Démarrage lent, disque presque plein, alertes suspectes",
+          "Désinstaller, mettre à jour, analyser et sauvegarder",
+          "Installer des programmes piratés ou des « nettoyeurs miracles »"
+        ]
+      ],
+      "note": "Un symptôme isolé n'indique pas forcément une panne, mais plusieurs signes répétés justifient un diagnostic avant que le problème ne s'aggrave."
+    },
+    {
+      "type": "prose",
+      "heading": "Limiter la chaleur, la poussière et les chocs au quotidien",
+      "html": "<p>Installez votre ordinateur sur une surface plane, propre et rigide : un bureau, une table ou un support ventilé. Les prises d'air se trouvent souvent sous le châssis ou sur les côtés ; elles doivent rester libres. Un support incliné peut améliorer le confort et dégager les aérations, mais il ne corrige pas un ventilateur encrassé ni une pâte thermique vieillissante.</p><p>Évitez les sources de chaleur : radiateur, voiture stationnée au soleil, rebord de fenêtre en plein été ou cuisine très humide. Après un trajet par grand froid, laissez l'ordinateur revenir tranquillement à température ambiante avant de le démarrer, afin de réduire le risque de condensation. Dans une pièce humide, ne le rangez pas dans un sac fermé s'il est encore chaud.</p><p>Pour le nettoyage courant, éteignez l'appareil, débranchez le chargeur et passez un chiffon microfibre légèrement sec sur le capot, l'écran et le clavier. Pour l'écran, n'appliquez pas de produit directement dessus : humidifiez à peine le chiffon avec un produit compatible écrans si nécessaire. Une bombe à air sec utilisée par brèves pressions et à distance peut dépoussiérer les entrées d'air, selon les recommandations du fabricant.</p><p>Les chocs sont parfois discrets mais coûteux : une charnière tordue, une dalle d'écran fissurée ou un port USB desserré peuvent rendre l'usage pénible. Fermez le capot sans forcer, ne soulevez pas la machine par l'écran et choisissez une housse rembourrée à la bonne taille. Dans un sac, placez le portable contre une face plane et ne le coincez pas sous une gourde ou un chargeur lourd.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention à la batterie gonflée",
+      "html": "<p>Un capot qui se soulève, un pavé tactile qui devient difficile à cliquer ou un châssis déformé peuvent signaler une batterie gonflée. <strong>N'essayez pas de percer, comprimer ou recharger l'appareil.</strong> Éteignez-le si vous pouvez le faire sans risque, débranchez-le et faites-le examiner par un réparateur ou le service après-vente de la marque. Une batterie endommagée doit être traitée comme un problème de sécurité, pas comme une simple baisse d'autonomie.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Batterie : les bons gestes et les fausses contraintes",
+      "intro": "Les batteries lithium-ion modernes disposent d'une électronique de protection. Il n'est pas nécessaire de vivre les yeux rivés sur le pourcentage, mais certaines habitudes font réellement la différence.",
+      "left": {
+        "title": "À privilégier",
+        "points": [
+          "Utiliser le chargeur d'origine ou un chargeur USB-C Power Delivery fiable et de puissance adaptée.",
+          "Éviter de laisser le PC chauffer pendant une charge intensive, notamment dans un sac ou au soleil.",
+          "Activer une limite de charge autour de 80 % si le fabricant la propose et si le PC reste souvent branché au bureau.",
+          "Stocker un appareil inutilisé plusieurs semaines avec une charge intermédiaire, dans un endroit sec et tempéré.",
+          "Vérifier le rapport d'état de la batterie lorsque l'autonomie devient insuffisante."
+        ]
+      },
+      "right": {
+        "title": "À relativiser ou éviter",
+        "points": [
+          "Décharger volontairement la batterie à 0 % avant chaque recharge : ce n'est pas nécessaire et cela peut la fatiguer.",
+          "Penser qu'il faut systématiquement débrancher dès que 100 % est atteint : la gestion de charge est prévue pour cela.",
+          "Laisser le PC vide pendant des mois dans un tiroir, surtout dans une pièce chaude.",
+          "Acheter une batterie générique sans provenance claire uniquement parce qu'elle est moins chère.",
+          "Utiliser un chargeur sous-dimensionné : il peut charger très lentement ou limiter les performances."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Mettre en place une routine d'entretien simple",
+      "intro": "Quelques minutes à intervalles réguliers évitent la plupart des dégradations silencieuses. Adaptez cette routine si vous avez des animaux, fumez à proximité ou utilisez le portable dans un atelier : la poussière s'accumule alors plus vite.",
+      "steps": [
+        {
+          "title": "Chaque semaine : garder l'espace de travail propre",
+          "html": "<p>Essuyez le clavier et le capot, retirez les miettes et vérifiez que les aérations ne sont pas couvertes. Gardez boissons et aliments à distance raisonnable : une petite éclaboussure peut atteindre le clavier ou les ports.</p>"
+        },
+        {
+          "title": "Chaque mois : vérifier le logiciel et l'espace disponible",
+          "html": "<p>Installez les mises à jour du système, du navigateur et des logiciels importants. Désinstallez les applications inutilisées, videz les téléchargements superflus et conservez une marge d'espace libre, particulièrement sur le disque système.</p>"
+        },
+        {
+          "title": "Tous les trois à six mois : contrôler les performances",
+          "html": "<p>Examinez les programmes lancés au démarrage et désactivez ceux dont vous n'avez pas besoin. Écoutez l'évolution du ventilateur, vérifiez les températures si un ralentissement apparaît et contrôlez que vos sauvegardes sont bien accessibles.</p>"
+        },
+        {
+          "title": "Une fois par an ou si le PC chauffe : faire un bilan matériel",
+          "html": "<p>Inspectez le câble et le bloc de charge, les charnières, les ports et l'état de la batterie. Un dépoussiérage interne par un professionnel peut être pertinent si les ventilateurs sont bruyants ou si l'appareil a plusieurs années. Sur certains modèles, l'ouverture par soi-même peut compliquer la garantie ou endommager des nappes fragiles.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Garder un ordinateur rapide, sain et sécurisé",
+      "html": "<p>Un ordinateur lent n'est pas toujours usé. Avant d'envisager son remplacement, faites le tri dans les applications au démarrage, les onglets ouverts et les logiciels installés. Sous Windows comme sous macOS, les réglages système permettent de consulter les éléments qui se lancent automatiquement. Désactivez uniquement les programmes que vous identifiez clairement ; ne supprimez pas au hasard des composants système ou des pilotes.</p><p>Conservez de l'espace sur le disque interne. Un SSD presque plein peut compliquer les mises à jour et réduire le confort d'utilisation. Archivez les gros fichiers sur un disque externe fiable ou dans un espace en ligne de confiance, puis videz la corbeille. Ne confondez pas nettoyage et suppression irréversible : pour les photos, documents administratifs ou projets, une sauvegarde doit exister avant tout grand tri.</p><p>La sécurité participe directement à la longévité. Maintenez le système et les applications à jour, utilisez des mots de passe uniques avec un gestionnaire de mots de passe si possible, et méfiez-vous des pièces jointes inattendues. Un antivirus intégré et à jour suffit souvent pour un usage courant, complété par votre vigilance. Les logiciels promettant d'accélérer miraculeusement le PC ou de « nettoyer le registre » sont rarement indispensables et peuvent parfois créer de nouveaux problèmes.</p><p>Enfin, pensez à la sauvegarde selon la règle pratique du double exemplaire : gardez vos fichiers importants sur l'ordinateur et dans au moins un autre emplacement, par exemple un disque externe débranché après la copie ou un service en ligne. Une panne matérielle, un vol ou un rançongiciel devient beaucoup moins dramatique lorsque les données sont protégées.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quel entretien prévoir selon votre usage ?",
+      "intro": "La fréquence dépend surtout de l'environnement et de l'intensité d'utilisation, pas seulement de l'âge de l'appareil.",
+      "columns": [
+        "Profil d'utilisation",
+        "Priorités",
+        "Entretien conseillé",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Bureautique à domicile",
+          "Sauvegardes, mises à jour, surface propre",
+          "Nettoyage extérieur régulier ; bilan annuel",
+          "Éviter canapé, lit et chargeur abîmé"
+        ],
+        [
+          "Télétravail quotidien",
+          "Batterie, webcam, connectique, espace disque",
+          "Contrôle mensuel des sauvegardes et du démarrage",
+          "Prévoir une housse pour les déplacements fréquents"
+        ],
+        [
+          "Jeux, création ou calcul intensif",
+          "Refroidissement, alimentation, stockage",
+          "Surveillance des températures ; dépoussiérage plus fréquent",
+          "Ne pas obstruer les grilles pendant les sessions longues"
+        ],
+        [
+          "Atelier, animaux ou logement poussiéreux",
+          "Filtres, aérations, clavier",
+          "Inspection visuelle toutes les quelques semaines",
+          "Faire nettoyer l'intérieur plus tôt si le ventilateur s'emballe"
+        ],
+        [
+          "Étudiant très mobile",
+          "Chocs, liquide, vol, autonomie",
+          "Housse rembourrée et sauvegarde automatique",
+          "Ne pas laisser le PC dans une voiture ou un casier humide"
+        ]
+      ],
+      "note": "Si votre ordinateur est encore sous garantie, consultez les conditions du fabricant avant toute ouverture du châssis."
+    },
+    {
+      "type": "key_points",
+      "heading": "Réparer, améliorer ou remplacer : prendre la bonne décision",
+      "points": [
+        "Demandez un diagnostic si le PC s'éteint, chauffe sans raison, ne charge plus correctement ou présente une déformation : attendre peut augmenter la facture.",
+        "Une batterie, un SSD, un ventilateur, un clavier ou un chargeur se remplacent souvent pour bien moins cher qu'un ordinateur neuf, selon le modèle.",
+        "Ajouter de la mémoire vive ou remplacer un disque dur ancien par un SSD peut redonner de la réactivité à certains portables, mais de nombreux modèles récents ne sont plus évolutifs.",
+        "Avant une réparation, sauvegardez vos données et demandez un devis incluant pièces, main-d'œuvre, garantie et éventuelle récupération de données.",
+        "Le remplacement devient plus pertinent si la carte mère est défaillante, si les réparations s'accumulent ou si le PC ne peut plus recevoir de mises à jour de sécurité adaptées."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il laisser son ordinateur portable branché en permanence ?",
+      "a_html": "<p>Vous pouvez le laisser branché lors d'une journée de travail : les ordinateurs récents gèrent généralement l'arrêt de la charge une fois le niveau atteint. Le facteur le plus dommageable reste la <strong>chaleur</strong>, surtout si le PC est chargé et fortement sollicité dans un endroit mal ventilé.</p><p>Si votre modèle offre un mode de préservation de la batterie ou une limite à 80 %, activez-le lorsque l'ordinateur reste presque toujours sur secteur. Pour une utilisation mobile, privilégiez simplement une charge adaptée à vos besoins plutôt qu'une règle rigide.</p>"
+    },
+    {
+      "q": "Comment savoir si mon ordinateur portable surchauffe ?",
+      "a_html": "<p>Un ventilateur actif pendant de longues périodes, un dessous de châssis difficile à toucher, des ralentissements inhabituels, des redémarrages ou des arrêts sont des signaux à surveiller. Commencez par dégager les aérations, fermer les tâches très gourmandes et vérifier que l'appareil repose sur une surface dure.</p><p>Si le phénomène continue au repos ou s'aggrave, faites contrôler le système de refroidissement. Ne bouchez jamais les sorties d'air pour atténuer le bruit : cela ne ferait qu'augmenter la température interne.</p>"
+    },
+    {
+      "q": "Peut-on nettoyer les aérations avec un aspirateur ?",
+      "a_html": "<p>Il vaut mieux éviter l'aspirateur puissant directement contre les grilles : son aspiration peut faire tourner un ventilateur de manière excessive ou favoriser des décharges électrostatiques selon les situations. Utilisez plutôt un chiffon pour l'extérieur et, si le fabricant l'autorise, de l'air sec en brèves pressions à distance.</p><p>Lorsque la poussière est visible à l'intérieur ou que le portable chauffe beaucoup, un nettoyage interne réalisé avec les outils appropriés par un professionnel est l'option la plus prudente.</p>"
+    },
+    {
+      "q": "Combien coûte l'entretien ou la réparation d'un ordinateur portable ?",
+      "a_html": "<p>Les montants varient beaucoup selon la marque et la réparabilité. Un diagnostic ou un dépoussiérage professionnel se situe souvent dans une fourchette de quelques dizaines d'euros ; un remplacement de batterie, de clavier ou de SSD peut aller de plusieurs dizaines à quelques centaines d'euros, pièce et main-d'œuvre comprises.</p><p>Demandez toujours un devis avant intervention. Comparez son montant avec la valeur actuelle de l'ordinateur, mais aussi avec le coût écologique et pratique d'un remplacement complet.</p>"
+    },
+    {
+      "q": "Mon ordinateur est lent : dois-je le changer ?",
+      "a_html": "<p>Pas forcément. Libérez de l'espace disque, réduisez les programmes au démarrage, mettez le système à jour et vérifiez l'absence de logiciel indésirable. Sur certains modèles, un SSD ou davantage de mémoire vive peut transformer l'expérience, à condition que les composants soient remplaçables.</p><p>En revanche, si la machine ne reçoit plus de correctifs de sécurité, plante régulièrement ou exige une réparation majeure, un renouvellement peut être plus raisonnable. Pensez alors à récupérer vos données et à faire recycler l'ancien appareil dans une filière adaptée.</p>"
+    },
+    {
+      "q": "Comment stocker un ordinateur portable plusieurs mois ?",
+      "a_html": "<p>Éteignez-le complètement, chargez-le partiellement plutôt que de le laisser vide ou à pleine charge, puis rangez-le dans un lieu sec, tempéré et à l'abri du soleil. Évitez les caves humides, les greniers très chauds et l'habitacle d'une voiture.</p><p>Pour un stockage long, vérifiez son niveau de charge périodiquement et rechargez-le modérément si besoin. Conservez également le chargeur dans de bonnes conditions, sans enrouler brutalement le câble autour du bloc d'alimentation.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Faire durer son ordinateur portable repose moins sur des manipulations techniques que sur une attention régulière : une surface bien ventilée, un transport protégé, une batterie préservée de la chaleur, des logiciels à jour et des données sauvegardées. Commencez par les gestes les plus simples dès aujourd'hui, puis planifiez un petit contrôle mensuel.</p><p>Au premier signe inhabituel, n'attendez pas la panne complète. Un ventilateur à nettoyer, une batterie à remplacer ou un SSD à moderniser peuvent suffire à prolonger utilement la vie de votre ordinateur, tout en évitant des dépenses et des déchets inutiles.</p>",
+  "__slug": "comment-entretenir-et-augmenter-la-duree-de-vie-de-votre-ordinateur-portable"
+}

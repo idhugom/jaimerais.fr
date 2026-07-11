@@ -1,0 +1,240 @@
+{
+  "title": "Comment faire une étoile avec le clavier : taper *, ★ et ☆ facilement",
+  "meta_description": "Découvrez comment taper un astérisque (*) ou une vraie étoile (★) sur PC, Mac, mobile et Chromebook, avec raccourcis et solutions de dépannage.",
+  "reading_time_min": 8,
+  "hero_intro": "Vous cherchez à faire une étoile avec votre clavier ? Selon votre besoin, il peut s'agir de l'astérisque classique (*) ou d'un véritable symbole étoile comme ★, ☆ ou ✨. Voici les méthodes simples pour les insérer sur ordinateur et mobile, sans vous perdre dans des raccourcis qui ne fonctionnent pas sur votre configuration.",
+  "key_takeaways": [
+    "L'astérisque (*) est le symbole le plus facile à taper : repérez la touche qui porte ce caractère sur votre clavier.",
+    "Une étoile pleine (★) n'est pas la même chose qu'un astérisque : elle s'insère via le panneau de caractères, une saisie Unicode ou un copier-coller.",
+    "Sous Windows, Alt + 42 sur le pavé numérique produit généralement un astérisque ; ce raccourci ne fonctionne pas toujours avec la rangée de chiffres du haut.",
+    "Sur Mac, Chromebook et mobile, le visualiseur de caractères ou le clavier de symboles est souvent la solution la plus fiable.",
+    "Évitez Ctrl + Maj + 8 dans Word : ce raccourci affiche ou masque les marques de mise en forme, il ne sert pas à écrire une étoile."
+  ],
+  "toc": [
+    "Astérisque ou vraie étoile : quel symbole faut-il choisir ?",
+    "Les symboles étoile à connaître",
+    "Taper un astérisque (*) sur PC, Mac et mobile",
+    "Insérer une vraie étoile ★, ☆ ou ✨",
+    "Étoile de texte ou emoji : quelle option choisir ?",
+    "Utiliser l'astérisque correctement dans un texte",
+    "Dépanner un raccourci qui ne fonctionne pas"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Astérisque ou vraie étoile : quel symbole faut-il choisir ?",
+      "html": "<p>Quand on parle d'« étoile au clavier », on désigne souvent l'<strong>astérisque</strong> : <strong>*</strong>. C'est un caractère typographique très courant, employé pour signaler une précision, une note de bas de page, une condition ou une information obligatoire. Il ressemble à une petite étoile, mais son apparence varie selon la police d'écriture.</p><p>Si vous souhaitez décorer un message, noter un film, créer une liste esthétique ou mettre en valeur un titre, une <strong>vraie étoile Unicode</strong> sera généralement plus adaptée : ★ pour une étoile pleine, ☆ pour une étoile vide ou ✨ pour un effet scintillant. Ces caractères ne se trouvent pas forcément sur les touches physiques du clavier : il faut alors les insérer autrement.</p><p>Le bon réflexe consiste donc à vous demander ce que vous voulez exprimer. Pour une formule, un mot de passe, une recherche informatique ou une note : utilisez *. Pour un avis, un message ou une mise en page visuelle : préférez ★, ☆ ou un emoji.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les symboles étoile à connaître",
+      "intro": "Voici les caractères les plus utiles, avec leur emploi habituel. Vous pouvez aussi les copier directement depuis ce tableau.",
+      "columns": [
+        "Symbole",
+        "Nom courant",
+        "Quand l'utiliser",
+        "À copier"
+      ],
+      "rows": [
+        [
+          "*",
+          "Astérisque",
+          "Note, multiplication dans certains outils, caractère générique, champ obligatoire",
+          "*"
+        ],
+        [
+          "★",
+          "Étoile noire ou pleine",
+          "Notation, titre, décoration discrète",
+          "★"
+        ],
+        [
+          "☆",
+          "Étoile blanche ou vide",
+          "Note non attribuée, liste, décoration",
+          "☆"
+        ],
+        [
+          "✦",
+          "Étoile décorative",
+          "Séparateur visuel ou titre créatif",
+          "✦"
+        ],
+        [
+          "✧",
+          "Petite étoile décorative",
+          "Mise en forme légère, puce élégante",
+          "✧"
+        ],
+        [
+          "✨",
+          "Étoiles scintillantes",
+          "Message informel, publication sociale, effet festif",
+          "✨"
+        ]
+      ],
+      "note": "L'affichage peut légèrement changer selon la police, le système et l'application utilisés."
+    },
+    {
+      "type": "steps",
+      "heading": "Taper un astérisque (*) sur PC, Mac et mobile",
+      "intro": "L'astérisque est normalement accessible sans installation. La méthode la plus sûre dépend surtout de votre type de clavier.",
+      "steps": [
+        {
+          "title": "Repérez la touche marquée d'un astérisque",
+          "html": "<p>Sur un clavier physique, cherchez le caractère <strong>*</strong> imprimé sur une touche. S'il apparaît en haut de la touche, maintenez généralement <strong>Maj</strong> enfoncée tout en appuyant sur cette touche. La position exacte diffère entre les dispositions AZERTY, QWERTY, belges, suisses et canadiennes : fiez-vous à ce qui est inscrit sur votre clavier plutôt qu'à une position universelle.</p>"
+        },
+        {
+          "title": "Sur Windows, essayez Alt + 42 avec le pavé numérique",
+          "html": "<p>Maintenez la touche <strong>Alt</strong>, tapez <strong>42</strong> sur le pavé numérique situé à droite du clavier, puis relâchez Alt : vous obtenez normalement *. Vérifiez que le verrouillage numérique est activé. Sur de nombreux ordinateurs portables, les chiffres de la rangée supérieure ne remplacent pas le pavé numérique pour cette méthode.</p>"
+        },
+        {
+          "title": "Sur Mac, utilisez la touche marquée * ou le visualiseur",
+          "html": "<p>Les raccourcis dépendent de la langue configurée sur macOS et de la disposition du clavier. Commencez par la touche portant *. Si vous ne la trouvez pas, ouvrez le visualiseur de caractères avec <strong>Contrôle + Commande + Espace</strong>, puis recherchez « astérisque » ou sélectionnez le caractère dans les symboles.</p>"
+        },
+        {
+          "title": "Sur Chromebook ou Linux, saisissez le caractère Unicode si nécessaire",
+          "html": "<p>Dans de nombreuses applications sous ChromeOS et Linux, vous pouvez maintenir <strong>Ctrl + Maj</strong>, saisir <strong>u002a</strong>, puis valider avec Entrée ou Espace. Le code 002A correspond à l'astérisque. Cette saisie Unicode dépend toutefois de l'application et de la configuration du système.</p>"
+        },
+        {
+          "title": "Sur iPhone et Android, passez au clavier des symboles",
+          "html": "<p>Ouvrez le clavier, touchez la touche des chiffres et symboles, souvent nommée <strong>123</strong>, <strong>?123</strong> ou <strong>#+=</strong>. L'astérisque y figure généralement. Pour ★ ou ☆, le plus rapide reste souvent de copier le symbole une première fois et de le conserver dans vos raccourcis de texte.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le faux bon raccourci : Ctrl + Maj + 8",
+      "html": "<p>Sur Microsoft Word, <strong>Ctrl + Maj + 8</strong> ne tape pas un astérisque. Ce raccourci active ou désactive l'affichage des caractères invisibles : paragraphes, espaces, tabulations et autres marques de mise en forme. C'est utile pour corriger un document, mais pas pour écrire une étoile.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Étoile de texte ou emoji : quelle option choisir ?",
+      "intro": "Les deux peuvent attirer l'œil, mais ils ne produisent pas le même effet et ne conviennent pas aux mêmes contextes.",
+      "left": {
+        "title": "Symboles texte : ★, ☆, ✦",
+        "points": [
+          "Aspect sobre et souvent plus lisible dans un document professionnel.",
+          "S'intègrent bien dans un titre, une liste ou une notation sur cinq.",
+          "Sont généralement mieux adaptés aux CV, newsletters, fiches produits et textes longs.",
+          "Le rendu peut varier légèrement selon la police employée."
+        ]
+      },
+      "right": {
+        "title": "Emoji : ✨, 🌟, ⭐",
+        "points": [
+          "Donne un ton plus expressif, chaleureux ou ludique.",
+          "Convient aux conversations, réseaux sociaux et messages personnels.",
+          "Peut paraître trop informel dans une lettre administrative ou un document professionnel.",
+          "Son apparence varie davantage selon l'appareil du destinataire."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Insérer une vraie étoile ★, ☆ ou ✨ sur ordinateur",
+      "html": "<p>Contrairement à l'astérisque, les étoiles visuelles ne sont pas toujours indiquées sur le clavier. La solution la plus fiable est d'utiliser le <strong>panneau de caractères</strong> intégré à votre système. Il permet de choisir un symbole sans mémoriser une combinaison de touches obscure.</p><p>Sous Windows, appuyez sur <strong>Windows + .</strong> pour ouvrir le panneau des emoji et symboles, puis recherchez une étoile ou explorez la catégorie des symboles. Vous pouvez également ouvrir la Table des caractères depuis le menu Démarrer : elle est pratique pour sélectionner un caractère, le copier puis le coller dans n'importe quel logiciel.</p><p>Sur Mac, le raccourci <strong>Contrôle + Commande + Espace</strong> ouvre le visualiseur de caractères. Tapez « étoile » dans la recherche ou parcourez les symboles. Une fois le caractère choisi, un clic l'insère à l'emplacement du curseur dans la plupart des applications.</p><p>Pour un usage répétitif, créez un raccourci personnalisé. Par exemple, vous pouvez demander à votre téléphone ou à votre ordinateur de remplacer « etoile1 » par ★. Vous éviterez ainsi de rechercher le symbole à chaque fois, tout en conservant un texte facile à saisir.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Bien utiliser l'astérisque dans vos textes",
+      "points": [
+        "Placez l'astérisque immédiatement après le mot ou le chiffre auquel il se rapporte : « Offre valable sous conditions* ».",
+        "Expliquez toujours l'astérisque dans une note clairement visible, idéalement sur la même page ou juste sous le tableau concerné.",
+        "Pour plusieurs notes, utilisez une progression lisible : *, **, puis ***. Au-delà, préférez des chiffres en exposant si votre logiciel le permet.",
+        "En programmation, en recherche de fichiers ou dans certains formulaires, * peut être un caractère générique : ne l'ajoutez pas au hasard.",
+        "Dans une formule de tableur, * signifie souvent « multiplier ». En mathématiques imprimées, le signe × ou un point médian peuvent être préférés selon le contexte."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quel symbole choisir selon votre besoin ?",
+      "intro": "Ce repère rapide vous aide à éviter une étoile inadaptée au contexte.",
+      "columns": [
+        "Votre situation",
+        "Symbole conseillé",
+        "Pourquoi",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "Ajouter une note légale ou une précision",
+          "*",
+          "C'est la convention typographique la plus répandue",
+          "Prix indicatif*"
+        ],
+        [
+          "Multiplier dans un tableur ou du code",
+          "*",
+          "C'est le signe attendu par la plupart des outils numériques",
+          "=A1*B1"
+        ],
+        [
+          "Donner une note sur cinq",
+          "★ et ☆",
+          "Lecture visuelle immédiate",
+          "★★★★☆"
+        ],
+        [
+          "Décorer un titre de liste",
+          "✦ ou ✧",
+          "Plus élégant et moins ambigu qu'un astérisque",
+          "✦ Mes idées du week-end"
+        ],
+        [
+          "Envoyer un message enthousiaste",
+          "✨ ou 🌟",
+          "Ton expressif et convivial",
+          "Bravo pour cette belle nouvelle ✨"
+        ],
+        [
+          "Masquer un mot de passe à l'écran",
+          "*",
+          "Représentation technique fréquente",
+          "•••••• ou ******"
+        ]
+      ],
+      "note": "Pour un document destiné à être imprimé ou lu dans un cadre formel, privilégiez les caractères texte plutôt que les emoji."
+    },
+    {
+      "type": "prose",
+      "heading": "Dépanner un raccourci qui ne fonctionne pas",
+      "html": "<p>Si aucune combinaison ne donne le résultat attendu, le problème vient souvent de la <strong>disposition du clavier</strong>. Votre ordinateur peut être réglé sur un clavier anglais alors que les touches sont imprimées en français, ou l'inverse. Sur Windows, vérifiez la langue affichée près de l'horloge. Sur Mac, contrôlez la source d'entrée dans les réglages clavier.</p><p>La méthode Alt + 42 échoue fréquemment parce que le pavé numérique est absent, désactivé ou confondu avec les chiffres au-dessus des lettres. Dans ce cas, ne perdez pas de temps : employez la touche portant *, le panneau de caractères ou un copier-coller. Ce sont des solutions parfaitement valables.</p><p>Enfin, attention aux polices très décoratives ou anciennes : elles peuvent afficher un symbole inattendu, notamment dans un document partagé. Si l'étoile doit être comprise partout, testez votre fichier sur un autre appareil ou optez pour l'astérisque, ★ et ☆, qui sont des caractères largement pris en charge.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le mémo à garder sous la main",
+      "html": "<p>Copiez cette petite sélection dans vos notes ou dans un raccourci de clavier : <strong>* ★ ☆ ✦ ✧ ✨</strong>. Vous aurez les principales étoiles prêtes à être collées dans un e-mail, un document, un commentaire ou une publication.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment faire une étoile sur un clavier AZERTY ?",
+      "a_html": "<p>Pour l'astérisque, cherchez d'abord la touche marquée <strong>*</strong> sur votre clavier AZERTY. Selon le modèle, il peut être nécessaire de maintenir la touche <strong>Maj</strong>. La position varie d'un clavier français à l'autre, notamment sur les ordinateurs portables.</p><p>Pour une étoile visuelle comme ★, utilisez le panneau de symboles de votre système ou copiez-collez le caractère.</p>"
+    },
+    {
+      "q": "Quel est le code Alt pour faire une étoile ?",
+      "a_html": "<p>Pour obtenir l'astérisque <strong>*</strong> sous Windows, maintenez <strong>Alt</strong> et tapez <strong>42</strong> sur le pavé numérique, puis relâchez Alt. Cette méthode exige généralement un véritable pavé numérique actif.</p><p>Les codes Alt pour d'autres étoiles, comme ★, peuvent varier selon l'application et les réglages. Le panneau de caractères Windows est donc plus fiable pour les symboles Unicode.</p>"
+    },
+    {
+      "q": "Comment faire le symbole étoile noire ★ avec le clavier ?",
+      "a_html": "<p>Sur Windows, ouvrez le panneau emoji et symboles avec <strong>Windows + .</strong>, puis sélectionnez ★. Sur Mac, utilisez <strong>Contrôle + Commande + Espace</strong> et recherchez « étoile ».</p><p>Vous pouvez aussi copier ce caractère : <strong>★</strong>. Si vous l'utilisez souvent, créez un raccourci de texte personnel.</p>"
+    },
+    {
+      "q": "Pourquoi Alt + 42 ne marche pas sur mon ordinateur portable ?",
+      "a_html": "<p>Le raccourci Alt + 42 fonctionne habituellement avec le pavé numérique, et non avec les chiffres situés au-dessus des lettres. Or, de nombreux portables n'ont pas de pavé numérique séparé ou nécessitent d'activer le verrouillage numérique.</p><p>Utilisez plutôt la touche contenant *, le clavier virtuel, le panneau de caractères ou un copier-coller. Ce sera souvent plus rapide.</p>"
+    },
+    {
+      "q": "Quelle est la différence entre * et ★ ?",
+      "a_html": "<p><strong>*</strong> est un astérisque. Il sert notamment aux notes de bas de page, aux formules de tableur, au code et aux recherches avec caractères génériques. <strong>★</strong> est une étoile pleine, surtout utilisée pour évaluer, décorer ou mettre en valeur une information.</p><p>Ils ne sont donc pas interchangeables : choisissez le premier pour une fonction technique ou typographique, le second pour un rendu visuel.</p>"
+    },
+    {
+      "q": "Comment mettre une étoile dans un mot de passe ?",
+      "a_html": "<p>Si le site autorise l'astérisque, tapez simplement <strong>*</strong> avec la touche correspondante de votre clavier. Vérifiez ensuite les règles du service : certains sites imposent ou refusent certains caractères spéciaux.</p><p>Ne confondez pas l'astérisque que vous saisissez avec les points ou étoiles affichés à l'écran pour masquer votre mot de passe : ces signes sont seulement une représentation visuelle de vos caractères.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Faire une étoile avec le clavier est simple dès lors que vous choisissez le bon caractère. Utilisez <strong>*</strong> pour l'astérisque et les usages techniques, puis choisissez <strong>★</strong>, <strong>☆</strong> ou <strong>✨</strong> pour une étoile plus graphique. Si un raccourci résiste, le panneau de caractères ou le copier-coller restent les méthodes les plus universelles.</p><p>Gardez vos symboles préférés dans un raccourci de texte : ce petit geste vous fera gagner du temps à chaque document, message ou publication.</p>",
+  "__slug": "comment-faire-une-etoile-avec-le-clavier"
+}

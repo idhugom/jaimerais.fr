@@ -1,0 +1,234 @@
+{
+  "title": "Caméra de surveillance : bien choisir pour sécuriser votre maison ou commerce",
+  "meta_description": "Choisissez une caméra de surveillance adaptée : critères, budget, installation, stockage et règles à respecter pour protéger votre logement ou commerce.",
+  "reading_time_min": 9,
+  "hero_intro": "Vous aimeriez garder un œil sur votre entrée, votre jardin ou votre commerce sans transformer votre quotidien en salle de contrôle ? Une caméra de surveillance bien choisie peut dissuader, vous alerter et conserver des images utiles en cas d'incident. Encore faut-il sélectionner le bon système, l'installer au bon endroit et respecter la vie privée de chacun.",
+  "key_takeaways": [
+    "Commencez par définir la zone à protéger, la distance à couvrir et le niveau d'alerte attendu : une caméra ne répond pas aux mêmes besoins à l'intérieur, au portail ou dans un commerce.",
+    "Le Wi-Fi est simple à installer, mais une caméra filaire ou PoE est généralement plus stable pour une surveillance régulière et durable.",
+    "La résolution ne fait pas tout : vision nocturne, angle de vue, emplacement, stockage et qualité de la connexion déterminent l'utilité réelle des images.",
+    "Prévoyez le coût global : matériel, carte mémoire ou enregistreur, éventuel abonnement cloud, alimentation et pose.",
+    "En France, une caméra privée ne doit pas filmer la voie publique ni les voisins ; les commerces et les lieux de travail obéissent à des règles supplémentaires."
+  ],
+  "toc": [
+    "Ce qu'une caméra de surveillance peut réellement apporter",
+    "Wi-Fi, batterie ou filaire : choisir la bonne connexion",
+    "Les critères techniques qui font la différence",
+    "Quel budget prévoir selon votre projet",
+    "Installer sa caméra au bon endroit, étape par étape",
+    "Stockage, alertes et cybersécurité",
+    "Respecter la loi et la vie privée en France",
+    "Les configurations recommandées selon l'usage"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Une caméra utile commence par un besoin bien défini",
+      "html": "<p>Une caméra de surveillance n'empêche pas à elle seule une intrusion. En revanche, elle peut constituer un <strong>outil de dissuasion, d'alerte et de vérification</strong> : vous voyez ce qui se passe, vous recevez une notification si un mouvement est détecté et vous pouvez disposer d'images à transmettre aux autorités ou à votre assureur si nécessaire.</p><p>Avant de comparer les modèles, posez-vous trois questions simples : <strong>quelle zone souhaitez-vous surveiller</strong>, <strong>à quel moment</strong> et <strong>que voulez-vous pouvoir identifier</strong> ? Vérifier qu'un colis a été déposé devant une porte ne demande pas le même matériel que distinguer un visage à plusieurs mètres d'un portail, surveiller une caisse ou contrôler les accès d'un atelier.</p><p>Faites aussi l'inventaire de ce qui existe déjà : éclairage extérieur, serrure fiable, portail, alarme, détecteurs d'ouverture ou voisinage attentif. La caméra est plus efficace lorsqu'elle complète ces mesures, plutôt que lorsqu'elle porte à elle seule toute la stratégie de sécurité.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel avant d'acheter",
+      "points": [
+        "Couvrez les accès réels : porte d'entrée, accès arrière, garage, portail ou réserve, plutôt que de vouloir filmer toute la propriété.",
+        "Choisissez une caméra extérieure certifiée contre les intempéries, idéalement au moins IP65, avec une alimentation adaptée.",
+        "Pour reconnaître un détail, rapprochez la caméra de la zone à observer : un très grand angle placé loin ne remplace pas un cadrage pertinent.",
+        "Testez les alertes avant de vous fier au système : animaux, branches, voitures et variations de lumière peuvent déclencher de faux avis.",
+        "Vérifiez qui accède aux images, où elles sont stockées et combien coûte le service après la première année."
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Caméra Wi-Fi, sur batterie ou filaire : quelle solution choisir ?",
+      "intro": "Le meilleur choix dépend moins de la marque que de la fiabilité attendue, de la possibilité de tirer un câble et de la fréquence de surveillance.",
+      "left": {
+        "title": "Wi-Fi ou batterie : la simplicité",
+        "points": [
+          "Installation rapide, souvent réalisable sans travaux importants.",
+          "Pratique pour un logement locatif, une pièce intérieure ou une zone difficile à câbler.",
+          "Modèles sur batterie utiles pour un portail, un abri ou une entrée sans prise proche.",
+          "Dépend de la portée Wi-Fi, de la qualité du réseau et, pour les modèles autonomes, de la recharge.",
+          "Peut perdre des événements si le signal est instable ou si la batterie est vide."
+        ]
+      },
+      "right": {
+        "title": "Filaire ou PoE : la continuité",
+        "points": [
+          "Alimentation et transmission plus stables, particulièrement avec un câble Ethernet PoE.",
+          "Très adapté à plusieurs caméras, à l'enregistrement continu et aux locaux professionnels.",
+          "Pas de batterie à recharger ; l'enregistreur peut centraliser les vidéos de plusieurs zones.",
+          "Demande de prévoir des câbles, parfois des perçages et une pose professionnelle.",
+          "Coût initial et temps d'installation souvent plus élevés, mais usage plus serein dans la durée."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Les critères techniques qui comptent vraiment",
+      "html": "<p>La définition est importante, mais elle doit rester proportionnée. Une caméra <strong>Full HD 1080p</strong> suffit souvent à surveiller une pièce, une entrée proche ou un passage. Une définition 2K ou autour de 4 mégapixels donne davantage de marge pour zoomer dans l'image. La 4K peut être pertinente sur une zone large et bien éclairée, mais elle consomme davantage de bande passante et d'espace de stockage. Le nombre de pixels ne compense jamais une caméra mal placée ou une scène plongée dans le noir.</p><p>Examinez ensuite la <strong>vision nocturne</strong>. Les LED infrarouges permettent de voir en noir et blanc dans l'obscurité, mais leur portée annoncée doit être lue avec prudence : murs, pluie, végétation et reflets peuvent réduire le résultat. Une vision couleur nocturne exige généralement un éclairage ambiant ou un projecteur intégré. À l'extérieur, évitez de diriger l'objectif vers un lampadaire, une baie vitrée ou une surface réfléchissante, qui risquent d'éblouir l'image.</p><p>Enfin, intéressez-vous au champ de vision, à la détection et au son. Un angle très large couvre davantage d'espace, mais les sujets paraissent plus petits. Préférez la <strong>détection de personnes avec zones d'activité paramétrables</strong> : elle limite les alertes causées par la rue, les arbres ou les animaux. L'audio bidirectionnel peut être pratique pour parler à un livreur, mais le micro est plus intrusif : activez-le seulement si son usage est réellement utile et compatible avec votre contexte.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Prix indicatifs : choisir un système cohérent avec son budget",
+      "intro": "Les tarifs varient selon la qualité d'image, la marque, le stockage et les travaux. Voici des ordres de grandeur pour le matériel, hors promotion et hors pose complexe.",
+      "columns": [
+        "Solution",
+        "Usage adapté",
+        "Budget matériel généralement constaté",
+        "Points de vigilance"
+      ],
+      "rows": [
+        [
+          "Caméra intérieure Wi-Fi",
+          "Entrée, salon, pièce d'animaux, vérification ponctuelle",
+          "25 à 80 € par caméra",
+          "Portée Wi-Fi, confidentialité à l'intérieur, alimentation secteur"
+        ],
+        [
+          "Caméra extérieure Wi-Fi alimentée",
+          "Porte, terrasse, allée, jardin proche",
+          "70 à 200 € par caméra",
+          "Indice de protection, qualité nocturne, prise électrique et signal réseau"
+        ],
+        [
+          "Caméra sur batterie",
+          "Portail, cabanon, zone sans prise accessible",
+          "60 à 220 € par caméra",
+          "Autonomie variable, recharge, enregistrement souvent déclenché par mouvement"
+        ],
+        [
+          "Caméra PoE et enregistreur réseau",
+          "Maison équipée, atelier, petit commerce, plusieurs accès",
+          "Environ 300 à 1 200 € pour un ensemble simple",
+          "Câblage Ethernet, disque dur, paramétrage et éventuelle pose"
+        ],
+        [
+          "Installation par un professionnel",
+          "Projet multi-caméras ou câblage difficile",
+          "Souvent quelques centaines d'euros, davantage avec travaux",
+          "Demander le détail de la pose, des réglages et de la maintenance"
+        ]
+      ],
+      "note": "Un abonnement de stockage cloud peut s'ajouter : comptez souvent quelques euros à une quinzaine d'euros par mois selon le nombre de caméras et la durée d'archivage."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Cadre légal : ne filmez pas au-delà de votre propriété",
+      "html": "<p>En France, une caméra installée chez vous doit filmer vos espaces privés : entrée, jardin, cour ou garage. Elle ne doit pas enregistrer la voie publique, l'intérieur des propriétés voisines ni les passants. Orientez l'objectif, masquez les zones sensibles dans l'application et informez clairement les personnes qui peuvent être filmées.</p><p>Dans un magasin ouvert au public, une copropriété ou un lieu de travail, les règles sont plus encadrées : information des personnes, accès limité aux images, durée de conservation et, selon le lieu, formalités spécifiques. Avant toute installation professionnelle, vérifiez les obligations applicables auprès de la CNIL, de votre préfecture ou d'un professionnel compétent.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Installer une caméra de surveillance efficacement en 6 étapes",
+      "intro": "Une installation réfléchie améliore davantage le résultat qu'un simple passage à un modèle plus cher.",
+      "steps": [
+        {
+          "title": "Repérez les scénarios à couvrir",
+          "html": "<p>Notez les accès à protéger et les trajets probables : portail vers porte, porte de service, garage, réserve ou caisse. Donnez une priorité aux zones de passage, plutôt qu'aux grandes vues décoratives peu exploitables.</p>"
+        },
+        {
+          "title": "Choisissez le bon point de vue",
+          "html": "<p>Placez la caméra assez haut pour limiter le sabotage, tout en gardant un angle utile sur les visages et les gestes. Un emplacement sous un avant-toit protège le matériel de la pluie et réduit parfois les reflets directs.</p>"
+        },
+        {
+          "title": "Vérifiez alimentation et réseau",
+          "html": "<p>Avant de percer, testez la couverture Wi-Fi avec votre téléphone à l'endroit visé. Pour un modèle filaire, planifiez le passage du câble et protégez les raccordements extérieurs. Une caméra connectée ne doit pas dépendre d'un signal déjà faible.</p>"
+        },
+        {
+          "title": "Réglez le cadrage au moment utile",
+          "html": "<p>Contrôlez l'image de jour puis de nuit. Ajustez l'angle pour éviter le ciel, les phares, les vitrages ou une végétation très mobile qui déclencherait des alertes inutiles.</p>"
+        },
+        {
+          "title": "Paramétrez les alertes avec mesure",
+          "html": "<p>Délimitez les zones de détection et choisissez une sensibilité raisonnable. Activez les alertes de personne si elles sont disponibles, puis observez le résultat pendant quelques jours avant de conclure que le système est fiable.</p>"
+        },
+        {
+          "title": "Testez un incident réaliste",
+          "html": "<p>Faites passer une personne par les accès surveillés, consultez l'enregistrement et vérifiez que les notifications arrivent sur le bon téléphone. Testez aussi ce qui se produit lors d'une coupure Internet ou d'électricité.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Stockage, alertes et cybersécurité : les détails qui évitent les mauvaises surprises",
+      "html": "<p>Une caméra peut enregistrer sur <strong>carte microSD</strong>, sur une station ou un enregistreur local, ou dans le cloud. La carte mémoire est économique et simple, mais elle peut être retirée ou endommagée avec la caméra. Un enregistreur local centralise plusieurs flux et convient bien à une surveillance continue. Le cloud facilite la consultation à distance et protège mieux les séquences si le matériel est emporté, mais implique souvent un abonnement et la confiance accordée au fournisseur.</p><p>Le stockage nécessaire dépend fortement de la définition, du codec vidéo, du nombre de caméras et de l'enregistrement continu ou sur mouvement. Une vidéo haute définition enregistrée 24 heures sur 24 peut occuper <strong>des dizaines, voire plus d'une centaine de gigaoctets par jour</strong>. L'enregistrement sur détection économise beaucoup d'espace, mais peut manquer le début d'une scène si le paramétrage est trop strict. Vérifiez également la durée des séquences offertes sans abonnement : certaines fonctions utiles sont parfois payantes.</p><p>Traitez votre caméra comme un ordinateur connecté. Créez un mot de passe unique et robuste, activez la double authentification lorsqu'elle existe, installez les mises à jour et retirez les comptes qui n'ont plus besoin d'accéder aux vidéos. Méfiez-vous des appareils très bon marché sans politique de mises à jour claire. Si votre routeur le permet, séparer les objets connectés du réseau principal apporte une protection supplémentaire.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Configurations simples selon votre situation",
+      "intro": "Ces exemples donnent une base de départ. Ils doivent être adaptés à la disposition des lieux et aux contraintes de confidentialité.",
+      "columns": [
+        "Situation",
+        "Configuration de départ",
+        "Réglages prioritaires",
+        "Évolution utile"
+      ],
+      "rows": [
+        [
+          "Appartement avec porte palière privée",
+          "Une caméra intérieure orientée vers votre entrée, sans filmer les parties communes",
+          "Détection de personne, cache physique si la caméra est dans une pièce de vie",
+          "Capteur d'ouverture ou visiophone si le règlement de copropriété et l'installation le permettent"
+        ],
+        [
+          "Maison avec jardin et entrée",
+          "Une caméra à l'entrée et une caméra sur l'accès secondaire, alimentées si possible",
+          "Zones de détection excluant la rue, vision nocturne testée, stockage local ou cloud",
+          "Système PoE ou enregistreur si vous ajoutez plusieurs caméras"
+        ],
+        [
+          "Portail ou dépendance éloignée",
+          "Caméra sur batterie ou raccordée au solaire si l'alimentation est impossible",
+          "Notification de personne, autonomie vérifiée, signal réseau réel",
+          "Relais Wi-Fi ou liaison filaire si les alertes sont irrégulières"
+        ],
+        [
+          "Petit commerce",
+          "Caméras fixes sur les accès et les zones à risque, stockage centralisé",
+          "Accès réservé aux personnes autorisées, affichage d'information, conservation maîtrisée",
+          "Pose professionnelle, alarme et contrôle d'accès complémentaires"
+        ]
+      ],
+      "note": "Évitez de multiplier les caméras sans objectif précis : moins de flux, mieux cadrés et correctement consultés valent souvent mieux qu'un dispositif surdimensionné."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Caméra et assurance : utile, mais jamais automatique",
+      "html": "<p>Des images datées peuvent aider à documenter un incident, mais elles ne remplacent ni une déclaration, ni les preuves demandées par votre assureur, ni les mesures de protection prévues au contrat. N'achetez pas un équipement en supposant qu'il réduira forcément votre cotisation ou garantira une indemnisation.</p><p>Relisez vos garanties avant l'installation : certains contrats précisent des exigences pour les dépendances, les locaux professionnels ou les objets de valeur. Conservez les factures du matériel, testez régulièrement l'enregistrement et gardez les images pertinentes sans les diffuser publiquement.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "La meilleure caméra est celle que vous utiliserez vraiment",
+      "html": "<p>Pour un besoin simple, une caméra extérieure Wi-Fi de bonne qualité, branchée sur secteur et installée sur un accès précis peut suffire. Pour plusieurs zones, une connexion PoE et un enregistreur local apportent généralement une meilleure continuité. Ne vous laissez pas guider uniquement par la promesse d'une très haute définition ou d'une intelligence artificielle : privilégiez un matériel suivi, compatible avec votre réseau et facile à administrer.</p><p>Au moment de finaliser votre choix, vérifiez une dernière fois cinq points : l'emplacement est-il légal et utile, l'image nocturne est-elle exploitable, l'alimentation est-elle fiable, le stockage correspond-il à votre usage et les accès au compte sont-ils sécurisés ? Cette méthode vous aidera à investir dans une surveillance proportionnée, respectueuse et réellement rassurante.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on installer une caméra de surveillance sans Wi-Fi ?",
+      "a_html": "<p>Oui. Une caméra peut fonctionner avec un câble Ethernet, notamment en PoE, avec un enregistreur réseau, ou enregistrer localement sur carte mémoire. Certaines utilisent aussi une connexion mobile avec carte SIM, mais cette solution implique généralement un forfait de données.</p><p>Sans Wi-Fi ni accès Internet, vous pourrez conserver des images localement, mais vous ne recevrez pas forcément d'alertes à distance et ne pourrez pas toujours consulter le direct depuis votre téléphone.</p>"
+    },
+    {
+      "q": "Quelle résolution choisir entre 1080p, 2K et 4K ?",
+      "a_html": "<p>Le 1080p est souvent suffisant pour surveiller une zone rapprochée. Le 2K apporte plus de détails et représente un bon compromis pour beaucoup d'installations résidentielles. La 4K a un intérêt pour une grande scène bien éclairée ou un besoin de recadrage, à condition d'accepter un stockage et une bande passante plus importants.</p><p>Regardez surtout la distance entre la caméra et le sujet, l'éclairage nocturne et le cadrage : ces éléments influencent fortement la lisibilité des images.</p>"
+    },
+    {
+      "q": "Une caméra sur batterie est-elle fiable pour l'extérieur ?",
+      "a_html": "<p>Elle peut être très pratique lorsqu'il est impossible de tirer un câble. Sa fiabilité dépend toutefois de la fréquence des déclenchements, du froid, de la qualité du signal et de la capacité de la batterie. Dans une allée très passante, elle peut se décharger plus vite que prévu.</p><p>Pour une surveillance intensive ou continue, une alimentation secteur ou PoE est généralement préférable. Vérifiez aussi que l'application prévient suffisamment tôt lorsque la charge baisse.</p>"
+    },
+    {
+      "q": "Ai-je le droit de filmer la rue devant ma maison ?",
+      "a_html": "<p>Non, une caméra privée ne doit pas filmer la voie publique, les passants ou les propriétés voisines. Orientez l'appareil vers votre portail, votre entrée ou votre jardin, et utilisez si besoin les zones de masquage proposées par l'application.</p><p>Si votre situation est particulière, par exemple en copropriété ou dans un local recevant du public, renseignez-vous sur les règles spécifiques avant d'installer le dispositif.</p>"
+    },
+    {
+      "q": "Combien de temps garder les enregistrements vidéo ?",
+      "a_html": "<p>À domicile, conservez les vidéos uniquement pendant une durée cohérente avec votre besoin de sécurité et supprimez les séquences devenues inutiles. La durée dépend aussi de la capacité de stockage et du mode d'enregistrement choisi.</p><p>Dans un lieu ouvert au public ou au travail, des règles particulières s'appliquent et la conservation est encadrée. Il faut donc définir une durée limitée, sécuriser l'accès aux images et respecter les obligations d'information.</p>"
+    },
+    {
+      "q": "Une caméra de surveillance suffit-elle à protéger une maison ?",
+      "a_html": "<p>Non. Elle permet de voir, d'alerter et parfois d'apporter un élément de preuve, mais elle ne remplace pas une porte solide, de bonnes serrures, un éclairage extérieur, une alarme ou des détecteurs d'ouverture. Une alerte ne sera utile que si vous savez quoi faire lorsqu'elle arrive.</p><p>La meilleure protection est une combinaison proportionnée : rendre l'accès plus difficile, détecter rapidement une anomalie et prévoir la réaction adaptée sans prendre de risques inutiles.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Choisir une caméra de surveillance, c'est d'abord choisir un <strong>usage précis</strong> : vérifier une entrée, protéger un accès secondaire, surveiller un commerce ou recevoir une alerte. En comparant la connectivité, la qualité nocturne, le stockage, le budget et le cadre légal, vous éviterez les achats décevants.</p><p>Commencez petit, installez soigneusement, testez vos réglages et faites évoluer votre équipement seulement si un besoin concret apparaît. Vous obtiendrez un système plus fiable, plus respectueux de la vie privée et bien plus rassurant au quotidien.</p>",
+  "__slug": "camera-de-surveillance-vous-voulez-etre-en-securite"
+}

@@ -1,0 +1,207 @@
+{
+  "title": "Crédit d'impôt innovation : le guide pratique du CII pour les PME",
+  "meta_description": "Crédit d'impôt innovation : vérifiez l'éligibilité de votre PME, calculez votre CII et préparez un dossier fiscal solide, étape par étape, sans erreur.",
+  "reading_time_min": 11,
+  "hero_intro": "Vous développez un produit plus performant, plus simple à utiliser ou plus respectueux de l'environnement ? Le crédit d'impôt innovation (CII) peut alléger une partie de vos dépenses de conception, à condition de respecter un cadre précis. Voici comment déterminer si votre PME est éligible, chiffrer votre avantage fiscal et constituer un dossier défendable.",
+  "key_takeaways": [
+    "Le CII concerne les PME qui conçoivent des prototypes ou installations pilotes de produits nouveaux sur leur marché, avec une amélioration objectivable.",
+    "Pour les dépenses exposées à compter de 2025, le taux de droit commun du CII est de 20 % et les dépenses éligibles sont plafonnées à 400 000 € par an.",
+    "Un produit simplement nouveau pour votre entreprise ne suffit pas : il doit se distinguer des solutions déjà présentes sur le marché par ses performances, ses fonctionnalités, son ergonomie ou son éco-conception.",
+    "La qualité du dossier technique, des relevés de temps et des justificatifs comptables est aussi importante que le calcul fiscal.",
+    "Une PME peut, sous conditions, demander le remboursement immédiat de sa créance de CII plutôt que d'attendre son imputation sur l'impôt."
+  ],
+  "toc": [
+    "Comprendre ce que finance réellement le crédit d'impôt innovation",
+    "CII ou CIR : choisir le bon dispositif",
+    "Dépenses éligibles et dépenses à écarter",
+    "Calculer le montant du CII sans se tromper",
+    "Déclarer le CII en 5 étapes",
+    "Constituer un dossier solide en cas de contrôle",
+    "Sécuriser son projet et piloter l'avantage fiscal"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre ce que finance réellement le crédit d'impôt innovation",
+      "html": "<p>Le <strong>crédit d'impôt innovation</strong>, ou CII, est un dispositif fiscal français destiné aux petites et moyennes entreprises. Son objectif est de soutenir la phase de conception d'un <strong>produit nouveau</strong> : étude, mise au point, réalisation de prototype ou d'installation pilote avant une éventuelle production ou commercialisation.</p><p>Le point décisif n'est pas de savoir si votre équipe a beaucoup travaillé, ni même si votre produit est nouveau dans votre catalogue. Pour ouvrir droit au CII, le produit doit être <strong>nouveau sur son marché</strong> et présenter des performances supérieures sur au moins l'un des quatre axes admis : technique, fonctionnalités, ergonomie ou éco-conception. Ces améliorations doivent pouvoir être expliquées et comparées à l'existant.</p><p>Une application métier, un objet connecté, un équipement industriel, un dispositif médical ou un bien de consommation peuvent être concernés. À l'inverse, une adaptation sur mesure pour un client, une mise à jour de confort, un changement de couleur ou une campagne de lancement ne deviennent pas éligibles parce qu'ils accompagnent un produit innovant.</p><p>Le CII s'adresse en principe aux entreprises répondant à la définition européenne de la PME : moins de 250 salariés et un chiffre d'affaires annuel inférieur ou égal à 50 millions d'euros, ou un total de bilan inférieur ou égal à 43 millions d'euros. Les liens capitalistiques avec d'autres sociétés peuvent modifier ce calcul : il faut donc examiner les entreprises partenaires ou liées, et pas uniquement les chiffres de votre société isolée.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les quatre questions à se poser avant de déclarer",
+      "points": [
+        "Votre entreprise satisfait-elle aux critères de PME, y compris au regard de son actionnariat et de son groupe ?",
+        "Le projet vise-t-il bien un produit nouveau sur son marché, et non un nouveau procédé interne ou un service ordinaire ?",
+        "Pouvez-vous démontrer une amélioration mesurable face aux solutions concurrentes ou alternatives existantes ?",
+        "Les salariés, achats et actifs retenus sont-ils rattachés précisément au projet, période par période ?",
+        "Les aides publiques reçues et les éventuelles prestations externes ont-elles été intégrées correctement dans le calcul ?"
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "CII ou CIR : deux dispositifs proches, mais pas interchangeables",
+      "intro": "Le crédit d'impôt recherche (CIR) et le CII peuvent soutenir un même programme d'innovation, mais ils ne couvrent pas la même étape ni le même niveau d'incertitude. Une même dépense ne peut pas être déclarée deux fois.",
+      "left": {
+        "title": "Crédit d'impôt innovation (CII)",
+        "points": [
+          "Réservé aux PME au sens européen.",
+          "Cible la conception de prototypes et d'installations pilotes de produits nouveaux.",
+          "La nouveauté s'apprécie par rapport au marché et aux améliorations de performance, de fonctionnalité, d'ergonomie ou d'éco-conception.",
+          "Plafond annuel de dépenses éligibles : 400 000 €.",
+          "Taux de droit commun : 20 % pour les dépenses exposées à compter de 2025, hors régimes territoriaux particuliers."
+        ]
+      },
+      "right": {
+        "title": "Crédit d'impôt recherche (CIR)",
+        "points": [
+          "Accessible à des entreprises de toute taille, sous conditions.",
+          "Cible les travaux de recherche et développement confrontés à une véritable incertitude scientifique ou technique.",
+          "L'entreprise doit démontrer une démarche de R&D allant au-delà des connaissances et techniques disponibles.",
+          "Le taux de droit commun est généralement de 30 % jusqu'à 100 millions d'euros de dépenses éligibles.",
+          "Peut couvrir une phase plus amont que le CII, si les critères de R&D sont réellement remplis."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Dépenses : ce qui peut entrer dans l'assiette du CII",
+      "intro": "Chaque poste doit être justifié, engagé pour le projet et rattaché à la phase de conception du produit innovant. Le tableau ci-dessous donne des repères ; il ne remplace pas l'analyse de votre situation.",
+      "columns": [
+        "Poste de dépense",
+        "Traitement possible",
+        "Justificatifs utiles"
+      ],
+      "rows": [
+        [
+          "Salaires et charges des salariés affectés au projet",
+          "Éligibles lorsqu'ils correspondent à des travaux de conception directement liés au prototype ou à l'installation pilote.",
+          "Contrat ou fonction, relevés de temps détaillés, livrables, bulletins de paie, ventilation analytique."
+        ],
+        [
+          "Amortissement d'équipements ou de matériels neufs",
+          "Peut être retenu pour la part d'utilisation directement affectée aux travaux éligibles.",
+          "Facture, tableau d'amortissement, description de l'usage, clé de répartition documentée."
+        ],
+        [
+          "Prototype et installation pilote",
+          "Au coeur du dispositif s'ils servent à concevoir, tester ou valider le produit nouveau avant la production courante.",
+          "Cahier des charges, versions, plans, résultats de tests, photos ou comptes rendus datés."
+        ],
+        [
+          "Prestations externes",
+          "Certaines opérations confiées à des prestataires peuvent être retenues sous conditions ; l'éligibilité et, si nécessaire, l'agrément du prestataire doivent être vérifiés.",
+          "Contrat, devis, facture détaillée, livrables, preuve de l'agrément lorsqu'il est requis."
+        ],
+        [
+          "Marketing, production commerciale, maintenance, déploiement client",
+          "En principe exclus : ces dépenses interviennent après la conception éligible ou ne caractérisent pas l'innovation du produit.",
+          "À isoler dans la comptabilité et à ne pas mélanger avec les coûts de conception."
+        ]
+      ],
+      "note": "Les règles ont évolué pour les dépenses exposées à compter de 2025, notamment pour certains frais périphériques. Ne présumez pas qu'un brevet, une norme ou un dessin donne automatiquement droit au CII : vérifiez le régime applicable à votre exercice."
+    },
+    {
+      "type": "prose",
+      "heading": "Calculer le montant du CII : taux, plafond et aides à déduire",
+      "html": "<p>Le calcul part des <strong>dépenses éligibles retenues</strong>, et non du budget global du lancement. Pour les dépenses exposées à compter du 1er janvier 2025, le taux de droit commun est de 20 %. L'assiette est plafonnée à 400 000 € par année civile, soit un crédit maximal de 80 000 € dans le régime de droit commun. Des taux spécifiques, notamment en Corse selon la taille de l'entreprise, peuvent s'appliquer.</p><p>Exemple simple : votre PME retient 180 000 € de dépenses éligibles après analyse et après prise en compte des aides reçues. Son CII théorique est de 36 000 € au taux de 20 %. Si elle engage 520 000 € de dépenses pourtant éligibles, la base reste limitée à 400 000 € : le crédit de droit commun ne peut alors pas dépasser 80 000 €.</p><p>Attention aux <strong>subventions et avances remboursables</strong> affectées au projet : elles peuvent réduire l'assiette dans les conditions prévues par les règles fiscales. De même, il est indispensable d'éviter tout double compte entre CII, CIR et autres avantages sur une même dépense. L'enjeu n'est pas de rattacher le maximum de coûts au dispositif, mais de retenir une base exacte, cohérente et prouvable.</p><p>Le CII vient s'imputer sur l'impôt sur les bénéfices. Si la créance ne peut pas être utilisée immédiatement, elle est en principe reportable ; les PME peuvent généralement demander un remboursement immédiat sous réserve de remplir les conditions. Ce mécanisme peut améliorer la trésorerie, mais il faut anticiper les délais de traitement et ne pas financer un projet en supposant un encaissement instantané.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Les chiffres à garder en tête",
+      "items": [
+        {
+          "value": "20 %",
+          "label": "taux de droit commun du CII pour les dépenses exposées à compter de 2025"
+        },
+        {
+          "value": "400 000 €",
+          "label": "plafond annuel des dépenses prises en compte dans le régime de droit commun"
+        },
+        {
+          "value": "80 000 €",
+          "label": "montant maximal théorique du CII annuel au taux de 20 %"
+        },
+        {
+          "value": "< 250",
+          "label": "nombre de salariés au-delà duquel une entreprise ne relève généralement plus de la définition européenne de la PME"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Déclarer le crédit d'impôt innovation en 5 étapes",
+      "intro": "Ne commencez pas par la déclaration fiscale : construisez d'abord une démonstration technique et financière cohérente. Voici une méthode simple à intégrer au pilotage du projet.",
+      "steps": [
+        {
+          "title": "1. Délimitez le projet et sa période éligible",
+          "html": "<p>Décrivez le produit visé, le marché de référence, les versions développées et les dates clés. Distinguez la conception éligible de la production, du déploiement et de la commercialisation.</p>"
+        },
+        {
+          "title": "2. Prouvez la nouveauté et les améliorations",
+          "html": "<p>Établissez un état de l'art ou un benchmark daté : solutions concurrentes, fiches techniques, retours utilisateurs, contraintes environnementales. Indiquez précisément ce que votre produit apporte de plus et comment vous le mesurez.</p>"
+        },
+        {
+          "title": "3. Tracez les dépenses au fil de l'eau",
+          "html": "<p>Organisez les temps passés, factures, amortissements et prestations par projet. Une reconstitution faite deux ans après est moins fiable qu'un suivi mensuel validé par les responsables technique et financier.</p>"
+        },
+        {
+          "title": "4. Calculez l'assiette nette et contrôlez les exclusions",
+          "html": "<p>Écartez les coûts commerciaux et de production, déduisez les aides à prendre en compte et vérifiez les règles applicables aux prestations externes. Faites relire les ventilations inhabituelles.</p>"
+        },
+        {
+          "title": "5. Déposez la déclaration et conservez le dossier",
+          "html": "<p>Le CII se déclare notamment au moyen du formulaire fiscal 2069-A-SD, avec les déclarations de résultat ou de solde correspondantes selon votre régime. Archivez la déclaration, les calculs et toutes les pièces techniques et comptables.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L'erreur la plus fréquente : confondre innovation et nouveauté interne",
+      "html": "<p>Un produit peut être très important pour votre entreprise sans être éligible au CII. Le critère porte sur le <strong>marché</strong>. Affirmer que « nous ne le faisions pas avant » ne suffit pas : il faut montrer que le produit n'était pas déjà disponible sous une forme équivalente et qu'il apporte une amélioration significative.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Constituer un dossier solide en cas de contrôle",
+      "html": "<p>Un bon dossier CII raconte une histoire vérifiable : un besoin identifié, un marché analysé, des choix de conception, des essais, des résultats et des dépenses reliées à chaque étape. Il doit pouvoir être compris à la fois par une personne technique et par une personne chargée du contrôle fiscal.</p><p>Pour chaque projet, prévoyez une note synthétique avec l'objectif produit, les références de marché comparées, les améliorations revendiquées et les indicateurs associés. Ajoutez les versions de cahier des charges, comptes rendus de réunions, rapports de tests, maquettes, résultats de mesures et décisions de validation. Les documents datés au moment des faits ont une valeur particulière.</p><p>Sur le plan financier, les relevés de temps sont essentiels. Ils doivent être cohérents avec le rôle des personnes, les livrables produits et la masse salariale comptabilisée. Évitez les taux d'affectation identiques et arrondis pour toute l'équipe pendant toute l'année : une ventilation réaliste, expliquée et contrôlable est beaucoup plus crédible.</p><p>Conservez les pièces comptables et fiscales pendant la durée légale applicable, et gardez idéalement le dossier projet complet au moins six ans. Si vous faites appel à un cabinet, restez propriétaire des fichiers sources, du raisonnement technique et des calculs : la responsabilité de la déclaration demeure celle de l'entreprise.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Sécurisez les projets les plus importants avant de déclarer",
+      "html": "<p>Lorsque l'enjeu financier est élevé ou que la frontière entre CII et CIR est délicate, un <strong>rescrit</strong> peut aider à sécuriser votre position avant la déclaration. Il faut présenter le projet avec sincérité et suffisamment de précision, puis respecter les faits exposés. Un expert-comptable, un conseil fiscal ou un spécialiste de la R&D peut aussi relire le dossier ; comparez son périmètre d'intervention, son accompagnement en cas de contrôle et ses honoraires avant de signer.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Faire du CII un outil de pilotage, pas une prime de dernière minute",
+      "html": "<p>Le CII est plus utile lorsqu'il est intégré dès le lancement du projet. Créez un code analytique, désignez un référent technique et un référent financier, puis prévoyez un point trimestriel : avancement du prototype, temps engagés, dépenses externes, aides reçues et preuves de nouveauté. Cette routine limite les oublis et évite de surévaluer une assiette en fin d'exercice.</p><p>Un accompagnement externe peut être pertinent pour un premier dossier, un projet complexe ou un contrôle. Son coût varie fortement selon le volume de travaux : une revue ciblée peut coûter quelques centaines d'euros, tandis qu'un dossier complet et un accompagnement approfondi peuvent atteindre plusieurs milliers d'euros. Les rémunérations au pourcentage du crédit obtenu sont fréquentes ; demandez toujours ce qui est inclus, notamment la défense du dossier en cas de demande de l'administration.</p><p>Enfin, ne laissez pas le CII dicter votre stratégie produit. Il ne transforme pas un projet faible en opportunité rentable. En revanche, pour une PME qui a déjà identifié un besoin de marché et qui sait documenter ses choix de conception, il peut réduire le risque financier et libérer des moyens pour tester, améliorer et industrialiser au bon moment.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la différence entre le CII et le CIR ?",
+      "a_html": "<p>Le <strong>CII</strong> soutient les PME qui conçoivent des prototypes ou installations pilotes de produits nouveaux sur leur marché. Le <strong>CIR</strong> vise des travaux de recherche et développement caractérisés par une incertitude scientifique ou technique plus forte.</p><p>Un même programme peut comporter des phases relevant de l'un ou de l'autre, mais une même dépense ne peut pas être prise en compte deux fois. La qualification doit être faite projet et dépense par dépense.</p>"
+    },
+    {
+      "q": "Une entreprise de logiciels peut-elle bénéficier du crédit d'impôt innovation ?",
+      "a_html": "<p>Oui, potentiellement, si le logiciel constitue un produit nouveau sur son marché et apporte des améliorations significatives objectivables en matière de fonctionnalités, de performance, d'ergonomie ou d'éco-conception.</p><p>En revanche, le développement courant, l'intégration d'outils existants, la maintenance, la correction de bugs ou une adaptation spécifique à un client ne sont pas automatiquement éligibles. Le dossier doit comparer la solution à l'offre disponible sur le marché.</p>"
+    },
+    {
+      "q": "Peut-on cumuler le CII avec une subvention ou une aide Bpifrance ?",
+      "a_html": "<p>Le cumul est possible dans de nombreuses situations, mais une aide publique liée au projet peut réduire la base de dépenses retenue pour le CII. Il faut donc identifier précisément l'objet, le montant et la date de chaque aide.</p><p>Avant de calculer le crédit, rapprochez les conventions de financement de vos dépenses éligibles et faites vérifier le traitement des subventions, avances remboursables et autres dispositifs fiscaux.</p>"
+    },
+    {
+      "q": "Une micro-entreprise peut-elle demander le CII ?",
+      "a_html": "<p>La forme juridique ne décide pas à elle seule de l'éligibilité. L'entreprise doit notamment relever de la définition européenne de la PME, exercer une activité concernée et être placée dans un régime fiscal permettant de déterminer les dépenses réelles selon les règles du dispositif.</p><p>Le régime micro, fondé sur un abattement forfaitaire plutôt que sur la déduction des charges réelles, rend généralement le recours au CII inadapté. Une vérification auprès d'un professionnel est recommandée avant toute option ou déclaration.</p>"
+    },
+    {
+      "q": "Comment obtenir le remboursement du crédit d'impôt innovation ?",
+      "a_html": "<p>Le CII s'impute d'abord sur l'impôt sur les bénéfices. Les PME qui remplissent les conditions peuvent en principe demander le remboursement immédiat de leur créance, via les modalités déclaratives fiscales prévues avec leur liasse.</p><p>Le remboursement n'est pas une simple formalité de trésorerie : le montant demandé doit reposer sur une assiette exacte et un dossier complet. Gardez donc les justificatifs disponibles dès le dépôt de la demande.</p>"
+    },
+    {
+      "q": "Combien de temps faut-il garder les justificatifs du CII ?",
+      "a_html": "<p>Conservez les déclarations, calculs, factures, relevés de temps et preuves techniques pendant la durée légale de conservation applicable. En pratique, archiver le dossier complet pendant au moins six ans constitue une précaution utile.</p><p>Ne gardez pas seulement les pièces comptables : les éléments qui prouvent la nouveauté du produit, les comparaisons de marché et les résultats de tests sont déterminants pour expliquer pourquoi le projet relève du CII.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Le crédit d'impôt innovation peut représenter un levier concret pour une PME qui transforme une idée en produit différenciant. Pour en bénéficier sereinement, retenez une méthode : <strong>qualifier le produit par rapport à son marché, isoler les dépenses réellement éligibles et documenter le projet au fil de l'eau</strong>.</p><p>Commencez par un projet pilote, rassemblez vos preuves techniques et vérifiez votre calcul avant le dépôt. Cette rigueur vous permettra de mobiliser le CII comme un véritable outil de financement de l'innovation, plutôt que comme une opportunité fiscale incertaine.</p>",
+  "__slug": "comment-les-pme-peuvent-elles-beneficier-des-credits-dimpot-pour-linnovation"
+}

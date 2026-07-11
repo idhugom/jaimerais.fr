@@ -1,0 +1,233 @@
+{
+  "title": "Potager urbain : cultiver légumes et aromates en ville, même sans jardin",
+  "meta_description": "Découvrez comment créer un potager urbain productif sur balcon, terrasse ou rebord de fenêtre : cultures, matériel, arrosage et astuces.",
+  "reading_time_min": 12,
+  "hero_intro": "Un balcon de quelques mètres carrés, une fenêtre ensoleillée ou une cour partagée peuvent suffire pour récolter des aromates, des salades et même des tomates. Cultiver en ville demande surtout de bien observer son espace, de choisir des contenants adaptés et de privilégier des variétés réalistes. Voici une méthode concrète pour faire de votre coin urbain un potager durable, productif et agréable à vivre.",
+  "key_takeaways": [
+    "La lumière est le premier critère : adaptez les légumes à l'exposition plutôt que de forcer des cultures peu adaptées.",
+    "Sur un balcon, un grand bac profond et un substrat de qualité produisent généralement mieux qu'une multitude de petits pots.",
+    "Les aromates, les salades, les radis, les tomates cerises et les haricots nains sont d'excellentes cultures pour débuter en ville.",
+    "Un arrosage régulier, du paillage et des soucoupes bien gérées limitent les échecs liés à la chaleur et au manque d'eau.",
+    "L'hydroponie, les murs cultivés et les capteurs connectés peuvent être utiles, mais ne remplacent pas les fondamentaux : lumière, eau, nutriments et volume de racines."
+  ],
+  "toc": [
+    "Évaluer son espace avant de planter",
+    "Choisir la technique de culture adaptée à la ville",
+    "Les légumes et aromates les plus faciles à cultiver",
+    "Installer un potager urbain étape par étape",
+    "Substrat, fertilisation et compostage en appartement",
+    "Arroser sans gaspiller sur un balcon",
+    "Cultures verticales, hydroponie et potager connecté",
+    "Prévenir les erreurs, les parasites et les conflits de voisinage",
+    "Faire vivre un potager urbain toute l'année"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Évaluer son espace avant de planter",
+      "html": "<p>Le potager urbain le plus réussi n'est pas forcément le plus sophistiqué : c'est celui qui correspond aux contraintes réelles du lieu. Avant d'acheter des plants, observez votre balcon, votre terrasse, votre rebord de fenêtre ou votre cour pendant quelques jours. Notez les heures de soleil direct, les zones très ventées, la proximité d'un mur qui réfléchit la chaleur et l'accès à un point d'eau.</p><p>La plupart des légumes-fruits, comme les tomates, les poivrons, les aubergines et les fraises, ont besoin d'environ <strong>six heures de soleil direct ou davantage</strong> pour être vraiment généreux. Avec trois à cinq heures de lumière, misez plutôt sur les salades, les épinards, la roquette, les radis, la ciboulette, le persil ou la menthe. Un emplacement lumineux sans soleil direct reste intéressant pour certaines aromatiques et jeunes pousses, mais il limitera les récoltes de légumes exigeants.</p><p>Vérifiez aussi la charge que peut supporter votre installation. Un bac de 60 litres rempli de terreau humide pèse déjà lourd ; plusieurs grandes jardinières, une réserve d'eau et des dalles peuvent rapidement représenter une charge importante. En cas de doute, consultez le règlement de copropriété, votre bailleur ou un professionnel pour les grandes installations. Les pots doivent être stables, éloignés du garde-corps et placés de manière à ce qu'aucune eau ne puisse s'écouler chez les voisins.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Les repères qui font la différence",
+      "items": [
+        {
+          "value": "6 h et plus",
+          "label": "de soleil direct : idéal pour tomates, poivrons, fraises et basilic"
+        },
+        {
+          "value": "20 à 30 cm",
+          "label": "de profondeur minimale pour salades, radis et la plupart des aromates"
+        },
+        {
+          "value": "30 à 40 cm",
+          "label": "de profondeur utile pour tomates cerises, haricots et légumes plus gourmands"
+        },
+        {
+          "value": "1 grand bac",
+          "label": "souvent plus facile à gérer que plusieurs petits pots qui sèchent très vite"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Choisir la technique de culture adaptée à la ville",
+      "intro": "Chaque solution a ses atouts. Le bon choix dépend surtout de votre place disponible, de votre temps et du type de récolte recherché.",
+      "columns": [
+        "Solution",
+        "Pour quels espaces ?",
+        "Atouts",
+        "Limites et budget indicatif"
+      ],
+      "rows": [
+        [
+          "Pots et jardinières",
+          "Fenêtre, balcon, terrasse",
+          "Simple, modulable, accessible aux débutants",
+          "Sèche vite dans les petits volumes ; souvent 40 à 120 € pour démarrer correctement"
+        ],
+        [
+          "Bacs profonds surélevés",
+          "Terrasse, cour, toit autorisé",
+          "Bon volume de terre, confort de culture, récoltes plus abondantes",
+          "Poids important et besoin d'un espace stable ; souvent 100 à 300 € ou plus"
+        ],
+        [
+          "Culture verticale",
+          "Mur solide, balcon étroit",
+          "Libère le sol, pratique pour aromates et salades",
+          "Arrosage inégal possible, poches limitées pour les gros légumes ; environ 30 à 150 €"
+        ],
+        [
+          "Hydroponie domestique",
+          "Intérieur lumineux ou balcon abrité",
+          "Très propre, maîtrise des apports, pousse rapide de feuilles et aromates",
+          "Matériel, surveillance du pH et solution nutritive ; généralement 100 à 500 € selon l'équipement"
+        ],
+        [
+          "Jardin partagé",
+          "Quartier, pied d'immeuble, parcelle collective",
+          "Grande surface, échanges, compost et outils mutualisés",
+          "Organisation collective et accès parfois limité ; cotisation souvent modeste ou gratuite selon la structure"
+        ]
+      ],
+      "note": "Les montants sont des ordres de grandeur : réemploi de contenants, échanges de plants et fabrication maison peuvent réduire fortement le budget."
+    },
+    {
+      "type": "comparison",
+      "heading": "Culture en terre ou hydroponie : faut-il choisir ?",
+      "intro": "Ces deux approches peuvent cohabiter. La première est plus intuitive ; la seconde séduit lorsque l'espace est propre, réduit et très contrôlé.",
+      "left": {
+        "title": "Potager en terreau ou substrat organique",
+        "points": [
+          "Convient à la plupart des débutants et à une large variété de légumes.",
+          "Tolère mieux de petites erreurs de dosage et permet d'utiliser compost et paillage.",
+          "Favorise un écosystème vivant dans le bac, avec une gestion généralement simple.",
+          "Demande des contenants assez grands et un renouvellement partiel du substrat au fil des saisons."
+        ]
+      },
+      "right": {
+        "title": "Hydroponie ou culture sans terre",
+        "points": [
+          "Particulièrement intéressante pour basilic, laitues, jeunes pousses et aromates.",
+          "Peut économiser de l'espace et faciliter la culture en intérieur sous éclairage adapté.",
+          "Exige un suivi régulier de l'eau, de la solution nutritive, du pH et de la propreté du système.",
+          "Ne supprime pas les besoins essentiels : lumière suffisante, température stable et entretien régulier."
+        ]
+      }
+    },
+    {
+      "type": "key_points",
+      "heading": "Les cultures les plus gratifiantes pour commencer",
+      "points": [
+        "Aromates : ciboulette, persil, thym, origan, basilic et menthe, cette dernière de préférence dans un pot isolé car elle s'étend vite.",
+        "Feuilles rapides : laitues à couper, roquette, mesclun, épinards et blettes compactes.",
+        "Racines peu exigeantes : radis, petites carottes rondes dans un bac profond, betteraves jeunes.",
+        "Légumes d'été : tomates cerises, piments doux, concombres compacts et haricots nains, seulement avec un bon ensoleillement.",
+        "Fleurs utiles : capucines, souci ou bourrache pour apporter de la couleur, accueillir les insectes et enrichir la diversité."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Installer votre premier potager urbain en 6 étapes",
+      "intro": "L'objectif n'est pas de remplir tout l'espace dès le premier printemps. Commencez avec deux ou trois cultures que vous aimez réellement cuisiner.",
+      "steps": [
+        {
+          "title": "1. Mesurez la lumière et le volume disponible",
+          "html": "<p>Repérez le nombre d'heures de soleil, les zones exposées aux rafales et l'emplacement possible des bacs. Prévoyez un passage confortable pour arroser, récolter et nettoyer sans déplacer tous les pots.</p>"
+        },
+        {
+          "title": "2. Choisissez des contenants percés et stables",
+          "html": "<p>Préférez des pots larges et profonds, équipés de trous de drainage. Une soucoupe ou un tapis de protection retient l'eau, mais ne doit pas laisser les racines tremper durablement. Les bacs en résine, terre cuite, bois traité pour l'usage extérieur ou contenants recyclés sûrs conviennent selon votre budget.</p>"
+        },
+        {
+          "title": "3. Remplissez avec un substrat léger mais nourrissant",
+          "html": "<p>Utilisez un terreau pour potager ou plantes potagères, idéalement complété d'un peu de compost mûr. La terre de jardin seule est souvent trop lourde en pot : elle se tasse, draine mal et manque d'air autour des racines.</p>"
+        },
+        {
+          "title": "4. Plantez à la bonne saison et sans surcharger",
+          "html": "<p>Respectez les distances annoncées sur les étiquettes. Une jardinière trop dense semble prometteuse au départ, puis manque de lumière, d'eau et de nutriments. Installez les plantes frileuses seulement après les dernières périodes froides de votre région.</p>"
+        },
+        {
+          "title": "5. Arrosez abondamment après la plantation",
+          "html": "<p>Arrosez doucement au pied pour humidifier toute la motte. Ajoutez ensuite une fine couche de paillage : paille propre, feuilles sèches non malades, copeaux adaptés ou fibres végétales. Elle freine l'évaporation et protège le substrat des fortes chaleurs.</p>"
+        },
+        {
+          "title": "6. Observez et ajustez chaque semaine",
+          "html": "<p>Récoltez les feuilles régulièrement, attachez les tiges qui grandissent et contrôlez l'humidité du terreau avec un doigt. Le jardinage urbain devient beaucoup plus simple lorsqu'il s'intègre à une routine de quelques minutes, deux à trois fois par semaine en été.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le meilleur investissement : le volume de terre",
+      "html": "<p>Pour une tomate cerise, préférez un contenant d'au moins <strong>30 à 40 litres</strong> plutôt qu'un petit pot décoratif. Un volume généreux stabilise l'humidité, laisse de la place aux racines et réduit la fréquence des arrosages. Si vous devez arbitrer, achetez moins de plantes mais de meilleurs bacs.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Substrat, fertilisation et compostage en appartement",
+      "html": "<p>En pot, les nutriments disponibles sont limités : les arrosages les entraînent progressivement vers le fond du contenant et les plantes les consomment rapidement. Au début de la saison, un terreau potager neuf enrichi de compost mûr offre une bonne base. Pour les cultures longues et gourmandes, comme la tomate, le concombre ou le poivron, un apport organique complémentaire peut être utile en cours de saison, en respectant toujours le dosage indiqué par le fabricant.</p><p>Évitez le réflexe consistant à fertiliser beaucoup dès qu'une feuille jaunit. Le problème peut venir d'un excès d'eau, d'un manque de soleil, d'un froid passager ou de racines à l'étroit. Commencez par examiner la plante et le substrat. Un engrais trop concentré peut brûler les racines et favoriser un feuillage abondant au détriment des fruits.</p><p>Le <strong>lombricomposteur</strong> est une solution intéressante en appartement pour transformer une partie des épluchures végétales, du marc de café en quantité raisonnable, du carton brun non imprimé et des feuilles mortes en matière organique. Il doit être alimenté progressivement et équilibré avec des matières sèches. Évitez d'y mettre les liquides, les grandes quantités d'agrumes, les aliments très salés ou gras et les restes de viande. Si cette gestion vous semble trop contraignante, les bornes de biodéchets et les composteurs de quartier restent d'excellentes alternatives.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Arroser sans gaspiller sur un balcon",
+      "html": "<p>Le manque d'eau est l'une des premières causes d'échec en potager urbain, surtout sur un balcon exposé au soleil et au vent. En été, un petit pot peut sécher en une journée chaude. Arrosez de préférence tôt le matin ou le soir, directement au pied, jusqu'à ce qu'un peu d'eau s'écoule par les trous de drainage. Attendez ensuite que la surface sèche légèrement avant de recommencer : un terreau constamment détrempé asphyxie les racines.</p><p>Pour limiter les oublis, adaptez le dispositif à votre quotidien : réserve d'eau intégrée, oyas adaptés aux grands bacs, bouteilles d'arrosage ponctuelles ou goutte-à-goutte relié à un programmateur. Un système automatique est utile pendant les vacances, mais il doit être testé avant le départ et ajusté à la météo. L'automatisation ne détecte pas toujours une fuite, une canicule ou un pot déjà saturé.</p><p>Récupérer l'eau de pluie est pertinent si votre logement le permet et si le stockage est sécurisé. En revanche, n'utilisez pas sans précaution une eau ayant ruisselé sur une toiture ou une surface dont vous ne connaissez pas les matériaux. Pour des plantes comestibles, l'eau du réseau reste une solution simple et fiable lorsque la récupération n'est pas adaptée.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux fausses bonnes idées",
+      "html": "<p>Ne posez pas de jardinières à l'extérieur d'un garde-corps sans fixation conçue pour cet usage, et ne laissez pas l'eau de drainage couler sur la façade ou le balcon inférieur. Ne cultivez pas non plus directement dans un sol urbain inconnu avant d'avoir évalué le risque de pollution. En pleine terre près d'anciennes zones industrielles ou de circulation intense, les bacs remplis d'un substrat propre constituent souvent l'option la plus prudente.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Cultures verticales, hydroponie et potager connecté : des innovations utiles si elles répondent à un besoin",
+      "html": "<p>Dans une ville dense, cultiver à la verticale permet de gagner de la place. Treillis, grilles, tuteurs et étagères accueillent volontiers pois, haricots grimpants, petites variétés de concombres, fraisiers et aromates. Réservez les emplacements les plus hauts aux plantes légères ou retombantes et gardez les cultures lourdes, comme les grosses tomates, dans des bacs au sol solidement tuteurés. Toute fixation sur un mur extérieur doit être compatible avec le support et les règles de l'immeuble.</p><p>Les tours de culture et poches murales sont séduisantes, mais elles présentent une difficulté : le haut sèche parfois beaucoup plus vite que le bas. Installez un système d'arrosage réparti ou surveillez chaque niveau. Pour obtenir de belles récoltes, ne cherchez pas à faire pousser des légumes volumineux dans quelques centimètres de substrat : les salades et les aromates y sont généralement plus à leur place.</p><p>Capteurs d'humidité, programmateurs et éclairages horticoles peuvent simplifier la gestion d'un potager, notamment en intérieur. Ils sont surtout intéressants si vous manquez de temps ou si vous cultivez toute l'année. Avant d'investir, apprenez toutefois à reconnaître un terreau sec, une plante qui manque de lumière ou une feuille naturellement en fin de cycle : cette observation reste le meilleur outil du jardinier.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Prévenir les parasites, les maladies et les conflits de voisinage",
+      "html": "<p>La diversité est votre meilleure alliée. Associez fleurs, aromates et légumes, évitez les monocultures et espacez les plantes pour que l'air circule. Inspectez régulièrement le revers des feuilles : pucerons, aleurodes ou acariens sont plus faciles à gérer au début d'une infestation. Un jet d'eau doux sur les feuilles, le retrait manuel des colonies et l'élimination des parties très atteintes suffisent souvent pour les petits foyers.</p><p>Les maladies cryptogamiques sont favorisées par le feuillage mouillé, le manque d'aération et les arrosages excessifs. Arrosez le substrat plutôt que les feuilles, retirez les feuilles malades et évitez de composter les végétaux fortement touchés. Ne multipliez pas les traitements « naturels » à l'aveugle : certains produits, même d'origine naturelle, peuvent nuire aux insectes utiles ou ne pas convenir aux cultures alimentaires.</p><p>Enfin, un potager urbain s'inscrit dans un habitat partagé. Prévenez les coulures, fixez les tuteurs, ramassez les feuilles tombées et discutez avec les voisins si vous installez une structure visible. Un jardin bien entretenu devient plus facilement une source de conversations, de graines échangées et parfois de récoltes partagées.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Faire vivre votre potager toute l'année",
+      "points": [
+        "Au printemps, semez radis, salades, pois et aromates rustiques ; attendez la douceur pour les tomates, basilics et poivrons.",
+        "En été, récoltez souvent, paillez, tuteurez et surveillez l'arrosage lors des périodes chaudes.",
+        "À l'automne, plantez mâche, épinards, roquette, radis d'hiver ou aromates vivaces selon votre climat.",
+        "En hiver, videz les pots malades, protégez les plantes sensibles au gel et améliorez le substrat avec compost ou matière organique mûre.",
+        "D'une saison à l'autre, alternez les familles de légumes dans les grands bacs pour limiter l'épuisement du substrat et certains problèmes sanitaires."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Que peut-on cultiver sur un balcon sans beaucoup de soleil ?",
+      "a_html": "<p>Avec une exposition lumineuse mais peu ensoleillée, privilégiez les salades à couper, la roquette, les épinards, les blettes, le persil, la ciboulette et la menthe. Les radis peuvent également donner des résultats corrects avec quelques heures de lumière. Les tomates, poivrons et aubergines seront en revanche souvent décevants sans soleil direct suffisant.</p><p>Observez aussi la saison : un balcon peu ensoleillé peut devenir plus lumineux lorsque les arbres perdent leurs feuilles, ou à l'inverse être ombragé en été par un immeuble voisin.</p>"
+    },
+    {
+      "q": "Quel budget prévoir pour démarrer un potager urbain ?",
+      "a_html": "<p>Avec des pots récupérés et quelques semis, il est possible de commencer avec un petit budget. Pour une installation durable comprenant deux grands bacs, du terreau de qualité, quelques plants, du paillage et des tuteurs, comptez souvent entre <strong>80 et 200 €</strong>.</p><p>La dépense la plus utile concerne les contenants assez grands et le substrat. Les accessoires connectés, l'hydroponie ou les structures verticales peuvent attendre que vous ayez identifié vos besoins.</p>"
+    },
+    {
+      "q": "Comment cultiver des tomates cerises en pot ?",
+      "a_html": "<p>Choisissez une variété adaptée à la culture en bac, un pot d'au moins 30 à 40 litres percé, une exposition très ensoleillée et un tuteur posé dès la plantation. Utilisez un terreau riche pour légumes et gardez l'humidité relativement régulière : les alternances entre sécheresse et arrosage excessif favorisent les problèmes de croissance et l'éclatement des fruits.</p><p>Retirez les feuilles abîmées, récoltez les tomates dès qu'elles sont bien colorées et apportez un fertilisant adapté si la culture se prolonge et que le substrat s'appauvrit.</p>"
+    },
+    {
+      "q": "Un lombricomposteur sent-il mauvais dans un appartement ?",
+      "a_html": "<p>Un lombricomposteur bien équilibré ne devrait pas dégager de forte odeur. Une odeur désagréable signale généralement un excès de déchets humides, trop de nourriture donnée d'un coup, un manque de carton ou une mauvaise aération.</p><p>Ajoutez alors de la matière sèche, réduisez temporairement les apports et vérifiez que le système n'est ni trop chaud ni trop froid. Installez-le dans un endroit tempéré, à l'abri du soleil direct et du gel.</p>"
+    },
+    {
+      "q": "Peut-on faire un potager sur un rebord de fenêtre ?",
+      "a_html": "<p>Oui, à condition que le rebord soit assez large, solide et sécurisé. Les jardinières doivent être fixées du côté intérieur ou avec un système conçu pour empêcher toute chute. Vérifiez les règles de votre immeuble avant une installation extérieure.</p><p>Les aromates, les salades à couper, les radis et certaines fraises sont mieux adaptés qu'un plant de tomate lourd et haut. Privilégiez des contenants légers mais suffisamment profonds, avec une récupération d'eau efficace.</p>"
+    },
+    {
+      "q": "Faut-il utiliser des pesticides dans un potager urbain ?",
+      "a_html": "<p>Dans un petit potager, la prévention et l'observation sont généralement les solutions les plus efficaces : plantes bien espacées, arrosage au pied, retrait manuel des parasites et diversité végétale. Identifiez le problème avant toute intervention, car une feuille trouée ou jaunie n'indique pas toujours une infestation grave.</p><p>Évitez les insecticides non sélectifs, qui peuvent aussi toucher les pollinisateurs et les auxiliaires. En cas de doute ou d'attaque importante, demandez conseil à une jardinerie compétente ou à un jardin partagé local en précisant que la culture est destinée à être consommée.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Créer un potager urbain, ce n'est pas reproduire un grand jardin sur un balcon : c'est <strong>composer intelligemment avec la lumière, le poids, l'eau et le temps disponible</strong>. Commencez petit, avec des plantes faciles que vous aurez plaisir à cuisiner, puis faites évoluer votre installation au fil de vos observations.</p><p>Un bac de salades, quelques aromates et un plant de tomate cerise peuvent déjà transformer le quotidien. En ville aussi, cultiver permet de récolter, de mieux comprendre les saisons et de redonner une place concrète au vivant, à quelques pas de la cuisine.</p>",
+  "__slug": "cultiver-en-ville-techniques-innovantes-pour-un-potager-urbain-florissant"
+}

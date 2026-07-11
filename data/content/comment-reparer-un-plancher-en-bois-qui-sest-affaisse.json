@@ -1,0 +1,227 @@
+{
+  "title": "Comment réparer un plancher en bois affaissé : diagnostic, solutions et précautions",
+  "meta_description": "Plancher bois affaissé : identifiez la cause, évaluez le risque et choisissez la réparation pour retrouver un sol stable et durable chez vous.",
+  "reading_time_min": 11,
+  "hero_intro": "Un plancher en bois qui creuse sous les pas, penche ou grince n'est pas un simple défaut esthétique. Il peut révéler une lame de parquet mal posée, mais aussi une solive fragilisée, une infiltration d'eau ou un problème de fondation. Avant de chercher à remettre le sol à niveau, il faut comprendre ce qui ne soutient plus correctement la structure.",
+  "key_takeaways": [
+    "Ne masquez jamais un affaissement par un ragréage ou un nouveau revêtement avant d'avoir contrôlé le solivage et la cause du désordre.",
+    "L'humidité, les attaques de champignons ou d'insectes, des solives sous-dimensionnées et des appuis défaillants sont les causes les plus fréquentes.",
+    "Un plancher ancien légèrement incliné mais stable ne présente pas le même niveau d'urgence qu'un creux récent, évolutif ou associé à des fissures.",
+    "Le renforcement ou le remplacement de solives, l'ajout d'une poutre ou de poteaux sont des travaux structurels à confier à un professionnel compétent.",
+    "Une réparation durable associe toujours la remise en état de la structure, la suppression de la source d'humidité et une finition adaptée au plancher."
+  ],
+  "toc": [
+    "Reconnaître un vrai affaissement et évaluer l'urgence",
+    "Chercher la cause avant de réparer",
+    "Diagnostiquer le plancher, les solives et les appuis",
+    "Choisir entre correction de surface et réparation structurelle",
+    "Les solutions pour remettre un plancher bois à niveau",
+    "Budget, erreurs à éviter et prévention"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Reconnaître un vrai affaissement et évaluer l'urgence",
+      "html": "<p>Un plancher affaissé se manifeste souvent par une cuvette au milieu d'une pièce, une pente perceptible, des meubles qui semblent pencher ou des lames qui s'écartent. Des grincements peuvent accompagner le problème, mais ils ne suffisent pas à conclure : un parquet peut grincer sans que la structure porteuse soit en danger.</p><p>La question essentielle est la suivante : <strong>le défaut est-il ancien et stable, ou récent et évolutif ?</strong> Une légère pente dans une maison ancienne peut être héritée de la construction et ne plus bouger depuis longtemps. À l'inverse, un creux apparu récemment, qui s'accentue ou qui s'accompagne de fissures dans les cloisons, de portes qui coincent ou d'un plafond qui se déforme mérite une vérification rapide.</p><p>Ne confondez pas non plus un plancher qui fléchit légèrement avec un plancher affaissé. Une souplesse excessive à la marche traduit souvent un solivage trop flexible, un entraxe inadapté ou un panneau de support insuffisamment rigide. L'affaissement désigne plutôt une perte de niveau durable, parfois causée par une dégradation du bois ou d'un appui.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Quand faut-il arrêter d'utiliser la zone ?",
+      "html": "<p>Limitez les charges lourdes et évitez de stationner sur la partie concernée si le sol s'enfonce nettement, si le bois paraît friable, s'il existe une forte odeur de moisi, ou si des fissures importantes apparaissent autour des murs porteurs. Une poutre fendue, une solive rompue ou un poteau qui s'enfonce ne se répare pas avec des cales : demandez sans attendre l'avis d'un charpentier, d'un ingénieur structure ou d'un bureau d'études.</p><p>Ne tentez pas de relever brutalement un plancher au cric. Le levage peut déplacer des cloisons, endommager des canalisations ou provoquer une rupture si les charges et les points d'appui n'ont pas été calculés.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Chercher la cause avant de réparer",
+      "html": "<p>Réparer uniquement la surface reviendrait à cacher le symptôme. Sous un plancher bois, les éléments qui portent réellement la charge sont généralement les solives, les poutres, leurs scellements dans les murs et, selon la configuration, les poteaux, les murs de refend ou les fondations. Le diagnostic doit donc remonter toute cette chaîne de soutien.</p><p><strong>L'eau est l'ennemi le plus courant.</strong> Une fuite de salle de bains, une remontée d'humidité depuis une cave, une ventilation insuffisante du vide sanitaire, une gouttière défectueuse ou une infiltration en façade peuvent maintenir le bois humide. Avec le temps, il perd de sa résistance et peut être attaqué par des champignons. Un traitement fongicide peut avoir sa place après assainissement, mais il ne remplacera jamais la suppression de la fuite et le séchage de la zone.</p><p>D'autres causes sont mécaniques : solives trop petites pour la portée, appuis insuffisants, modification de la distribution des charges, ancienne ouverture dans un mur, tassement d'un poteau ou dégradation d'une poutre encastrée dans une maçonnerie humide. Les insectes à larves xylophages sont aussi à envisager lorsque le bois présente des galeries, des trous ou de la vermoulure, sachant que des trous anciens ne prouvent pas forcément une attaque encore active.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Lire les signes visibles sans tirer de conclusions hâtives",
+      "intro": "Ces indices aident à orienter l'inspection. Ils ne remplacent pas un diagnostic de structure lorsque la déformation est importante ou progresse.",
+      "columns": [
+        "Ce que vous observez",
+        "Cause possible",
+        "Contrôle utile",
+        "Réaction adaptée"
+      ],
+      "rows": [
+        [
+          "Cuvette localisée près d'une salle d'eau ou d'un mur extérieur",
+          "Fuite, infiltration, bois dégradé par l'humidité",
+          "Observer le dessous du plancher, chercher des traces d'eau et sonder prudemment le bois accessible",
+          "Supprimer l'arrivée d'eau, assécher puis faire évaluer les pièces porteuses"
+        ],
+        [
+          "Plancher souple sur une grande largeur",
+          "Solives trop flexibles, entraxe trop grand ou portée excessive",
+          "Repérer le sens et l'espacement des solives, mesurer la zone qui bouge",
+          "Faire dimensionner un renfort ou une poutre par un professionnel"
+        ],
+        [
+          "Pente générale de la pièce, ancienne et sans évolution apparente",
+          "Déformation historique, tassement ancien ou niveau de construction d'origine",
+          "Relever les niveaux et comparer à plusieurs dates",
+          "Évaluer la stabilité avant de décider d'une correction de confort"
+        ],
+        [
+          "Fissures récentes, portes qui coincent et affaissement",
+          "Mouvement de structure, appui ou fondation à contrôler",
+          "Examiner murs, poteaux, cave, vide sanitaire et évacuations d'eau",
+          "Consulter rapidement un spécialiste de la structure ou des fondations"
+        ],
+        [
+          "Bois sombre, mou, odeur de moisi ou filaments",
+          "Humidité prolongée et risque de pourriture fongique",
+          "Rechercher la source d'eau, contrôler la ventilation et l'étendue des dégâts",
+          "Ne pas conserver une pièce porteuse altérée ; assainir et remplacer si nécessaire"
+        ]
+      ],
+      "note": "Un niveau laser, une règle longue et des photographies datées permettent de documenter l'évolution du désordre."
+    },
+    {
+      "type": "steps",
+      "heading": "Diagnostiquer méthodiquement avant tout chantier",
+      "intro": "Une inspection ordonnée évite de dépenser dans une finition qui devra être déposée quelques mois plus tard.",
+      "steps": [
+        {
+          "title": "Cartographier la déformation",
+          "html": "<p>Déplacez les tapis et, si possible, les meubles lourds. Avec une règle de maçon ou un niveau laser, repérez le point bas, le point haut et l'étendue du défaut. Notez les mesures sur un croquis simple. Prenez des photos datées et recommencez le relevé quelques semaines plus tard si le désordre ne semble pas urgent.</p>"
+        },
+        {
+          "title": "Observer ce qui est accessible par le dessus",
+          "html": "<p>Recherchez des lames fendues, des joints ouverts, des zones tachées, un parquet qui se déforme ou des plinthes qui se décollent. Vérifiez si le défaut concerne seulement le revêtement ou si l'ensemble du sol s'est déplacé. Évitez de retirer des lames anciennes sans repérer leur position : elles pourront être difficiles à remplacer à l'identique.</p>"
+        },
+        {
+          "title": "Inspecter le dessous du plancher",
+          "html": "<p>Depuis une cave, un sous-sol, un vide sanitaire ou un plafond démonté, examinez les solives, les poutres et leurs extrémités. Cherchez les traces d'humidité, les fissures, les déformations, les zones écrasées aux appuis et les assemblages affaiblis. Ne vous engagez pas seul dans un vide sanitaire exigu, humide ou mal ventilé.</p>"
+        },
+        {
+          "title": "Contrôler les sources d'eau et les charges",
+          "html": "<p>Vérifiez les arrivées et évacuations d'eau, la ventilation du local inférieur, les descentes de gouttières et l'état des murs extérieurs. Identifiez également les charges ajoutées : baignoire, cloison lourde, bibliothèque, poêle ou chape. Elles peuvent révéler un solivage qui n'était pas prévu pour cet usage.</p>"
+        },
+        {
+          "title": "Faire valider la réparation structurelle",
+          "html": "<p>Dès qu'une solive est attaquée, qu'une poutre doit être renforcée, qu'un poteau est envisagé ou que les fondations sont suspectées, faites intervenir un professionnel. Son rôle est de déterminer les sections, les appuis, les fixations et la méthode de remise à niveau compatibles avec le bâtiment.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Correction de surface ou réparation structurelle ?",
+      "intro": "Ces deux approches ne répondent pas au même problème. La seconde doit toujours précéder la première lorsque la capacité porteuse est en cause.",
+      "left": {
+        "title": "Corriger la surface après stabilisation",
+        "points": [
+          "Adapté à de faibles irrégularités d'un support sain et stable.",
+          "Peut consister à reprendre le support, poser des lambourdes réglées ou installer un panneau de plancher rigide.",
+          "Permet de préparer la pose d'un parquet, d'un sol stratifié ou d'un autre revêtement.",
+          "Ne traite ni une solive pourrie, ni une poutre fléchie, ni un appui qui se tasse."
+        ]
+      },
+      "right": {
+        "title": "Réparer la structure porteuse",
+        "points": [
+          "Indispensable en présence de bois dégradé, de flèche marquée, de fissure ou de mouvement évolutif.",
+          "Peut nécessiter le moisage de solives, leur remplacement, une poutre de renfort ou de nouveaux appuis.",
+          "Exige de vérifier la reprise des charges jusqu'au sol ou aux fondations.",
+          "Doit être conçu avant tout habillage, nivellement ou revêtement neuf."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Les solutions pour remettre un plancher bois à niveau",
+      "html": "<p>Lorsque le revêtement seul est en cause, la réparation peut rester relativement simple : refixer des lames, remplacer un panneau de support déformé, corriger des lambourdes ou reconstruire un plancher secondaire sur une structure saine. Une nouvelle couche de panneaux peut améliorer la rigidité, à condition de ne pas alourdir inutilement le plancher et de respecter le sens des solives, les fixations et les jeux périphériques.</p><p>Si les solives sont saines mais insuffisamment rigides, le professionnel peut proposer un <strong>moisage</strong> : des pièces de bois ou, selon le projet, des profilés sont solidarisés aux solives existantes pour les renforcer. Quand une solive est fortement altérée, elle doit parfois être remplacée partiellement ou intégralement. Le traitement de la cause d'humidité reste préalable, notamment lorsque les extrémités encastrées dans un mur ont souffert.</p><p>Pour une portée trop grande ou une charge devenue trop importante, une poutre intermédiaire avec des poteaux peut réduire la sollicitation des solives. Cela ne signifie pas que l'on peut placer un poteau n'importe où : il doit reposer sur un appui capable de transmettre la charge au sol. Des parpaings posés directement sur de la terre, des cales empilées ou un poteau sur une dalle non vérifiée sont des solutions dangereuses.</p><p>Dans les cas liés à un tassement, à une maçonnerie fissurée ou à des fondations instables, la réparation dépasse le seul plancher. Un ingénieur structure ou un bureau d'études peut préconiser des investigations et une reprise des appuis. Le relevage éventuel se réalise progressivement, avec une méthode définie, car vouloir retrouver un niveau parfaitement horizontal d'un seul coup peut créer de nouveaux désordres.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs qui fragilisent une réparation",
+      "points": [
+        "Couler un ragréage ou une chape sur un plancher instable : le poids supplémentaire peut aggraver la flèche.",
+        "Utiliser un produit fongicide sans supprimer la fuite, l'infiltration ou le défaut de ventilation.",
+        "Ajouter des cales sous une poutre sans vérifier leur stabilité ni la capacité du sol à reprendre la charge.",
+        "Conserver du bois devenu mou, friable ou profondément fissuré parce qu'il est encore partiellement en place.",
+        "Relever rapidement le sol au cric sans étaiement, sans contrôle des cloisons et sans connaître le cheminement des réseaux.",
+        "Poser un revêtement neuf avant d'avoir documenté et stabilisé la cause du mouvement."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quel budget prévoir pour réparer un plancher affaissé ?",
+      "intro": "Les montants varient fortement selon la surface, l'accès par le dessous, l'essence de bois, le niveau de finition et surtout la cause du désordre. Ces repères servent à préparer votre budget, pas à remplacer un devis.",
+      "columns": [
+        "Intervention",
+        "Ordre de grandeur souvent constaté",
+        "Ce qui fait varier le prix"
+      ],
+      "rows": [
+        [
+          "Diagnostic sur place et avis technique",
+          "De quelques centaines d'euros à davantage pour une étude structurelle complète",
+          "Accessibilité, nécessité de relevés, complexité de la maison et responsabilité de l'étude"
+        ],
+        [
+          "Reprise localisée d'un plancher ou d'un support sain",
+          "Souvent autour de 60 à 180 € par m², pose et matériaux selon le revêtement",
+          "Dépose du parquet existant, choix des panneaux, isolation, finition et surface totale"
+        ],
+        [
+          "Renforcement ou remplacement de solives",
+          "Souvent autour de 100 à 350 € par m² de zone traitée, parfois plus",
+          "État du bois, portée, travail depuis une cave ou par dépose du plafond, sections à mettre en œuvre"
+        ],
+        [
+          "Ajout d'une poutre et de poteaux correctement fondés",
+          "De plusieurs milliers d'euros selon la configuration",
+          "Création d'appuis, accès, reprises de réseaux, dimensionnement et finitions"
+        ],
+        [
+          "Reprise d'humidité, d'appuis ou de fondations",
+          "Budget très variable, pouvant devenir important",
+          "Origine de l'eau, drainage, maçonnerie, profondeur des fondations et ampleur des mouvements"
+        ]
+      ],
+      "note": "Demandez un devis détaillant séparément le diagnostic, le traitement de la cause, le renforcement structurel et la remise en état des finitions. Comparez des solutions techniquement équivalentes, pas seulement un total."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Une réparation durable commence par un sol sec",
+      "html": "<p>Après les travaux, surveillez régulièrement les évacuations d'eau, les gouttières et la ventilation de la cave ou du vide sanitaire. Le bois doit pouvoir rester dans une ambiance compatible avec son usage. Si le local inférieur est très humide, l'amélioration de la ventilation, la gestion des eaux de pluie ou le traitement des remontées d'humidité font partie intégrante de la réparation.</p><p>Conservez les photos, les relevés de niveau et les factures. Ce dossier est utile pour vérifier la stabilité dans le temps et rassurer un futur acquéreur si vous revendez le logement.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Finir le plancher seulement après la stabilisation",
+      "html": "<p>Une fois la structure réparée et l'humidité maîtrisée, vérifiez à nouveau la planéité avant de choisir la finition. Un parquet massif ancien peut être reposé, complété avec des lames compatibles puis poncé si son état le permet. Sur un support refait, un parquet contrecollé, un sol stratifié ou un revêtement souple demandent chacun une tolérance de planéité et une sous-couche adaptées : consultez les prescriptions du fabricant.</p><p>Prévoyez les détails souvent oubliés : hauteur sous les portes, niveau des seuils, remontée des plinthes, passages de canalisations et isolation acoustique. Si une couche de nivellement est envisagée sur un plancher bois, son poids et son comportement face à l'humidité doivent être validés pour la structure. Une solution légère et sèche est parfois préférable, mais elle n'est pertinente que sur une base déjà solide.</p><p>Enfin, faites un contrôle dans les mois qui suivent. Un sol réparé ne devrait ni s'enfoncer davantage ni voir réapparaître des marques d'humidité. Le meilleur résultat n'est pas forcément un plancher parfaitement horizontal : c'est un plancher <strong>stable, sain et suffisamment rigide</strong>, avec une correction de niveau cohérente avec la maison.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on réparer un plancher en bois affaissé sans retirer le parquet ?",
+      "a_html": "<p>Parfois, oui. Si l'accès aux solives se fait par une cave, un sous-sol ou un plafond situé en dessous, certains renforts peuvent être réalisés sans déposer le revêtement supérieur. Cela dépend toutefois de l'état des bois, des appuis et de la place disponible pour travailler.</p><p>Si le parquet ou les panneaux de plancher sont eux-mêmes abîmés, ou si le renfort doit être fixé par le dessus, une dépose partielle peut être nécessaire. Il faut l'anticiper avant de commander de nouveaux matériaux.</p>"
+    },
+    {
+      "q": "Un plancher ancien qui penche est-il forcément dangereux ?",
+      "a_html": "<p>Non. Dans les bâtiments anciens, une pente peut être ancienne et stabilisée. Elle mérite néanmoins d'être mesurée et observée, surtout lors d'un achat immobilier ou d'une rénovation.</p><p>Le risque augmente si la pente évolue, si le plancher devient souple, si des fissures nouvelles apparaissent ou si l'inspection révèle de l'humidité, du bois dégradé ou des appuis défaillants.</p>"
+    },
+    {
+      "q": "Puis-je remettre un plancher affaissé à niveau avec un ragréage ?",
+      "a_html": "<p>Un ragréage ne répare pas une structure affaiblie. Sur un support qui fléchit, il peut se fissurer et son poids peut accentuer le problème. Les produits cimentaires apportent en outre de l'humidité, ce qui impose une vigilance particulière sur un plancher bois.</p><p>Une correction de niveau ne se conçoit qu'après la stabilisation du solivage. Selon le cas, un professionnel pourra orienter vers un système léger, sec ou compatible avec le support existant.</p>"
+    },
+    {
+      "q": "Quel professionnel contacter pour un plancher bois qui s'affaisse ?",
+      "a_html": "<p>Un charpentier expérimenté en rénovation ou une entreprise spécialisée dans les structures bois est souvent le bon premier interlocuteur pour examiner solives et poutres. Si les fissures, les murs porteurs, les poteaux ou les fondations sont concernés, un ingénieur structure ou un bureau d'études apporte le dimensionnement nécessaire.</p><p>En présence d'humidité, l'intervention peut aussi nécessiter un couvreur, un plombier, un maçon ou un spécialiste de l'assainissement. L'important est que la cause de l'eau soit traitée, pas seulement le bois visible.</p>"
+    },
+    {
+      "q": "Comment savoir si des insectes attaquent encore les solives ?",
+      "a_html": "<p>La présence de trous ne suffit pas, car ils peuvent être anciens. De la vermoulure claire et fraîche sous les pièces de bois, de nouveaux trous ou des insectes observés à la saison favorable sont des signaux plus préoccupants.</p><p>Un diagnostic par un professionnel permet de distinguer une attaque active d'anciennes traces et de déterminer si le bois a perdu une partie de sa capacité portante. Un traitement ne dispense pas de remplacer ou de renforcer un élément déjà trop dégradé.</p>"
+    },
+    {
+      "q": "Comment éviter qu'un plancher en bois s'affaisse à nouveau ?",
+      "a_html": "<p>Surveillez les fuites, les évacuations, les gouttières et l'état des façades. Maintenez une ventilation adaptée dans les caves et vides sanitaires, et évitez d'entreposer durablement de très lourdes charges sur une zone dont la structure n'a pas été vérifiée.</p><p>Après une réparation, conservez un point de repère de niveau et contrôlez la zone périodiquement. Une évolution détectée tôt est généralement plus simple à traiter qu'un désordre installé depuis plusieurs années.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour réparer un plancher en bois affaissé, ne commencez pas par le revêtement : commencez par la cause. Relevés de niveau, inspection des solives, recherche d'humidité et contrôle des appuis permettent de distinguer une simple correction de confort d'un problème structurel.</p><p>Une fois le plancher stabilisé, vous pourrez le remettre à niveau et le finir durablement. En cas de bois dégradé, de mouvement récent ou de doute sur les fondations, faire diagnostiquer la structure est la décision la plus sûre et, souvent, la plus économique sur le long terme.</p>",
+  "__slug": "comment-reparer-un-plancher-en-bois-qui-sest-affaisse"
+}

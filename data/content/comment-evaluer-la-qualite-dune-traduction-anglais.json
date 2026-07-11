@@ -1,0 +1,238 @@
+{
+  "title": "Comment évaluer la qualité d'une traduction anglaise : méthode et grille",
+  "meta_description": "Découvrez une méthode simple pour vérifier la fidélité, la fluidité et le ton d'une traduction anglaise, avec grille, tests et conseils utiles.",
+  "reading_time_min": 11,
+  "hero_intro": "J'aimerais être sûr qu'une traduction en anglais transmet exactement le bon message. Que le texte soit destiné à un client, à un site web, à un contrat ou à une candidature, quelques fautes ou un ton mal ajusté peuvent suffire à fragiliser sa crédibilité. Voici une méthode concrète pour évaluer une traduction, même sans être bilingue, et savoir quand demander une révision professionnelle.",
+  "key_takeaways": [
+    "Une bonne traduction ne se juge pas au mot à mot : elle doit restituer le sens, l'intention, le ton et l'effet attendu du texte source.",
+    "La fidélité, la fluidité, l'exactitude terminologique, l'adaptation culturelle et le respect des consignes sont les cinq critères essentiels.",
+    "Relire séparément le texte cible, puis le comparer au texte source, permet de détecter la majorité des problèmes importants.",
+    "Un outil de traduction automatique peut aider à comprendre ou à préparer un texte, mais il ne garantit ni la nuance, ni la confidentialité, ni la qualité éditoriale.",
+    "Pour un contenu sensible, commercial, juridique, médical ou technique, une révision par un professionnel reste la solution la plus sûre."
+  ],
+  "toc": [
+    "Définir ce qu'est une traduction anglaise de qualité",
+    "Les critères à vérifier, avec exemples d'erreurs",
+    "Traduction littérale ou adaptation naturelle ?",
+    "La méthode de contrôle en six étapes",
+    "Évaluer une traduction automatique ou générée par IA",
+    "Faire relire un texte : budget, profil et niveau de contrôle",
+    "La grille finale avant publication"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Définir ce qu'est une traduction anglaise de qualité",
+      "html": "<p>Évaluer une traduction ne consiste pas à compter les mots identiques au texte d'origine. Une traduction de qualité permet à son lecteur de comprendre le même message, avec le même degré de précision et un ton approprié. Elle doit aussi sembler avoir été écrite naturellement dans la langue d'arrivée.</p><p>Cette règle vaut dans les deux sens : pour une traduction <strong>du français vers l'anglais</strong> comme pour une traduction <strong>de l'anglais vers le français</strong>. Avant toute vérification, précisez donc la langue cible, le pays visé et l'usage du document. Un email à un fournisseur britannique, une fiche produit pour les États-Unis et un mode d'emploi international n'obéissent pas aux mêmes attentes.</p><p>La question centrale est simple : <strong>le lecteur cible peut-il comprendre, croire et utiliser ce texte sans avoir accès à l'original ?</strong> Si la réponse est non, la traduction doit être corrigée, même si elle paraît grammaticalement correcte.</p><p>Il faut enfin distinguer la <strong>traduction</strong>, qui produit un texte dans une autre langue, de la <strong>révision</strong>, qui contrôle cette traduction en la confrontant au texte source. Une simple relecture linguistique améliore la forme, mais elle ne repère pas toujours un contre-sens, un chiffre oublié ou une condition mal traduite.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les cinq critères qui comptent vraiment",
+      "points": [
+        "Fidélité : les informations, les nuances, les restrictions et les intentions du texte source sont préservées.",
+        "Fluidité : les phrases sont naturelles pour un lecteur anglophone ou francophone, sans calques ni tournures pesantes.",
+        "Exactitude : les chiffres, dates, unités, noms propres, liens, références et termes métier sont justes.",
+        "Cohérence : un même concept porte le même nom, le registre reste homogène et les choix anglais britannique ou américain ne se mélangent pas.",
+        "Adéquation : le texte répond au public, au support et à l'objectif, qu'il soit informatif, commercial, technique, juridique ou créatif."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Repérer les défauts les plus fréquents",
+      "intro": "Cette grille aide à distinguer une maladresse mineure d'une erreur qui peut réellement changer le sens ou nuire à votre image.",
+      "columns": [
+        "Point contrôlé",
+        "Signe d'alerte",
+        "Test simple",
+        "Niveau de priorité"
+      ],
+      "rows": [
+        [
+          "Sens et logique",
+          "Une phrase paraît vague, excessive ou contradictoire.",
+          "Repérez les négations, conditions, comparatifs et verbes d'obligation dans les deux versions.",
+          "Critique"
+        ],
+        [
+          "Chiffres et données",
+          "Un prix, une date, une unité ou une référence semble différent.",
+          "Comparez nombre par nombre : devises, pourcentages, dimensions, délais, coordonnées.",
+          "Critique"
+        ],
+        [
+          "Terminologie",
+          "Un même terme est traduit de plusieurs façons sans raison.",
+          "Faites une recherche dans le document sur les mots métier importants.",
+          "Élevée"
+        ],
+        [
+          "Grammaire et orthographe",
+          "Accords, temps, ponctuation ou articles sonnent faux.",
+          "Faites relire le texte cible seul par un locuteur compétent.",
+          "Élevée"
+        ],
+        [
+          "Ton et registre",
+          "Le texte devient familier, froid ou trop promotionnel.",
+          "Demandez si le lecteur cible percevrait la même relation avec l'auteur.",
+          "Moyenne à élevée"
+        ],
+        [
+          "Mise en forme locale",
+          "Les dates, devises, mesures ou formats d'adresse ne sont pas adaptés.",
+          "Vérifiez le pays de destination et les conventions de publication.",
+          "Moyenne"
+        ],
+        [
+          "Style",
+          "Les phrases sont lourdes ou sentent la traduction.",
+          "Lisez à voix haute et simplifiez ce qui bloque la lecture.",
+          "Moyenne"
+        ]
+      ],
+      "note": "Une erreur dite « mineure » peut devenir critique dans un contrat, une consigne de sécurité, une page de vente ou une communication de marque."
+    },
+    {
+      "type": "prose",
+      "heading": "Vérifier le sens, pas seulement les mots",
+      "html": "<p>La fidélité commence par le contenu factuel. Comparez les titres, les listes, les appels à l'action, les conditions, les avertissements et les passages qui comportent des chiffres. Les omissions sont parfois plus dangereuses qu'une faute visible : une exception, une limitation de responsabilité ou une échéance peut disparaître dans une phrase pourtant élégante.</p><p>Surveillez particulièrement les faux amis et les verbes modaux. En anglais, <em>eventually</em> signifie « finalement », et non « éventuellement ». <em>Actually</em> veut dire « en réalité », non « actuellement ». Les nuances de <em>must</em>, <em>should</em>, <em>may</em> ou <em>can</em> méritent aussi une attention particulière : obligation, recommandation et possibilité ne produisent pas le même effet.</p><p>Une traduction fiable conserve également le niveau de certitude. Si le texte anglais indique qu'un résultat est probable, la version française ne doit pas le transformer en promesse. À l'inverse, un texte français prudent ne doit pas devenir catégorique en anglais. Ce point est décisif pour les textes commerciaux, financiers, médicaux ou réglementés.</p><p>Enfin, jugez le texte dans son contexte réel. Le mot anglais <em>charge</em>, par exemple, peut désigner un prix, une accusation, une charge électrique ou l'action de recharger. Sans contexte, on peut choisir un terme correct dans l'absolu, mais faux dans le document concerné.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Traduction littérale ou adaptation naturelle ?",
+      "intro": "Le mot à mot rassure parfois lors d'une comparaison, mais il donne souvent un résultat peu lisible. L'objectif est de préserver le sens et la fonction du texte, pas sa mécanique grammaticale.",
+      "left": {
+        "title": "Traduction trop littérale",
+        "points": [
+          "Reproduit l'ordre des mots et les structures de la langue source.",
+          "Conserve parfois des expressions incompréhensibles ou peu naturelles.",
+          "Peut créer des faux sens avec les idiomes, les phrasal verbs et les faux amis.",
+          "Convient rarement à une page web, un slogan, un email ou un contenu destiné au public."
+        ]
+      },
+      "right": {
+        "title": "Adaptation juste et naturelle",
+        "points": [
+          "Reformule lorsque la langue cible l'exige, sans ajouter d'information non présente.",
+          "Respecte les usages rédactionnels du pays visé.",
+          "Préserve le niveau de langue, l'intention et l'appel à l'action.",
+          "Est indispensable pour les expressions, références culturelles, unités et contenus marketing."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "La méthode de contrôle en six étapes",
+      "intro": "Même sans maîtriser parfaitement l'anglais, vous pouvez organiser une vérification utile. L'idéal est de travailler sur une copie annotée afin de garder une trace des décisions.",
+      "steps": [
+        {
+          "title": "Clarifiez le brief avant de juger",
+          "html": "<p>Identifiez le public, le pays, le canal de diffusion, le registre souhaité et les contraintes. Demandez si l'anglais doit être britannique, américain ou international. Rassemblez aussi le glossaire, les textes déjà publiés, les noms de produits et les termes à ne jamais traduire.</p>"
+        },
+        {
+          "title": "Relisez uniquement le texte traduit",
+          "html": "<p>Commencez sans regarder l'original. Le texte se comprend-il dès la première lecture ? Les titres donnent-ils envie de poursuivre ? Les consignes sont-elles actionnables ? Cette lecture révèle les lourdeurs, les incohérences et les phrases qui ne sonnent pas naturellement.</p>"
+        },
+        {
+          "title": "Comparez les segments sensibles avec la source",
+          "html": "<p>Revenez au texte original paragraphe par paragraphe. Vérifiez d'abord les éléments à risque : chiffres, négations, listes, références, promesses, conditions, termes techniques et appels à l'action. Ne vous focalisez pas sur chaque mot isolé : cherchez ce qui est affirmé, limité ou demandé.</p>"
+        },
+        {
+          "title": "Contrôlez la cohérence terminologique",
+          "html": "<p>Établissez une petite liste des termes stratégiques. Par exemple, une entreprise doit décider si elle emploie « customer » ou « client », « quote » ou « estimate », « legal notice » ou « terms of use », selon le contexte. Le choix doit rester cohérent dans les menus, les boutons, les documents et les emails.</p>"
+        },
+        {
+          "title": "Testez le texte auprès d'un vrai lecteur cible",
+          "html": "<p>Faites lire un extrait à une personne qui maîtrise la langue cible et qui correspond au public visé. Demandez-lui ce qu'elle a compris, plutôt que de lui demander seulement si « c'est bien écrit ». Sa réponse mettra rapidement en évidence un message ambigu ou un ton inadapté.</p>"
+        },
+        {
+          "title": "Classez les corrections avant validation",
+          "html": "<p>Distinguez les erreurs critiques, les améliorations importantes et les préférences stylistiques. Corrigez d'abord tout ce qui touche au sens, à la sécurité, au droit, aux prix ou à l'image de marque. Validez ensuite une version finale, en évitant les modifications successives non coordonnées.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux traductions automatiques et à l'IA",
+      "html": "<p>Un outil automatique peut produire un texte très fluide tout en inventant une précision, en mal interprétant une expression ou en affaiblissant une nuance. La fluidité apparente n'est donc pas une preuve de fidélité.</p><p>Évitez aussi de copier dans un service public des contrats, données personnelles, informations médicales, stratégies commerciales ou documents confidentiels sans avoir vérifié ses règles de traitement des données. Pour un texte à enjeu, utilisez l'outil comme aide de travail, puis faites contrôler le résultat par une personne compétente dans la langue et le domaine.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Choisir le bon niveau de relecture et le bon prestataire",
+      "html": "<p>Le niveau de contrôle dépend du risque. Pour un message interne simple, une relecture par un collègue bilingue peut suffire si le sujet est familier. Pour une page d'accueil, un dossier de presse, un appel d'offres, un contrat ou une notice, privilégiez un traducteur-réviseur professionnel qui traduit vers sa langue maternelle ou de travail dominante.</p><p>Ne choisissez pas uniquement sur la promesse « bilingue ». Demandez l'expérience dans votre secteur, la langue de destination exacte, le processus de révision et la manière dont sont gérés les termes validés. Un professionnel sérieux vous demandera généralement le contexte, le public, le format final et les délais avant de confirmer son devis.</p><p>Les tarifs varient selon la combinaison de langues, le volume, la technicité, l'urgence et le travail demandé. À titre d'ordre de grandeur, une <strong>relecture linguistique</strong> peut souvent se facturer autour de 0,03 à 0,08 € par mot, tandis qu'une <strong>révision bilingue</strong>, avec comparaison au texte source, peut être plus élevée. Une traduction humaine spécialisée est fréquemment tarifée au mot ou au forfait, souvent dans une fourchette plus large. Un tarif très bas doit vous inciter à vérifier précisément ce qui est inclus.</p><p>Pour les contenus techniques, juridiques, médicaux ou financiers, recherchez une personne qui connaît le domaine. Une excellente maîtrise de l'anglais ne remplace pas la compréhension des concepts, de la réglementation et de la terminologie métier.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quel contrôle choisir selon votre document ?",
+      "intro": "Le bon niveau de prestation évite à la fois de surpayer un message simple et de sous-estimer un document sensible.",
+      "columns": [
+        "Type de contenu",
+        "Contrôle recommandé",
+        "Pourquoi"
+      ],
+      "rows": [
+        [
+          "Email interne ou note courte",
+          "Relecture par un collègue compétent, puis validation de l'auteur.",
+          "Le risque est modéré si le vocabulaire est courant et le contexte connu."
+        ],
+        [
+          "Site vitrine, newsletter ou présentation commerciale",
+          "Traduction professionnelle et relecture du texte cible par un natif.",
+          "Le style, l'idiomatisme et l'appel à l'action influencent directement la confiance."
+        ],
+        [
+          "Fiche produit, manuel, documentation technique",
+          "Traduction spécialisée, glossaire et révision bilingue.",
+          "La précision des termes, unités et consignes est essentielle."
+        ],
+        [
+          "Contrat, CGV, document médical ou réglementaire",
+          "Traducteur spécialisé et révision indépendante si l'enjeu est élevé.",
+          "Un contre-sens ou une omission peut avoir des conséquences importantes."
+        ],
+        [
+          "Texte issu d'une IA ou traduction automatique",
+          "Post-édition humaine avec comparaison systématique à la source.",
+          "Il faut vérifier le sens, les omissions, la confidentialité et le style."
+        ]
+      ],
+      "note": "Le niveau de vérification doit être proportionné à l'impact d'une erreur, et non seulement à la longueur du texte."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "La grille de validation avant publication",
+      "html": "<p>Avant d'envoyer ou de publier votre traduction, vérifiez une dernière fois : le pays et la variante d'anglais sont cohérents ; les noms, chiffres et liens sont exacts ; les termes métier sont stables ; les titres et boutons sont compréhensibles ; le ton correspond à la marque ; aucune phrase ne ressemble à une traduction mot à mot ; les mentions obligatoires et avertissements sont bien présents.</p><p>Conservez ensuite le glossaire et la version validée. À chaque nouveau document, ils réduiront les corrections, les coûts et les incohérences.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment vérifier une traduction anglaise sans parler anglais ?",
+      "a_html": "<p>Vous pouvez contrôler les éléments objectifs : chiffres, noms propres, dates, liens, unités, titres, listes et présence de tous les paragraphes. Demandez ensuite à un lecteur anglophone de vous reformuler ce qu'il a compris du texte, sans lui montrer l'original.</p><p>Pour un document important, la solution la plus fiable reste une révision bilingue : le réviseur compare la version anglaise avec le texte français et signale les contresens, omissions ou maladresses.</p>"
+    },
+    {
+      "q": "Quels sont les signes d'une mauvaise traduction en anglais ?",
+      "a_html": "<p>Une mauvaise traduction contient souvent des formulations rigides, des répétitions inhabituelles, des mots français conservés sans raison, une ponctuation calquée ou des expressions qui paraissent grammaticalement correctes mais peu naturelles. Des termes différents pour désigner la même chose sont également un signal d'alerte.</p><p>Le signe le plus sérieux est toutefois un problème de sens : un montant, une condition, un niveau d'obligation ou une promesse qui ne correspond plus à l'original.</p>"
+    },
+    {
+      "q": "Faut-il choisir l'anglais britannique ou l'anglais américain ?",
+      "a_html": "<p>Choisissez la variante correspondant à votre marché principal. L'anglais britannique est généralement adapté au Royaume-Uni, tandis que l'anglais américain convient aux États-Unis. Pour une audience internationale, un anglais clair et cohérent peut suffire, à condition de fixer une convention éditoriale.</p><p>Ce choix concerne l'orthographe, certains mots, les dates, les unités et parfois le ton. L'essentiel est de ne pas mélanger les variantes dans un même document.</p>"
+    },
+    {
+      "q": "Une traduction fluide est-elle forcément fidèle ?",
+      "a_html": "<p>Non. Un texte peut être très naturel et pourtant trahir l'original en simplifiant une réserve, en omettant une précision ou en choisissant un terme inexact. La fluidité se vérifie en lisant le texte cible seul ; la fidélité exige une comparaison avec le texte source.</p>"
+    },
+    {
+      "q": "Quelle différence entre relecture, correction et révision de traduction ?",
+      "a_html": "<p>La correction ou relecture linguistique porte surtout sur l'orthographe, la grammaire, la ponctuation et la fluidité du texte traduit. La révision de traduction ajoute la comparaison avec le document source afin de contrôler le sens, les omissions et la terminologie.</p><p>Si votre priorité est de garantir l'exactitude du message, demandez explicitement une révision bilingue, et pas seulement une relecture.</p>"
+    },
+    {
+      "q": "Peut-on utiliser une traduction automatique pour un site professionnel ?",
+      "a_html": "<p>Elle peut servir de brouillon ou aider à traiter des contenus peu sensibles, mais elle ne devrait pas être publiée sans contrôle humain. Sur un site professionnel, le ton, les mots-clés, les appels à l'action et la cohérence de marque comptent autant que la correction grammaticale.</p><p>Faites au minimum relire le résultat par une personne qui maîtrise la langue cible. Pour une page stratégique ou un secteur réglementé, privilégiez une traduction et une révision professionnelles.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Une traduction anglaise réussie est à la fois <strong>exacte, naturelle, cohérente et adaptée à son lecteur</strong>. Pour l'évaluer, commencez par clarifier l'usage du texte, relisez la version cible comme un lecteur, puis comparez méthodiquement les passages sensibles avec l'original.</p><p>Retenez surtout qu'un texte élégant n'est pas nécessairement fidèle. Si un document engage votre entreprise, votre sécurité, vos clients ou votre réputation, investissez dans une révision bilingue : c'est souvent le moyen le plus simple d'éviter qu'une petite nuance ne devienne un gros malentendu.</p>",
+  "__slug": "comment-evaluer-la-qualite-dune-traduction-anglais"
+}

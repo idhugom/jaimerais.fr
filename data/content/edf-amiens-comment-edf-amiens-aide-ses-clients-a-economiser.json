@@ -1,0 +1,250 @@
+{
+  "title": "EDF à Amiens : comment réduire sa facture d'énergie avec les bonnes options",
+  "meta_description": "EDF à Amiens : offres, suivi conso, heures creuses, rénovation et gestes efficaces pour réduire durablement vos factures d'électricité et de gaz.",
+  "reading_time_min": 11,
+  "hero_intro": "À Amiens, faire baisser sa facture d'énergie ne dépend pas seulement du fournisseur choisi : la puissance du compteur, l'option tarifaire, les habitudes de chauffage et l'état du logement comptent tout autant. EDF met à disposition plusieurs outils et contrats qui peuvent aider à mieux piloter ces dépenses. Voici comment les utiliser avec méthode, sans choisir une offre inadaptée ni passer à côté des aides à la rénovation.",
+  "key_takeaways": [
+    "Le tarif réglementé EDF est national : habiter à Amiens ne change pas son prix, mais vos besoins de chauffage, votre logement et vos équipements changent la facture.",
+    "L'option Heures Creuses n'est rentable que si une part suffisante de vos usages peut réellement être déplacée sur les créneaux indiqués par Enedis.",
+    "Le suivi de consommation via l'espace client, l'application EDF & MOI et un compteur Linky aide à repérer les appareils qui consomment au mauvais moment.",
+    "Les aides à la rénovation, notamment les certificats d'économies d'énergie, exigent généralement de respecter un ordre précis : vérifier l'éligibilité avant de signer un devis.",
+    "Avant de changer d'offre, comparez toujours le coût annuel TTC, l'abonnement, le prix du kWh, les conditions d'évolution des prix et vos habitudes réelles."
+  ],
+  "toc": [
+    "Ce qu'EDF peut concrètement faire pour les clients amiénois",
+    "Choisir une option tarifaire adaptée à son profil",
+    "Comprendre et suivre sa consommation d'électricité",
+    "Réduire la consommation du logement : gestes et travaux",
+    "Obtenir des aides pour la rénovation énergétique",
+    "Changer d'offre ou de fournisseur sans mauvaise surprise",
+    "Questions fréquentes sur EDF à Amiens"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Ce qu'EDF peut concrètement faire pour les clients amiénois",
+      "html": "<p>EDF est un fournisseur d'électricité et de gaz présent à Amiens comme partout en France. Il commercialise notamment le tarif réglementé de vente de l'électricité, lorsque celui-ci est proposé, ainsi que des offres de marché. Les tarifs et les contrats ne sont pas propres à Amiens : votre adresse influence surtout votre consommation, en fonction de la surface, de l'isolation, du type de chauffage et du nombre d'occupants.</p><p>Pour économiser, EDF peut vous donner accès à un <strong>espace client</strong>, à des factures détaillées, à un suivi de consommation et à des options tarifaires. L'application <strong>EDF & MOI</strong>, lorsqu'elle est associée à un compteur communicant et aux services disponibles dans votre contrat, peut faciliter la visualisation des usages par jour ou par tranche horaire. Ces données ne font pas baisser une facture à elles seules : elles permettent de prendre les bonnes décisions.</p><p>Il faut aussi distinguer les rôles. EDF vend l'énergie et gère votre contrat. À Amiens, le réseau d'électricité et le compteur sont généralement gérés par <strong>Enedis</strong>. Une panne de quartier, un raccordement ou une intervention technique relèvent donc du gestionnaire de réseau, quel que soit votre fournisseur.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les quatre leviers à vérifier avant toute décision",
+      "points": [
+        "Adapter la puissance souscrite en kVA à vos besoins, sans la réduire au point de faire disjoncter l'installation.",
+        "Choisir l'option Base, Heures Creuses ou, pour certains foyers très organisés, Tempo selon les usages réellement déplaçables.",
+        "Mesurer les consommations plutôt que se fier aux impressions : chauffage, eau chaude et cuisson pèsent souvent lourd.",
+        "Réduire d'abord les gaspillages et améliorer l'enveloppe du logement avant d'investir dans un équipement coûteux.",
+        "Comparer les offres sur une estimation annuelle TTC et non sur le seul prix d'appel du kWh."
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Option Base ou Heures Creuses : laquelle vous correspond ?",
+      "intro": "Le choix le plus courant se joue entre ces deux options. Les horaires d'heures creuses sont attribués par Enedis pour votre point de livraison : ils ne se choisissent pas librement et peuvent comporter une plage nocturne, une plage en journée, ou les deux.",
+      "left": {
+        "title": "Option Base : la simplicité",
+        "points": [
+          "Un même prix du kWh quelle que soit l'heure.",
+          "Souvent adaptée aux petits logements, aux personnes absentes en journée ou aux foyers qui ne peuvent pas programmer leurs appareils.",
+          "Évite de payer un abonnement plus élevé uniquement pour des heures creuses peu utilisées.",
+          "Permet de se concentrer sur la baisse globale des kWh consommés."
+        ]
+      },
+      "right": {
+        "title": "Heures Creuses : utile si les usages suivent",
+        "points": [
+          "Prix du kWh réduit sur les créneaux définis et prix plus élevé le reste du temps.",
+          "Pertinente avec un ballon d'eau chaude programmé la nuit, une recharge de véhicule électrique ou des appareils décalables.",
+          "Demande de lancer lave-linge, lave-vaisselle ou recharge aux bons horaires, sans compromettre la sécurité ni le sommeil.",
+          "À vérifier sur facture : si la part d'heures creuses reste faible, l'option peut coûter plus cher au total."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Comparer les principales options d'électricité proposées par EDF",
+      "intro": "Les prix, modalités et disponibilités évoluent. Ce tableau donne des repères de choix ; consultez les conditions tarifaires en vigueur avant toute souscription.",
+      "columns": [
+        "Option ou type d'offre",
+        "Pour quel profil ?",
+        "Point de vigilance",
+        "Action utile avant de choisir"
+      ],
+      "rows": [
+        [
+          "Tarif réglementé, option Base",
+          "Usages répartis toute la journée, peu d'appareils programmables",
+          "Le prix du kWh ne récompense pas le décalage des usages",
+          "Comparer la consommation annuelle et vérifier la puissance souscrite"
+        ],
+        [
+          "Tarif réglementé, option Heures Creuses",
+          "Ballon d'eau chaude, véhicule électrique ou appareils programmables",
+          "L'abonnement et le prix en heures pleines peuvent être plus élevés",
+          "Regarder la répartition HP/HC sur plusieurs factures"
+        ],
+        [
+          "Option Tempo, lorsque disponible",
+          "Foyer capable de réduire très fortement ses usages certains jours d'hiver",
+          "Quelques jours « rouges » sont nettement plus coûteux en journée ; elle exige de l'anticipation",
+          "Vérifier son mode de chauffage et sa capacité à éviter les gros usages aux jours concernés"
+        ],
+        [
+          "Offre de marché à prix fixe ou indexé",
+          "Foyer qui souhaite une formule différente du tarif réglementé",
+          "Un prix fixe peut ne concerner que le kWh ; les taxes et l'abonnement peuvent évoluer",
+          "Comparer le coût annuel TTC, la durée et la règle de révision des prix"
+        ]
+      ],
+      "note": "Pour comparer au-delà d'EDF, le comparateur public du médiateur national de l'énergie est accessible sur <a href=\"https://comparateur-offres.energie-info.fr/\">comparateur-offres.energie-info.fr</a>."
+    },
+    {
+      "type": "prose",
+      "heading": "Lire sa facture pour trouver de vraies économies",
+      "html": "<p>La facture d'électricité additionne principalement un <strong>abonnement</strong>, calculé selon la puissance et l'option choisies, une partie variable liée aux kWh consommés, puis des taxes et contributions. Diminuer l'abonnement peut faire gagner quelques dizaines d'euros par an dans certains cas, mais le gros du potentiel se situe souvent dans les kWh évités, particulièrement dans un logement chauffé à l'électricité.</p><p>Commencez par relever sur douze mois la consommation totale, la puissance en kVA, l'option tarifaire et, en Heures Creuses, les kWh consommés en heures pleines et en heures creuses. Une seule facture d'hiver peut être trompeuse, surtout dans la Somme où les besoins de chauffage sont marqués. Comparez aussi deux périodes similaires d'une année sur l'autre : une hausse peut venir d'un hiver plus froid, d'un nouvel appareil, d'un changement d'occupation ou d'un réglage de chauffage.</p><p>Avec un compteur Linky, le suivi journalier permet souvent d'identifier une consommation de fond anormalement élevée. Box internet, veilles, congélateur ancien, ballon d'eau chaude qui fonctionne en continu ou chauffage mal régulé sont des pistes fréquentes. N'accusez pas un appareil sans le mesurer : consultez les courbes, testez un réglage pendant quelques jours et observez l'effet.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "La méthode en cinq étapes pour réduire votre facture EDF",
+      "intro": "L'objectif n'est pas de tout changer en une semaine, mais de concentrer vos efforts là où le gain est le plus durable.",
+      "steps": [
+        {
+          "title": "Rassembler une année de données",
+          "html": "<p>Téléchargez ou conservez vos factures, notez les kWh annuels, l'option tarifaire, la puissance et vos périodes d'absence. Si votre contrat le permet, activez l'affichage détaillé de la consommation dans votre espace client.</p>"
+        },
+        {
+          "title": "Repérer les trois usages dominants",
+          "html": "<p>Dans un logement électrique, le chauffage et l'eau chaude sont souvent prioritaires. Dans les autres logements, examinez l'eau chaude, la cuisson, le sèche-linge, le froid et les consommations permanentes.</p>"
+        },
+        {
+          "title": "Régler avant d'acheter",
+          "html": "<p>Programmez le chauffe-eau sur les heures les moins coûteuses si votre option s'y prête, baissez légèrement les températures de consigne et utilisez les modes absence. Un radiateur électrique ne doit jamais être couvert ni obstrué.</p>"
+        },
+        {
+          "title": "Tester l'option tarifaire et la puissance",
+          "html": "<p>Demandez une simulation fondée sur vos consommations réelles. Pour les Heures Creuses, vérifiez que les appareils se déclenchent bien durant les plages prévues. Pour la puissance, une baisse n'est raisonnable que si elle ne provoque pas de coupures répétées.</p>"
+        },
+        {
+          "title": "Planifier les travaux les plus rentables",
+          "html": "<p>Traitez en priorité les défauts d'isolation, de ventilation et de régulation. Demandez plusieurs devis et vérifiez les aides avant tout engagement avec un artisan.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention au faux bon plan des Heures Creuses",
+      "html": "<p>Une option Heures Creuses ne devient pas automatiquement intéressante parce que vous faites tourner un lave-linge la nuit. Le ballon d'eau chaude, la recharge d'un véhicule électrique ou un chauffage pilotable font davantage la différence. En pratique, il est souvent nécessaire de basculer une part importante de la consommation sur ces plages ; le seuil exact dépend des prix et de l'abonnement en vigueur. Faites une comparaison chiffrée à partir de vos propres relevés.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Agir sur le logement : les économies les plus durables",
+      "html": "<p>À Amiens comme dans le reste des Hauts-de-France, un logement mal isolé peut demander beaucoup d'énergie pendant une longue saison de chauffe. Avant de remplacer un système de chauffage, il est généralement plus cohérent de s'intéresser aux combles, aux parois froides, aux fuites d'air, aux fenêtres très dégradées et à la régulation. Une maison mieux isolée a besoin d'un équipement moins puissant et reste plus confortable.</p><p>Les petits réglages ont aussi leur place. Une température de consigne modérée dans les pièces de vie, une température plus basse dans les chambres, un thermostat programmable et une bonne utilisation des volets peuvent limiter les pertes. La ventilation ne doit pas être coupée pour « garder la chaleur » : une ventilation entretenue évite l'humidité et favorise un air intérieur sain. En revanche, une VMC encrassée ou des entrées d'air obstruées méritent un contrôle.</p><p>Si vous êtes locataire, vous pouvez mettre en place des gestes réversibles et signaler les défauts importants au propriétaire. Pour des travaux lourds, son accord est nécessaire. Il est utile de lui transmettre un diagnostic clair, des relevés de consommation et, si possible, des solutions de financement identifiées.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Budget indicatif des améliorations à envisager",
+      "intro": "Les montants varient beaucoup selon la surface, la complexité du chantier, la région et les aides obtenues. Ils sont indiqués avant déduction d'éventuelles aides.",
+      "columns": [
+        "Action",
+        "Budget généralement constaté",
+        "Impact potentiel",
+        "À contrôler"
+      ],
+      "rows": [
+        [
+          "Ampoules LED et multiprises à interrupteur",
+          "Quelques euros à quelques dizaines d'euros par équipement",
+          "Réduit les consommations d'éclairage et de veille, surtout en usage intensif",
+          "Choisir la bonne puissance lumineuse plutôt que multiplier les lampes"
+        ],
+        [
+          "Thermostat programmable ou connecté",
+          "Environ 50 à 250 € hors éventuelle pose",
+          "Améliore la régularité du chauffage et évite les chauffes inutiles",
+          "Compatibilité avec la chaudière, les radiateurs ou la pompe à chaleur"
+        ],
+        [
+          "Isolation des combles",
+          "Souvent autour de 25 à 70 € par m² avant aides",
+          "Très utile lorsque la toiture est peu isolée",
+          "Épaisseur, résistance thermique, traitement de l'humidité et ventilation"
+        ],
+        [
+          "Chauffe-eau thermodynamique",
+          "Souvent entre 2 500 et 4 500 € posé avant aides",
+          "Peut réduire l'énergie dédiée à l'eau chaude dans un logement adapté",
+          "Volume disponible, bruit, emplacement et besoins réels du foyer"
+        ],
+        [
+          "Pompe à chaleur air-eau",
+          "Souvent entre 10 000 et 18 000 € posée avant aides",
+          "Peut réduire les besoins de chauffage dans une maison bien étudiée",
+          "Dimensionnement, émetteurs, isolation préalable et entretien"
+        ]
+      ],
+      "note": "Un devis sérieux doit préciser les performances attendues, les travaux annexes, la pose, la TVA, les garanties et les conditions de l'aide éventuelle."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Aides à la rénovation : vérifiez l'ordre des démarches",
+      "html": "<p>EDF peut proposer des primes relevant du dispositif des <strong>certificats d'économies d'énergie</strong> pour certains travaux, sous conditions. Elles ne sont ni automatiques ni forcément les plus adaptées à chaque projet. D'autres aides publiques peuvent exister selon vos revenus, le logement et la nature des travaux.</p><p>Dans de nombreux dispositifs, il faut créer son dossier ou accepter l'offre de prime <strong>avant</strong> de signer le devis, de verser un acompte ou de commencer les travaux. Vérifiez les critères techniques, le recours éventuel à un professionnel qualifié et les justificatifs demandés. Les informations officielles sont disponibles sur <a href=\"https://france-renov.gouv.fr/\">France Rénov'</a>.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Trois réflexes qui changent la qualité de votre décision",
+      "items": [
+        {
+          "value": "12 mois",
+          "label": "de factures à examiner pour lisser les effets de la saison de chauffe"
+        },
+        {
+          "value": "1 coût annuel TTC",
+          "label": "à comparer, plutôt qu'un prix du kWh isolé"
+        },
+        {
+          "value": "0 devis signé",
+          "label": "avant d'avoir vérifié les conditions d'éligibilité aux aides"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Changer d'offre ou de fournisseur sans mauvaise surprise",
+      "html": "<p>Pour un particulier, changer de fournisseur d'électricité ou de gaz est en principe gratuit, sans coupure et sans intervention sur le compteur lorsque l'installation reste identique. Le réseau et la qualité de fourniture ne changent pas : ils restent assurés par le gestionnaire de réseau. Vous pouvez donc rester chez EDF, modifier une option tarifaire, ou comparer avec d'autres fournisseurs selon votre situation.</p><p>Ne choisissez pas sur la seule promesse d'une remise. Relevez le prix de l'abonnement, le prix du kWh TTC, le mode d'évolution des prix, la durée éventuelle de l'offre et les services inclus. Une offre indexée peut suivre une référence définie au contrat ; une offre fixe peut protéger une composante pendant une période donnée, sans empêcher l'évolution des taxes. Lisez les conditions plutôt que de vous fier au seul montant de la première mensualité.</p><p>En cas de difficulté de paiement, contactez rapidement le fournisseur : attendre l'impayé réduit les options. Selon votre situation, un échéancier, un ajustement de mensualisation ou une orientation vers les aides disponibles peut être envisagé. Le chèque énergie, lorsqu'il est attribué, peut notamment servir à régler des dépenses d'énergie.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "La meilleure offre est celle qui correspond à votre manière réelle de consommer, pas celle dont l'intitulé semble le plus avantageux.",
+      "author": "Conseil pratique jaimerais.fr"
+    }
+  ],
+  "faq": [
+    {
+      "q": "EDF est-il plus cher à Amiens qu'ailleurs en France ?",
+      "a_html": "<p>Pour une même option au tarif réglementé de l'électricité en France métropolitaine continentale, le prix n'est pas fixé ville par ville. À Amiens, la différence de facture vient surtout des kWh consommés, de la puissance du compteur, de l'option tarifaire et de la qualité thermique du logement.</p><p>Les tarifs des offres de marché dépendent quant à eux du contrat souscrit, pas du fait d'habiter à Amiens.</p>"
+    },
+    {
+      "q": "Les Heures Creuses EDF sont-elles rentables ?",
+      "a_html": "<p>Elles peuvent l'être si vous déplacez une part importante de votre consommation sur les plages attribuées : chauffe-eau, recharge d'un véhicule électrique, lave-vaisselle ou lave-linge programmés. Elles sont moins adaptées si l'essentiel de vos besoins, notamment le chauffage, se situe en heures pleines.</p><p>Examinez la répartition HP/HC de vos factures sur plusieurs mois et demandez une simulation avant de modifier votre contrat.</p>"
+    },
+    {
+      "q": "L'option Tempo EDF est-elle intéressante dans la Somme ?",
+      "a_html": "<p>Tempo peut convenir à un foyer capable de diminuer fortement sa consommation pendant certaines journées d'hiver, dites jours rouges, surtout en journée. Elle est plus risquée pour un logement entièrement chauffé à l'électricité sans solution de repli ni bonne isolation.</p><p>Avant de choisir, vérifiez la disponibilité de l'option, votre type de compteur, votre mode de chauffage et votre capacité à reporter les usages énergivores les jours concernés.</p>"
+    },
+    {
+      "q": "Comment suivre sa consommation EDF avec Linky ?",
+      "a_html": "<p>Connectez-vous à votre espace client EDF ou à l'application EDF & MOI, puis activez les services de suivi disponibles pour votre contrat. Vous pourrez généralement visualiser vos consommations avec un niveau de détail utile pour identifier les périodes de pointe.</p><p>Gardez toutefois un regard critique : comparez des jours comparables et tenez compte de la météo, des absences et des changements d'équipements.</p>"
+    },
+    {
+      "q": "EDF peut-il financer mes travaux de rénovation à Amiens ?",
+      "a_html": "<p>EDF peut proposer, selon les périodes et les travaux, des primes liées aux certificats d'économies d'énergie. Il ne finance pas automatiquement tous les projets et les montants dépendent notamment du type de travaux, des performances exigées et de votre situation.</p><p>Avant d'accepter un devis, vérifiez les règles auprès du dispositif concerné et consultez France Rénov'. Faire les démarches après le démarrage du chantier peut vous faire perdre l'aide.</p>"
+    },
+    {
+      "q": "Puis-je quitter EDF sans coupure d'électricité ?",
+      "a_html": "<p>Oui, pour un contrat particulier classique, le changement de fournisseur est normalement sans frais de résiliation, sans coupure et sans modification de la qualité de l'électricité. Le nouveau fournisseur s'occupe habituellement de la résiliation de l'ancien contrat.</p><p>Une intervention peut être nécessaire seulement dans des situations particulières, par exemple un déménagement, une modification de puissance ou des travaux sur l'installation.</p>"
+    }
+  ],
+  "conclusion_html": "<p>EDF peut aider les foyers amiénois à mieux maîtriser leurs dépenses grâce au suivi de consommation, aux options tarifaires et, selon les cas, aux dispositifs d'aide à la rénovation. Mais l'économie la plus fiable vient d'une décision personnalisée : analysez vos factures sur un an, choisissez une option adaptée à vos usages et traitez en priorité les pertes de chaleur de votre logement.</p><p>Avant toute souscription ou tout chantier, prenez le temps de comparer le coût annuel complet et les conditions. C'est cette méthode, bien plus qu'une offre présentée comme « avantageuse », qui transforme durablement une envie d'économiser en résultat concret.</p>",
+  "__slug": "edf-amiens-comment-edf-amiens-aide-ses-clients-a-economiser"
+}

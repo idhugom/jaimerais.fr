@@ -1,0 +1,217 @@
+{
+  "title": "Maintenance des systèmes de ventilation : quelles obligations légales en France ?",
+  "meta_description": "VMC, bureaux, ERP : découvrez les obligations de maintenance de la ventilation, les responsabilités et les bons gestes pour rester conforme en France.",
+  "reading_time_min": 11,
+  "hero_intro": "Une ventilation entretenue protège la qualité de l'air intérieur, limite l'humidité et contribue à la sécurité des occupants. Mais les règles ne sont pas les mêmes pour une VMC de logement, un réseau collectif, des bureaux ou une cuisine professionnelle. Voici comment identifier vos obligations réelles, organiser l'entretien et éviter les confusions entre réglementation, normes et simples recommandations.",
+  "key_takeaways": [
+    "Il n'existe pas une obligation annuelle identique pour toutes les VMC : les exigences dépendent du bâtiment, de l'usage des locaux et de l'équipement installé.",
+    "Dans un logement, la ventilation doit rester fonctionnelle, générale et permanente lorsqu'elle est requise ; l'occupant entretient couramment les bouches, tandis que le propriétaire ou le syndic prend en charge le système et les réparations importantes.",
+    "Au travail, l'employeur doit maintenir et contrôler les installations d'aération pour garantir un air sain ; les débits réglementaires varient selon l'activité et la pollution présente.",
+    "Le NF DTU 68.3 et certaines normes NF sont des références techniques utiles, mais ils ne se confondent pas automatiquement avec une obligation légale de maintenance.",
+    "Conservez les preuves d'entretien, les rapports de contrôle et les notices : elles facilitent le suivi, les interventions et la démonstration de conformité."
+  ],
+  "toc": [
+    "Comprendre le cadre légal de la maintenance de ventilation",
+    "Les obligations selon le type de bâtiment",
+    "VMC en logement : ce qui est obligatoire et ce qui relève du bon entretien",
+    "Locataire, propriétaire, syndic : qui est responsable ?",
+    "Ventilation des locaux de travail : les devoirs de l'employeur",
+    "RE2020, décret, DTU et normes : ne pas tout confondre",
+    "Mettre en place un plan de maintenance efficace",
+    "Quel budget prévoir pour l'entretien d'une ventilation ?",
+    "Erreurs à éviter et signes qui doivent alerter"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre le cadre légal de la maintenance de ventilation",
+      "html": "<p>La réglementation française poursuit un objectif simple : assurer un renouvellement d'air compatible avec la santé, le confort et, selon les lieux, la sécurité incendie ou la sécurité au travail. Elle ne fixe toutefois pas un calendrier unique valable pour tous les systèmes. Une VMC simple flux dans une maison, une ventilation mécanique contrôlée collective, une centrale de traitement d'air de bureau et une hotte de cuisine professionnelle ne relèvent pas des mêmes textes ni des mêmes risques.</p><p>Pour savoir ce qui vous concerne, commencez par distinguer trois niveaux. Les <strong>lois, décrets et arrêtés</strong> fixent des obligations. Les <strong>normes et DTU</strong> décrivent des solutions et règles techniques de référence, souvent rendues applicables par un marché, un contrat ou une assurance. Enfin, la <strong>notice du fabricant</strong> donne les opérations et périodicités nécessaires pour préserver les performances et la garantie de l'appareil.</p><p>En pratique, la maintenance ne consiste pas seulement à dépoussiérer une grille. Elle comprend aussi le contrôle des débits, de l'état des bouches et des gaines accessibles, de l'alimentation électrique, des condensats pour une double flux, des filtres et, dans certains locaux, des dispositifs de sécurité ou de captation à la source.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel à retenir avant de planifier un entretien",
+      "points": [
+        "Une VMC autonome de logement n'est pas soumise à une visite annuelle universellement imposée par un texte national, mais elle doit rester en état de fonctionner.",
+        "Le nettoyage régulier des entrées d'air et bouches d'extraction est indispensable : les obstruer peut déséquilibrer toute l'installation.",
+        "Les installations en milieu professionnel doivent être entretenues et contrôlées régulièrement par l'employeur, avec une traçabilité adaptée.",
+        "Les systèmes combinant ventilation, chauffage ou climatisation peuvent relever de contrôles spécifiques liés aux équipements thermodynamiques.",
+        "En copropriété, ne modifiez jamais une bouche, une gaine ou un caisson collectif sans l'accord du syndic et l'avis d'un professionnel."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les règles de maintenance selon le bâtiment et l'installation",
+      "intro": "Ce tableau donne les repères les plus utiles. Des prescriptions plus exigeantes peuvent s'ajouter selon l'activité, la commune, le règlement sanitaire départemental ou le contrat de maintenance.",
+      "columns": [
+        "Situation",
+        "Textes et principes à connaître",
+        "Ce qu'il faut organiser"
+      ],
+      "rows": [
+        [
+          "Logement individuel ou loué",
+          "L'arrêté du 24 mars 1982 encadre l'aération de nombreux logements et pose le principe d'une ventilation générale et permanente. Les règles exactes dépendent notamment de l'âge du bâtiment et de sa configuration.",
+          "Maintenir les entrées d'air et extractions dégagées ; suivre la notice de la VMC ; faire réparer rapidement un moteur, une bouche ou une gaine défaillante."
+        ],
+        [
+          "Immeuble avec VMC collective",
+          "Les obligations de bon fonctionnement du bâtiment s'ajoutent aux règles de copropriété. Le réseau commun ne peut pas être modifié individuellement.",
+          "Le syndic programme les contrôles et travaux sur les caissons et réseaux communs ; les occupants entretiennent les éléments visibles de leur logement."
+        ],
+        [
+          "Bureaux, ateliers et commerces avec salariés",
+          "Le Code du travail impose une aération suffisante, l'entretien des installations et des contrôles adaptés. Les locaux à pollution spécifique exigent une prévention renforcée.",
+          "L'employeur fait vérifier l'installation, conserve les résultats utiles et agit sur les anomalies ; la captation des polluants doit être privilégiée à la source."
+        ],
+        [
+          "Construction neuve résidentielle soumise à la RE2020",
+          "La réglementation environnementale prévoit une vérification de la ventilation à la livraison suivant le protocole applicable.",
+          "Prévoir les mesures, réglages et justificatifs de fin de chantier ; conserver le rapport avec les documents du logement."
+        ],
+        [
+          "ERP, cuisines professionnelles, sites industriels",
+          "Des règles sectorielles d'hygiène, de sécurité incendie, de santé ou d'environnement peuvent s'appliquer en complément.",
+          "Vérifier les prescriptions propres à l'établissement : conduits, filtres, clapets coupe-feu, hottes, extraction de fumées ou polluants."
+        ]
+      ],
+      "note": "Les textes évoluent et l'application dépend de la situation précise. Pour une installation professionnelle ou sensible, une vérification par un mainteneur qualifié et, si besoin, par un bureau de contrôle reste la solution la plus sûre."
+    },
+    {
+      "type": "prose",
+      "heading": "VMC en logement : ce qui est obligatoire et ce qui relève du bon entretien",
+      "html": "<p>Dans les logements concernés par les règles d'aération, l'air doit pouvoir circuler des pièces principales, comme le séjour et les chambres, vers les pièces de service, telles que la cuisine, la salle de bains et les WC. Les entrées d'air, souvent placées sur les menuiseries ou dans les coffres de volets, et les bouches d'extraction ont donc chacune un rôle. Les masquer avec de l'adhésif, du mobilier ou du linge peut provoquer condensation, moisissures et air confiné.</p><p>La réglementation n'impose pas, pour toutes les VMC domestiques, un <strong>ramonage annuel systématique de l'ensemble des gaines</strong>. En revanche, un équipement laissé hors service ou visiblement encrassé peut compromettre l'obligation de ventilation du logement, sa salubrité et, dans certains cas, les garanties du fabricant. Un entretien préventif raisonnable est donc préférable à une intervention après apparition de moisissures.</p><p>Pour une VMC simple flux, l'occupant peut généralement nettoyer les bouches et les entrées d'air avec précaution, sans modifier leur réglage. Pour une VMC double flux, les filtres sont un point crucial : leur remplacement ou nettoyage intervient souvent tous les trois à six mois selon le modèle, l'environnement extérieur et les préconisations du fabricant. Les échangeurs, évacuations de condensats et réglages méritent une intervention plus technique.</p><p>Un logement ancien n'est pas automatiquement tenu d'atteindre toutes les caractéristiques d'une construction neuve. En revanche, lors d'une rénovation importante, d'une création de pièces humides ou d'un remplacement de système, il est pertinent de vérifier les règles applicables au projet avec l'installateur ou le service instructeur compétent.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Locataire, propriétaire, syndic : qui est responsable ?",
+      "intro": "La répartition dépend du bail, de la nature de la panne et du caractère individuel ou collectif du système. Voici le partage le plus courant, à confirmer avec les documents contractuels.",
+      "left": {
+        "title": "Occupant ou locataire",
+        "points": [
+          "Assure l'entretien courant des grilles, entrées d'air et bouches accessibles, sans dérégler les éléments techniques.",
+          "Signale rapidement un bruit anormal, une aspiration inexistante, une odeur persistante ou des traces d'humidité.",
+          "Ne bouche pas les aérations et ne raccorde pas de hotte à évacuation sur un conduit non prévu à cet effet.",
+          "Peut être responsable d'un encrassement lié à l'absence d'entretien courant, selon les circonstances."
+        ]
+      },
+      "right": {
+        "title": "Propriétaire ou syndic",
+        "points": [
+          "Assure les réparations importantes, le remplacement d'un groupe défectueux et la conformité générale de l'équipement loué.",
+          "Fait entretenir les caissons, colonnes et réseaux communs d'une VMC collective par une entreprise compétente.",
+          "Organise les interventions nécessitant un accès technique, un réglage de débits ou une modification du réseau.",
+          "Traite les désordres structurels : gaines détériorées, défaut de conception, infiltrations ou insuffisance durable de ventilation."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Ventilation des locaux de travail : les devoirs de l'employeur",
+      "html": "<p>Dans les lieux de travail fermés, le Code du travail impose à l'employeur de renouveler l'air de manière à préserver la santé des salariés et à éviter les élévations excessives de température, les odeurs désagréables et les condensations. Les installations doivent être <strong>maintenues en bon état de fonctionnement</strong> et faire l'objet de contrôles réguliers. Cette obligation concerne aussi bien une simple ventilation générale qu'une installation plus complexe de traitement d'air.</p><p>Pour les locaux sans pollution spécifique, les débits minimaux d'air neuf sont exprimés par occupant et varient selon la nature de l'activité. À titre de repère, ils vont généralement de <strong>25 à 60 m³ par heure et par personne</strong> : 25 m³/h dans certains bureaux et locaux à travail léger, puis davantage lorsque l'activité est plus physique. Il est donc inexact d'affirmer qu'un seuil unique de 30 m³/h s'applique à tous les salariés et tous les établissements.</p><p>Lorsqu'il existe une pollution spécifique, par exemple des poussières, fumées, solvants, vapeurs ou aérosols, la priorité est la <strong>captation au plus près de la source</strong>. Une ventilation générale ne suffit pas à elle seule à protéger les travailleurs exposés. Les exigences de contrôle et les mesures de prévention doivent alors être définies selon le risque, les procédés utilisés et les textes propres au secteur.</p><p>Les arrêtés relatifs à l'aération et à l'assainissement des lieux de travail précisent les modalités de vérification de certaines installations. L'employeur a intérêt à formaliser les visites, résultats de mesure, opérations de maintenance et actions correctives dans un registre ou un dossier de suivi. Cette traçabilité est précieuse lors d'un contrôle, d'un incident ou d'une plainte liée au confort thermique ou aux odeurs.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Décret, RE2020, DTU : trois notions à ne pas confondre",
+      "html": "<p>Le décret n° 2020-912 du 28 juillet 2020 concerne notamment l'entretien et l'inspection de certains systèmes de chauffage, de climatisation et systèmes thermodynamiques. Il peut concerner une ventilation lorsqu'elle est associée à ces équipements, mais il ne crée pas à lui seul une visite annuelle obligatoire pour chaque VMC domestique isolée.</p><p>La <strong>RE2020</strong> s'applique aux constructions neuves concernées et prévoit une vérification des performances de ventilation en fin de chantier selon le protocole en vigueur. Elle ne transforme pas cette vérification de livraison en obligation annuelle pour les logements existants.</p><p>Le <strong>NF DTU 68.3</strong> est une référence technique majeure pour la conception et l'exécution d'installations de ventilation mécanique. Il peut devenir contractuellement obligatoire, mais un DTU n'est pas, par principe, une loi générale de maintenance. Les clapets coupe-feu et autres organes de sécurité répondent en outre à des exigences spécifiques de sécurité incendie.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Mettre en place un plan de maintenance efficace",
+      "intro": "Que vous gériez une maison, une copropriété ou des locaux professionnels, cette méthode permet de passer d'un entretien improvisé à un suivi utile et proportionné.",
+      "steps": [
+        {
+          "title": "1. Identifier précisément l'installation",
+          "html": "<p>Notez le type de système : VMC simple flux autoréglable ou hygroréglable, double flux, ventilation naturelle assistée, centrale de traitement d'air, extraction de cuisine ou réseau industriel. Relevez la marque, le modèle, l'année de pose, les filtres compatibles et les éventuels contrats existants.</p>"
+        },
+        {
+          "title": "2. Vérifier le périmètre réglementaire",
+          "html": "<p>Déterminez l'usage du lieu : habitation, copropriété, lieu de travail, ERP, cuisine professionnelle ou site soumis à une réglementation sectorielle. Consultez les documents du bâtiment, le règlement de copropriété et les prescriptions du fabricant avant de fixer une fréquence.</p>"
+        },
+        {
+          "title": "3. Planifier les opérations simples et techniques",
+          "html": "<p>Prévoyez un nettoyage régulier des éléments accessibles. Programmez l'intervention d'un professionnel pour les réglages, mesures de débits, filtres techniques, caissons, échangeurs, gaines difficiles d'accès et dispositifs de sécurité. N'intervenez jamais sur un équipement électrique sous tension.</p>"
+        },
+        {
+          "title": "4. Contrôler le résultat, pas seulement le nettoyage",
+          "html": "<p>Après une intervention, vérifiez l'aspiration aux bouches, l'absence de bruit inhabituel, l'état des entrées d'air et, pour une double flux, l'absence de fuite de condensats. En milieu professionnel, les mesures et essais prévus doivent être documentés.</p>"
+        },
+        {
+          "title": "5. Archiver les preuves et corriger sans attendre",
+          "html": "<p>Conservez factures, rapports, références de filtres, relevés et photos éventuelles. Une faible aspiration, une odeur de renfermé ou de la condensation récurrente justifient un diagnostic : nettoyer une bouche ne résout pas forcément une gaine écrasée, un moteur usé ou un mauvais équilibrage.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quel budget prévoir pour l'entretien d'une ventilation ?",
+      "intro": "Les tarifs varient fortement selon la région, l'accessibilité, le nombre de bouches et l'état du réseau. Ces montants sont des ordres de grandeur généralement constatés, à demander devis à l'appui.",
+      "columns": [
+        "Prestation",
+        "Ordre de grandeur souvent constaté",
+        "À vérifier dans le devis"
+      ],
+      "rows": [
+        [
+          "Visite et nettoyage d'une VMC simple flux individuelle",
+          "Environ 100 à 200 €",
+          "Nombre de bouches, nettoyage du caisson, contrôle électrique et mesure éventuelle des débits."
+        ],
+        [
+          "Entretien d'une VMC double flux",
+          "Environ 150 à 350 €",
+          "Échangeur, condensats, réglages, état des gaines et remplacement des filtres inclus ou non."
+        ],
+        [
+          "Jeu de filtres pour double flux",
+          "Souvent 20 à 100 € selon le modèle",
+          "Référence exacte, qualité de filtration et fréquence de remplacement recommandée."
+        ],
+        [
+          "Nettoyage ciblé ou diagnostic de gaines",
+          "À partir de quelques centaines d'euros selon l'accès",
+          "Méthode employée, longueur de réseau, contrôle avant/après et réparations éventuelles."
+        ],
+        [
+          "Réseau collectif ou professionnel",
+          "Sur devis, souvent via contrat de maintenance",
+          "Périmètre des équipements, fréquence, mesures, astreinte, traçabilité et obligations sectorielles."
+        ]
+      ],
+      "note": "Un prix très bas peut exclure le contrôle des débits, les déplacements supplémentaires ou les filtres. Comparez surtout le contenu réel de la prestation, pas uniquement le montant affiché."
+    },
+    {
+      "type": "prose",
+      "heading": "Erreurs à éviter et signes qui doivent alerter",
+      "html": "<p>La première erreur consiste à confondre absence de bruit et bon fonctionnement. Une VMC peut tourner sans extraire suffisamment d'air, notamment si les bouches sont encrassées, si les entrées d'air sont bouchées ou si une gaine est déconnectée. À l'inverse, un sifflement marqué peut révéler un réglage inadapté ou une bouche mal remontée.</p><p>Évitez également le <strong>nettoyage agressif des gaines sans diagnostic</strong>. Dans une maison, faire intervenir une entreprise pour un nettoyage complet n'est pas toujours nécessaire ; cela se justifie en cas d'encrassement avéré, de travaux générant beaucoup de poussières, de nuisance persistante ou de problème de performance. Un intervenant sérieux explique la cause du problème et la méthode retenue.</p><p>Faites contrôler l'installation sans tarder en cas de condensation répétée sur les fenêtres, de moisissures qui reviennent après nettoyage, d'odeurs d'égout ou de cuisine qui stagnent, de moteur bruyant, de disjonctions, de traces d'eau sous une double flux ou d'absence totale d'aspiration. Dans un logement équipé d'une VMC-gaz ou dans une cuisine professionnelle, toute intervention doit être menée avec une vigilance renforcée par un professionnel compétent.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "L'entretien annuel d'une VMC est-il obligatoire ?",
+      "a_html": "<p>Pas de manière identique pour toutes les VMC de logement. Il n'existe pas d'obligation nationale générale imposant une visite annuelle de chaque VMC individuelle. En revanche, le système doit rester fonctionnel et les opérations prévues par le fabricant doivent être respectées.</p><p>Dans les locaux professionnels, les équipements d'aération doivent être entretenus et régulièrement contrôlés par l'employeur. Des règles sectorielles, un contrat, une assurance ou un règlement de copropriété peuvent aussi prévoir une fréquence précise.</p>"
+    },
+    {
+      "q": "Le locataire doit-il payer l'entretien de la VMC ?",
+      "a_html": "<p>Le locataire assure en principe l'entretien courant des bouches, grilles et entrées d'air accessibles. Il doit aussi signaler les anomalies sans attendre. Le propriétaire prend habituellement en charge les réparations importantes, le remplacement d'un groupe défaillant et les défauts de l'installation.</p><p>La répartition exacte dépend toutefois du bail, de l'origine de la panne et du caractère individuel ou collectif de la ventilation. En cas de désaccord, conservez les échanges, photos et justificatifs d'entretien.</p>"
+    },
+    {
+      "q": "À quelle fréquence faut-il nettoyer les bouches et les gaines de VMC ?",
+      "a_html": "<p>Les bouches et entrées d'air accessibles peuvent être dépoussiérées régulièrement, par exemple lorsque la poussière s'y accumule, sans modifier les réglages. Les filtres d'une double flux se contrôlent plus souvent, selon la notice du fabricant et l'environnement du logement.</p><p>Il n'existe pas de fréquence légale universelle de nettoyage complet des gaines dans les logements. Un diagnostic est préférable si l'aspiration est faible, si le réseau a subi des travaux poussiéreux ou si un encrassement est suspecté.</p>"
+    },
+    {
+      "q": "La RE2020 impose-t-elle un contrôle de ventilation chaque année ?",
+      "a_html": "<p>Non. La RE2020 concerne principalement les constructions neuves qui y sont soumises. Elle prévoit une vérification de l'installation de ventilation à la fin du chantier selon le protocole applicable, afin de s'assurer de sa mise en œuvre et de ses performances.</p><p>Cette exigence de livraison ne remplace pas l'entretien courant nécessaire tout au long de la vie du système et ne crée pas, à elle seule, une obligation annuelle pour tous les logements existants.</p>"
+    },
+    {
+      "q": "Quels débits d'air sont obligatoires dans les bureaux ?",
+      "a_html": "<p>Les débits minimaux d'air neuf dans les locaux de travail sans pollution spécifique dépendent de l'activité. Ils se situent généralement entre 25 et 60 m³ par heure et par occupant. Les bureaux et activités peu physiques relèvent des valeurs les plus basses, tandis que les travaux plus physiques nécessitent davantage d'air neuf.</p><p>En présence de poussières, fumées, solvants ou autres polluants spécifiques, la règle essentielle est de capter les émissions à la source. Une étude adaptée peut être indispensable : un chiffre standard par salarié ne suffit alors pas.</p>"
+    },
+    {
+      "q": "Le NF DTU 68.3 est-il obligatoire pour entretenir une ventilation ?",
+      "a_html": "<p>Le NF DTU 68.3 est une référence technique importante pour les installations de ventilation mécanique. Il guide notamment la conception et la mise en œuvre. Il devient obligatoire lorsqu'il est visé par un contrat, un marché, une assurance ou un texte qui le rend applicable dans une situation donnée.</p><p>Il ne faut donc pas le confondre avec une obligation légale générale imposant une fréquence de maintenance identique à tous les bâtiments. Pour l'entretien, la réglementation applicable, la notice du fabricant et le contrat de maintenance doivent être lus ensemble.</p>"
+    }
+  ],
+  "conclusion_html": "<p>La bonne question n'est pas seulement « faut-il entretenir la ventilation ? », mais <strong>quelle installation, dans quel bâtiment et pour quel usage ?</strong> Dans tous les cas, conserver les passages d'air libres, suivre les préconisations du fabricant et traiter rapidement les anomalies constitue le minimum utile.</p><p>Pour un logement, un entretien régulier et proportionné évite beaucoup de désordres. Pour une copropriété, un ERP ou un lieu de travail, un plan de maintenance documenté et des contrôles adaptés permettent de protéger les occupants tout en respectant les obligations applicables. En cas de doute, faites diagnostiquer l'installation avant d'engager des travaux ou un nettoyage coûteux.</p>",
+  "__slug": "quelle-est-la-legislation-en-vigueur-concernant-la-maintenance-des-systemes-de-ventilation"
+}

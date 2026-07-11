@@ -1,0 +1,233 @@
+{
+  "title": "Comment changer son mot de passe Gmail sur ordinateur et mobile",
+  "meta_description": "Changez le mot de passe de votre compte Gmail sur ordinateur ou mobile, créez un code robuste et sécurisez votre accès en cas de doute.",
+  "reading_time_min": 9,
+  "hero_intro": "Votre mot de passe Gmail protège bien plus que votre boîte de réception : il ouvre aussi l'accès à Drive, Photos, YouTube, Agenda et aux autres services Google liés au même compte. Le modifier ne prend que quelques minutes, à condition de passer par les réglages officiels et de choisir un mot de passe réellement unique. Voici la marche à suivre sur ordinateur, Android et iPhone, ainsi que les bons réflexes si vous suspectez un piratage.",
+  "key_takeaways": [
+    "Le mot de passe Gmail est celui de votre compte Google : le changer modifie l'accès à Gmail, Drive, Photos, YouTube et aux autres services associés.",
+    "Le chemin le plus fiable est : Compte Google > Sécurité > Mot de passe, puis une nouvelle authentification peut être demandée.",
+    "Privilégiez une phrase de passe longue, unique et enregistrée dans un gestionnaire de mots de passe plutôt qu'un mot de passe compliqué mais réutilisé.",
+    "Après un changement de mot de passe, vérifiez les appareils connectés, les coordonnées de récupération et les applications tierces autorisées.",
+    "Si vous n'avez plus votre ancien mot de passe, n'essayez pas au hasard : utilisez la procédure officielle de récupération de compte Google."
+  ],
+  "toc": [
+    "Ce que change réellement le mot de passe Gmail",
+    "Changer son mot de passe Gmail sur ordinateur",
+    "Les chemins d'accès selon votre appareil",
+    "Modifier son mot de passe Gmail sur Android ou iPhone",
+    "Choisir un mot de passe Google solide et mémorisable",
+    "Que faire si votre compte Gmail a été piraté",
+    "Après le changement : vérifications et problèmes fréquents",
+    "FAQ : mot de passe Gmail et compte Google"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Le mot de passe Gmail protège tout votre compte Google",
+      "html": "<p>Quand on parle de « mot de passe Gmail », il s'agit en réalité du mot de passe de votre <strong>compte Google</strong>. Il donne accès à votre messagerie, mais aussi potentiellement à vos fichiers Google Drive, vos photos sauvegardées, vos contacts, votre historique YouTube, votre calendrier et vos achats éventuels sur Google Play.</p><p>Il est pertinent de le changer si vous l'avez communiqué par erreur, s'il a été réutilisé sur un autre site victime d'une fuite de données, si vous recevez une alerte de connexion inhabituelle ou simplement si quelqu'un a pu voir votre écran. En revanche, le modifier de façon très fréquente sans raison peut conduire à choisir des codes plus faibles ou à les noter de manière risquée.</p><p>Avant de commencer, munissez-vous de votre mot de passe actuel si vous le connaissez et gardez à portée de main votre téléphone ou votre adresse e-mail de récupération. Google peut demander une validation supplémentaire afin de s'assurer que vous êtes bien à l'origine de la modification.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Avant de modifier votre accès, retenez ces quatre réflexes",
+      "points": [
+        "Faites la manipulation depuis un appareil personnel et une connexion de confiance, jamais depuis un ordinateur public.",
+        "N'utilisez pas un mot de passe déjà employé pour une banque, un réseau social, une boutique en ligne ou une autre messagerie.",
+        "Ne communiquez jamais votre nouveau mot de passe ni un code de validation reçu par SMS ou notification, même à une personne qui prétend représenter Google.",
+        "Si l'accès au compte vous semble déjà compromis, changez d'abord le mot de passe puis examinez immédiatement les appareils et les autorisations liés au compte."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Changer son mot de passe Gmail sur ordinateur",
+      "intro": "Vous n'avez pas besoin d'être sur la page de votre boîte de réception : le réglage se trouve dans l'espace de gestion du compte Google.",
+      "steps": [
+        {
+          "title": "Ouvrez la page Sécurité de votre compte Google",
+          "html": "<p>Connectez-vous à votre compte, puis ouvrez la rubrique <a href=\"https://myaccount.google.com/security\">Sécurité du compte Google</a>. Vous pouvez également cliquer sur votre photo de profil dans Gmail, choisir « Gérer votre compte Google », puis ouvrir « Sécurité ».</p>"
+        },
+        {
+          "title": "Sélectionnez l'option « Mot de passe »",
+          "html": "<p>Dans la partie consacrée à la connexion à Google, cliquez sur « Mot de passe ». Les intitulés peuvent légèrement varier selon la langue ou la présentation de votre compte, mais l'option reste dans l'onglet Sécurité.</p>"
+        },
+        {
+          "title": "Confirmez votre identité",
+          "html": "<p>Google vous demandera généralement de saisir votre mot de passe actuel ou de valider une demande sur votre téléphone. Cette étape est normale : elle évite qu'une personne ayant accès à un ordinateur déjà ouvert puisse changer vos identifiants.</p>"
+        },
+        {
+          "title": "Créez et enregistrez le nouveau mot de passe",
+          "html": "<p>Saisissez votre nouvelle phrase de passe, confirmez-la, puis validez le changement. Enregistrez-la immédiatement dans un gestionnaire de mots de passe fiable. Ne l'envoyez pas par e-mail et ne la stockez pas dans un document non protégé.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Où trouver le réglage selon votre appareil",
+      "intro": "Le principe est identique partout : vous devez atteindre la section « Sécurité » de votre compte Google, puis l'option « Mot de passe ».",
+      "columns": [
+        "Appareil",
+        "Chemin habituel",
+        "Validation possible"
+      ],
+      "rows": [
+        [
+          "Ordinateur",
+          "Photo de profil Gmail > Gérer votre compte Google > Sécurité > Mot de passe",
+          "Mot de passe actuel, notification Google ou code"
+        ],
+        [
+          "Téléphone Android",
+          "Réglages > Google > Gérer votre compte Google > Sécurité > Mot de passe",
+          "Empreinte, code de verrouillage, mot de passe ou notification selon la configuration"
+        ],
+        [
+          "iPhone ou iPad",
+          "Application Gmail > photo de profil > Gérer votre compte Google > Sécurité > Mot de passe",
+          "Mot de passe actuel, notification Google ou code"
+        ],
+        [
+          "Navigateur mobile",
+          "myaccount.google.com > Sécurité > Mot de passe",
+          "Même méthode de vérification que sur ordinateur"
+        ]
+      ],
+      "note": "L'apparence des menus peut évoluer avec les mises à jour de Gmail, d'Android, d'iOS ou de Google. Si besoin, utilisez directement la page Sécurité du compte Google."
+    },
+    {
+      "type": "steps",
+      "heading": "Modifier le mot de passe Gmail sur Android ou iPhone",
+      "intro": "Sur mobile, l'application Gmail permet d'accéder aux paramètres du compte, mais le changement se fait dans l'espace Google et non dans les réglages classiques de la boîte de réception.",
+      "steps": [
+        {
+          "title": "Depuis Android",
+          "html": "<p>Ouvrez les réglages du téléphone, touchez « Google », puis « Gérer votre compte Google ». Ouvrez l'onglet « Sécurité », sélectionnez « Mot de passe » et suivez les demandes de vérification. Vous pouvez aussi passer par l'application Gmail si vous la préférez.</p>"
+        },
+        {
+          "title": "Depuis l'application Gmail sur iPhone ou iPad",
+          "html": "<p>Ouvrez Gmail, touchez votre photo de profil en haut de l'écran, puis « Gérer votre compte Google ». Rendez-vous dans « Sécurité », ouvrez « Mot de passe », authentifiez-vous et choisissez votre nouveau code.</p>"
+        },
+        {
+          "title": "Reconnectez les applications qui le demandent",
+          "html": "<p>Après l'enregistrement, certaines applications de messagerie, tablettes ou appareils connectés peuvent vous demander le nouveau mot de passe. Saisissez-le uniquement dans l'application ou la page officielle concernée, jamais après avoir suivi un lien reçu par message.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Mot de passe complexe ou phrase de passe : que choisir ?",
+      "intro": "La meilleure protection n'est pas un code impossible à retenir et finalement réutilisé partout. L'objectif est surtout d'avoir un secret long, unique et bien conservé.",
+      "left": {
+        "title": "Une phrase de passe unique",
+        "points": [
+          "Plus facile à retenir si elle repose sur des mots sans lien évident entre eux.",
+          "Peut atteindre facilement 14 à 20 caractères ou davantage.",
+          "Exemple de structure : plusieurs mots personnels mais non prévisibles, avec une ponctuation si vous le souhaitez.",
+          "Très adaptée si elle est enregistrée dans un gestionnaire de mots de passe."
+        ]
+      },
+      "right": {
+        "title": "Un mot de passe court et réutilisé",
+        "points": [
+          "Même avec des majuscules, chiffres et symboles, il devient dangereux s'il est utilisé sur plusieurs sites.",
+          "Une fuite sur un service secondaire peut exposer votre compte Google.",
+          "Les variantes prévisibles comme « Prenom2025! » restent faciles à deviner pour une personne qui vous connaît.",
+          "À éviter, même si ce code semble pratique à mémoriser."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un bon mot de passe Google ne doit pas forcément contenir tous les types de caractères",
+      "html": "<p>Google impose généralement un minimum de huit caractères, mais une longueur supérieure est préférable. Les majuscules, chiffres et caractères spéciaux peuvent renforcer un mot de passe, sans être une obligation universelle. Le critère décisif est sa <strong>longueur</strong>, son <strong>unicité</strong> et son caractère imprévisible.</p><p>Évitez votre prénom, votre date de naissance, le nom de vos proches, « azerty », « 123456 » et toute information visible sur vos réseaux sociaux. Un gestionnaire de mots de passe peut générer un code aléatoire très robuste et le remplir pour vous.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Compte Gmail piraté ou activité suspecte : le plan d'action",
+      "intro": "Si vous avez un doute sérieux, agir vite est plus utile que multiplier les essais de connexion. Réalisez ces opérations depuis un appareil dont vous avez confiance.",
+      "steps": [
+        {
+          "title": "Changez immédiatement le mot de passe",
+          "html": "<p>Utilisez la procédure décrite plus haut. Créez un nouveau mot de passe qui n'a jamais servi ailleurs. Si vous êtes encore connecté sur un appareil, profitez-en sans tarder : un pirate peut modifier vos informations de récupération pour vous bloquer.</p>"
+        },
+        {
+          "title": "Examinez les appareils connectés",
+          "html": "<p>Dans la rubrique Sécurité de votre compte Google, consultez vos appareils et déconnectez ceux que vous ne reconnaissez pas ou que vous n'utilisez plus. Regardez également l'activité de sécurité récente afin d'identifier d'éventuelles connexions suspectes.</p>"
+        },
+        {
+          "title": "Contrôlez les moyens de récupération",
+          "html": "<p>Vérifiez votre numéro de téléphone et votre adresse e-mail de récupération. Supprimez toute coordonnée inconnue et remplacez les informations obsolètes. Elles seront essentielles si vous devez récupérer votre compte plus tard.</p>"
+        },
+        {
+          "title": "Révoquez les accès inutiles et renforcez la connexion",
+          "html": "<p>Dans les paramètres de sécurité, examinez les applications et services tiers ayant accès à votre compte. Retirez ceux qui sont inconnus ou dont vous ne vous servez plus. Activez ensuite la validation en deux étapes et, si l'option vous convient, envisagez une clé d'accès ou une clé de sécurité.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Après le changement : ce qu'il faut vérifier et les erreurs à éviter",
+      "html": "<p>Un changement de mot de passe peut entraîner une déconnexion sur une partie de vos appareils et services. Google conserve parfois certaines sessions ou certains appareils utilisés pour confirmer votre identité ; ne supposez donc pas que tous les accès sont automatiquement fermés. La vérification manuelle des appareils connectés reste indispensable en cas de doute.</p><p>Les applications utilisant votre identifiant Google, comme Gmail, Drive ou YouTube, vous demanderont souvent de vous reconnecter. Les anciennes applications de messagerie peuvent également exiger une nouvelle authentification. Si vous utilisiez des <em>mots de passe d'application</em> pour un ancien logiciel ou appareil, prévoyez de les régénérer : ils sont révoqués lorsque le mot de passe du compte Google est modifié.</p><p>Ne confondez pas modification du mot de passe et activation de la validation en deux étapes. Le premier protège votre secret de connexion ; la seconde ajoute une preuve supplémentaire, par exemple une confirmation sur votre téléphone. Les deux protections sont complémentaires.</p><p>Enfin, méfiez-vous des e-mails alarmants affirmant que votre boîte Gmail va être supprimée ou que vous devez « confirmer » votre nouveau mot de passe. N'utilisez pas leurs liens. Ouvrez vous-même Gmail ou la page de votre compte Google pour vérifier toute alerte.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quel réflexe adopter selon votre situation ?",
+      "intro": "Voici la réponse la plus sûre aux difficultés les plus courantes lors du changement de mot de passe Gmail.",
+      "columns": [
+        "Situation",
+        "Action recommandée",
+        "À ne pas faire"
+      ],
+      "rows": [
+        [
+          "Vous connaissez votre mot de passe actuel",
+          "Modifiez-le dans Compte Google > Sécurité > Mot de passe, puis contrôlez vos appareils connectés.",
+          "Choisir une simple variante de l'ancien mot de passe."
+        ],
+        [
+          "Vous avez oublié le mot de passe",
+          "Lancez la procédure officielle de récupération de compte et répondez avec précision aux questions.",
+          "Multiplier les essais au hasard ou payer un prétendu dépanneur."
+        ],
+        [
+          "Vous recevez une alerte de connexion inconnue",
+          "Changez le mot de passe, vérifiez l'activité récente, les appareils et les coordonnées de récupération.",
+          "Ignorer l'alerte ou partager le code de sécurité reçu."
+        ],
+        [
+          "Vous utilisez un compte professionnel ou scolaire",
+          "Suivez les règles de votre organisation et contactez l'administrateur si l'option est bloquée.",
+          "Contourner la politique de sécurité imposée par l'entreprise ou l'établissement."
+        ]
+      ],
+      "note": "Pour récupérer un accès perdu, passez uniquement par la page officielle de récupération Google : https://accounts.google.com/signin/recovery."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on changer son mot de passe Gmail sans connaître l'ancien ?",
+      "a_html": "<p>Oui, mais vous ne pourrez pas simplement le remplacer depuis les paramètres. Utilisez la procédure de récupération de compte Google. Google peut vous demander de confirmer un ancien mot de passe dont vous vous souvenez, d'utiliser un téléphone déjà connecté ou de valider via une adresse e-mail de récupération.</p><p>Répondez aux questions depuis un appareil et un lieu habituellement utilisés pour ce compte lorsque c'est possible. Cela aide Google à vérifier votre identité. Ne faites pas appel à un service tiers qui promettrait de récupérer votre compte contre paiement.</p>"
+    },
+    {
+      "q": "Changer le mot de passe Gmail modifie-t-il aussi celui de YouTube et Google Drive ?",
+      "a_html": "<p>Oui. Gmail, Google Drive, Google Photos, YouTube, Google Agenda et les autres services liés au même compte utilisent le mot de passe du compte Google. Une seule modification s'applique donc à l'ensemble de ces services.</p>"
+    },
+    {
+      "q": "Comment changer son mot de passe Gmail sur téléphone ?",
+      "a_html": "<p>Dans Gmail, touchez votre photo de profil, puis « Gérer votre compte Google ». Ouvrez « Sécurité », sélectionnez « Mot de passe » et authentifiez-vous. Sur Android, vous pouvez aussi passer par Réglages > Google > Gérer votre compte Google.</p><p>Si vous ne trouvez pas l'option, ouvrez directement la page Sécurité de votre compte Google dans le navigateur de votre téléphone.</p>"
+    },
+    {
+      "q": "Est-ce que changer le mot de passe Gmail déconnecte tous les appareils ?",
+      "a_html": "<p>Le changement peut déconnecter de nombreux appareils et applications, mais il ne faut pas considérer cela comme une garantie absolue de fermeture de toutes les sessions. Certains appareils servant à vérifier votre identité ou certains accès particuliers peuvent rester visibles.</p><p>En cas de perte, de vol ou de piratage, consultez immédiatement la liste des appareils dans la rubrique Sécurité et déconnectez manuellement ceux qui sont inconnus.</p>"
+    },
+    {
+      "q": "À quelle fréquence faut-il changer son mot de passe Gmail ?",
+      "a_html": "<p>Il n'est pas nécessaire de le changer selon un calendrier fixe si vous utilisez une phrase de passe longue, unique et la validation en deux étapes. Changez-le sans attendre si vous pensez qu'il a été divulgué, s'il a été réutilisé sur un site touché par une fuite ou si Google signale une activité inhabituelle.</p>"
+    },
+    {
+      "q": "Pourquoi Google refuse-t-il mon nouveau mot de passe ?",
+      "a_html": "<p>Votre proposition peut être trop courte, trop proche d'un ancien mot de passe ou ne pas respecter les règles spécifiques d'un compte professionnel ou scolaire. Essayez une nouvelle phrase de passe plus longue et entièrement différente.</p><p>Évitez de modifier seulement un chiffre ou d'ajouter un point d'exclamation à votre ancien code : cette variante reste trop prévisible.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Changer votre mot de passe Gmail revient à protéger la porte d'entrée de tout votre environnement Google. La manipulation est rapide : ouvrez la rubrique Sécurité, confirmez votre identité et adoptez une phrase de passe longue, unique et stockée dans un gestionnaire fiable.</p><p>Si vous avez le moindre soupçon de piratage, ne vous arrêtez pas au nouveau mot de passe : vérifiez les appareils connectés, les moyens de récupération, les applications autorisées et activez la validation en deux étapes. Vous transformez ainsi une simple mise à jour en véritable protection de votre compte.</p>",
+  "__slug": "comment-changer-son-mot-de-passe-gmail"
+}

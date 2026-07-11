@@ -1,0 +1,258 @@
+{
+  "title": "Restaurer un métier à tisser Jacquard à cartes perforées : guide pratique et prudent",
+  "meta_description": "Diagnostiquez, nettoyez et remettez en service un métier Jacquard à cartes perforées sans compromettre son histoire ni sa précision.",
+  "reading_time_min": 12,
+  "hero_intro": "Redonner vie à un ancien métier Jacquard ne consiste pas seulement à faire disparaître la poussière ou la rouille : il s'agit de retrouver le dialogue précis entre les cartes, les aiguilles, les crochets et les fils. Une restauration réussie respecte autant l'histoire de la machine que son fonctionnement. Voici une méthode concrète pour avancer pas à pas, sans gestes irréversibles.",
+  "key_takeaways": [
+    "Photographiez, mesurez et étiquetez tout avant de démonter : la documentation est votre meilleure pièce de rechange.",
+    "Commencez par le nettoyage à sec et les réglages réversibles ; évitez le décapage, les bains d'eau et les lubrifiants appliqués en excès.",
+    "Ne forcez jamais une mécanique Jacquard bloquée : un crochet, une aiguille ou une corde de harnais peut être tordu ou grippé.",
+    "Les cartes perforées doivent être conservées dans leur ordre exact ; elles sont à la fois le programme du motif et un élément patrimonial.",
+    "Pour une pièce rare, très incomplète ou destinée à la collection, faites valider les interventions importantes par un restaurateur du patrimoine textile ou un mécanicien spécialisé."
+  ],
+  "toc": [
+    "Comprendre ce que vous restaurez avant d'intervenir",
+    "Faire un diagnostic complet du métier Jacquard",
+    "Préparer l'espace, les outils et la documentation",
+    "Nettoyer et stabiliser sans effacer les traces du temps",
+    "Choisir entre conservation et remise en fonctionnement",
+    "Réparer les cartes, les crochets et les éléments de transmission",
+    "Remonter, régler et réaliser les premiers essais",
+    "Entretenir le métier à tisser après restauration"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre ce que vous restaurez avant d'intervenir",
+      "html": "<p>Le terme « métier Jacquard » désigne souvent un métier à tisser équipé d'une <strong>mécanique Jacquard</strong>, c'est-à-dire d'une tête qui commande individuellement, ou par groupes selon sa configuration, la levée des fils de chaîne. Les cartes perforées constituent la mémoire du dessin : elles passent contre un cylindre ou un dispositif équivalent et déterminent quelles aiguilles, quels crochets puis quels fils seront actionnés.</p><p>Selon l'époque, l'atelier et le fabricant, l'ensemble peut comporter un bâti en bois, un cylindre à cartes, des aiguilles, des crochets, une griffe ou un couteau de levage, des cordes de harnais, des poulies, des contrepoids et une planche de répartition. Les noms et l'agencement changent d'un modèle à l'autre. Ne partez donc pas d'un schéma trouvé en ligne comme s'il était universel : observez votre propre machine avant toute dépose.</p><p>L'objectif doit être défini dès le départ. Voulez-vous <strong>stabiliser un objet ancien</strong>, l'exposer, retrouver le principe mécanique ou tisser de nouveau ? Plus l'usage prévu est intensif, plus il faut contrôler les pièces d'usure, la solidité du bâti et la sécurité. À l'inverse, un métier rare portant des inscriptions, des couleurs d'origine ou des réparations anciennes mérite une approche de conservation minimale.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Le diagnostic à faire avant le premier tournevis",
+      "points": [
+        "Photographiez l'ensemble sous tous les angles, puis chaque zone mécanique en gros plan.",
+        "Relevez les marques de fabricant, numéros, dimensions du bâti et nombre de crochets ou de rangées utiles.",
+        "Repérez les jeux anormaux, fissures, déformations, corrosion, vis remplacées et éléments absents.",
+        "Vérifiez la présence de traces récentes de sciure ou de poudre sous le bois, signe possible d'insectes actifs.",
+        "Faites tourner le mécanisme seulement à la main et sur une très courte course, sans carte ni chaîne sous tension.",
+        "Conservez dans des sachets étiquetés chaque vis, clavette, goupille et fragment retrouvé."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Diagnostiquer chaque famille de composants",
+      "intro": "Le tableau ci-dessous aide à distinguer les défauts qu'un amateur soigneux peut documenter et stabiliser de ceux qui demandent une intervention plus spécialisée.",
+      "columns": [
+        "Élément à examiner",
+        "Signes fréquents",
+        "Premier geste prudent",
+        "Décision à envisager"
+      ],
+      "rows": [
+        [
+          "Bâti et traverses en bois",
+          "Fente, assemblage mobile, trou d'insecte, déformation",
+          "Dépoussiérer, photographier, tester doucement la stabilité",
+          "Consolider ou recoller seulement après identification de la cause ; isoler en cas d'infestation active"
+        ],
+        [
+          "Cartes perforées et lacets",
+          "Carton cassant, trous déchirés, cartes inversées, liens usés",
+          "Numéroter, photographier recto-verso, conserver à plat",
+          "Réparer très localement ou reproduire une série de travail à partir d'un relevé"
+        ],
+        [
+          "Aiguilles, crochets et griffe",
+          "Oxydation, tige tordue, crochet qui ne retombe pas",
+          "Nettoyer à sec, vérifier le mouvement sans forcer",
+          "Redressage et reproduction par un spécialiste si la géométrie est atteinte"
+        ],
+        [
+          "Cordes, harnais et poulies",
+          "Corde effilochée, longueurs inégales, poulie grippée",
+          "Mesurer et noter le cheminement avant toute dépose",
+          "Remplacer par un matériau compatible en respectant longueurs et réglages"
+        ],
+        [
+          "Visserie et axes",
+          "Jeu, filetage abîmé, pièce manquante, métal bloqué",
+          "Dégrippant testé avec parcimonie, appui adapté",
+          "Conserver l'original quand possible ; faire fabriquer une pièce si nécessaire"
+        ],
+        [
+          "Chaîne, lisses et éléments textiles",
+          "Fil cassant, tension inégale, salissures incrustées",
+          "Ne pas tendre ni laver sans diagnostic textile",
+          "Prévoir une nouvelle chaîne pour les essais si l'originale est fragile"
+        ]
+      ],
+      "note": "Une pièce ancienne n'a pas besoin de paraître neuve pour être saine et fonctionnelle. La patine n'est pas un défaut à éliminer."
+    },
+    {
+      "type": "prose",
+      "heading": "Préparer l'espace, les outils et la documentation",
+      "html": "<p>Installez le métier sur un sol stable, dégagé et suffisamment éclairé. Les têtes Jacquard et les cadres anciens peuvent être lourds, hauts et déséquilibrés : ne travaillez pas seul pour un déplacement, un levage ou la dépose d'un élément suspendu. Gardez les enfants, les animaux et les textiles précieux à distance de la zone de travail.</p><p>Prévoyez un aspirateur à faible puissance muni d'une brosse douce, des pinceaux souples, des chiffons non pelucheux, une lampe orientable, un mètre ruban, un pied à coulisse si vous en avez un, des étiquettes, des sachets, un carnet et des outils à la bonne taille. Une brosse métallique agressive, une ponceuse, un nettoyeur haute pression ou un décapant chimique n'ont pas leur place dans une première restauration.</p><p>Avant le démontage, créez un dossier simple : photos numérotées, croquis du passage des cordes, longueur des brins, ordre des cartes, position des rondelles et sens des goupilles. Une photo avec une règle posée à côté d'une pièce est particulièrement utile si vous devez en demander une reproduction. Comptez souvent <strong>une à deux journées de repérage et de nettoyage</strong> avant toute réparation sur un ensemble complexe.</p><p>Le budget dépend surtout des pièces manquantes. Un nettoyage, de la petite visserie, du cordage et des fournitures de classement représentent parfois quelques dizaines à quelques centaines d'euros. La fabrication d'un crochet, d'une aiguille, d'un cylindre ou la reprise complète d'un harnais peut en revanche faire monter la facture à plusieurs centaines d'euros, voire davantage. Demandez un devis avant de lancer une reproduction sur mesure.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Nettoyer et stabiliser le métier sans geste irréversible",
+      "intro": "Procédez du plus doux au plus interventionniste. Après chaque étape, vérifiez si le mouvement s'est amélioré avant d'aller plus loin.",
+      "steps": [
+        {
+          "title": "Dépoussiérer à sec",
+          "html": "<p>Maintenez l'embout de l'aspirateur à distance et retenez les fibres fragiles avec une brosse souple. Travaillez de haut en bas pour ne pas redéposer la poussière sur les zones nettoyées. Les cartes, papiers et cordes anciennes se manipulent avec des mains propres et sèches.</p>"
+        },
+        {
+          "title": "Nettoyer les surfaces de manière ciblée",
+          "html": "<p>Testez toute méthode sur une zone discrète. Un chiffon très légèrement humide peut convenir à certaines surfaces vernies stables, mais l'eau peut faire gonfler le bois, activer la corrosion et déformer le carton. Évitez de mouiller les cartes perforées, les cordes et les parties métalliques oxydées.</p>"
+        },
+        {
+          "title": "Traiter un blocage avec patience",
+          "html": "<p>Retirez d'abord les poussières compactées et les fils coincés. Si un axe métallique reste bloqué, n'utilisez pas de levier sur le bois ni de marteau sur une pièce fine. Un produit de dégrippage approprié, appliqué en quantité infime puis essuyé, peut aider après essai local ; laissez-lui du temps avant de tenter un mouvement minuscule.</p>"
+        },
+        {
+          "title": "Stabiliser le bois et la quincaillerie",
+          "html": "<p>Resserrez uniquement les fixations dont le rôle est compris. Une fente, un assemblage ouvert ou une pièce structurelle déformée demande souvent un avis d'ébéniste ou de restaurateur. Pour le métal, un retrait mécanique très doux de la corrosion non adhérente est préférable à un décapage qui enlèverait les finitions et les repères anciens.</p>"
+        },
+        {
+          "title": "Séparer ce qui doit être conservé de ce qui servira aux essais",
+          "html": "<p>Si les cartes ou la chaîne d'origine sont cassantes, ne les sacrifiez pas pour le premier tissage. Conservez-les protégées, à plat ou dans leur conditionnement adapté, et préparez si besoin des éléments de travail réversibles ou des reproductions clairement identifiées.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Conserver l'état ancien ou remettre le métier en production ?",
+      "intro": "Ces deux démarches sont légitimes, mais elles ne conduisent pas aux mêmes choix. Déterminez votre priorité avant de remplacer une pièce d'origine.",
+      "left": {
+        "title": "Restauration de conservation",
+        "points": [
+          "Objectif : stabiliser, comprendre et présenter l'objet.",
+          "Interventions minimales, documentées et si possible réversibles.",
+          "Conservation des cartes, cordes, traces d'usage et finitions anciennes.",
+          "Fonctionnement partiel acceptable si la mécanique est fragile.",
+          "Approche recommandée pour une machine rare, signée ou à forte valeur historique."
+        ]
+      },
+      "right": {
+        "title": "Restauration fonctionnelle",
+        "points": [
+          "Objectif : retrouver un tissage fiable et sûr.",
+          "Contrôle complet des organes mobiles, de la structure et du harnais.",
+          "Remplacement assumé des cordes, cartes de travail ou pièces d'usure défaillantes.",
+          "Essais progressifs avec une nouvelle chaîne et des matériaux adaptés.",
+          "Chaque pièce moderne doit être notée, datée et idéalement reconnaissable."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Réparer les cartes, les crochets et les éléments de transmission",
+      "html": "<p>La règle d'or est simple : <strong>une carte n'est pas seulement un morceau de carton perforé</strong>. C'est un maillon d'une séquence. Avant de la nettoyer ou de la réparer, conservez son ordre, son sens de lecture, ses perforations et ses liens avec les cartes voisines. Photographiez la chaîne complète par portions et attribuez un numéro discret à chaque carte si elle n'en porte pas déjà.</p><p>Pour une carte déchirée, évitez les rubans adhésifs courants, qui vieillissent mal et peuvent perturber le passage dans le cylindre. Une réparation de conservation doit rester fine, stable et ne jamais obstruer ou déplacer une perforation. Si les cartes sont trop fragiles pour servir, la solution la plus sûre consiste souvent à créer une <strong>série de reproduction pour les essais</strong>, après relevé précis du format, du pas des perforations, des trous de liaison et de l'ordre du motif.</p><p>Les aiguilles et les crochets exigent une grande rigueur géométrique. Un crochet très légèrement tordu peut manquer la griffe, accrocher une pièce voisine ou ne pas retomber correctement. Ne le redressez pas à l'aveugle : comparez-le à une pièce saine de la même rangée et contrôlez son mouvement sur toute sa course. Les cordes de harnais doivent, elles aussi, respecter leur cheminement et leurs longueurs ; un remplacement approximatif peut déformer le dessin ou créer des tensions inégales.</p><p>Si une pièce métallique manque, gardez l'emplacement vide documenté plutôt que d'installer une pièce « presque compatible ». Un serrurier d'art, un mécanicien de précision ou un artisan familier des machines textiles anciennes pourra fabriquer une réplique à partir de vos mesures. Conservez l'original, même cassé : il reste le meilleur modèle et un témoin de l'histoire du métier.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "À ne pas faire sur une mécanique Jacquard ancienne",
+      "html": "<p>Ne forcez pas le cylindre, ne poncez pas les inscriptions, ne repeignez pas le bâti pour « uniformiser » l'ensemble et ne plongez pas les cartes dans l'eau. Évitez aussi d'enduire généreusement bois et mécanismes d'huile : l'excédent attire les poussières, peut migrer vers les fils et complique les interventions futures. En présence de peinture ancienne écaillée, de moisissure importante ou d'insectes actifs, mettez les essais en pause et demandez conseil à un professionnel.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Remonter, régler et effectuer les premiers essais",
+      "intro": "Le remontage n'est pas une simple opération inverse du démontage : il doit confirmer que chaque mouvement est libre, aligné et cohérent avec les cartes.",
+      "steps": [
+        {
+          "title": "Remonter dans l'ordre documenté",
+          "html": "<p>Replacez les éléments lourds et structurels avant les petites pièces. Utilisez vos photos, sachets et croquis à chaque étape. N'ajoutez aucune cale ou rondelle « pour que cela tienne » sans comprendre sa fonction : l'alignement du cylindre, des aiguilles et des crochets est déterminant.</p>"
+        },
+        {
+          "title": "Vérifier le cycle à vide",
+          "html": "<p>Sans chaîne sous tension, actionnez très lentement le mécanisme à la main. Observez le contact entre une carte et les aiguilles, la sélection des crochets, la levée par la griffe puis le retour des éléments. Arrêtez-vous au moindre frottement, claquement inhabituel ou crochet qui reste accroché.</p>"
+        },
+        {
+          "title": "Tester une courte séquence de cartes",
+          "html": "<p>Utilisez d'abord quelques cartes simples, idéalement une reproduction ou une série non patrimoniale. Vérifiez que les liaisons entre les cartes passent sans accrocher et que le cylindre avance régulièrement. Contrôlez la cohérence de la sélection sur plusieurs répétitions, pas seulement sur un cycle.</p>"
+        },
+        {
+          "title": "Monter une chaîne d'essai",
+          "html": "<p>Pour un métier destiné au tissage, commencez avec une chaîne neuve, courte si la configuration le permet, et un fil facile à lire visuellement. Réglez la tension progressivement. Les fils commandés doivent se lever sans tirer de biais ; une erreur répétée indique souvent un problème de longueur de corde, de crochet, de lisse ou de carte.</p>"
+        },
+        {
+          "title": "Consigner les réglages validés",
+          "html": "<p>Notez le type de fil, la tension ressentie, la position des contrepoids, les cartes utilisées et les défauts observés. Ce carnet de remise en route vous évitera de recommencer les mêmes recherches lors du prochain essai ou de l'entretien annuel.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Programme d'entretien après la restauration",
+      "intro": "Un entretien léger mais régulier protège mieux le métier qu'une grande intervention tardive.",
+      "columns": [
+        "Fréquence indicative",
+        "Contrôle",
+        "Action recommandée",
+        "À surveiller"
+      ],
+      "rows": [
+        [
+          "Après chaque séance de tissage",
+          "Poussières, fils coincés, cartes utilisées",
+          "Brossage doux et rangement des cartes dans l'ordre",
+          "Frottement inhabituel, carte qui accroche"
+        ],
+        [
+          "Tous les 3 à 6 mois",
+          "Mouvements et fixations",
+          "Contrôle manuel à vide, resserrage seulement si justifié",
+          "Jeu qui augmente, bruit métallique, corde usée"
+        ],
+        [
+          "Une fois par an",
+          "Bois, métal, harnais et poulies",
+          "Inspection complète, dépoussiérage soigné, mise à jour du carnet",
+          "Fissure, corrosion active, trace d'insectes, tension irrégulière"
+        ],
+        [
+          "Avant un stockage prolongé",
+          "Humidité, poussière et poids sur les cartes",
+          "Lieu sec et tempéré, housse respirante, cartes à plat et protégées",
+          "Cave humide, grenier très chaud, plastique hermétique"
+        ]
+      ],
+      "note": "La fréquence doit être adaptée à l'usage réel et aux conditions du local. Un métier exposé dans un lieu humide demande une surveillance plus rapprochée."
+    },
+    {
+      "type": "prose",
+      "heading": "Préserver un savoir-faire autant qu'un objet",
+      "html": "<p>Une restauration soignée ne cherche pas à masquer l'âge du métier : elle lui redonne une stabilité, une lisibilité et, lorsque cela est possible, une capacité de travail. Gardez avec lui les photographies prises avant intervention, les mesures, les pièces remplacées, les cartes d'origine et le carnet des réglages. Cet ensemble de documents fait partie de sa valeur.</p><p>Si vous ne parvenez pas à identifier la marque ou le modèle, rapprochez-vous d'associations de tissage, de musées textiles, de groupes de collectionneurs ou d'ateliers spécialisés. Des photos nettes de la tête Jacquard, du cylindre, des marques frappées et du système de harnais permettront souvent d'obtenir un premier avis. La patience et la traçabilité restent les meilleurs outils pour faire revivre cette mécanique remarquable sans perdre ce qui la rend unique.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment savoir si mon vieux métier est réellement équipé d'un système Jacquard ?",
+      "a_html": "<p>Recherchez une tête mécanique située au-dessus ou à proximité du métier, avec un dispositif de sélection commandé par des cartes perforées. On y trouve souvent un cylindre, des aiguilles, des crochets et de nombreuses cordes reliées au harnais. Un métier à cadres peut produire des motifs, mais il ne possède pas forcément cette sélection individuelle par cartes.</p><p>Les configurations étant très variées, photographiez les marques, les mécanismes et le chemin des cartes avant de chercher une identification précise.</p>"
+    },
+    {
+      "q": "Peut-on restaurer des cartes perforées Jacquard en carton ?",
+      "a_html": "<p>Oui, lorsqu'elles sont seulement légèrement déchirées ou déformées, mais il faut intervenir avec beaucoup de retenue. Leur format, la position exacte des perforations, le sens de lecture et les liens entre cartes sont essentiels au motif.</p><p>Si le carton est cassant, mieux vaut conserver les originaux et fabriquer une série de travail à partir d'un relevé fidèle. N'utilisez ni eau, ni ruban adhésif ordinaire, ni perforation approximative.</p>"
+    },
+    {
+      "q": "Quel lubrifiant utiliser sur un métier Jacquard ancien ?",
+      "a_html": "<p>Ne lubrifiez pas par réflexe. Commencez par retirer les poussières et les fibres coincées, car elles sont souvent responsables du mauvais mouvement. Lorsqu'une lubrification est réellement nécessaire sur un axe métallique, appliquez une quantité infime de produit adapté aux mécanismes fins, après essai sur une zone peu visible, puis essuyez tout excédent.</p><p>Évitez d'huiler les cordes, les cartes, les textiles, le bois et les zones susceptibles de transmettre l'huile aux fils. En cas de doute, un restaurateur pourra recommander un produit compatible avec les matériaux présents.</p>"
+    },
+    {
+      "q": "Faut-il remplacer les cordes et le harnais pendant la restauration ?",
+      "a_html": "<p>Pas systématiquement. Si les cordes sont souples, solides et correctement réglées, les conserver peut être préférable. En revanche, une corde effilochée, très allongée ou rompue compromet la sélection des fils et peut provoquer des accrocs.</p><p>Avant toute dépose, mesurez chaque longueur, photographiez les nœuds et notez le passage exact. Remplacez progressivement avec un matériau de diamètre et de comportement compatibles, puis vérifiez l'égalité des levées.</p>"
+    },
+    {
+      "q": "Comment enlever la rouille d'un métier à tisser sans l'abîmer ?",
+      "a_html": "<p>Pour une corrosion légère, commencez par le dépoussiérage et un retrait très doux des particules non adhérentes avec un outil non agressif. Le but n'est pas d'obtenir un métal brillant, mais de stopper ce qui gêne le fonctionnement ou continue à se dégrader.</p><p>Évitez les bains acides, les brosses rotatives et le ponçage intensif, qui peuvent modifier les dimensions d'une aiguille ou d'un crochet. Une corrosion profonde sur une pièce de sélection justifie souvent l'avis d'un spécialiste.</p>"
+    },
+    {
+      "q": "Combien coûte la restauration d'un métier Jacquard ancien ?",
+      "a_html": "<p>Une remise en état légère réalisée par vous-même, avec nettoyage, classement des pièces et quelques consommables, peut rester dans une enveloppe modeste. Le coût augmente avec le remplacement des cordes, des cartes, de la visserie ou la réalisation de pièces sur mesure.</p><p>Pour une restauration fonctionnelle complexe, prévoyez une marge : les défauts cachés apparaissent parfois après le premier démontage. Un diagnostic professionnel ou un devis de fabrication est particulièrement utile avant d'engager plusieurs centaines d'euros.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Restaurer un métier à tisser Jacquard à cartes perforées demande de la méthode bien plus que de la précipitation. Documentez avant de démonter, nettoyez avec douceur, préservez les éléments d'origine et testez chaque mouvement à vide avant de remettre une chaîne en place.</p><p>En avançant étape par étape, vous protégerez à la fois la précision de la mécanique et la mémoire textile qu'elle porte. Et si une pièce résiste ou si le motif ne se forme pas comme prévu, considérez ce blocage comme une information : sur un Jacquard, chaque détail raconte le chemin à suivre.</p>",
+  "__slug": "comment-restaurer-un-vieux-metier-a-tisser-jacquard-a-cartes-perforees-guide-pratique"
+}

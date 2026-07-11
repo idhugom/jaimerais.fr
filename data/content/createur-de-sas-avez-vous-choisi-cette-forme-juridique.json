@@ -1,0 +1,254 @@
+{
+  "title": "Créer une SAS : la forme juridique est-elle adaptée à votre projet ?",
+  "meta_description": "Créer une SAS : démarches, statuts, coûts, avantages et erreurs à éviter pour lancer votre société avec des bases juridiques claires et solides.",
+  "reading_time_min": 11,
+  "hero_intro": "Vous envisagez de créer une SAS pour lancer seul ou à plusieurs une activité ? Cette forme juridique séduit par sa souplesse et par l'image rassurante qu'elle peut donner à des partenaires ou investisseurs. Mais elle implique aussi des statuts bien pensés, des formalités précises et un coût social à anticiper si le président est rémunéré.",
+  "key_takeaways": [
+    "La SAS peut être créée par un seul associé, sous la forme d'une SASU, ou par plusieurs associés sans plafond légal de nombre.",
+    "Sa grande liberté d'organisation est un atout, mais elle rend la rédaction des statuts particulièrement stratégique.",
+    "Le capital social peut légalement commencer à 1 €, mais il est souvent préférable de prévoir un montant cohérent avec les besoins réels de démarrage.",
+    "Pour immatriculer une SAS, il faut notamment des statuts signés, une attestation de dépôt des fonds, une annonce légale, une justification du siège et les informations sur les bénéficiaires effectifs.",
+    "La SAS est souvent adaptée aux projets évolutifs et aux associés qui veulent organiser librement leurs relations ; la SARL peut être plus pertinente dans certains projets familiaux ou lorsque le dirigeant recherche un autre régime social."
+  ],
+  "toc": [
+    "Pourquoi choisir la SAS pour créer son entreprise ?",
+    "SAS ou SARL : les différences à examiner avant de se décider",
+    "Les caractéristiques essentielles de la SAS",
+    "Créer une SAS : les 6 étapes à suivre",
+    "Quel budget prévoir pour une création de SAS ?",
+    "Les documents indispensables à l'immatriculation",
+    "Des statuts de SAS solides : le vrai point de vigilance",
+    "Les obligations après la création de votre SAS"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi choisir la SAS pour créer son entreprise ?",
+      "html": "<p>La société par actions simplifiée, ou <strong>SAS</strong>, est une société commerciale dont les associés détiennent des actions. Elle peut réunir plusieurs personnes physiques ou morales. Si vous entreprenez seul, son équivalent est la <strong>SASU</strong>, la société par actions simplifiée unipersonnelle. Il est possible de démarrer en SASU puis d'accueillir de nouveaux associés plus tard, sans changer nécessairement de forme juridique.</p><p>Son principal intérêt tient à la liberté laissée aux fondateurs pour organiser la direction, les règles de vote, l'entrée de nouveaux investisseurs ou la cession d'actions. Seule la désignation d'un président est obligatoire. Le président représente la société auprès des tiers ; d'autres fonctions, telles que directeur général ou comité de direction, peuvent être prévues si elles servent réellement votre projet.</p><p>La responsabilité des associés est en principe limitée à leurs apports. Cela ne dispense pas de gérer sérieusement l'entreprise : une caution personnelle demandée par une banque, des fautes de gestion ou certaines dettes fiscales et sociales peuvent engager autrement le dirigeant. La SAS protège donc le patrimoine personnel dans le cadre normal de l'activité, sans constituer une protection absolue.</p><p>Cette forme est particulièrement appréciée pour les activités de conseil, de commerce, de services, de numérique ou les projets destinés à grandir. Elle n'est toutefois pas automatiquement le meilleur choix : le niveau de rémunération attendu du dirigeant, le nombre d'associés, les besoins de financement et les relations entre fondateurs doivent guider la décision.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel avant de choisir la SAS",
+      "points": [
+        "La SAS convient aux projets portés seul ou à plusieurs, avec une gouvernance adaptable.",
+        "Le président rémunéré relève du régime général en tant qu'assimilé salarié, sans assurance chômage automatique au titre de son mandat.",
+        "Les dividendes versés aux associés ne sont pas soumis aux cotisations sociales de dirigeant, mais restent imposés et supportent les prélèvements sociaux selon le régime fiscal applicable.",
+        "La liberté statutaire est précieuse pour faire entrer des investisseurs, mais elle exige de prévoir les désaccords avant qu'ils n'arrivent.",
+        "Pour une activité réglementée, vérifiez toujours les conditions particulières d'exercice, de diplôme, d'assurance ou d'inscription professionnelle."
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "SAS ou SARL : quelle forme correspond le mieux à votre situation ?",
+      "intro": "Ces deux sociétés limitent en principe la responsabilité aux apports et peuvent être créées avec un faible capital. Leurs logiques de fonctionnement et de protection sociale du dirigeant diffèrent toutefois nettement.",
+      "left": {
+        "title": "La SAS est souvent pertinente si...",
+        "points": [
+          "Vous souhaitez des règles de gouvernance sur mesure entre associés.",
+          "Votre projet peut accueillir des investisseurs ou évoluer rapidement.",
+          "Vous voulez faciliter l'organisation de la transmission d'actions, sous réserve des clauses prévues.",
+          "Le président sera rémunéré et vous privilégiez son rattachement au régime général.",
+          "Vous envisagez de distribuer des dividendes, en tenant compte de votre fiscalité globale."
+        ]
+      },
+      "right": {
+        "title": "La SARL mérite d'être comparée si...",
+        "points": [
+          "Votre projet est stable, familial ou porté par un petit nombre d'associés.",
+          "Vous préférez un cadre légal plus encadré et des statuts généralement moins personnalisés.",
+          "Le gérant majoritaire recherche le régime des travailleurs indépendants, avec une protection et des cotisations organisées différemment.",
+          "Vous avez peu de besoins de financement externe à court terme.",
+          "Vous souhaitez vous appuyer sur des règles de majorité largement fixées par la loi."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Les caractéristiques essentielles de la SAS",
+      "html": "<p>La SAS n'impose aucun capital social minimum significatif : <strong>1 € est juridiquement possible</strong>. En pratique, un capital trop faible peut nuire à la crédibilité du projet et ne finance rien. Il est plus sain d'évaluer vos dépenses initiales, votre besoin de trésorerie et les sommes que les associés acceptent de risquer durablement. Le capital n'est pas une dépense : il appartient à la société et peut servir à son activité une fois l'immatriculation effectuée.</p><p>Les apports peuvent être réalisés en numéraire, c'est-à-dire en argent, en nature, par exemple un véhicule, un logiciel ou du matériel, et parfois en industrie. Pour les apports en numéraire, au moins la moitié doit être versée lors de la constitution ; le solde peut être libéré dans les cinq ans. Les apports en nature peuvent nécessiter l'intervention d'un commissaire aux apports, sauf cas de dispense encadrés.</p><p>Par défaut, la SAS est soumise à l'impôt sur les sociétés. Le taux normal est de 25 % ; un taux réduit peut s'appliquer sur une première tranche de bénéfice pour certaines petites entreprises qui remplissent les conditions prévues. Une option temporaire pour l'impôt sur le revenu est parfois envisageable au démarrage, sous conditions strictes. Ce choix mérite d'être étudié avec un expert-comptable, car il dépend des revenus des associés, des pertes anticipées et de la stratégie de rémunération.</p><p>Le président non rémunéré ne cotise pas au titre de son mandat, mais n'acquiert pas non plus de droits sociaux par cette fonction. Lorsqu'il perçoit une rémunération, il est assimilé salarié et relève du régime général, hors assurance chômage automatique. Le coût global d'une rémunération doit donc être chiffré avant de fixer un salaire ambitieux dès les premiers mois.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "La SAS en un coup d'oeil",
+      "intro": "Voici les repères à avoir en tête avant de rédiger vos statuts et de lancer les formalités.",
+      "columns": [
+        "Élément",
+        "Règle ou principe",
+        "Conséquence pratique"
+      ],
+      "rows": [
+        [
+          "Nombre d'associés",
+          "Un associé minimum ; SASU si vous êtes seul",
+          "Vous pouvez démarrer seul puis ouvrir le capital."
+        ],
+        [
+          "Capital social",
+          "Pas de minimum légal significatif ; 50 % des apports en numéraire libérés au départ",
+          "Choisissez un montant crédible et utile à votre trésorerie."
+        ],
+        [
+          "Direction",
+          "Un président obligatoire ; autres organes facultatifs",
+          "La gouvernance doit être clairement écrite dans les statuts."
+        ],
+        [
+          "Responsabilité",
+          "Limitée aux apports en principe",
+          "Évitez néanmoins les cautions personnelles non maîtrisées."
+        ],
+        [
+          "Fiscalité",
+          "Impôt sur les sociétés par défaut",
+          "Anticipez impôt, TVA, rémunération et éventuels dividendes."
+        ],
+        [
+          "Protection sociale du président rémunéré",
+          "Assimilé salarié, sans chômage automatique lié au mandat",
+          "Le niveau de cotisations est souvent plus élevé que sous le régime des indépendants."
+        ]
+      ],
+      "note": "Les règles fiscales et sociales évoluent : faites valider votre situation particulière avant tout arbitrage de rémunération ou de distribution."
+    },
+    {
+      "type": "steps",
+      "heading": "Créer une SAS : les 6 étapes à suivre",
+      "intro": "Une création bien préparée évite les dossiers rejetés et les statuts impossibles à faire évoluer sans coût. Procédez dans cet ordre, en adaptant les étapes à votre situation.",
+      "steps": [
+        {
+          "title": "1. Clarifier l'activité et les associés",
+          "html": "<p>Définissez précisément l'activité, les personnes qui participent au capital, les apports de chacun et le rôle opérationnel de chacun. Vérifiez la disponibilité du nom envisagé, les contraintes de l'activité et les éventuelles autorisations professionnelles.</p>"
+        },
+        {
+          "title": "2. Choisir le siège social et le capital",
+          "html": "<p>Fixez l'adresse juridique de la société : domicile du dirigeant lorsque les conditions le permettent, local commercial, pépinière ou société de domiciliation. Déterminez le capital, la répartition des actions et les modalités de libération des apports.</p>"
+        },
+        {
+          "title": "3. Rédiger des statuts adaptés",
+          "html": "<p>Les statuts doivent notamment prévoir l'objet social, la dénomination, le siège, la durée, le capital, les actions, la présidence et les décisions collectives. À plusieurs associés, complétez si besoin les statuts par un pacte d'associés confidentiel.</p>"
+        },
+        {
+          "title": "4. Déposer les apports en numéraire",
+          "html": "<p>Versez les fonds auprès d'une banque, d'un notaire ou de la Caisse des dépôts selon les possibilités offertes. Vous recevrez une attestation de dépôt des fonds, nécessaire au dossier. Les fonds seront débloqués après l'immatriculation de la société.</p>"
+        },
+        {
+          "title": "5. Signer les statuts et publier l'annonce légale",
+          "html": "<p>Une fois les éléments arrêtés, les associés signent les statuts et le président est nommé, dans les statuts ou par un acte séparé. Publiez ensuite l'avis de constitution dans un support habilité à recevoir des annonces légales du département du siège.</p>"
+        },
+        {
+          "title": "6. Déposer la formalité d'immatriculation",
+          "html": "<p>Transmettez le dossier sur le <a href=\"https://formalites.entreprises.gouv.fr/\">guichet unique des formalités des entreprises</a>. Après traitement et immatriculation, la société obtient ses identifiants et peut notamment demander le déblocage du capital, ouvrir ses contrats et facturer conformément à sa situation fiscale.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quel budget prévoir pour créer une SAS ?",
+      "intro": "Les montants varient selon le département, le niveau d'accompagnement et les options choisies. Le capital social n'est pas inclus : il reste disponible pour l'entreprise après son immatriculation.",
+      "columns": [
+        "Poste de dépense",
+        "Ordre de grandeur",
+        "À savoir"
+      ],
+      "rows": [
+        [
+          "Annonce légale de constitution",
+          "Souvent entre 150 et 250 €",
+          "Le tarif dépend notamment de la forme sociale et du lieu du siège."
+        ],
+        [
+          "Immatriculation et déclaration des bénéficiaires effectifs",
+          "Environ 40 à 70 €",
+          "Des frais sont généralement perçus lors du dépôt de la formalité."
+        ],
+        [
+          "Dépôt du capital",
+          "De 0 à 150 € environ",
+          "Les pratiques et frais diffèrent entre banques, notaires et prestataires."
+        ],
+        [
+          "Domiciliation commerciale",
+          "Souvent de 15 à 80 € par mois",
+          "Utile si vous ne disposez pas d'une adresse adaptée ou stable."
+        ],
+        [
+          "Rédaction accompagnée des statuts",
+          "Environ 500 à 2 500 € ou davantage",
+          "Le tarif dépend de la complexité : associés multiples, apport, pacte, investisseurs."
+        ],
+        [
+          "Création réalisée seul, hors capital et domiciliation",
+          "Souvent autour de 200 à 350 €",
+          "Possible pour une situation simple, à condition de maîtriser le dossier."
+        ]
+      ],
+      "note": "Demandez un devis lorsque les statuts comportent un apport en nature, plusieurs catégories d'actions, une holding ou des associés aux intérêts différents."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas capital social et budget de lancement",
+      "html": "<p>Un capital à 1 € rend la création légalement possible, mais il ne paie ni les premiers outils, ni le dépôt de garantie, ni les charges, ni les délais de paiement des clients. Établissez un plan de trésorerie sur plusieurs mois. Si les associés apportent des sommes destinées à être remboursées plus tard, un compte courant d'associé peut aussi être envisagé et formalisé.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les documents indispensables à l'immatriculation",
+      "html": "<p>Le contenu exact du dossier dépend de l'activité et de la situation des fondateurs, mais une SAS nécessite habituellement les <strong>statuts datés et signés</strong>, l'attestation de dépôt des fonds lorsque du numéraire est apporté, l'attestation de parution de l'annonce légale et un justificatif de jouissance des locaux du siège social. Selon le cas, il peut s'agir d'un bail, d'un contrat de domiciliation, d'une attestation d'hébergement ou d'un justificatif lié au domicile du dirigeant.</p><p>Le président doit également fournir une déclaration sur l'honneur de non-condamnation et de filiation, ainsi que les informations d'identité demandées. Si le président est une personne morale, le dossier comprend des pièces relatives à cette société et à son représentant. Une activité réglementée peut exiger diplômes, autorisation, carte professionnelle ou assurance spécifique.</p><p>La société doit déclarer ses <strong>bénéficiaires effectifs</strong> : il s'agit généralement des personnes physiques qui détiennent directement ou indirectement plus de 25 % du capital ou des droits de vote, ou qui exercent un contrôle sur la société. À défaut d'une personne répondant à ces critères, le représentant légal peut être concerné. Cette information doit être tenue à jour lorsque la structure du capital évolue.</p><p>En cas d'apport en nature, ajoutez le rapport du commissaire aux apports lorsqu'il est requis. Une dispense est possible dans certains cas, notamment lorsque les associés l'acceptent unanimement et que des seuils légaux sont respectés. Ne sous-évaluez pas cette étape : l'évaluation engage les apporteurs et a un impact sur la répartition réelle du capital.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Des statuts de SAS solides : le vrai point de vigilance",
+      "html": "<p>Dans une SAS, les statuts ne sont pas une formalité administrative à télécharger puis oublier. Ils déterminent une grande partie de la vie collective : qui prend les décisions, avec quelles majorités, comment le président est nommé ou révoqué, comment sont cédées les actions et comment se règlent les blocages. Un modèle standard peut convenir à une SASU très simple, mais devient vite insuffisant dès que plusieurs intérêts doivent cohabiter.</p><p>Portez une attention particulière aux clauses d'agrément, de préemption, d'inaliénabilité et, le cas échéant, d'exclusion. Elles peuvent encadrer l'arrivée d'un tiers au capital, donner une priorité d'achat aux associés existants ou prévoir une sortie dans des circonstances définies. Une clause d'exclusion mal rédigée est source de conflits : ses motifs, sa procédure et les droits de l'associé concerné doivent être pensés avec rigueur.</p><p>Les statuts doivent aussi éviter deux excès concernant l'objet social. Trop étroit, il vous obligera à les modifier dès que votre activité évolue. Trop vague, il peut manquer de lisibilité et compliquer certains échanges avec une banque ou un assureur. Décrivez votre activité principale et les activités connexes de manière suffisamment ouverte, sans vous éloigner de votre projet réel.</p><p>Lorsque les associés contribuent de façon inégale en temps, en argent ou en expertise, discutez aussi d'un pacte d'associés. Ce document, distinct des statuts, peut organiser la confidentialité, les engagements de financement, les règles de sortie, la non-concurrence ou la résolution des désaccords. L'accompagnement d'un avocat ou d'un professionnel du droit est souvent un investissement utile dans ce type de configuration.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Erreurs fréquentes à éviter avant et après la création",
+      "points": [
+        "Choisir la SAS uniquement parce qu'elle est populaire, sans comparer la protection sociale et le coût de la rémunération du dirigeant.",
+        "Répartir le capital à parts égales sans prévoir de mécanisme en cas de désaccord durable entre associés.",
+        "Utiliser une adresse de siège sans vérifier le droit d'y domicilier la société et la durée de cette possibilité.",
+        "Signer des statuts génériques alors que plusieurs associés, apports ou investisseurs sont impliqués.",
+        "Oublier de mettre à jour les bénéficiaires effectifs, les statuts ou les informations déclarées après une évolution importante.",
+        "Mélanger les dépenses personnelles et celles de la SAS dès les premiers encaissements."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Les obligations après la création de votre SAS",
+      "html": "<p>L'immatriculation n'est que le début. La SAS doit tenir une comptabilité adaptée, établir des comptes annuels et les faire approuver selon les règles prévues. Elle doit aussi respecter ses échéances fiscales, notamment en matière de TVA et d'impôt sur les sociétés, ainsi que ses obligations sociales si elle rémunère son président ou embauche des salariés.</p><p>Ouvrez rapidement un compte bancaire opérationnel au nom de la société, classez vos factures, mettez en place un outil de suivi de trésorerie et vérifiez vos assurances. Une responsabilité civile professionnelle, une assurance local ou une garantie adaptée peuvent être nécessaires selon l'activité. Avant de facturer, assurez-vous aussi de la TVA applicable, des mentions obligatoires et des conditions de paiement proposées à vos clients.</p><p>Enfin, traitez les évolutions de la société comme de vrais actes juridiques : arrivée d'un associé, cession d'actions, changement de président, transfert de siège, modification de capital ou changement d'activité peuvent exiger une décision formelle, une mise à jour des statuts et une déclaration. Tenir vos documents à jour coûte toujours moins cher que réparer un dossier désorganisé au moment d'une levée de fonds, d'une vente ou d'un contrôle.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "Créer une SAS, ce n'est pas seulement obtenir un numéro d'immatriculation : c'est fixer dès le départ les règles qui permettront à votre projet de grandir sans fragiliser ses fondateurs.",
+      "author": "Le réflexe utile avant de signer vos statuts"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on créer une SAS seul ?",
+      "a_html": "<p>Oui. Lorsqu'elle ne compte qu'un seul associé, la SAS prend le nom de <strong>SASU</strong>. Ses règles de base sont proches de celles de la SAS, mais les décisions qui seraient collectives dans une société à plusieurs sont prises par l'associé unique et doivent être consignées.</p><p>Vous pourrez ensuite faire entrer un ou plusieurs associés en cédant ou en émettant des actions, sous réserve de respecter vos statuts et les formalités nécessaires.</p>"
+    },
+    {
+      "q": "Quel capital faut-il pour ouvrir une SAS ?",
+      "a_html": "<p>La loi autorise un capital très faible, y compris 1 €. Ce minimum légal ne doit pas dicter votre choix : le capital doit être cohérent avec les besoins initiaux de l'activité et avec l'image que vous souhaitez donner à vos partenaires.</p><p>Au moins la moitié des apports en numéraire doit être versée lors de la création. Le reste peut être versé dans les cinq ans. Les besoins complémentaires peuvent être couverts par des apports en compte courant d'associé, à encadrer proprement.</p>"
+    },
+    {
+      "q": "Quels documents faut-il fournir pour immatriculer une SAS ?",
+      "a_html": "<p>Il faut généralement les statuts signés, l'attestation de dépôt des fonds, la preuve de publication de l'annonce légale, un justificatif du siège social, les informations concernant le président et la déclaration des bénéficiaires effectifs.</p><p>Des pièces supplémentaires sont requises en présence d'apports en nature, de dirigeant personne morale, d'activité réglementée ou de situation particulière. Vérifiez la liste demandée par le guichet unique au moment du dépôt.</p>"
+    },
+    {
+      "q": "Combien de temps faut-il pour créer une SAS ?",
+      "a_html": "<p>Dans un dossier simple et complet, la préparation peut prendre quelques jours et le traitement intervient ensuite selon les délais administratifs. En pratique, prévoyez davantage de temps si vous attendez l'ouverture d'un compte, si les associés négocient les statuts ou si l'activité est réglementée.</p><p>Le meilleur moyen d'éviter un retard est de réunir les pièces avant la publication de l'annonce légale et de vérifier que les informations figurant dans les statuts, l'annonce et le dossier de formalité sont parfaitement cohérentes.</p>"
+    },
+    {
+      "q": "Le président de SAS peut-il toucher le chômage ?",
+      "a_html": "<p>Le mandat de président de SAS ne donne pas, à lui seul, droit à l'assurance chômage, même lorsque le président est rémunéré et assimilé salarié. Il peut toutefois conserver des droits acquis antérieurement ou être couvert dans des situations très particulières, notamment s'il cumule un véritable contrat de travail répondant à des conditions strictes.</p><p>Avant de quitter un emploi salarié pour créer votre société, renseignez-vous sur votre situation individuelle et sur les dispositifs d'accompagnement éventuellement mobilisables.</p>"
+    },
+    {
+      "q": "Faut-il obligatoirement passer par un avocat ou un expert-comptable pour créer une SAS ?",
+      "a_html": "<p>Non, ce n'est pas obligatoire pour une création simple. Vous pouvez accomplir les formalités vous-même. En revanche, l'aide d'un professionnel est fortement recommandée lorsque plusieurs associés sont impliqués, que les apports sont complexes, que vous prévoyez des investisseurs ou que les enjeux financiers sont importants.</p><p>Un expert-comptable peut vous aider à choisir les options fiscales et à construire votre prévisionnel. Un avocat ou un juriste est particulièrement utile pour sécuriser les statuts et le pacte d'associés.</p>"
+    }
+  ],
+  "conclusion_html": "<p>La SAS est une forme juridique souple, moderne et souvent bien adaptée aux projets qui veulent évoluer. Son succès ne doit pas vous faire oublier l'essentiel : évaluer le coût réel de la rémunération du président, prévoir un capital et une trésorerie crédibles, puis rédiger des statuts à la hauteur de vos ambitions.</p><p>Si votre projet est simple, une préparation méthodique vous permettra de déposer un dossier solide. Si vous créez à plusieurs ou visez une croissance rapide, prenez le temps de faire sécuriser les règles du jeu : c'est l'une des décisions les plus utiles pour entreprendre sereinement.</p>",
+  "__slug": "createur-de-sas-avez-vous-choisi-cette-forme-juridique"
+}

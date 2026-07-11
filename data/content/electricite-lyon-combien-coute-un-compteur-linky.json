@@ -1,0 +1,200 @@
+{
+  "title": "Compteur Linky à Lyon : combien coûte-t-il vraiment ?",
+  "meta_description": "Compteur Linky à Lyon : coût, frais éventuels, pose, refus et démarches. Découvrez ce que vous payez réellement et les règles utiles à connaître.",
+  "reading_time_min": 10,
+  "hero_intro": "À Lyon, le compteur Linky n'est pas un équipement que l'on achète en magasin : il fait partie du réseau public d'électricité. Son remplacement est généralement sans facture à régler le jour de l'installation, mais cela ne signifie pas qu'il n'existe jamais de frais liés au compteur. Voici comment distinguer le prix du Linky, les coûts de raccordement, les conséquences d'un refus et les démarches à prévoir.",
+  "key_takeaways": [
+    "Le remplacement d'un compteur ancien par un Linky est normalement gratuit au moment de la pose pour un logement déjà raccordé à Lyon.",
+    "Le coût du déploiement est intégré aux tarifs d'utilisation du réseau, présents dans la facture d'électricité : il ne s'agit pas d'un achat individuel de compteur.",
+    "Depuis août 2025, l'absence de compteur communicant peut entraîner une facturation spécifique d'environ 6,48 € TTC tous les deux mois, avec un supplément possible si les index ne sont pas transmis.",
+    "Un raccordement de logement neuf, une modification de puissance ou une intervention technique sont des opérations distinctes du remplacement par Linky et peuvent être payantes.",
+    "Le compteur aide à suivre sa consommation, mais les économies ne sont pas automatiques : elles dépendent surtout des habitudes et des équipements du foyer."
+  ],
+  "toc": [
+    "Le prix d'un compteur Linky à Lyon",
+    "Les frais à connaître selon votre situation",
+    "Pourquoi la pose est-elle sans paiement immédiat ?",
+    "Linky installé ou refusé : ce qui change",
+    "Comment se déroule l'installation à domicile",
+    "Ondes, données et sécurité : répondre aux inquiétudes",
+    "Utiliser Linky pour mieux maîtriser sa facture"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Le prix d'un compteur Linky à Lyon : la réponse simple",
+      "html": "<p>Pour un logement déjà alimenté en électricité à Lyon, le <strong>remplacement d'un ancien compteur par un compteur Linky ne donne normalement pas lieu à une facture à payer lors de l'intervention</strong>. Vous n'avez ni compteur à acheter, ni chèque à remettre au technicien. À Lyon comme dans la grande majorité du territoire, le réseau de distribution est géré par Enedis, qui organise la pose et reste propriétaire du compteur.</p><p>Il faut toutefois nuancer le mot « gratuit ». Le financement du réseau électrique, de son entretien et de sa modernisation est réparti dans le tarif d'utilisation des réseaux publics d'électricité, souvent appelé TURPE. Ce tarif est inclus dans la facture adressée par votre fournisseur d'énergie. Autrement dit, le Linky n'est pas vendu individuellement au particulier, mais le réseau est financé collectivement par les usagers.</p><p>Le montant de votre abonnement d'électricité ne devient donc pas soudainement plus élevé parce qu'un Linky est posé chez vous. En revanche, d'autres opérations peuvent être facturées : construire un nouveau raccordement, augmenter la puissance disponible, réparer une installation détériorée ou conserver un ancien compteur dans certaines conditions. Ce sont ces situations qu'il est utile de bien séparer.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quels frais prévoir selon votre situation ?",
+      "intro": "Les montants ci-dessous sont des repères : les tarifs d'intervention évoluent et les opérations techniques font l'objet d'un catalogue ou d'un devis.",
+      "columns": [
+        "Situation à Lyon",
+        "Coût habituel pour le particulier",
+        "Ce qu'il faut comprendre"
+      ],
+      "rows": [
+        [
+          "Remplacement d'un compteur existant par un Linky",
+          "0 € à payer au moment de la pose",
+          "Le compteur est installé dans le cadre de la gestion du réseau, sans achat individuel."
+        ],
+        [
+          "Compteur Linky « à acheter »",
+          "Non concerné",
+          "Le compteur n'est pas votre propriété : il est géré par le distributeur du réseau."
+        ],
+        [
+          "Refus ou absence de Linky",
+          "Environ 6,48 € TTC tous les deux mois",
+          "Cette facturation spécifique s'applique depuis août 2025 aux compteurs non communicants ; elle peut évoluer avec les tarifs du réseau."
+        ],
+        [
+          "Index non transmis avec un compteur non communicant",
+          "Supplément possible d'environ 4,14 € TTC tous les deux mois",
+          "Il correspond à la gestion manuelle supplémentaire lorsque les données de consommation ne peuvent pas être relevées à distance."
+        ],
+        [
+          "Raccordement d'une maison ou d'un logement neuf",
+          "De plusieurs centaines à plusieurs milliers d'euros",
+          "Le prix dépend de la distance au réseau, des travaux nécessaires, de la puissance demandée et du devis de raccordement. Le Linky n'est pas facturé séparément."
+        ],
+        [
+          "Changement de puissance ou intervention sur l'installation",
+          "De quelques euros à plusieurs dizaines d'euros, parfois davantage",
+          "Le prix varie selon qu'une opération à distance suffit ou qu'un déplacement technique est nécessaire."
+        ]
+      ],
+      "note": "Les frais liés à un compteur non communicant sont généralement répercutés sur la facture d'électricité. Vérifiez toujours le montant en vigueur auprès d'Enedis ou sur votre facture avant de prendre une décision."
+    },
+    {
+      "type": "key_points",
+      "heading": "À retenir avant de parler de « prix du Linky »",
+      "points": [
+        "Un Linky remplace le compteur existant : ce n'est pas un équipement électroménager que vous choisissez et financez seul.",
+        "Votre fournisseur vend l'électricité et gère votre contrat ; Enedis intervient sur le compteur et le réseau, quel que soit votre fournisseur.",
+        "Le tarif d'un raccordement neuf ne correspond pas au coût d'un compteur Linky : il finance surtout les travaux pour relier le logement au réseau.",
+        "Une hausse de puissance souscrite peut avoir deux effets distincts : un coût d'intervention éventuel et un abonnement mensuel plus cher.",
+        "Un logement équipé de Linky n'est pas forcément moins cher à alimenter : la baisse de facture dépend de la consommation réelle."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Pourquoi l'installation n'est-elle pas facturée directement ?",
+      "html": "<p>Le compteur électrique fait partie des équipements de comptage du réseau public. Il ne relève pas du propriétaire du logement, du locataire ou du fournisseur d'électricité. Le gestionnaire de réseau l'installe, le maintient et le remplace lorsqu'une évolution technique est nécessaire. C'est pourquoi l'intervention standard de remplacement n'est pas présentée comme une prestation à régler sur place.</p><p>Cette organisation évite notamment que chaque foyer doive avancer plusieurs centaines d'euros pour moderniser son compteur. En contrepartie, les investissements du réseau sont intégrés aux tarifs régulés de distribution. Ils sont ensuite collectés via la facture d'électricité, quel que soit le fournisseur choisi. À Lyon, changer d'offre ou de fournisseur ne change donc pas le principe de prise en charge du compteur.</p><p>Attention à une confusion fréquente : <strong>le compteur ne remplace pas votre installation électrique intérieure</strong>. Si le tableau électrique est ancien, si les câbles sont dégradés ou si une mise en sécurité est nécessaire, ces travaux restent à la charge du propriétaire du logement. Un électricien intervient alors sur l'installation privée ; Enedis intervient sur le compteur et le réseau en amont.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Linky installé ou compteur non communicant : les différences concrètes",
+      "intro": "Le choix ne se limite pas à la question des ondes ou de l'habitude. Il a des conséquences pratiques sur le relevé, les interventions et certains frais.",
+      "left": {
+        "title": "Avec un compteur Linky",
+        "points": [
+          "Relevé des index automatisé, sans rendez-vous pour la plupart des opérations courantes.",
+          "Mise en service, adaptation de puissance ou certaines modifications souvent réalisables à distance.",
+          "Accès à des données de consommation plus détaillées si vous activez les services associés.",
+          "Pas de facturation spécifique liée à une relève manuelle d'un compteur non communicant."
+        ]
+      },
+      "right": {
+        "title": "Sans Linky ou en cas de refus",
+        "points": [
+          "Relevé potentiellement manuel et nécessité de communiquer les index selon les modalités demandées.",
+          "Interventions et rendez-vous plus fréquents pour certaines opérations techniques.",
+          "Facturation spécifique périodique liée à la gestion d'un compteur non communicant.",
+          "Supplément possible lorsque les données ou index ne sont pas transmis."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Comment se déroule la pose d'un compteur Linky à Lyon ?",
+      "intro": "Pour un remplacement standard, la procédure est simple. Une préparation minimale permet d'éviter les mauvaises surprises le jour du rendez-vous.",
+      "steps": [
+        {
+          "title": "Vérifier l'avis de passage ou le rendez-vous",
+          "html": "<p>Vous recevez habituellement une information avant l'intervention. Si le compteur se trouve à l'intérieur du logement, votre présence ou celle d'une personne majeure est nécessaire pour donner accès au technicien.</p>"
+        },
+        {
+          "title": "Dégager l'accès au compteur",
+          "html": "<p>Prévoyez un accès libre au compteur et au tableau voisin. Dans un immeuble, le compteur peut être situé dans les parties communes : renseignez-vous auprès du gardien, du syndic ou du bailleur si l'accès est habituellement fermé.</p>"
+        },
+        {
+          "title": "Anticiper une courte coupure",
+          "html": "<p>L'intervention entraîne généralement une coupure brève. Éteignez ou débranchez par précaution les appareils sensibles, en particulier un ordinateur, une box internet, un équipement médical non autonome ou un appareil en cours de programmation.</p>"
+        },
+        {
+          "title": "Contrôler après l'installation",
+          "html": "<p>Vérifiez que l'électricité est bien revenue, que les appareils essentiels fonctionnent et que la puissance souscrite affichée correspond à votre contrat. Conservez le compte rendu d'intervention si vous en recevez un.</p>"
+        },
+        {
+          "title": "Activer un suivi utile, sans vous noyer dans les données",
+          "html": "<p>Vous pouvez consulter votre consommation via les outils proposés par votre fournisseur ou par le gestionnaire de réseau. Commencez par repérer les jours les plus élevés, puis reliez-les à des usages précis : chauffage, eau chaude, cuisson ou recharge d'un véhicule.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas compteur, abonnement et raccordement",
+      "html": "<p>Un devis de plusieurs centaines ou milliers d'euros concerne presque toujours le <strong>raccordement d'un logement au réseau</strong> ou des travaux électriques, pas « l'achat d'un Linky ». De même, augmenter la puissance de 6 à 9 kVA peut modifier le prix de votre abonnement chaque mois, indépendamment du coût ponctuel de l'intervention.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Ondes, données personnelles et sécurité : ce qu'il faut savoir",
+      "html": "<p>Le compteur Linky communique principalement par courant porteur en ligne, c'est-à-dire en utilisant les câbles électriques du logement pour transmettre des informations. Il échange aussi ponctuellement avec le réseau de télécommunication. Les évaluations sanitaires disponibles concluent que les niveaux d'exposition associés au fonctionnement habituel restent très inférieurs aux valeurs limites réglementaires. Cela ne dispense pas de répondre clairement aux questions des habitants, mais ne justifie pas non plus d'affirmer que le compteur présente un danger avéré pour la santé.</p><p>Concernant les données, le compteur mesure la consommation nécessaire à la facturation et à l'exploitation du réseau. Les données fines, par exemple un suivi détaillé par pas de temps, font l'objet de règles d'accès et d'accords spécifiques selon le service activé. Vous pouvez limiter les options de suivi dont vous n'avez pas l'utilité et consulter les informations de confidentialité proposées par les acteurs concernés.</p><p>Enfin, un changement de compteur ne remet pas à niveau une installation intérieure défectueuse. Si vous constatez une odeur de brûlé, un disjoncteur qui saute souvent, des prises chaudes ou un tableau vétuste, coupez l'alimentation si nécessaire et faites intervenir un professionnel qualifié. Ces signaux concernent l'installation électrique du logement, avec ou sans Linky.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Trois repères simples",
+      "items": [
+        {
+          "value": "0 €",
+          "label": "à régler lors du remplacement standard d'un compteur existant par Linky"
+        },
+        {
+          "value": "6,48 € TTC",
+          "label": "environ tous les deux mois pour la gestion d'un compteur non communicant depuis août 2025"
+        },
+        {
+          "value": "Moins d'une heure",
+          "label": "durée souvent constatée pour une pose simple, hors difficulté d'accès ou anomalie technique"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Transformer le compteur Linky en outil d'économies",
+      "html": "<p>Le Linky ne réduit pas à lui seul la consommation : il la rend plus visible. Son intérêt est de vous aider à repérer les écarts entre votre impression et la réalité. Un talon de consommation élevé la nuit peut, par exemple, signaler un ballon d'eau chaude mal piloté, un chauffage électrique qui fonctionne trop longtemps ou plusieurs appareils laissés en veille.</p><p>Commencez par comparer vos consommations sur des périodes comparables, par exemple deux semaines de chauffage ou deux semaines sans chauffage. Cherchez ensuite un seul levier prioritaire. Pour un foyer tout électrique, l'isolation, le réglage du chauffage et la production d'eau chaude ont souvent bien plus d'impact que la chasse aux petites veilles. Pour un petit logement peu chauffé, les usages de cuisson, de lavage et d'électronique peuvent devenir plus visibles.</p><p>Si votre puissance souscrite paraît trop élevée ou si le disjoncteur coupe régulièrement, observez la puissance appelée avant de modifier votre contrat. Réduire une puissance inutile peut alléger l'abonnement ; l'augmenter peut améliorer le confort lorsque plusieurs appareils puissants fonctionnent ensemble. L'objectif est de choisir une puissance adaptée, pas nécessairement la plus basse.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Est-ce que le compteur Linky est vraiment gratuit ?",
+      "a_html": "<p>Pour le remplacement normal d'un compteur existant dans un logement déjà raccordé, vous ne payez généralement rien au moment de la pose. Le compteur n'est pas acheté par l'occupant : il appartient au gestionnaire de réseau.</p><p>Son financement est intégré aux coûts globaux du réseau, répercutés dans le tarif d'utilisation du réseau présent sur les factures d'électricité. « Gratuit à l'installation » ne signifie donc pas qu'il n'existe aucun financement collectif du réseau.</p>"
+    },
+    {
+      "q": "Qui paie le compteur Linky quand on est locataire à Lyon ?",
+      "a_html": "<p>Ni le locataire ni le propriétaire n'ont à acheter le compteur dans le cadre d'un remplacement standard. Le compteur est géré par Enedis sur le réseau de distribution.</p><p>Si le compteur est à l'intérieur du logement, le locataire doit en pratique permettre l'accès au rendez-vous. Les éventuels travaux de mise en conformité de l'installation intérieure relèvent en revanche du propriétaire, sauf dégradation imputable à l'occupant.</p>"
+    },
+    {
+      "q": "Peut-on refuser l'installation d'un compteur Linky ?",
+      "a_html": "<p>Dans les faits, l'installation suppose que le technicien puisse accéder au compteur. Toutefois, le compteur fait partie du réseau public et son remplacement s'inscrit dans la mission du gestionnaire de réseau. Refuser ou ne pas disposer d'un compteur communicant peut entraîner des contraintes de relève et une facturation spécifique.</p><p>Depuis août 2025, les foyers non équipés d'un compteur communicant sont notamment concernés par un montant d'environ 6,48 € TTC tous les deux mois. Un supplément peut s'ajouter lorsque les index ne sont pas communiqués. Les tarifs pouvant évoluer, consultez les conditions en vigueur avant toute décision.</p>"
+    },
+    {
+      "q": "Combien coûte le raccordement électrique d'une maison neuve à Lyon ?",
+      "a_html": "<p>Le raccordement d'une construction neuve n'a rien à voir avec le simple remplacement d'un compteur. Son prix dépend de la proximité du réseau, de la longueur de tranchée, de la puissance demandée, de la configuration du terrain et des travaux sur la voie publique.</p><p>Il faut souvent prévoir plusieurs centaines d'euros, et parfois plusieurs milliers d'euros si une extension de réseau ou des travaux importants sont nécessaires. Seul un devis de raccordement permet de connaître le montant. Le compteur Linky, lorsqu'il est posé, n'est pas une ligne d'achat distincte.</p>"
+    },
+    {
+      "q": "Le compteur Linky peut-il faire augmenter ma facture d'électricité ?",
+      "a_html": "<p>Le compteur ne modifie pas le prix du kilowattheure prévu par votre contrat et ne crée pas de consommation. Une facture qui augmente après une pose peut correspondre à une consommation auparavant estimée puis régularisée, à un changement tarifaire, à une hausse des usages ou à une puissance d'abonnement différente.</p><p>Utilisez les relevés disponibles pour comparer vos consommations en kWh sur des périodes et des conditions météo comparables. C'est le meilleur moyen de comprendre l'origine d'une variation.</p>"
+    },
+    {
+      "q": "Faut-il couper le courant pendant l'installation du Linky ?",
+      "a_html": "<p>Le technicien gère la coupure nécessaire à la pose. Elle est habituellement courte, mais il est prudent d'éteindre les appareils sensibles avant le rendez-vous et de ne pas prévoir une activité dépendante d'une alimentation continue.</p><p>Si vous utilisez un dispositif médical électrique ou un équipement qui ne doit pas être interrompu, signalez-le en amont afin d'organiser l'intervention dans les meilleures conditions.</p>"
+    }
+  ],
+  "conclusion_html": "<p>À Lyon, un compteur Linky ne s'achète pas et son remplacement standard ne se paie pas lors de la pose. Les vrais coûts à examiner sont ceux d'un raccordement neuf, d'une modification technique, d'une installation intérieure à remettre en sécurité ou, désormais, de la conservation d'un compteur non communicant.</p><p>Avant de vous inquiéter d'un « prix du Linky », identifiez donc précisément votre situation. Puis utilisez les informations de consommation avec pragmatisme : le compteur devient réellement utile lorsqu'il vous aide à choisir une puissance adaptée et à agir sur les postes qui pèsent le plus dans votre facture.</p>",
+  "__slug": "electricite-lyon-combien-coute-un-compteur-linky"
+}

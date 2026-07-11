@@ -1,0 +1,288 @@
+{
+  "title": "Créer un potager vertical chez soi : méthodes, plantes et conseils",
+  "meta_description": "Découvrez comment créer un potager vertical sur balcon, terrasse ou en intérieur : supports, plantes adaptées, budget, arrosage et erreurs à éviter.",
+  "reading_time_min": 11,
+  "hero_intro": "Vous rêvez de récolter du basilic, des fraises ou des salades sans disposer d'un jardin ? Le potager vertical transforme un mur, une rambarde ou un coin de terrasse en espace de culture productif. Avec un support stable, des contenants bien drainés et des plantes adaptées, même quelques mètres carrés suffisent pour commencer.",
+  "key_takeaways": [
+    "Commencez par observer la lumière : la plupart des légumes-fruits demandent au moins 6 heures de soleil direct, tandis que les salades et aromatiques tolèrent mieux la mi-ombre.",
+    "Le poids est le premier point de sécurité : un bac rempli de substrat humide est bien plus lourd qu'il n'y paraît. Fixez solidement la structure et évitez de surcharger une rambarde.",
+    "Privilégiez des pots individuels ou des bacs assez profonds : les plantes seront plus faciles à arroser, nourrir et remplacer qu'en poche murale très serrée.",
+    "Pour un premier essai, associez aromatiques, salades à couper, fraisiers et quelques tomates cerises plutôt que des légumes très volumineux.",
+    "En culture verticale, l'arrosage régulier et le drainage font la différence : les petits volumes de terre sèchent vite, surtout au soleil et au vent."
+  ],
+  "toc": [
+    "Pourquoi adopter un potager vertical et vérifier sa faisabilité",
+    "Quel système choisir selon votre espace et votre budget",
+    "Kit prêt à installer ou fabrication maison : comment décider",
+    "Lumière, poids et sécurité : les vérifications indispensables",
+    "Installer son potager vertical pas à pas",
+    "Les plantes les plus faciles à cultiver verticalement",
+    "Arroser, nourrir et entretenir sans y passer des heures",
+    "Les erreurs qui compromettent les récoltes",
+    "Un plan de démarrage simple pour votre première saison"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi adopter un potager vertical et vérifier sa faisabilité",
+      "html": "<p>Un potager vertical consiste à cultiver sur plusieurs niveaux plutôt qu'au sol : pots sur une étagère, jardinières fixées à un treillis, poches en feutre, tour de culture ou simple échelle végétalisée. Son principal atout est de libérer le sol d'un balcon ou d'une petite cour tout en gardant les plantes à portée de main.</p><p>Cette solution convient particulièrement aux <strong>balcons étroits, terrasses urbaines, rebords protégés et patios</strong>. Elle rend aussi les récoltes et une partie de l'entretien plus confortables, car les plantes sont surélevées. En revanche, elle ne crée pas magiquement plus de soleil ni plus de volume de terre : ce sont précisément ces deux ressources qui déterminent ce que vous pourrez cultiver.</p><p>Avant tout achat, observez votre emplacement pendant une journée. Notez les heures de soleil direct, les zones très ventées, la présence d'une gouttière ou d'un débord de toit, ainsi que le chemin de l'eau lors de l'arrosage. Un mur lumineux mais inaccessible pour l'entretien sera moins pratique qu'une petite structure mobile placée près d'un point d'eau.</p><p>Sur un balcon en copropriété ou en location, vérifiez aussi le règlement applicable. Ne fixez jamais une charge lourde sur une rambarde ou une façade sans connaître sa résistance et sans utiliser des fixations adaptées au support. Préserver le passage, éviter les écoulements chez les voisins et sécuriser chaque élément sont des priorités.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Les repères utiles avant de vous lancer",
+      "items": [
+        {
+          "value": "4 à 6 h",
+          "label": "de soleil direct : un bon minimum pour de nombreuses aromatiques et cultures faciles"
+        },
+        {
+          "value": "15 à 20 L",
+          "label": "de substrat conseillé pour un pied de tomate cerise vigoureux"
+        },
+        {
+          "value": "10 L",
+          "label": "de terreau humide peuvent approcher une dizaine de kilos, selon le substrat et le contenant"
+        },
+        {
+          "value": "2 à 3 fois/semaine",
+          "label": "fréquence d'arrosage souvent nécessaire en été, à ajuster selon la météo et le volume des pots"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quel type de potager vertical choisir ?",
+      "intro": "Le bon modèle est celui qui respecte votre surface, votre capacité de charge et le temps que vous souhaitez y consacrer.",
+      "columns": [
+        "Solution",
+        "Budget indicatif",
+        "Pour quelles cultures ?",
+        "Atouts et vigilance"
+      ],
+      "rows": [
+        [
+          "Poches murales en géotextile",
+          "Environ 25 à 70 €",
+          "Aromatiques, jeunes salades, fleurs comestibles",
+          "Très compactes et légères à vide ; elles sèchent rapidement et les poches inférieures peuvent recevoir trop d'eau."
+        ],
+        [
+          "Étagère ou treillis avec pots individuels",
+          "Environ 60 à 200 €",
+          "Aromatiques, fraisiers, salades, tomates en pots dédiés",
+          "Modulable et facile à entretenir ; demande une structure stable et des soucoupes ou bacs de récupération."
+        ],
+        [
+          "Tour ou pots empilés",
+          "Environ 40 à 150 €",
+          "Fraises, herbes, salades à couper",
+          "Bon rendement au sol ; il faut arroser lentement pour humidifier tous les niveaux."
+        ],
+        [
+          "Jardinières sur support autoportant",
+          "Environ 80 à 250 €",
+          "Mélange de légumes et aromatiques",
+          "Stable et accessible ; prend un peu plus de place au sol qu'un système mural."
+        ],
+        [
+          "Système hydroponique domestique",
+          "Souvent 100 à 400 € ou plus",
+          "Herbes, salades, jeunes pousses",
+          "Culture rapide et propre à l'intérieur ; investissement, alimentation électrique et suivi nutritif nécessaires."
+        ]
+      ],
+      "note": "Ces montants sont des ordres de grandeur hors plantes et substrat. Réutiliser des pots en bon état permet souvent de réduire nettement le budget."
+    },
+    {
+      "type": "comparison",
+      "heading": "Kit prêt à installer ou fabrication maison : comment décider",
+      "intro": "Les deux options peuvent donner de très bonnes récoltes. Choisissez selon votre envie de bricoler, vos contraintes de fixation et votre besoin d'évolutivité.",
+      "left": {
+        "title": "Fabriquer soi-même",
+        "points": [
+          "Budget adaptable en réemployant étagère, cagettes robustes, pots et treillis.",
+          "Dimensions sur mesure pour un angle de balcon, un mur ou une terrasse.",
+          "Possibilité de remplacer un seul pot, d'espacer les cultures et de modifier le plan au fil des saisons.",
+          "Demande de prévoir la résistance des matériaux, le drainage et des fixations réellement sûres."
+        ]
+      },
+      "right": {
+        "title": "Acheter un kit",
+        "points": [
+          "Mise en place rapide, avec un rendu souvent homogène.",
+          "Éléments théoriquement compatibles entre eux : bacs, support et parfois arrosage.",
+          "Pratique pour débuter si l'espace est standard et que la notice est claire.",
+          "Vérifiez les dimensions réelles, la charge maximale, la profondeur des bacs et la disponibilité des pièces de rechange."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Lumière, poids et sécurité : les vérifications indispensables",
+      "html": "<p>Pour réussir un potager vertical, placez les cultures les plus gourmandes en lumière là où elles recevront le soleil le plus longtemps. Les tomates cerises, piments, aubergines miniatures et la plupart des fraisiers préfèrent généralement <strong>au moins six heures de soleil direct</strong>. Les laitues, roquette, persil, coriandre, menthe et ciboulette peuvent produire avec moins de soleil, surtout si les après-midis sont très chauds.</p><p>Ne vous contentez pas de regarder la surface au sol : évaluez le poids final. Le terreau arrosé, les pots, les soucoupes et la végétation représentent une charge conséquente. Une grande jardinière de 40 litres peut aisément devenir difficile à déplacer une fois humide. Une étagère doit reposer sur un sol plat ; un système mural doit être ancré dans un mur porteur avec des chevilles et vis adaptées à sa nature.</p><p>Prévoyez un <strong>drainage contrôlé</strong>. Chaque contenant doit posséder des trous d'évacuation, mais l'eau ne doit ni ruisseler sur le mur ni tomber sur le balcon inférieur. Installez des soucoupes adaptées, un bac de récupération ou une gouttière de collecte selon la configuration. Sur une structure à étages, veillez à ce que l'écoulement des pots supérieurs ne détrempe pas constamment les plantes du bas.</p><p>Enfin, gardez un accès simple à toutes les plantations. Si vous ne pouvez pas atteindre le haut sans escabeau instable, réservez cette zone aux plantes peu exigeantes ou choisissez une structure plus basse. Un potager facile à observer est un potager que l'on arrose et récolte au bon moment.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention à la palette fixée au mur",
+      "html": "<p>Une palette peut paraître économique, mais elle devient très lourde une fois garnie de bacs humides. Évitez les palettes traitées ou abîmées, poncez les échardes, ne cultivez pas directement dans les interstices sans protection et ne la fixez pas à une façade sans ancrage fiable. Une étagère autoportante bien lestée ou des pots sur un treillis constituent souvent une solution plus simple et plus sûre.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Installer son potager vertical pas à pas",
+      "intro": "Mieux vaut débuter avec peu de contenants bien installés que multiplier les plants dans un dispositif difficile à gérer.",
+      "steps": [
+        {
+          "title": "1. Dessinez votre implantation",
+          "html": "<p>Mesurez largeur, hauteur et profondeur disponibles. Gardez un passage confortable, l'ouverture des portes ou fenêtres et l'accès à un point d'eau. Répartissez les grands pots au niveau le plus bas ou sur la partie la plus robuste de la structure.</p>"
+        },
+        {
+          "title": "2. Montez et testez le support à vide",
+          "html": "<p>Installez l'étagère, le treillis ou le support choisi selon les préconisations du fabricant. Secouez légèrement la structure, vérifiez son aplomb et assurez-vous que les pots ne peuvent pas glisser, basculer ou tomber avec le vent.</p>"
+        },
+        {
+          "title": "3. Préparez des contenants drainants",
+          "html": "<p>Utilisez des pots percés, assez profonds pour les racines. Remplissez-les avec un terreau de qualité pour potager ou plantes en bacs, éventuellement enrichi d'un peu de compost mûr. Ne tassez pas excessivement : l'eau et l'air doivent circuler dans le substrat.</p>"
+        },
+        {
+          "title": "4. Plantez selon les besoins réels",
+          "html": "<p>Installez les jeunes plants à la profondeur indiquée sur leur motte. Respectez l'espace nécessaire, même en vertical : une tomate ne doit pas étouffer trois salades. Ajoutez tout de suite un tuteur aux plantes qui grandiront en hauteur.</p>"
+        },
+        {
+          "title": "5. Arrosez, étiquetez et observez",
+          "html": "<p>Arrosez doucement jusqu'à ce que l'eau commence à sortir par les trous de drainage. Étiquetez les variétés et surveillez-les chaque jour la première semaine : c'est le meilleur moment pour repérer un pot qui sèche trop vite ou un emplacement trop ombragé.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quelles plantes cultiver dans un potager vertical ?",
+      "intro": "Les plantes compactes, productives et récoltées fréquemment sont les plus gratifiantes. Adaptez toujours les volumes de pot à la variété choisie.",
+      "columns": [
+        "Culture",
+        "Volume de pot conseillé",
+        "Exposition",
+        "Conseil pratique"
+      ],
+      "rows": [
+        [
+          "Basilic, persil, ciboulette, coriandre",
+          "1 à 3 L par plant ou petite touffe",
+          "Soleil à mi-ombre selon l'espèce",
+          "Récoltez régulièrement sans enlever plus d'un tiers du feuillage à la fois."
+        ],
+        [
+          "Thym, origan, romarin compact",
+          "3 à 5 L",
+          "Soleil",
+          "Utilisez un substrat bien drainé et évitez les arrosages trop fréquents."
+        ],
+        [
+          "Menthe",
+          "3 à 5 L, seule dans son pot",
+          "Mi-ombre à soleil doux",
+          "Gardez-la isolée : elle est très vigoureuse et concurrence facilement les voisines."
+        ],
+        [
+          "Laitues à couper, roquette, mesclun",
+          "5 à 8 L ou jardinière peu profonde",
+          "Mi-ombre à soleil doux",
+          "Semez ou replantez par petites quantités toutes les deux à trois semaines."
+        ],
+        [
+          "Fraisier remontant",
+          "3 à 5 L par plant",
+          "Soleil",
+          "Choisissez un pot profond, paillez légèrement et supprimez les stolons si vous privilégiez les fruits."
+        ],
+        [
+          "Radis",
+          "Au moins 15 cm de profondeur",
+          "Soleil à mi-ombre",
+          "Semez peu dense et récoltez jeune pour libérer rapidement de la place."
+        ],
+        [
+          "Tomate cerise compacte",
+          "15 à 20 L par plant",
+          "Plein soleil",
+          "Installez un tuteur solide et nourrissez régulièrement en période de production."
+        ]
+      ],
+      "note": "Les courges, maïs, pommes de terre en quantité, choux très volumineux et tomates à grand développement sont généralement peu adaptés à un petit mur potager : ils exigent beaucoup de volume, de place ou de stabilité."
+    },
+    {
+      "type": "prose",
+      "heading": "Arroser, nourrir et entretenir sans y passer des heures",
+      "html": "<p>En potager vertical, le terreau se dessèche plus vite qu'en pleine terre, car les contenants sont petits et exposés au vent. Le bon réflexe consiste à vérifier le substrat avec un doigt : si les deux ou trois premiers centimètres sont secs, arrosez lentement au pied. En été, un contrôle quotidien peut être nécessaire ; au printemps ou après une période pluvieuse, espacez naturellement les apports.</p><p>Arrosez de préférence le matin, en plusieurs passages si nécessaire. Une eau versée trop vite traverse parfois le terreau sans vraiment l'humidifier. Les poches textiles et les pots de petite taille sont les plus sensibles au dessèchement. Un goutte-à-goutte avec programmateur peut simplifier la vie pendant les vacances, à condition de le tester plusieurs jours avant votre départ.</p><p>Les réserves nutritives d'un pot s'épuisent. À partir de quelques semaines de culture, apportez du compost mûr en surface ou un engrais organique adapté aux légumes, en respectant scrupuleusement les doses indiquées. Les tomates, fraisiers et piments sont plus gourmands que les herbes méditerranéennes. Trop d'engrais peut fragiliser les plantes autant qu'un manque.</p><p>Récoltez souvent les feuilles, retirez les parties malades et tournez les pots si une face reçoit nettement plus de lumière. Une fois par semaine, inspectez le dessous des feuilles, les tiges et le terreau. Les pucerons, limaces et maladies se gèrent beaucoup mieux lorsqu'ils sont repérés dès les premiers signes.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs fréquentes à éviter",
+      "points": [
+        "Installer un mur potager avant d'avoir vérifié le soleil, le vent et le poids supportable.",
+        "Planter trop serré : l'air circule mal, les maladies progressent et les récoltes diminuent.",
+        "Choisir uniquement des poches très petites pour des légumes qui ont besoin de racines profondes.",
+        "Oublier les trous de drainage ou laisser l'eau s'écouler chez les voisins.",
+        "Arroser selon un calendrier fixe au lieu de vérifier réellement l'humidité du substrat.",
+        "Mettre la menthe ou une tomate vigoureuse au milieu de cultures plus délicates sans leur réserver d'espace."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un premier potager vertical simple et productif",
+      "html": "<p>Pour démarrer sans vous disperser, installez une étagère stable avec six à huit pots. Placez deux pots d'aromatiques méditerranéennes au soleil, deux de basilic ou persil, deux fraisiers et une jardinière de laitues à couper. Si vous avez au moins six heures de soleil, ajoutez un seul plant de tomate cerise dans un grand pot posé au sol. Vous apprendrez ainsi les besoins de votre emplacement avant d'agrandir l'installation.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Un plan de démarrage simple pour votre première saison",
+      "intro": "Quelques gestes planifiés suffisent à rendre le potager vertical plus régulier et moins contraignant.",
+      "steps": [
+        {
+          "title": "Au début du printemps",
+          "html": "<p>Nettoyez les pots, contrôlez les fixations et renouvelez une partie du substrat. Semez radis, roquette et salades si les températures le permettent, ou installez des plants d'aromatiques rustiques.</p>"
+        },
+        {
+          "title": "Après les dernières gelées de votre région",
+          "html": "<p>Ajoutez basilic, tomates cerises, piments et fraisiers si besoin. Protégez les jeunes plants d'une nuit froide annoncée et tuteurez-les avant qu'ils ne deviennent encombrants.</p>"
+        },
+        {
+          "title": "Pendant l'été",
+          "html": "<p>Récoltez souvent, arrosez avec régularité et ajoutez un apport nutritif modéré aux plantes productives. Semez à nouveau quelques salades ou radis dans les pots libérés.</p>"
+        },
+        {
+          "title": "À l'automne et en hiver",
+          "html": "<p>Retirez les plants épuisés, compostez les parties saines et videz les soucoupes avant les périodes de gel. Les aromatiques vivaces peuvent rester en place si leur espèce est adaptée à votre climat et si les pots sont protégés du froid intense.</p>"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel potager vertical choisir pour un petit balcon ?",
+      "a_html": "<p>Pour un petit balcon, une <strong>étagère étroite avec des pots individuels</strong> est souvent le choix le plus polyvalent : elle ne demande pas de percer un mur, les plants restent accessibles et vous pouvez déplacer les pots selon le soleil. Les poches murales conviennent bien aux aromatiques et salades, mais elles nécessitent un arrosage plus attentif.</p><p>Gardez un espace de circulation et placez les grands contenants au sol. Une solution trop profonde ou trop lourde devient vite pénible à utiliser.</p>"
+    },
+    {
+      "q": "Combien d'heures de soleil faut-il pour un potager vertical ?",
+      "a_html": "<p>Visez idéalement <strong>six heures ou plus de soleil direct</strong> pour les tomates, piments et fraisiers. Avec quatre à six heures, de nombreuses aromatiques et les salades peuvent déjà bien pousser. Si votre balcon reçoit moins de quatre heures de soleil, privilégiez laitues, roquette, persil, menthe, ciboulette et certaines plantes à feuilles plutôt que les légumes-fruits.</p><p>L'intensité varie aussi selon la saison, l'orientation et les bâtiments voisins. Observez la lumière au printemps et en été avant de choisir vos cultures.</p>"
+    },
+    {
+      "q": "Peut-on faire un potager vertical à l'intérieur ?",
+      "a_html": "<p>Oui, surtout pour les aromatiques, jeunes pousses et salades. Une fenêtre très lumineuse peut suffire à certaines plantes, mais la lumière derrière une vitre est souvent insuffisante en hiver pour produire des tomates ou des piments. Une lampe horticole adaptée peut alors compléter l'éclairage.</p><p>À l'intérieur, protégez le sol et les meubles des fuites d'eau, aérez pour limiter les maladies et évitez de laisser de l'eau stagner dans les soucoupes.</p>"
+    },
+    {
+      "q": "Quel terreau utiliser pour un potager vertical ?",
+      "a_html": "<p>Choisissez un <strong>terreau pour potager, légumes ou culture en bacs</strong>, à la fois drainant et capable de retenir un peu d'eau. Un terreau universel de bonne qualité peut convenir s'il est enrichi d'un peu de compost mûr. La terre de jardin seule est souvent trop lourde et se compacte dans les pots.</p><p>Le substrat perd progressivement sa structure et ses nutriments. Chaque année, retirez une partie de l'ancien terreau, ajoutez du compost et complétez avec du substrat neuf si nécessaire.</p>"
+    },
+    {
+      "q": "Comment arroser un potager vertical pendant les vacances ?",
+      "a_html": "<p>Un système de goutte-à-goutte relié à un réservoir ou à une arrivée d'eau, avec programmateur, est la solution la plus régulière pour une absence de plusieurs jours. Testez-le avant de partir : vérifiez que chaque pot reçoit assez d'eau et qu'aucun débordement ne se produit.</p><p>À défaut, regroupez les pots à l'abri du vent, paillez la surface du terreau et demandez à une personne de confiance de contrôler l'humidité. Les réserves d'eau intégrées peuvent aider, mais elles ne remplacent pas une vérification lors d'une forte chaleur.</p>"
+    },
+    {
+      "q": "Quels légumes éviter dans un potager vertical ?",
+      "a_html": "<p>Évitez surtout les cultures très encombrantes ou exigeantes en volume de terre : grosses courges, maïs, artichauts, choux imposants ou variétés de tomates très vigoureuses. Elles peuvent pousser en grand bac, mais sont rarement adaptées à une petite structure verticale.</p><p>Préférez les variétés compactes et les plantes dont la récolte est fréquente. Vous obtiendrez davantage de plaisir et de résultats avec quelques cultures bien dimensionnées.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Créer un potager vertical, ce n'est pas chercher à tout cultiver sur un mur : c'est choisir intelligemment les plantes qui correspondent à votre lumière, à votre place et à votre disponibilité. Commencez petit, sécurisez la structure, prévoyez un bon drainage et observez vos plants pendant quelques semaines.</p><p>Quelques pots d'aromatiques, de salades et de fraisiers suffisent déjà à transformer un balcon en coin nourricier. Une fois votre rythme d'arrosage trouvé, vous pourrez enrichir votre installation, saison après saison, avec confiance et plaisir.</p>",
+  "__slug": "comment-creer-un-potager-vertical-chez-soi-astuces-et-conseils-pratiques"
+}

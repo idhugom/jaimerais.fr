@@ -1,0 +1,265 @@
+{
+  "title": "Comment choisir sa nouvelle maison : le guide pour comparer, visiter et décider",
+  "meta_description": "Choisissez votre nouvelle maison avec méthode : budget réel, quartier, visites, travaux et documents à vérifier avant d'acheter ou louer sereinement.",
+  "reading_time_min": 12,
+  "hero_intro": "Trouver une maison qui plaît est une chose ; choisir celle qui conviendra vraiment à votre vie en est une autre. Entre le budget total, l'emplacement, l'état du bâti et les contraintes administratives, une décision sereine se prépare. Voici une méthode concrète pour comparer les biens sans laisser un coup de cœur, ou une mauvaise surprise, décider à votre place.",
+  "key_takeaways": [
+    "Commencez par définir un budget global incluant les frais d'acquisition, le déménagement, les travaux et une marge de sécurité.",
+    "Distinguez vos critères non négociables de vos préférences : l'emplacement et la structure d'une maison se corrigent rarement, la décoration beaucoup plus facilement.",
+    "Visitez à plusieurs moments, contrôlez les postes coûteux et demandez les documents avant de vous engager.",
+    "Comparez les maisons avec une grille identique : elle évite de surévaluer le charme d'un bien et d'oublier ses contraintes.",
+    "Avant de signer, vérifiez les conditions financières, les charges, l'urbanisme et les diagnostics adaptés à votre projet."
+  ],
+  "toc": [
+    "Définir votre projet et vos critères de choix",
+    "Acheter ou louer : quelle solution correspond à votre situation ?",
+    "Calculer le vrai budget d'une maison",
+    "Évaluer le quartier et l'environnement quotidien",
+    "Réussir la visite et contrôler l'état du bien",
+    "Comparer les maisons avec une grille objective",
+    "Sécuriser votre décision avant la signature"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Définir votre projet avant de consulter les annonces",
+      "html": "<p>Le bon choix ne commence pas par une liste d'annonces, mais par une vision claire de votre quotidien. Demandez-vous comment vous vivrez dans cette maison dans deux, cinq ou dix ans : nombre d'occupants, télétravail, besoins de rangement, vieillissement, projet d'enfant, animaux, jardin, stationnement ou proximité des transports. Une maison adaptée à votre vie réelle vaut mieux qu'une maison séduisante sur les photos.</p><p>Établissez ensuite trois listes. La première réunit vos <strong>critères non négociables</strong> : budget plafond, temps de trajet maximal, nombre minimal de chambres, accès à une école ou absence d'escaliers par exemple. La deuxième rassemble les critères importants mais compensables, comme une cuisine à refaire ou un petit jardin. La dernière contient les envies : cheminée, vue dégagée, parquet ancien, piscine ou grand atelier. Cette hiérarchie permet de refuser plus vite les biens qui ne conviennent pas.</p><p>Enfin, fixez une zone de recherche réaliste. Élargir légèrement le périmètre peut offrir davantage d'espace ou un meilleur état général, mais seulement si le temps de trajet, les services et votre qualité de vie restent satisfaisants. Ne comparez jamais seulement le prix au mètre carré : une maison moins chère mais isolée, énergivore ou très dégradée peut coûter bien plus cher à vivre.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les critères qui pèsent le plus dans une décision durable",
+      "points": [
+        "L'emplacement : temps de trajet, nuisances, services, sécurité ressentie et perspectives du secteur.",
+        "La configuration : surface utile, nombre de chambres, circulation, lumière, rangements et possibilité d'évolution.",
+        "L'état structurel : toiture, murs, humidité, assainissement, chauffage et menuiseries avant les finitions décoratives.",
+        "Le coût complet : mensualité ou loyer, charges, énergie, impôts, travaux, entretien et déménagement.",
+        "La revente ou la relocation : un emplacement accessible et une distribution cohérente restent des atouts solides."
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Acheter ou louer : choisir selon votre horizon de vie",
+      "intro": "Une nouvelle maison peut répondre au même besoin de confort, mais les engagements ne sont pas les mêmes. Votre stabilité, votre apport, votre mobilité professionnelle et votre tolérance aux travaux doivent guider le choix.",
+      "left": {
+        "title": "Acheter une maison",
+        "points": [
+          "Convient souvent si vous envisagez de rester plusieurs années dans le même secteur.",
+          "Permet d'aménager, de rénover et de construire un projet patrimonial à votre rythme.",
+          "Implique des frais d'acquisition, des responsabilités d'entretien et un budget imprévus à prévoir.",
+          "Demande une vérification approfondie du bâti, des règles d'urbanisme et du financement avant l'engagement."
+        ]
+      },
+      "right": {
+        "title": "Louer une maison",
+        "points": [
+          "Apporte davantage de souplesse si votre situation familiale ou professionnelle peut évoluer.",
+          "Limite les dépenses lourdes liées au gros œuvre, qui relèvent en principe du propriétaire.",
+          "N'élimine pas les coûts : dépôt de garantie, assurance, énergie, charges et déménagement sont à intégrer.",
+          "Exige de lire attentivement le bail, la répartition des charges et l'état des lieux."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Calculer le budget global, pas seulement le prix affiché",
+      "intro": "Pour un achat comme pour une location, ajoutez toutes les dépenses prévisibles au montant mis en avant dans l'annonce. Les montants varient fortement selon le lieu et le projet, mais cette grille aide à éviter les oublis.",
+      "columns": [
+        "Poste de dépense",
+        "À anticiper",
+        "Ordre de grandeur prudent",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Prix d'achat",
+          "Prix du bien, éventuelle commission d'agence, apport",
+          "Selon le marché local",
+          "Vérifier qui règle les honoraires et ce qu'ils couvrent."
+        ],
+        [
+          "Frais d'acquisition",
+          "Acte, taxes et formalités",
+          "Souvent autour de 7 à 8 % dans l'ancien ; généralement moins dans le neuf",
+          "À réserver en plus du prix, sauf montage spécifique."
+        ],
+        [
+          "Crédit immobilier",
+          "Intérêts, assurance, garantie, frais de dossier",
+          "Dépendent de la durée, de l'apport et du profil",
+          "Comparer le coût total, pas seulement le taux affiché."
+        ],
+        [
+          "Travaux et équipement",
+          "Rénovation, cuisine, peinture, mobilier, extérieur",
+          "De quelques centaines d'euros à plusieurs dizaines de milliers d'euros",
+          "Chiffrer les travaux urgents avant toute offre."
+        ],
+        [
+          "Déménagement",
+          "Location de véhicule, cartons, professionnels, garde-meuble",
+          "Environ 300 € à plusieurs milliers d'euros",
+          "Le volume, la distance et l'accès font varier la facture."
+        ],
+        [
+          "Location",
+          "Premier loyer, dépôt de garantie, assurance, frais éventuels",
+          "Le dépôt est encadré : souvent un mois hors charges en location vide, jusqu'à deux mois en meublé",
+          "Distinguer le loyer, les charges récupérables et les abonnements individuels."
+        ]
+      ],
+      "note": "Ces repères sont indicatifs. Gardez idéalement une réserve pour les imprévus, particulièrement dans une maison ancienne ou lors d'un premier emménagement."
+    },
+    {
+      "type": "prose",
+      "heading": "Évaluer le quartier et l'environnement au-delà de la première impression",
+      "html": "<p>Une maison agréable dans un environnement inadapté finit rarement par être un bon choix. Faites le trajet aux heures qui compteront pour vous : départ au travail, retour d'école, soirée, week-end. Testez les transports, le stationnement, les trottoirs, l'éclairage et le temps réellement nécessaire pour rejoindre les commerces, les soins, les écoles ou les activités importantes.</p><p>Observez aussi les éléments invisibles lors d'une visite de quinze minutes : bruit de circulation, ligne ferroviaire, odeurs, activité d'un commerce, passage d'avions, voisinage immédiat, risque de ruissellement ou travaux annoncés. Une discussion courtoise avec des habitants, des commerçants ou le voisinage peut apporter un éclairage utile, sans remplacer vos propres vérifications. Pour un projet d'achat, consultez également les règles locales d'urbanisme : elles peuvent influencer une extension, une clôture, une construction voisine ou l'usage d'un terrain.</p><p>La proximité des services doit être jugée selon vos habitudes, non selon une carte. Un supermarché à trois kilomètres peut être simple avec deux voitures et compliqué sans véhicule. À l'inverse, habiter un peu plus loin peut être un excellent compromis si le calme, l'espace et les liaisons de transport répondent à vos priorités.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Réussir la visite d'une maison : une méthode en six temps",
+      "intro": "Prévoyez du temps, prenez des notes et, si possible, revenez une seconde fois avec une personne de confiance. Lorsqu'un bien vous plaît, l'émotion est normale : une checklist vous aide à conserver un regard précis.",
+      "steps": [
+        {
+          "title": "Préparez vos questions avant le rendez-vous",
+          "html": "<p>Demandez l'année de construction, le mode de chauffage, les dépenses d'énergie disponibles, les travaux réalisés et ceux envisagés. Vérifiez aussi la surface, la parcelle, le stationnement, la fibre ou la qualité du réseau mobile selon vos besoins.</p>"
+        },
+        {
+          "title": "Visitez à la lumière du jour",
+          "html": "<p>Observez l'orientation, l'ensoleillement, les vis-à-vis et la luminosité des pièces principales. Ouvrez les volets, regardez les plafonds, les angles des murs, les dessous de fenêtres et les placards : les traces d'humidité se cachent souvent là.</p>"
+        },
+        {
+          "title": "Testez ce qui peut l'être sans dégrader",
+          "html": "<p>Ouvrez quelques fenêtres et portes, vérifiez les robinets, la pression d'eau, les évacuations visibles, les prises et la ventilation. Un fonctionnement imparfait n'est pas toujours rédhibitoire, mais il doit être chiffré et intégré à votre décision.</p>"
+        },
+        {
+          "title": "Examinez l'enveloppe du bâtiment",
+          "html": "<p>Depuis l'extérieur, regardez la toiture, les gouttières, les fissures, la façade, les menuiseries, les accès et l'état du jardin. Dans une maison, les travaux de couverture, d'assainissement ou de structure sont généralement plus déterminants qu'une peinture défraîchie.</p>"
+        },
+        {
+          "title": "Projetez vos meubles et vos usages",
+          "html": "<p>Mesurez les pièces clés, les passages, les escaliers et le garage si nécessaire. Vérifiez où installer le linge, les vélos, les poubelles, un bureau ou les couchages. La surface annoncée ne dit pas tout de l'espace réellement utilisable.</p>"
+        },
+        {
+          "title": "Revenez à un autre moment",
+          "html": "<p>Une contre-visite en fin de journée, sous la pluie ou pendant une heure plus animée peut révéler le bruit, l'humidité, la difficulté de stationnement ou l'absence de lumière. C'est aussi le bon moment pour relire vos questions et demander les documents manquants.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les points techniques à vérifier avant de choisir",
+      "intro": "Vous n'avez pas besoin d'être expert du bâtiment pour repérer les sujets qui méritent une réponse claire. En cas de doute sérieux, l'avis d'un professionnel indépendant peut être un investissement utile.",
+      "columns": [
+        "Élément",
+        "Questions à poser et observations",
+        "Signal à prendre au sérieux",
+        "Réaction recommandée"
+      ],
+      "rows": [
+        [
+          "Toiture et charpente",
+          "Date de réfection, isolation, état des gouttières, infiltrations passées",
+          "Tuiles abîmées, plafond taché, odeur de renfermé",
+          "Demander les factures et un avis qualifié avant de chiffrer."
+        ],
+        [
+          "Humidité et ventilation",
+          "Présence d'une VMC, traces sur les murs, état des caves et salles d'eau",
+          "Moisissures, peinture cloquée, condensation répétée",
+          "Identifier la cause : ventilation, fuite, remontées ou infiltration."
+        ],
+        [
+          "Chauffage et énergie",
+          "Type d'équipement, âge de la chaudière ou pompe à chaleur, isolation",
+          "Consommations élevées, système ancien, confort inégal",
+          "Lire le DPE et les recommandations sans les considérer isolément."
+        ],
+        [
+          "Électricité et plomberie",
+          "Tableau, prises, évacuations, pression d'eau, travaux récents",
+          "Installation très ancienne, fuites, anomalies signalées",
+          "Prévoir une mise en sécurité ou demander un devis si nécessaire."
+        ],
+        [
+          "Terrain et assainissement",
+          "Limites, pente, écoulement des eaux, raccordement ou système individuel",
+          "Eau stagnante, accès difficile, assainissement non conforme",
+          "Vérifier les documents, servitudes et éventuels travaux à prévoir."
+        ],
+        [
+          "Copropriété ou lotissement",
+          "Charges, règlement, travaux votés, contraintes sur l'extérieur",
+          "Budget élevé ou règles incompatibles avec votre projet",
+          "Lire les documents avant l'offre ou la signature."
+        ]
+      ],
+      "note": "Les diagnostics obligatoires apportent des informations utiles, mais ils ne remplacent pas toujours une inspection approfondie. Pour une maison ancienne, une visite technique indépendante peut coûter quelques centaines d'euros ou davantage selon la mission, et éviter une erreur beaucoup plus coûteuse."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le piège le plus fréquent : sous-estimer les travaux invisibles",
+      "html": "<p>Une salle de bains datée, un papier peint ou une cuisine peu moderne se rénovent progressivement. En revanche, une toiture en fin de vie, une humidité persistante, une isolation insuffisante ou un assainissement à reprendre peuvent mobiliser rapidement un budget important. Avant de négocier sur l'esthétique, faites l'inventaire des travaux qui touchent à la sécurité, au clos et couvert, à l'eau et au confort thermique.</p><p>Si le vendeur annonce des travaux récents, demandez les factures, les garanties éventuelles et les coordonnées des entreprises. L'absence de justificatif n'implique pas forcément un défaut, mais elle doit vous inciter à rester prudent dans votre estimation.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Comparer objectivement les biens et préparer votre décision",
+      "html": "<p>Après plusieurs visites, le risque est de mélanger vos impressions. Créez une fiche identique par maison et notez chaque critère sur 5 : emplacement, budget global, état technique, luminosité, distribution, terrain, nuisances, potentiel d'évolution et ressenti. Donnez un coefficient plus fort à ce qui est réellement prioritaire pour vous. Une chambre supplémentaire a souvent moins de valeur qu'un trajet quotidien soutenable, si c'est ce dernier qui pèse sur votre qualité de vie.</p><p>Ajoutez à chaque fiche deux colonnes essentielles : <strong>ce qu'il faut faire dès l'emménagement</strong> et <strong>ce qui peut attendre</strong>. Pour chaque intervention, estimez un montant prudent et une durée. Vous verrez immédiatement si un bien affiché moins cher reste intéressant après les travaux indispensables. Il est aussi utile de distinguer les éléments négociables, comme une décoration, de ceux qui ne le sont pas, comme une route très bruyante ou une servitude de passage.</p><p>Pour un achat, rassemblez avant de vous engager les documents utiles : diagnostics, taxe foncière, informations sur les charges et travaux lorsqu'il y a copropriété ou lotissement, règles d'urbanisme pertinentes, servitudes éventuelles et éléments relatifs aux risques. Pour une location, lisez le bail, le montant et la nature des charges, les modalités de révision du loyer, l'état des lieux et les équipements réellement fournis.</p><p>Enfin, ne confondez pas vitesse et précipitation. Un marché tendu peut exiger d'être réactif, mais votre réactivité doit venir d'une préparation solide : financement étudié, documents demandés, plafond de prix fixé et conditions importantes identifiées. Si le financement est nécessaire, les clauses appropriées dans l'avant-contrat protègent le projet. En France, l'acquéreur particulier bénéficie en principe d'un délai de rétractation de dix jours après la notification de l'avant-contrat ; ce délai ne dispense pas de lire et de comprendre les engagements pris.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Votre plan d'action avant de signer ou de donner votre accord",
+      "intro": "Utilisez cette séquence pour avancer avec méthode, que vous achetiez ou louiez.",
+      "steps": [
+        {
+          "title": "Fixez votre plafond global",
+          "html": "<p>Inscrivez le montant maximal incluant les frais, les travaux urgents et une réserve. Pour un achat financé à crédit, les banques examinent souvent un taux d'endettement autour de 35 % assurance comprise, mais votre situation complète reste déterminante.</p>"
+        },
+        {
+          "title": "Sélectionnez avec vos non-négociables",
+          "html": "<p>Écartez les biens incompatibles avec votre temps de trajet, votre configuration familiale ou votre budget de remise en état. Mieux vaut visiter moins et comparer mieux.</p>"
+        },
+        {
+          "title": "Menez deux visites structurées",
+          "html": "<p>La première sert à vérifier l'adéquation générale ; la seconde à contrôler les détails, prendre les mesures et examiner les documents. Prenez des photos avec l'autorisation du propriétaire ou de l'agent.</p>"
+        },
+        {
+          "title": "Chiffrez les écarts avant toute proposition",
+          "html": "<p>Demandez des devis pour les postes majeurs si possible. Ajustez votre offre d'achat ou votre décision locative en fonction du coût réel des éléments à corriger, et non d'une estimation vague.</p>"
+        },
+        {
+          "title": "Relisez les engagements avec attention",
+          "html": "<p>Avant de signer un bail, une offre ou un avant-contrat, vérifiez les montants, annexes, conditions, délais et documents. Faites-vous accompagner par un professionnel compétent lorsque le bien présente une situation juridique ou technique complexe.</p>"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quels sont les premiers critères pour choisir une maison ?",
+      "a_html": "<p>Commencez par l'emplacement, le budget global, la configuration adaptée à votre foyer et l'état technique du bâti. Ces critères ont un impact durable et se modifient difficilement. La décoration, certains équipements ou l'aménagement du jardin peuvent généralement évoluer plus facilement.</p><p>Transformez-les en critères non négociables et en préférences afin de comparer les annonces sans vous disperser.</p>"
+    },
+    {
+      "q": "Comment savoir si un quartier est agréable à vivre ?",
+      "a_html": "<p>Visitez-le à plusieurs heures, effectuez vos trajets habituels et observez les nuisances sonores, le stationnement, les commerces, les transports et les espaces extérieurs. Un échange respectueux avec des habitants ou des commerçants peut compléter votre enquête.</p><p>Pour un achat, consultez aussi les projets et règles d'urbanisme de la commune : ils peuvent influencer votre environnement futur.</p>"
+    },
+    {
+      "q": "Quels travaux faut-il vérifier en priorité dans une maison ancienne ?",
+      "a_html": "<p>Priorisez la toiture, les traces d'humidité, la structure, l'isolation, le chauffage, l'électricité, la plomberie et l'assainissement. Ce sont souvent les postes les plus coûteux ou les plus urgents, bien avant les choix esthétiques.</p><p>Les diagnostics sont une base utile. Si un doute persiste, demandez l'avis d'un professionnel indépendant et intégrez son estimation à votre budget.</p>"
+    },
+    {
+      "q": "Faut-il se fier au DPE pour choisir sa nouvelle maison ?",
+      "a_html": "<p>Le diagnostic de performance énergétique est un indicateur important pour anticiper le confort et les dépenses d'énergie, mais il ne doit pas être lu seul. Regardez le système de chauffage, l'isolation réelle, la ventilation, l'exposition et les factures disponibles lorsque c'est possible.</p><p>Un bon choix repose sur l'ensemble des informations techniques et sur un projet de rénovation chiffré si le logement est peu performant.</p>"
+    },
+    {
+      "q": "Combien prévoir en plus du prix d'achat d'une maison ?",
+      "a_html": "<p>Dans l'ancien, les frais d'acquisition représentent souvent autour de 7 à 8 % du prix, auxquels peuvent s'ajouter les frais de crédit, l'assurance, le déménagement, les équipements et les travaux. Dans le neuf, les frais d'acquisition sont généralement plus faibles.</p><p>Prévoyez aussi une réserve de sécurité : une maison révèle parfois des besoins d'entretien après l'emménagement.</p>"
+    },
+    {
+      "q": "Peut-on faire une offre sur une maison avant d'avoir tous les documents ?",
+      "a_html": "<p>Il est plus prudent de demander les informations essentielles avant de vous engager : diagnostics, éléments sur les charges et travaux, taxe foncière, servitudes éventuelles et règles pertinentes pour votre projet. Une offre acceptée ou un avant-contrat peut entraîner des engagements importants.</p><p>Si vous avancez malgré tout, encadrez soigneusement les conditions nécessaires à votre projet, notamment le financement lorsque vous recourez à un prêt, et faites relire les documents en cas de doute.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Choisir sa nouvelle maison, c'est faire coïncider un lieu, un budget et un mode de vie. En préparant vos critères, en visitant avec méthode et en chiffrant les travaux avant de vous engager, vous transformez une recherche parfois stressante en décision maîtrisée.</p><p>Gardez cette règle simple : privilégiez un bien sain, bien situé et compatible avec votre budget réel. Le coup de cœur peut alors devenir un projet durable, plutôt qu'une source de compromis subis.</p>",
+  "__slug": "guide-taches-quotidiennes-comment-choisir-sa-nouvelle-maison"
+}

@@ -1,0 +1,214 @@
+{
+  "title": "Protection des données personnelles en entreprise : les bases pour agir selon le RGPD",
+  "meta_description": "Protégez les données personnelles de votre entreprise : obligations RGPD, sécurité, plan d'action et erreurs à éviter au quotidien.",
+  "reading_time_min": 12,
+  "hero_intro": "Clients, salariés, candidats, prospects : toute entreprise traite des données personnelles, souvent sans mesurer l'étendue de ses responsabilités. Protéger ces informations ne consiste pas seulement à installer un antivirus ou à faire signer une politique de confidentialité. C'est une démarche concrète qui mêle organisation, conformité RGPD, outils de sécurité et habitudes quotidiennes.",
+  "key_takeaways": [
+    "Une donnée personnelle permet d'identifier une personne, directement ou indirectement : un e-mail professionnel, une adresse IP ou un identifiant client peuvent être concernés.",
+    "Le RGPD impose de collecter uniquement les données utiles, de les sécuriser, de justifier leur usage et de respecter les droits des personnes.",
+    "La gestion des accès, l'authentification multifacteur, les sauvegardes testées et la formation des équipes réduisent fortement les risques les plus courants.",
+    "Un incident doit être préparé avant de se produire : il faut pouvoir le détecter, le contenir, le documenter et, dans certains cas, le notifier rapidement.",
+    "La conformité ne se règle pas avec un document unique : elle se pilote dans le temps, avec un registre, des revues et des décisions traçables."
+  ],
+  "toc": [
+    "Ce qui compte comme donnée personnelle en entreprise",
+    "RGPD : obligations, principes et responsabilités",
+    "Conformité RGPD et cybersécurité : deux démarches complémentaires",
+    "Le plan d'action pour protéger les données personnelles",
+    "Les mesures techniques qui font réellement la différence",
+    "Sous-traitants, conservation et incidents : les zones à ne pas négliger",
+    "Installer une culture durable de la protection des données"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Ce qui compte comme donnée personnelle en entreprise",
+      "html": "<p>Une donnée personnelle est toute information se rapportant à une personne physique identifiée ou identifiable. Le nom et le numéro de téléphone en font évidemment partie, mais la notion est beaucoup plus large : adresse e-mail professionnelle nominative, identifiant de connexion, numéro de badge, photo, données de localisation, adresse IP, enregistrement d'appel ou combinaison d'informations permettant de retrouver une personne.</p><p>Dans une entreprise, ces données circulent partout : logiciel de paie, CRM, messagerie, formulaires de contact, vidéosurveillance, outil de recrutement, boutique en ligne ou fichiers Excel partagés. Le premier réflexe utile est donc de ne pas limiter le sujet aux seules données clients. Les données des salariés, intérimaires, candidats, fournisseurs et contacts B2B doivent aussi être prises en compte.</p><p>Certaines informations exigent une vigilance renforcée. Les données de santé, les données biométriques, les opinions politiques, les convictions religieuses, l'origine supposée ou l'appartenance syndicale relèvent notamment de catégories particulières au sens du RGPD. Leur traitement est en principe interdit, sauf exceptions strictement encadrées. Un simple arrêt de travail ou un justificatif médical transmis au mauvais service peut ainsi créer un risque important.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Le bon réflexe : cartographier avant de sécuriser",
+      "points": [
+        "Listez les outils, dossiers, applications et prestataires qui hébergent ou manipulent des données personnelles.",
+        "Pour chaque traitement, identifiez les personnes concernées, les données collectées, la finalité, les destinataires et le lieu d'hébergement.",
+        "Distinguez les données réellement nécessaires de celles collectées « au cas où ».",
+        "Repérez en priorité les accès administrateurs, les fichiers exportés et les données sensibles.",
+        "Désignez un responsable interne capable de coordonner les actions, même si l'entreprise n'a pas l'obligation de nommer un DPO."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Données personnelles : exemples et niveau de vigilance",
+      "intro": "La sensibilité ne dépend pas uniquement du format du fichier, mais du contexte, du volume traité et des conséquences possibles pour les personnes.",
+      "columns": [
+        "Type de donnée",
+        "Exemples en entreprise",
+        "Vigilance à appliquer"
+      ],
+      "rows": [
+        [
+          "Données d'identification",
+          "Nom, e-mail, téléphone, adresse, identifiant client",
+          "Limiter les destinataires, sécuriser les exports et fixer une durée de conservation."
+        ],
+        [
+          "Données professionnelles",
+          "Fonction, évaluation, planning, badgeuse, adresse e-mail nominative",
+          "Prévoir des accès par rôle et informer clairement les salariés."
+        ],
+        [
+          "Données financières",
+          "RIB, factures nominatives, historique d'achat, salaire",
+          "Contrôler strictement les droits, tracer les accès sensibles et éviter les envois non chiffrés."
+        ],
+        [
+          "Données sensibles ou très intimes",
+          "Santé, handicap, biométrie, appartenance syndicale",
+          "Vérifier la base légale et les conditions spécifiques avant tout traitement ; restreindre fortement l'accès."
+        ],
+        [
+          "Données techniques",
+          "Adresse IP, cookies, logs, identifiant d'appareil, géolocalisation",
+          "Ne pas les considérer comme anonymes par défaut ; encadrer leur usage et leur durée de conservation."
+        ]
+      ],
+      "note": "Une donnée pseudonymisée reste généralement une donnée personnelle si l'entreprise peut rétablir le lien avec la personne."
+    },
+    {
+      "type": "prose",
+      "heading": "RGPD : obligations, principes et responsabilités",
+      "html": "<p>Le RGPD s'applique aux organisations qui traitent des données de personnes situées dans l'Union européenne, y compris à de nombreuses TPE et associations. Son principe central est l'<strong>accountability</strong> : l'entreprise doit respecter les règles, mais aussi être capable de démontrer qu'elle les respecte. Une politique interne non appliquée ou un registre incomplet ne suffisent donc pas.</p><p>Chaque traitement doit avoir une finalité précise et une base juridique adaptée. Le consentement est utile dans certains cas, notamment pour des communications marketing ou des cookies non essentiels, mais il n'est pas la réponse universelle. L'exécution d'un contrat, une obligation légale, l'intérêt légitime après mise en balance des intérêts, ou la sauvegarde d'intérêts vitaux peuvent également justifier un traitement selon la situation.</p><p>Les grands principes à appliquer sont simples à énoncer et exigeants à mettre en œuvre : licéité et transparence, finalité déterminée, minimisation des données, exactitude, durée de conservation limitée, intégrité et confidentialité. Concrètement, ne demandez pas la date de naissance sur un formulaire si elle n'est pas utile, ne conservez pas indéfiniment les CV non retenus et expliquez aux personnes ce que vous faites de leurs informations.</p><p>Le responsable de traitement décide des finalités et des moyens essentiels du traitement. Un prestataire qui héberge une application, gère une paie ou envoie des e-mails pour son compte est souvent un sous-traitant. Cette relation doit être encadrée par un contrat comportant les garanties exigées par le RGPD. Dans certains cas, la désignation d'un délégué à la protection des données, ou DPO, est obligatoire ; elle peut aussi être une décision pertinente pour structurer une démarche complexe.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Conformité RGPD et cybersécurité : ne choisissez pas entre les deux",
+      "intro": "Ces démarches se recoupent, mais elles ne répondent pas exactement à la même question. Une entreprise peut être techniquement bien protégée tout en collectant trop de données, ou être conforme sur le papier sans avoir sécurisé ses accès.",
+      "left": {
+        "title": "La conformité RGPD",
+        "points": [
+          "Détermine si la collecte et l'utilisation des données sont légitimes, nécessaires et transparentes.",
+          "Organise l'information des personnes, leurs droits, les durées de conservation et la documentation.",
+          "Couvre les relations avec les sous-traitants, les transferts de données et la gouvernance.",
+          "Pose la question : « Avons-nous le droit de traiter cette donnée de cette manière ? »"
+        ]
+      },
+      "right": {
+        "title": "La cybersécurité",
+        "points": [
+          "Protège les systèmes, comptes, postes de travail, réseaux et sauvegardes contre les accès non autorisés.",
+          "Met en œuvre des mesures techniques et organisationnelles : MFA, mises à jour, chiffrement, journalisation, sauvegardes.",
+          "Réduit les risques de phishing, rançongiciel, erreur humaine, vol d'équipement ou défaut de configuration.",
+          "Pose la question : « Pouvons-nous empêcher, détecter et contenir une compromission ? »"
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Le plan d'action en 7 étapes pour une entreprise",
+      "intro": "Il n'est pas nécessaire de tout transformer en une semaine. Commencez par les risques les plus élevés, documentez les décisions et progressez par cycles courts.",
+      "steps": [
+        {
+          "title": "1. Désigner un pilote et obtenir l'appui de la direction",
+          "html": "<p>Attribuez clairement la coordination à une personne ou à une petite équipe : direction, responsable administratif, DSI, RSSI ou DPO selon la taille de la structure. Sans arbitrage de la direction, les règles d'accès et les budgets de sécurité restent souvent théoriques.</p>"
+        },
+        {
+          "title": "2. Créer ou remettre à jour le registre des traitements",
+          "html": "<p>Recensez les activités : gestion clients, RH, paie, prospection, recrutement, vidéosurveillance, support, facturation. Pour chacune, consignez notamment la finalité, la base juridique, les catégories de données, les destinataires, les durées de conservation et les mesures de sécurité.</p>"
+        },
+        {
+          "title": "3. Réduire les données et définir des durées de conservation",
+          "html": "<p>Supprimez les champs inutiles des formulaires, archivez les dossiers clos et paramétrez des purges lorsque cela est possible. La conservation ne doit pas être dictée par la simple capacité de stockage : elle doit répondre à un besoin opérationnel ou légal identifié.</p>"
+        },
+        {
+          "title": "4. Assainir les comptes et les droits d'accès",
+          "html": "<p>Appliquez le principe du moindre privilège : chacun accède uniquement à ce dont il a besoin pour travailler. Supprimez rapidement les comptes des départs, évitez les identifiants partagés et vérifiez régulièrement les droits administrateurs.</p>"
+        },
+        {
+          "title": "5. Mettre en place les protections prioritaires",
+          "html": "<p>Activez l'authentification multifacteur sur la messagerie, le VPN, les comptes administrateurs et les outils cloud. Maintenez les logiciels à jour, sauvegardez les données importantes et sécurisez les ordinateurs portables ainsi que les appareils mobiles.</p>"
+        },
+        {
+          "title": "6. Encadrer les prestataires et les nouveaux outils",
+          "html": "<p>Avant d'adopter un logiciel de CRM, d'IA, de paie ou de stockage, vérifiez les données envoyées, les conditions contractuelles, les sous-traitants ultérieurs, la localisation de l'hébergement et les options de suppression. Préférez une validation avant achat plutôt qu'une régularisation difficile après déploiement.</p>"
+        },
+        {
+          "title": "7. Tester, former et corriger",
+          "html": "<p>Organisez des rappels réguliers sur le phishing, les mots de passe, le partage de documents et la remontée d'incidents. Contrôlez ensuite ce qui fonctionne réellement : test de restauration, revue des accès, exercice de gestion de crise ou audit ciblé.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Priorité n° 1 pour la plupart des petites entreprises",
+      "html": "<p>Si vous devez agir immédiatement, commencez par la messagerie : activez la double authentification, interdisez les comptes partagés, vérifiez les règles de transfert automatique et formez les équipes au phishing. La boîte e-mail est souvent la porte d'entrée vers les factures, les mots de passe réinitialisés, les documents RH et les données clients.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les mesures techniques qui font réellement la différence",
+      "html": "<p>Les outils ne remplacent pas une organisation, mais quelques mesures ont un excellent rapport effort-bénéfice. L'authentification multifacteur limite l'impact d'un mot de passe volé. Un gestionnaire de mots de passe facilite l'usage de mots de passe longs et uniques. Les mises à jour rapides réduisent l'exposition aux vulnérabilités connues. Enfin, la séparation des comptes standards et administrateurs évite qu'une erreur quotidienne ouvre l'accès à tout le système.</p><p>Le chiffrement est utile pour les ordinateurs portables, les supports mobiles, les sauvegardes et les échanges contenant des informations sensibles. Il n'est cependant pas une solution magique : une donnée chiffrée reste accessible à une personne dont le compte est compromis et déjà connecté. Il doit s'accompagner d'une bonne gestion des clés, des accès et des journaux d'activité.</p><p>Les sauvegardes méritent une attention particulière. Conservez plusieurs copies, sur des supports ou emplacements distincts, avec au moins une copie protégée contre l'altération par un rançongiciel. Surtout, testez la restauration : une sauvegarde qui ne peut pas être restaurée rapidement ne protège pas réellement l'activité.</p><p>Pour donner un ordre de grandeur, un gestionnaire de mots de passe professionnel coûte souvent quelques euros par utilisateur et par mois. Les solutions de protection des postes ou de sauvegarde sont fréquemment facturées de quelques euros à quelques dizaines d'euros par appareil ou utilisateur, selon les fonctions. Un audit technique ou un test d'intrusion représente en revanche un budget de plusieurs milliers d'euros, très variable selon le périmètre. Le meilleur investissement dépend donc des risques réels, pas de l'outil le plus sophistiqué.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Trois repères simples à inscrire dans votre feuille de route",
+      "items": [
+        {
+          "value": "1 registre",
+          "label": "pour savoir quelles données sont traitées, pourquoi et par qui."
+        },
+        {
+          "value": "2 facteurs",
+          "label": "au minimum pour protéger les comptes les plus exposés."
+        },
+        {
+          "value": "72 h",
+          "label": "délai de notification à l'autorité de contrôle lorsque la violation présente un risque pour les droits et libertés, sauf justification du retard."
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Sous-traitants, conservation et incidents : les zones à ne pas négliger",
+      "html": "<p>La chaîne de sous-traitance est une source fréquente d'angles morts. Un outil en ligne peut héberger les données dans plusieurs pays, faire intervenir d'autres prestataires ou utiliser les informations pour certaines fonctions optionnelles. Avant signature, posez des questions concrètes : quelles données seront importées, qui peut y accéder, comment les récupérer ou les effacer, où sont-elles hébergées et quelles garanties s'appliquent en cas de transfert hors de l'Espace économique européen ?</p><p>La durée de conservation doit être définie par catégorie de données. Elle peut découler d'une obligation légale, d'une nécessité contractuelle ou d'un intérêt opérationnel justifié. À l'issue de cette période, supprimez, anonymisez ou archivez de manière sécurisée si une conservation intermédiaire est légalement nécessaire. Le réflexe « on garde tout, cela peut servir » est incompatible avec le principe de minimisation.</p><p>Préparez également un plan de réponse aux incidents. Il doit préciser qui alerte qui, comment isoler un poste ou un compte, qui contacte le prestataire informatique, où retrouver les preuves et qui valide la communication. En cas de violation de données personnelles susceptible d'engendrer un risque pour les droits et libertés des personnes, une notification à la CNIL doit en principe intervenir dans les 72 heures après en avoir pris connaissance. Si le risque est élevé, les personnes concernées doivent aussi être informées, sauf exceptions. Même lorsqu'aucune notification n'est requise, l'incident doit être documenté.</p><p>Les ressources pratiques de la <a href=\"https://www.cnil.fr/fr/comprendre-le-rgpd\">CNIL sur le RGPD</a> constituent un point de départ fiable pour les organisations françaises. En présence de données sensibles, de traitements à grande échelle, de surveillance systématique ou d'un incident majeur, solliciter un DPO ou un conseil spécialisé permet d'éviter des décisions hasardeuses.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les erreurs qui fragilisent le plus souvent une organisation",
+      "html": "<ul><li>Utiliser une même boîte e-mail ou un même mot de passe pour toute une équipe.</li><li>Envoyer des fichiers RH, bancaires ou médicaux par e-mail sans vérifier les destinataires ni sécuriser le partage.</li><li>Laisser actifs les comptes d'anciens salariés, stagiaires ou prestataires.</li><li>Déployer un outil cloud ou d'intelligence artificielle sans savoir quelles données y sont versées.</li><li>Confondre information des personnes et consentement : afficher une mention ne rend pas automatiquement tout traitement licite.</li><li>Attendre une fuite de données pour réfléchir aux contacts, aux sauvegardes et à la procédure d'urgence.</li></ul>"
+    },
+    {
+      "type": "prose",
+      "heading": "Installer une culture durable de la protection des données",
+      "html": "<p>La protection des données devient efficace lorsqu'elle s'insère dans les gestes ordinaires : demander si une donnée est nécessaire avant de créer un champ, choisir un lien de partage avec expiration plutôt qu'une pièce jointe sensible, signaler sans crainte un e-mail suspect, fermer les accès dès la fin d'une mission. Une politique claire doit être courte, compréhensible et traduite en procédures concrètes.</p><p>Planifiez une revue au moins annuelle, et à chaque changement important : lancement d'un nouveau service, fusion, déménagement dans le cloud, déploiement d'une solution d'IA, ouverture d'un nouveau pays ou incident de sécurité. Les traitements, les équipes et les menaces évoluent ; votre registre, vos contrats et vos mesures de sécurité doivent évoluer au même rythme.</p><p>L'objectif n'est pas d'atteindre une perfection abstraite, mais de réduire méthodiquement les risques et de pouvoir justifier vos choix. Une entreprise qui connaît ses données, limite leurs usages, protège ses accès et réagit avec méthode inspire davantage confiance à ses salariés, clients et partenaires.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelles données personnelles une entreprise doit-elle protéger ?",
+      "a_html": "<p>Toutes les informations relatives à une personne physique identifiable doivent être protégées : données clients, salariés, candidats, prospects, fournisseurs ou visiteurs. Cela inclut les coordonnées, identifiants, données de connexion, photos, informations de paiement, données de géolocalisation et parfois les données techniques comme l'adresse IP.</p><p>Les données de santé, biométriques, syndicales ou révélant d'autres informations très personnelles nécessitent des précautions supplémentaires et ne peuvent être traitées que dans des conditions particulières.</p>"
+    },
+    {
+      "q": "Une petite entreprise est-elle concernée par le RGPD ?",
+      "a_html": "<p>Oui. Le RGPD ne dépend pas d'un seuil minimal de chiffre d'affaires ou d'effectif : une TPE qui gère des clients, des salariés ou des prospects traite généralement des données personnelles. Les obligations doivent être proportionnées aux risques et à l'activité, mais elles existent.</p><p>Une petite structure peut commencer par un registre simple, la sécurisation des accès, des mentions d'information claires, des durées de conservation et une procédure d'incident adaptée.</p>"
+    },
+    {
+      "q": "Le consentement est-il toujours obligatoire pour collecter des données ?",
+      "a_html": "<p>Non. Le consentement n'est qu'une des bases juridiques possibles. Une entreprise peut par exemple traiter des données nécessaires à l'exécution d'un contrat, à une obligation légale ou, dans certaines situations, à son intérêt légitime après avoir vérifié que les droits des personnes ne prévalent pas.</p><p>Le consentement doit être libre, spécifique, éclairé et révocable. Il est inadapté lorsqu'une personne ne peut pas réellement refuser sans conséquence, par exemple dans de nombreuses relations de travail.</p>"
+    },
+    {
+      "q": "Faut-il obligatoirement nommer un DPO ?",
+      "a_html": "<p>Non, pas dans toutes les entreprises. La désignation est notamment obligatoire pour les autorités et organismes publics, ainsi que pour certaines organisations dont l'activité principale implique un suivi régulier et systématique des personnes à grande échelle, ou le traitement à grande échelle de catégories particulières de données.</p><p>Même sans obligation, un DPO interne ou externe peut être utile lorsque les traitements sont nombreux, sensibles ou peu maîtrisés. Son rôle est d'informer, conseiller et accompagner la conformité ; il ne transfère pas à lui seul toute la responsabilité de l'entreprise.</p>"
+    },
+    {
+      "q": "Que faire immédiatement en cas de fuite ou de piratage de données ?",
+      "a_html": "<p>Commencez par contenir l'incident : désactivez ou réinitialisez les comptes compromis, isolez les équipements concernés si nécessaire et contactez votre prestataire informatique ou équipe de sécurité. Conservez les éléments utiles à l'analyse, sans effacer précipitamment les traces.</p><p>Évaluez ensuite les données concernées, les personnes touchées, la cause et les conséquences possibles. Documentez l'incident et examinez rapidement l'obligation de notification à la CNIL, généralement dans les 72 heures lorsqu'il existe un risque pour les droits et libertés des personnes.</p>"
+    },
+    {
+      "q": "Combien coûte la mise en conformité RGPD d'une entreprise ?",
+      "a_html": "<p>Le coût varie selon la taille, les outils déjà en place, le volume de données et le niveau de risque. Une petite structure peut réaliser une part importante du travail en interne avec du temps de coordination, des outils de gestion des mots de passe et de sauvegarde, puis demander un accompagnement ponctuel pour les sujets complexes.</p><p>Un audit, une mission de DPO externe ou un test technique peuvent représenter un budget allant de quelques centaines à plusieurs milliers d'euros selon le périmètre. Il est souvent plus pertinent de financer d'abord les protections prioritaires et la cartographie des traitements que d'acheter une solution lourde sans stratégie.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Protéger les données personnelles en entreprise, c'est faire coïncider trois exigences : <strong>ne collecter que ce qui est utile</strong>, <strong>sécuriser réellement ce qui est conservé</strong> et <strong>rester transparent avec les personnes concernées</strong>. Commencez par cartographier vos traitements, activez les protections essentielles sur les comptes et formalisez votre réponse aux incidents.</p><p>Cette démarche avance pas à pas. Chaque formulaire simplifié, chaque compte supprimé à temps et chaque collaborateur mieux formé réduit le risque tout en renforçant la confiance dans votre entreprise.</p>",
+  "__slug": "les-bases-de-la-protection-des-donnees-personnelles-en-entreprise"
+}

@@ -1,0 +1,223 @@
+{
+  "title": "5 overlays gratuits pour dynamiser un TikTok Live gaming",
+  "meta_description": "5 overlays gratuits pour un TikTok Live gaming : créez une identité visuelle lisible, animez votre direct et fidélisez vos viewers sans budget.",
+  "reading_time_min": 9,
+  "hero_intro": "Un bon TikTok Live gaming ne se résume pas à une capture de jeu et à une webcam. Les overlays donnent des repères, mettent en scène les moments clés et aident les nouveaux spectateurs à comprendre votre univers en quelques secondes. Voici cinq superpositions gratuites, simples à créer et à intégrer, pour raconter votre live sans surcharger l'écran.",
+  "key_takeaways": [
+    "Privilégiez une mise en page verticale 9:16, conçue pour laisser le jeu, le chat et les informations TikTok respirer sur mobile.",
+    "Les cinq overlays les plus utiles sont souvent les plus simples : écran d'attente, cadre gameplay, alertes, objectif communautaire et écran de pause ou de fin.",
+    "Un overlay gratuit devient personnel avec trois éléments cohérents : une palette de deux ou trois couleurs, une typographie lisible et un pseudo ou un logo discret.",
+    "Avant de lancer un live, testez toujours le rendu sur un téléphone : un visuel parfait dans OBS peut être trop petit ou masqué dans l'application TikTok.",
+    "Vérifiez les conditions de licence de chaque ressource, surtout pour les polices, illustrations, musiques et fichiers téléchargés sur des bibliothèques gratuites."
+  ],
+  "toc": [
+    "Pourquoi les overlays racontent votre live gaming",
+    "Les 5 overlays gratuits à installer en priorité",
+    "Composer un écran vertical lisible pour TikTok Live",
+    "Overlay statique ou animé : que choisir ?",
+    "Installer un overlay dans OBS Studio ou TikTok Live Studio",
+    "Trouver ou créer des ressources gratuites sans erreur de licence",
+    "Faire évoluer son habillage sans perdre son identité visuelle"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi les overlays racontent votre live gaming",
+      "html": "<p>Sur TikTok Live, un spectateur peut arriver au milieu d'une partie, sans savoir qui vous êtes, quel jeu vous lancez ni ce que vous cherchez à accomplir. L'overlay joue alors un rôle très concret : il donne le contexte immédiatement. Un bandeau « ranked jusqu'à diamant », un compteur de victoires ou un objectif de défi transforme une simple session de jeu en histoire que l'on a envie de suivre.</p><p>Le storytelling visuel ne demande pas un habillage digne d'une émission e-sport. Il consiste surtout à organiser les informations dans le bon ordre : <strong>ce que vous jouez, ce qui se passe maintenant et la raison de rester</strong>. Votre écran doit soutenir l'action, pas la concurrencer. Une partie intense de FPS réclame par exemple une interface discrète ; un live de simulation, de jeu de cartes ou de défi communautaire peut accueillir davantage d'indications.</p><p>Les overlays sont aussi utiles quand vous ne parlez pas en continu. Un titre de live, une règle de défi et un objectif lisible permettent aux visiteurs de comprendre votre proposition sans attendre une explication. C'est particulièrement précieux en format vertical, où l'attention est rapide et l'espace très limité.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les règles d'or avant de télécharger le moindre pack",
+      "points": [
+        "Ne partez pas d'un pack complet : choisissez d'abord une fonction précise pour chaque élément affiché.",
+        "Gardez le centre de l'écran pour l'action importante du jeu et évitez d'encadrer toute l'image avec des bordures épaisses.",
+        "Employez une seule police de caractère pour les titres et, au besoin, une seconde pour les informations chiffrées.",
+        "Préparez une version sans webcam si votre visage masque une mini-carte, un score ou des sous-titres importants.",
+        "Testez la lisibilité avec le téléphone tenu à bout de bras, pas uniquement sur votre écran d'ordinateur."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les 5 overlays gratuits les plus utiles pour un live gaming",
+      "intro": "Vous pouvez réaliser ces cinq formats avec des formes, du texte et des images libres d'utilisation dans un éditeur comme Canva, Photopea ou un logiciel de votre choix. Exportez les éléments fixes en PNG transparent ; les animations peuvent être ajoutées plus tard si elles apportent vraiment quelque chose.",
+      "columns": [
+        "Overlay",
+        "Ce qu'il raconte",
+        "Version gratuite facile à créer",
+        "Bon emplacement en 9:16"
+      ],
+      "rows": [
+        [
+          "Écran « bientôt en live »",
+          "Le jeu, l'horaire ou le défi qui va commencer ; il installe l'ambiance avant la partie.",
+          "Un fond aux couleurs de votre chaîne, votre pseudo, le jeu du jour et une phrase courte comme « Défi 10 victoires ».",
+          "Centre ou tiers supérieur, avec une zone dégagée pour le chat selon votre configuration."
+        ],
+        [
+          "Cadre gameplay minimal",
+          "Votre identité pendant l'action, sans cacher les informations du jeu.",
+          "Deux filets fins, un petit cartouche avec le nom du jeu et un emplacement webcam optionnel.",
+          "Bords extérieurs ; laissez le centre et les coins stratégiques du jeu visibles."
+        ],
+        [
+          "Alerte d'interaction",
+          "Un moment de reconnaissance lorsqu'un viewer s'abonne, envoie un cadeau ou participe au défi.",
+          "Une icône, un prénom récupéré par votre outil d'alerte et une animation de texte très brève.",
+          "Haut ou bas de l'écran, jamais sur le viseur, la mini-carte ou les sous-titres."
+        ],
+        [
+          "Objectif communautaire",
+          "Une progression à laquelle le chat peut contribuer : victoires, manches, défi ou palier de followers.",
+          "Une barre de progression et un libellé précis : « 4/10 victoires avant minuit ».",
+          "Bandeau fin en haut ou colonne latérale si le jeu le permet."
+        ],
+        [
+          "Écran pause ou fin de live",
+          "Ce qui se passe lorsque vous vous absentez et ce que les viewers peuvent faire ensuite.",
+          "Un message « Pause 3 min » ou « Merci, prochain live demain », accompagné de votre pseudo.",
+          "Plein écran ou scène dédiée ; c'est l'un des rares moments où vous pouvez occuper davantage d'espace."
+        ]
+      ],
+      "note": "Astuce : commencez par les écrans d'attente et de fin. Ils améliorent tout de suite la cohérence du direct, sans risquer de masquer l'interface du jeu."
+    },
+    {
+      "type": "prose",
+      "heading": "Composer un écran vertical lisible pour TikTok Live",
+      "html": "<p>Le piège classique consiste à reprendre tel quel un overlay prévu pour Twitch ou YouTube en 16:9. Sur TikTok, l'image est généralement pensée pour le portrait. Si vous affichez un jeu horizontal dans une toile 9:16, vous aurez des zones libres au-dessus et au-dessous, ou une capture recadrée. C'est dans ces espaces que les titres, objectifs et webcam peuvent trouver leur place avec le moins de gêne possible.</p><p>Commencez avec une toile de <strong>1 080 × 1 920 pixels</strong>. Importez une capture réelle de votre jeu, puis placez votre caméra, vos textes et vos alertes autour des éléments indispensables : viseur, points de vie, cartes, sous-titres, inventaire ou tableau de score. Il n'existe pas de zone sûre universelle, car les interfaces et les options de TikTok évoluent ; ouvrez donc un test privé ou non répertorié si cette option vous est proposée, et regardez le résultat depuis un second téléphone.</p><p>Pour le texte, recherchez le contraste avant l'effet visuel. Un texte clair sur un aplat sombre semi-transparent, une phrase courte et une taille généreuse restent souvent plus efficaces que des néons, contours et ombres cumulés. Un viewer doit pouvoir lire votre défi en une seconde, même si son écran est petit et la luminosité faible.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Overlay statique ou animé : quelle approche pour débuter ?",
+      "intro": "Les deux options peuvent fonctionner. Le bon choix dépend surtout du rythme du jeu, de votre matériel et de votre capacité à garder l'écran propre.",
+      "left": {
+        "title": "Overlay statique (PNG transparent)",
+        "points": [
+          "Très léger pour l'ordinateur et simple à installer dans une scène.",
+          "Idéal pour un cadre gameplay, un titre de défi ou un écran de pause.",
+          "Facile à modifier rapidement quand vous changez de jeu ou de saison.",
+          "Moins spectaculaire : la personnalité doit venir des couleurs, des messages et de votre animation en direct."
+        ]
+      },
+      "right": {
+        "title": "Overlay animé (vidéo ou source navigateur)",
+        "points": [
+          "Attire l'oeil lors d'une alerte, d'un palier atteint ou d'une transition de scène.",
+          "Peut afficher automatiquement un compteur ou un nom via un widget compatible.",
+          "Demande des tests supplémentaires : son, transparence, boucle, processeur et connexion.",
+          "À réserver aux moments courts ; une animation permanente fatigue vite et détourne de la partie."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Installer un overlay dans OBS Studio ou TikTok Live Studio",
+      "intro": "La méthode exacte dépend de votre accès à la diffusion et de l'outil choisi. Les sources d'image fonctionnent dans OBS Studio comme dans de nombreux logiciels de live ; les widgets en ligne utilisent le plus souvent une source navigateur.",
+      "steps": [
+        {
+          "title": "Créez une scène par moment du live",
+          "html": "<p>Préparez au minimum trois scènes : <strong>attente</strong>, <strong>jeu</strong> et <strong>pause ou fin</strong>. Vous éviterez de déplacer des éléments en urgence devant vos spectateurs. Nommez clairement vos sources : « jeu », « webcam », « objectif », « alerte ».</p>"
+        },
+        {
+          "title": "Réglez la toile avant de placer les visuels",
+          "html": "<p>Dans les paramètres vidéo, travaillez en portrait si votre méthode de diffusion le permet, par exemple en 1 080 × 1 920. Ajoutez ensuite la capture du jeu et adaptez-la à votre composition, plutôt que de créer un overlay avant de connaître l'espace disponible.</p>"
+        },
+        {
+          "title": "Ajoutez un PNG transparent ou une vidéo",
+          "html": "<p>Dans OBS Studio, ajoutez une source <strong>Image</strong> pour un PNG ou une source <strong>Média</strong> pour une animation exportée en vidéo. Placez-la au-dessus de la capture de jeu dans la liste des sources. Verrouillez-la une fois positionnée pour éviter un déplacement accidentel.</p>"
+        },
+        {
+          "title": "Ajoutez un widget si vous utilisez des alertes",
+          "html": "<p>Un outil d'alertes fournit généralement une URL propre à votre compte. Ajoutez-la comme source <strong>Navigateur</strong> dans OBS, puis définissez ses dimensions et testez-la hors ligne. Ne communiquez jamais cette URL si elle donne accès à des réglages personnels ou à un tableau de bord.</p>"
+        },
+        {
+          "title": "Contrôlez sur mobile avant le premier vrai direct",
+          "html": "<p>Faites un essai avec le son du jeu, le micro, une alerte et votre webcam. Vérifiez que le texte est lisible, qu'aucun élément essentiel n'est caché et que votre ordinateur ne perd pas d'images. Selon votre situation, vous pouvez diffuser via TikTok Live Studio ou avec un logiciel et une méthode de connexion autorisés par TikTok ; les fonctions disponibles varient selon les comptes et les régions.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne laissez pas l'overlay gagner contre le jeu",
+      "html": "<p>Un cadre trop chargé peut réduire la qualité perçue de votre live, même s'il est très bien dessiné. Limitez-vous à une information principale par zone : un objectif, une alerte ou un titre. Si la mini-carte, les sous-titres ou les commandes de votre jeu sont cachés, créez une variante dédiée au jeu concerné plutôt que de forcer le même modèle partout.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Où trouver des ressources gratuites et les utiliser correctement",
+      "html": "<p>Pour créer une base gratuite, les éditeurs graphiques qui proposent des modèles et éléments libres dans leur formule de base sont pratiques pour un écran d'attente, un bandeau ou une barre de progression. Vous pouvez aussi consulter les sections gratuites de créateurs d'overlays, les communautés de streaming et certaines bibliothèques de fichiers. Préférez les fichiers PNG avec fond transparent pour les cadres fixes et les vidéos avec canal alpha uniquement si votre logiciel les gère correctement.</p><p>La gratuité ne signifie pas toujours « utilisable sans condition ». Lisez la licence associée au téléchargement : certains packs demandent une attribution, interdisent la revente ou limitent l'usage commercial. Vérifiez également les droits sur les personnages de jeux, logos d'équipes, illustrations et polices. Créer un décor inspiré d'une ambiance cyberpunk est plus sûr que reprendre un visuel officiel ou un personnage protégé.</p><p>Les plateformes de widgets et d'alertes peuvent proposer des offres gratuites, mais leurs catalogues, intégrations et conditions changent. Avant de bâtir tout votre habillage autour d'un service, vérifiez qu'il est compatible avec votre outil de diffusion, qu'il peut s'afficher dans une source navigateur et qu'il ne vous impose pas un filigrane ou une fonction premium pour l'usage visé.</p><p>Enfin, ne donnez jamais vos identifiants TikTok à un site inconnu pour télécharger un simple fichier. Un PNG n'a pas besoin d'accéder à votre compte. Utilisez les connexions officielles uniquement lorsque vous souhaitez relier un service reconnu à vos alertes ou à vos données de live.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Personnaliser un template en moins d'une heure",
+      "points": [
+        "Choisissez une palette de trois tons maximum : une couleur sombre, une couleur claire et une couleur d'accent.",
+        "Remplacez tous les textes génériques par votre pseudo, le nom exact du défi et une formulation qui vous ressemble.",
+        "Créez deux variantes du cadre gameplay : une avec webcam, une sans webcam lorsque l'interface du jeu est dense.",
+        "Utilisez des noms de fichiers explicites, par exemple « overlay-jeu-sans-cam.png », pour éviter les erreurs de scène.",
+        "Conservez votre fichier source modifiable : vous pourrez changer le jeu, une date ou un objectif sans recommencer le design."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Faire vivre votre storytelling au fil du direct",
+      "intro": "L'overlay est plus efficace quand il accompagne des séquences identifiables. Vous n'avez pas besoin de tout afficher en même temps : changez de scène à des moments logiques.",
+      "steps": [
+        {
+          "title": "Accueillez avec une promesse claire",
+          "html": "<p>Sur l'écran d'attente, annoncez le jeu et le fil rouge du live : classement, découverte, défi, tournoi entre amis ou objectif communautaire. Une seule phrase suffit.</p>"
+        },
+        {
+          "title": "Affichez le défi pendant le gameplay",
+          "html": "<p>Gardez un petit compteur ou une barre de progression. À chaque victoire, manche terminée ou palier atteint, mettez-le à jour et verbalisez ce qui change. Le chat comprend immédiatement comment participer à l'aventure.</p>"
+        },
+        {
+          "title": "Célébrez sans interrompre l'action",
+          "html": "<p>Déclenchez une alerte courte lorsqu'un moment important arrive : nouvel abonnement, objectif atteint ou score exceptionnel. Si une alerte gêne un passage décisif, privilégiez une animation discrète ou retardez votre remerciement de quelques secondes.</p>"
+        },
+        {
+          "title": "Terminez avec une prochaine étape",
+          "html": "<p>L'écran de fin doit donner une suite : prochain créneau, prochain objectif ou jeu à venir. C'est plus utile qu'un simple « live terminé » et cela aide les viewers à savoir pourquoi revenir.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le test le plus utile : enlever 30 % des éléments",
+      "html": "<p>Après votre première maquette, masquez temporairement un tiers des décorations. Si le live devient plus lisible sans perdre son identité, vous avez trouvé des éléments superflus. L'objectif n'est pas d'occuper tous les pixels : c'est de rendre votre jeu et votre personnalité plus faciles à suivre.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Faire évoluer son habillage sans perdre son identité visuelle",
+      "html": "<p>Un habillage cohérent n'est pas figé. Vous pouvez adapter le cadre à chaque jeu, ajouter une couleur pour un événement ou changer l'écran d'attente selon les saisons. Gardez cependant des repères récurrents : votre pseudo au même endroit, la même palette principale, la même police et une manière reconnaissable de présenter vos objectifs.</p><p>Observez aussi les signaux simples pendant vos lives. Les nouveaux viewers posent-ils souvent la même question ? Ajoutez la réponse dans un titre ou un petit bandeau. Le chat participe-t-il davantage aux objectifs de victoires qu'aux alertes visuelles ? Conservez l'objectif et simplifiez les alertes. Votre meilleur overlay est celui qui répond aux besoins réels de votre communauté, pas celui qui accumule le plus d'effets.</p><p>Vous pourrez investir plus tard dans un pack sur mesure si votre format se stabilise. Mais pour commencer, cinq écrans bien pensés, une bonne hiérarchie visuelle et des tests sur mobile produisent déjà un résultat professionnel, crédible et surtout agréable à regarder.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on utiliser des overlays gratuits sur TikTok Live ?",
+      "a_html": "<p>Oui, à condition de respecter la licence des fichiers et d'utiliser une méthode de diffusion compatible avec votre compte. Un overlay fixe est généralement un simple PNG transparent ajouté au-dessus de votre capture de jeu dans OBS Studio ou dans un autre logiciel de live.</p><p>Pour les alertes et compteurs, vérifiez que le service choisi peut fournir un widget utilisable dans une source navigateur. Les options disponibles peuvent varier selon le pays, le compte et le logiciel de diffusion TikTok utilisé.</p>"
+    },
+    {
+      "q": "Quelle est la bonne taille pour un overlay TikTok Live gaming ?",
+      "a_html": "<p>Pour un live vertical, concevez idéalement votre maquette en <strong>1 080 × 1 920 pixels</strong>, soit un ratio 9:16. Cette taille facilite les exports nets et correspond au format portrait courant.</p><p>Gardez néanmoins une marge autour des bords et testez sur l'application mobile. Les commentaires, boutons et éléments d'interface peuvent recouvrir certaines zones selon le contexte de visionnage.</p>"
+    },
+    {
+      "q": "Comment mettre un overlay sur OBS Studio ?",
+      "a_html": "<p>Créez ou ouvrez votre scène, puis ajoutez une source <strong>Image</strong> pour un fichier PNG. Placez cette source au-dessus de la capture du jeu, redimensionnez-la et verrouillez-la. Pour une animation, utilisez une source Média ; pour un widget web, une source Navigateur avec l'URL fournie par le service.</p><p>Faites toujours un enregistrement local ou un test avant le live afin de contrôler le son, la transparence et l'impact sur les performances de votre ordinateur.</p>"
+    },
+    {
+      "q": "Un overlay animé ralentit-il un stream gaming ?",
+      "a_html": "<p>Il peut le faire s'il est lourd, trop grand, lu en boucle ou combiné à beaucoup de sources animées. Une courte alerte bien optimisée a généralement moins d'impact qu'un décor vidéo permanent en haute définition.</p><p>Si vous constatez des images perdues ou une baisse de fluidité, commencez par passer aux PNG fixes, réduisez le nombre de widgets et fermez les programmes inutiles. La stabilité du jeu et du micro reste prioritaire.</p>"
+    },
+    {
+      "q": "Faut-il afficher sa webcam dans un TikTok Live de gaming ?",
+      "a_html": "<p>Ce n'est pas obligatoire. Une webcam peut renforcer la proximité, surtout pour les réactions, mais elle ne doit pas cacher une information de jeu importante. Sur certains titres très denses, un bon micro, des commentaires vivants et un overlay clair sont plus pertinents qu'une caméra mal placée.</p><p>Préparez une scène avec webcam et une autre sans webcam. Vous pourrez passer de l'une à l'autre selon le jeu, les cinématiques ou le moment du direct.</p>"
+    },
+    {
+      "q": "Puis-je utiliser des logos et personnages de jeux dans mon overlay ?",
+      "a_html": "<p>La prudence est recommandée. Les jeux, logos, personnages et visuels promotionnels sont protégés par des droits. Les règles d'utilisation peuvent différer d'un éditeur à l'autre et un usage dans un habillage de live n'est pas automatiquement autorisé.</p><p>Le choix le plus sûr consiste à créer une identité originale avec des couleurs, formes, icônes sous licence adaptée et textes personnels, plutôt que de reproduire des illustrations ou logos officiels.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour rendre un TikTok Live gaming plus mémorable, vous n'avez pas besoin d'un studio coûteux ni d'une collection d'effets. Commencez avec un écran d'attente, un cadre de jeu discret, une alerte courte, un objectif visible et un écran de fin. Puis adaptez ces cinq overlays à votre jeu, à votre matériel et surtout aux habitudes de votre chat.</p><p>La bonne question n'est pas « comment décorer mon live ? », mais <strong>« qu'est-ce que mon public doit comprendre et avoir envie de suivre ? »</strong>. En répondant à cette question avec une mise en page claire et testée sur mobile, vous posez les bases d'un direct plus professionnel, plus personnel et plus engageant.</p>",
+  "__slug": "overlays-gratuits-tiktok-gaming"
+}

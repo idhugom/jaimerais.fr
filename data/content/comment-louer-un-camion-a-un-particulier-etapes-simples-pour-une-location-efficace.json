@@ -1,0 +1,182 @@
+{
+  "title": "Louer un camion à un particulier : guide pratique, assurance et étapes",
+  "meta_description": "Louez un camion à un particulier sans mauvaise surprise : volume, tarifs, assurance, état des lieux et conseils pour un déménagement serein.",
+  "reading_time_min": 9,
+  "hero_intro": "Un canapé à récupérer, un studio à vider ou des matériaux à transporter ? Louer un camion à un particulier peut être une solution souple et souvent compétitive, à condition de ne pas choisir l'annonce au hasard. Du bon volume d'utilitaire au retour des clés, ce guide vous aide à organiser une location claire, assurée et sans frais imprévus.",
+  "key_takeaways": [
+    "Choisissez le camion selon le volume, mais aussi selon la charge utile, les dimensions de chargement et les contraintes d'accès.",
+    "Comparez le coût total : prix journalier, kilométrage inclus, assurance, franchise, dépôt de garantie, carburant et éventuels frais de retard.",
+    "Une location via une plateforme spécialisée simplifie généralement le contrat, le paiement et l'assurance ; en direct, les vérifications doivent être renforcées.",
+    "Faites un état des lieux photographié au départ comme au retour, y compris pour le niveau de carburant, le kilométrage et les équipements.",
+    "Ne roulez jamais au-delà de la charge utile et anticipez la hauteur du véhicule, les zones à faibles émissions et les conditions de stationnement."
+  ],
+  "toc": [
+    "Définir le camion adapté à son besoin",
+    "Comparer le coût et le mode de location",
+    "Réserver un utilitaire en six étapes",
+    "Vérifier l'assurance avant de prendre les clés",
+    "Charger et conduire un camion en sécurité",
+    "Restituer le véhicule sans litige"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Définir le camion adapté à son besoin",
+      "html": "<p>Avant de chercher une annonce, décrivez précisément votre trajet : adresse de départ et d'arrivée, date, durée, distance totale, passages en centre-ville et éventuels allers-retours. Un petit fourgon est pratique pour quelques meubles ou des cartons, tandis qu'un déménagement de deux ou trois pièces peut nécessiter un grand utilitaire. Si vous hésitez entre deux volumes, listez les objets les plus encombrants : lit, canapé, électroménager, armoire démontée ou vélos.</p><p>Le volume annoncé en mètres cubes est un bon point de départ, mais il ne suffit pas. Vérifiez aussi la <strong>charge utile</strong>, c'est-à-dire le poids maximal réellement transportable, la longueur utile au sol, la hauteur intérieure, la largeur entre les passages de roue et les dimensions des portes. Un camion volumineux peut être inadapté si votre meuble ne passe pas par l'ouverture arrière, ou si la rue de livraison est trop étroite.</p><p>Avec un permis B français, vous pouvez en principe conduire un utilitaire dont le poids total autorisé en charge ne dépasse pas 3,5 tonnes. Cette limite concerne le véhicule chargé, et non son seul volume. Regardez également le nombre de places assises, le type de carburant, la présence d'une caméra de recul et, pour une circulation urbaine, la vignette Crit'Air et les règles locales de zone à faibles émissions.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quel volume de camion louer pour déménager ?",
+      "intro": "Ces repères restent indicatifs : la quantité de mobilier, le niveau de démontage et le poids des objets peuvent modifier le choix.",
+      "columns": [
+        "Volume indicatif",
+        "Pour quel besoin ?",
+        "Budget journalier souvent constaté entre particuliers",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "3 à 6 m³",
+          "Cartons, petit mobilier, achats volumineux, petit studio peu meublé",
+          "30 à 70 €",
+          "Peu adapté aux grands meubles et aux longs déménagements."
+        ],
+        [
+          "8 à 12 m³",
+          "Studio complet ou petit deux-pièces, électroménager et cartons",
+          "45 à 95 €",
+          "Contrôlez la longueur de chargement pour un matelas ou un canapé."
+        ],
+        [
+          "12 à 14 m³",
+          "Deux-pièces ou déménagement avec plusieurs meubles",
+          "55 à 110 €",
+          "La charge utile peut être limitée avec des objets très lourds."
+        ],
+        [
+          "20 à 22 m³",
+          "Grand deux-pièces, trois-pièces peu chargé ou déménagement groupé",
+          "75 à 140 €",
+          "Hauteur, manœuvres, stationnement et accès aux parkings demandent plus d'attention."
+        ]
+      ],
+      "note": "Les tarifs varient fortement selon la ville, le jour de location, le kilométrage, la saison et les garanties choisies. Vérifiez toujours ce qui est inclus avant de comparer deux annonces."
+    },
+    {
+      "type": "comparison",
+      "heading": "Plateforme de location ou accord direct : quelle formule choisir ?",
+      "intro": "Les deux solutions sont possibles, mais elles ne demandent pas le même niveau de vigilance. Pour une première location, un intermédiaire spécialisé apporte souvent un cadre plus simple.",
+      "left": {
+        "title": "Via une plateforme entre particuliers",
+        "points": [
+          "Réservation, paiement et dépôt de garantie généralement encadrés par le service.",
+          "Assurance, assistance et procédure de sinistre souvent prévues, sous réserve des conditions du contrat.",
+          "Avis sur le propriétaire et sur le véhicule utiles pour évaluer le sérieux de l'annonce.",
+          "Frais de service possibles et conditions d'âge, de permis ou d'annulation propres à chaque plateforme."
+        ]
+      },
+      "right": {
+        "title": "Directement auprès du propriétaire",
+        "points": [
+          "Échange potentiellement plus souple sur les horaires, le prix ou les accessoires prêtés.",
+          "Contrat écrit indispensable : prix, dates, kilométrage, carburant, dépôt et conducteur autorisé.",
+          "Il faut s'assurer que l'assurance du propriétaire autorise bien cette location et couvre le conducteur.",
+          "Paiement et dépôt doivent être traçables ; une offre sans document ni état des lieux est à éviter."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Réserver un utilitaire en six étapes",
+      "intro": "Une réservation réussie commence avant le paiement. Prenez le temps de clarifier les conditions : quelques minutes de préparation évitent souvent les désaccords au retour.",
+      "steps": [
+        {
+          "title": "1. Fixez vos contraintes de transport",
+          "html": "<p>Notez le volume estimé, les objets lourds, la distance, les horaires de chargement et de restitution, ainsi que l'adresse exacte de stationnement. Pensez aux ascenseurs, aux rues étroites, aux barrières de parking et aux créneaux de livraison.</p>"
+        },
+        {
+          "title": "2. Comparez les annonces à coût total égal",
+          "html": "<p>Ne vous arrêtez pas au tarif affiché. Relevez le nombre de kilomètres inclus, le prix des kilomètres supplémentaires, la franchise, le montant du dépôt, les frais de service éventuels, la politique carburant et le coût d'une heure ou d'une journée de retard.</p>"
+        },
+        {
+          "title": "3. Échangez avec le propriétaire avant de confirmer",
+          "html": "<p>Demandez les dimensions utiles, la charge utile, la consommation approximative, les accessoires disponibles et les éventuelles restrictions d'usage. Confirmez aussi le lieu de remise des clés, l'heure précise et la possibilité d'ajouter un second conducteur si vous en avez besoin.</p>"
+        },
+        {
+          "title": "4. Vérifiez les conditions et les documents",
+          "html": "<p>Sur place ou dans l'espace sécurisé de la plateforme, assurez-vous que la carte grise correspond bien au véhicule, que l'assurance est valide et que le contrôle technique est à jour lorsque le véhicule y est soumis. Lisez les conditions de l'assurance avant de signer ou de valider.</p>"
+        },
+        {
+          "title": "5. Formalisez clairement la location",
+          "html": "<p>Le contrat doit identifier le véhicule, les conducteurs autorisés, les dates et horaires, le prix, le kilométrage de départ, le niveau de carburant, le dépôt, les garanties et les règles en cas d'accident. En direct, privilégiez un paiement traçable et conservez tous les échanges.</p>"
+        },
+        {
+          "title": "6. Réalisez un état des lieux complet",
+          "html": "<p>Faites le tour du camion avec le propriétaire, de préférence en plein jour. Photographiez les rayures, bosses, pare-brise, pneus, habitacle, compteur, jauge de carburant et espace de chargement. Testez les feux et vérifiez la présence des clés, papiers et équipements annoncés.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Assurance : le prix bas ne doit pas cacher une franchise élevée",
+      "html": "<p>Une assurance « incluse » ne signifie pas que vous ne paierez rien en cas de dommage. Vérifiez le montant de la <strong>franchise</strong>, les exclusions, l'assistance dépannage, la protection du conducteur et les conditions applicables aux pneus, au toit, au bas de caisse ou aux erreurs de carburant. Si vous louez directement, ne présumez jamais que l'assurance personnelle du propriétaire couvre automatiquement une location payante : demandez une confirmation claire avant de prendre la route.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Charger et conduire un camion en sécurité",
+      "html": "<p>Le jour J, répartissez le poids au plus bas et au plus près de la cloison de cabine. Les objets lourds vont au sol ; les cartons plus légers se placent au-dessus ou vers l'arrière. Utilisez des sangles d'arrimage, des couvertures et, si nécessaire, un diable. Une charge mal calée peut se déplacer au freinage, abîmer le véhicule ou devenir dangereuse pour vous.</p><p>Respectez strictement la charge utile indiquée sur les documents du véhicule. Les livres, les outils, les appareils électroménagers et les matériaux pèsent vite beaucoup plus lourd que prévu. Ne surchargez pas un petit fourgon parce qu'il semble encore avoir de la place : le poids total autorisé et la stabilité du camion restent les limites à respecter.</p><p>Au volant, anticipez davantage qu'avec une voiture. Freinage, accélération et prise de virage sont différents lorsque le véhicule est chargé. Réglez les rétroviseurs, surveillez la hauteur affichée à l'entrée des parkings, prenez les ronds-points largement et ne vous fiez pas uniquement aux capteurs de recul. En cas de panne ou d'accrochage, mettez-vous en sécurité, suivez la procédure prévue au contrat et prévenez sans tarder l'assistance, la plateforme ou le propriétaire.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs qui font grimper la facture",
+      "points": [
+        "Réserver un camion trop petit et devoir effectuer plusieurs trajets, ou trop grand sans pouvoir le garer près du logement.",
+        "Oublier de comparer le kilométrage inclus avec la distance réelle, y compris les détours et retours à vide.",
+        "Partir sans photos datées ni vérification de la jauge de carburant et du compteur.",
+        "Transporter une charge qui dépasse la charge utile ou laisser les meubles non arrimés.",
+        "Restituer en retard, avec moins de carburant ou dans un état de propreté contraire aux conditions convenues.",
+        "Laisser conduire une personne non déclarée au contrat ou non autorisée par l'assurance."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Restituer le véhicule sans litige",
+      "html": "<p>Prévoyez une marge à la fin de votre journée : un embouteillage, une station-service occupée ou un dernier carton oublié peuvent suffire à vous mettre en retard. Faites le plein selon la règle convenue, retirez vos affaires de la cabine et de l'espace de chargement, puis rendez le camion à l'heure et au lieu prévus. Si un imprévu survient, prévenez immédiatement le propriétaire via un canal qui laisse une trace.</p><p>Au retour, réalisez un second état des lieux contradictoire. Comparez les photos, le kilométrage, le carburant et l'état de la carrosserie avec ceux du départ. Signalez honnêtement tout incident, même mineur : tenter de le dissimuler complique généralement la gestion du dossier. Une fois la restitution validée, vérifiez les modalités de libération ou de remboursement du dépôt de garantie et conservez le récapitulatif de location.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Checklist à garder sur son téléphone",
+      "html": "<ul><li>Permis de conduire valide et moyen de paiement compatible avec le dépôt.</li><li>Adresse, horaires et numéro de contact du rendez-vous.</li><li>Photos du véhicule, du compteur et du niveau de carburant au départ et au retour.</li><li>Sangles, couvertures, gants et diable si ces équipements ne sont pas fournis.</li><li>Hauteur du véhicule notée avant de prendre la route.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel permis faut-il pour louer et conduire un camion ?",
+      "a_html": "<p>Un permis B suffit généralement pour un utilitaire dont le poids total autorisé en charge est inférieur ou égal à 3,5 tonnes. Vérifiez toutefois les conditions de la plateforme ou du propriétaire : une ancienneté minimale de permis, un âge minimal ou l'absence de certains sinistres peuvent être demandés.</p><p>Pour un véhicule plus lourd, un permis adapté est nécessaire. Ne déduisez pas le permis requis du seul volume en mètres cubes : consultez toujours les caractéristiques du véhicule réservé.</p>"
+    },
+    {
+      "q": "Combien coûte la location d'un camion à un particulier ?",
+      "a_html": "<p>Pour une journée, comptez souvent de l'ordre de 30 à 70 € pour un petit utilitaire, 45 à 110 € pour un modèle intermédiaire et davantage pour un grand volume. Le prix dépend de la ville, de la demande, du week-end, de la distance et de l'âge du véhicule.</p><p>Ajoutez au calcul l'assurance, les éventuels frais de plateforme, le carburant, le dépassement kilométrique et la franchise. Le tarif le moins cher par jour n'est pas forcément le moins coûteux au total.</p>"
+    },
+    {
+      "q": "Le dépôt de garantie est-il obligatoire ?",
+      "a_html": "<p>Il n'est pas systématiquement obligatoire, mais il est très fréquent. Sur une plateforme, il peut prendre la forme d'une empreinte bancaire ou d'une préautorisation. En direct, son montant et ses règles de restitution doivent figurer dans un contrat écrit.</p><p>Demandez notamment dans quels cas une retenue peut être opérée, comment les dommages sont constatés et sous quel délai le dépôt est libéré. Évitez de remettre une somme importante sans reçu ni preuve de l'accord.</p>"
+    },
+    {
+      "q": "Puis-je faire conduire un proche pendant la location ?",
+      "a_html": "<p>Seulement s'il est autorisé par le contrat et l'assurance. Certaines plateformes permettent d'ajouter un conducteur avant le départ, à condition qu'il remplisse les critères de permis et d'âge. Un conducteur non déclaré peut compromettre la prise en charge en cas de sinistre.</p>"
+    },
+    {
+      "q": "Que faire si le camion tombe en panne ou si j'ai un accident ?",
+      "a_html": "<p>Protégez d'abord les personnes et le lieu de l'incident : stationnez-vous en sécurité si possible et contactez les secours en cas de besoin. Prévenez ensuite l'assistance indiquée dans le contrat, puis le propriétaire ou la plateforme. Suivez leurs instructions avant d'engager une réparation ou un remorquage.</p><p>En cas d'accident avec un tiers, recueillez les informations utiles et remplissez un constat selon la procédure applicable. Prenez des photos et conservez les preuves, sans reconnaître une responsabilité que vous ne pouvez pas établir.</p>"
+    },
+    {
+      "q": "Puis-je annuler une location de camion entre particuliers ?",
+      "a_html": "<p>Oui, mais les frais et délais dépendent des conditions acceptées lors de la réservation. Les plateformes prévoient généralement un barème selon la proximité de la date de départ. Dans une location conclue directement, les règles d'annulation doivent être écrites dans l'accord entre vous et le propriétaire.</p><p>Ne supposez pas qu'une réservation de dernière minute peut être annulée sans coût. Lisez cette clause avant de payer, surtout si votre déménagement dépend d'une date incertaine.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Louer un camion à un particulier est une excellente option lorsque vous préparez le transport avec méthode. Choisissez un volume réellement adapté, vérifiez les garanties et mettez par écrit chaque condition importante.</p><p>Avec un état des lieux rigoureux, une charge bien arrimée et une restitution anticipée, vous gardez les avantages de la flexibilité sans transformer votre déménagement en source de stress.</p>",
+  "__slug": "comment-louer-un-camion-a-un-particulier-etapes-simples-pour-une-location-efficace"
+}

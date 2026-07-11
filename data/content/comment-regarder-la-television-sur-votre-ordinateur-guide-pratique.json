@@ -1,0 +1,248 @@
+{
+  "title": "Comment regarder la télévision sur son ordinateur : le guide simple et légal",
+  "meta_description": "Regardez la télévision sur votre ordinateur en direct ou en replay : plateformes officielles, TNT USB, réglages, coûts et conseils pour bien choisir.",
+  "reading_time_min": 10,
+  "hero_intro": "Vous aimeriez suivre le journal, un match, une série ou un documentaire depuis votre PC, sans allumer le téléviseur du salon ? C'est tout à fait possible, en direct comme en replay, avec une simple connexion internet ou une clé TNT. Voici les solutions fiables, leurs limites et les bons réglages pour profiter d'une image fluide sans mauvaise surprise.",
+  "key_takeaways": [
+    "Les sites et applications officiels des chaînes sont souvent la solution la plus simple et gratuite pour regarder la TV en direct ou en replay sur un ordinateur.",
+    "Un agrégateur comme Molotov peut réunir plusieurs chaînes dans une même interface, mais les chaînes et fonctions incluses varient selon l'offre du moment.",
+    "Une clé USB TNT permet de recevoir les chaînes gratuites sans internet, à condition d'avoir une couverture et une antenne adaptées.",
+    "Pour une image HD stable, comptez généralement au moins 5 à 8 Mbit/s réellement disponibles ; le câble Ethernet reste plus fiable qu'un Wi-Fi faible.",
+    "Évitez les listes IPTV non officielles et les logiciels téléchargés sur des sites douteux : ils peuvent être illégaux, instables ou risqués pour vos données."
+  ],
+  "toc": [
+    "Les prérequis pour regarder la TV sur PC",
+    "Quelle solution choisir selon votre besoin ?",
+    "TV par internet ou TNT USB : les différences",
+    "Regarder les chaînes gratuitement sur leurs sites officiels",
+    "Installer et utiliser une application TV sur ordinateur",
+    "Qualité d'image, connexion et consommation de données",
+    "Offres payantes, chaînes premium et télévision de votre opérateur",
+    "Les erreurs à éviter pour regarder la TV sereinement"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Les prérequis pour regarder la TV sur PC",
+      "html": "<p>Transformer un ordinateur en téléviseur ne demande pas forcément de matériel particulier. Dans la majorité des cas, un navigateur récent, une connexion internet correcte et des écouteurs ou des enceintes suffisent. Vous pouvez regarder un programme en direct dans une fenêtre, le placer en plein écran ou, selon le service, reprendre une émission plus tard en replay.</p><p>Avant de choisir une solution, posez-vous trois questions simples : souhaitez-vous regarder des chaînes généralistes françaises, des programmes déjà diffusés, ou des chaînes payantes et sportives ? Utiliserez-vous votre ordinateur principalement chez vous, en déplacement, ou dans une pièce où le Wi-Fi est moins bon ? Ces réponses orientent naturellement vers un site de chaîne, une application centralisée, le service de votre opérateur ou une réception TNT.</p><p>Un compte gratuit est fréquemment demandé, même pour accéder à des contenus sans abonnement. Il sert notamment à mémoriser vos préférences, à gérer l'âge des profils ou à reprendre la lecture. Lisez toujours les conditions de l'offre : la présence d'une chaîne, le direct, l'enregistrement et le replay peuvent différer d'un service à l'autre.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L'essentiel avant de commencer",
+      "points": [
+        "Privilégiez les sites et applications officiels des chaînes ou de votre fournisseur d'accès.",
+        "Fermez les téléchargements, jeux en ligne et sauvegardes cloud pendant le visionnage si votre connexion est limitée.",
+        "Mettez à jour votre navigateur et autorisez les cookies essentiels ou le lecteur vidéo lorsque cela est nécessaire.",
+        "Vérifiez les droits de diffusion si vous voyagez : certains programmes ne sont visibles qu'en France ou dans une zone précise.",
+        "N'installez jamais de lecteur ou d'extension de navigateur proposé par une fenêtre publicitaire pour « débloquer » une chaîne."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les principales façons de regarder la télévision sur un ordinateur",
+      "intro": "Chaque méthode répond à un usage différent. Ce tableau vous aide à aller droit au but.",
+      "columns": [
+        "Solution",
+        "Idéale pour",
+        "Coût habituel",
+        "À savoir"
+      ],
+      "rows": [
+        [
+          "Sites et applications des chaînes",
+          "Le direct et le replay des chaînes que vous suivez",
+          "Gratuit, avec parfois création de compte",
+          "Catalogue, durée de replay et publicités variables selon la chaîne."
+        ],
+        [
+          "Agrégateur TV légal",
+          "Retrouver plusieurs chaînes dans une seule interface",
+          "Formule gratuite possible ; options payantes selon les services",
+          "L'offre, les chaînes et les fonctions incluses évoluent selon les droits de diffusion."
+        ],
+        [
+          "Application ou site de l'opérateur internet",
+          "Accéder au bouquet inclus avec votre abonnement box",
+          "Souvent inclus, parfois avec options",
+          "Nécessite généralement d'être client et de se connecter avec ses identifiants."
+        ],
+        [
+          "Clé USB TNT et antenne",
+          "Regarder les chaînes TNT sans connexion internet",
+          "Environ 20 à 60 € pour le matériel",
+          "La réception dépend de la couverture locale, de l'antenne et de la compatibilité de votre ordinateur."
+        ],
+        [
+          "Abonnement de streaming ou bouquet premium",
+          "Sport, cinéma, documentaires ou chaînes thématiques",
+          "Souvent quelques euros à plusieurs dizaines d'euros par mois",
+          "Vérifiez l'engagement, le nombre d'écrans et les conditions de résiliation."
+        ]
+      ],
+      "note": "Les tarifs et catalogues changent régulièrement : contrôlez toujours l'offre affichée sur le site officiel avant de souscrire."
+    },
+    {
+      "type": "comparison",
+      "heading": "TV par internet ou clé TNT USB : quelle option vous convient ?",
+      "intro": "Les deux solutions sont légales, mais elles ne répondent pas aux mêmes contraintes au quotidien.",
+      "left": {
+        "title": "Par internet",
+        "points": [
+          "Très simple à lancer depuis un navigateur ou une application.",
+          "Donne accès au replay, aux recommandations et parfois au contrôle du direct.",
+          "Fonctionne partout où la connexion est suffisamment stable.",
+          "Peut consommer votre forfait mobile et dépend des droits de diffusion.",
+          "La qualité peut baisser en cas de Wi-Fi saturé ou de débit insuffisant."
+        ]
+      },
+      "right": {
+        "title": "Avec une clé USB TNT",
+        "points": [
+          "Aucune connexion internet nécessaire une fois l'installation effectuée.",
+          "Permet de recevoir gratuitement les chaînes TNT disponibles localement.",
+          "Pas de consommation de données mobiles ni de coupure liée au réseau.",
+          "Exige une antenne, une recherche de chaînes et une réception correcte.",
+          "Le replay et les chaînes exclusivement en ligne ne sont pas inclus."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Regarder les chaînes gratuitement sur leurs sites officiels",
+      "html": "<p>Pour regarder la télévision gratuitement sur votre ordinateur, commencez par les plateformes des diffuseurs. Elles sont généralement accessibles directement dans votre navigateur, sous Windows, macOS ou Linux. Vous y trouverez le direct lorsque la chaîne le propose, ainsi que le replay de nombreuses émissions. C'est le chemin le plus sûr : pas de logiciel obscur à installer, pas de liste de flux incertaine et des droits de diffusion clairement gérés.</p><p>En France, vous pouvez par exemple consulter <a href=\"https://www.france.tv/\">france.tv</a> pour les programmes du groupe France Télévisions, <a href=\"https://www.tf1.fr/\">TF1+</a>, <a href=\"https://www.6play.fr/\">M6+</a> ou <a href=\"https://www.arte.tv/fr/\">ARTE</a>. Les contenus disponibles, la présence du direct et la durée du replay dépendent toutefois de chaque plateforme et du programme concerné. Un film, un événement sportif ou une production achetée peut être soumis à des restrictions particulières.</p><p>Les agrégateurs légaux peuvent aussi être pratiques si vous préférez un guide des programmes unique et une liste de favoris. Molotov, par exemple, propose une interface pour centraliser une partie de l'offre télévisuelle. Ne vous fiez pas à un nombre fixe de chaînes annoncé sur un ancien article : les bouquets, les options et les droits changent. Consultez la grille et le détail de la formule au moment de votre inscription.</p><p>Pour le replay, le réflexe le plus efficace est souvent de passer directement par la plateforme de la chaîne. Vous y obtenez habituellement les épisodes dans l'ordre, les sous-titres lorsqu'ils sont prévus et des informations fiables sur la date de retrait du programme.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Installer une application TV et lancer votre premier programme",
+      "intro": "Si vous préférez une application plutôt qu'un simple onglet de navigateur, procédez méthodiquement. Les étapes sont similaires sur la plupart des ordinateurs.",
+      "steps": [
+        {
+          "title": "Choisissez une source officielle",
+          "html": "<p>Rendez-vous sur le site officiel de la chaîne, de l'agrégateur ou de votre opérateur. Téléchargez l'application uniquement depuis cette page ou depuis la boutique reconnue de votre système.</p>"
+        },
+        {
+          "title": "Vérifiez la compatibilité",
+          "html": "<p>Contrôlez que la version proposée correspond à Windows, macOS ou Linux. Si aucune application n'est disponible pour votre système, la version web dans le navigateur est souvent suffisante.</p>"
+        },
+        {
+          "title": "Créez votre compte si nécessaire",
+          "html": "<p>Utilisez une adresse e-mail que vous consultez. Choisissez un mot de passe unique et ne communiquez jamais vos identifiants d'opérateur à un tiers.</p>"
+        },
+        {
+          "title": "Réglez votre expérience de visionnage",
+          "html": "<p>Ajoutez vos chaînes favorites, activez les sous-titres si vous en avez besoin et sélectionnez la qualité automatique au premier essai. Passez ensuite en plein écran lorsque le flux est stable.</p>"
+        },
+        {
+          "title": "Testez sur un programme court",
+          "html": "<p>Lancez quelques minutes de direct et de replay. Si l'image se fige, réduisez la qualité, rapprochez-vous du routeur ou essayez un câble Ethernet avant de modifier tout votre équipement.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux flux IPTV et aux téléchargements douteux",
+      "html": "<p>Une adresse qui promet « toutes les chaînes payantes gratuitement », une extension inconnue à installer ou un fichier à ouvrir pour voir un match doivent vous alerter. Les listes IPTV non autorisées peuvent enfreindre les droits de diffusion et exposer votre ordinateur à des logiciels malveillants, à des publicités intrusives ou au vol de données.</p><p>VLC est un excellent lecteur multimédia, mais il ne rend pas légal un flux qui ne l'est pas. Utilisez-le uniquement pour des vidéos, radios ou flux dont la source et les droits de diffusion sont clairement identifiés.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Qualité d'image, connexion et consommation de données",
+      "html": "<p>Une télévision qui se coupe ou devient floue n'est pas forcément due au site choisi. Le débit disponible au moment précis du visionnage compte davantage que le débit théorique annoncé par votre abonnement. En Wi-Fi, la distance, les murs, les appareils connectés et les réseaux voisins peuvent réduire fortement la stabilité.</p><p>Pour une séance importante, comme un direct ou un événement sportif, branchez l'ordinateur au routeur avec un câble Ethernet si possible. À défaut, utilisez le Wi-Fi 5 GHz à proximité de la box, évitez les téléchargements simultanés et redémarrez le routeur seulement si le problème touche aussi vos autres usages internet.</p><p>Sur une connexion mobile partagée depuis un smartphone, surveillez votre enveloppe de données. Une heure de vidéo peut représenter plusieurs centaines de mégaoctets, voire plusieurs gigaoctets selon la qualité réellement utilisée. Désactivez la très haute définition si votre forfait est limité : sur l'écran d'un petit ordinateur portable, le gain visuel ne justifie pas toujours la consommation supplémentaire.</p><p>Enfin, pensez au confort : une sortie casque ou des enceintes externes améliorent souvent davantage l'expérience qu'un passage de la HD à une définition supérieure. Si le son et l'image ne sont pas synchronisés, actualisez la page, fermez les applications lourdes, puis relancez le lecteur avant d'aller plus loin.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Repères de débit pour une lecture confortable",
+      "items": [
+        {
+          "value": "3 à 5 Mbit/s",
+          "label": "souvent suffisants pour une qualité standard ou HD légère, si la connexion est stable"
+        },
+        {
+          "value": "5 à 8 Mbit/s",
+          "label": "ordre de grandeur courant pour profiter plus confortablement d'un flux HD"
+        },
+        {
+          "value": "15 à 25 Mbit/s ou plus",
+          "label": "débit souvent conseillé pour la 4K, selon le service, le codec et les autres appareils connectés"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Diagnostiquer un problème de lecture en quelques gestes",
+      "intro": "Avant de changer d'abonnement ou d'acheter du matériel, essayez ces solutions simples.",
+      "columns": [
+        "Symptôme",
+        "Cause fréquente",
+        "Action à essayer"
+      ],
+      "rows": [
+        [
+          "Image qui charge sans cesse",
+          "Wi-Fi instable ou réseau très sollicité",
+          "Rapprochez-vous de la box, stoppez les téléchargements, puis testez avec un câble Ethernet."
+        ],
+        [
+          "Vidéo floue",
+          "Qualité automatique abaissée faute de débit",
+          "Attendez quelques minutes, vérifiez le Wi-Fi ou sélectionnez une qualité plus basse mais stable."
+        ],
+        [
+          "Le direct ne démarre pas",
+          "Bloqueur de contenu, navigateur ancien ou incident temporaire",
+          "Actualisez, essayez une fenêtre privée ou un autre navigateur à jour."
+        ],
+        [
+          "Programme indisponible",
+          "Droits de diffusion, localisation ou fin du replay",
+          "Vérifiez la date de disponibilité et utilisez la plateforme officielle du diffuseur."
+        ],
+        [
+          "Pas de son",
+          "Sortie audio mal sélectionnée",
+          "Contrôlez le volume du lecteur, celui du système et le périphérique audio choisi."
+        ]
+      ],
+      "note": "Si le problème survient sur tous les services et tous les appareils du foyer, il peut venir de votre connexion : un test de débit et un échange avec votre fournisseur d'accès peuvent alors être utiles."
+    },
+    {
+      "type": "prose",
+      "heading": "Offres payantes, chaînes premium et télévision de votre opérateur",
+      "html": "<p>Les services gratuits couvrent déjà une grande partie des besoins courants, mais certaines chaînes, compétitions sportives, films récents ou fonctions avancées nécessitent un abonnement. Avant de souscrire, ne regardez pas seulement le prix mensuel : vérifiez la durée d'engagement, les frais éventuels, le nombre d'écrans simultanés, la qualité maximale et la possibilité de résilier facilement.</p><p>Si vous avez une box internet, votre opérateur propose peut-être déjà une application ou un accès web à une partie de votre bouquet TV. C'est une option intéressante pour retrouver vos chaînes incluses sur ordinateur, surtout si vous êtes déjà abonné. En revanche, l'accès hors du domicile, le replay et les chaînes disponibles peuvent être différents de ceux affichés sur votre décodeur TV.</p><p>Pour une utilisation occasionnelle, privilégiez les formules sans engagement et activez les rappels de renouvellement. Pour un foyer, vérifiez les profils et les écrans simultanés afin d'éviter qu'une lecture bloque celle d'un autre utilisateur. Et si vous payez surtout pour un événement précis, contrôlez bien la date de début de l'abonnement et les modalités de résiliation.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réglage qui change tout : faites simple",
+      "html": "<p>Pour un usage quotidien, créez un dossier de favoris dans votre navigateur avec les plateformes que vous regardez vraiment. Ajoutez-y le direct de vos chaînes préférées et leurs pages de replay. Vous éviterez les recherches répétées et les faux sites qui imitent les services connus.</p><p>Sur un écran d'ordinateur portable, utilisez le plein écran, augmentez légèrement la taille des sous-titres si nécessaire et branchez l'appareil au secteur pour les longues séances : la lecture vidéo sollicite la batterie.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Comment regarder la télévision gratuitement sur mon ordinateur ?",
+      "a_html": "<p>Le plus simple consiste à utiliser les sites ou applications officiels des chaînes, qui proposent souvent du direct et du replay gratuits, parfois après la création d'un compte. Vous pouvez également utiliser un agrégateur TV légal proposant une formule gratuite, selon les chaînes disponibles à ce moment-là.</p><p>Autre possibilité : une clé USB TNT reliée à une antenne permet de recevoir les chaînes TNT sans connexion internet. Il faut toutefois acheter le matériel et disposer d'une réception correcte.</p>"
+    },
+    {
+      "q": "Puis-je regarder la TV sur un PC sans internet ?",
+      "a_html": "<p>Oui, avec un tuner TNT USB compatible avec votre ordinateur et une antenne. Installez le pilote ou le logiciel fourni, reliez l'antenne, puis lancez une recherche de chaînes. La qualité dépendra de la couverture TNT dans votre zone et de l'installation de l'antenne.</p><p>Sans internet, vous n'aurez en revanche pas accès au replay ni aux chaînes uniquement diffusées en ligne.</p>"
+    },
+    {
+      "q": "Quelle connexion internet faut-il pour regarder la télévision en HD ?",
+      "a_html": "<p>Pour une lecture HD confortable, prévoyez généralement entre 5 et 8 Mbit/s réellement disponibles pour le flux vidéo. Un débit inférieur peut fonctionner, mais l'image risque de baisser en qualité ou de se mettre en mémoire tampon, surtout si d'autres personnes utilisent le réseau.</p><p>La stabilité est aussi importante que le débit. Un câble Ethernet ou un bon Wi-Fi proche de la box donne souvent de meilleurs résultats qu'une connexion mobile ou un Wi-Fi faible.</p>"
+    },
+    {
+      "q": "Est-il légal de regarder des chaînes de télévision avec VLC ?",
+      "a_html": "<p>VLC est un lecteur légal. Tout dépend du flux que vous lui donnez à lire : utilisez uniquement les flux publiés ou autorisés par les diffuseurs, les radios, les institutions ou les services auxquels vous êtes abonnés.</p><p>Évitez les listes trouvées sur des forums ou des sites promettant gratuitement des chaînes habituellement payantes. Leur origine et leurs droits de diffusion sont rarement fiables.</p>"
+    },
+    {
+      "q": "Pourquoi certaines émissions ne sont-elles pas disponibles en replay ou à l'étranger ?",
+      "a_html": "<p>Les diffuseurs achètent des droits qui peuvent être limités dans le temps, à certains territoires ou à certains supports. Un programme peut donc disparaître du replay après quelques jours, ne pas être proposé en direct sur le web ou être inaccessible lorsque vous voyagez hors de France.</p><p>La page du programme indique généralement sa période de disponibilité. Consultez-la avant de chercher une solution alternative non officielle.</p>"
+    },
+    {
+      "q": "Peut-on regarder la télévision sur un ordinateur Mac ou Linux ?",
+      "a_html": "<p>Oui. Les plateformes web des chaînes fonctionnent généralement dans les navigateurs récents sur macOS et Linux, comme sur Windows. Cette solution est souvent la plus universelle, car certaines applications de bureau ne sont proposées que pour un système précis.</p><p>Avant d'acheter une clé TNT ou un logiciel, vérifiez explicitement la compatibilité avec votre version de macOS ou votre distribution Linux.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Regarder la télévision sur son ordinateur est aujourd'hui simple : pour la plupart des usages, les plateformes officielles des chaînes offrent une solution gratuite, fiable et immédiatement accessible. Un agrégateur peut simplifier l'organisation de vos programmes, tandis qu'une clé TNT USB reste une excellente alternative lorsque l'internet est absent ou instable.</p><p>Commencez par la solution la plus légère : un navigateur à jour, le site officiel de la chaîne et une connexion stable. Vous pourrez ensuite ajouter une application, l'accès de votre opérateur ou un abonnement premium seulement si votre usage le justifie. Le bon choix est celui qui vous donne accès à vos programmes préférés sans multiplier les frais ni compromettre votre sécurité.</p>",
+  "__slug": "comment-regarder-la-television-sur-votre-ordinateur-guide-pratique"
+}

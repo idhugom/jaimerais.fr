@@ -1,0 +1,227 @@
+{
+  "title": "Choisir un fournisseur d’électricité au Havre : le guide pour comparer les offres",
+  "meta_description": "Comparez prix, options, service client et électricité verte pour trouver le fournisseur adapté à votre logement au Havre et à vos usages réels.",
+  "reading_time_min": 11,
+  "hero_intro": "Vous emménagez au Havre, votre facture d’électricité augmente ou vous souhaitez simplement mieux comprendre votre contrat ? Le choix d’un fournisseur ne se résume pas au prix affiché du kWh : votre profil de consommation, votre puissance de compteur, les conditions tarifaires et la qualité de l’accompagnement comptent tout autant. Voici une méthode concrète pour comparer les offres sans vous perdre dans les petites lignes.",
+  "key_takeaways": [
+    "Au Havre, le réseau électrique et le fournisseur sont deux acteurs distincts : le fournisseur facture l’énergie, tandis que le gestionnaire de réseau intervient sur le compteur et les pannes.",
+    "Pour comparer correctement deux contrats, additionnez toujours l’abonnement annuel et le coût estimé des kWh, toutes taxes comprises, à consommation identique.",
+    "Une offre à prix fixe ne bloque pas nécessairement les taxes ni les coûts de réseau ; lisez précisément ce qui est garanti et pendant combien de temps.",
+    "Le changement de fournisseur pour un logement déjà alimenté est gratuit, sans coupure et sans intervention sur le compteur pour les particuliers.",
+    "Une offre verte repose généralement sur des garanties d’origine : elle ne signifie pas que l’électricité consommée au Havre arrive physiquement d’un parc renouvelable local."
+  ],
+  "toc": [
+    "Comprendre qui fait quoi entre fournisseur, Enedis et EDF",
+    "Identifier l’offre adaptée à votre logement havrais",
+    "Calculer le vrai coût annuel de l’électricité",
+    "Prix fixe ou prix indexé : quelle formule choisir ?",
+    "Comparer les fournisseurs en cinq étapes",
+    "Les points à contrôler avant de souscrire",
+    "Électricité verte, service client et déménagement au Havre",
+    "La checklist avant de valider votre contrat"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Au Havre, le réseau ne vous impose pas votre fournisseur",
+      "html": "<p>Choisir un fournisseur d’électricité au Havre fonctionne comme partout en France : vous pouvez souscrire auprès du fournisseur de votre choix, sous réserve que son offre soit disponible à votre adresse. Le fournisseur vend l’électricité, établit votre facture et répond aux questions relatives à votre contrat. Il peut s’agir d’EDF ou d’un fournisseur alternatif ; aucun statut ne rend automatiquement une offre meilleure qu’une autre.</p><p>Le réseau, les câbles et le compteur ne changent pas lorsque vous changez de fournisseur. Dans la grande majorité des logements havrais, le gestionnaire de réseau est Enedis. C’est lui qui relève ou reçoit les données du compteur, réalise les mises en service, modifie la puissance et intervient en cas de panne sur le réseau. Son nom figure sur votre facture ou dans les informations techniques de votre contrat.</p><p>Cette séparation est essentielle : <strong>une coupure de quartier, un compteur à ouvrir ou un problème de disjoncteur relevant du réseau ne se règle pas en choisissant un autre fournisseur</strong>. En revanche, vous pouvez comparer librement les prix, les options, les modalités de paiement et la disponibilité du service client.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "L’essentiel pour faire un choix serein",
+      "points": [
+        "Ne comparez jamais un seul pourcentage de réduction : regardez le coût annuel estimé en euros TTC.",
+        "Relevez votre consommation des douze derniers mois si vous occupez déjà le logement ; elle est plus parlante qu’une estimation générique.",
+        "Vérifiez la puissance souscrite, exprimée en kVA : payer 9 kVA alors que 6 kVA suffit alourdit inutilement l’abonnement.",
+        "Choisissez les heures creuses uniquement si vous pouvez réellement déplacer une part notable de vos usages sur ces créneaux.",
+        "Gardez une copie de la grille tarifaire, des conditions générales et de l’échéancier au moment de souscrire."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quelle offre envisager selon votre situation ?",
+      "intro": "Le bon contrat dépend moins de votre quartier au Havre que de votre consommation, de votre mode de chauffage et de votre capacité à suivre les horaires tarifaires.",
+      "columns": [
+        "Votre situation",
+        "Piste à étudier",
+        "Ce qu’il faut vérifier",
+        "Erreur fréquente à éviter"
+      ],
+      "rows": [
+        [
+          "Petit appartement, faible consommation, chauffage collectif",
+          "Une offre simple en option Base",
+          "Le prix de l’abonnement : il pèse fortement sur la facture quand peu de kWh sont consommés",
+          "Choisir une forte remise sur le kWh sans regarder un abonnement élevé"
+        ],
+        [
+          "Logement chauffé à l’électricité",
+          "Une offre Base ou Heures Pleines/Heures Creuses selon vos usages",
+          "La puissance du compteur, votre consommation annuelle et le détail du prix TTC",
+          "Se fier à une estimation trop basse qui ne tient pas compte du chauffage"
+        ],
+        [
+          "Ballon d’eau chaude programmé la nuit, véhicule électrique ou appareils différables",
+          "Une offre Heures Pleines/Heures Creuses peut être pertinente",
+          "Les plages horaires exactes attribuées à votre compteur et la part de consommation décalable",
+          "Supposer que les heures creuses ont lieu chaque nuit aux mêmes horaires pour tous"
+        ],
+        [
+          "Besoin de visibilité budgétaire",
+          "Une offre à prix fixe pendant une durée définie",
+          "Les éléments réellement bloqués, la durée de la garantie et les conditions après son terme",
+          "Croire que le montant total de la facture ne peut jamais varier"
+        ],
+        [
+          "Priorité à l’impact environnemental",
+          "Une offre verte avec informations claires sur son approvisionnement",
+          "Les garanties d’origine, la traçabilité annoncée et l’éventuel label environnemental",
+          "Penser qu’une offre verte alimente directement votre logement avec une production locale"
+        ]
+      ],
+      "note": "Les caractéristiques et tarifs évoluent régulièrement. Demandez ou téléchargez la fiche descriptive de l’offre avant toute souscription."
+    },
+    {
+      "type": "prose",
+      "heading": "Calculer le vrai coût annuel : abonnement + consommation",
+      "html": "<p>Le comparatif le plus fiable repose sur une formule simple : <strong>coût annuel estimé = abonnement annuel TTC + consommation annuelle en kWh × prix du kWh TTC</strong>. Une remise séduisante peut donc perdre son intérêt si l’abonnement est plus cher, si elle ne dure que quelques mois ou si elle s’applique à un prix de référence défavorable.</p><p>À titre de repère très général, pour une puissance de 6 kVA, l’abonnement électrique représente souvent de l’ordre de <strong>150 à 250 € par an</strong> selon l’offre et la période tarifaire. Le prix TTC du kWh varie fortement avec le contrat, l’option choisie et les évolutions réglementaires ; il se situe fréquemment dans une fourchette de quelques dizaines de centimes d’euro. Ces ordres de grandeur servent à détecter une estimation incohérente, pas à désigner une offre gagnante à l’avance.</p><p>Si vous avez déjà une facture, utilisez sa consommation réelle sur douze mois. Si vous arrivez dans un nouveau logement, demandez au propriétaire, à l’agence ou à l’ancien occupant une estimation de consommation, puis ajustez-la selon la surface, l’isolation, le nombre d’occupants, la présence d’un ballon d’eau chaude électrique et le type de chauffage. Un appartement bien isolé avec chauffage collectif n’a pas le même profil qu’une maison chauffée à l’électricité sur les hauteurs du Havre.</p><ul><li><strong>Puissance :</strong> 6 kVA convient souvent à un logement courant, mais 9 kVA ou davantage peut être nécessaire avec chauffage électrique, plaque de cuisson, pompe à chaleur ou recharge de véhicule simultanés.</li><li><strong>Option Base :</strong> le prix du kWh reste identique toute la journée.</li><li><strong>Option Heures Pleines/Heures Creuses :</strong> deux prix s’appliquent ; l’intérêt dépend de votre capacité à consommer aux heures avantageuses.</li></ul>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Prix fixe ou prix indexé : ne choisissez pas sur le nom de l’offre",
+      "intro": "Ces deux formules répondent à des besoins différents. La grille tarifaire et les conditions contractuelles permettent de savoir exactement ce qui évoluera ou non.",
+      "left": {
+        "title": "Offre à prix indexé",
+        "points": [
+          "Le prix suit une référence indiquée au contrat, avec une remise ou une majoration éventuelle.",
+          "Elle peut devenir intéressante lorsque la référence baisse, mais peut aussi évoluer à la hausse.",
+          "La formule doit être lisible : référence utilisée, pourcentage ou montant appliqué, fréquence de mise à jour.",
+          "Elle convient aux personnes qui acceptent une facture variable et suivent les changements tarifaires."
+        ]
+      },
+      "right": {
+        "title": "Offre à prix fixe",
+        "points": [
+          "Le fournisseur garantit généralement le prix du kWh hors taxes pendant une période définie.",
+          "Les taxes, contributions et tarifs d’acheminement peuvent évoluer même sur une offre dite fixe.",
+          "Elle apporte de la visibilité sur une partie du prix, sans garantir que ce sera l’offre la moins chère sur toute la durée.",
+          "Elle convient si vous privilégiez la stabilité et souhaitez éviter de surveiller les évolutions de prix."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Comparer les fournisseurs en cinq étapes efficaces",
+      "intro": "Consacrez une vingtaine de minutes à cette méthode : elle évite de souscrire sur la seule promesse d’une réduction.",
+      "steps": [
+        {
+          "title": "Réunissez les données de votre logement",
+          "html": "<p>Préparez votre code postal, la surface, le type de chauffage, le nombre d’occupants et, si possible, votre consommation annuelle en kWh. Pour un déménagement, conservez aussi l’adresse exacte, le numéro de compteur PRM ou PDL s’il est connu, et la date souhaitée de mise en service.</p>"
+        },
+        {
+          "title": "Déterminez votre option tarifaire",
+          "html": "<p>Gardez l’option Base si vous ne pouvez pas déplacer vos usages. Étudiez les Heures Pleines/Heures Creuses si votre ballon d’eau chaude, la recharge d’un véhicule ou certains appareils peuvent fonctionner sur les créneaux attribués. Ne vous engagez pas avant de connaître ces créneaux.</p>"
+        },
+        {
+          "title": "Comparez le total annuel au même niveau de consommation",
+          "html": "<p>Pour chaque offre, notez séparément l’abonnement TTC, le prix TTC du kWh, la durée de la promotion et le coût calculé sur votre consommation. Comparez également la même puissance de compteur : une offre 6 kVA ne se compare pas directement à une offre 9 kVA.</p>"
+        },
+        {
+          "title": "Lisez les conditions qui changent la facture",
+          "html": "<p>Contrôlez la durée du prix fixe, la règle d’indexation, la facturation au réel ou sur estimation, les modes de paiement, l’existence de services facultatifs et les éventuels frais associés. Pour les particuliers, un contrat d’électricité est sans engagement de durée : vous devez pouvoir le quitter sans frais de résiliation.</p>"
+        },
+        {
+          "title": "Testez la qualité de l’accompagnement",
+          "html": "<p>Vérifiez les canaux de contact qui vous conviennent : téléphone, espace client, courrier ou application. Consultez les informations contractuelles, la clarté des réponses avant souscription et les modalités de réclamation. Un prix légèrement plus bas ne compense pas toujours un suivi difficile en cas de facture contestée.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux fausses économies et au démarchage",
+      "html": "<p>Un changement de fournisseur pour un logement déjà alimenté est normalement <strong>gratuit et sans coupure</strong> pour un particulier. Méfiez-vous d’un interlocuteur qui exige une décision immédiate, présente une offre comme obligatoire, réclame des coordonnées bancaires sans document clair ou se fait passer pour Enedis, EDF ou une administration. Ne communiquez pas votre numéro de compteur ou vos données bancaires sous pression ; relisez l’offre et exercez votre droit de rétractation lorsque la souscription y ouvre droit.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Électricité verte et service client : deux critères à regarder de près",
+      "html": "<p>Les offres vertes reposent le plus souvent sur le mécanisme des <strong>garanties d’origine</strong> : pour chaque kWh facturé comme renouvelable, un certificat atteste qu’un volume équivalent d’électricité renouvelable a été injecté sur le réseau européen. C’est un levier utile, mais il ne faut pas en déduire que les électrons consommés dans votre logement proviennent directement d’une éolienne ou d’un parc situé près du Havre.</p><p>Si votre priorité est d’encourager davantage les producteurs renouvelables, lisez la provenance annoncée de l’électricité et les engagements du fournisseur. Certaines offres vont plus loin dans la traçabilité ou l’achat auprès de producteurs identifiés. Cette différence peut justifier un prix un peu supérieur, à condition qu’elle corresponde à votre attente et que l’information soit explicite.</p><p>Le service client mérite aussi une comparaison concrète. Regardez les horaires téléphoniques, l’accessibilité depuis votre situation, la possibilité de transmettre un relevé ou un justificatif, et la clarté des factures. En cas de différend, adressez d’abord une réclamation écrite au fournisseur en gardant les preuves. Si le litige persiste, le Médiateur national de l’énergie peut être saisi selon les conditions prévues.</p><p>Enfin, ne confondez pas changement de fournisseur et déménagement. Lorsque vous quittez un logement, vous devez résilier le contrat de l’ancienne adresse et ouvrir un contrat pour la nouvelle. Des frais de mise en service liés au gestionnaire de réseau peuvent alors s’appliquer, avec des délais variables ; ils ne sont pas le prix du fournisseur et sont identiques quel que soit celui que vous choisissez.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "La checklist à passer avant de signer",
+      "intro": "Une dernière vérification transforme une offre séduisante en décision réellement maîtrisée.",
+      "columns": [
+        "Point de contrôle",
+        "Question à vous poser",
+        "Bon réflexe"
+      ],
+      "rows": [
+        [
+          "Consommation",
+          "L’estimation correspond-elle à mes douze derniers mois ou à mon mode de vie réel ?",
+          "Recalculer le total avec vos propres kWh annuels"
+        ],
+        [
+          "Prix",
+          "Les montants sont-ils affichés TTC, abonnement compris ?",
+          "Comparer le coût annuel, pas seulement le prix du kWh"
+        ],
+        [
+          "Évolution du tarif",
+          "Le prix est-il fixe, indexé ou promotionnel ? Pendant combien de temps ?",
+          "Lire la formule et la date de fin de la réduction"
+        ],
+        [
+          "Puissance et option",
+          "Ai-je besoin de 6, 9 ou davantage de kVA ? Les heures creuses me servent-elles ?",
+          "Vérifier votre contrat actuel et vos usages programmables"
+        ],
+        [
+          "Services annexes",
+          "Une assurance, une assistance ou une option payante est-elle incluse ?",
+          "Refuser les options inutiles ou demander leur retrait"
+        ],
+        [
+          "Souscription",
+          "Ai-je reçu la fiche d’information et les conditions contractuelles ?",
+          "Télécharger ou conserver tous les documents avant validation"
+        ]
+      ],
+      "note": "Pour une comparaison durable, refaites le point à la fin d’une promotion ou lorsque vos usages changent : télétravail, arrivée d’un véhicule électrique, rénovation ou modification du chauffage."
+    },
+    {
+      "type": "prose",
+      "heading": "Le bon fournisseur est celui qui correspond à vos usages",
+      "html": "<p>Il n’existe pas un unique meilleur fournisseur d’électricité pour tous les Havrais. Une personne vivant dans un petit logement et consommant peu d’électricité aura intérêt à surveiller l’abonnement. Un foyer tout électrique devra surtout comparer le coût annuel sur sa consommation réelle, sa puissance et l’intérêt des heures creuses. Une personne sensible à l’origine de l’énergie examinera, elle, les garanties environnementales au-delà de l’étiquette « verte ».</p><p>Le tarif réglementé de vente, lorsqu’il est proposé à votre adresse, constitue un point de comparaison simple. Il ne vous oblige pas à rester chez un fournisseur donné, mais il aide à évaluer une offre indexée, fixe ou promotionnelle. Prenez le temps de mettre deux ou trois contrats face à face avec les mêmes hypothèses : c’est la manière la plus sûre de choisir sans céder à une promesse commerciale trop générale.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel est le meilleur fournisseur d’électricité au Havre ?",
+      "a_html": "<p>Il n’y a pas de meilleur fournisseur universel. Le contrat le plus adapté dépend de votre consommation, de votre puissance de compteur, de votre option tarifaire, de votre intérêt pour une offre verte et du niveau de service attendu.</p><p>Comparez au minimum l’abonnement annuel TTC, le prix TTC du kWh, les conditions d’évolution du tarif et la durée d’une éventuelle promotion. Faites le calcul avec votre consommation réelle plutôt qu’avec un profil standard.</p>"
+    },
+    {
+      "q": "Puis-je changer de fournisseur d’électricité sans coupure ?",
+      "a_html": "<p>Oui. Pour un logement déjà alimenté, le changement de fournisseur est gratuit pour les particuliers et ne provoque pas de coupure. Le nouveau fournisseur organise les démarches avec le gestionnaire de réseau ; vous n’avez normalement pas de compteur à remplacer ni de technicien à faire venir.</p><p>Votre ancien contrat est clôturé dans le cadre du changement. Vérifiez simplement que l’adresse et le numéro de compteur associés à votre souscription sont corrects.</p>"
+    },
+    {
+      "q": "Quelle est la différence entre EDF et Enedis au Havre ?",
+      "a_html": "<p>EDF est un fournisseur d’électricité : il commercialise des contrats et vous facture l’énergie. Enedis est le gestionnaire du réseau de distribution dans la majorité des adresses du Havre : il gère notamment le compteur, les raccordements, les mises en service et les incidents sur le réseau.</p><p>Vous pouvez choisir votre fournisseur, mais vous ne choisissez pas le gestionnaire de réseau de votre zone. En cas de panne générale, c’est donc le gestionnaire de réseau qui intervient, quel que soit votre fournisseur.</p>"
+    },
+    {
+      "q": "Les heures creuses sont-elles rentables pour mon logement ?",
+      "a_html": "<p>Elles peuvent l’être si vous déplacez une part significative de votre consommation aux plages creuses : chauffe-eau électrique programmé, recharge d’un véhicule, lave-linge ou lave-vaisselle lancés au bon moment. En contrepartie, le prix des heures pleines et parfois l’abonnement peuvent être moins favorables.</p><p>Consultez les créneaux réellement attribués à votre compteur et estimez la part de consommation que vous pouvez déplacer. Sans usages programmables réguliers, l’option Base reste souvent plus simple et parfois plus économique.</p>"
+    },
+    {
+      "q": "Une offre d’électricité verte est-elle vraiment plus écologique ?",
+      "a_html": "<p>Une offre verte standard garantit généralement l’achat de garanties d’origine correspondant au volume d’électricité consommé. Elle soutient la traçabilité de la production renouvelable, mais ne signifie pas que votre logement reçoit physiquement une électricité séparée du reste du réseau.</p><p>Pour aller plus loin, examinez l’origine annoncée de l’électricité, les producteurs éventuellement soutenus et les engagements détaillés du fournisseur. Comparez aussi le surcoût éventuel avec ce que vous souhaitez réellement financer.</p>"
+    },
+    {
+      "q": "Que faut-il faire pour ouvrir l’électricité lors d’un déménagement au Havre ?",
+      "a_html": "<p>Souscrivez un contrat pour votre nouvelle adresse avant votre arrivée, idéalement dès que vous connaissez la date de remise des clés. Indiquez l’adresse complète, le numéro PRM ou PDL si vous l’avez, la date souhaitée et un relevé de compteur si nécessaire. Pensez aussi à résilier le contrat de votre ancien logement le jour de votre départ.</p><p>Une mise en service peut entraîner des frais et des délais gérés par le gestionnaire de réseau, notamment si l’électricité est coupée. Avec un compteur communicant, certaines opérations peuvent être réalisées à distance, mais il reste prudent d’anticiper.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour choisir un fournisseur d’électricité au Havre, partez de vos usages plutôt que d’un slogan commercial. Comparez le coût annuel TTC, vérifiez la puissance, l’option tarifaire et la règle d’évolution des prix, puis accordez une vraie place à la qualité du service et à vos critères environnementaux.</p><p>Une fois ces points contrôlés, vous pouvez souscrire sereinement : pour un logement déjà alimenté, changer de fournisseur est simple, gratuit et sans coupure. Le meilleur contrat est celui que vous comprenez, dont le prix correspond à votre consommation et que vous pourrez faire évoluer lorsque votre situation changera.</p>",
+  "__slug": "choisir-un-fournisseur-delectricite-au-havre"
+}

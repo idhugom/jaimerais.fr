@@ -1,0 +1,238 @@
+{
+  "title": "Comment calculer un taux d'intérêt : méthode simple, formules et exemples",
+  "meta_description": "Apprenez à calculer un taux d'intérêt simple ou composé, à annualiser un coût et à comparer une offre de prêt sans erreur, exemples à l'appui.",
+  "reading_time_min": 10,
+  "hero_intro": "Vous connaissez le capital, les intérêts payés et la durée, mais vous ne savez pas quel taux cela représente ? Avec la bonne formule et des unités cohérentes, le calcul devient très accessible. Voici une méthode en 3 étapes, des exemples chiffrés et les réflexes utiles pour lire un prêt ou un placement avec discernement.",
+  "key_takeaways": [
+    "Pour retrouver un taux d'intérêt simple, utilisez la formule : taux = intérêts ÷ capital ÷ durée.",
+    "Convertissez toujours le taux en décimal pour les calculs : 5 % devient 0,05.",
+    "La durée doit être exprimée dans la même unité que le taux : années pour un taux annuel, mois pour un taux mensuel.",
+    "Un taux nominal ne suffit pas toujours : pour un crédit, le TAEG reflète mieux le coût global ; pour un placement, le taux effectif tient compte de la capitalisation.",
+    "Les intérêts composés et les mensualités d'un prêt amortissable demandent un calcul différent de l'intérêt simple."
+  ],
+  "toc": [
+    "Comprendre ce que mesure réellement un taux d'intérêt",
+    "Les 3 étapes pour calculer un taux d'intérêt simple",
+    "Exemples de calcul : du montant des intérêts au pourcentage",
+    "Taux simple, composé, nominal et effectif : ne pas les confondre",
+    "Calculer le coût d'un crédit : pourquoi regarder le TAEG",
+    "Les erreurs qui faussent le résultat",
+    "Vérifier son calcul avant de prendre une décision"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Comprendre ce que mesure réellement un taux d'intérêt",
+      "html": "<p>Un <strong>taux d'intérêt</strong> indique le prix de l'argent sur une période donnée. Pour un emprunteur, c'est le coût payé en plus du capital reçu. Pour un épargnant ou un investisseur, c'est la rémunération versée sur les sommes placées. Il s'exprime le plus souvent en pourcentage annuel : 4 % par an, par exemple.</p><p>Attention à ne pas confondre le <strong>taux</strong> avec le <strong>montant des intérêts</strong>. Dire que vous avez payé 120 € d'intérêts ne permet pas, à lui seul, de connaître le taux : il faut aussi savoir sur quel capital et pendant combien de temps ces 120 € ont été calculés. C'est précisément ce que la formule permet de reconstituer.</p><p>La méthode en trois étapes qui suit concerne l'<strong>intérêt simple</strong>. Elle convient notamment à une avance de trésorerie, un prêt de courte durée, un calcul pédagogique ou un placement dont les intérêts ne sont pas ajoutés au capital en cours de période. Pour un crédit immobilier remboursé chaque mois ou une épargne capitalisée, il faut ensuite affiner le raisonnement.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les données à réunir avant de sortir la calculatrice",
+      "points": [
+        "Le capital initial : la somme prêtée, empruntée ou placée, notée C.",
+        "Le montant total des intérêts sur la période, noté I.",
+        "La durée exacte de la période, notée t : en années, mois ou jours selon le taux recherché.",
+        "Le type de calcul : intérêt simple, intérêts composés ou crédit à mensualités.",
+        "Les frais éventuels si vous comparez des offres de prêt : assurance, dossier, garantie et frais obligatoires."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Calculer un taux d'intérêt simple en 3 étapes",
+      "intro": "La formule de départ de l'intérêt simple est : intérêts = capital × taux × durée. Pour retrouver le taux, on isole simplement cette inconnue.",
+      "steps": [
+        {
+          "title": "1. Relevez le capital, les intérêts et la durée",
+          "html": "<p>Notez le <strong>capital initial</strong>, pas le capital final. Relevez ensuite uniquement les intérêts correspondant à la période étudiée. Enfin, précisez la durée. Si vous cherchez un taux annuel, transformez la durée en années : 6 mois correspondent à 0,5 an et 18 mois à 1,5 an.</p>"
+        },
+        {
+          "title": "2. Appliquez la formule du taux",
+          "html": "<p>En intérêt simple, le taux en décimal se calcule ainsi : <strong>taux = intérêts ÷ capital ÷ durée</strong>. Si 75 € d'intérêts ont été versés pour un capital de 1 500 € immobilisé pendant un an, le calcul est 75 ÷ 1 500 ÷ 1 = 0,05.</p>"
+        },
+        {
+          "title": "3. Convertissez le résultat et vérifiez-le",
+          "html": "<p>Multipliez le résultat décimal par 100 pour obtenir un pourcentage : 0,05 devient <strong>5 %</strong>. Vérifiez en repartant dans l'autre sens : 1 500 × 0,05 × 1 = 75. Si vous retrouvez le montant des intérêts observé, votre calcul est cohérent.</p>"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Exemples concrets de calcul de taux",
+      "intro": "Ces exemples utilisent tous la formule du taux d'intérêt simple : taux annuel = intérêts ÷ capital ÷ durée en années.",
+      "columns": [
+        "Situation",
+        "Capital initial",
+        "Intérêts et durée",
+        "Calcul du taux annuel",
+        "Résultat"
+      ],
+      "rows": [
+        [
+          "Prêt sur 1 an",
+          "2 000 €",
+          "80 € sur 1 an",
+          "80 ÷ 2 000 ÷ 1",
+          "0,04, soit 4 %"
+        ],
+        [
+          "Placement sur 6 mois",
+          "5 000 €",
+          "75 € sur 0,5 an",
+          "75 ÷ 5 000 ÷ 0,5",
+          "0,03, soit 3 % par an"
+        ],
+        [
+          "Avance sur 18 mois",
+          "1 200 €",
+          "144 € sur 1,5 an",
+          "144 ÷ 1 200 ÷ 1,5",
+          "0,08, soit 8 % par an"
+        ],
+        [
+          "Intérêts connus pour 3 mois",
+          "800 €",
+          "12 € sur 0,25 an",
+          "12 ÷ 800 ÷ 0,25",
+          "0,06, soit 6 % par an"
+        ]
+      ],
+      "note": "Pour les périodes courtes, le résultat est annualisé : 12 € sur trois mois représentent ici 1,5 % sur trois mois, soit 6 % par an en intérêt simple."
+    },
+    {
+      "type": "comparison",
+      "heading": "Taux sur la période ou taux annuel : lequel faut-il annoncer ?",
+      "intro": "Un même coût peut paraître très différent selon la période retenue. L'important est d'indiquer l'unité et de comparer des durées identiques.",
+      "left": {
+        "title": "Taux de la période",
+        "points": [
+          "Mesure le coût ou le rendement sur la durée réellement écoulée.",
+          "Exemple : 1,5 % pour trois mois.",
+          "Utile pour comprendre une opération ponctuelle.",
+          "Ne se compare pas directement à un taux annuel sans conversion."
+        ]
+      },
+      "right": {
+        "title": "Taux annualisé",
+        "points": [
+          "Ramène le résultat à une année pour faciliter la comparaison.",
+          "En intérêt simple : taux de période ÷ durée exprimée en années.",
+          "Exemple : 1,5 % sur trois mois devient 6 % par an.",
+          "Doit être distingué du taux annuel effectif si les intérêts se capitalisent."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Intérêts simples et intérêts composés : la nuance qui change tout",
+      "html": "<p>Avec des <strong>intérêts simples</strong>, les intérêts sont toujours calculés sur le capital de départ. Un capital de 1 000 € à 5 % simple produit 50 € d'intérêts par an. Au bout de deux ans, il génère donc 100 € d'intérêts et atteint 1 100 €, hors retraits ou versements.</p><p>Avec des <strong>intérêts composés</strong>, les intérêts acquis s'ajoutent au capital et produisent à leur tour des intérêts. À 5 % capitalisés annuellement, 1 000 € deviennent 1 050 € après un an, puis 1 102,50 € après deux ans. La formule du capital final est : capital final = capital initial × (1 + taux) puissance nombre de périodes.</p><p>Pour retrouver le taux composé à partir d'un capital de départ et d'un capital final, utilisez : <strong>taux = (capital final ÷ capital initial) puissance (1 ÷ nombre d'années) − 1</strong>. Cette formule donne un taux annuel composé, souvent appelé taux de croissance annuel composé. Elle est plus pertinente qu'une division simple lorsque les gains sont réinvestis.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le piège du « 1 % par mois »",
+      "html": "<p>Un taux de 1 % par mois n'équivaut pas exactement à 12 % par an si les intérêts sont capitalisés chaque mois. Le taux effectif annuel est alors égal à (1,01 puissance 12 − 1), soit environ <strong>12,68 %</strong>. Demandez toujours si le taux affiché est mensuel, annuel, nominal ou effectif, et si la capitalisation est incluse.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Pour un crédit, ne vous arrêtez pas au taux débiteur",
+      "html": "<p>Dans un crédit remboursé par mensualités, le capital restant dû baisse à chaque échéance. Les intérêts ne sont donc pas calculés pendant toute la durée sur le montant emprunté initial. La formule d'intérêt simple donne un ordre de grandeur, mais elle ne reconstitue pas exactement le coût réel d'un prêt amortissable.</p><p>Pour comparer deux crédits à la consommation ou immobiliers, regardez d'abord le <strong>TAEG</strong>, le taux annuel effectif global. Il intègre le taux débiteur et les frais obligatoires connus nécessaires à l'obtention du crédit, tels que certains frais de dossier, de garantie ou d'assurance lorsqu'elle est imposée. C'est généralement l'indicateur le plus utile pour comparer des offres de même montant et de même durée.</p><p>Comparez aussi le montant total dû, la durée, le montant des mensualités, les conditions d'assurance et les possibilités de remboursement anticipé. Une mensualité faible peut simplement provenir d'une durée plus longue, ce qui augmente souvent le total des intérêts payés. Un tableau d'amortissement fourni par le prêteur permet de voir, mois par mois, la part de capital et d'intérêts remboursée.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quel indicateur utiliser selon votre situation ?",
+      "intro": "Le bon calcul dépend de la nature de l'opération et de ce que vous cherchez à comparer.",
+      "columns": [
+        "Votre situation",
+        "Indicateur à privilégier",
+        "Calcul ou document utile",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Vous connaissez capital, intérêts et durée",
+          "Taux d'intérêt simple",
+          "I ÷ C ÷ t",
+          "Utiliser des unités de temps cohérentes"
+        ],
+        [
+          "Vous placez de l'argent avec réinvestissement",
+          "Taux annuel composé",
+          "(capital final ÷ capital initial) puissance (1 ÷ n) − 1",
+          "Tenir compte des versements et retraits intermédiaires"
+        ],
+        [
+          "Vous comparez des prêts",
+          "TAEG et coût total",
+          "Fiche d'information et offre de prêt",
+          "Vérifier les frais et assurances obligatoires"
+        ],
+        [
+          "Vous recevez un taux mensuel",
+          "Taux annuel effectif",
+          "(1 + taux mensuel) puissance 12 − 1",
+          "Ne pas multiplier simplement si la capitalisation est mensuelle"
+        ]
+      ],
+      "note": "Les produits financiers peuvent appliquer des conventions de calcul spécifiques, notamment un nombre de jours précis ou une capitalisation à une fréquence donnée."
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs les plus fréquentes — et comment les éviter",
+      "points": [
+        "Oublier de diviser le taux par 100 : 5 % doit être saisi sous la forme 0,05 dans une formule.",
+        "Mélanger les mois et les années : avec un taux annuel, 9 mois correspondent à 0,75 an.",
+        "Prendre le capital final à la place du capital initial dans une formule d'intérêt simple.",
+        "Additionner des frais au hasard aux intérêts : pour comparer un crédit, référez-vous plutôt au TAEG et au coût total communiqués.",
+        "Confondre taux nominal annuel et taux effectif annuel lorsque la capitalisation est mensuelle ou trimestrielle.",
+        "Conclure sur un placement sans déduire, lorsque c'est pertinent, les frais, prélèvements fiscaux et risque de perte en capital."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Vérifier votre calcul avant de signer ou d'investir",
+      "intro": "Quelques contrôles simples évitent une comparaison trompeuse ou un résultat incohérent.",
+      "steps": [
+        {
+          "title": "Mettez toutes les offres sur la même durée",
+          "html": "<p>Ne comparez pas un rendement sur six mois à un taux annuel sans annualiser, ni deux crédits dont la durée diffère sans regarder le coût total. Écrivez systématiquement l'unité après chaque pourcentage.</p>"
+        },
+        {
+          "title": "Identifiez la fréquence de calcul",
+          "html": "<p>Demandez si les intérêts sont calculés chaque mois, trimestre ou année. Cette fréquence a peu d'effet en intérêt simple, mais elle modifie le rendement ou le coût effectif quand les intérêts sont capitalisés.</p>"
+        },
+        {
+          "title": "Faites un contrôle inverse",
+          "html": "<p>Reprenez le taux trouvé et recalculez les intérêts attendus. Pour un calcul simple, capital × taux × durée doit retomber sur le montant d'intérêts connu. Pour un crédit, comparez votre estimation avec le tableau d'amortissement et les informations précontractuelles.</p>"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quelle est la formule pour calculer un taux d'intérêt ?",
+      "a_html": "<p>Pour un calcul en intérêts simples, la formule est : <strong>taux = intérêts ÷ capital initial ÷ durée</strong>. Le résultat est un nombre décimal : multipliez-le par 100 pour l'exprimer en pourcentage.</p><p>Par exemple, 100 € d'intérêts pour 2 000 € sur un an donnent 100 ÷ 2 000 ÷ 1 = 0,05, soit 5 % par an.</p>"
+    },
+    {
+      "q": "Comment calculer les intérêts à partir d'un taux ?",
+      "a_html": "<p>Utilisez la formule de l'intérêt simple : <strong>intérêts = capital × taux × durée</strong>. Le taux doit être écrit en décimal : 3,5 % devient 0,035.</p><p>Pour 4 000 € placés un an à 3,5 %, les intérêts simples sont de 4 000 × 0,035 × 1, soit 140 €.</p>"
+    },
+    {
+      "q": "Comment calculer un taux d'intérêt mensuel à partir d'un taux annuel ?",
+      "a_html": "<p>Si le taux annuel est un taux nominal sans recherche de rendement effectif, on le divise souvent par 12. Ainsi, 12 % nominal annuel correspondent à 1 % par mois.</p><p>Mais si les intérêts se capitalisent mensuellement, le taux mensuel correspondant à un taux annuel effectif se calcule ainsi : (1 + taux annuel effectif) puissance (1 ÷ 12) − 1. Les deux notions ne doivent pas être confondues.</p>"
+    },
+    {
+      "q": "Comment calculer le taux d'intérêt d'un prêt avec mensualités ?",
+      "a_html": "<p>Un prêt amortissable est plus complexe qu'un calcul d'intérêt simple, car chaque mensualité rembourse une part de capital. Le taux est normalement indiqué dans l'offre de crédit, avec le TAEG, les mensualités, le coût total et le tableau d'amortissement.</p><p>Pour comparer deux propositions, utilisez en priorité le TAEG à montant et durée comparables. Une calculatrice de prêt peut aider à simuler une mensualité, mais elle doit intégrer les éventuels frais et l'assurance pour refléter le coût global.</p>"
+    },
+    {
+      "q": "Quelle différence entre taux débiteur et TAEG ?",
+      "a_html": "<p>Le <strong>taux débiteur</strong> sert à calculer les intérêts du crédit. Le <strong>TAEG</strong> exprime le coût annuel global du crédit en intégrant le taux débiteur et les frais obligatoires connus pour obtenir ce crédit.</p><p>Le TAEG est donc généralement plus adapté pour comparer des offres. Il ne dispense pas de lire les conditions : durée, montant total dû, assurance, garanties et clauses de remboursement anticipé restent importants.</p>"
+    },
+    {
+      "q": "Un taux d'intérêt élevé est-il toujours défavorable ?",
+      "a_html": "<p>Pour un emprunteur, un taux élevé augmente en principe le coût du financement. Pour un épargnant, un taux élevé peut sembler attractif, mais il doit être analysé avec la durée de blocage, les frais, la fiscalité, la garantie éventuelle du capital et le niveau de risque.</p><p>Le bon réflexe n'est pas de regarder un pourcentage isolé, mais de comparer le rendement ou le coût net dans des conditions équivalentes.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Calculer un taux d'intérêt revient d'abord à relier trois éléments : le capital initial, les intérêts et le temps. En intérêt simple, la formule intérêts ÷ capital ÷ durée permet de retrouver rapidement un taux fiable, à condition d'aligner les unités et de convertir correctement les pourcentages.</p><p>Pour aller plus loin, distinguez toujours intérêt simple, capitalisation et crédit amortissable. Et lorsqu'il s'agit d'emprunter, prenez le temps de comparer le <strong>TAEG</strong>, le coût total et les modalités du contrat : quelques minutes de vérification peuvent vous aider à choisir une solution réellement adaptée à votre projet.</p>",
+  "__slug": "comment-calculer-un-taux-dinteret-comme-un-pro-en-3-etapes-faciles"
+}

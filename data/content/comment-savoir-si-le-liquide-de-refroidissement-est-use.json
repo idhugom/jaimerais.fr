@@ -1,0 +1,255 @@
+{
+  "title": "Comment savoir si le liquide de refroidissement est usé ? Les signes à vérifier",
+  "meta_description": "Liquide de refroidissement usé : repérez les signes, contrôlez le niveau sans risque et sachez quand le tester, le remplacer ou consulter un garage.",
+  "reading_time_min": 10,
+  "hero_intro": "Le liquide de refroidissement ne sert pas seulement à empêcher le moteur de geler : il évacue la chaleur et protège le circuit contre la corrosion. Lorsqu'il vieillit, se dilue ou se contamine, il peut perdre son efficacité sans forcément déclencher d'alerte immédiate. Voici comment reconnaître un liquide de refroidissement usé, distinguer une simple baisse de niveau d'une panne et agir au bon moment.",
+  "key_takeaways": [
+    "La couleur est un indice, mais elle ne suffit pas : les teintes ne sont pas standardisées selon les fabricants.",
+    "Un liquide trouble, brun, chargé de particules ou recouvert d'un film huileux doit être contrôlé rapidement.",
+    "Un niveau qui baisse régulièrement révèle plus souvent une fuite ou un défaut du circuit qu'un liquide simplement « usé ».",
+    "Vérifiez le vase d'expansion uniquement moteur froid et n'ouvrez jamais un circuit de refroidissement chaud.",
+    "Respectez la périodicité du constructeur : certains liquides longue durée tiennent plusieurs années, mais un contrôle annuel reste utile."
+  ],
+  "toc": [
+    "À quoi sert le liquide de refroidissement et comment vieillit-il ?",
+    "Les signes visibles d'un liquide de refroidissement dégradé",
+    "Liquide à remplacer ou panne du circuit : faire la différence",
+    "Contrôler le niveau sans prendre de risque",
+    "Tester le liquide et connaître le bon moment pour le remplacer",
+    "Quel budget prévoir pour un contrôle ou une vidange ?",
+    "Que faire selon le symptôme constaté ?",
+    "Les bons réflexes pour préserver le circuit de refroidissement"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "À quoi sert le liquide de refroidissement et comment vieillit-il ?",
+      "html": "<p>Le liquide de refroidissement circule entre le moteur, le radiateur et le chauffage de l'habitacle. Il absorbe une partie de la chaleur produite par le moteur, limite le risque de gel en hiver et aide à élever le point d'ébullition du mélange. Ses additifs protègent aussi les métaux du circuit contre la corrosion, les dépôts et, selon les moteurs, contribuent au bon fonctionnement de certains organes comme la pompe à eau.</p><p>Avec le temps, ces additifs protecteurs s'épuisent. Le liquide peut également être dilué par des appoints inadaptés, contaminé par de la rouille ou des boues, ou mélangé à un produit incompatible. Il est donc possible qu'un liquide paraisse encore coloré tout en n'offrant plus une protection suffisante. À l'inverse, une baisse de niveau ne signifie pas automatiquement que le liquide est usé : elle peut révéler une fuite, un bouchon de vase d'expansion défaillant ou un problème mécanique.</p><p>Le bon réflexe consiste à surveiller à la fois <strong>l'aspect du liquide, son niveau, l'évolution de la température moteur et les traces éventuelles autour du circuit</strong>. Cette vision d'ensemble évite de remplacer un produit inutilement tout en laissant passer une anomalie plus sérieuse.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les alertes à ne pas banaliser",
+      "points": [
+        "Liquide brunâtre, rouille, trouble, opaque ou rempli de particules : les additifs peuvent être dégradés ou le circuit encrassé.",
+        "Film gras à la surface, mayonnaise ou huile dans le vase : faites diagnostiquer le véhicule sans attendre.",
+        "Dépôts blanchâtres ou colorés près d'une durite, du radiateur ou du vase : ils signalent souvent une fuite séchée.",
+        "Aiguille de température anormalement haute, voyant de surchauffe ou vapeur : arrêtez-vous dès que vous pouvez le faire en sécurité.",
+        "Niveau qui passe régulièrement sous le repère MINI : cherchez la cause au lieu de faire uniquement des appoints."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les signes d'un liquide de refroidissement usé ou d'un circuit en difficulté",
+      "intro": "L'observation visuelle est utile, mais chaque signe doit être interprété avec prudence : voici ce qu'il peut indiquer et la réaction adaptée.",
+      "columns": [
+        "Ce que vous observez",
+        "Ce que cela peut signifier",
+        "Action conseillée"
+      ],
+      "rows": [
+        [
+          "Liquide limpide et homogène, au niveau correct",
+          "Situation a priori normale, sans garantie sur l'âge réel du liquide",
+          "Contrôlez la date ou le kilométrage de la dernière vidange dans le carnet d'entretien."
+        ],
+        [
+          "Liquide trouble, brun, rouille ou particules en suspension",
+          "Vieillissement, corrosion interne, dépôts ou mélange inadapté",
+          "Prévoyez un contrôle et, souvent, un rinçage ou un remplacement du liquide."
+        ],
+        [
+          "Liquide très foncé ou boueux",
+          "Circuit potentiellement encrassé et protection anticorrosion insuffisante",
+          "Évitez de repousser l'intervention ; demandez un diagnostic du circuit."
+        ],
+        [
+          "Film huileux, mousse persistante ou aspect crémeux",
+          "Possible présence d'huile ou de gaz de combustion dans le circuit",
+          "Faites examiner rapidement le véhicule par un professionnel."
+        ],
+        [
+          "Cristaux, traces blanches ou colorées autour des raccords",
+          "Fuite lente qui a séché au contact de l'air",
+          "Inspectez durites, colliers, radiateur, pompe à eau et vase d'expansion."
+        ],
+        [
+          "Niveau qui diminue régulièrement",
+          "Fuite externe, fuite interne ou défaut de pression du circuit",
+          "Ne vous contentez pas de compléter : recherchez la cause."
+        ],
+        [
+          "Voyant de température, surchauffe ou chauffage habitacle irrégulier",
+          "Circulation insuffisante, niveau bas, thermostat, pompe, radiateur ou liquide défaillant",
+          "Arrêtez le moteur si la température devient anormale et faites contrôler le circuit."
+        ],
+        [
+          "Odeur douceâtre et vapeur près du moteur",
+          "Liquide qui fuit sur une pièce chaude ou surchauffe",
+          "Ne touchez pas au bouchon chaud ; laissez refroidir puis faites diagnostiquer."
+        ]
+      ],
+      "note": "La couleur d'origine varie selon les marques et les technologies. Ne choisissez jamais un liquide uniquement parce qu'il est vert, rose, bleu ou orange comme celui déjà présent."
+    },
+    {
+      "type": "comparison",
+      "heading": "Liquide à remplacer ou anomalie mécanique : comment les distinguer ?",
+      "intro": "Le vieillissement du liquide et une panne du circuit peuvent se cumuler, mais ils n'appellent pas la même réponse.",
+      "left": {
+        "title": "Un liquide probablement en fin de vie",
+        "points": [
+          "La date de remplacement prévue par le constructeur est dépassée.",
+          "Le niveau reste stable, mais le liquide est terne, trouble ou chargé de légers dépôts.",
+          "Aucune surchauffe ni fuite visible n'est constatée.",
+          "Un test compatible indique une protection antigel ou anticorrosion insuffisante.",
+          "La solution est généralement une vidange complète avec le produit homologué."
+        ]
+      },
+      "right": {
+        "title": "Une panne ou une fuite à diagnostiquer",
+        "points": [
+          "Le niveau baisse après plusieurs appoints, même si le liquide est récent.",
+          "Des traces humides, des cristaux ou une flaque apparaissent sous le véhicule.",
+          "La température moteur monte, le ventilateur se déclenche souvent ou le chauffage souffle froid par intermittence.",
+          "Un film huileux, une mousse anormale ou une pression excessive sont visibles.",
+          "La priorité est de localiser la cause avant, ou en même temps que, le remplacement du liquide."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Contrôler le niveau de liquide de refroidissement sans risque",
+      "intro": "Cette vérification simple prend quelques minutes. Elle doit toujours être réalisée moteur froid, idéalement après plusieurs heures d'arrêt.",
+      "steps": [
+        {
+          "title": "Stationnez sur une surface plane",
+          "html": "<p>Coupez le moteur et attendez son refroidissement complet. Un circuit chaud est sous pression : l'ouverture d'un bouchon peut projeter un liquide brûlant.</p>"
+        },
+        {
+          "title": "Repérez le vase d'expansion",
+          "html": "<p>Il s'agit généralement d'un réservoir translucide situé dans le compartiment moteur, marqué par un pictogramme de température ou un avertissement. En cas de doute, consultez le manuel du véhicule.</p>"
+        },
+        {
+          "title": "Lisez les repères MINI et MAXI",
+          "html": "<p>Le niveau doit se situer entre les deux repères lorsque le moteur est froid. Un niveau légèrement variable avec la température est normal ; une baisse répétée, elle, ne l'est pas.</p>"
+        },
+        {
+          "title": "Observez le liquide sans ouvrir inutilement",
+          "html": "<p>Regardez sa limpidité, la présence de boues, de mousse ou d'un film gras. Vérifiez aussi le pourtour du vase, les durites accessibles et le sol sous le véhicule.</p>"
+        },
+        {
+          "title": "Faites un appoint seulement avec le produit adapté",
+          "html": "<p>Si le niveau est bas, utilisez la spécification recommandée dans le manuel ou par le constructeur. Notez la date et la quantité ajoutée : cela aidera à repérer une consommation anormale.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne retirez jamais le bouchon d'un circuit chaud",
+      "html": "<p>Lorsque le moteur est chaud, le liquide de refroidissement peut dépasser 100 °C et le circuit est pressurisé. Attendez le refroidissement complet avant toute manipulation. Si un voyant rouge de température s'allume, arrêtez-vous dès que les conditions de sécurité le permettent, coupez le moteur et ne versez pas d'eau froide sur un moteur surchauffé.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Tester le liquide et savoir quand le remplacer",
+      "html": "<p>La périodicité de remplacement dépend du véhicule et de la technologie de liquide employée. Elle peut aller de quelques années à des intervalles plus longs pour certains liquides dits « longue durée ». Le seul repère fiable reste le plan d'entretien de votre constructeur ou l'historique de votre véhicule. Si vous achetez une voiture d'occasion sans preuve de vidange, un contrôle préventif est raisonnable.</p><p>Un garage peut vérifier la concentration antigel avec un réfractomètre ou un densimètre, puis apprécier l'état global du circuit. Des bandelettes de test existent également pour certains liquides. Attention : <strong>un bon point de congélation ne prouve pas à lui seul que le liquide est sain</strong>. Il renseigne surtout sur la proportion d'eau et d'antigel, pas sur tous les additifs anticorrosion ni sur une contamination éventuelle.</p><p>La couleur doit aussi être interprétée avec prudence. Les couleurs ne suivent pas une norme universelle : deux liquides roses peuvent avoir des formulations différentes, et deux liquides compatibles peuvent avoir des teintes distinctes. Pour un appoint ou une vidange, fiez-vous à la norme demandée par le constructeur, pas à l'apparence du bidon.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Budget : contrôle, appoint ou remplacement du liquide",
+      "intro": "Les montants varient selon la capacité du circuit, la technologie de liquide, l'accessibilité et les opérations nécessaires. Ces fourchettes donnent un ordre de grandeur courant.",
+      "columns": [
+        "Intervention",
+        "Budget généralement constaté",
+        "À savoir"
+      ],
+      "rows": [
+        [
+          "Bidon de liquide prêt à l'emploi",
+          "Environ 10 à 30 € pour plusieurs litres",
+          "Vérifiez impérativement la spécification, pas seulement la couleur."
+        ],
+        [
+          "Liquide concentré",
+          "Souvent entre 15 et 35 € selon le volume",
+          "Il doit être dilué selon les instructions du produit et du constructeur, généralement avec une eau adaptée."
+        ],
+        [
+          "Contrôle du niveau et de la protection",
+          "Parfois inclus dans un entretien, ou environ 20 à 50 €",
+          "Utile si l'historique du véhicule est incertain ou avant l'hiver."
+        ],
+        [
+          "Vidange et remplacement en garage",
+          "Souvent entre 80 et 180 €",
+          "Le tarif dépend du véhicule, du volume de liquide et de la procédure de purge."
+        ],
+        [
+          "Rinçage du circuit ou recherche de fuite",
+          "Souvent à partir de 100 €, davantage si une pièce est en cause",
+          "Le prix augmente si le radiateur, une durite, la pompe à eau ou un autre élément doit être remplacé."
+        ]
+      ],
+      "note": "Demandez un devis si une surchauffe, un mélange huileux ou une fuite est suspecté : la vidange seule ne corrige pas la cause d'un défaut du circuit."
+    },
+    {
+      "type": "steps",
+      "heading": "Que faire selon le symptôme constaté ?",
+      "intro": "Une réponse rapide et proportionnée limite le risque de surchauffe et de réparation coûteuse.",
+      "steps": [
+        {
+          "title": "Le niveau est un peu bas, mais le liquide est propre",
+          "html": "<p>Faites l'appoint à froid avec le liquide conforme, sans dépasser le repère MAXI. Contrôlez de nouveau après quelques trajets. Si le niveau redescend, prenez rendez-vous pour rechercher une fuite.</p>"
+        },
+        {
+          "title": "Le liquide est trouble, brun ou chargé de dépôts",
+          "html": "<p>Planifiez un contrôle prochainement. Une vidange avec rinçage peut être nécessaire, mais le professionnel devra aussi vérifier l'origine de la corrosion ou des boues.</p>"
+        },
+        {
+          "title": "Vous voyez de l'huile, de la mousse ou une substance crémeuse",
+          "html": "<p>Évitez les longs trajets et faites diagnostiquer rapidement le véhicule. Ces signes peuvent traduire un problème qui ne se résout pas par un simple changement de liquide.</p>"
+        },
+        {
+          "title": "Le moteur chauffe ou un voyant s'allume",
+          "html": "<p>Ne poursuivez pas la route si la température reste anormalement élevée. Arrêtez-vous en sécurité, coupez le moteur, laissez refroidir et faites assister ou remorquer le véhicule selon la situation.</p>"
+        },
+        {
+          "title": "Une fuite est visible au sol ou autour du moteur",
+          "html": "<p>Repérez l'emplacement sans vous glisser sous un véhicule mal sécurisé. Photographiez les traces si besoin et faites contrôler rapidement : les petites fuites ont tendance à s'aggraver sous pression.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Les bons réflexes pour préserver le circuit de refroidissement",
+      "html": "<p>Un contrôle visuel du niveau à froid, par exemple à chaque changement de saison ou avant un long trajet, suffit souvent à détecter une anomalie tôt. Gardez aussi un œil sur la température affichée au tableau de bord et sur les traces inhabituelles sous la voiture. Consignez les appoints : ajouter souvent une petite quantité est déjà une information importante pour le garage.</p><p>Évitez de mélanger des liquides de technologies inconnues. En cas de doute sur le produit déjà présent, mieux vaut faire identifier la spécification ou réaliser une vidange complète. N'ajoutez pas de produits « stop fuite » sans avis technique : ils peuvent parfois masquer le symptôme tout en créant des dépôts dans un circuit déjà fragile.</p><p>Enfin, le liquide de refroidissement est toxique pour les personnes et les animaux. Essuyez immédiatement les éclaboussures, conservez les bidons hors de portée et apportez le liquide usagé ainsi que les chiffons souillés en déchetterie ou dans un point de collecte adapté. Il ne doit jamais être versé dans un évier, une bouche d'égout ou la nature.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "À quelle fréquence faut-il changer le liquide de refroidissement ?",
+      "a_html": "<p>La fréquence dépend de la motorisation et du liquide préconisé. Selon les véhicules, elle peut être de quelques années ou nettement plus longue avec un liquide longue durée. Consultez le carnet d'entretien, la facture de la dernière intervention ou le réseau du constructeur avec votre immatriculation ou votre numéro de série.</p><p>Entre deux vidanges, vérifiez le niveau et l'aspect du liquide à froid. Une anomalie visible justifie un contrôle avant l'échéance prévue.</p>"
+    },
+    {
+      "q": "Peut-on se fier à la couleur du liquide de refroidissement ?",
+      "a_html": "<p>Non, pas à elle seule. Un liquide brun, opaque ou boueux est préoccupant, mais une couleur vive ne garantit pas que les additifs sont encore efficaces. Surtout, les couleurs ne correspondent pas à une norme universelle entre les fabricants.</p><p>Pour choisir un liquide, recherchez la norme ou l'homologation indiquée par le constructeur du véhicule. Ne mélangez pas deux produits uniquement parce qu'ils ont une couleur identique.</p>"
+    },
+    {
+      "q": "Puis-je compléter le liquide de refroidissement avec de l'eau ?",
+      "a_html": "<p>Un appoint avec de l'eau peut dépanner exceptionnellement si le manuel du véhicule l'autorise et si aucun liquide adapté n'est disponible, mais ce n'est pas une solution durable. L'eau dilue la protection antigel, réduit la protection anticorrosion et peut modifier les propriétés du mélange.</p><p>Faites ensuite contrôler la concentration et rétablir le mélange conforme dès que possible. N'ajoutez jamais de liquide ou d'eau sur un moteur très chaud.</p>"
+    },
+    {
+      "q": "Pourquoi le niveau de liquide de refroidissement baisse-t-il alors qu'il est propre ?",
+      "a_html": "<p>Un liquide propre peut baisser à cause d'une petite fuite externe, d'un collier ou d'une durite vieillissante, d'un radiateur, d'une pompe à eau ou d'un bouchon de vase qui ne maintient plus correctement la pression. Une fuite interne est également possible dans certains cas.</p><p>Si vous devez refaire l'appoint plusieurs fois, le problème n'est pas réglé : un diagnostic est nécessaire, même en l'absence de flaque au sol.</p>"
+    },
+    {
+      "q": "Est-il dangereux de rouler avec un liquide de refroidissement brun ?",
+      "a_html": "<p>Ce n'est pas un signe à ignorer. Un liquide brun ou rouillé peut indiquer de la corrosion, des boues ou des additifs dégradés, ce qui augmente le risque d'encrassement et de mauvaise régulation thermique. Prenez rendez-vous pour un contrôle dans un délai court.</p><p>En revanche, si le moteur chauffe, si un voyant s'allume, si de la vapeur apparaît ou si le liquide présente de l'huile, évitez de rouler et faites examiner le véhicule rapidement.</p>"
+    },
+    {
+      "q": "Combien coûte une vidange du liquide de refroidissement ?",
+      "a_html": "<p>Pour une vidange simple réalisée en garage, comptez souvent entre 80 et 180 €. Le montant dépend notamment de la quantité de liquide, de la méthode de purge et de l'accessibilité sur votre véhicule.</p><p>Un rinçage, une recherche de fuite ou le remplacement d'une pièce font augmenter le devis. Demandez que la spécification exacte du liquide utilisé soit mentionnée sur la facture.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Un liquide de refroidissement usé se repère rarement avec un seul indice. Un aspect trouble ou brun, des dépôts, une baisse répétée du niveau et une température moteur instable doivent vous alerter. Le plus important est de contrôler le circuit <strong>à froid</strong>, de respecter la spécification du constructeur et de ne pas confondre un simple entretien avec une fuite ou une surchauffe à diagnostiquer.</p><p>En cas de doute, un contrôle en garage coûte bien moins cher qu'une réparation consécutive à une surchauffe. Votre moteur vous remerciera d'une surveillance régulière et de quelques réflexes simples.</p>",
+  "__slug": "comment-savoir-si-le-liquide-de-refroidissement-est-use"
+}

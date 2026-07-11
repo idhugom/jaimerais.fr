@@ -1,0 +1,225 @@
+{
+  "title": "Débuter le skateboard électrique : le guide pour rouler avec confiance et en sécurité",
+  "meta_description": "Apprenez à débuter le skateboard électrique : choisir votre planche, vous protéger, freiner, respecter les règles et progresser sereinement.",
+  "reading_time_min": 12,
+  "hero_intro": "Le skateboard électrique promet une sensation de glisse grisante, mais il demande un peu plus qu'un simple appui sur une télécommande. En choisissant une planche adaptée, en apprenant à freiner avant d'accélérer et en respectant quelques règles simples, vos premières sorties peuvent devenir un vrai plaisir. Voici une méthode concrète pour débuter sans brûler les étapes.",
+  "key_takeaways": [
+    "Privilégiez une planche stable, dotée d'un mode débutant et d'un freinage progressif plutôt qu'un modèle très rapide.",
+    "Casque homologué, protège-poignets et protections articulaires sont vivement recommandés dès la première séance.",
+    "Apprenez d'abord à démarrer, tourner et surtout freiner sur un terrain plat, sec et dégagé.",
+    "En France, le skateboard électrique est assimilé à un engin de déplacement personnel motorisé : vitesse, assurance et circulation sont encadrées.",
+    "L'autonomie réelle dépend fortement du poids du rider, du relief, de la température, du style de conduite et de l'état de la batterie."
+  ],
+  "toc": [
+    "Choisir une planche électrique vraiment adaptée aux débuts",
+    "Comparer les formats de skateboard électrique",
+    "Moteurs hub ou transmission par courroie : que choisir ?",
+    "Les protections indispensables pour apprendre sereinement",
+    "Votre première séance : une progression en cinq étapes",
+    "Maîtriser la posture, les virages et le freinage",
+    "Prévoir le bon budget pour commencer",
+    "Connaître les règles avant de rouler en ville",
+    "Les erreurs qui font chuter les débutants",
+    "Entretenir sa planche et progresser sans prendre de risques"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Choisir une planche électrique vraiment adaptée aux débuts",
+      "html": "<p>Pour une première planche, la <strong>stabilité</strong> compte davantage que la vitesse maximale. Un deck assez long et légèrement souple, des roues de bon diamètre et des trucks réglables pardonnent mieux les erreurs qu'un mini-skate très nerveux. Recherchez surtout un mode « débutant » ou « low », une accélération douce et un frein moteur modulable à la télécommande.</p><p>Calculez l'autonomie selon vos trajets réels, puis gardez une marge confortable. Une planche annoncée pour 20 km peut parcourir nettement moins en montée, par temps froid, avec un rider lourd ou à vive allure. Pour un aller-retour de 8 km, viser au moins 15 à 20 km d'autonomie annoncée est généralement plus serein que de rouler jusqu'au dernier pourcentage.</p><p>Avant l'achat, vérifiez aussi le poids de la planche, la disponibilité des pièces d'usure, la qualité du service après-vente et la garantie. Une planche un peu moins spectaculaire mais réparable, avec des roues, courroies ou batteries identifiables, sera souvent un meilleur premier investissement.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quel type de skateboard électrique pour débuter ?",
+      "intro": "Le bon choix dépend surtout de votre usage, de votre gabarit et des revêtements que vous rencontrerez au quotidien.",
+      "columns": [
+        "Format",
+        "Pour quel usage ?",
+        "Atouts pour un débutant",
+        "Points de vigilance"
+      ],
+      "rows": [
+        [
+          "Cruiser compact",
+          "Petits trajets urbains, transport multimodal",
+          "Maniable, plus facile à porter, prise en main rapide",
+          "Souvent plus nerveux et moins confortable sur chaussée dégradée"
+        ],
+        [
+          "Longboard urbain",
+          "Balades, déplacements réguliers, pistes lisses",
+          "Empattement stable, conduite plus progressive, bon confort",
+          "Plus encombrant et généralement plus lourd"
+        ],
+        [
+          "Longboard avec grandes roues",
+          "Routes imparfaites, longues distances, confort prioritaire",
+          "Absorbe mieux les vibrations, franchit plus facilement les petites fissures",
+          "Poids, prix et inertie souvent plus élevés"
+        ],
+        [
+          "Modèle tout-terrain",
+          "Chemins fermes et usages spécifiques hors voirie",
+          "Roues pneumatiques et meilleure motricité sur terrain irrégulier",
+          "Très lourd, coûteux et pas adapté à tous les espaces ni à toutes les conditions"
+        ]
+      ],
+      "note": "Ne vous fiez pas uniquement aux chiffres du fabricant : comparez le poids, le mode débutant, les pièces disponibles et les retours sur le freinage."
+    },
+    {
+      "type": "comparison",
+      "heading": "Moteurs hub ou transmission par courroie : deux sensations de conduite",
+      "intro": "La motorisation influence l'entretien, le confort sonore et le comportement de la planche. Les deux solutions peuvent convenir à un débutant si le réglage de puissance est progressif.",
+      "left": {
+        "title": "Moteurs hub intégrés aux roues",
+        "points": [
+          "Conception souvent plus discrète et plus silencieuse.",
+          "Entretien limité, sans courroie à remplacer.",
+          "Roule parfois plus fermement lorsque la batterie est vide.",
+          "Le confort dépend beaucoup de la qualité et de l'épaisseur des roues."
+        ]
+      },
+      "right": {
+        "title": "Transmission par courroie",
+        "points": [
+          "Accélération et freinage souvent plus francs et plus modulables.",
+          "Permet parfois de changer plus facilement de diamètre de roues selon le modèle.",
+          "Demande de surveiller la tension et l'usure des courroies.",
+          "Peut être plus bruyante et nécessite un peu plus d'entretien."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réflexe qui change tout : tester le frein avant le trajet",
+      "html": "<p>Sur un espace vide, roulez à faible allure et entraînez-vous à vous arrêter plusieurs fois. Repérez la distance nécessaire et la progressivité de la gâchette. Ne découvrez jamais le freinage puissant d'une planche au moment où un piéton, un feu ou une descente se présente.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Votre première séance : une progression en cinq étapes",
+      "intro": "Prévoyez 30 à 45 minutes sur un grand espace plat, sec, lisse et éloigné de la circulation. Un parking vide autorisé ou une zone d'apprentissage sans obstacles convient mieux qu'une rue animée.",
+      "steps": [
+        {
+          "title": "Préparez le matériel",
+          "html": "<p>Chargez la télécommande et la planche, contrôlez visuellement les roues et les vis accessibles, puis enfilez vos protections. Consultez le manuel afin d'identifier le mode de conduite le plus lent et la procédure d'arrêt de la planche.</p>"
+        },
+        {
+          "title": "Trouvez votre stance à l'arrêt",
+          "html": "<p>Montez sur la planche éteinte, pieds écartés à peu près à la largeur des épaules. Le pied avant est placé légèrement en biais ; le pied arrière reste proche de l'axe arrière. Essayez pied gauche devant puis pied droit devant : choisissez la position dans laquelle vous résistez le mieux à une légère poussée.</p>"
+        },
+        {
+          "title": "Apprivoisez la télécommande",
+          "html": "<p>Sans chercher à aller loin, déclenchez une accélération très douce, relâchez, puis utilisez le frein progressivement. Gardez toujours la télécommande en main ferme, avec la dragonne si elle est fournie.</p>"
+        },
+        {
+          "title": "Roulez en ligne droite et regardez loin",
+          "html": "<p>Fléchissez légèrement les genoux, gardez le buste souple et fixez votre regard à plusieurs mètres devant vous. Faites de courts passages en ligne droite, sans téléphone, écouteurs ni sac mal fixé.</p>"
+        },
+        {
+          "title": "Ajoutez les virages puis les arrêts",
+          "html": "<p>Dessinez de larges courbes à faible vitesse avant de travailler les arrêts à un point précis. Lorsque vous savez ralentir sans panique, augmentez très progressivement la distance, jamais la vitesse et la difficulté le même jour.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Maîtriser la posture, les virages et le freinage",
+      "html": "<p>Une bonne posture n'est pas figée : elle reste <strong>basse, souple et centrée</strong>. Les genoux absorbent les vibrations et les petites erreurs de trajectoire. Évitez de verrouiller les jambes ou de vous tenir droit comme sur un trottoir roulant : au moindre défaut du sol, vous perdriez beaucoup de contrôle.</p><p>Pour tourner, regardez d'abord vers la sortie du virage, orientez doucement les épaules puis transférez la pression vers les orteils ou les talons. Commencez avec des courbes amples. Des trucks trop serrés limitent la maniabilité ; trop desserrés, ils rendent la planche instable. Ajustez-les par petits incréments, jamais juste avant une longue sortie.</p><p>Au freinage, relâchez l'accélérateur tôt, abaissez votre centre de gravité et actionnez la commande avec progressivité. Anticipez largement sur sol humide, gravillonné ou en descente. Sur certains modèles, une batterie presque pleine peut limiter le freinage régénératif dans une pente : ne vous engagez pas sur une descente soutenue sans connaître précisément le comportement prévu par le fabricant.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Pluie, feuilles et gravillons : mieux vaut renoncer",
+      "html": "<p>La plupart des skateboards électriques ne sont pas conçus pour rouler dans l'eau. Un sol mouillé réduit fortement l'adhérence et peut endommager l'électronique, les roulements ou la batterie. Après la pluie, attendez que le parcours soit sec ; les plaques métalliques, bandes blanches, feuilles et gravillons restent particulièrement glissants.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quel budget prévoir pour débuter correctement ?",
+      "intro": "Les montants varient selon la marque, la batterie, le réseau de réparation et les promotions. L'essentiel est de ne pas sacrifier les protections et le suivi de la planche.",
+      "columns": [
+        "Poste de dépense",
+        "Ordre de grandeur",
+        "À privilégier"
+      ],
+      "rows": [
+        [
+          "Planche d'entrée de gamme",
+          "Environ 400 à 700 €",
+          "Un freinage réglable, un mode lent et des pièces accessibles plutôt qu'une vitesse élevée"
+        ],
+        [
+          "Planche urbaine plus durable",
+          "Souvent 700 à 1 300 €",
+          "Meilleure autonomie utile, confort de roues, garantie et support technique"
+        ],
+        [
+          "Casque et protections",
+          "Environ 100 à 250 €",
+          "Casque homologué bien ajusté, protège-poignets, genouillères et coudières"
+        ],
+        [
+          "Entretien et consommables",
+          "Environ 50 à 150 € la première année selon l'usage",
+          "Outil adapté, roues ou courroies selon le modèle, nettoyage et éventuels roulements"
+        ],
+        [
+          "Assurance responsabilité civile",
+          "Tarif variable selon le contrat",
+          "Vérifier explicitement la couverture des engins de déplacement personnel motorisés"
+        ]
+      ],
+      "note": "Un ensemble débutant cohérent coûte souvent davantage que la seule planche. Méfiez-vous des offres très basses sans garantie claire, chargeur identifiable ni pièces de rechange."
+    },
+    {
+      "type": "prose",
+      "heading": "Connaître les règles avant de rouler en ville",
+      "html": "<p>En France, le skateboard électrique relève en principe de la catégorie des <strong>engins de déplacement personnel motorisés</strong>. La vitesse autorisée est limitée à 25 km/h sur la voie publique et l'âge minimal est de 12 ans. Une responsabilité civile adaptée est obligatoire : vérifiez votre contrat ou souscrivez une garantie dédiée avant d'utiliser la planche hors espace privé.</p><p>La circulation se fait généralement sur les pistes ou bandes cyclables lorsqu'elles existent, ou sur les voies autorisées en agglomération. Les trottoirs sont en principe interdits, sauf autorisation locale, auquel cas l'allure doit rester celle du pas et ne pas gêner les piétons. Les règles de circulation, les zones interdites et les obligations d'équipement peuvent varier selon la commune et le type de voie.</p><p>Avant un trajet, renseignez-vous sur la signalisation locale et assurez-vous que votre planche et votre équipement répondent aux obligations applicables, notamment pour l'éclairage, les dispositifs réfléchissants, le freinage et l'avertisseur sonore. La nuit ou lorsque la visibilité baisse, rendez-vous visible et réduisez nettement votre allure.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs qui font chuter les débutants",
+      "points": [
+        "Passer directement au mode rapide parce que la ligne droite paraît facile.",
+        "Freiner brutalement avec les jambes tendues ou le poids mal réparti.",
+        "Rouler trop près des portières de voiture, des piétons ou du bord du trottoir.",
+        "Sous-estimer les fissures, plaques d'égout, gravillons, rails et raccords de bitume.",
+        "Partir avec une batterie faible ou une télécommande non chargée.",
+        "Utiliser une planche modifiée ou plus rapide que la réglementation ne l'autorise sur la voie publique."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Entretenir sa planche et progresser sans prendre de risques",
+      "html": "<p>Avant chaque sortie, jetez un coup d'œil aux roues, aux écrous, au grip, aux câbles visibles et au niveau de batterie. Après une sortie poussiéreuse, essuyez la planche avec un chiffon légèrement sec ou à peine humide selon les préconisations du fabricant. N'utilisez pas de jet d'eau et ne chargez jamais une batterie abîmée, chaude ou mouillée.</p><p>Pour préserver la batterie, utilisez le chargeur recommandé, chargez-la sur une surface non inflammable et ne la laissez pas sans surveillance prolongée. En cas de stockage de plusieurs semaines, suivez le niveau de charge conseillé par la marque, souvent intermédiaire, et conservez la planche dans un endroit sec, tempéré et hors de portée des enfants.</p><p>La progression utile consiste à améliorer votre regard, vos trajectoires et votre anticipation, pas à rechercher immédiatement la vitesse. Une fois les fondamentaux acquis, entraînez-vous aux demi-tours, au freinage en pente douce et à la lecture du revêtement. Rouler avec un pratiquant expérimenté ou prendre un cours peut faire gagner beaucoup de confiance, à condition de garder votre propre rythme.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quel skateboard électrique choisir pour un vrai débutant ?",
+      "a_html": "<p>Choisissez de préférence un longboard ou un cruiser stable doté d'un <strong>mode débutant</strong>, d'une accélération douce et d'un freinage progressif. Une vitesse de pointe élevée n'est pas un avantage pour apprendre : le confort des roues, la stabilité et la qualité du SAV comptent bien plus.</p><p>Vérifiez aussi que le poids de la planche reste compatible avec votre quotidien. Une planche de 12 kg peut être agréable à rouler, mais pénible à porter dans des escaliers ou les transports.</p>"
+    },
+    {
+      "q": "Faut-il savoir faire du skateboard classique avant de rouler en électrique ?",
+      "a_html": "<p>Non, ce n'est pas indispensable. Une expérience en skateboard, surf, snowboard ou roller peut aider à comprendre l'équilibre, mais l'accélération et le freinage électriques créent des réactions différentes. Un débutant complet peut apprendre, à condition de commencer sur terrain plat, en mode lent et bien protégé.</p>"
+    },
+    {
+      "q": "Quelles protections faut-il porter en skateboard électrique ?",
+      "a_html": "<p>Un casque homologué et bien ajusté est le minimum. Pour les premières séances, ajoutez des protège-poignets, des genouillères et des coudières : les chutes lentes touchent fréquemment les mains et les articulations.</p><p>Pour rouler par faible luminosité, prévoyez également des éléments visibles et vérifiez les obligations locales applicables à votre engin.</p>"
+    },
+    {
+      "q": "Peut-on rouler sur le trottoir avec un skateboard électrique ?",
+      "a_html": "<p>En France, la circulation sur le trottoir est en principe interdite aux engins de déplacement personnel motorisés. Certaines collectivités peuvent l'autoriser localement, à l'allure du pas et sans gêner les piétons. Consultez la signalisation et les règles de votre commune avant de partir.</p>"
+    },
+    {
+      "q": "Peut-on utiliser un skateboard électrique sous la pluie ?",
+      "a_html": "<p>C'est déconseillé, même si un modèle annonce une certaine résistance aux projections. L'adhérence chute rapidement sur sol mouillé et l'eau peut atteindre les roulements, le contrôleur ou la batterie. La prudence consiste à reporter la sortie et à ne jamais traverser de flaques profondes.</p>"
+    },
+    {
+      "q": "Pourquoi l'autonomie de ma planche est-elle inférieure à celle annoncée ?",
+      "a_html": "<p>L'autonomie communiquée est souvent mesurée dans des conditions favorables. Le froid, les côtes, un revêtement rugueux, une conduite sportive, une forte charge ou une batterie vieillissante réduisent la distance disponible.</p><p>Pour éviter la panne, prévoyez une marge importante et n'organisez pas un trajet en utilisant la totalité de l'autonomie théorique.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Débuter le skateboard électrique, c'est avant tout apprendre à être précis et prévoyant. Une planche adaptée, des protections complètes, un freinage maîtrisé et le respect des règles transforment rapidement l'appréhension en plaisir de glisse. Prenez le temps de construire vos réflexes : votre confiance viendra naturellement, sortie après sortie.</p>",
+  "__slug": "conseils-essentiels-pour-debuter-en-skateboard-electrique-avec-confiance"
+}
