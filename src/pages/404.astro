@@ -1,0 +1,26 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Page introuvable" description="Cette envie s'est envolée…" noindex={true}>
+  <section class="nf">
+    <span class="blob" style="width:40vw;height:40vw;top:-10vw;left:20vw;background:var(--grad-love);opacity:.35;"></span>
+    <div class="container nf__inner">
+      <div class="nf__emoji" aria-hidden="true">💔</div>
+      <h1 class="nf__code gradient-text">404</h1>
+      <h2>Oups, cette envie s'est envolée…</h2>
+      <p>La page que vous cherchez n'existe plus ou a changé d'adresse. Mais rassurez-vous, il reste des milliers d'envies à explorer&nbsp;!</p>
+      <div class="nf__actions">
+        <a href="/" class="btn" data-magnetic>Retour à l'accueil</a>
+        <a href="/conseils" class="btn ghost">Voir toutes les envies</a>
+      </div>
+    </div>
+  </section>
+  <style>
+    .nf { position: relative; overflow: hidden; min-height: 70vh; display: grid; place-items: center; text-align: center; }
+    .nf__inner { max-width: 560px; }
+    .nf__emoji { font-size: 3.4rem; animation: floaty 4s ease-in-out infinite; }
+    .nf__code { font-size: clamp(4rem, 3rem + 8vw, 9rem); line-height: 1; margin: .2rem 0; }
+    .nf p { color: var(--ink-soft); font-size: 1.1rem; margin: 1rem 0 2rem; }
+    .nf__actions { display: flex; gap: .9rem; justify-content: center; flex-wrap: wrap; }
+  </style>
+</Base>

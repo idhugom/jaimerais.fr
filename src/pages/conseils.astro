@@ -1,0 +1,70 @@
+---
+import Base from '../layouts/Base.astro';
+import PostCard from '../components/PostCard.astro';
+import { getCatalog, getReadyPosts, readySlugs } from '../lib/data.mjs';
+
+const readySet = readySlugs();
+const catalog = getCatalog();
+const ready = getReadyPosts();
+// Ready posts first (fully redesigned), then the rest.
+const posts = [...ready, ...catalog.filter((p) => !readySet.has(p.slug))];
+const total = catalog.length;
+---
+<Base
+  title="Toutes les envies — conseils & guides"
+  description={`Explorez ${total.toLocaleString('fr-FR')} conseils, guides et inspirations pour vivre toutes vos envies. Recherchez l'idée qui vous ressemble.`}
+>
+  <section class="list-hero">
+    <span class="blob" style="width:38vw;height:38vw;top:-16vw;right:-8vw;background:var(--grad-dream);opacity:.35;"></span>
+    <div class="container list-hero__inner">
+      <p class="eyebrow reveal in">Toutes les envies</p>
+      <h1 class="reveal in">Qu'aimeriez-vous <span class="gradient-text">explorer</span> aujourd'hui&nbsp;?</h1>
+      <p class="list-hero__lead reveal in" data-delay="60">
+        {total.toLocaleString('fr-FR')} conseils et guides pensés pour vous aider à décider, comparer et passer à l'action.
+      </p>
+      <div class="search-box reveal in" data-delay="100">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3-3"/></svg>
+        <input type="search" placeholder="Rechercher une envie, un sujet…" data-search aria-label="Rechercher un article" />
+      </div>
+    </div>
+    <svg class="wave" viewBox="0 0 1440 80" preserveAspectRatio="none" aria-hidden="true"><path d="M0,40 C360,80 720,0 1080,36 C1260,54 1380,50 1440,40 L1440,80 L0,80 Z" fill="#fff"></path></svg>
+  </section>
+
+  <section class="section" style="background:#fff;padding-top:2rem;">
+    <div class="container-wide">
+      <p class="list-count" data-search-empty style="display:none;">Aucune envie ne correspond à votre recherche. Essayez un autre mot&nbsp;!</p>
+      <div class="list-grid">
+        {posts.map((p, i) => (
+          <div
+            class="list-grid__item"
+            data-search-item={`${p.title} ${p.excerpt || ''} ${p.slug.replace(/-/g, ' ')}`}
+          >
+            <PostCard post={p} ready={readySet.has(p.slug)} eager={i < 8} />
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <style>
+    .list-hero { position: relative; overflow: hidden; padding: clamp(2rem,1.5rem+3vw,4rem) 0 0; text-align: center; }
+    .list-hero__inner { max-width: 760px; }
+    .list-hero__lead { color: var(--ink-soft); font-size: 1.15rem; max-width: 52ch; margin: .6rem auto 2rem; }
+    .search-box {
+      display: flex; align-items: center; gap: .7rem; background: #fff; border-radius: 999px;
+      padding: .3rem .3rem .3rem 1.3rem; box-shadow: var(--shadow-md); max-width: 560px; margin: 0 auto;
+      color: var(--rose); border: 1px solid rgba(255,61,129,.15);
+    }
+    .search-box input {
+      flex: 1; border: 0; outline: 0; background: none; padding: .85rem .4rem; font-size: 1.05rem; color: var(--ink);
+      font-family: inherit;
+    }
+    .search-box:focus-within { box-shadow: var(--shadow-glow); }
+
+    .list-count { text-align: center; color: var(--ink-soft); font-size: 1.1rem; padding: 2rem 0; }
+    .list-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.4rem; }
+    @media (max-width: 1100px) { .list-grid { grid-template-columns: repeat(3, 1fr); } }
+    @media (max-width: 780px) { .list-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 480px) { .list-grid { grid-template-columns: 1fr; } }
+  </style>
+</Base>

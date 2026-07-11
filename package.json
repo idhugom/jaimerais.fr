@@ -1,0 +1,30 @@
+{
+  "name": "jaimerais",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "jaimerais.fr — le magazine des envies. Conseils, guides et inspirations.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "data:fetch": "node scripts/fetch-posts.mjs",
+    "data:images": "node scripts/optimize-images.mjs",
+    "content:batch:build": "node scripts/build-batch.mjs",
+    "content:batch:submit": "node scripts/submit-batch.mjs",
+    "content:batch:ingest": "node scripts/ingest-batch.mjs",
+    "content:sync": "node scripts/gen-tranche.mjs",
+    "images:gen": "node scripts/gen-images.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/fraunces": "^5.1.0",
+    "@fontsource-variable/plus-jakarta-sans": "^5.1.0",
+    "@fontsource/caveat": "^5.1.0",
+    "astro": "^5.6.1"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.61.1",
+    "sharp": "^0.34.1"
+  }
+}

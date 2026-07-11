@@ -1,0 +1,22 @@
+# build output
+dist/
+.astro/
+
+# deps
+node_modules/
+
+# env / secrets
+.env
+.env.*
+.dev.vars
+
+# pipeline working files (large / regenerable)
+scripts/.cache/
+data/batch/*.jsonl
+data/batch/*.output.jsonl
+data/raw-posts.json
+
+# os
+.DS_Store
+Thumbs.db
+npm-debug.log*

@@ -1,0 +1,85 @@
+---
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <svg class="wave" viewBox="0 0 1440 80" preserveAspectRatio="none" aria-hidden="true">
+    <path d="M0,40 C240,90 480,0 720,32 C960,64 1200,90 1440,36 L1440,80 L0,80 Z" fill="url(#footgrad)"></path>
+    <defs>
+      <linearGradient id="footgrad" x1="0" x2="1">
+        <stop offset="0" stop-color="#ff3d81"></stop>
+        <stop offset="0.5" stop-color="#ff7a59"></stop>
+        <stop offset="1" stop-color="#a66cff"></stop>
+      </linearGradient>
+    </defs>
+  </svg>
+  <div class="site-footer__body">
+    <div class="container-wide site-footer__grid">
+      <div class="footer-brand">
+        <a href="/" class="brand brand--light">
+          <span class="brand__mark" aria-hidden="true">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-8-5.3-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 5.7-8 11-8 11z"/></svg>
+          </span>
+          <span class="brand__text">jaimerais<span class="brand__dot">.fr</span></span>
+        </a>
+        <p class="footer-tagline">
+          Le magazine des envies. On transforme chaque <span class="hand">« j'aimerais… »</span> en projet concret, avec des conseils clairs et bienveillants.
+        </p>
+        <div class="footer-hearts" aria-hidden="true">♥ ♡ ♥ ♡ ♥</div>
+      </div>
+
+      <nav class="footer-col" aria-label="Découvrir">
+        <h4>Découvrir</h4>
+        <a href="/">Accueil</a>
+        <a href="/conseils">Toutes les envies</a>
+        <a href="/a-propos">À propos</a>
+      </nav>
+
+      <nav class="footer-col" aria-label="Informations">
+        <h4>Le coin pratique</h4>
+        <a href="/conseils">Conseils &amp; guides</a>
+        <a href="/mentions-legales">Mentions légales</a>
+        <a href="/sitemap.xml">Plan du site</a>
+      </nav>
+
+      <div class="footer-col">
+        <h4>Envie de rêver&nbsp;?</h4>
+        <p class="footer-note">Chaque semaine, de nouvelles idées pour nourrir vos envies. Suivez le mouvement.</p>
+        <a href="/conseils" class="btn ghost" style="margin-top:.4rem;">Commencer à explorer</a>
+      </div>
+    </div>
+
+    <div class="container-wide footer-bottom">
+      <p>© {year} jaimerais.fr — fait avec <span style="color:var(--rose)">♥</span> et beaucoup d'envies.</p>
+      <p class="footer-credit">Contenus & visuels repensés · magazine indépendant</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer { position: relative; margin-top: 4rem; }
+  .wave { margin-bottom: -2px; }
+  .site-footer__body {
+    background: linear-gradient(180deg, #2a1622 0%, #3a1c2e 100%);
+    color: #ffe9f1; padding: 1rem 0 2rem;
+  }
+  .site-footer__grid {
+    display: grid; grid-template-columns: 1.6fr 1fr 1fr 1.3fr; gap: 2.5rem;
+    padding-block: 2.5rem 3rem;
+  }
+  .brand--light .brand__text { color: #fff; }
+  .footer-tagline { color: #f3cdda; max-width: 34ch; margin-top: 1rem; line-height: 1.6; }
+  .footer-hearts { margin-top: 1rem; letter-spacing: .4rem; color: var(--coral); }
+  .footer-col h4 { font-family: var(--font-display); color: #fff; font-size: 1.1rem; margin: 0 0 1rem; }
+  .footer-col a { display: block; color: #e7c2d1; padding: .28rem 0; transition: color .25s, transform .25s; }
+  .footer-col a:hover { color: #fff; transform: translateX(4px); }
+  .footer-note { color: #e7c2d1; font-size: .92rem; }
+  .footer-bottom {
+    display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
+    padding-top: 1.6rem; border-top: 1px solid rgba(255,255,255,.1); color: #c99cad; font-size: .86rem;
+  }
+  @media (max-width: 860px) {
+    .site-footer__grid { grid-template-columns: 1fr 1fr; gap: 2rem; }
+    .footer-brand { grid-column: 1 / -1; }
+  }
+  @media (max-width: 520px) { .site-footer__grid { grid-template-columns: 1fr; } }
+</style>

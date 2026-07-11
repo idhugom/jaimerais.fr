@@ -1,0 +1,120 @@
+---
+import '@fontsource-variable/fraunces';
+import '@fontsource-variable/plus-jakarta-sans';
+import '@fontsource/caveat/400.css';
+import '@fontsource/caveat/700.css';
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const {
+  title,
+  description = "jaimerais.fr — le magazine des envies. Conseils, guides et inspirations pour passer de « j'aimerais… » à « je l'ai fait ».",
+  image = '/og-default.jpg',
+  article = false,
+  noindex = false,
+} = Astro.props;
+
+const site = 'https://jaimerais.fr';
+const canonical = new URL(Astro.url.pathname, site).href.replace(/\/$/, '') || site;
+const ogImage = image.startsWith('http') ? image : site + image;
+const fullTitle = title ? `${title} · jaimerais.fr` : 'jaimerais.fr — le magazine des envies';
+---
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script is:inline>
+      document.documentElement.classList.add('js');
+      // Keep preview/preprod (*.pages.dev) out of search indexes; the real
+      // domain (jaimerais.fr) stays indexable.
+      if (location.hostname.endsWith('.pages.dev')) {
+        var m = document.createElement('meta');
+        m.name = 'robots'; m.content = 'noindex, nofollow';
+        document.head.appendChild(m);
+      }
+      window.addEventListener('load', function () {
+        setTimeout(function () {
+          if (!window.__uiReady) {
+            document.querySelectorAll('.reveal').forEach(function (el) { el.classList.add('in'); });
+          }
+        }, 3000);
+      });
+    </script>
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
+    <link rel="canonical" href={canonical} />
+    <meta name="theme-color" content="#ff3d81" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content={article ? 'article' : 'website'} />
+    <meta property="og:site_name" content="jaimerais.fr" />
+    <meta property="og:title" content={title || 'jaimerais.fr — le magazine des envies'} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:locale" content="fr_FR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title || 'jaimerais.fr'} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="sitemap" href="/sitemap.xml" />
+    <slot name="head" />
+  </head>
+  <body>
+    <div class="cursor" aria-hidden="true"><span class="cursor__dot"></span><span class="cursor__ring"></span></div>
+    <div class="decor" aria-hidden="true">
+      <span class="blob" style="width:46vw;height:46vw;top:-14vw;left:-10vw;background:var(--grad-love);"></span>
+      <span class="blob" style="width:38vw;height:38vw;top:24vh;right:-12vw;background:var(--grad-dream);animation-delay:-7s;"></span>
+      <span class="blob" style="width:30vw;height:30vw;bottom:-8vw;left:18vw;background:var(--grad-sun);animation-delay:-13s;opacity:.4;"></span>
+      <svg class="floaty heart" style="left:12%;top:22%;--rot:-8deg;" width="34" height="34" viewBox="0 0 24 24" fill="#ff7a59"><path d="M12 21s-8-5.3-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 5.7-8 11-8 11z"/></svg>
+      <svg class="floaty heart" style="right:16%;top:38%;--rot:10deg;animation-delay:-3s;" width="22" height="22" viewBox="0 0 24 24" fill="#a66cff"><path d="M12 21s-8-5.3-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 5.7-8 11-8 11z"/></svg>
+      <svg class="floaty spark" style="left:82%;top:14%;--rot:0deg;animation-delay:-5s;" width="26" height="26" viewBox="0 0 24 24" fill="#ffc24b"><path d="M12 2l1.9 6.1L20 10l-6.1 1.9L12 18l-1.9-6.1L4 10l6.1-1.9L12 2z"/></svg>
+    </div>
+
+    <div class="reading-progress" aria-hidden="true"><span></span></div>
+
+    <Header />
+    <main id="content">
+      <slot />
+    </main>
+    <Footer />
+
+    <a href="#content" class="skip-link">Aller au contenu</a>
+
+    <style is:global>
+      /* ---- Custom cursor ---- */
+      .cursor { position: fixed; top: 0; left: 0; z-index: 9999; pointer-events: none; mix-blend-mode: multiply; }
+      .cursor__dot, .cursor__ring { position: fixed; top: 0; left: 0; border-radius: 50%; transform: translate(-50%, -50%); pointer-events: none; }
+      .cursor__dot { width: 8px; height: 8px; background: var(--rose); }
+      .cursor__ring {
+        width: 40px; height: 40px;
+        background: radial-gradient(circle, rgba(255,122,89,.35), rgba(255,61,129,.12) 60%, transparent 70%);
+        transition: width .25s var(--ease-spring), height .25s var(--ease-spring), background .25s;
+      }
+      .cursor.hot .cursor__ring { width: 64px; height: 64px; background: radial-gradient(circle, rgba(166,108,255,.4), rgba(255,61,129,.15) 60%, transparent 72%); }
+      @media (hover: none), (pointer: coarse) { .cursor { display: none; } }
+
+      .decor { position: fixed; inset: 0; z-index: -1; overflow: hidden; pointer-events: none; }
+      .floaty { position: absolute; animation: floaty 7s ease-in-out infinite; opacity: .85; filter: drop-shadow(0 8px 14px rgba(255,61,129,.25)); }
+
+      .heart-burst { position: fixed; z-index: 9998; pointer-events: none; font-size: 16px; will-change: transform, opacity; }
+
+      .reading-progress { position: fixed; top: 0; left: 0; right: 0; height: 4px; z-index: 9000; background: transparent; opacity: 0; transition: opacity .3s; }
+      .reading-progress.on { opacity: 1; }
+      .reading-progress span { display: block; height: 100%; width: 0; background: var(--grad-love); box-shadow: 0 0 12px rgba(255,61,129,.6); border-radius: 0 4px 4px 0; }
+
+      .skip-link { position: fixed; left: -999px; top: 1rem; z-index: 10000; background: #fff; color: var(--rose-deep); padding: .6rem 1rem; border-radius: 999px; box-shadow: var(--shadow-md); }
+      .skip-link:focus { left: 1rem; }
+    </style>
+
+    <script>
+      import '../scripts/ui.js';
+    </script>
+  </body>
+</html>

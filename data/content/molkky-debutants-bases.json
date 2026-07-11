@@ -1,0 +1,225 @@
+{
+  "title": "Jeu de Mölkky pour débutants : règles, installation et conseils pour bien jouer",
+  "meta_description": "Apprenez les règles du Mölkky, le placement des quilles, le comptage des points et les bons gestes pour réussir vos premières parties en plein air.",
+  "reading_time_min": 9,
+  "hero_intro": "Facile à sortir, rapide à comprendre et plein de rebondissements, le Mölkky transforme un jardin, un parc ou une plage en terrain de jeu convivial. Derrière ses quilles numérotées se cache une règle essentielle : il ne suffit pas de marquer beaucoup, il faut atteindre exactement 50 points. Voici tout ce qu'il faut savoir pour lancer votre première partie sereinement, sans discussion sur les règles.",
+  "key_takeaways": [
+    "Le but est d'atteindre exactement 50 points : dépasser ce total fait retomber le score à 25 points.",
+    "Une seule quille tombée rapporte son numéro ; plusieurs quilles tombées rapportent un point chacune.",
+    "Les quilles sont relevées à l'endroit précis où elles sont tombées, ce qui fait évoluer la partie à chaque lancer.",
+    "Pour débuter, placez la ligne de lancer à environ 3,5 à 4 mètres du groupe de quilles sur un terrain dégagé.",
+    "La précision, la lecture du terrain et la gestion du score comptent autant que la force du lancer."
+  ],
+  "toc": [
+    "Pourquoi le Mölkky plaît autant aux débutants",
+    "Le matériel et le terrain nécessaires",
+    "Installer les quilles et préparer la partie",
+    "Compter les points sans se tromper",
+    "Déroulement d'une partie de Mölkky",
+    "Conseils de lancer et premières stratégies",
+    "Choisir, transporter et entretenir son jeu"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi le Mölkky plaît autant aux débutants",
+      "html": "<p>Le Mölkky est un jeu de quilles finlandais qui se joue dehors, seul contre tous ou en équipes. Son principe est immédiatement accessible : on lance un bâton en bois sur des quilles numérotées. Pourtant, la partie devient vite tactique, car les points ne se comptent pas toujours de la même façon et le score final doit être atteint avec une grande précision.</p><p>Il convient à des groupes d'âges et de niveaux très différents. Un enfant peut viser les quilles les plus proches, tandis qu'un joueur expérimenté cherchera à isoler une quille précise, à éviter un dépassement ou à déplacer les cibles pour compliquer le tour suivant. Il n'est pas nécessaire d'être sportif : un geste contrôlé est plus utile qu'un lancer puissant.</p><p>Le jeu fonctionne particulièrement bien lors d'un pique-nique, d'un anniversaire, de vacances en camping ou d'un après-midi au parc. Prévoyez simplement un espace où personne ne risque de traverser la zone de lancer, et annoncez clairement les règles avant le premier tour.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "Les trois chiffres à retenir avant de jouer",
+      "items": [
+        {
+          "value": "12",
+          "label": "quilles numérotées de 1 à 12 à viser"
+        },
+        {
+          "value": "50",
+          "label": "points à atteindre exactement pour gagner"
+        },
+        {
+          "value": "3",
+          "label": "lancers consécutifs sans point avant l'élimination dans la règle courante"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Le matériel et le terrain nécessaires",
+      "html": "<p>Un jeu complet comprend <strong>12 quilles numérotées</strong> et un bâton de lancer non numéroté, appelé lui aussi le Mölkky. Les quilles sont généralement en bois et présentent une face biseautée qui rend leur numéro visible. Deux personnes suffisent, mais le jeu est aussi très agréable à quatre, six ou davantage, en formant des équipes si le groupe est grand.</p><p>Choisissez un sol plutôt plat et dégagé : herbe courte, terre tassée, gravier fin ou sable compact conviennent bien. Une pelouse très souple amortit les chocs et limite la dispersion ; un sol dur fait davantage rouler les quilles et rend les trajectoires moins prévisibles. Dans tous les cas, laissez une marge autour de la zone de jeu, car une quille peut partir sur le côté.</p><p>La ligne de lancer se place généralement à <strong>3,5 à 4 mètres</strong> du premier groupe de quilles. Pour des enfants ou une découverte très informelle, vous pouvez la rapprocher un peu. L'important est que tous les participants lancent depuis la même ligne pendant la partie.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Bien s'équiper pour jouer au Mölkky",
+      "intro": "Un kit simple suffit, mais quelques critères évitent les quilles illisibles ou un jeu difficile à transporter.",
+      "columns": [
+        "Élément",
+        "À vérifier",
+        "Conseil pratique",
+        "Budget habituel"
+      ],
+      "rows": [
+        [
+          "Jeu de quilles standard",
+          "12 numéros lisibles, bâton bien équilibré, bois sans grosse écharde",
+          "Privilégiez un marquage gravé ou bien incrusté si vous jouez souvent dehors",
+          "Souvent entre 20 et 45 €"
+        ],
+        [
+          "Jeu enfant ou familial",
+          "Quilles plus légères ou format compact, prise en main facile",
+          "Très pratique pour les petites mains, mais moins stable par vent fort",
+          "Souvent entre 15 et 35 €"
+        ],
+        [
+          "Sac ou caisse de transport",
+          "Poignées solides, fermeture et place pour les 13 pièces",
+          "Un sac évite de perdre le bâton ou une quille au parc",
+          "Parfois inclus, sinon environ 5 à 20 €"
+        ],
+        [
+          "Protection du bois",
+          "Bois sec, surface propre, absence de fissure importante",
+          "Rentrez le jeu après usage et ne le laissez pas sous la pluie",
+          "Quelques euros pour un chiffon ou une huile adaptée"
+        ]
+      ],
+      "note": "Les prix varient selon l'essence de bois, la finition, le sac inclus et le caractère plus ou moins compact du jeu."
+    },
+    {
+      "type": "prose",
+      "heading": "Installer les quilles et préparer la partie",
+      "html": "<p>Au départ, les 12 quilles forment un bloc compact. Orientez les numéros vers les joueurs et placez-les sur une surface stable. La disposition classique s'organise en quatre rangées, lues de gauche à droite depuis la ligne de lancer :</p><ol><li>première rangée : 1 et 2 ;</li><li>deuxième rangée : 3, 10 et 4 ;</li><li>troisième rangée : 5, 11, 12 et 6 ;</li><li>quatrième rangée : 7, 9 et 8.</li></ol><p>Cette configuration n'est utile qu'au début. Après chaque lancer, les quilles qui sont tombées sont relevées <strong>là où elles ont fini leur course</strong>, et non pas dans le bloc initial. Au fil des tours, les cibles s'écartent et il devient plus difficile de renverser plusieurs quilles d'un coup. C'est ce déplacement progressif qui donne au Mölkky sa dimension stratégique.</p><p>Avant de commencer, décidez de l'ordre de passage par tirage au sort, pierre-feuille-ciseaux ou simple accord. En équipes, chaque membre lance à tour de rôle : cela permet à tout le monde de participer et évite qu'un seul joueur prenne tous les lancers décisifs.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Compter les points sans se tromper",
+      "intro": "Le score dépend du nombre de quilles réellement tombées, et non de l'addition des numéros visibles.",
+      "left": {
+        "title": "Une seule quille est tombée",
+        "points": [
+          "Vous marquez le numéro inscrit sur cette quille.",
+          "Abattre uniquement la quille 12 rapporte donc 12 points.",
+          "C'est la meilleure option quand il vous manque un total précis pour arriver à 50."
+        ]
+      },
+      "right": {
+        "title": "Deux quilles ou plus sont tombées",
+        "points": [
+          "Vous marquez un point par quille renversée.",
+          "Trois quilles au sol rapportent 3 points, quels que soient leurs numéros.",
+          "C'est utile en début de partie pour progresser régulièrement sans viser un numéro particulier."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Déroulement d'une partie de Mölkky, pas à pas",
+      "intro": "Une manche est fluide dès lors que le groupe applique la même routine à chaque tour.",
+      "steps": [
+        {
+          "title": "1. Lancez depuis la ligne",
+          "html": "<p>Le joueur en cours lance le bâton vers les quilles. Il peut lancer par-dessous, ce qui est souvent le geste le plus précis pour débuter. Il ne doit pas franchir la ligne de lancer avant que le bâton ait quitté sa main.</p>"
+        },
+        {
+          "title": "2. Attendez que tout soit immobile",
+          "html": "<p>Ne comptez les points qu'une fois les quilles et le bâton arrêtés. Une quille inclinée ou appuyée contre une autre quille ou contre le bâton ne compte généralement pas comme tombée : pour éviter les contestations, retenez qu'elle doit être à plat au sol.</p>"
+        },
+        {
+          "title": "3. Notez immédiatement le score",
+          "html": "<p>Inscrivez les points sur une feuille, une ardoise ou dans une note de téléphone. Additionnez le résultat au total du joueur ou de l'équipe. Un score qui dépasse 50 ne gagne pas la partie : il redescend à 25 points.</p>"
+        },
+        {
+          "title": "4. Relevez les quilles à leur place d'arrivée",
+          "html": "<p>Remettez debout uniquement les quilles tombées, exactement à l'endroit où elles reposent. Laissez les quilles restées debout où elles sont. Passez ensuite le bâton au joueur suivant.</p>"
+        },
+        {
+          "title": "5. Surveillez les lancers nuls",
+          "html": "<p>Un lancer qui ne fait tomber aucune quille vaut zéro point. Dans la règle la plus répandue, trois lancers nuls consécutifs éliminent le joueur ou l'équipe. Pour une première partie avec de jeunes enfants, vous pouvez assouplir cette règle si tout le monde l'accepte avant de jouer.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Conseils de lancer et premières stratégies",
+      "html": "<p>Pour réussir vos premiers tirs, oubliez la force. Tenez le bâton de façon naturelle, gardez l'épaule relâchée et accompagnez le geste vers la cible. Un lancer bas, souple et légèrement roulant permet souvent de toucher les quilles sans les projeter trop loin. Regardez une quille précise plutôt que l'ensemble du paquet.</p><p>En début de partie, lorsque les quilles sont encore regroupées, renverser plusieurs cibles est intéressant : vous marquez facilement quelques points et ouvrez le jeu. Quand votre total approche de 40, changez d'objectif. Calculez le nombre de points qui vous manque et cherchez une quille isolée portant ce numéro. Si vous avez 46 points, par exemple, la quille 4 devient une cible idéale : en faire tomber une seule vous donne la victoire.</p><p>Observez aussi l'adversaire. Une quille 1, 2 ou 3 bien isolée peut être décisive pour quelqu'un proche de 50. Si vous ne pouvez pas marquer le point qui vous intéresse, un lancer prudent qui déplace cette quille peut modifier la situation. Cela reste un jeu convivial : annoncez les scores à voix haute et privilégiez la clarté plutôt que les discussions interminables.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Quelle stratégie adopter selon votre score ?",
+      "intro": "Ces repères aident à faire le bon choix sans transformer une partie familiale en calcul compliqué.",
+      "columns": [
+        "Votre total",
+        "Priorité",
+        "Exemple de décision"
+      ],
+      "rows": [
+        [
+          "De 0 à 20 points",
+          "Prendre des points faciles et disperser progressivement le groupe",
+          "Visez le cœur du paquet pour faire tomber plusieurs quilles et marquer 2, 3 ou 4 points."
+        ],
+        [
+          "De 21 à 39 points",
+          "Alterner points sûrs et numéros intéressants",
+          "Si une quille 8 est isolée et qu'il vous manque 15 points, elle peut être plus utile qu'un tir dans un groupe."
+        ],
+        [
+          "De 40 à 49 points",
+          "Calculer exactement le nombre manquant",
+          "À 43 points, cherchez la quille 7 seule ; si elle est inaccessible, évitez un lancer trop large qui pourrait vous faire dépasser."
+        ],
+        [
+          "À 50 points ou plus",
+          "S'arrêter à 50, ne jamais dépasser",
+          "À 49 points, seule la quille 1 tombée seule vous fait gagner. Toute autre combinaison mérite d'être évitée."
+        ],
+        [
+          "Après un dépassement",
+          "Repartir de 25 sans se précipiter",
+          "Le retour à 25 est une pénalité, mais pas une élimination : reconstruisez votre score avec des lancers simples."
+        ]
+      ],
+      "note": "La meilleure stratégie dépend toujours de la position réelle des quilles, de la surface et de votre précision du jour."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les erreurs qui gâchent le plus souvent une première partie",
+      "html": "<p><strong>Ne replacez pas les quilles en bloc après chaque tour</strong> : elles doivent rester dispersées. Ne confondez pas non plus le numéro des quilles avec le nombre de quilles tombées. Enfin, ne lancez jamais tant qu'une personne relève les quilles ou traverse la zone de jeu. Un seul lanceur à la fois, et tout le groupe reste derrière la ligne, est la règle de sécurité la plus importante.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Choisir, transporter et entretenir son jeu",
+      "html": "<p>Pour une pratique occasionnelle, un jeu en bois standard avec sac de transport constitue un excellent choix. Vérifiez surtout que les numéros restent faciles à lire et que les quilles ont une base suffisamment plane pour tenir debout. Les kits très légers sont agréables pour les enfants, mais ils peuvent se déplacer davantage sur sol dur ou par temps venteux.</p><p>Le bois supporte bien les chocs, mais apprécie peu l'humidité prolongée. Après une partie sur herbe mouillée ou à la plage, essuyez les quilles avec un chiffon sec avant de les ranger. Évitez le coffre de voiture humide, la terrasse exposée toute l'année et les longues immersions dans l'eau. Une légère abrasion peut être poncée avec précaution ; si le marquage s'efface, mieux vaut le restaurer lisiblement plutôt que de jouer à deviner les numéros.</p><p>Enfin, adaptez les règles au moment. Pour une partie détente, rapprochez la ligne pour les enfants, jouez par équipes équilibrées et retirez éventuellement l'élimination après trois lancers nuls. Gardez en revanche le principe des 50 points exacts : c'est lui qui crée les retournements amusants et donne envie de prendre sa revanche.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "À quelle distance faut-il se placer pour lancer au Mölkky ?",
+      "a_html": "<p>La distance courante entre la ligne de lancer et le groupe initial de quilles est d'environ <strong>3,5 à 4 mètres</strong>. Pour des enfants, des débutants très jeunes ou une partie découverte, vous pouvez réduire cette distance à condition que tous les joueurs utilisent la même ligne.</p><p>Prévoyez aussi plusieurs mètres derrière les quilles, car elles se dispersent progressivement au cours de la partie.</p>"
+    },
+    {
+      "q": "Comment placer les quilles de Mölkky au début d'une partie ?",
+      "a_html": "<p>La disposition classique comprend quatre rangées : 1 et 2 ; puis 3, 10 et 4 ; puis 5, 11, 12 et 6 ; enfin 7, 9 et 8. Les numéros doivent être visibles depuis la ligne de lancer.</p><p>Ce placement compact ne sert qu'au démarrage. Ensuite, chaque quille tombée est relevée à l'endroit où elle est arrivée.</p>"
+    },
+    {
+      "q": "Que se passe-t-il si l'on dépasse 50 points au Mölkky ?",
+      "a_html": "<p>Vous ne gagnez pas : votre total retombe à <strong>25 points</strong>. Il faut donc atteindre 50 exactement. Cette règle oblige à ralentir lorsque l'on approche de la victoire et à viser une quille dont le numéro correspond au total manquant.</p>"
+    },
+    {
+      "q": "Une quille inclinée compte-t-elle comme tombée ?",
+      "a_html": "<p>Non, une quille simplement penchée ne doit pas être comptée. Dans l'esprit des règles officielles, elle doit être couchée à plat sur le sol pour rapporter des points. Une quille soutenue par une autre quille ou par le bâton n'est donc pas considérée comme abattue.</p>"
+    },
+    {
+      "q": "Peut-on jouer au Mölkky à deux joueurs ou faut-il former des équipes ?",
+      "a_html": "<p>Deux joueurs suffisent parfaitement : chacun lance à tour de rôle et tente d'atteindre 50 points avant l'autre. À partir de quatre personnes, les équipes rendent souvent la partie plus dynamique, surtout si chaque équipier lance alternativement.</p><p>Il n'y a pas de nombre maximal strict pour une partie loisir, mais au-delà de huit à dix personnes, former deux ou trois équipes limite le temps d'attente.</p>"
+    },
+    {
+      "q": "Sur quel sol le Mölkky est-il le plus facile à jouer ?",
+      "a_html": "<p>Une herbe courte, une terre tassée ou un gravier fin offrent un bon compromis entre stabilité et rebonds modérés. Le sable compact convient également, mais les quilles peuvent s'y enfoncer légèrement.</p><p>Évitez les pentes marquées, les sols très caillouteux et les zones fréquentées. Un terrain plat rend le comptage plus simple et les lancers plus comparables d'un joueur à l'autre.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Pour bien débuter au Mölkky, retenez une idée simple : <strong>visez juste plutôt que fort</strong>. Installez les quilles correctement, comptez selon le nombre de cibles tombées, relevez-les là où elles atterrissent et gardez un œil sur votre total. Avec ces bases, vous pouvez sortir le jeu n'importe quand et profiter d'une partie aussi accessible pour les novices que stimulante pour les joueurs plus tactiques.</p>",
+  "__slug": "molkky-debutants-bases"
+}

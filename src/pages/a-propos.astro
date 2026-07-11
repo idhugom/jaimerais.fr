@@ -1,0 +1,71 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCatalog } from '../lib/data.mjs';
+const total = getCatalog().length;
+const values = [
+  { icon: '💡', title: 'Utile avant tout', text: "Chaque guide répond à une vraie question, avec des conseils concrets et actionnables — jamais de blabla." },
+  { icon: '💗', title: 'Bienveillant', text: "On vous parle comme à un ami : avec honnêteté, chaleur et sans jugement, quelle que soit votre envie." },
+  { icon: '✨', title: 'Inspirant', text: "Parce qu'une envie, ça se cultive. On vous donne l'élan pour passer du rêve à l'action." },
+  { icon: '🎯', title: 'Complet & clair', text: "Comparatifs, tableaux, FAQ, étapes… tout pour décider vite et bien, sans y passer des heures." },
+];
+---
+<Base title="À propos" description="jaimerais.fr, le magazine des envies : notre mission, nos valeurs et notre façon de transformer chaque « j'aimerais… » en projet concret.">
+  <section class="about-hero">
+    <span class="blob" style="width:40vw;height:40vw;top:-14vw;left:-8vw;background:var(--grad-love);opacity:.35;"></span>
+    <div class="container about-hero__inner">
+      <p class="eyebrow reveal in">Notre histoire</p>
+      <h1 class="reveal in">On croit au pouvoir des <span class="gradient-text">petites envies</span></h1>
+      <p class="about-lead reveal in" data-delay="60">
+        Tout commence par deux mots&nbsp;: <span class="hand">« j'aimerais… »</span>. Voyager, cuisiner, se lancer,
+        prendre soin de soi, oser un nouveau projet. jaimerais.fr est né d'une conviction simple&nbsp;: ces envies
+        méritent mieux qu'un onglet oublié. Elles méritent d'être <strong>comprises, nourries et réalisées</strong>.
+      </p>
+    </div>
+    <svg class="wave" viewBox="0 0 1440 80" preserveAspectRatio="none" aria-hidden="true"><path d="M0,40 C360,80 720,0 1080,36 C1260,54 1380,50 1440,40 L1440,80 L0,80 Z" fill="#fff"></path></svg>
+  </section>
+
+  <section class="section" style="background:#fff;">
+    <div class="container">
+      <div class="about-mission reveal">
+        <h2>Notre mission</h2>
+        <p>
+          Transformer la curiosité en action. Sur jaimerais.fr, on décortique {total.toLocaleString('fr-FR')} sujets du quotidien —
+          des plus pratiques aux plus inspirants — pour vous donner, à chaque fois, une longueur d'avance. Un contenu
+          complet, honnête et agréable à lire, qui répond vraiment à ce que vous cherchez.
+        </p>
+      </div>
+
+      <div class="values-grid">
+        {values.map((v, i) => (
+          <div class="value-card reveal" data-delay={i * 70} data-tilt>
+            <span class="value-card__icon" aria-hidden="true">{v.icon}</span>
+            <h3>{v.title}</h3>
+            <p>{v.text}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="love-band" style="text-align:center;">
+    <div class="container reveal">
+      <h2 class="love-band__title">Alors, qu'aimeriez-vous vivre&nbsp;?</h2>
+      <a href="/conseils" class="btn ghost" data-magnetic>Explorer toutes les envies</a>
+    </div>
+  </section>
+
+  <style>
+    .about-hero { position: relative; overflow: hidden; padding: clamp(2rem,1.5rem+3vw,4rem) 0 0; text-align: center; }
+    .about-hero__inner { max-width: 780px; }
+    .about-lead { color: var(--ink-soft); font-size: 1.2rem; line-height: 1.7; margin-top: 1rem; }
+    .about-mission { max-width: 720px; margin: 0 auto 3rem; text-align: center; }
+    .about-mission p { color: var(--ink-soft); font-size: 1.1rem; }
+    .values-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 1.4rem; }
+    .value-card { background: linear-gradient(135deg,#fff,#fff5f9); border-radius: var(--r-lg); padding: 2rem 1.6rem; box-shadow: var(--shadow-sm); text-align: center; }
+    .value-card__icon { font-size: 2.4rem; display: block; margin-bottom: .8rem; }
+    .value-card h3 { font-size: 1.25rem; margin: 0 0 .5rem; }
+    .value-card p { color: var(--ink-soft); font-size: .95rem; margin: 0; }
+    @media (max-width: 900px) { .values-grid { grid-template-columns: repeat(2,1fr); } }
+    @media (max-width: 480px) { .values-grid { grid-template-columns: 1fr; } }
+  </style>
+</Base>

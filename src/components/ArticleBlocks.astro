@@ -1,0 +1,118 @@
+---
+import { sanitizeHtml } from '../lib/sanitize.mjs';
+const { sections = [] } = Astro.props;
+
+const calloutMeta = {
+  tip: { icon: '💡', label: 'Le bon conseil' },
+  info: { icon: 'ℹ️', label: 'Bon à savoir' },
+  warning: { icon: '⚠️', label: 'À surveiller' },
+  love: { icon: '💗', label: 'Coup de cœur' },
+};
+---
+{sections.map((s, i) => {
+  const rot = i % 2 === 0 ? -0.4 : 0.4;
+  if (s.type === 'prose') return (
+    <section class="blk blk-prose reveal">
+      {s.heading && <h2 class="blk-h2">{s.heading}</h2>}
+      <div class="prose" set:html={sanitizeHtml(s.html)} />
+    </section>
+  );
+
+  if (s.type === 'key_points') return (
+    <aside class="blk blk-essential reveal">
+      <div class="essential__glow" aria-hidden="true"></div>
+      <h3 class="essential__title"><span aria-hidden="true">✨</span> {s.heading || "L'essentiel"}</h3>
+      <ul class="essential__list">
+        {(s.points || []).map((p) => <li>{p}</li>)}
+      </ul>
+    </aside>
+  );
+
+  if (s.type === 'callout') {
+    const m = calloutMeta[s.variant] || calloutMeta.info;
+    return (
+      <aside class={`blk blk-callout callout--${s.variant || 'info'} reveal`}>
+        <span class="callout__icon" aria-hidden="true">{m.icon}</span>
+        <div>
+          <p class="callout__label">{s.title || m.label}</p>
+          <div class="prose prose--tight" set:html={sanitizeHtml(s.html)} />
+        </div>
+      </aside>
+    );
+  }
+
+  if (s.type === 'table') return (
+    <section class="blk blk-table reveal">
+      {s.heading && <h2 class="blk-h2">{s.heading}</h2>}
+      {s.intro && <p class="blk-intro">{s.intro}</p>}
+      <div class="table-wrap">
+        <table>
+          <thead><tr>{(s.columns || []).map((c) => <th>{c}</th>)}</tr></thead>
+          <tbody>
+            {(s.rows || []).map((row) => <tr>{row.map((cell) => <td>{cell}</td>)}</tr>)}
+          </tbody>
+        </table>
+      </div>
+      {s.note && <p class="blk-note">{s.note}</p>}
+    </section>
+  );
+
+  if (s.type === 'comparison') return (
+    <section class="blk blk-compare reveal">
+      {s.heading && <h2 class="blk-h2">{s.heading}</h2>}
+      {s.intro && <p class="blk-intro">{s.intro}</p>}
+      <div class="compare-grid">
+        <div class="compare-card compare-card--left">
+          <h3>{s.left?.title}</h3>
+          <ul>{(s.left?.points || []).map((p) => <li>{p}</li>)}</ul>
+        </div>
+        <span class="compare-vs" aria-hidden="true">vs</span>
+        <div class="compare-card compare-card--right">
+          <h3>{s.right?.title}</h3>
+          <ul>{(s.right?.points || []).map((p) => <li>{p}</li>)}</ul>
+        </div>
+      </div>
+    </section>
+  );
+
+  if (s.type === 'steps') return (
+    <section class="blk blk-steps reveal">
+      {s.heading && <h2 class="blk-h2">{s.heading}</h2>}
+      {s.intro && <p class="blk-intro">{s.intro}</p>}
+      <ol class="steps">
+        {(s.steps || []).map((st, k) => (
+          <li class="step">
+            <span class="step__num">{k + 1}</span>
+            <div>
+              <p class="step__title">{st.title}</p>
+              <div class="prose prose--tight" set:html={sanitizeHtml(st.html)} />
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+  );
+
+  if (s.type === 'stats') return (
+    <section class="blk blk-stats reveal">
+      {s.heading && <h2 class="blk-h2">{s.heading}</h2>}
+      <div class="stats-grid">
+        {(s.items || []).map((it) => (
+          <div class="stat">
+            <span class="stat__value gradient-text">{it.value}</span>
+            <span class="stat__label">{it.label}</span>
+          </div>
+        ))}
+      </div>
+    </section>
+  );
+
+  if (s.type === 'quote') return (
+    <figure class="blk blk-quote reveal">
+      <blockquote>{s.text}</blockquote>
+      {s.author && <figcaption>— {s.author}</figcaption>}
+    </figure>
+  );
+
+  return null;
+})}

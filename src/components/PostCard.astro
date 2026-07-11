@@ -1,0 +1,34 @@
+---
+import { topicFromSlug } from '../lib/data.mjs';
+const { post, ready = true, eager = false } = Astro.props;
+const img = post.image?.thumb || post.image?.local || null;
+const topic = topicFromSlug(post.slug);
+---
+<article class={`card${ready ? '' : ' pending'}`} data-tilt>
+  <a href={`/${post.slug}`} class="card__link" aria-label={post.title}>
+    <div class="card__media">
+      {!ready && <span class="card__badge">Bientôt</span>}
+      <span class="card__heart" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-8-5.3-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 5.7-8 11-8 11z"/></svg>
+      </span>
+      {img
+        ? <img src={img} alt={post.image?.alt || post.title} loading={eager ? 'eager' : 'lazy'} decoding="async" width="680" height="453" />
+        : <span class="card__placeholder" aria-hidden="true">♥</span>}
+    </div>
+    <div class="card__body">
+      <span class="chip">{topic}</span>
+      <h3 class="card__title">{post.title}</h3>
+      <p class="card__excerpt">{(post.excerpt || '').slice(0, 120)}{(post.excerpt || '').length > 120 ? '…' : ''}</p>
+      <span class="card__cta">
+        Lire l'envie
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg>
+      </span>
+    </div>
+  </a>
+</article>
+
+<style>
+  .card__link { display: flex; flex-direction: column; height: 100%; }
+  .card__placeholder { position: absolute; inset: 0; display: grid; place-items: center; font-size: 3rem; color: rgba(255,61,129,.35); }
+  .card__media img { position: relative; z-index: 1; }
+</style>

@@ -1,0 +1,27 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Mentions légales" description="Mentions légales du site jaimerais.fr." noindex={true}>
+  <section class="section legal">
+    <div class="container">
+      <p class="eyebrow">Informations</p>
+      <h1>Mentions légales</h1>
+      <div class="legal__body prose">
+        <h2>Éditeur du site</h2>
+        <p>Le site <strong>jaimerais.fr</strong> est un magazine éditorial indépendant proposant des conseils, guides et inspirations.</p>
+        <h2>Hébergement</h2>
+        <p>Ce site est hébergé par <strong>Cloudflare Pages</strong> (Cloudflare, Inc.).</p>
+        <h2>Propriété intellectuelle</h2>
+        <p>L'ensemble des contenus (textes et visuels) présents sur ce site est protégé. Toute reproduction, même partielle, est soumise à autorisation.</p>
+        <h2>Contenus &amp; visuels</h2>
+        <p>Les articles sont des contenus éditoriaux rédigés à des fins d'information. Les visuels illustrent le propos et n'ont pas de valeur contractuelle. Les informations, notamment tarifaires, sont données à titre indicatif.</p>
+        <h2>Contact</h2>
+        <p>Pour toute demande, une adresse de contact peut être ajoutée ici.</p>
+      </div>
+    </div>
+  </section>
+  <style>
+    .legal__body { max-width: 720px; }
+    .legal__body h2 { font-size: 1.4rem; margin-top: 2rem; }
+  </style>
+</Base>

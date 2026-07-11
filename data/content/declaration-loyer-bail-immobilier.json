@@ -1,0 +1,236 @@
+{
+  "title": "Déclaration de loyer et bail immobilier : obligations fiscales du propriétaire et du locataire",
+  "meta_description": "Propriétaire ou locataire : comprenez qui déclare le loyer, quels revenus sont imposables et comment éviter les erreurs fiscales en location.",
+  "reading_time_min": 12,
+  "hero_intro": "Signer un bail et encaisser un loyer ne se résument pas à une relation entre propriétaire et locataire : certaines informations intéressent aussi l'administration fiscale. Entre déclaration d'occupation, revenus fonciers, location meublée et charges récupérables, les règles diffèrent selon votre rôle et le type de bien. Voici comment déclarer correctement, conserver les bons justificatifs et éviter les confusions les plus fréquentes.",
+  "key_takeaways": [
+    "Le locataire d'une location classique ne déclare généralement pas le loyer qu'il paie aux impôts ; c'est le bailleur qui déclare les revenus qu'il perçoit.",
+    "Le propriétaire doit distinguer la déclaration d'occupation de son bien dans « Gérer mes biens immobiliers » et la déclaration annuelle de ses revenus locatifs.",
+    "Les loyers d'une location vide relèvent en principe des revenus fonciers ; ceux d'une location meublée relèvent des bénéfices industriels et commerciaux (BIC).",
+    "Le bail, les quittances, les relevés bancaires, les factures de travaux et les décomptes de charges sont des preuves à conserver soigneusement.",
+    "Une omission dans la déclaration d'occupation peut, selon les cas, entraîner une amende de 150 € par local concerné."
+  ],
+  "toc": [
+    "Déclaration de loyer : de quoi parle-t-on exactement ?",
+    "Propriétaire ou locataire : qui doit faire quoi ?",
+    "Les personnes et situations concernées",
+    "Déclarer les revenus d'une location vide ou meublée",
+    "Déclaration d'occupation : le rôle de « Gérer mes biens immobiliers »",
+    "Loyers, charges et bail : les montants à ne pas confondre",
+    "Méthode pratique pour préparer ses déclarations",
+    "Erreurs fréquentes et documents à conserver",
+    "FAQ : déclaration de loyer et fiscalité locative"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Déclaration de loyer : de quoi parle-t-on exactement ?",
+      "html": "<p>L'expression « déclaration de loyer » recouvre plusieurs formalités qui n'ont pas le même objectif. La première concerne les <strong>revenus locatifs</strong> : un bailleur doit intégrer les loyers encaissés dans sa déclaration de revenus. La seconde concerne l'<strong>occupation du logement</strong>, renseignée par le propriétaire dans son espace fiscal, afin de permettre notamment l'établissement des impôts locaux applicables.</p><p>Le bail de location est le point de départ de ces obligations. Il indique notamment le montant du loyer hors charges, les provisions ou le forfait de charges, la date de prise d'effet, l'identité des parties et, le cas échéant, les règles de révision. Mais le simple fait d'écrire un loyer dans le bail ne vaut pas déclaration fiscale : il faut ensuite déclarer les éléments attendus dans les rubriques et formulaires adaptés.</p><p>Une confusion est très courante : <strong>le loyer payé n'est pas le loyer imposable</strong>. Le locataire verse souvent un montant global, comprenant le loyer et des charges. Le propriétaire, lui, doit raisonner selon le régime fiscal de la location, les sommes réellement encaissées et les charges qu'il peut éventuellement déduire.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Propriétaire et locataire : des obligations très différentes",
+      "intro": "Dans une location d'habitation classique, chacun a des démarches utiles, mais le déclarant fiscal n'est pas le même.",
+      "left": {
+        "title": "Côté propriétaire bailleur",
+        "points": [
+          "Déclare l'occupation ou les changements d'occupation du bien dans son espace fiscal lorsque cela est requis.",
+          "Déclare les loyers et autres recettes locatives dans sa déclaration de revenus.",
+          "Choisit ou applique le régime fiscal correspondant à une location vide ou meublée.",
+          "Conserve les pièces justifiant les recettes, charges, travaux et périodes de vacance.",
+          "Reste responsable de ses déclarations, même s'il confie la gestion à une agence ou à un expert-comptable."
+        ]
+      },
+      "right": {
+        "title": "Côté locataire",
+        "points": [
+          "Ne déclare en principe pas le montant de son loyer payé dans sa déclaration de revenus.",
+          "Conserve le bail, les avis d'échéance, les quittances et les preuves de paiement.",
+          "Déclare ses propres revenus s'il sous-loue légalement tout ou partie du logement ou perçoit des recettes de location.",
+          "Peut devoir transmettre son loyer à la CAF ou à un autre organisme dans le cadre d'une demande d'aide au logement.",
+          "Vérifie que son occupation et ses coordonnées communiquées au bailleur sont exactes."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Qui est concerné par les déclarations liées à un bien loué ?",
+      "intro": "Le statut juridique du détenteur du bien et la nature de l'occupation permettent de savoir qui intervient dans la démarche.",
+      "columns": [
+        "Situation",
+        "Qui effectue la démarche principale ?",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Propriétaire d'un logement loué vide",
+          "Le propriétaire bailleur",
+          "Déclaration des revenus fonciers et mise à jour de l'occupation si nécessaire."
+        ],
+        [
+          "Propriétaire d'un logement loué meublé",
+          "Le propriétaire bailleur",
+          "Les recettes sont en principe déclarées dans la catégorie BIC, avec des règles distinctes."
+        ],
+        [
+          "Bien détenu en indivision",
+          "Un indivisaire peut réaliser la déclaration d'occupation pour le bien",
+          "Chaque indivisaire déclare ensuite sa quote-part de revenus selon ses droits."
+        ],
+        [
+          "Bien détenu par une SCI",
+          "La société ou son représentant habilité",
+          "Le traitement fiscal des revenus dépend notamment de l'imposition de la SCI et de l'activité exercée."
+        ],
+        [
+          "Usufruitier et nu-propriétaire",
+          "En règle générale, l'usufruitier pour la location et l'occupation",
+          "L'usufruitier perçoit habituellement les loyers et assume les obligations liées à la jouissance du bien."
+        ],
+        [
+          "Locataire en location classique",
+          "Le locataire n'a pas de loyer à déclarer aux impôts",
+          "Il peut avoir des démarches distinctes auprès de la CAF ou en cas de sous-location."
+        ],
+        [
+          "Occupant à titre gratuit",
+          "Le propriétaire renseigne l'occupation lorsque demandé",
+          "Aucun loyer n'est encaissé, mais la situation d'occupation doit être exacte."
+        ]
+      ],
+      "note": "Les situations particulières — démembrement complexe, SCI à l'impôt sur les sociétés, location touristique, bail commercial ou succession — peuvent nécessiter l'avis d'un professionnel."
+    },
+    {
+      "type": "prose",
+      "heading": "Déclarer les revenus locatifs : location vide et location meublée",
+      "html": "<p>Pour une <strong>location non meublée</strong>, les loyers relèvent habituellement des revenus fonciers. Le propriétaire déclare les sommes encaissées au cours de l'année civile, y compris certains revenus accessoires liés à la location. Deux régimes peuvent s'appliquer : le <strong>micro-foncier</strong>, accessible sous conditions, applique un abattement forfaitaire ; le régime réel permet de déduire les charges admises lorsqu'il est plus avantageux ou obligatoire.</p><p>Pour une <strong>location meublée</strong>, y compris la location meublée de longue durée, les recettes sont en principe imposées dans la catégorie des bénéfices industriels et commerciaux, ou BIC. Le bailleur peut relever, selon sa situation et les seuils applicables, d'un régime micro avec abattement forfaitaire ou d'un régime réel. Au réel, la comptabilité est plus structurée et peut notamment prendre en compte les charges et l'amortissement selon les règles en vigueur.</p><p>Dans les deux cas, le montant à déclarer ne se déduit pas automatiquement du loyer figurant dans le bail. Il faut partir des <strong>encaissements réels</strong>. Un impayé non perçu n'est pas une recette encaissée ; à l'inverse, un arriéré effectivement réglé pendant l'année doit être traité dans les règles du régime choisi. Les dépôts de garantie ne sont généralement pas des revenus tant qu'ils sont restituables, mais une somme conservée définitivement dans certaines circonstances peut changer de traitement.</p><p>Le choix entre forfait et régime réel dépend surtout du niveau de charges déductibles, des intérêts d'emprunt, des travaux, de la fiscalité de la location et de votre situation globale. Il mérite un calcul plutôt qu'une décision prise par réflexe.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Micro ou régime réel : comment comparer les deux approches ?",
+      "intro": "Les règles exactes, seuils et options évoluent ; vérifiez toujours celles de l'année déclarée. Cette grille aide à orienter votre réflexion.",
+      "columns": [
+        "Régime",
+        "Atout principal",
+        "Limite principale",
+        "Souvent pertinent si…"
+      ],
+      "rows": [
+        [
+          "Micro-foncier pour la location vide, sous conditions",
+          "Formalités allégées grâce à un abattement forfaitaire",
+          "Les dépenses réelles ne sont pas déduites une à une",
+          "Vos charges sont durablement modestes par rapport aux loyers."
+        ],
+        [
+          "Revenus fonciers au réel",
+          "Déduction des charges éligibles réellement supportées",
+          "Déclaration plus détaillée et justificatifs indispensables",
+          "Vous avez des intérêts d'emprunt, travaux ou charges importantes."
+        ],
+        [
+          "Micro-BIC pour la location meublée, sous conditions",
+          "Gestion déclarative simplifiée avec un abattement forfaitaire",
+          "L'abattement peut être insuffisant si vos frais sont élevés",
+          "Votre activité est simple et vos dépenses réelles sont limitées."
+        ],
+        [
+          "BIC au réel pour la location meublée",
+          "Prise en compte des charges et, selon les règles, des amortissements",
+          "Comptabilité plus technique, souvent accompagnée",
+          "Le bien génère des frais significatifs ou vous souhaitez piloter précisément sa rentabilité."
+        ]
+      ],
+      "note": "Un régime réel peut comporter une durée minimale d'engagement selon le cas. Avant d'opter, simulez plusieurs années, pas seulement la première."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention : une agence ne remplace pas votre responsabilité fiscale",
+      "html": "<p>Une agence peut éditer les quittances, encaisser les loyers et remettre un relevé annuel de gestion. Ces documents sont précieux, mais <strong>le propriétaire reste responsable</strong> de l'exactitude de sa déclaration de revenus et des informations relatives à son bien. Relisez les montants, vérifiez les périodes de location et conservez les relevés transmis par le gestionnaire.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Déclaration d'occupation : le rôle de « Gérer mes biens immobiliers »",
+      "html": "<p>La déclaration d'occupation ne sert pas à imposer directement le loyer comme un revenu. Elle permet à l'administration de connaître la situation du logement : résidence principale, résidence secondaire, logement loué, occupé gratuitement ou vacant. Pour un logement loué, le propriétaire peut devoir indiquer l'identité de l'occupant, la période d'occupation et les informations demandées dans son espace <strong>« Gérer mes biens immobiliers »</strong>.</p><p>Après la déclaration initiale généralisée, il n'est pas nécessaire de répéter exactement la même déclaration chaque année si la situation n'a pas changé, sauf demande particulière de l'administration. En revanche, il faut <strong>signaler les changements</strong> : nouveau locataire, départ, mise en location, occupation à titre gratuit, vacance ou changement d'usage. Les modalités affichées dans l'espace en ligne et les échéances communiquées par l'administration prévalent.</p><p>Certains propriétaires peuvent également être invités à renseigner un niveau de loyer dans le cadre de campagnes ciblées destinées à actualiser des données locatives. Répondez alors aux champs demandés pour le bien concerné, sans confondre cette information avec votre déclaration de revenus annuelle. Une absence de déclaration, une omission ou une information inexacte peut être sanctionnée ; l'amende prévue peut atteindre <strong>150 € par local</strong> concerné.</p><p>En indivision, il est prudent de désigner la personne qui réalisera la mise à jour afin d'éviter les doublons ou les oublis. En cas de vente, succession ou démembrement, vérifiez que les droits sur le bien sont correctement reflétés dans votre espace avant de déclarer une occupation.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Préparer sa déclaration sans rien oublier : la méthode en 5 étapes",
+      "intro": "Un classement simple tout au long de l'année évite les recherches de dernière minute et les montants approximatifs.",
+      "steps": [
+        {
+          "title": "Relire le bail et ses avenants",
+          "html": "<p>Relevez l'adresse exacte, la date d'effet, le type de location, le loyer hors charges, les charges, le dépôt de garantie et les périodes couvertes. En cas de changement de locataire ou de révision, conservez l'avenant ou le nouveau bail.</p>"
+        },
+        {
+          "title": "Faire le total des sommes réellement encaissées",
+          "html": "<p>Appuyez-vous sur les relevés bancaires, les quittances et le relevé de gestion de l'agence. Distinguez les loyers, régularisations, arriérés, indemnités éventuelles et dépôt de garantie.</p>"
+        },
+        {
+          "title": "Trier les dépenses par catégorie",
+          "html": "<p>Classez les factures de travaux, assurances, intérêts d'emprunt, taxe foncière, frais de gestion, appels de charges de copropriété et diagnostics. Une dépense utile pour gérer le bien n'est pas forcément déductible : vérifiez les conditions propres à votre régime.</p>"
+        },
+        {
+          "title": "Vérifier l'occupation du logement",
+          "html": "<p>Connectez-vous à votre espace fiscal et assurez-vous que la situation connue correspond à la réalité. Déclarez ou corrigez un changement dans le délai indiqué par l'administration.</p>"
+        },
+        {
+          "title": "Déclarer puis archiver",
+          "html": "<p>Complétez les rubriques correspondant à votre activité et à votre régime, relisez avant validation, puis archivez une copie de la déclaration et des justificatifs. En cas de doute sur un montant important, demandez conseil avant de valider.</p>"
+        }
+      ]
+    },
+    {
+      "type": "key_points",
+      "heading": "Loyers, charges et dépôt de garantie : les erreurs qui coûtent cher",
+      "points": [
+        "Ne confondez pas le loyer hors charges inscrit au bail avec le montant total appelé chaque mois au locataire.",
+        "Ne déduisez pas automatiquement toutes les dépenses : la déductibilité dépend de la nature de la location et du régime fiscal.",
+        "N'oubliez pas les revenus accessoires ou les arriérés encaissés pendant l'année, lorsqu'ils doivent être pris en compte.",
+        "Ne traitez pas le dépôt de garantie comme un loyer tant qu'il doit être rendu au locataire.",
+        "Évitez d'estimer vos recettes « de mémoire » : rapprochez toujours votre calcul des encaissements bancaires.",
+        "N'attendez pas la déclaration de revenus pour mettre à jour un changement de locataire dans les démarches d'occupation."
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Quels justificatifs conserver et pendant combien de temps ?",
+      "html": "<p>Le bailleur a intérêt à conserver un dossier par logement, en version papier ou numérique lisible. Le minimum utile comprend le bail et ses avenants, les états des lieux, les quittances ou appels de loyers, les relevés bancaires, les décomptes de l'agence, les factures de travaux et d'entretien, les avis de taxe foncière, les appels de fonds de copropriété et les attestations d'assurance.</p><p>Pour les travaux, gardez aussi les devis, les preuves de règlement et une description précise de l'intervention. Cette précaution aide à distinguer une réparation, un entretien, une amélioration ou une dépense de construction, catégories qui n'ont pas nécessairement le même traitement fiscal. Une facture imprécise est plus difficile à défendre en cas de question.</p><p>La durée de conservation dépend du document et du délai pendant lequel l'administration peut contrôler la situation. En pratique, <strong>conserver au moins trois ans après l'année concernée</strong> est un réflexe minimal pour les pièces fiscales courantes ; gardez plus longtemps les documents ayant un effet durable, notamment ceux liés à l'acquisition, aux gros travaux, au crédit ou à la plus-value. En cas de situation complexe, une conservation longue est préférable.</p><p>Enfin, si vous êtes locataire, vos justificatifs ont aussi leur intérêt : ils prouvent le paiement du loyer, facilitent une demande d'aide au logement et sécurisent un éventuel désaccord avec le bailleur. Ils ne transforment pas pour autant le loyer en dépense déductible de votre impôt sur le revenu dans une location d'habitation ordinaire.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe : séparer les flux dès le premier mois",
+      "html": "<p>Utilisez un tableau de suivi ou un compte dédié à votre location pour distinguer loyers encaissés, charges récupérées, dépenses à votre charge et travaux. Ce suivi ne remplace pas une comptabilité lorsqu'elle est obligatoire, mais il rend les vérifications beaucoup plus simples et réduit le risque d'oubli.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Un locataire doit-il déclarer le loyer qu'il paie aux impôts ?",
+      "a_html": "<p>Non, pas dans le cadre d'une location d'habitation classique, vide ou meublée. Le loyer payé pour se loger n'est en principe pas une dépense à reporter sur la déclaration de revenus du locataire.</p><p>Le locataire peut toutefois devoir indiquer son loyer à la CAF ou à un organisme social pour une aide au logement. Il doit aussi déclarer les revenus qu'il perçoit lui-même en cas de sous-location autorisée ou d'activité locative.</p>"
+    },
+    {
+      "q": "Est-ce le loyer hors charges ou charges comprises que le propriétaire déclare ?",
+      "a_html": "<p>Le bailleur doit raisonner à partir des recettes encaissées et des règles de son régime fiscal. Le loyer hors charges est une donnée essentielle, mais les provisions et régularisations de charges peuvent également avoir un traitement à prendre en compte.</p><p>Il est donc risqué de reporter sans vérification le montant « charges comprises » affiché sur une annonce ou un avis d'échéance. Conservez le détail des flux et, si vous déclarez au réel, appliquez les règles propres aux charges récupérables et déductibles.</p>"
+    },
+    {
+      "q": "Faut-il refaire la déclaration d'occupation tous les ans ?",
+      "a_html": "<p>Lorsque la situation du logement est inchangée, une nouvelle déclaration identique n'est généralement pas attendue après la déclaration initiale, sauf si l'administration vous le demande. En revanche, un changement de locataire, une vacance, une mise à disposition gratuite ou un changement d'usage doit être signalé suivant les modalités et l'échéance indiquées dans votre espace fiscal.</p><p>Consultez régulièrement « Gérer mes biens immobiliers », car les campagnes et informations demandées peuvent varier selon les biens et les années.</p>"
+    },
+    {
+      "q": "Que risque un propriétaire qui ne déclare pas son bien loué ?",
+      "a_html": "<p>L'absence ou l'inexactitude d'une déclaration d'occupation peut entraîner une amende pouvant aller jusqu'à 150 € par local concerné. Par ailleurs, l'omission de revenus locatifs dans la déclaration de revenus peut conduire à un rappel d'impôt, des intérêts et, selon la situation, des majorations.</p><p>Une erreur corrigée spontanément et rapidement est toujours préférable à une omission persistante. Gardez les preuves de vos démarches et rectifiez les informations dès que vous constatez une anomalie.</p>"
+    },
+    {
+      "q": "Les revenus Airbnb ou de location saisonnière sont-ils à déclarer ?",
+      "a_html": "<p>Oui. Les recettes issues d'une location meublée de courte durée sont en principe imposables et relèvent généralement des BIC. Les plateformes peuvent transmettre certaines informations à l'administration, mais cette transmission ne dispense pas le loueur de déclarer correctement ses recettes.</p><p>La location touristique peut aussi imposer des obligations locales : numéro d'enregistrement, autorisation de changement d'usage, taxe de séjour ou limites de durée dans certaines communes. Vérifiez les règles de votre mairie avant de louer.</p>"
+    },
+    {
+      "q": "Un propriétaire qui loue via une SCI doit-il déclarer les loyers personnellement ?",
+      "a_html": "<p>Cela dépend du régime fiscal de la SCI. Une SCI relevant de l'impôt sur le revenu transmet généralement les résultats à ses associés, qui déclarent leur quote-part. Une SCI soumise à l'impôt sur les sociétés répond à des règles différentes et déclare elle-même son résultat.</p><p>La déclaration d'occupation du bien et la déclaration fiscale de la société sont deux démarches distinctes. Pour une SCI, mieux vaut confier le paramétrage initial à une personne identifiée et faire vérifier le traitement fiscal par un professionnel si nécessaire.</p>"
+    }
+  ],
+  "conclusion_html": "<p>La bonne déclaration de loyer commence par une distinction simple : <strong>le propriétaire déclare ses revenus et renseigne l'occupation de son bien lorsqu'il y est tenu ; le locataire ne déclare pas le loyer qu'il paie dans une location classique.</strong> Ensuite, tout se joue dans la qualité du suivi : bail à jour, encaissements rapprochés, charges documentées et informations d'occupation corrigées sans attendre.</p><p>Que vous louiez un premier studio, un appartement meublé ou plusieurs biens, prenez le temps de vérifier votre régime et vos justificatifs avant chaque campagne fiscale. Une organisation régulière est la meilleure façon de déclarer juste, de protéger vos droits et d'éviter les mauvaises surprises.</p>",
+  "__slug": "declaration-loyer-bail-immobilier"
+}

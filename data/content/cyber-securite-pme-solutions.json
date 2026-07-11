@@ -1,0 +1,208 @@
+{
+  "title": "Assurance cyber pour PME : garanties, prix et solutions contre le piratage",
+  "meta_description": "Assurance cyber pour PME : garanties, prix, exclusions et prévention. Comparez les solutions pour réagir vite face au phishing et aux ransomwares.",
+  "reading_time_min": 10,
+  "hero_intro": "J'aimerais protéger mon entreprise d'un piratage sans me perdre dans le jargon des assurances. Pour une PME, une cyberattaque peut bloquer la facturation, exposer des données clients et désorganiser l'activité en quelques heures. L'assurance cyber ne remplace pas la sécurité informatique : elle finance et orchestre la réponse lorsqu'un incident survient malgré les précautions prises.",
+  "key_takeaways": [
+    "Une assurance cyber couvre surtout les frais de gestion de crise, la remise en état, la perte d'exploitation et la responsabilité envers les tiers, selon le contrat.",
+    "Le prix dépend davantage de l'activité, du chiffre d'affaires, des données traitées et du niveau de sécurité que du seul nombre de salariés.",
+    "Phishing, fraude au virement, ransomware et fuite de données n'ont pas toujours les mêmes garanties : il faut vérifier les définitions et les sous-limites.",
+    "Des sauvegardes isolées, le MFA et une procédure d'urgence sont souvent exigés par les assureurs et restent la meilleure première protection.",
+    "En cas d'attaque, il faut appeler l'assistance de l'assureur avant d'engager des dépenses importantes ou de négocier avec les pirates."
+  ],
+  "toc": [
+    "Pourquoi les PME sont devenues des cibles privilégiées",
+    "Ce qu'une assurance cyber couvre réellement",
+    "Assurance cyber et responsabilité civile professionnelle : deux rôles différents",
+    "Quel budget prévoir pour une PME ?",
+    "Comment choisir une couverture adaptée",
+    "Prévenir l'attaque : les protections attendues",
+    "Que faire dans les premières heures après un incident",
+    "Les exclusions et limites à lire avant de signer"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi les PME sont devenues des cibles privilégiées",
+      "html": "<p>Les cybercriminels ne choisissent pas uniquement les grandes entreprises. Une petite structure peut être visée parce qu'elle dispose de protections moins formalisées, parce qu'elle travaille pour des donneurs d'ordre importants ou tout simplement parce qu'une campagne de phishing automatisée a trouvé une boîte mail vulnérable. Cabinet comptable, agence, artisan, e-commerce, profession libérale ou société de services : toute activité dépendante de ses e-mails, de son logiciel de gestion ou de ses fichiers clients est concernée.</p><p>Le risque ne se limite pas au rançongiciel. Un salarié peut saisir ses identifiants sur une fausse page Microsoft 365, un fraudeur peut usurper l'identité d'un dirigeant pour demander un virement, ou un prestataire compromis peut ouvrir une porte vers le système d'information. Une erreur de destinataire contenant des données personnelles peut également déclencher une gestion de crise.</p><p>Pour une PME, le coût réel est souvent celui de l'arrêt : commandes impossibles à traiter, paie retardée, outils de production indisponibles, temps des équipes mobilisé et confiance des clients fragilisée. La cyber-assurance intervient alors comme un filet financier et opérationnel, mais elle ne fait pas disparaître l'incident ni ses effets commerciaux.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les risques à cartographier avant de s'assurer",
+      "points": [
+        "Indisponibilité des outils : messagerie, ERP, caisse, site e-commerce, facturation ou production.",
+        "Atteinte aux données : fichiers clients, dossiers RH, coordonnées bancaires, informations de santé ou secrets d'affaires.",
+        "Fraude financière : faux RIB, usurpation de dirigeant, compromission de messagerie professionnelle.",
+        "Responsabilité envers les clients, partenaires ou personnes dont les données ont été exposées.",
+        "Dépendance aux prestataires cloud, à l'infogérant, au logiciel métier ou à un fournisseur critique."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les garanties d'une assurance cyber PME, en clair",
+      "intro": "Les intitulés varient d'un assureur à l'autre. Voici les postes à rechercher dans les conditions particulières et générales du contrat.",
+      "columns": [
+        "Garantie",
+        "Ce qu'elle peut prendre en charge",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Gestion de crise et expertise informatique",
+          "Investigation, confinement de l'attaque, restauration, intervention d'experts mandatés.",
+          "Vérifier le plafond des frais et l'obligation de passer par le réseau de prestataires de l'assureur."
+        ],
+        [
+          "Perte d'exploitation cyber",
+          "Marge brute ou baisse d'activité pendant l'interruption, frais supplémentaires pour reprendre plus vite.",
+          "Regarder le délai de carence, la durée maximale d'indemnisation et la méthode de calcul."
+        ],
+        [
+          "Atteinte aux données et responsabilité civile",
+          "Défense et indemnisation des réclamations de clients ou tiers touchés par une violation.",
+          "Contrôler la définition de « données », les franchises et les sous-limites."
+        ],
+        [
+          "Notification et communication de crise",
+          "Conseil juridique, information des personnes concernées, centre d'appel ou accompagnement réputationnel.",
+          "Ces frais sont parfois plafonnés ou conditionnés à l'accord préalable de l'assureur."
+        ],
+        [
+          "Extorsion numérique",
+          "Accompagnement technique, juridique et de négociation face à une demande de rançon.",
+          "Le paiement n'est jamais automatique, peut être exclu ou encadré par la loi et les sanctions internationales."
+        ],
+        [
+          "Fraude informatique ou fraude au virement",
+          "Selon les contrats, perte liée à une manipulation frauduleuse ou à une compromission de messagerie.",
+          "Souvent proposée en option et soumise à des procédures de double validation très strictes."
+        ]
+      ],
+      "note": "Une garantie n'est utile que si son plafond correspond au coût plausible d'un arrêt d'activité. Demandez systématiquement le détail des sous-limites et de la franchise."
+    },
+    {
+      "type": "comparison",
+      "heading": "Assurance cyber ou responsabilité civile professionnelle ?",
+      "intro": "Ces deux contrats peuvent se compléter, mais ils ne répondent pas au même scénario.",
+      "left": {
+        "title": "Assurance cyber",
+        "points": [
+          "Conçue pour un incident numérique : piratage, ransomware, fuite de données, indisponibilité.",
+          "Finance souvent l'intervention urgente d'experts techniques, juridiques et de communication.",
+          "Peut indemniser une perte d'exploitation liée à une attaque, selon les conditions.",
+          "Inclut une assistance disponible en urgence dans de nombreuses offres."
+        ]
+      },
+      "right": {
+        "title": "RC professionnelle classique",
+        "points": [
+          "Protège principalement les dommages causés à un client dans l'exercice de votre activité.",
+          "Peut comporter une extension informatique, mais rarement aussi large qu'un contrat cyber dédié.",
+          "Ne couvre pas forcément les frais de réponse à une cyberattaque touchant vos propres systèmes.",
+          "Doit être relue pour éviter de croire qu'elle couvre déjà tous les risques numériques."
+        ]
+      }
+    },
+    {
+      "type": "prose",
+      "heading": "Quel budget prévoir pour une assurance cyber PME ?",
+      "html": "<p>Il n'existe pas de tarif universel. Pour une très petite entreprise peu exposée, des offres d'entrée de gamme peuvent se situer à quelques centaines d'euros par an. Pour une PME qui traite beaucoup de données, dépend fortement de son informatique, vend en ligne ou intervient dans un secteur sensible, la prime annuelle atteint souvent plusieurs milliers d'euros. Les montants assurés, les franchises et les services inclus expliquent une grande partie des écarts.</p><p>L'assureur examine généralement le chiffre d'affaires, le nombre de postes et d'utilisateurs, la nature des données, l'exposition internationale, les sinistres antérieurs ainsi que les mesures de sécurité en place. Un site marchand, un cabinet médical ou une entreprise qui héberge des données clients n'ont pas le même niveau de risque qu'une activité très peu numérisée.</p><p>Plutôt que de chercher la cotisation la plus basse, partez d'un scénario réaliste : combien coûterait une semaine sans système de facturation ni accès aux dossiers ? Ajoutez les frais d'experts, de restauration, d'information des clients et l'éventuelle défense juridique. Cette estimation aide à choisir un plafond cohérent et une franchise supportable.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe : calculer votre « semaine noire »",
+      "html": "<p>Estimez votre marge ou votre chiffre d'affaires perdu sur cinq jours ouvrés, puis ajoutez les dépenses exceptionnelles probables : prestataire informatique, heures supplémentaires, matériel de remplacement et communication client. Ce total ne remplace pas l'analyse d'un courtier ou d'un assureur, mais il évite de souscrire un plafond manifestement trop faible.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Comment choisir une assurance cyber adaptée à votre entreprise",
+      "intro": "Une comparaison utile ne se résume pas à demander trois devis. Préparez votre besoin pour mettre les garanties face à vos risques concrets.",
+      "steps": [
+        {
+          "title": "1. Inventoriez vos dépendances numériques",
+          "html": "<p>Listez vos applications essentielles, vos données sensibles, vos accès distants, vos prestataires et les périodes où un arrêt serait le plus pénalisant. Identifiez aussi qui peut valider un paiement et qui possède les droits administrateur.</p>"
+        },
+        {
+          "title": "2. Définissez les scénarios à couvrir",
+          "html": "<p>Priorisez au moins un scénario d'arrêt par ransomware, une compromission de messagerie, une fuite de données et une fraude au virement. Tous ne sont pas nécessairement couverts de la même manière.</p>"
+        },
+        {
+          "title": "3. Comparez le service d'assistance, pas seulement le plafond",
+          "html": "<p>Demandez si l'assistance est joignable 24 h/24, quels experts interviennent, dans quels délais et si les frais de première réponse sont avancés. En crise, un numéro d'urgence clairement identifié vaut autant qu'une belle promesse commerciale.</p>"
+        },
+        {
+          "title": "4. Lisez les franchises, carences et sous-limites",
+          "html": "<p>Vérifiez notamment le montant restant à votre charge, le délai avant l'indemnisation d'une perte d'exploitation, les plafonds propres à la notification ou à la fraude, et les conditions de renouvellement.</p>"
+        },
+        {
+          "title": "5. Faites valider les obligations de sécurité",
+          "html": "<p>Ne déclarez pas des protections que vous n'avez pas déployées. Faites relire le questionnaire par votre prestataire informatique ou votre responsable informatique afin que les réponses soient exactes et défendables.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Prévenir l'attaque : les protections attendues avant et après la souscription",
+      "html": "<p>Les assureurs demandent de plus en plus des mesures de base, et c'est logique : l'assurance finance les conséquences d'un sinistre, elle ne peut pas compenser une absence totale d'hygiène numérique. Les exigences exactes dépendent du contrat, mais l'authentification multifacteur, des sauvegardes testées, les mises à jour et la gestion des accès reviennent très souvent dans les questionnaires.</p><p>Commencez par activer le MFA sur les messageries, comptes administrateurs, VPN et outils cloud. Sauvegardez les données importantes selon une méthode qui prévoit une copie isolée du réseau, puis testez réellement la restauration. Une sauvegarde non restaurable le jour de l'incident n'est pas une protection efficace.</p><p>La formation des équipes est tout aussi importante. Une courte sensibilisation régulière aux pièces jointes suspectes, aux faux liens et aux demandes de virement inhabituelles réduit les erreurs. Les recommandations et ressources pratiques de <a href=\"https://cyber.gouv.fr/\">l'ANSSI</a> peuvent aider une PME à poser ce socle sans chercher à tout faire d'un coup.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Le socle de sécurité à prioriser",
+      "points": [
+        "Activer le MFA partout où il est disponible, surtout pour les messageries et les comptes à privilèges.",
+        "Appliquer les correctifs de sécurité sur les postes, serveurs, routeurs et logiciels métier.",
+        "Conserver des sauvegardes séparées et vérifier périodiquement qu'elles se restaurent.",
+        "Supprimer les comptes inutilisés et limiter les droits administrateur au strict nécessaire.",
+        "Mettre en place un contrôle à deux personnes pour les nouveaux bénéficiaires et virements sensibles.",
+        "Préparer une liste de contacts d'urgence : dirigeant, informatique, banque, assureur, prestataire et conseil juridique."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Que faire dans les premières heures après un piratage ?",
+      "intro": "L'objectif est de limiter la propagation, préserver les preuves et déclencher les bonnes ressources sans aggraver la situation.",
+      "steps": [
+        {
+          "title": "1. Isolez, sans détruire les preuves",
+          "html": "<p>Déconnectez du réseau les appareils manifestement touchés si vous pouvez le faire sans risque, mais évitez de tout effacer ou de redémarrer au hasard. Notez les heures, messages d'erreur, comptes concernés et actions observées.</p>"
+        },
+        {
+          "title": "2. Alertez l'assureur et votre prestataire",
+          "html": "<p>Utilisez le numéro d'assistance prévu au contrat dès que possible. L'assureur peut mandater des experts et exiger son accord avant certains frais. Contactez aussi votre prestataire informatique selon votre procédure d'urgence.</p>"
+        },
+        {
+          "title": "3. Sécurisez les accès et les flux financiers",
+          "html": "<p>Changez les identifiants depuis un environnement sain sur recommandation des experts, révoquez les sessions compromises et prévenez votre banque en cas de suspicion de fraude. Ne validez aucun paiement inhabituel par e-mail seul.</p>"
+        },
+        {
+          "title": "4. Évaluez les obligations de notification",
+          "html": "<p>Si des données personnelles sont concernées, faites-vous accompagner pour qualifier le risque et les démarches. Le RGPD prévoit notamment une notification à l'autorité de contrôle dans certains cas, dans un délai de 72 heures lorsque cela est possible. Les informations de la <a href=\"https://www.cnil.fr/fr/notifier-une-violation-de-donnees-personnelles\">CNIL</a> précisent ce cadre.</p>"
+        },
+        {
+          "title": "5. Communiquez avec mesure",
+          "html": "<p>Informez les collaborateurs concernés avec des consignes claires. Pour les clients et partenaires, privilégiez des messages factuels validés avec les experts, plutôt que des explications hâtives qui pourraient être inexactes.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne payez pas et ne négociez pas seul",
+      "html": "<p>Une demande de rançon est une situation complexe : le paiement ne garantit ni le déchiffrement ni la non-divulgation des données, et il peut soulever des enjeux juridiques ou de sanctions. Prévenez l'assureur, les experts mandatés et, selon la situation, les autorités compétentes. Conservez les éléments utiles à l'enquête.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les exclusions et limites à lire avant de signer",
+      "html": "<p>Une assurance cyber n'est pas un chèque en blanc. Les dommages connus avant la souscription, les actes intentionnels, la guerre et certains événements systémiques peuvent être exclus ou fortement encadrés. Les défauts de sécurité majeurs, les déclarations inexactes dans le questionnaire ou le non-respect d'une obligation contractuelle peuvent aussi compliquer l'indemnisation.</p><p>Attention aux termes proches mais différents : « fraude », « vol de fonds », « erreur de virement », « perte d'exploitation » et « atteinte aux données » peuvent renvoyer à des garanties distinctes. Lisez les définitions, les exclusions et les plafonds par poste. Demandez des exemples de sinistres couverts et non couverts correspondant à votre activité.</p><p>Enfin, une sanction administrative, notamment en matière de données personnelles, n'est pas toujours assurable. Le contrat peut toutefois prendre en charge, dans certaines limites, les frais de défense, de conseil ou de notification. Une couverture sérieuse combine donc une lecture attentive du contrat, un dialogue transparent avec l'assureur et un plan de prévention vivant.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "L'assurance cyber est-elle obligatoire pour une PME ?",
+      "a_html": "<p>Non, elle n'est généralement pas obligatoire par la loi pour une PME. En revanche, certains clients, donneurs d'ordre ou contrats de sous-traitance peuvent exiger un niveau d'assurance ou de sécurité spécifique. Elle devient particulièrement pertinente lorsque l'activité dépend fortement d'outils numériques ou implique des données de clients.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Une assurance cyber bien choisie aide une PME à traverser l'après-attaque : experts, frais d'urgence, interruption d'activité et responsabilité peuvent être mieux maîtrisés. Mais le meilleur contrat reste celui qui s'appuie sur des mesures simples et effectivement appliquées : MFA, sauvegardes testées, mises à jour, vigilance des équipes et procédure d'alerte. Faites de votre prochain renouvellement d'assurance l'occasion de cartographier vos risques et de renforcer concrètement votre organisation.</p>",
+  "__slug": "cyber-securite-pme-solutions"
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "file": "input-000.jsonl",
+    "count": 250,
+    "input_file_id": "file-UCbsAS2TrTbebTzb5Hhyzi",
+    "batch_id": "batch_6a51ffece560819090e761297896870c",
+    "status": "validating"
+  },
+  {
+    "file": "input-001.jsonl",
+    "count": 250,
+    "input_file_id": "file-2HFQM729ytohdGxvhqyLq6",
+    "batch_id": "batch_6a51ffeec8d481909fdc948f1d9456be",
+    "status": "validating"
+  },
+  {
+    "file": "input-002.jsonl",
+    "count": 250,
+    "input_file_id": "file-855b4V3ym7HxBEFb9sDwur",
+    "batch_id": "batch_6a51fff026f881909869a34ecb2f2a11",
+    "status": "validating"
+  },
+  {
+    "file": "input-003.jsonl",
+    "count": 250,
+    "input_file_id": "file-4FehtVX7N7fLFnvwdK4K3Q",
+    "batch_id": "batch_6a51fff1dc648190bee2c19c5f8b32ba",
+    "status": "validating"
+  },
+  {
+    "file": "input-004.jsonl",
+    "count": 45,
+    "input_file_id": "file-59SCzDXQfCycHrcWGLZf2A",
+    "batch_id": "batch_6a51fff2c9fc81909a11dfcba021a1ef",
+    "status": "validating"
+  }
+]
