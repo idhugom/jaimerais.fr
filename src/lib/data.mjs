@@ -51,9 +51,11 @@ export function getReadyPosts() {
   return getCatalog().filter((p) => ready.has(p.slug));
 }
 
-/** Canonical article URL — matches the legacy WordPress path exactly. */
+/** Canonical article URL. Files are built as /conseils/<slug>.html but Cloudflare
+ *  Pages serves them extensionless (and 308-redirects the legacy .html URLs here),
+ *  so the canonical/served URL is /conseils/<slug>. */
 export function postUrl(slug) {
-  return `/conseils/${slug}.html`;
+  return `/conseils/${slug}`;
 }
 export const LISTING_URL = '/conseils';
 
