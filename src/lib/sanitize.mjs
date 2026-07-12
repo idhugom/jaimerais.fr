@@ -17,7 +17,10 @@ export function sanitizeHtml(html = '') {
       let href = hrefMatch ? hrefMatch[2] || hrefMatch[3] || '' : '';
       // Block dangerous protocols.
       if (/^\s*(javascript|data|vbscript):/i.test(href)) href = '';
-      const external = /^https?:\/\//i.test(href) && !href.includes('jaimerais.fr');
+      // Hosts treated as first-party / editorial: kept as natural in-context links
+      // (dofollow, same tab). Everything else external gets nofollow + _blank.
+      const trusted = ['jaimerais.fr', 'julien-jimenez-email-marketing.com'];
+      const external = /^https?:\/\//i.test(href) && !trusted.some((h) => href.includes(h));
       const rel = external ? ' rel="noopener nofollow" target="_blank"' : '';
       return href ? `<a href="${href.replace(/"/g, '&quot;')}"${rel}>` : '<a>';
     }
