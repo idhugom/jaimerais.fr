@@ -1,7 +1,7 @@
 import { getCatalog, readySlugs, postUrl } from '../lib/data.mjs';
 
 export function GET() {
-  const site = 'https://jaimerais.fr';
+  const site = 'https://www.jaimerais.fr';
   const ready = readySlugs();
   const posts = getCatalog().filter((p) => ready.has(p.slug));
   const staticPages = ['/', '/conseils', '/a-propos'];

@@ -1,39 +1,35 @@
-# Mise en production — domaine & redirection www
+# Mise en production — domaine & redirection
 
-La préprod tourne sur **https://jaimerais-preprod.pages.dev** (projet Cloudflare Pages
-`jaimerais-preprod`, connecté à GitHub `idhugom/jaimerais.fr`, branche `main`).
+Le site tourne sur le projet Cloudflare Pages `jaimerais-preprod`
+(connecté à GitHub `idhugom/jaimerais.fr`, branche `main`).
 
-Quand la préprod est validée, pour passer sur le vrai domaine `jaimerais.fr` :
+**Domaine principal (canonique) : `www.jaimerais.fr`.**
+L'apex `jaimerais.fr` **redirige (301)** vers `https://www.jaimerais.fr`.
 
-## 1. Pointer le domaine vers Cloudflare
-- Ajouter le site `jaimerais.fr` comme **zone** dans le compte Cloudflare (si ce n'est pas déjà fait),
-  puis mettre à jour les **nameservers** du registrar vers ceux fournis par Cloudflare.
-
-## 2. Attacher le domaine au projet Pages + redirection www → sans www
-Une fois la zone `jaimerais.fr` présente dans Cloudflare, exécuter :
+## Configuration (une fois la zone `jaimerais.fr` présente dans Cloudflare)
 
 ```bash
 node scripts/go-live.mjs
 ```
 
 Ce script :
-1. attache `jaimerais.fr` **et** `www.jaimerais.fr` au projet Pages `jaimerais-preprod` ;
-2. crée une **règle de redirection 301** `www.jaimerais.fr/*` → `https://jaimerais.fr/$1`
-   (phase `http_request_dynamic_redirect` de la zone), en conservant le chemin et la query string.
+1. attache `jaimerais.fr` **et** `www.jaimerais.fr` au projet Pages ;
+2. crée une **règle de redirection 301** `jaimerais.fr/*` → `https://www.jaimerais.fr/$1`
+   (phase `http_request_dynamic_redirect` de la zone), chemin + query string conservés.
 
-Le CNAME/enregistrement du domaine apex est géré automatiquement par Cloudflare Pages lors de
-l'attachement du domaine personnalisé (dans la même zone).
+Les enregistrements DNS des deux domaines sont créés automatiquement par Cloudflare Pages
+lors de l'attachement (même compte/zone).
 
-## 3. Compatibilité des anciennes URLs (SEO)
-Les articles sont servis en **URL propre** `https://jaimerais.fr/conseils/<slug>` (le slug est
-préservé à l'identique). Les anciennes URLs WordPress `…/conseils/<slug>.html` sont
-**redirigées automatiquement (308)** par Cloudflare Pages vers l'URL propre — aucune action requise.
-Le `sitemap.xml` et les balises canoniques pointent déjà vers les URLs propres.
+## Compatibilité des anciennes URLs (SEO)
+Les articles sont servis en **URL propre** `https://www.jaimerais.fr/conseils/<slug>` (slug
+préservé). Les anciennes URLs WordPress `…/conseils/<slug>.html` sont redirigées
+**automatiquement (308)** par Cloudflare Pages vers l'URL propre. `sitemap.xml`, balises
+canoniques et JSON-LD pointent déjà vers `www.jaimerais.fr`.
 
 ## Vérifs post-bascule
 ```bash
-curl -I https://jaimerais.fr/                                   # 200
-curl -I https://www.jaimerais.fr/                               # 301 -> https://jaimerais.fr/
-curl -I https://jaimerais.fr/conseils/<un-slug>                 # 200
-curl -I https://jaimerais.fr/conseils/<un-slug>.html            # 308 -> /conseils/<un-slug>
+curl -I https://www.jaimerais.fr/                          # 200
+curl -I https://jaimerais.fr/                              # 301 -> https://www.jaimerais.fr/
+curl -I https://www.jaimerais.fr/conseils/<un-slug>        # 200
+curl -I https://www.jaimerais.fr/conseils/<un-slug>.html   # 308 -> /conseils/<un-slug>
 ```

@@ -38,12 +38,12 @@ const ld = {
   '@type': 'Article',
   headline: title,
   description,
-  image: heroImg ? new URL(heroImg, 'https://jaimerais.fr').href : undefined,
+  image: heroImg ? new URL(heroImg, 'https://www.jaimerais.fr').href : undefined,
   datePublished: post.date,
   dateModified: post.modified || post.date,
   author: { '@type': 'Organization', name: 'jaimerais.fr' },
   publisher: { '@type': 'Organization', name: 'jaimerais.fr' },
-  mainEntityOfPage: `https://jaimerais.fr${canonical}`,
+  mainEntityOfPage: `https://www.jaimerais.fr${canonical}`,
 };
 const faqLd = ready && content.faq?.length
   ? {

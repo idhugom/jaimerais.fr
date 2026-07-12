@@ -16,7 +16,7 @@ const {
   canonicalPath,
 } = Astro.props;
 
-const site = 'https://jaimerais.fr';
+const site = 'https://www.jaimerais.fr';
 const rawPath = canonicalPath ?? Astro.url.pathname;
 const canonical = (new URL(rawPath, site).href.replace(/\/$/, '')) || site;
 const ogImage = image.startsWith('http') ? image : site + image;

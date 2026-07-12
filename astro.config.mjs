@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 
 // Static output -> dist/ ; deployed on Cloudflare Pages (npm run build).
 export default defineConfig({
-  site: 'https://jaimerais.fr',
+  site: 'https://www.jaimerais.fr',
   output: 'static',
   trailingSlash: 'ignore',
   build: {

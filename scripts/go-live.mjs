@@ -5,6 +5,7 @@
 //   node scripts/go-live.mjs
 //
 // Idempotent-ish: skips domains already attached; replaces the redirect rule.
+// Primary domain is WWW: the apex (jaimerais.fr) redirects (301) to www.jaimerais.fr.
 const ACCOUNT = process.env.CLOUDFLARE_ACCOUNT_ID;
 const TOKEN = process.env.CLOUDFLARE_API_TOKEN;
 const PROJECT = process.env.CF_PAGES_PROJECT || 'jaimerais-preprod';
@@ -32,13 +33,13 @@ async function findZone() {
 async function setWwwRedirect(zoneId) {
   const body = {
     rules: [{
-      expression: `(http.host eq "${WWW}")`,
-      description: 'www -> apex (301)',
+      expression: `(http.host eq "${APEX}")`,
+      description: 'apex -> www (301)',
       action: 'redirect',
       action_parameters: {
         from_value: {
           status_code: 301,
-          target_url: { expression: `concat("https://${APEX}", http.request.uri.path)` },
+          target_url: { expression: `concat("https://${WWW}", http.request.uri.path)` },
           preserve_query_string: true,
         },
       },
@@ -63,7 +64,7 @@ async function main() {
   }
   console.log(`Zone found: ${zoneId}`);
   await setWwwRedirect(zoneId);
-  console.log('\nDone. www.jaimerais.fr now redirects to https://jaimerais.fr (301).');
+  console.log('\nDone. jaimerais.fr now redirects to https://www.jaimerais.fr (301).');
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });
