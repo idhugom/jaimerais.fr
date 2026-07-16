@@ -1,0 +1,148 @@
+{
+  "title": "Combien de temps garder ses relevés bancaires et papiers avant de les jeter",
+  "meta_description": "Relevés bancaires, factures, avis d'imposition : combien de temps les conserver légalement avant de pouvoir les jeter en toute sécurité ? Le guide complet, document par document.",
+  "reading_time_min": 9,
+  "hero_intro": "J'aimerais enfin savoir quels papiers je peux jeter sans risque, au lieu de tout accumuler par précaution dans un tiroir qui déborde. La bonne nouvelle, c'est que la loi française fixe des durées de conservation précises pour la quasi-totalité des documents du quotidien : relevés bancaires, factures, avis d'imposition, contrats d'assurance… Une fois ces délais connus, le tri devient simple et vous pouvez vous débarrasser sereinement de ce qui ne sert plus.",
+  "key_takeaways": [
+    "Les relevés bancaires doivent être conservés 5 ans, durée légale de prescription pour la plupart des actions civiles liées à un compte.",
+    "Les avis d'imposition et justificatifs fiscaux se gardent au minimum 3 ans, mais 6 ans est recommandé en cas de contrôle fiscal ou de succession.",
+    "Certains documents ne se jettent jamais : actes d'état civil, diplômes, titres de propriété, contrats de mariage et jugements de divorce.",
+    "Les factures d'énergie et de téléphonie se conservent 1 à 5 ans selon le litige potentiel, tandis que les factures liées à des travaux ou à un logement se gardent 10 ans.",
+    "Détruire un papier confidentiel à la poubelle sans le déchiqueter expose à un risque réel d'usurpation d'identité : mieux vaut un broyeur qu'une simple corbeille."
+  ],
+  "toc": [
+    "Pourquoi ces durées existent et à quoi elles servent",
+    "Le tableau des durées de conservation par type de document",
+    "Les documents à garder toute la vie, sans exception",
+    "Papier ou numérique : que choisir pour archiver sereinement",
+    "Comment se débarrasser des papiers en toute sécurité",
+    "Les erreurs à éviter",
+    "Questions fréquentes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi ces durées existent et à quoi elles servent",
+      "html": "<p>Chaque durée de conservation correspond en réalité à un <strong>délai de prescription légale</strong> : la période durant laquelle une administration, une banque, un assureur ou un particulier peut encore engager une action ou demander une preuve en lien avec ce document. Passé ce délai, l'action n'est plus recevable et le papier perd son utilité juridique — vous pouvez alors vous en séparer sans risque.</p><p>C'est notamment le cas pour les relevés bancaires : en cas de litige sur une opération, la loi laisse plusieurs années pour agir, d'où l'intérêt de pouvoir présenter un justificatif si nécessaire. À l'inverse, garder indéfiniment tous ses papiers ne protège de rien de plus une fois le délai passé, et transforme surtout le tri en corvée. Comme pour <a href=\"/conseils/comment-mieux-gerer-son-budget\">mieux gérer son budget au quotidien</a>, un peu d'organisation en amont évite l'accumulation qui finit par tout compliquer.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Le tableau des durées de conservation par type de document",
+      "intro": "Ces durées correspondent aux recommandations officielles (service-public.fr) pour un usage courant, hors situation particulière de contentieux en cours.",
+      "columns": ["Type de document", "Durée de conservation", "Point de départ"],
+      "rows": [
+        ["Relevés et talons de chèques bancaires", "5 ans", "Date d'émission"],
+        ["Avis d'imposition (revenus, taxe d'habitation)", "3 ans minimum (6 ans conseillé)", "Année d'imposition"],
+        ["Factures d'électricité et de gaz", "5 ans", "Date de facturation"],
+        ["Factures de téléphonie et internet", "1 an", "Date de facturation"],
+        ["Quittances et contrats de loyer", "3 ans après la fin du bail", "Fin de la location"],
+        ["Factures de travaux ou d'artisan (logement)", "10 ans", "Fin des travaux"],
+        ["Contrats d'assurance (auto, habitation)", "2 ans après la résiliation", "Date de résiliation"],
+        ["Bulletins de salaire", "À vie (recommandé)", "Sans limite légale stricte"],
+        ["Titre de propriété d'un bien immobilier", "À vie", "Sans limite"],
+        ["Certificat de garantie d'un appareil", "Durée de la garantie + quelques mois", "Date d'achat"]
+      ],
+      "note": "En cas de succession ou de contrôle fiscal en cours, ces durées peuvent être prolongées : mieux vaut conserver les documents les plus sensibles un peu au-delà du minimum légal."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le cas particulier des bulletins de salaire",
+      "html": "<p>Depuis 2016, la loi ne fixe plus de durée légale obligatoire pour les bulletins de salaire — mais les conserver <strong>toute sa vie active</strong> reste vivement recommandé. Ils sont souvent le seul justificatif fiable pour reconstituer une carrière incomplète au moment de la retraite, notamment en cas d'erreur dans le relevé de carrière transmis par les caisses.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Les documents à garder toute la vie, sans exception",
+      "html": "<p>Certains papiers n'ont tout simplement pas de date de péremption, car ils font foi de manière permanente : actes de naissance, de mariage ou de décès, livret de famille, jugements de divorce, diplômes, titres de propriété, contrats de prêt immobilier soldé et attestations de versement d'une pension. Perdre l'un de ces documents oblige souvent à des démarches longues et parfois coûteuses pour en obtenir un duplicata.</p><p>Le plus simple consiste à les regrouper dans une pochette ou un coffret ignifugé, distinct du classeur courant utilisé pour les factures et relevés que vous triez chaque année. Si vous devez par ailleurs justifier une résiliation de contrat auprès d'un assureur, notre guide pour <a href=\"/conseils/comment-rediger-une-lettre-de-resiliation-pour-votre-assurance-habitation-etapes-et-conseils-pratiques\">rédiger une lettre de résiliation d'assurance habitation</a> détaille les justificatifs à conserver précieusement pendant cette démarche.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Papier ou numérique : que choisir pour archiver sereinement",
+      "intro": "La loi française reconnaît la valeur probante d'une copie numérique dans la plupart des cas, à condition qu'elle soit fidèle et durable.",
+      "left": {
+        "title": "Archivage papier classique",
+        "points": [
+          "Valeur juridique incontestée, notamment pour les originaux (actes d'état civil, titres de propriété).",
+          "Aucun risque de perte de données liée à un fichier corrompu ou un mot de passe oublié.",
+          "Demande de l'espace de rangement et un tri manuel régulier pour éviter l'accumulation.",
+          "Reste indispensable pour les documents à garder toute la vie sans exception."
+        ]
+      },
+      "right": {
+        "title": "Numérisation et archivage numérique",
+        "points": [
+          "Gain de place considérable : un scanner de bureau suffit à archiver des années de relevés.",
+          "Accepté par la plupart des administrations et banques comme preuve, sauf demande explicite d'original.",
+          "Nécessite une sauvegarde fiable (cloud sécurisé et disque externe) pour éviter toute perte accidentelle.",
+          "Pratique à combiner avec les relevés déjà envoyés au format PDF par la banque elle-même."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Comment se débarrasser des papiers en toute sécurité",
+      "intro": "Un tri annuel, par exemple au moment de la déclaration d'impôts, évite que les papiers ne s'accumulent d'une année sur l'autre.",
+      "steps": [
+        {
+          "title": "1. Triez par date et par type de document",
+          "html": "<p>Regroupez vos papiers par année, puis identifiez ceux dont la durée légale de conservation est dépassée à l'aide du tableau ci-dessus. Séparez-les immédiatement de ceux à conserver, dans deux piles distinctes.</p>"
+        },
+        {
+          "title": "2. Repérez les informations sensibles",
+          "html": "<p>Relevés bancaires, avis d'imposition et factures contiennent souvent votre IBAN, votre numéro fiscal ou votre adresse complète : autant d'informations qui peuvent servir à une usurpation d'identité si elles tombent entre de mauvaises mains.</p>"
+        },
+        {
+          "title": "3. Détruisez avec un broyeur de documents",
+          "html": "<p>Un broyeur à coupe croisée (« cross-cut ») offre une sécurité bien supérieure à une simple déchiqueteuse à bandes, plus facile à reconstituer. À défaut, découpez manuellement les zones contenant IBAN, numéro de sécurité sociale et numéro fiscal avant de jeter le reste.</p>"
+        },
+        {
+          "title": "4. Numérisez ce qui doit encore être conservé quelques années",
+          "html": "<p>Pour les documents dont le délai légal n'est pas encore écoulé mais qui encombrent, une numérisation en PDF avec sauvegarde sur deux supports différents permet de libérer l'espace papier tout en gardant une preuve valable.</p>"
+        }
+      ]
+    },
+    {
+      "type": "key_points",
+      "heading": "Les erreurs à éviter",
+      "points": [
+        "Jeter un relevé bancaire ou un avis d'imposition à la poubelle sans le déchiqueter, en pensant que le tri sélectif suffit à le rendre illisible.",
+        "Détruire un document avant l'échéance légale, notamment une facture de travaux ou un contrat d'assurance encore dans son délai de recours possible.",
+        "Confondre durée de conservation recommandée et durée légale obligatoire : certains documents (bulletins de salaire) n'ont pas d'obligation stricte mais un intérêt pratique fort à être gardés.",
+        "Numériser puis jeter un original qui doit légalement rester sous forme papier, comme un acte notarié ou un titre de propriété."
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "En chiffres",
+      "items": [
+        { "value": "5 ans", "label": "durée de conservation des relevés bancaires" },
+        { "value": "10 ans", "label": "durée pour les factures de travaux sur un logement" },
+        { "value": "0", "label": "documents d'état civil à jeter, jamais" }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "Un papier ne se garde pas par précaution indéfinie, mais pour la durée exacte pendant laquelle il peut encore servir de preuve.",
+      "author": "Principe de base de l'archivage personnel"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on demander un duplicata de relevé bancaire après l'avoir jeté ?",
+      "a_html": "<p>Oui, la plupart des banques conservent l'historique des relevés en ligne pendant plusieurs années et peuvent en réémettre une copie sur demande, parfois avec des frais pour les documents anciens. Cela reste toutefois plus simple si vous avez conservé l'original pendant le délai légal.</p>"
+    },
+    {
+      "q": "Faut-il garder les tickets de caisse aussi longtemps que les factures ?",
+      "a_html": "<p>Non : un simple ticket de caisse pour un achat courant peut être jeté dès que la période de rétractation ou de garantie légale de conformité (2 ans) est passée, sauf s'il sert de justificatif pour une note de frais ou une déclaration fiscale spécifique.</p>"
+    },
+    {
+      "q": "Une facture reçue uniquement par email suffit-elle comme preuve légale ?",
+      "a_html": "<p>Oui, une facture électronique a la même valeur probante qu'une facture papier en France, à condition d'être conservée dans son format d'origine (PDF non modifié) plutôt qu'imprimée puis rescannée, ce qui peut fragiliser sa valeur en cas de litige strict.</p>"
+    },
+    {
+      "q": "Que faire des papiers d'un proche décédé avant de tout jeter ?",
+      "a_html": "<p>Conservez au minimum les documents utiles à la succession (relevés bancaires, avis d'imposition des trois dernières années, titres de propriété, contrats d'assurance-vie) jusqu'à la clôture complète du dossier avec le notaire, qui peut demander des pièces bien après le décès.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Retenez l'essentiel : 5 ans pour les relevés bancaires, 3 à 6 ans pour les documents fiscaux, 10 ans pour les factures de travaux, et une conservation à vie pour les actes d'état civil et titres de propriété. Une fois ces repères en tête, le tri annuel devient un réflexe simple — et le broyeur de documents, un geste de sécurité aussi important que la conservation elle-même.</p>"
+}
