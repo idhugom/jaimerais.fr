@@ -1,0 +1,163 @@
+{
+  "title": "Comment calculer son taux d’endettement pour un prêt immobilier ?",
+  "meta_description": "Taux d’endettement, seuil des 35 %, reste à vivre : voici la formule exacte utilisée par les banques, un exemple chiffré complet et les leviers pour faire baisser votre taux.",
+  "reading_time_min": 9,
+  "hero_intro": "J’aimerais que mon dossier de prêt immobilier passe sans accroc, et cela commence presque toujours par un seul chiffre : le taux d’endettement. C’est le premier calcul que fait n’importe quel banquier avant même de regarder votre apport ou la qualité du bien visé. Voici la formule exacte, un exemple chiffré complet, la nuance essentielle du « reste à vivre », et les leviers concrets pour faire baisser ce taux si besoin.",
+  "key_takeaways": [
+    "Le taux d’endettement se calcule ainsi : (total des charges de crédit mensuelles ÷ revenus nets mensuels) × 100.",
+    "Le seuil de référence fixé par le HCSF est de 35 % maximum, assurance de prêt incluse.",
+    "Les banques peuvent déroger à ce seuil pour 20 % de leur production de crédits, notamment via le critère du « reste à vivre ».",
+    "Les revenus locatifs ne sont comptés qu’à hauteur de 70 à 80 % dans le calcul, pour tenir compte des périodes de vacance ou d’impayés.",
+    "Rallonger la durée du prêt, augmenter l’apport ou regrouper des crédits existants sont les leviers les plus efficaces pour faire baisser le taux."
+  ],
+  "toc": [
+    "La formule exacte du taux d’endettement",
+    "Exemple de calcul complet, étape par étape",
+    "Pourquoi le seuil des 35 % fait référence",
+    "Le « reste à vivre », le critère qui peut tout changer",
+    "Quels revenus et quelles charges entrent dans le calcul",
+    "Comment faire baisser son taux d’endettement",
+    "Questions fréquentes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "La formule exacte du taux d’endettement",
+      "html": "<p>Le taux d’endettement mesure la part de vos revenus mensuels absorbée par le remboursement de vos crédits. La formule utilisée par les banques est la suivante :</p><p><strong>Taux d’endettement = (charges de crédit mensuelles ÷ revenus nets mensuels) × 100</strong></p><p>Les « charges de crédit » regroupent la future mensualité du prêt immobilier (assurance emprunteur comprise), ainsi que toutes les mensualités de crédits en cours : crédit auto, crédit renouvelable, prêt étudiant, et le cas échéant une pension alimentaire versée. Les revenus pris en compte sont les revenus nets, avant impôt mais après cotisations sociales, sur les derniers relevés ou avis d’imposition demandés par la banque.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Exemple de calcul complet, étape par étape",
+      "intro": "Prenons le cas d’un couple avec des revenus nets combinés de 4 200 € par mois, souhaitant emprunter pour un bien avec une mensualité (assurance incluse) de 1 350 €, et remboursant encore 200 € par mois de crédit auto.",
+      "columns": [
+        "Élément",
+        "Montant"
+      ],
+      "rows": [
+        [
+          "Revenus nets mensuels du foyer",
+          "4 200 €"
+        ],
+        [
+          "Mensualité du futur prêt immobilier (assurance incluse)",
+          "1 350 €"
+        ],
+        [
+          "Mensualité de crédit auto en cours",
+          "200 €"
+        ],
+        [
+          "Total des charges de crédit",
+          "1 550 €"
+        ],
+        [
+          "Taux d’endettement",
+          "1 550 ÷ 4 200 × 100 = 36,9 %"
+        ]
+      ],
+      "note": "À 36,9 %, ce dossier dépasse légèrement le seuil des 35 % : la banque devra soit ajuster la durée ou le montant emprunté, soit mobiliser le critère du reste à vivre pour justifier une dérogation."
+    },
+    {
+      "type": "prose",
+      "heading": "Pourquoi le seuil des 35 % fait référence",
+      "html": "<p>Depuis janvier 2022, les recommandations du Haut Conseil de stabilité financière (HCSF) sont devenues des règles contraignantes pour les banques françaises : un taux d’endettement maximal de <strong>35 %</strong>, assurance de prêt comprise, et une durée de crédit qui ne dépasse pas <strong>25 ans</strong> dans la très grande majorité des cas (27 ans possibles pour un achat dans le neuf avec différé de remboursement).</p><p>Ce seuil n’est pas arbitraire : il vise à préserver un niveau de vie suffisant après paiement des charges de crédit, en tenant compte du fait qu’un ménage à hauts revenus conserve, même à 35 % d’endettement, un reste à vivre confortable, alors qu’un ménage plus modeste peut se retrouver en difficulté à un taux pourtant identique.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le « reste à vivre », le critère qui peut tout changer",
+      "html": "<p>Chaque banque dispose d’une <strong>marge de dérogation</strong> représentant 20 % de sa production trimestrielle de crédits immobiliers, dont les trois quarts doivent être réservés à l’achat de la résidence principale. Ces dérogations s’appuient largement sur le <strong>reste à vivre</strong> : la somme qui reste chaque mois au foyer une fois toutes les charges de crédit payées. Un couple à hauts revenus dépassant légèrement 35 % d’endettement, mais conservant plusieurs milliers d’euros de reste à vivre, a de bien meilleures chances d’obtenir une dérogation qu’un foyer modeste dans la même situation de taux.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Quels revenus et quelles charges entrent dans le calcul",
+      "intro": "Toutes les rentrées d’argent et toutes les dépenses ne sont pas traitées de la même façon par les banques.",
+      "left": {
+        "title": "Revenus généralement retenus",
+        "points": [
+          "Salaires nets et primes récurrentes (13e mois, primes contractuelles).",
+          "Pensions de retraite et rentes viagères.",
+          "Revenus locatifs, mais à hauteur de 70 % à 80 % seulement de leur montant.",
+          "Revenus d’indépendant sur la moyenne des 2 ou 3 derniers bilans."
+        ]
+      },
+      "right": {
+        "title": "Charges généralement retenues",
+        "points": [
+          "Future mensualité du prêt immobilier, assurance emprunteur incluse.",
+          "Crédits à la consommation et crédits renouvelables en cours.",
+          "Pensions alimentaires versées à un ex-conjoint ou pour un enfant.",
+          "Le loyer actuel n’est pas compté s’il disparaît à l’achat du logement."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "heading": "Comment faire baisser son taux d’endettement",
+      "intro": "Plusieurs leviers, combinables, permettent de repasser sous le seuil des 35 % avant de déposer un dossier.",
+      "steps": [
+        {
+          "title": "1. Allonger la durée du prêt",
+          "html": "<p>Passer de 20 à 25 ans réduit mécaniquement la mensualité et donc le taux d’endettement, au prix d’un coût total du crédit plus élevé. C’est souvent le levier le plus rapide à activer, dans la limite des 25 ans imposés par le HCSF.</p>"
+        },
+        {
+          "title": "2. Augmenter l’apport personnel",
+          "html": "<p>Un apport plus élevé réduit le montant emprunté, donc la mensualité. Un apport de 10 à 20 % du prix du bien, hors frais de notaire, reste souvent le seuil à partir duquel les banques négocient plus facilement les conditions du prêt.</p>"
+        },
+        {
+          "title": "3. Solder ou regrouper les crédits en cours",
+          "html": "<p>Un crédit auto ou un crédit renouvelable qui touche à sa fin peut être soldé par anticipation avant la demande de prêt. À défaut, un rachat de crédits permet de fusionner plusieurs mensualités en une seule, plus faible.</p>"
+        },
+        {
+          "title": "4. Renégocier ou faire jouer la concurrence sur l’assurance emprunteur",
+          "html": "<p>L’assurance de prêt entre dans le calcul du taux d’endettement au même titre que le capital et les intérêts. Passer par une <a href=\"/conseils/assurance-credit-immobilier-une-etape-obligatoire-dans-lacquisition-dun-bien-immobilier\">délégation d’assurance emprunteur</a> plutôt que le contrat groupe de la banque peut réduire sensiblement cette part de la mensualité.</p>"
+        },
+        {
+          "title": "5. Simuler plusieurs scénarios avant de déposer un dossier",
+          "html": "<p>Faire varier durée, apport et montant emprunté dans <a href=\"/conseils/simulation-financement-achat-immobilier\">une simulation de financement</a> permet d’identifier, avant tout rendez-vous en banque, la combinaison qui repasse sous le seuil des 35 % sans sacrifier le projet.</p>"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "Quelques repères chiffrés",
+      "items": [
+        {
+          "value": "35 %",
+          "label": "Taux d’endettement maximal recommandé par le HCSF"
+        },
+        {
+          "value": "25 ans",
+          "label": "Durée maximale de prêt dans la grande majorité des cas"
+        },
+        {
+          "value": "20 %",
+          "label": "Part de dérogations possibles dans la production de crédits d’une banque"
+        },
+        {
+          "value": "70-80 %",
+          "label": "Part des revenus locatifs retenue dans le calcul"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Le taux d’endettement est-il calculé avant ou après impôt ?",
+      "a_html": "<p>Il est calculé sur les revenus nets avant impôt sur le revenu, mais après cotisations sociales : c’est le montant qui figure sur vos fiches de paie sous « net à payer avant impôt », et non le revenu net imposable de votre avis d’imposition.</p>"
+    },
+    {
+      "q": "Un taux d’endettement de 34 % garantit-il l’accord du prêt ?",
+      "a_html": "<p>Non. Rester sous 35 % lève un frein réglementaire important, mais la banque examine aussi la stabilité des revenus, l’historique bancaire, l’apport et la qualité du bien. Un taux conforme est une condition nécessaire, pas suffisante.</p>"
+    },
+    {
+      "q": "Comment le taux d’endettement est-il calculé pour un couple avec des revenus très inégaux ?",
+      "a_html": "<p>La banque additionne les revenus nets du foyer et l’ensemble des charges de crédit des deux emprunteurs, puis applique la même formule globale. Les revenus très inégaux ne changent rien au calcul, mais peuvent être discutés lors de l’examen du reste à vivre.</p>"
+    },
+    {
+      "q": "Les charges courantes (électricité, alimentation, abonnements) comptent-elles dans le taux d’endettement ?",
+      "a_html": "<p>Non, ces charges de la vie courante n’entrent pas dans le calcul du taux d’endettement au sens strict. Elles sont en revanche prises en compte de façon indirecte dans l’analyse du reste à vivre, notamment pour les dossiers proches du seuil des 35 %.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Le taux d’endettement n’est qu’un chiffre, mais c’est souvent celui qui décide, avant tous les autres, si un dossier de prêt immobilier avance ou s’arrête. En le calculant vous-même avant tout rendez-vous en banque, en jouant sur la durée, l’apport ou les crédits en cours, vous abordez la négociation avec un dossier déjà solide plutôt qu’en découvrant le seuil des 35 % en pleine réunion.</p>"
+}
