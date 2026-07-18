@@ -1,0 +1,139 @@
+{
+  "title": "Combien de temps garder les factures de travaux pour la garantie décennale (et lesquelles jeter)",
+  "meta_description": "Facture d'artisan, devis, PV de réception : combien de temps les conserver pour la garantie décennale ? Durées précises, documents à garder et méthode de classement simple.",
+  "reading_time_min": 8,
+  "hero_intro": "J'aimerais que ce tiroir plein de factures de travaux cesse enfin de vous angoisser à chaque tri de printemps. Entre la garantie décennale, la garantie biennale et l'assurance dommages-ouvrage, chaque document a sa propre durée légale de conservation, et jeter trop tôt une facture peut coûter très cher le jour d'un sinistre. Voici, document par document, ce qu'il faut garder, combien de temps, et ce que vous pouvez enfin recycler sans regret.",
+  "key_takeaways": [
+    "La garantie décennale protège les travaux de gros œuvre pendant 10 ans à compter de la réception du chantier : gardez toutes les factures et le PV de réception pendant au moins cette durée.",
+    "La garantie biennale (2 ans) couvre les équipements dissociables (chauffe-eau, volets, robinetterie) : conservez leurs factures au moins 2 ans, mais mieux vaut les garder 10 ans par sécurité.",
+    "L'attestation d'assurance décennale de l'artisan doit être réclamée et conservée séparément : c'est elle qui prouve qu'un recours reste possible même si l'entreprise a fermé.",
+    "En cas de revente du bien, ces documents doivent être transmis au nouvel acquéreur : la garantie décennale suit la maison, pas le propriétaire qui a commandé les travaux.",
+    "Un simple dossier numérique (photos + PDF scannés) suffit légalement : ce n'est pas l'original papier qui compte, mais la lisibilité et la date certaine du document."
+  ],
+  "toc": [
+    "Pourquoi la durée de conservation dépend du type de travaux",
+    "Le tableau des durées de conservation par document",
+    "Garantie décennale, biennale, parfait achèvement : ne pas confondre",
+    "Les documents indispensables à ne jamais jeter",
+    "Comment organiser son dossier travaux sans y passer un dimanche",
+    "Que faire si vous avez perdu une facture",
+    "En cas de revente : transmettre le dossier au nouvel acquéreur",
+    "Questions fréquentes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi la durée de conservation dépend du type de travaux",
+      "html": "<p>Toutes les factures de travaux ne se valent pas devant la loi. Une fuite sur une toiture refaite il y a huit ans n'engage pas les mêmes garanties qu'un robinet qui goutte six mois après son installation. Le droit français distingue plusieurs régimes de responsabilité selon la nature de l'ouvrage concerné, avec pour chacun une durée de prescription différente : c'est cette durée qui doit guider la conservation de vos documents, pas une intuition générale du type « je garde tout dix ans par précaution ».</p><p>Concrètement, un désordre qui compromet la solidité du bâtiment ou le rend impropre à sa destination (fissure structurelle, infiltration majeure, défaut d'étanchéité de toiture) relève de la <strong>garantie décennale</strong>. Un équipement qui peut être démonté sans dégrader le bâti (chaudière, volet roulant, interphone) relève le plus souvent de la <strong>garantie biennale</strong>. Un point litigieux constaté juste après la fin du chantier relève, lui, de la <strong>garantie de parfait achèvement</strong>, valable un an seulement.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Le tableau des durées de conservation par document",
+      "intro": "À conserver à partir de la date de réception des travaux (signature du procès-verbal de réception, ou date de la facture finale pour de petits travaux sans réception formelle).",
+      "columns": ["Document", "Durée de conservation recommandée", "Pourquoi"],
+      "rows": [
+        ["Facture finale + devis signé", "10 ans minimum", "Base de toute réclamation en garantie décennale"],
+        ["Procès-verbal de réception de chantier", "10 ans minimum", "Point de départ légal de la garantie décennale"],
+        ["Attestation d'assurance décennale de l'artisan", "10 ans minimum", "Preuve qu'un recours assurantiel reste possible"],
+        ["Attestation d'assurance dommages-ouvrage", "10 ans minimum (souscription obligatoire pour le maître d'ouvrage)", "Indemnisation rapide sans attendre une décision de justice"],
+        ["Factures d'équipements dissociables (chauffe-eau, volets, portails)", "2 ans minimum, 10 ans conseillés", "Garantie biennale, mais utile en cas de litige élargi"],
+        ["Réserves émises à la réception + levée des réserves", "10 ans minimum", "Preuve de la garantie de parfait achèvement (1 an) et du suivi"],
+        ["Photos du chantier avant/après travaux", "10 ans conseillés", "Preuve matérielle en cas d'expertise"]
+      ],
+      "note": "Ces durées sont des minimums légaux ou des recommandations prudentes ; en pratique, un dossier complet conservé 10 ans couvre l'ensemble des garanties possibles sans avoir à trier document par document."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Garantie décennale, biennale, parfait achèvement : ne pas confondre",
+      "html": "<p>La <strong>garantie de parfait achèvement</strong> (1 an) oblige l'artisan à réparer tout désordre signalé dans l'année suivant la réception, qu'il soit apparent ou caché. La <strong>garantie biennale</strong> (2 ans) couvre le bon fonctionnement des équipements dissociables du bâti. La <strong>garantie décennale</strong> (10 ans) couvre les dommages compromettant la solidité de l'ouvrage ou le rendant impropre à son usage — c'est la plus large et la plus longue, et c'est elle qui doit fixer la durée de conservation par défaut de l'ensemble du dossier.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Les documents indispensables à ne jamais jeter",
+      "points": [
+        "Le devis détaillé signé, qui précise la nature exacte des travaux réalisés et sert de référence en cas de désaccord sur ce qui a été commandé.",
+        "La facture finale acquittée, datée, avec le numéro SIRET de l'entreprise et le détail des prestations.",
+        "L'attestation d'assurance décennale de l'artisan, valable pour l'année du chantier (à demander explicitement si elle n'a pas été fournie spontanément).",
+        "Le procès-verbal de réception des travaux, éventuellement signé « avec réserves », qui fixe la date de départ officielle de toutes les garanties.",
+        "Les échanges écrits (mails, courriers) mentionnant des malfaçons ou des demandes de reprise, qui prouvent que vous avez signalé un problème dans les délais."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Comment organiser son dossier travaux sans y passer un dimanche",
+      "intro": "Un classement simple, tenu à jour au fil des chantiers, évite de fouiller des années plus tard dans des cartons humides.",
+      "steps": [
+        {
+          "title": "1. Un dossier par chantier, pas par année",
+          "html": "<p>Créez un dossier (physique ou numérique) par intervention — toiture, salle de bains, extension — plutôt qu'un classement chronologique global. Le jour d'un sinistre, vous cherchez « la facture du couvreur », pas « les papiers de 2022 ».</p>"
+        },
+        {
+          "title": "2. Scannez systématiquement chaque document",
+          "html": "<p>Une photo lisible au smartphone suffit légalement : ce qui compte devant un assureur ou un tribunal, c'est le contenu et la date, pas le support papier original. Nommez les fichiers avec la date et le type de document pour les retrouver en quelques secondes.</p>"
+        },
+        {
+          "title": "3. Sauvegardez le dossier à deux endroits distincts",
+          "html": "<p>Un espace cloud (pour la pérennité) et une copie locale sur un disque externe (pour l'accès sans connexion). Un dégât des eaux qui détruit les originaux papier ne doit jamais faire disparaître aussi les preuves du sinistre précédent.</p>"
+        },
+        {
+          "title": "4. Notez la date de réception sur la pochette",
+          "html": "<p>C'est cette date, et non celle de la facture, qui fait courir le délai de 10 ans. Inscrivez-la clairement pour ne pas avoir à la recalculer des années plus tard.</p>"
+        },
+        {
+          "title": "5. Faites un point tous les 10 ans, pas avant",
+          "html": "<p>Ne jetez un dossier qu'après avoir vérifié que la période de 10 ans depuis la réception des travaux concernés est bien révolue, et qu'aucun désordre n'est apparu entre-temps.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Que faire si vous avez perdu une facture",
+      "html": "<p>Contactez d'abord l'artisan ou l'entreprise : la plupart conservent leurs facturations en comptabilité pendant plusieurs années et peuvent en renvoyer une copie. Si l'entreprise a fermé, un relevé bancaire mentionnant le virement ou le prélèvement, associé au devis initial, peut suffire à reconstituer un début de preuve. En dernier recours, une expertise contradictoire, bien que plus coûteuse, permet de faire constater objectivement l'origine d'un désordre même en l'absence de facture.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "En cas de revente : transmettre le dossier au nouvel acquéreur",
+      "html": "<p>La garantie décennale est attachée à l'<strong>ouvrage</strong>, pas à la personne qui a commandé les travaux : si vous vendez votre maison cinq ans après une réfection de toiture, l'acheteur bénéficie automatiquement des cinq années de garantie restantes, même s'il n'a jamais signé le devis d'origine. Il est donc dans votre intérêt, comme dans le sien, de lui remettre l'ensemble du dossier travaux au moment de la vente : cela rassure lors de la négociation et évite tout litige ultérieur sur qui doit assumer un désordre découvert après la signature.</p><p>Ce point est d'ailleurs souvent négligé au moment de <a href=\"/conseils/financer-achat-immobilier-2025\">financer un achat immobilier</a> : un dossier travaux complet et bien tenu peut faciliter l'obtention du prêt en rassurant la banque sur l'état réel du bien, au même titre qu'un bon diagnostic technique.</p>"
+    },
+    {
+      "type": "quote",
+      "text": "Une facture bien classée ne coûte rien ; une facture perdue peut coûter le prix de toute la réparation.",
+      "author": "Adage courant chez les experts en bâtiment"
+    },
+    {
+      "type": "prose",
+      "heading": "Le rôle trop souvent oublié de l'assurance habitation",
+      "html": "<p>Le dossier travaux et le contrat d'assurance habitation se complètent : en cas de sinistre lié à un défaut de construction, c'est souvent votre assureur multirisque habitation qui avance les frais avant de se retourner contre l'assurance décennale de l'artisan responsable. D'où l'intérêt de vérifier, en parallèle de votre dossier travaux, que <a href=\"/conseils/pourquoi-est-il-essentiel-davoir-une-assurance-habitation\">votre assurance habitation</a> couvre bien ce type de recours, et de signaler tout chantier important à votre assureur pour actualiser votre contrat si nécessaire.</p><p>Si les travaux concernaient la construction même du logement, gardez également à l'esprit les <a href=\"/conseils/quelles-sont-les-erreurs-a-eviter-lorsquon-cherche-un-constructeur-de-maison-bon-marche\">erreurs à éviter lors du choix d'un constructeur</a> : un contrat mal négocié à l'origine complique souvent, des années plus tard, la mise en œuvre de la garantie décennale.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "En chiffres",
+      "items": [
+        { "value": "10 ans", "label": "durée de la garantie décennale à compter de la réception" },
+        { "value": "2 ans", "label": "durée de la garantie biennale pour les équipements dissociables" },
+        { "value": "1 an", "label": "durée de la garantie de parfait achèvement" }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "La garantie décennale s'applique-t-elle aux petits travaux (peinture, papier peint) ?",
+      "a_html": "<p>Non. Elle ne concerne que les ouvrages liés au gros œuvre ou à la solidité du bâtiment (toiture, fondations, étanchéité, structure) et les éléments d'équipement indissociables. Les travaux de simple finition ou de décoration relèvent du droit commun, avec un délai de prescription plus court.</p>"
+    },
+    {
+      "q": "Dois-je garder les factures même si les travaux se sont bien passés ?",
+      "a_html": "<p>Oui. Un désordre lié à la garantie décennale peut apparaître plusieurs années après la fin du chantier, parfois de façon progressive (infiltration lente, fissure qui s'élargit). Il est impossible de savoir à l'avance si un document deviendra nécessaire.</p>"
+    },
+    {
+      "q": "Que se passe-t-il si l'entreprise qui a fait les travaux a fermé ?",
+      "a_html": "<p>C'est justement pour ce cas que l'attestation d'assurance décennale est essentielle : la garantie reste due par l'assureur de l'entreprise, même si celle-ci a cessé son activité, disparu ou fait faillite, tant que le sinistre survient dans les 10 ans suivant la réception.</p>"
+    },
+    {
+      "q": "Un e-mail de confirmation de commande vaut-il une facture ?",
+      "a_html": "<p>Il peut servir de complément de preuve, mais ne remplace pas une facture en bonne et due forme. Exigez toujours une facture finale mentionnant le détail des prestations, le prix, la date et les coordonnées complètes de l'entreprise.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Un dossier travaux bien tenu tient en quelques minutes de classement par chantier et se conserve, par sécurité, pendant 10 ans à compter de la réception. Devis, facture finale, PV de réception et attestation d'assurance décennale forment le noyau à ne jamais perdre ; le reste peut être numérisé et archivé sans encombrer un tiroir. En cas de revente, ce même dossier devient un argument de confiance à transmettre au nouvel acquéreur, qui hérite automatiquement du temps de garantie restant.</p>"
+}
