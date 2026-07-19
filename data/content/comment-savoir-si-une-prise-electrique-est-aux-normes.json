@@ -1,0 +1,133 @@
+{
+  "title": "Comment savoir si une prise électrique est aux normes : les signes qui doivent vous alerter",
+  "meta_description": "Prise sans terre, fissurée, brûlante ou trop proche d'un point d'eau : voici comment repérer une prise électrique non conforme à la norme NF C 15-100, et que faire avant qu'un incident survienne.",
+  "reading_time_min": 8,
+  "hero_intro": "J'aimerais que vous n'attendiez plus une odeur de plastique brûlé pour vous demander si vos prises électriques sont fiables. Dans une maison ancienne comme dans un logement récemment rénové, certaines prises passent sous le radar pendant des années sans jamais être vérifiées, alors qu'un simple coup d'œil permet déjà de repérer les signes les plus révélateurs d'une installation vieillissante ou mal réalisée. Voici comment reconnaître une prise non conforme, ce que dit vraiment la norme NF C 15-100, et les réflexes à avoir avant de faire intervenir un électricien.",
+  "key_takeaways": [
+    "Une prise sans broche de terre dans une pièce construite ou rénovée après 1991 est presque toujours non conforme : la mise à la terre est obligatoire depuis cette date pour la quasi-totalité des circuits.",
+    "Une prise fissurée, jaunie, qui chauffe ou dont la fiche tient mal doit être considérée comme un risque, même si elle fonctionne encore normalement au quotidien.",
+    "La norme NF C 15-100 impose une distance minimale de 60 cm par rapport à un point d'eau (évier, douche, baignoire) et interdit certaines prises dans la salle de bains selon les zones.",
+    "Un logement mis en location doit disposer d'un diagnostic électrique valide si l'installation a plus de 15 ans : ce document liste précisément les anomalies à corriger.",
+    "Devant un doute sérieux (odeur, échauffement, disjonctions répétées), la seule réponse sûre est de couper le circuit au tableau électrique et de faire appel à un électricien qualifié, jamais de tenter une réparation soi-même sur une prise suspecte."
+  ],
+  "toc": [
+    "Ce que dit la norme NF C 15-100 sur les prises électriques",
+    "Le tableau des signes qui doivent vous alerter",
+    "Prise sans terre : le cas le plus fréquent dans l'ancien",
+    "Salle de bains et cuisine : des règles de distance strictes",
+    "Comment vérifier une prise en 5 étapes, sans prendre de risque",
+    "Que faire si vous êtes locataire et que les prises sont douteuses",
+    "Quand appeler un électricien sans attendre",
+    "Questions fréquentes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Ce que dit la norme NF C 15-100 sur les prises électriques",
+      "html": "<p>En France, les installations électriques des logements sont encadrées par la norme <strong>NF C 15-100</strong>, qui fixe des règles précises sur le nombre de prises par pièce, leur emplacement, leur mise à la terre et leur protection. Cette norme s'applique obligatoirement à toute construction neuve ou rénovation lourde, mais elle ne rend pas illégale une installation ancienne réalisée avant sa mise en vigueur — sauf si cette installation présente un danger avéré, auquel cas une mise en conformité peut être exigée, notamment lors d'une vente.</p><p>Concrètement, la norme impose entre autres : une prise de terre reliée à chaque circuit de prises de courant, un nombre minimal de prises par pièce (par exemple 5 dans un salon de moins de 28 m²), des dispositifs différentiels au tableau pour couper l'alimentation en cas de fuite de courant, et des distances de sécurité strictes autour des points d'eau. C'est l'ensemble de ces règles qui sert de référence pour juger si une prise est « aux normes » ou non.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Le tableau des signes qui doivent vous alerter",
+      "intro": "Un examen visuel suffit déjà à repérer la majorité des anomalies, sans avoir besoin d'ouvrir quoi que ce soit.",
+      "columns": ["Signe observé", "Ce qu'il indique", "Niveau de risque"],
+      "rows": [
+        ["Absence de broche de terre (2 trous seulement)", "Prise ancienne, non reliée à la terre", "Élevé si appareils métalliques branchés (four, lave-linge)"],
+        ["Prise fissurée, cassée ou jaunie", "Usure du plastique, parfois due à un échauffement passé", "Moyen à élevé selon l'ampleur"],
+        ["Fiche qui tient mal ou tombe seule", "Contacts internes usés ou desserrés", "Moyen : source de faux contacts et d'étincelles"],
+        ["Prise chaude au toucher ou odeur de plastique brûlé", "Surchauffe en cours, souvent liée à une surcharge", "Élevé : risque d'incendie à court terme"],
+        ["Disjoncteur qui saute régulièrement sur ce circuit", "Défaut d'isolement ou surcharge chronique", "Élevé : à faire diagnostiquer rapidement"],
+        ["Prise à moins de 60 cm d'un point d'eau (hors zones autorisées)", "Non-conformité à la norme NF C 15-100", "Élevé : risque d'électrisation en milieu humide"],
+        ["Câblage apparent, fils dénudés visibles", "Installation vétuste ou mal terminée", "Élevé : contact direct possible"]
+      ],
+      "note": "La présence d'un seul de ces signes suffit à justifier un contrôle par un professionnel, même si la prise semble fonctionner normalement au quotidien."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Prise sans terre : le cas le plus fréquent dans l'ancien",
+      "html": "<p>Dans les logements construits avant les années 1990, il n'est pas rare de trouver des prises à deux trous, sans broche de terre. Ce n'est pas automatiquement dangereux pour un petit appareil en plastique (lampe, chargeur), mais cela devient un vrai risque pour tout appareil à carcasse métallique — four, lave-linge, réfrigérateur, chauffe-eau — en cas de défaut d'isolement interne : sans terre, le courant de fuite n'a nulle part où s'évacuer et peut électriser la carcasse de l'appareil au moindre contact.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Salle de bains et cuisine : des règles de distance strictes",
+      "points": [
+        "La norme découpe la salle de bains en volumes (0, 1, 2 et hors volume) : aucune prise n'est autorisée dans les volumes 0 et 1, au plus près de la douche ou de la baignoire.",
+        "Dans le volume 2 (jusqu'à 60 cm au-delà de la baignoire ou de la cabine de douche), seules des prises spécifiques protégées par un différentiel très sensible (30 mA) sont tolérées.",
+        "Au-delà de ces volumes, les prises classiques redeviennent autorisées, à condition d'être elles aussi protégées par un différentiel 30 mA, obligatoire sur l'ensemble du circuit salle de bains.",
+        "Dans la cuisine, les prises situées au-dessus du plan de travail doivent rester à distance raisonnable de l'évier, pour limiter les projections d'eau lors de la vaisselle."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Comment vérifier une prise en 5 étapes, sans prendre de risque",
+      "intro": "Ces vérifications se font à l'œil et au toucher, appareil débranché, sans jamais démonter la prise vous-même si vous n'êtes pas qualifié.",
+      "steps": [
+        {
+          "title": "1. Observez la prise à froid",
+          "html": "<p>Recherchez fissures, décoloration jaune ou marron, trace de suie autour des trous. Une décoloration localisée est presque toujours le signe d'un échauffement déjà survenu.</p>"
+        },
+        {
+          "title": "2. Testez la tenue de la fiche",
+          "html": "<p>Branchez un appareil et observez si la fiche tient fermement. Une fiche qui bouge, qui chauffe après quelques minutes d'usage ou qui provoque un clignotement de la lumière est un signal de faux contact.</p>"
+        },
+        {
+          "title": "3. Vérifiez la présence de la terre",
+          "html": "<p>Une prise aux normes actuelles comporte trois éléments : deux trous pour la phase et le neutre, plus une ou deux broches métalliques latérales ou une broche centrale pour la terre. L'absence totale de cette broche signale une prise ancienne, non reliée à la terre.</p>"
+        },
+        {
+          "title": "4. Mesurez la distance par rapport à l'eau",
+          "html": "<p>Dans une salle de bains, vérifiez qu'aucune prise standard ne se trouve à moins de 60 cm d'un point d'eau. En cas de doute sur les volumes réglementaires, mieux vaut faire confirmer la conformité par un professionnel plutôt que d'estimer à l'œil.</p>"
+        },
+        {
+          "title": "5. Notez les disjonctions répétées",
+          "html": "<p>Si le disjoncteur associé à un circuit saute plusieurs fois par mois, notez la date et l'appareil branché à ce moment-là : ces informations aideront beaucoup l'électricien à localiser rapidement l'anomalie lors de son diagnostic.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Que faire si vous êtes locataire et que les prises sont douteuses",
+      "html": "<p>Le propriétaire est tenu de fournir un logement décent, ce qui inclut une installation électrique ne présentant pas de danger manifeste pour la sécurité des occupants. Si vous repérez une ou plusieurs prises dans l'état décrit plus haut, signalez-le par écrit (courrier ou mail avec accusé de réception) en décrivant précisément l'anomalie et, si possible, en joignant une photo. Cela déclenche une obligation de mise en conformité et constitue une preuve utile en cas de litige ultérieur.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Quand appeler un électricien sans attendre",
+      "html": "<p>Certains signes ne laissent pas de place à l'attente : odeur de plastique brûlé, prise visiblement noircie, étincelles au branchement ou disjoncteur qui saute à répétition imposent de couper immédiatement le circuit concerné au tableau électrique, puis de faire intervenir un électricien qualifié avant toute remise en service. Un diagnostic complet de l'installation, même hors obligation légale, reste un bon réflexe dans une <a href=\"/conseils/maison-a-renover-quels-sont-les-benefices\">maison ancienne à rénover</a>, où plusieurs anomalies électriques cohabitent souvent avec d'autres travaux à prévoir.</p><p>Une installation électrique non conforme a aussi des conséquences sur votre <a href=\"/conseils/pourquoi-est-il-essentiel-davoir-une-assurance-habitation\">assurance habitation</a> : en cas d'incendie d'origine électrique lié à une installation manifestement défectueuse et jamais entretenue, l'assureur peut réduire ou contester l'indemnisation. Faire réaliser les travaux de mise en conformité protège donc autant les personnes que la couverture assurantielle du logement.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "En chiffres",
+      "items": [
+        { "value": "60 cm", "label": "distance minimale entre une prise standard et un point d'eau" },
+        { "value": "30 mA", "label": "sensibilité du différentiel obligatoire en salle de bains" },
+        { "value": "15 ans", "label": "ancienneté à partir de laquelle un diagnostic électrique est obligatoire à la location ou à la vente" }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "Une prise qui chauffe n'attend pas qu'on ait le temps de s'en occuper : c'est le seul signal électrique qui justifie d'agir dans l'heure, pas dans la semaine.",
+      "author": "Recommandation courante des électriciens agréés"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Une prise sans terre est-elle automatiquement interdite ?",
+      "a_html": "<p>Non, elle n'est pas interdite dans l'absolu pour une installation ancienne existante, mais elle est fortement déconseillée pour tout appareil à carcasse métallique et devra être mise aux normes lors de travaux de rénovation touchant ce circuit.</p>"
+    },
+    {
+      "q": "Comment savoir si mon logement a plus de 15 ans d'installation électrique ?",
+      "a_html": "<p>La date de référence est celle de la dernière installation ou rénovation électrique complète, pas la date de construction du bâtiment. En cas de doute, le diagnostic électrique obligatoire à la vente ou à la location tranchera la question et listera les points de non-conformité.</p>"
+    },
+    {
+      "q": "Peut-on remplacer soi-même une prise défectueuse ?",
+      "a_html": "<p>Le remplacement d'une prise simple, circuit coupé au disjoncteur, reste à la portée d'un bricoleur prudent. En revanche, dès qu'il s'agit de créer une nouvelle ligne, de toucher au tableau électrique ou de traiter une prise proche d'un point d'eau, l'intervention d'un électricien qualifié est fortement recommandée, voire obligatoire selon les cas.</p>"
+    },
+    {
+      "q": "Une multiprise peut-elle compenser une prise non conforme ?",
+      "a_html": "<p>Non : une multiprise ne corrige ni l'absence de terre ni un défaut d'isolement de la prise murale à laquelle elle est branchée. Elle peut même aggraver une surchauffe existante si plusieurs appareils gourmands en électricité y sont branchés simultanément.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Repérer une prise non conforme demande surtout de l'attention : absence de terre, fissures, échauffement, proximité d'un point d'eau ou disjonctions répétées sont autant de signaux à ne jamais ignorer, même quand la prise « fonctionne encore ». Un contrôle visuel régulier permet d'anticiper le problème, et le moindre doute sérieux — odeur, chaleur, étincelle — justifie de couper le circuit et de faire appel à un électricien avant de le rebrancher.</p>"
+}
