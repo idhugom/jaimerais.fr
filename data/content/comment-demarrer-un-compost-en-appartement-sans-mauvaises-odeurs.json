@@ -1,0 +1,145 @@
+{
+  "title": "Comment démarrer un compost en appartement sans mauvaises odeurs",
+  "meta_description": "Lombricomposteur, bokashi ou compost électrique : la méthode complète pour composter en appartement sans odeur ni mouches, avec le bon équilibre à respecter dès le premier jour.",
+  "reading_time_min": 9,
+  "hero_intro": "J'aimerais que chaque épluchure de légume finisse en terreau plutôt qu'à la poubelle, même sans jardin ni balcon. C'est exactement ce que permet le compostage en appartement, à condition de choisir la bonne méthode et de respecter quelques équilibres simples dès le départ. Contrairement à une idée reçue tenace, un compost bien géré ne sent pas mauvais : l'odeur de pourriture n'apparaît que lorsque l'équilibre entre matières humides et matières sèches est rompu, et se corrige en général en moins de 48 heures.",
+  "key_takeaways": [
+    "Trois méthodes existent pour composter en appartement : le lombricompostage (avec des vers), le bokashi (fermentation), et le compost électrique (déshydratation).",
+    "Une mauvaise odeur signale presque toujours un excès de matières humides (épluchures) par rapport aux matières sèches (carton, papier) : le ratio idéal tourne autour de 2 volumes de « brun » pour 1 volume de « vert ».",
+    "Un lombricomposteur bien équilibré ne sent quasiment rien, même installé sous l'évier ou dans un cellier fermé.",
+    "Les agrumes, l'ail, l'oignon, la viande, le poisson et les produits laitiers sont à éviter ou à limiter fortement dans un lombricomposteur classique.",
+    "Le compost obtenu (ou le lombrithé, son jus liquide) peut nourrir les plantes d'intérieur et un potager de balcon dès les premières semaines."
+  ],
+  "toc": [
+    "Pourquoi le compost d'appartement n'a pas à sentir mauvais",
+    "Les 3 méthodes possibles en appartement",
+    "Comment démarrer un lombricompost étape par étape",
+    "Le bon équilibre : matières vertes et matières brunes",
+    "Que mettre et ne pas mettre dans son compost",
+    "Éviter les mouches et les odeurs : les réflexes qui font la différence",
+    "Balcon, cellier ou sous l'évier : où installer son compost ?",
+    "En chiffres",
+    "Questions fréquentes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi le compost d'appartement n'a pas à sentir mauvais",
+      "html": "<p>L'odeur qui dissuade beaucoup de foyers de se lancer n'est pas une fatalité du compostage : c'est le symptôme d'un déséquilibre précis, presque toujours le même. Quand les matières humides et riches en azote (épluchures, marc de café, restes de fruits) s'accumulent sans assez de matières sèches et riches en carbone (carton, papier, feuilles mortes) pour les absorber, le mélange devient anaérobie : il pourrit au lieu de se décomposer, et c'est cette pourriture, pas le compostage en lui-même, qui dégage une odeur désagréable.</p><p>Un lombricomposteur ou un bac de compostage correctement géré, aéré et équilibré sent la terre de forêt humide, tout au plus, même installé dans une cuisine fermée. C'est précisément ce qui permet de le placer sous un évier ou dans un cellier sans aucune gêne au quotidien.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les 3 méthodes possibles en appartement",
+      "intro": "Chaque méthode a ses contraintes, son coût de démarrage et son résultat final. Le choix dépend surtout de l'espace disponible et de l'envie de s'occuper (ou non) de vers de compost.",
+      "columns": ["Méthode", "Principe", "Espace requis", "Résultat obtenu"],
+      "rows": [
+        ["Lombricompostage", "Des vers décomposent les déchets organiques", "Un bac de 40x30 cm environ, empilable", "Compost riche + lombrithé liquide, en 3 à 6 mois"],
+        ["Bokashi", "Fermentation anaérobie avec un son fermenté (EM)", "Un seau hermétique de 15 à 20 L", "Pré-compost fermenté, à enterrer ou finir en compost classique"],
+        ["Compost électrique", "Déshydratation et broyage automatisés", "Un appareil de la taille d'une petite poubelle", "Matière sèche réduite, en quelques heures, à finir de composter"]
+      ],
+      "note": "Le lombricompostage est la méthode la plus économique et la plus utilisée en appartement ; le bokashi accepte davantage de types de déchets (dont la viande et le poisson en petite quantité) ; le compost électrique est le plus rapide mais aussi le plus coûteux à l'achat."
+    },
+    {
+      "type": "steps",
+      "heading": "Comment démarrer un lombricompost étape par étape",
+      "intro": "La méthode la plus accessible pour se lancer, sans investissement lourd ni compétence particulière.",
+      "steps": [
+        {
+          "title": "1. Choisissez un bac à étages ou fabriquez le vôtre",
+          "html": "<p>Un lombricomposteur du commerce à plusieurs étages permet de récolter le compost mûr sans déranger les vers en train de travailler dans les bacs du dessus. Il est aussi possible d'en fabriquer un avec deux ou trois bacs plastiques opaques percés de trous d'aération.</p>"
+        },
+        {
+          "title": "2. Installez un lit de départ",
+          "html": "<p>Déposez une couche de 5 à 10 cm de carton non imprimé déchiqueté, légèrement humidifié, au fond du premier bac. Ce lit sert de refuge et de première nourriture aux vers.</p>"
+        },
+        {
+          "title": "3. Introduisez les vers de compost (Eisenia fetida)",
+          "html": "<p>Ce ne sont pas des vers de terre de jardin, mais une espèce spécifique de vers rouges, à commander auprès d'un fournisseur spécialisé ou à récupérer chez un lombricomposteur déjà installé. Comptez environ 250 g à 500 g de vers pour démarrer un foyer de 2 à 4 personnes.</p>"
+        },
+        {
+          "title": "4. Nourrissez progressivement, en petites quantités",
+          "html": "<p>La première semaine, apportez peu de déchets (quelques épluchures coupées en petits morceaux) pour laisser les vers s'installer. Augmentez ensuite progressivement au rythme de leur consommation, sans jamais accumuler plus qu'ils ne peuvent traiter en quelques jours.</p>"
+        },
+        {
+          "title": "5. Récoltez le lombrithé et le compost mûr",
+          "html": "<p>Le liquide qui s'écoule au fond (le lombrithé) se récolte via un robinet et se dilue à 10 % pour arroser les plantes. Le compost solide, plus foncé et sans odeur, se récolte en général après 3 à 6 mois, une fois les vers montés dans le bac supérieur suivre la nourriture fraîche.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon équilibre : matières vertes et matières brunes",
+      "html": "<p>Pour chaque volume de déchets humides (« vert » : épluchures, marc de café, restes de fruits et légumes), ajoutez environ deux volumes de matières sèches (« brun » : carton ondulé déchiqueté, papier non glacé, essuie-tout, feuilles mortes sèches). Ce ratio absorbe l'excès d'humidité, maintient l'aération du mélange et empêche à lui seul la grande majorité des odeurs. En cas de doute, mieux vaut ajouter trop de « brun » que pas assez : un compost trop sec se corrige facilement avec un peu d'eau, un compost trop humide et malodorant est plus difficile à rattraper.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Que mettre et ne pas mettre dans son compost",
+      "intro": "La liste change légèrement selon la méthode (le bokashi tolère plus de choses), mais ces règles couvrent le lombricompostage classique, le plus répandu en appartement.",
+      "left": {
+        "title": "À composter sans problème",
+        "points": [
+          "Épluchures de fruits et légumes, coupées en petits morceaux",
+          "Marc de café et filtres en papier, sachets de thé sans agrafe plastique",
+          "Coquilles d'œuf écrasées (apportent du calcium)",
+          "Carton non imprimé, papier essuie-tout, mouchoirs en papier non traités",
+          "Feuilles mortes sèches et petits résidus de plantes d'intérieur"
+        ]
+      },
+      "right": {
+        "title": "À éviter ou à limiter fortement",
+        "points": [
+          "Agrumes, ail et oignon en grande quantité (acidité, odeur forte, vers qui les fuient)",
+          "Viande, poisson, produits laitiers (odeurs fortes, risque de nuisibles)",
+          "Matières grasses et sauces (bloquent l'aération du mélange)",
+          "Plantes traitées chimiquement ou malades",
+          "Litière d'animaux domestiques et couches"
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Éviter les mouches et les odeurs : les réflexes qui font la différence",
+      "html": "<p>Les mouches à fruits (drosophiles) et les mauvaises odeurs partagent la même cause première : des déchets frais laissés en surface. Recouvrez systématiquement chaque apport d'une fine couche de matière sèche (carton, terreau ou compost déjà mûr), fermez correctement le couvercle entre deux ajouts, et évitez de composter des fruits déjà très mûrs ou commençant à fermenter, qui attirent les drosophiles avant même d'arriver dans le bac. Si des mouches apparaissent malgré tout, un excès d'humidité ou de matières vertes en est presque toujours la cause : ajoutez immédiatement du carton sec et mélangez.</p>"
+    },
+    {
+      "type": "prose",
+      "heading": "Balcon, cellier ou sous l'évier : où installer son compost ?",
+      "html": "<p>Un lombricomposteur bien équilibré peut rester en intérieur toute l'année, y compris sous un évier de cuisine, à condition de maintenir une température comprise entre 15 et 25 °C : en dessous de 10 °C, l'activité des vers ralentit fortement ; au-delà de 30 °C, ils peuvent souffrir. Un balcon offre plus d'espace et évite toute question d'odeur en intérieur, mais expose davantage aux variations de température : en hiver, un emplacement protégé du gel reste nécessaire, sous peine de perdre la population de vers.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "En chiffres",
+      "items": [
+        { "value": "30 %", "label": "part des déchets ménagers qui pourraient être compostés" },
+        { "value": "2 pour 1", "label": "ratio idéal de matière brune pour une part de matière verte" },
+        { "value": "3-6 mois", "label": "délai moyen pour obtenir un compost mûr en lombricompostage" }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Que faire du compost obtenu ?",
+      "html": "<p>Le compost mûr et le lombrithé dilué constituent un engrais naturel particulièrement efficace pour les plantes d'intérieur et les jardinières de balcon. C'est aussi le moment idéal pour vérifier <a href=\"/conseils/comment-savoir-si-une-plante-dinterieur-a-besoin-detre-rempotee-6-signes\">si une plante d'intérieur a besoin d'être rempotée</a>, puisqu'un rempotage se prête bien à l'incorporation de compost frais dans le nouveau terreau. Pour aller plus loin et cultiver ses propres légumes avec ce compost, <a href=\"/conseils/comment-realiser-un-potager-dinterieur-productif\">réaliser un potager d'intérieur productif</a> ou <a href=\"/conseils/comment-creer-un-potager-vertical-chez-soi-astuces-et-conseils-pratiques\">créer un potager vertical chez soi</a> permettent de boucler la boucle, des épluchures jusqu'à l'assiette.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Faut-il s'occuper du lombricomposteur pendant les vacances ?",
+      "a_html": "<p>Non, les vers peuvent rester sans nourriture fraîche pendant deux à trois semaines sans problème : ils se contentent alors du carton et des résidus déjà présents dans le bac. Pour une absence plus longue, demander à un proche de déposer un peu de nourriture toutes les deux semaines suffit largement.</p>"
+    },
+    {
+      "q": "Le compostage en appartement attire-t-il des cafards ou d'autres nuisibles ?",
+      "a_html": "<p>Un bac correctement fermé, équilibré et sans matières grasses ou animales n'attire normalement aucun nuisible. Le risque augmente surtout en cas d'excès de déchets frais laissés en surface sans être recouverts, ou de composteur mal fermé.</p>"
+    },
+    {
+      "q": "Que faire si les vers essaient de sortir du bac ?",
+      "a_html": "<p>C'est souvent le signe d'un déséquilibre : milieu trop humide, trop acide (excès d'agrumes) ou température inadaptée. Vérifiez l'aération, ajoutez du carton sec et retirez temporairement les apports les plus acides le temps que l'équilibre se rétablisse.</p>"
+    },
+    {
+      "q": "Peut-on composter sans vers, uniquement avec la méthode bokashi ?",
+      "a_html": "<p>Oui, le bokashi fonctionne par fermentation grâce à un son enrichi en micro-organismes, sans aucun ver. Il accepte davantage de déchets (viande, poisson, agrumes en petite quantité) mais le résultat, très acide, doit ensuite être enterré ou mélangé à un compost classique avant d'être utilisé directement sur les plantes.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Composter en appartement sans odeur n'a rien d'un défi technique : cela tient presque entièrement au bon équilibre entre matières humides et matières sèches, et au réflexe simple de toujours recouvrir les apports frais. Que ce soit avec un lombricomposteur, un bokashi ou un compost électrique, quelques semaines suffisent pour prendre le pli et transformer des épluchures en ressource utile pour les plantes, sans jamais avoir à ouvrir une fenêtre par précaution.</p>"
+}
