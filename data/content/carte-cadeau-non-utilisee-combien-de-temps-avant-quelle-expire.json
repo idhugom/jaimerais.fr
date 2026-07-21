@@ -1,0 +1,152 @@
+{
+  "title": "Carte cadeau non utilisée : combien de temps avant qu'elle expire et comment récupérer son argent",
+  "meta_description": "Carte cadeau oubliée dans un tiroir ? Voici les durées de validité réelles selon le type de carte, ce que dit la loi et les démarches pour ne pas perdre son argent avant expiration.",
+  "reading_time_min": 8,
+  "hero_intro": "J'aimerais que vous retrouviez cette carte cadeau reçue à Noël avant qu'elle ne devienne un bout de plastique sans valeur au fond d'un tiroir. Chaque année, des millions d'euros de cartes cadeaux ne sont jamais dépensés en France, souvent simplement parce que leur date d'expiration est passée inaperçue. Voici combien de temps vous avez réellement devant vous selon le type de carte, ce que la loi impose aux enseignes, et les démarches concrètes si la vôtre est sur le point d'expirer ou vient tout juste de le faire.",
+  "key_takeaways": [
+    "Les cartes cadeaux multi-enseignes (type Kadeos, Cadhoc, remises par un employeur ou un comité d'entreprise) doivent légalement rester valables au moins 1 an à compter de leur date d'émission, prolongations comprises.",
+    "Les cartes cadeaux mono-enseigne (Fnac, Decathlon, Sephora, etc.) ne sont pas soumises à cette durée légale précise, mais la plupart des enseignes appliquent une validité comprise entre 1 et 3 ans, indiquée sur la carte ou le ticket.",
+    "Une carte cadeau achetée reste, sur le plan juridique, une créance : même après expiration, vous pouvez tenter une demande amiable auprès de l'enseigne, qui accède parfois par geste commercial.",
+    "Le point de départ du délai est presque toujours la date d'émission ou de rechargement de la carte, pas la date à laquelle vous l'avez reçue en cadeau — d'où l'intérêt de vérifier le ticket ou l'e-mail de confirmation.",
+    "Pour ne plus perdre une carte, notez sa date d'expiration dans votre téléphone dès réception et utilisez-la partiellement si besoin : la plupart des enseignes acceptent un solde restant sur une nouvelle carte."
+  ],
+  "toc": [
+    "Ce que dit vraiment la loi sur la durée de validité",
+    "Tableau comparatif : durée de validité selon le type de carte",
+    "Cartes cadeaux multi-enseignes : la règle de l'an minimum",
+    "Cartes cadeaux mono-enseigne : chaque magasin fixe sa règle",
+    "Comment vérifier la date d'expiration de votre carte",
+    "Que faire si la carte est expirée depuis peu",
+    "5 réflexes pour ne plus jamais perdre une carte cadeau",
+    "Questions fréquentes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Ce que dit vraiment la loi sur la durée de validité",
+      "html": "<p>En France, il n'existe pas une loi unique fixant la même durée de validité pour toutes les cartes cadeaux. Le texte de référence est le <strong>décret n° 2014-1109 du 30 septembre 2014</strong>, pris en application de la loi Hamon, qui encadre spécifiquement les <strong>cartes et coffrets cadeaux multi-enseignes</strong> — celles utilisables dans plusieurs magasins ou réseaux différents, souvent distribuées par un employeur, un comité social et économique, ou achetées sur des plateformes comme Kadeos ou Cadhoc. Ce décret impose une validité minimale d'un an à compter de la date d'émission, et prévoit qu'en cas de rechargement partiel, chaque montant ajouté bénéficie lui aussi d'un an de validité.</p><p>Pour les <strong>cartes cadeaux mono-enseigne</strong> — celle offerte par un magasin en particulier, achetée directement en caisse ou en ligne — aucune durée légale précise n'est fixée par ce décret. Les enseignes restent donc libres de définir leur propre politique, avec une seule limite : la <strong>Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)</strong> considère qu'une durée de validité anormalement courte peut constituer une clause abusive au sens du droit de la consommation, notamment si elle n'est pas clairement annoncée au moment de l'achat.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Tableau comparatif : durée de validité selon le type de carte",
+      "intro": "Les durées réelles varient sensiblement d'une enseigne à l'autre : voici les ordres de grandeur les plus courants observés en France.",
+      "columns": ["Type de carte", "Durée de validité habituelle", "Point de départ du délai"],
+      "rows": [
+        ["Carte cadeau multi-enseignes (Kadeos, Cadhoc, CE)", "1 an minimum (souvent 1 an exactement)", "Date d'émission ou de dernier rechargement"],
+        ["Carte cadeau d'un grand magasin ou d'une enseigne de mode", "1 à 2 ans en général", "Date d'achat de la carte"],
+        ["Carte cadeau culturelle (livres, jeux vidéo, high-tech)", "1 à 3 ans selon l'enseigne", "Date d'achat de la carte"],
+        ["Bon d'achat suite à un retour ou un avoir", "6 mois à 2 ans, très variable", "Date d'émission de l'avoir"],
+        ["Carte cadeau numérique (code envoyé par e-mail)", "1 à 3 ans, parfois sans expiration affichée", "Date d'envoi du code"]
+      ],
+      "note": "Ces durées sont indicatives : seule la mention figurant sur la carte, le ticket de caisse ou les conditions générales de vente de l'enseigne fait foi pour votre cas précis."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Cartes cadeaux multi-enseignes : la règle de l'an minimum",
+      "html": "<p>Si vous avez reçu une carte cadeau multi-enseignes de la part de votre employeur ou d'un comité social et économique, sachez que la loi vous protège explicitement : sa durée de validité ne peut pas être inférieure à un an à partir de la date d'émission, même si l'enseigne ne l'indique pas clairement. Si vous constatez une durée plus courte affichée sur votre carte, il s'agit très probablement d'une clause non conforme que vous pouvez contester directement auprès de l'émetteur.</p>"
+    },
+    {
+      "type": "key_points",
+      "heading": "Cartes cadeaux mono-enseigne : chaque magasin fixe sa règle",
+      "points": [
+        "Beaucoup d'enseignes ont volontairement aligné leur politique sur 1 à 2 ans pour rester en phase avec les attentes de la DGCCRF, même sans obligation légale directe.",
+        "Certaines enseignes culturelles ou high-tech proposent des cartes valables 3 ans, un argument commercial mis en avant pour rassurer l'acheteur.",
+        "La durée doit obligatoirement être mentionnée de façon lisible sur la carte elle-même ou sur le support d'achat (ticket, e-mail, CGV) : son absence peut, là aussi, être contestée comme un défaut d'information du consommateur.",
+        "En cas de carte perdue et jamais utilisée avant expiration, l'argent n'est pas remboursé automatiquement : c'est à vous de faire la démarche auprès du service client."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "Comment vérifier la date d'expiration de votre carte",
+      "intro": "Trois minutes suffisent en général pour retrouver l'information, même si la carte semble ne rien indiquer clairement.",
+      "steps": [
+        {
+          "title": "1. Regardez le recto et le verso de la carte physique",
+          "html": "<p>La date d'expiration figure souvent en petits caractères au dos, parfois sous la forme d'un code (MM/AA) proche de celui d'une carte bancaire, parfois écrite en toutes lettres.</p>"
+        },
+        {
+          "title": "2. Retrouvez le ticket de caisse ou l'e-mail de confirmation d'achat",
+          "html": "<p>Ces documents mentionnent généralement la date d'achat et, souvent, la durée de validité applicable — utile si l'information a disparu de la carte elle-même avec le temps.</p>"
+        },
+        {
+          "title": "3. Consultez votre solde en ligne si l'enseigne le permet",
+          "html": "<p>De nombreuses enseignes proposent un espace en ligne ou une page dédiée où entrer le numéro de la carte pour afficher le solde restant et, souvent, la date limite d'utilisation.</p>"
+        },
+        {
+          "title": "4. Contactez le service client avec le numéro de carte",
+          "html": "<p>Si aucune date n'apparaît nulle part, le service client peut retrouver l'information à partir du numéro de série ou du numéro de transaction d'achat.</p>"
+        },
+        {
+          "title": "5. Notez la date dans votre téléphone dès que vous l'avez trouvée",
+          "html": "<p>Un simple rappel calendrier un mois avant l'échéance évite de découvrir la mauvaise surprise le jour où vous voulez enfin utiliser la carte.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Que faire si la carte est expirée depuis peu",
+      "html": "<p>Une carte expirée n'est pas nécessairement une carte perdue. Sur le plan légal, le montant chargé sur une carte cadeau reste une créance que vous détenez envers l'enseigne : rien ne vous empêche de contacter le service client pour demander, à titre commercial, une prolongation ou un remboursement, en particulier si l'expiration date de quelques semaines seulement. De nombreuses enseignes acceptent ce type de geste, surtout si vous pouvez présenter la carte, le ticket d'achat ou l'e-mail de confirmation.</p><p>Si l'enseigne refuse et que vous estimez la durée de validité initiale trop courte ou mal annoncée, vous pouvez saisir un <strong>médiateur de la consommation</strong> (souvent gratuit et obligatoire pour les entreprises depuis la loi Hamon) avant d'envisager toute autre démarche. Pour toutes ces situations, garder une trace écrite — mail, capture d'écran, ticket — facilite grandement l'échange, un principe qui vaut aussi pour bien organiser son budget au quotidien : <a href=\"/conseils/comment-mieux-gerer-son-budget\">structurer le suivi de ses dépenses et de ses avoirs</a> évite ce genre d'oubli sur la durée.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Carte cadeau papier vs carte cadeau numérique : laquelle expire le plus vite ?",
+      "intro": "Le format de la carte influence directement le risque d'oubli, même quand la durée légale ou contractuelle est identique.",
+      "left": {
+        "title": "Carte cadeau physique",
+        "points": [
+          "Facilement égarée dans un tiroir, un sac ou un portefeuille",
+          "Date d'expiration parfois illisible avec le temps (encre effacée)",
+          "Peut être perdue définitivement sans numéro de série noté ailleurs"
+        ]
+      },
+      "right": {
+        "title": "Carte cadeau numérique (code par e-mail)",
+        "points": [
+          "Reste archivée dans la boîte mail, donc plus facile à retrouver",
+          "Date de validité généralement rappelée dans l'e-mail d'origine",
+          "Risque principal : e-mail supprimé par erreur ou classé en spam"
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "5 réflexes pour ne plus jamais perdre une carte cadeau",
+      "html": "<p>Notez systématiquement la date d'expiration dans votre calendrier dès réception ; rangez toutes vos cartes cadeaux au même endroit (portefeuille ou pochette dédiée) ; utilisez la carte même partiellement si vous approchez de l'échéance et que rien ne vous tente encore en totalité, la plupart des enseignes reportent le solde sur une nouvelle carte ; privilégiez, quand le choix existe, le format numérique plus difficile à égarer ; et vérifiez le solde en ligne une à deux fois par an si vous accumulez plusieurs cartes reçues à différentes occasions.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "En chiffres",
+      "items": [
+        { "value": "1 an", "label": "durée minimale légale pour une carte cadeau multi-enseignes" },
+        { "value": "1 à 3 ans", "label": "durée habituelle pour une carte cadeau mono-enseigne" },
+        { "value": "0 €", "label": "remboursement automatique une fois la carte expirée, sans démarche de votre part" }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "Une carte cadeau n'est pas un cadeau perdu d'avance : c'est une créance que vous détenez, avec une date limite à surveiller comme n'importe quelle échéance de paiement.",
+      "author": "Principe rappelé par les associations de défense des consommateurs"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Une carte cadeau reçue d'un comité d'entreprise a-t-elle une durée de validité différente ?",
+      "a_html": "<p>Non : ces cartes entrent dans la catégorie des cartes cadeaux multi-enseignes et bénéficient donc de la même durée minimale légale d'un an à compter de leur date d'émission, quelle que soit l'occasion (Noël, mariage, ancienneté).</p>"
+    },
+    {
+      "q": "Peut-on demander un remboursement en espèces d'une carte cadeau non utilisée ?",
+      "a_html": "<p>En principe non, sauf mention contraire dans les conditions générales de l'enseigne : une carte cadeau est prévue pour être échangée contre des produits ou services, pas convertie en argent liquide. Quand un remboursement est accordé à titre commercial, il se fait généralement <a href=\"/conseils/comment-payer-par-virement-bancaire\">par virement bancaire</a> plutôt qu'en espèces. Certaines enseignes font toutefois une exception en cas de fermeture définitive d'un magasin ou de liquidation judiciaire.</p>"
+    },
+    {
+      "q": "Que se passe-t-il si l'enseigne qui a émis la carte cadeau ferme ou fait faillite ?",
+      "a_html": "<p>La carte devient en pratique inutilisable si aucun repreneur ne poursuit l'activité. Vous pouvez théoriquement déclarer votre créance auprès du mandataire judiciaire en cas de procédure collective, mais les chances de récupération restent faibles et la démarche est rarement rentable pour de petits montants.</p>"
+    },
+    {
+      "q": "La date de validité peut-elle être prolongée par l'enseigne elle-même ?",
+      "a_html": "<p>Oui, certaines enseignes prolongent temporairement la validité de leurs cartes cadeaux lors d'opérations commerciales ou face à des circonstances exceptionnelles. Ce n'est toutefois jamais automatique : il faut se renseigner directement auprès du service client concerné avant la date d'expiration initiale.</p>"
+    }
+  ],
+  "conclusion_html": "<p>La durée de validité d'une carte cadeau dépend avant tout de son type : au moins un an pour les cartes multi-enseignes protégées par la loi, souvent un à trois ans pour les cartes propres à un seul magasin. Le bon réflexe reste le même dans tous les cas : vérifier la date dès réception, la noter quelque part, et ne pas hésiter à contacter le service client si l'échéance approche ou vient de passer. Un geste commercial est souvent possible, mais il ne viendra jamais spontanément — c'est à vous de faire la démarche avant que la carte ne finisse, pour de bon, au fond d'un tiroir.</p>"
+}

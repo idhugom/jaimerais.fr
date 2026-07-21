@@ -1,0 +1,152 @@
+{
+  "title": "À partir de quelle vitesse de vent faut-il fermer son parasol pour éviter qu'il ne s'envole",
+  "meta_description": "Vent qui forcit sur la terrasse : à partir de combien de km/h un parasol devient-il dangereux, quel poids de base choisir, et les bons réflexes pour éviter qu'il ne s'envole ou se casse.",
+  "reading_time_min": 7,
+  "hero_intro": "J'aimerais que votre parasol reste un allié pour les après-midis ensoleillés, pas un projectile un jour de coup de vent. Chaque été, des parasols mal lestés se retournent, s'envolent ou cassent leur mât dès que le vent forcit un peu, parfois pour blesser quelqu'un ou abîmer le mobilier de jardin. Voici, avec des repères précis en km/h et en échelle de Beaufort, à partir de quand fermer son parasol, quel poids de base prévoir selon sa taille, et les gestes simples qui évitent le pire.",
+  "key_takeaways": [
+    "Un parasol droit classique devient instable dès 40 à 50 km/h de vent soutenu (force 5-6 sur l'échelle de Beaufort) : c'est le seuil à partir duquel il faut le fermer, même lesté.",
+    "Un parasol déporté (excentré) est plus vulnérable qu'un parasol droit à vent égal, à cause du bras porteur qui démultiplie l'effet de levier sur la base.",
+    "Une base de 25 à 40 kg suffit par vent léger pour un parasol droit de 3 mètres, mais il faut souvent 50 à 80 kg pour un parasol déporté de même taille, voire plus en cas de rafales.",
+    "Un parasol ouvert et non surveillé est le scénario le plus risqué : mieux vaut toujours le fermer en cas d'absence, même pour quelques minutes, dès que le vent est annoncé.",
+    "Les toiles avec évents ou volets d'aération réduisent la prise au vent en laissant l'air s'échapper, un critère à privilégier dès l'achat si votre terrasse est exposée."
+  ],
+  "toc": [
+    "Pourquoi un parasol devient dangereux avec le vent",
+    "Tableau : vitesse de vent, échelle de Beaufort et action à prendre",
+    "Parasol droit ou parasol déporté : qui résiste le mieux ?",
+    "Quel poids de base choisir selon la taille du parasol",
+    "5 étapes pour sécuriser son parasol avant un coup de vent",
+    "Que faire si le vent se lève pendant que vous êtes absent",
+    "Questions fréquentes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi un parasol devient dangereux avec le vent",
+      "html": "<p>Un parasol fonctionne comme une voile : sa toile tendue offre une large surface de prise au vent, tandis que sa base au sol constitue le seul point d'ancrage retenant l'ensemble. Dès que la force du vent dépasse la résistance combinée du poids de la base et de la structure, le parasol commence à basculer, puis peut se retourner brutalement ou carrément décoller si une rafale s'engouffre sous la toile. Le mât, souvent en aluminium fin, plie ou casse net dans ce genre de situation, et les baleines métalliques de la toile peuvent se tordre définitivement.</p><p>Le danger ne vient pas seulement du vent moyen annoncé par la météo, mais surtout des <strong>rafales</strong>, ponctuelles et souvent 30 à 50 % plus fortes que le vent soutenu. C'est pourquoi un parasol peut sembler stable pendant plusieurs minutes puis s'envoler d'un coup, au moment précis d'une rafale isolée.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Tableau : vitesse de vent, échelle de Beaufort et action à prendre",
+      "intro": "Ces repères concernent un parasol de jardin ou de terrasse standard, correctement lesté selon les recommandations du fabricant.",
+      "columns": ["Vitesse du vent", "Échelle de Beaufort", "Effet sur un parasol", "Action recommandée"],
+      "rows": [
+        ["Jusqu'à 20 km/h", "Force 1 à 3 (légère à petite brise)", "La toile frémit légèrement, aucun risque notable", "Peut rester ouvert normalement"],
+        ["20 à 30 km/h", "Force 4 (jolie brise)", "La toile se tend et le mât peut osciller un peu", "Vérifier le lestage, rester attentif"],
+        ["30 à 40 km/h", "Force 5 (bonne brise)", "Début d'instabilité, surtout sur parasol déporté", "Envisager de fermer, surveiller en continu"],
+        ["40 à 50 km/h", "Force 6 (vent frais)", "Risque réel de basculement ou de retournement", "Fermer le parasol sans attendre"],
+        ["Plus de 50 km/h", "Force 7 et plus (grand frais et au-delà)", "Risque de casse du mât ou d'envol complet", "Fermer et coucher le parasol, voire le rentrer"]
+      ],
+      "note": "Ces seuils baissent encore si la base est trop légère, si le sol est en pente, ou si le parasol est un modèle déporté avec un grand bras de levier."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le piège des rafales isolées",
+      "html": "<p>Un bulletin météo annonçant un « vent modéré de 25 km/h » peut tout à fait comporter des rafales à 45 ou 50 km/h sans que cela soit mis en avant. Fiez-vous toujours à la mention « rafales » du bulletin, pas seulement au vent moyen, pour décider si votre parasol doit rester ouvert. Une <a href=\"/conseils/station-meteo-sans-fil-comment-configurer-la-station-meteo\">station météo installée sur votre terrasse</a> permet de suivre en temps réel la vitesse du vent réellement mesurée chez vous, souvent plus fiable que les prévisions générales pour votre secteur précis.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Parasol droit ou parasol déporté : qui résiste le mieux ?",
+      "intro": "Le type de parasol change fortement le seuil de vent à partir duquel il devient risqué de le laisser ouvert.",
+      "left": {
+        "title": "Parasol droit (mât central)",
+        "points": [
+          "Poids réparti directement au-dessus de la base, donc effet de levier limité",
+          "Généralement plus stable à vent égal qu'un modèle déporté",
+          "Reste vulnérable dès 40-50 km/h malgré tout, surtout sur les grands diamètres"
+        ]
+      },
+      "right": {
+        "title": "Parasol déporté (excentré)",
+        "points": [
+          "Le bras porteur crée un effet de levier important sur la base",
+          "Bascule plus facilement à vent égal, dès 30-40 km/h selon la taille",
+          "Nécessite une base nettement plus lourde ou un système de fixation au sol"
+        ]
+      }
+    },
+    {
+      "type": "key_points",
+      "heading": "Quel poids de base choisir selon la taille du parasol",
+      "points": [
+        "Parasol droit jusqu'à 2,5 m de diamètre : une base de 20 à 25 kg suffit par temps calme à modéré.",
+        "Parasol droit de 3 m : prévoir 30 à 40 kg, davantage si la terrasse est régulièrement exposée au vent.",
+        "Parasol déporté de 3 m : comptez 50 à 80 kg, réparti idéalement sur une base carrée plutôt qu'une base ronde plus étroite.",
+        "Grand parasol déporté (3,5 m et plus) ou parasol double tête : certains fabricants recommandent jusqu'à 100 kg, ou un ancrage fixe scellé dans le sol pour les terrasses très ventées.",
+        "Une base à remplir d'eau ou de sable reste plus légère à déplacer, mais un socle en béton ou en granit offre une stabilité supérieure pour un usage permanent."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "5 étapes pour sécuriser son parasol avant un coup de vent",
+      "intro": "Ces gestes prennent quelques minutes et évitent la grande majorité des incidents constatés sur les terrasses et jardins.",
+      "steps": [
+        {
+          "title": "1. Vérifiez le poids réel de votre base",
+          "html": "<p>Comparez le poids indiqué par le fabricant de votre parasol à celui de votre base actuelle : beaucoup de bases vendues en pack sont sous-dimensionnées pour un usage réellement exposé au vent.</p>"
+        },
+        {
+          "title": "2. Fermez le parasol dès 40 km/h annoncés ou en cas de rafales",
+          "html": "<p>Ne pariez pas sur la solidité apparente du modèle : au-delà de ce seuil, la probabilité de basculement augmente fortement, y compris pour un parasol correctement lesté.</p>"
+        },
+        {
+          "title": "3. Ne laissez jamais un parasol ouvert sans surveillance",
+          "html": "<p>Le vent peut se lever en quelques minutes pendant une absence. Un parasol fermé au sol, même par vent fort, présente un risque bien moindre qu'un parasol ouvert livré à lui-même.</p>"
+        },
+        {
+          "title": "4. Rangez ou couchez le parasol en cas d'alerte météo",
+          "html": "<p>Lors d'une alerte orage ou vent fort annoncée, coucher le parasol fermé au sol, voire le démonter complètement, limite le risque qu'il ne devienne un projectile pour le mobilier voisin.</p>"
+        },
+        {
+          "title": "5. Entretenez les mécanismes d'ouverture et de tilt",
+          "html": "<p>Une manivelle ou un système d'inclinaison grippé pousse souvent à forcer l'ouverture ou la fermeture, ce qui fragilise le mât sur la durée et le rend plus cassant lors d'un futur coup de vent.</p>"
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Que faire si le vent se lève pendant que vous êtes absent",
+      "html": "<p>Si vous savez à l'avance que du vent est annoncé pendant votre absence, la solution la plus sûre reste de fermer le parasol avant de partir, même pour une sortie de courte durée. Un parasol fermé, posé au sol ou simplement rabattu contre un mur, résiste à des vents nettement plus forts qu'un parasol ouvert, dont la toile continue d'agir comme une voile tant qu'elle reste tendue.</p><p>Pensez aussi à l'entretien général de vos équipements extérieurs en parallèle : un <a href=\"/conseils/comment-entretenir-efficacement-la-protection-de-votre-store-banne-exterieur\">store banne bien entretenu et correctement rétracté par vent fort</a> suit exactement la même logique de précaution que le parasol, puisque les deux équipements partagent le même risque de prise au vent lorsqu'ils restent déployés sans surveillance.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "love",
+      "title": "Un bon réflexe simple à prendre dès l'installation",
+      "html": "<p>Dès que vous installez votre parasol pour la saison, prenez l'habitude d'orienter la base vers le sens du vent dominant sur votre terrasse et de vérifier la solidité de la manivelle. Ce petit rituel de début de saison évite bien des mauvaises surprises pendant les mois d'été, quand les orages d'été arrivent souvent sans grand préavis.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "En chiffres",
+      "items": [
+        { "value": "40-50 km/h", "label": "seuil de vent à partir duquel fermer un parasol droit standard" },
+        { "value": "30-40 km/h", "label": "seuil plus bas pour un parasol déporté, plus sensible au levier" },
+        { "value": "50-80 kg", "label": "poids de base recommandé pour un parasol déporté de 3 mètres" }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "Un parasol ouvert sans surveillance est, par vent fort, l'équivalent d'une voile livrée à elle-même : ce n'est jamais une question de si, mais de quand.",
+      "author": "Recommandation courante des fabricants de mobilier de jardin"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Un parasol avec évents résiste-t-il vraiment mieux au vent ?",
+      "a_html": "<p>Oui : les évents (ouvertures ou volets dans la toile) laissent une partie de l'air s'échapper au lieu de pousser toute la surface de la toile comme une voile pleine. Cela ne rend pas le parasol invincible, mais retarde nettement le seuil de basculement par rapport à une toile pleine sans aération.</p>"
+    },
+    {
+      "q": "Peut-on ancrer un parasol directement dans le sol pour éviter d'utiliser une base lourde ?",
+      "a_html": "<p>Oui, un manchon scellé dans le sol ou dans la dalle de la terrasse offre une stabilité largement supérieure à n'importe quelle base mobile, y compris très lourde. C'est la solution recommandée pour les terrasses très exposées ou pour les grands parasols déportés utilisés à l'année.</p>"
+    },
+    {
+      "q": "Que faire si mon parasol s'est déjà tordu à cause du vent ?",
+      "a_html": "<p>Un mât légèrement plié perd en résistance de façon définitive, même redressé : mieux vaut le remplacer plutôt que de continuer à l'utiliser par vent modéré, le risque de casse complète augmentant fortement après une première déformation.</p>"
+    },
+    {
+      "q": "L'assurance habitation couvre-t-elle les dégâts causés par un parasol qui s'envole ?",
+      "a_html": "<p>Cela dépend du contrat : les dommages causés à un tiers (voiture du voisin, mobilier endommagé) peuvent relever de la garantie responsabilité civile de votre assurance habitation, tandis que le remplacement du parasol lui-même dépend des garanties « biens mobiliers » ou « tempête » souscrites. Vérifiez les conditions générales de votre contrat en cas de doute.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Entre 40 et 50 km/h de vent soutenu, la plupart des parasols de jardin passent du côté du risque, et ce seuil descend encore pour les modèles déportés ou mal lestés. La bonne habitude reste simple : surveiller les rafales annoncées, choisir une base adaptée à la taille et au type de votre parasol, et ne jamais le laisser ouvert sans surveillance. Ces quelques réflexes suffisent, dans l'immense majorité des cas, à profiter de l'ombre tout l'été sans mauvaise surprise.</p>"
+}
