@@ -1,0 +1,134 @@
+{
+  "title": "Combien de fois peut-on réutiliser une huile de friture avant de la jeter ?",
+  "meta_description": "Frites, beignets, poulet frit : combien de fois réutiliser une huile de friture sans risque, les signes qu'elle est cuite, comment la filtrer et la conserver entre deux utilisations.",
+  "reading_time_min": 7,
+  "hero_intro": "J'aimerais pouvoir garder la même huile de friture indéfiniment, mais entre le goût qui se dégrade, la fumée qui apparaît trop tôt et les composés qui se forment à la chaleur, une huile a une durée de vie bien réelle. La bonne nouvelle : avec les bons gestes, on peut la réutiliser plusieurs fois sans risque, à condition de savoir reconnaître le moment où il faut vraiment s'en débarrasser.",
+  "key_takeaways": [
+    "Une huile de friture se réutilise en moyenne 3 à 8 fois selon le type d'huile, la température utilisée et ce qui a été frit.",
+    "L'huile de tournesol raffinée ou d'arachide supporte mieux les réutilisations que l'huile d'olive ou de colza, plus sensibles à la chaleur.",
+    "Une odeur rance, une couleur très foncée, une texture visqueuse ou une fumée avant 160 °C sont les signes qu'il faut jeter l'huile immédiatement.",
+    "Filtrer l'huile après chaque friture et la conserver à l'abri de la lumière et de l'air prolonge nettement sa durée d'usage.",
+    "Frire du poisson ou des aliments panés use l'huile plus vite que des frites ou des beignets nature."
+  ],
+  "toc": [
+    "Pourquoi une huile de friture s'use à chaque utilisation",
+    "Combien de fois réutiliser son huile selon son type",
+    "Les signes qui ne trompent pas : quand jeter l'huile",
+    "Bien filtrer et conserver l'huile entre deux fritures",
+    "Ce qui use l'huile plus vite (et ce qui la préserve)",
+    "En chiffres",
+    "Que faire de l'huile usagée",
+    "Questions fréquentes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi une huile de friture s'use à chaque utilisation",
+      "html": "<p>À chaque passage dans le bain de friture, l'huile subit trois phénomènes qui l'abîment progressivement : l'oxydation au contact de l'air, l'hydrolyse au contact de l'eau relâchée par les aliments, et la polymérisation sous l'effet répété de la chaleur. Ces réactions chimiques modifient la structure des acides gras, ce qui explique pourquoi une huile réutilisée fume plus tôt, mousse davantage et transmet un goût de plus en plus prononcé aux aliments.</p><p>Ce vieillissement n'est pas qu'une question de goût : au-delà d'un certain seuil, l'huile dégradée produit des composés (aldéhydes, acroléine) qui ne sont pas bons pour la santé en grande quantité. C'est pourquoi il existe un nombre raisonnable de réutilisations à ne pas dépasser, variable selon le type d'huile et l'usage qui en est fait.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Combien de fois réutiliser son huile selon son type",
+      "intro": "Toutes les huiles ne résistent pas de la même façon à la chaleur répétée. Voici des repères par type, pour un usage domestique classique (friture à 170-180 °C).",
+      "columns": ["Type d'huile", "Nombre de réutilisations conseillé", "Particularité"],
+      "rows": [
+        ["Arachide", "6 à 8 fois", "Très stable à la chaleur, point de fumée élevé (~230 °C)"],
+        ["Tournesol raffinée / friture", "5 à 7 fois", "Bon rapport stabilité/prix, référence pour la friture domestique"],
+        ["Tournesol classique (non raffinée)", "3 à 4 fois", "S'oxyde plus vite que la version raffinée"],
+        ["Colza", "3 à 5 fois", "Correcte mais plus sensible à l'oxydation que l'arachide"],
+        ["Olive", "2 à 3 fois", "Point de fumée plus bas (~190-210 °C), à réserver aux fritures courtes"],
+        ["Huile de friture spéciale (mélange stabilisé)", "8 à 10 fois", "Formulée pour un usage professionnel répété"]
+      ],
+      "note": "Ces chiffres supposent une huile filtrée après chaque usage et conservée correctement entre deux fritures (voir plus bas)."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les signes qui ne trompent pas : quand jeter l'huile",
+      "html": "<p>Indépendamment du nombre d'utilisations, certains signes doivent faire jeter l'huile immédiatement, sans attendre : une <strong>odeur rance ou âcre</strong> à froid, une <strong>couleur très foncée</strong> proche du brun, une <strong>texture épaisse ou filante</strong>, une <strong>mousse abondante et persistante</strong> qui monte dès le début de la chauffe, ou une <strong>fumée qui apparaît avant 160 °C</strong> alors qu'elle n'en produisait pas au début. Un seul de ces signes suffit à disqualifier l'huile, même si elle n'a servi que deux ou trois fois.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Bien filtrer et conserver l'huile entre deux fritures",
+      "intro": "Quelques gestes simples après chaque friture prolongent nettement la durée de vie de l'huile.",
+      "steps": [
+        {
+          "title": "1. Laissez l'huile tiédir avant de la manipuler",
+          "html": "<p>Attendez qu'elle redescende à température ambiante ou légèrement tiède : la filtrer brûlante est dangereux et n'améliore pas le résultat.</p>"
+        },
+        {
+          "title": "2. Filtrez systématiquement les résidus",
+          "html": "<p>Passez l'huile à travers une passoire fine, un chinois ou un filtre à café pour retirer les miettes et particules brûlées : ce sont elles qui accélèrent le rancissement d'une friture à l'autre.</p>"
+        },
+        {
+          "title": "3. Conservez-la dans un contenant hermétique et opaque",
+          "html": "<p>Une bouteille ou un bidon fermé, à l'abri de la lumière (placard plutôt que plan de travail), limite fortement l'oxydation entre deux utilisations.</p>"
+        },
+        {
+          "title": "4. Gardez-la au frais, idéalement au réfrigérateur",
+          "html": "<p>Le froid ralentit les réactions d'oxydation. L'huile peut légèrement se troubler ou s'épaissir au frigo : c'est normal, elle redevient liquide en chauffant.</p>"
+        },
+        {
+          "title": "5. Notez le nombre d'utilisations",
+          "html": "<p>Une étiquette avec un simple bâton par friture évite de perdre le compte et de dépasser sans le savoir le seuil raisonnable pour le type d'huile utilisé.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Ce qui use l'huile plus vite (et ce qui la préserve)",
+      "intro": "Le nombre de réutilisations n'est qu'un repère moyen : certaines habitudes accélèrent ou ralentissent nettement la dégradation.",
+      "left": {
+        "title": "Ce qui use l'huile plus vite",
+        "points": [
+          "Frire du poisson, des aliments panés ou très salés, qui relâchent plus d'eau et de particules.",
+          "Chauffer l'huile au-delà de 180-190 °C ou la laisser fumer.",
+          "Laisser l'huile à l'air libre, non filtrée, entre deux fritures.",
+          "Ajouter régulièrement de l'huile neuve à de l'huile déjà ancienne sans jamais la renouveler entièrement."
+        ]
+      },
+      "right": {
+        "title": "Ce qui préserve l'huile",
+        "points": [
+          "Frire des aliments secs et peu salés (frites, beignets nature) à température stable.",
+          "Filtrer systématiquement après chaque usage, à chaud tiède.",
+          "Conserver au frais, dans un contenant hermétique et opaque.",
+          "Choisir une huile stable (arachide, tournesol spécial friture) si l'on fait des fritures fréquentes."
+        ]
+      }
+    },
+    {
+      "type": "stats",
+      "heading": "En chiffres",
+      "items": [
+        { "value": "5-7 fois", "label": "réutilisations moyennes pour une huile de tournesol raffinée" },
+        { "value": "180 °C", "label": "température au-delà de laquelle l'huile s'use plus vite" },
+        { "value": "160 °C", "label": "seuil de fumée anormal signalant une huile à jeter" }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Que faire de l'huile usagée",
+      "html": "<p>Une huile de friture usagée ne se jette jamais à l'évier : elle bouche les canalisations et perturbe le traitement des eaux usées. Une fois refroidie, elle se verse dans une bouteille plastique fermée puis se dépose en déchetterie ou dans un point de collecte dédié (certaines grandes surfaces en proposent). Pour la cuisine au quotidien, pensez aussi à bien entretenir votre matériel : une <a href=\"/conseils/friteuse-electrique-3-litres-choisissez-la-meilleure-pour-vos-soirees-croustillantes\">friteuse électrique adaptée</a> filtre souvent mieux et chauffe plus régulièrement qu'une casserole, ce qui limite la dégradation de l'huile. Et si les odeurs de friture s'incrustent dans la cuisine, vérifier que sa <a href=\"/conseils/hotte-cuisine-comment-reussir-son-achat\">hotte de cuisine</a> est bien dimensionnée et entretenue fait souvent toute la différence.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on mélanger une huile neuve avec une huile déjà utilisée ?",
+      "a_html": "<p>Oui, c'est une pratique courante pour compléter le niveau dans la friteuse, mais cela ne rajeunit pas l'huile ancienne : le compteur de réutilisations doit continuer à se baser sur la partie la plus ancienne du mélange.</p>"
+    },
+    {
+      "q": "L'huile de friture peut-elle rancir même sans avoir servi ?",
+      "a_html": "<p>Oui, une huile non utilisée mais mal conservée (chaleur, lumière, bouteille ouverte longtemps) peut aussi s'oxyder avec le temps, même sans être jamais passée en friteuse.</p>"
+    },
+    {
+      "q": "Le froid du réfrigérateur abîme-t-il l'huile ?",
+      "a_html": "<p>Non, au contraire : le froid ralentit l'oxydation. Un léger trouble ou épaississement au réfrigérateur est normal et disparaît dès que l'huile revient à température ambiante ou en chauffe.</p>"
+    },
+    {
+      "q": "Peut-on réutiliser une huile qui a servi à frire du poisson pour d'autres aliments ?",
+      "a_html": "<p>C'est possible mais l'odeur et le goût de poisson persistent souvent dans l'huile : mieux vaut la réserver à d'autres fritures de poisson ou de fruits de mer plutôt qu'à des beignets sucrés, par exemple.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Il n'existe pas un nombre magique valable pour toutes les huiles : entre 3 et 8 réutilisations selon le type choisi, l'essentiel est de surveiller l'odeur, la couleur et le comportement à la chauffe plutôt que de compter aveuglément. Filtrée après chaque usage et conservée au frais à l'abri de la lumière, une bonne huile de friture rend largement service avant qu'il faille s'en séparer, dans le respect à la fois du goût des plats et de la santé de toute la famille.</p>"
+}
