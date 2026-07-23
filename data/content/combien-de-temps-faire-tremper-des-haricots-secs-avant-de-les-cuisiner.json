@@ -1,0 +1,134 @@
+{
+  "title": "Combien de temps faire tremper des haricots secs avant de les cuisiner ?",
+  "meta_description": "Haricots blancs, rouges ou coco : combien d'heures de trempage prévoir avant la cuisson, la méthode rapide en cas d'oubli, et pourquoi ce trempage change vraiment la digestion et le résultat.",
+  "reading_time_min": 7,
+  "hero_intro": "J'aimerais parfois improviser un plat de haricots secs à la dernière minute, mais ce sont des légumineuses qui demandent un peu d'anticipation : sans trempage suffisant, elles cuisent mal, restent dures par endroits et deviennent plus difficiles à digérer. La bonne nouvelle, c'est qu'un trempage bien mené est simple et qu'il existe même une méthode rapide pour rattraper un oubli. Voici combien de temps prévoir selon le type de haricot, et pourquoi cette étape compte vraiment.",
+  "key_takeaways": [
+    "Comptez 8 à 12 heures de trempage pour la plupart des haricots secs (blancs, rouges, coco), idéalement une nuit entière.",
+    "Les haricots plus petits ou plus jeunes (flageolets, azuki) peuvent se contenter de 6 à 8 heures.",
+    "Sans trempage, le temps de cuisson peut doubler et le résultat reste souvent inégal, avec des grains éclatés et d'autres encore fermes.",
+    "Une méthode rapide à l'eau bouillante (trempage express d'une heure) permet de rattraper un oubli en dépannage.",
+    "Changer l'eau de trempage avant cuisson réduit les composés responsables des ballonnements et facilite la digestion."
+  ],
+  "toc": [
+    "Pourquoi le trempage n'est pas une étape facultative",
+    "Combien de temps tremper selon le type de haricot",
+    "La bonne méthode de trempage, étape par étape",
+    "Pas eu le temps ? La méthode de trempage express",
+    "Trempage long ou court : ce que ça change vraiment",
+    "En chiffres",
+    "Que faire de l'eau de trempage",
+    "Questions fréquentes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi le trempage n'est pas une étape facultative",
+      "html": "<p>Un haricot sec a perdu presque toute son eau lors du séchage, et sa structure amidonnée s'est resserrée. Le trempage réhydrate progressivement le grain de l'intérieur, ce qui permet ensuite à la chaleur de cuisson de pénétrer uniformément. Sans cette étape, l'eau de cuisson peine à atteindre le cœur du grain avant que l'extérieur ne se délite : résultat, des haricots à la fois trop cuits en surface et encore durs au centre, et un temps de cuisson qui peut doubler, voire tripler selon le type de haricot.</p><p>Le trempage joue aussi un rôle sur la digestibilité : il permet de dissoudre une partie des oligosaccharides (des sucres complexes) responsables des ballonnements souvent associés aux légumineuses, surtout lorsque l'eau de trempage est ensuite jetée et remplacée par une eau de cuisson neuve.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Combien de temps tremper selon le type de haricot",
+      "intro": "Des repères de trempage à l'eau froide, à température ambiante, pour les légumineuses sèches les plus courantes.",
+      "columns": ["Type de haricot sec", "Temps de trempage conseillé", "Temps de cuisson après trempage"],
+      "rows": [
+        ["Haricots blancs (lingots, cocos)", "8 à 12 heures", "45 à 60 min à la casserole, 15-20 min à l'autocuiseur"],
+        ["Haricots rouges", "10 à 12 heures", "45 à 60 min à la casserole (toujours bien cuits, jamais al dente)"],
+        ["Haricots noirs", "8 à 10 heures", "45 à 60 min à la casserole"],
+        ["Flageolets", "6 à 8 heures", "40 à 50 min à la casserole"],
+        ["Azuki (haricots rouges asiatiques)", "6 à 8 heures", "40 à 45 min à la casserole"],
+        ["Pois chiches (pour comparaison)", "10 à 12 heures", "60 à 90 min à la casserole, 20-25 min à l'autocuiseur"]
+      ],
+      "note": "Un trempage trop court n'est jamais dangereux, seulement moins efficace : mieux vaut tremper un peu plus longtemps que pas assez si l'horaire le permet."
+    },
+    {
+      "type": "steps",
+      "heading": "La bonne méthode de trempage, étape par étape",
+      "intro": "Un trempage réussi se prépare la veille pour une cuisson le lendemain.",
+      "steps": [
+        {
+          "title": "1. Triez et rincez les haricots secs",
+          "html": "<p>Éliminez les petits cailloux ou grains abîmés parfois présents dans les sachets, puis rincez à l'eau claire.</p>"
+        },
+        {
+          "title": "2. Couvrez largement d'eau froide",
+          "html": "<p>Comptez au moins 3 fois le volume d'eau par rapport aux haricots : ils vont gonfler et doubler, voire tripler de volume en absorbant l'eau.</p>"
+        },
+        {
+          "title": "3. Laissez tremper à température ambiante ou au réfrigérateur",
+          "html": "<p>8 à 12 heures suffisent pour la plupart des variétés ; au réfrigérateur en été pour éviter tout début de fermentation si la pièce est chaude.</p>"
+        },
+        {
+          "title": "4. Égouttez et rincez avant cuisson",
+          "html": "<p>Jetez systématiquement l'eau de trempage et rincez les haricots à l'eau claire : c'est cette étape qui réduit le plus les composés responsables des ballonnements.</p>"
+        },
+        {
+          "title": "5. Démarrez la cuisson à l'eau froide non salée",
+          "html": "<p>Couvrez à nouveau largement d'eau, portez à ébullition puis laissez frémir ; salez seulement en fin de cuisson, le sel en début de cuisson ralentit l'attendrissement de la peau.</p>"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Pas eu le temps ? La méthode de trempage express",
+      "html": "<p>Si vous avez oublié de faire tremper vos haricots la veille, une méthode de dépannage existe : couvrez-les largement d'eau froide, portez à ébullition pendant 2 minutes, puis coupez le feu et laissez reposer <strong>1 heure à couvert</strong>. Ce choc thermique reproduit une bonne partie de l'effet d'un trempage long. Égouttez, rincez, puis lancez la cuisson normalement : le résultat est légèrement moins homogène qu'avec un trempage d'une nuit, mais largement suffisant pour un plat du quotidien.</p>"
+    },
+    {
+      "type": "comparison",
+      "heading": "Trempage long ou court : ce que ça change vraiment",
+      "intro": "Le temps de trempage influence surtout la régularité de cuisson et la digestibilité, pas la sécurité alimentaire.",
+      "left": {
+        "title": "Trempage long (nuit entière)",
+        "points": [
+          "Cuisson plus rapide et plus régulière, grains entiers et fondants.",
+          "Meilleure élimination des sucres responsables des ballonnements.",
+          "Idéal pour les plats mijotés (cassoulet, chili, potées) où la texture compte.",
+          "Demande simplement un peu d'anticipation la veille."
+        ]
+      },
+      "right": {
+        "title": "Trempage court ou express",
+        "points": [
+          "Cuisson plus longue et résultat parfois moins homogène.",
+          "Digestibilité un peu moindre si l'eau n'est pas bien changée.",
+          "Utile en dépannage pour un repas improvisé.",
+          "Convient très bien aux préparations mixées (purées, soupes) où la texture importe moins."
+        ]
+      }
+    },
+    {
+      "type": "stats",
+      "heading": "En chiffres",
+      "items": [
+        { "value": "8-12 h", "label": "trempage conseillé pour la plupart des haricots secs" },
+        { "value": "x2 à x3", "label": "volume que prennent les haricots en trempant" },
+        { "value": "1 h", "label": "durée de la méthode de trempage express en cas d'oubli" }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Que faire de l'eau de trempage",
+      "html": "<p>L'eau de trempage ne se réutilise jamais pour la cuisson : elle contient les sucres et composés relargués par les haricots, responsables d'une partie des inconforts digestifs, ainsi que d'éventuelles impuretés du sachet. Elle se jette simplement à l'évier, sans risque particulier pour les canalisations, contrairement à une huile de friture usagée. Une fois vos haricots cuits, s'ils sont en trop grande quantité pour un seul repas, ils se congèlent très bien une fois refroidis, sur le même principe que <a href=\"/conseils/comment-congeler-des-haricots-blancs-frais-efficacement\">la congélation des haricots blancs frais</a> ou <a href=\"/conseils/comment-congeler-des-haricots-verts-pour-en-profiter-toute-lannee\">celle des haricots verts</a>. Et pour les autres féculents du quotidien, pensez à vérifier aussi <a href=\"/conseils/combien-de-temps-conserver-du-riz-cuit-au-refrigerateur\">combien de temps conserver du riz cuit au réfrigérateur</a> sans risque, une question tout aussi utile en cuisine de tous les jours.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on faire tremper les haricots secs trop longtemps ?",
+      "a_html": "<p>Au-delà de 24 heures à température ambiante, un début de fermentation peut apparaître, surtout par temps chaud : mieux vaut alors tremper au réfrigérateur ou ne pas dépasser 12 à 14 heures à température ambiante.</p>"
+    },
+    {
+      "q": "Faut-il saler l'eau de trempage ?",
+      "a_html": "<p>Non, ce n'est pas nécessaire : le sel n'apporte rien à l'étape du trempage et sera de toute façon ajouté en fin de cuisson, jamais au début.</p>"
+    },
+    {
+      "q": "Les lentilles ont-elles besoin du même trempage que les haricots ?",
+      "a_html": "<p>Non, les lentilles n'ont généralement pas besoin de trempage préalable grâce à leur peau plus fine, contrairement aux haricots secs et aux pois chiches qui en profitent nettement.</p>"
+    },
+    {
+      "q": "Peut-on utiliser des haricots en conserve pour éviter le trempage ?",
+      "a_html": "<p>Oui, les haricots en conserve sont déjà cuits et prêts à l'emploi : c'est une bonne alternative de dépannage, à condition de bien les rincer avant utilisation pour retirer le liquide de conservation.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Compter 8 à 12 heures de trempage pour la plupart des haricots secs reste la règle la plus fiable pour une cuisson régulière et une meilleure digestion, avec la méthode express en solution de dépannage si l'anticipation a manqué. Cette étape simple, souvent négligée, fait une vraie différence entre un plat de légumineuses réussi et un résultat inégal, pour un coût en temps de préparation finalement très faible.</p>"
+}
