@@ -1,0 +1,115 @@
+{
+  "title": "À partir de quel âge peut-on légalement laisser un enfant seul à la maison ?",
+  "meta_description": "Aucun âge légal minimum n'existe en France, mais la loi engage votre responsabilité. Repères par âge, textes applicables et checklist pour savoir quand et comment laisser un enfant seul.",
+  "reading_time_min": 9,
+  "hero_intro": "J'aimerais avoir une réponse simple à donner : « à partir de tel âge, c'est autorisé ». Mais la réalité est plus nuancée, car la loi française ne fixe aucun âge minimum précis pour laisser un enfant seul à la maison. Ce silence du droit ne veut pas dire que tout est permis : en tant que parent, vous restez responsable de la sécurité de votre enfant, et un mauvais choix peut avoir des conséquences civiles, voire pénales. Voici ce que dit réellement la loi, les repères d'âge recommandés par les professionnels de l'enfance, et comment préparer une première fois sereinement.",
+  "key_takeaways": [
+    "Il n'existe aucun âge légal minimum en France pour laisser un enfant seul à la maison : c'est à l'appréciation des parents, sous leur responsabilité.",
+    "Deux notions juridiques encadrent indirectement la pratique : l'autorité parentale (article 371-1 du Code civil) et le délaissement de mineur (article 227-1 du Code pénal), qui vise l'abandon d'un enfant hors d'état de se protéger.",
+    "Les pédopsychiatres et la CAF recommandent d'attendre 8-9 ans pour quelques minutes, 10-11 ans pour 1 à 2 heures en journée, et 13-14 ans pour une soirée ou une nuit occasionnelle.",
+    "La maturité de l'enfant compte plus que son âge civil : capacité à gérer un imprévu, à contacter un adulte, à respecter des consignes de sécurité.",
+    "Votre assurance habitation couvre en principe la responsabilité civile même lorsque l'enfant est seul, mais mieux vaut vérifier les exclusions de votre contrat avant de vous absenter longtemps."
+  ],
+  "toc": [
+    "Ce que dit (et ne dit pas) la loi française",
+    "Les repères d'âge recommandés par les professionnels",
+    "Les critères qui comptent plus que l'âge",
+    "Préparer une première fois seul à la maison",
+    "En chiffres",
+    "Ce que couvre (ou pas) votre assurance habitation",
+    "Questions fréquentes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Ce que dit (et ne dit pas) la loi française",
+      "html": "<p>Contrairement à une idée répandue, aucun texte de loi français ne fixe d'âge minimum pour laisser un enfant seul au domicile, que ce soit quelques minutes ou une soirée entière. Il n'existe pas non plus de seuil légal pour laisser un enfant garder ses frères et sœurs plus jeunes. Cette absence de règle chiffrée s'explique par le principe même de l'autorité parentale : l'article 371-1 du Code civil confie aux parents la mission de protéger la sécurité, la santé et la moralité de leur enfant, et leur laisse la responsabilité d'apprécier, au cas par cas, ce qui est raisonnable.</p><p>Ce vide juridique ne signifie pas une absence de risque. Deux notions peuvent être mobilisées a posteriori, en cas d'accident : le <strong>défaut de surveillance</strong>, qui engage la responsabilité civile des parents si un tiers ou l'enfant lui-même subit un préjudice évitable, et le <strong>délaissement de mineur</strong> (article 227-1 du Code pénal), qui sanctionne le fait d'abandonner un enfant hors d'état de se protéger lui-même, dans un lieu quelconque. Ce dernier délit vise avant tout les cas d'abandon caractérisé de jeunes enfants et non le fait de laisser un adolescent autonome une heure pour aller faire une course : l'appréciation se fait toujours en fonction de l'âge, de la durée et des circonstances concrètes.</p>"
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Bon à savoir",
+      "html": "<p>La loi ne distingue pas selon qu'il s'agit d'un enfant que vous confiez à un babysitter ou de votre propre enfant laissé seul : c'est l'appréciation du risque encouru, pas un âge chiffré, qui détermine si votre responsabilité peut être engagée en cas de problème.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Les repères d'âge recommandés par les professionnels",
+      "intro": "Ces repères, issus des recommandations de pédopsychiatres et de la Caisse d'allocations familiales, ne sont pas des seuils légaux mais des ordres de grandeur à adapter à la maturité réelle de votre enfant.",
+      "columns": ["Âge de l'enfant", "Durée raisonnable seul", "Recommandations"],
+      "rows": [
+        ["Moins de 6-7 ans", "Jamais seul, même quelques minutes", "Un jeune enfant ne sait pas encore réagir seul à un imprévu (chute, sonnette, feu)."],
+        ["7-8 ans", "Quelques minutes maximum", "Le temps d'aller à la boîte aux lettres ou de sortir une poubelle, enfant informé et joignable."],
+        ["9-11 ans", "1 à 2 heures en journée", "Consignes claires, numéros d'urgence accessibles, pas de manipulation d'objets dangereux."],
+        ["12-13 ans", "Une demi-journée, jamais la nuit", "L'enfant peut préparer un repas simple et gérer un imprévu mineur seul."],
+        ["14-15 ans", "Une soirée, une nuit ponctuelle", "Autonomie réelle possible, avec un adulte joignable et si possible un voisin de confiance."],
+        ["16 ans et plus", "Plusieurs jours ponctuels", "Proche de l'autonomie légale ; encadrement allégé selon la maturité et l'expérience."]
+      ],
+      "note": "Ces durées supposent un logement sécurisé, sans risque particulier identifié (piscine, escalier dangereux, produits toxiques accessibles)."
+    },
+    {
+      "type": "prose",
+      "heading": "Les critères qui comptent plus que l'âge",
+      "html": "<p>L'âge civil n'est qu'un indicateur parmi d'autres. Deux enfants du même âge peuvent avoir des niveaux de maturité très différents. Avant de laisser votre enfant seul, mieux vaut évaluer concrètement : sait-il utiliser un téléphone pour appeler un adulte de confiance ou les secours (15, 17, 18 ou le 112 européen) ? Comprend-il les consignes de sécurité de base (ne pas ouvrir la porte à un inconnu, ne pas utiliser la cuisinière sans autorisation, ne pas se pencher aux fenêtres) ? A-t-il déjà géré seul de petits imprévus sans paniquer ? Se sent-il lui-même à l'aise à l'idée de rester seul, ou exprime-t-il une réelle inquiétude ?</p><p>La configuration du logement compte également : un appartement en étage avec fenêtres sécurisées ne présente pas les mêmes risques qu'une maison avec piscine ou un accès direct à une route. Si vous vous posez la même question pour un animal de compagnie, l'article sur <a href=\"/conseils/combien-de-temps-un-chat-peut-il-rester-seul-a-la-maison-sans-probleme\">combien de temps un chat peut rester seul à la maison</a> aborde une logique similaire d'adaptation à l'autonomie réelle plutôt qu'à une règle unique.</p>"
+    },
+    {
+      "type": "steps",
+      "heading": "Préparer une première fois seul à la maison",
+      "intro": "Quelques étapes simples pour que cette première expérience se passe bien, pour l'enfant comme pour vous.",
+      "steps": [
+        {
+          "title": "1. Commencez par de très courtes durées",
+          "html": "<p>Une première absence de 15 à 30 minutes, à proximité, permet de tester la réaction de l'enfant avant d'allonger progressivement la durée.</p>"
+        },
+        {
+          "title": "2. Affichez les numéros utiles bien en vue",
+          "html": "<p>Le 15 (SAMU), le 18 (pompiers), le 17 (police) ou le 112, ainsi que votre numéro et celui d'un voisin de confiance, notés près du téléphone.</p>"
+        },
+        {
+          "title": "3. Fixez des règles claires et limitées",
+          "html": "<p>Ne pas ouvrir la porte, ne pas utiliser certains appareils (cuisinière, four, outils), ne pas quitter le logement : mieux vaut peu de règles bien comprises qu'une longue liste oubliée.</p>"
+        },
+        {
+          "title": "4. Sécurisez le logement au préalable",
+          "html": "<p>Vérifiez que les fenêtres, les produits ménagers et les objets dangereux sont hors de portée, et que <a href=\"/conseils/comment-savoir-si-une-prise-electrique-est-aux-normes\">les prises électriques du logement sont bien aux normes</a>.</p>"
+        },
+        {
+          "title": "5. Prévoyez un contact joignable en continu",
+          "html": "<p>Restez disponible par téléphone pendant toute la durée de l'absence, et convenez d'un moment où l'enfant vous appelle pour se rassurer.</p>"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "heading": "En chiffres",
+      "items": [
+        { "value": "0", "label": "âge légal minimum fixé par la loi française pour laisser un enfant seul" },
+        { "value": "7 ans", "label": "prison encourue en cas de délaissement caractérisé d'un mineur (art. 227-1 du Code pénal)" },
+        { "value": "9-11 ans", "label": "âge généralement recommandé pour une première absence de 1 à 2 heures en journée" }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Ce que couvre (ou pas) votre assurance habitation",
+      "html": "<p>La responsabilité civile incluse dans un contrat d'assurance habitation classique couvre en principe les dommages que votre enfant pourrait causer à un tiers, y compris lorsqu'il est seul au domicile, dans les conditions habituelles du contrat. Elle ne dispense toutefois pas d'une vigilance minimale : en cas de négligence manifeste (enfant très jeune laissé seul plusieurs jours, absence de toute consigne de sécurité), un assureur peut chercher à limiter sa garantie en invoquant une faute caractérisée des parents. Avant une absence prolongée, il peut être utile de relire les garanties de <a href=\"/conseils/assurance-habitation-responsabilite\">votre assurance habitation avec responsabilité civile incluse</a> pour savoir précisément ce qui est couvert et dans quelles limites.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on être poursuivi pour avoir laissé son enfant seul à la maison ?",
+      "a_html": "<p>En théorie oui, si les circonstances révèlent une mise en danger caractérisée (enfant très jeune, durée excessive, absence de toute précaution). En pratique, laisser un enfant suffisamment mature seul pour une durée raisonnable, avec des consignes claires, n'expose pas les parents à des poursuites.</p>"
+    },
+    {
+      "q": "Un enfant de 10 ans peut-il garder son petit frère ou sa petite sœur ?",
+      "a_html": "<p>Rien ne l'interdit légalement, mais les professionnels de l'enfance déconseillent de confier une réelle responsabilité de garde à un enfant avant 13-14 ans, et jamais pour de longues durées ou en cas d'urgence potentielle.</p>"
+    },
+    {
+      "q": "À partir de quel âge un adolescent peut-il rester seul plusieurs jours (vacances) ?",
+      "a_html": "<p>Il n'y a pas d'âge légal, mais cette autonomie prolongée est généralement envisagée à partir de 15-16 ans, avec un adulte de confiance joignable et, idéalement, un passage régulier d'un proche ou d'un voisin.</p>"
+    },
+    {
+      "q": "Que faire si l'enfant refuse de rester seul malgré son âge ?",
+      "a_html": "<p>Il faut respecter ce ressenti : la maturité émotionnelle ne se décrète pas à un âge donné. Mieux vaut prolonger une période d'accompagnement progressif plutôt que d'imposer une autonomie que l'enfant ne se sent pas prêt à assumer.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Aucune loi ne vous dira à quel âge précis laisser votre enfant seul à la maison : la décision vous appartient, à charge pour vous d'évaluer sa maturité réelle plutôt que son âge civil. En suivant les repères des professionnels de l'enfance, en sécurisant le logement et en avançant par étapes progressives, vous transformez cette étape redoutée en une expérience d'autonomie positive, pour l'enfant comme pour vous.</p>"
+}

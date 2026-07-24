@@ -1,0 +1,133 @@
+{
+  "title": "Combien de temps peut-on congeler du pain sans qu'il perde son moelleux ?",
+  "meta_description": "Baguette, pain de mie ou pain de campagne : durée de congélation idéale, méthode pour éviter le pain sec au dégel, et astuces pour retrouver un pain aussi bon qu'au sortir du four.",
+  "reading_time_min": 7,
+  "hero_intro": "J'aimerais ne plus jamais jeter la moitié d'une baguette devenue dure du jour au lendemain. Bonne nouvelle : le pain est l'un des aliments qui se congèle le mieux, à condition de respecter quelques règles simples. Mal congelé ou trop longtemps stocké, il ressort sec, friable ou avec un goût de « congélateur ». Voici combien de temps garder du pain au congélateur sans perte de qualité, et la bonne méthode pour qu'il retrouve tout son moelleux une fois décongelé.",
+  "key_takeaways": [
+    "Le pain se conserve 2 à 3 mois au congélateur sans perte notable de qualité, au-delà il devient progressivement plus sec en bouche.",
+    "La congélation doit se faire le plus tôt possible après l'achat, idéalement le jour même, pour figer un maximum de moelleux.",
+    "Un pain bien emballé (sac hermétique, air chassé) résiste bien mieux au froid qu'un pain simplement posé au congélateur.",
+    "La décongélation lente à température ambiante donne de meilleurs résultats que le micro-ondes, qui dessèche vite la mie.",
+    "Un passage de quelques minutes au four après décongélation redonne au pain son croustillant d'origine, presque comme frais."
+  ],
+  "toc": [
+    "Pourquoi le pain se congèle si bien",
+    "Combien de temps selon le type de pain",
+    "La bonne méthode pour congeler du pain",
+    "Décongeler sans le dessécher",
+    "En chiffres",
+    "Les erreurs qui rendent le pain sec ou fade",
+    "Questions fréquentes"
+  ],
+  "sections": [
+    {
+      "type": "prose",
+      "heading": "Pourquoi le pain se congèle si bien",
+      "html": "<p>Le pain vieillit vite à température ambiante à cause d'un phénomène appelé rétrogradation de l'amidon : les molécules d'amidon, gélifiées à la cuisson, se réorganisent progressivement en refroidissant et durcissent la mie. C'est ce qui explique qu'une baguette perde son moelleux en quelques heures seulement. Le froid du congélateur (autour de -18°C) ralentit fortement ce phénomène en figeant la structure de l'amidon avant qu'il ne se rétrograde massivement, contrairement au réfrigérateur qui, à l'inverse, accélère le rassissement du pain et doit donc être évité pour cet usage.</p><p>C'est pourquoi un pain congelé rapidement après l'achat, puis correctement décongelé, retrouve des qualités très proches du pain frais, alors qu'un pain simplement laissé à l'air libre une journée sera déjà nettement plus sec.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Combien de temps selon le type de pain",
+      "intro": "Des repères de durée selon le format et la composition du pain, pour un résultat optimal une fois décongelé.",
+      "columns": ["Type de pain", "Durée de congélation optimale", "Durée maximale acceptable"],
+      "rows": [
+        ["Baguette classique", "1 à 2 mois", "3 mois"],
+        ["Pain de campagne ou pain au levain", "2 à 3 mois", "4 mois"],
+        ["Pain de mie industriel", "2 à 3 mois", "4 à 5 mois"],
+        ["Pain viennois, brioché", "1 mois", "2 mois"],
+        ["Pain tranché en portions individuelles", "2 mois", "3 mois"],
+        ["Petits pains, pains à burger", "1 à 2 mois", "3 mois"]
+      ],
+      "note": "Au-delà de ces durées, le pain reste comestible mais perd en moelleux et peut développer un léger goût de congélateur, surtout mal emballé."
+    },
+    {
+      "type": "steps",
+      "heading": "La bonne méthode pour congeler du pain",
+      "intro": "Quelques gestes simples font toute la différence sur la qualité du pain une fois décongelé.",
+      "steps": [
+        {
+          "title": "1. Congelez le pain le plus frais possible",
+          "html": "<p>Idéalement le jour de l'achat ou de la cuisson : plus le pain est frais au moment de la congélation, plus il conservera de moelleux au dégel.</p>"
+        },
+        {
+          "title": "2. Coupez-le en portions avant congélation",
+          "html": "<p>Tranches, demi-baguette ou portions individuelles permettent de ne décongeler que la quantité nécessaire, sans recongeler le reste.</p>"
+        },
+        {
+          "title": "3. Emballez hermétiquement en chassant l'air",
+          "html": "<p>Un sac de congélation refermable ou du film alimentaire serré protège le pain des brûlures de congélation, qui dessèchent la surface au contact de l'air froid.</p>"
+        },
+        {
+          "title": "4. Datez le sac ou le contenant",
+          "html": "<p>Une simple étiquette avec la date évite d'oublier un pain au fond du congélateur bien au-delà de la durée optimale.</p>"
+        },
+        {
+          "title": "5. Placez-le à plat pour une congélation rapide",
+          "html": "<p>Un pain qui congèle vite forme des cristaux de glace plus petits, ce qui abîme moins la structure de la mie qu'une congélation lente.</p>"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "heading": "Décongeler sans le dessécher",
+      "intro": "Deux méthodes courantes, avec des résultats très différents sur le moelleux final.",
+      "left": {
+        "title": "Décongélation lente à température ambiante",
+        "points": [
+          "1 à 3 heures selon la taille de la portion, hors de son emballage plastique pour éviter la condensation.",
+          "Préserve le mieux l'humidité interne de la mie.",
+          "Idéal si vous savez à l'avance quand vous consommerez le pain.",
+          "À finir par quelques minutes au four (180°C) pour retrouver une croûte croustillante."
+        ]
+      },
+      "right": {
+        "title": "Décongélation rapide au micro-ondes",
+        "points": [
+          "Quelques dizaines de secondes suffisent, pratique en dépannage.",
+          "Assèche rapidement la mie si la puissance ou le temps est excessif.",
+          "Le pain redurcit souvent très vite après ce passage.",
+          "À réserver aux urgences, jamais en méthode de première intention."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon conseil",
+      "html": "<p>Pour une baguette presque comme fraîche, passez-la congelée directement au four à 180°C pendant 8 à 10 minutes, sans décongélation préalable : la vapeur d'eau interne recrée une croûte croustillante et une mie moelleuse, un résultat souvent meilleur qu'après une décongélation à l'air libre.</p>"
+    },
+    {
+      "type": "stats",
+      "heading": "En chiffres",
+      "items": [
+        { "value": "2-3 mois", "label": "durée de congélation optimale pour la plupart des pains" },
+        { "value": "-18 °C", "label": "température de congélateur recommandée pour ralentir le rassissement" },
+        { "value": "8-10 min", "label": "temps de four à 180°C pour retrouver du pain congelé un résultat proche du frais" }
+      ]
+    },
+    {
+      "type": "prose",
+      "heading": "Les erreurs qui rendent le pain sec ou fade",
+      "html": "<p>La principale erreur consiste à congeler un pain déjà entamé depuis plusieurs heures, voire la veille : le rassissement a déjà commencé et la congélation ne fait que le figer, sans l'inverser. Deuxième erreur fréquente, un emballage trop lâche ou percé, qui expose le pain à l'air sec du congélateur et provoque des « brûlures de congélation » reconnaissables à des taches blanchâtres et une texture spongieuse désagréable. Enfin, recongeler un pain déjà décongelé accélère fortement sa dégradation et n'est pas recommandé pour la texture, même si cela reste sans risque sanitaire particulier.</p><p>Cette logique de congélation rapide et bien emballée vaut pour de nombreux aliments : c'est la même règle qui s'applique par exemple pour <a href=\"/conseils/comment-congeler-des-crepes-pour-les-conserver-facilement\">congeler des crêpes</a> ou pour la <a href=\"/conseils/congelation-du-poulet-combien-de-temps-peut-on-le-conserver\">congélation du poulet</a>, où la vitesse de congélation et la qualité de l'emballage font toute la différence sur le résultat final. Si vous cuisinez en avance pour la semaine, l'article sur <a href=\"/conseils/combien-de-temps-conserver-du-riz-cuit-au-refrigerateur\">la durée de conservation du riz cuit au réfrigérateur</a> complète utilement cette organisation anti-gaspillage.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Peut-on congeler du pain déjà tranché en pain de mie ?",
+      "a_html": "<p>Oui, c'est même l'un des pains qui se prête le mieux à la congélation grâce à sa texture plus grasse et moins sujette au dessèchement. Il suffit de le laisser dans son emballage d'origine ou de le regrouper par tranches dans un sac hermétique.</p>"
+    },
+    {
+      "q": "Le pain congelé est-il aussi bon qu'un pain frais ?",
+      "a_html": "<p>Bien congelé et correctement réchauffé au four, un pain congelé s'en approche fortement, surtout dans les deux premiers mois. Au-delà, la différence de moelleux devient plus perceptible, sans que le pain devienne impropre à la consommation.</p>"
+    },
+    {
+      "q": "Peut-on congeler du pain qui commence déjà à durcir ?",
+      "a_html": "<p>Oui, mais le résultat sera moins satisfaisant qu'avec un pain frais : la congélation fige l'état du pain au moment où elle est faite, elle ne lui redonne pas de moelleux perdu avant congélation.</p>"
+    },
+    {
+      "q": "Faut-il envelopper le pain dans du papier aluminium ou un sac plastique ?",
+      "a_html": "<p>Un sac de congélation hermétique, avec le plus d'air possible chassé, protège mieux contre le dessèchement qu'une simple feuille d'aluminium, qui laisse davantage passer l'air froid et sec du congélateur.</p>"
+    }
+  ],
+  "conclusion_html": "<p>Congelé rapidement, bien emballé et consommé dans les 2 à 3 mois, le pain garde une qualité très proche du frais, à condition de le réchauffer quelques minutes au four plutôt qu'au micro-ondes. De quoi arrêter de jeter la moitié d'une baguette et profiter d'un pain moelleux à la demande, sans faire de compromis sur le goût.</p>"
+}
